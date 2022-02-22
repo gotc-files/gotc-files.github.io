@@ -1,0 +1,325 @@
+{
+  "description": "Armory collection information",
+  "values": [
+    {
+      "bonus_1_name": "armcol_events_Aftermath_1",
+      "bonus_2_name": "armcol_events_Aftermath_2",
+      "bonus_3_name": "armcol_events_Aftermath_3",
+      "gear_set_name": "gearset_events_Aftermath",
+      "id": "ef12b50a186692b7",
+      "name": "armcol_events_Aftermath",
+      "name_placeholder": "EQ_EVENTS_AFTERMATH_SET_NAME",
+      "priority": 300
+    },
+    {
+      "bonus_1_name": "armcol_events_FalconKnight_1",
+      "bonus_2_name": "armcol_events_FalconKnight_2",
+      "bonus_3_name": "armcol_events_FalconKnight_3",
+      "gear_set_name": "gearset_events_FalconKnight",
+      "id": "ed3d93ca1396ceb1",
+      "name": "armcol_events_FalconKnight",
+      "name_placeholder": "EQ_EVENTS_FALCONKNIGHT_SET_NAME",
+      "priority": 900
+    },
+    {
+      "bonus_1_name": "armcol_events_Foundations_1",
+      "bonus_2_name": "armcol_events_Foundations_2",
+      "bonus_3_name": "armcol_events_Foundations_3",
+      "gear_set_name": "gearset_events_Foundations",
+      "id": "8d838d7dd3e78e0f",
+      "name": "armcol_events_Foundations",
+      "name_placeholder": "EQ_EVENTS_FOUNDATIONS_SET_NAME",
+      "priority": 1500
+    },
+    {
+      "bonus_1_name": "armcol_events_Kingsguard_1",
+      "bonus_2_name": "armcol_events_Kingsguard_2",
+      "bonus_3_name": "armcol_events_Kingsguard_3",
+      "gear_set_name": "gearset_events_Kingsguard",
+      "id": "f61772d1b88af65f",
+      "name": "armcol_events_Kingsguard",
+      "name_placeholder": "EQ_EVENTS_KINGSGUARD_SET_NAME",
+      "priority": 2100
+    },
+    {
+      "bonus_1_name": "armcol_events_Conqueror_1",
+      "bonus_2_name": "armcol_events_Conqueror_2",
+      "bonus_3_name": "armcol_events_Conqueror_3",
+      "gear_set_name": "gearset_events_Conqueror",
+      "id": "fdb39850623f8ee5",
+      "name": "armcol_events_Conqueror",
+      "name_placeholder": "EQ_EVENTS_CONQUEROR_SET_NAME",
+      "priority": 2700
+    },
+    {
+      "bonus_1_name": "armcol_events_Tyrell_1",
+      "bonus_2_name": "armcol_events_Tyrell_2",
+      "bonus_3_name": "armcol_events_Tyrell_3",
+      "gear_set_name": "gearset_events_Tyrell",
+      "id": "8ca495f23a35937f",
+      "name": "armcol_events_Tyrell",
+      "name_placeholder": "EQ_EVENTS_TYRELL_SET_NAME",
+      "priority": 3300
+    },
+    {
+      "bonus_1_name": "armcol_events_Baelish_1",
+      "bonus_2_name": "armcol_events_Baelish_2",
+      "bonus_3_name": "armcol_events_Baelish_3",
+      "gear_set_name": "gearset_events_Baelish",
+      "id": "84c45a6c4eb108d3",
+      "name": "armcol_events_Baelish",
+      "name_placeholder": "EQ_EVENTS_BAELISH_SET_NAME",
+      "priority": 3900
+    },
+    {
+      "bonus_1_name": "armcol_events_PurpleWedding_1",
+      "bonus_2_name": "armcol_events_PurpleWedding_2",
+      "bonus_3_name": "armcol_events_PurpleWedding_3",
+      "gear_set_name": "gearset_events_PurpleWedding",
+      "id": "49f01d195f103882",
+      "name": "armcol_events_PurpleWedding",
+      "name_placeholder": "EQ_EVENTS_PURPLEWEDDING_SET_NAME",
+      "priority": 4500
+    },
+    {
+      "bonus_1_name": "armcol_events_faceless_1",
+      "bonus_2_name": "armcol_events_faceless_2",
+      "bonus_3_name": "armcol_events_faceless_3",
+      "gear_set_name": "gearset_events_faceless",
+      "id": "6501821e95c67ff2",
+      "name": "armcol_events_faceless",
+      "name_placeholder": "EQ_EVENTS_FACELESS_SET_NAME",
+      "priority": 5100
+    },
+    {
+      "bonus_1_name": "armcol_events_dragonkeeper_1",
+      "bonus_2_name": "armcol_events_dragonkeeper_2",
+      "bonus_3_name": "armcol_events_dragonkeeper_3",
+      "gear_set_name": "gearset_events_dragonkeeper",
+      "id": "257b0b06d9c2c0b6",
+      "name": "armcol_events_dragonkeeper",
+      "name_placeholder": "EQ_EVENTS_DRAGONKEEPER_SET_NAME",
+      "priority": 5700
+    },
+    {
+      "bonus_1_name": "armcol_events_brothers_1",
+      "bonus_2_name": "armcol_events_brothers_2",
+      "bonus_3_name": "armcol_events_brothers_3",
+      "gear_set_name": "gearset_events_brothers",
+      "id": "ceef1b7d4278a614",
+      "name": "armcol_events_brothers",
+      "name_placeholder": "EQ_EVENTS_BROTHERS_SET_NAME",
+      "priority": 6300
+    },
+    {
+      "bonus_1_name": "armcol_events_tyrion_1",
+      "bonus_2_name": "armcol_events_tyrion_2",
+      "bonus_3_name": "armcol_events_tyrion_3",
+      "gear_set_name": "gearset_events_tyrion",
+      "id": "80f9c36e550d03b0",
+      "name": "armcol_events_tyrion",
+      "name_placeholder": "EQ_EVENTS_TYRION_SET_NAME",
+      "priority": 6900
+    },
+    {
+      "bonus_1_name": "armcol_events_baratheon_1",
+      "bonus_2_name": "armcol_events_baratheon_2",
+      "bonus_3_name": "armcol_events_baratheon_3",
+      "gear_set_name": "gearset_events_baratheon",
+      "id": "f34427bdf08e8735",
+      "name": "armcol_events_baratheon",
+      "name_placeholder": "EQ_EVENTS_BARATHEON_SET_NAME",
+      "priority": 7500
+    },
+    {
+      "bonus_1_name": "armcol_events_martell_1",
+      "bonus_2_name": "armcol_events_martell_2",
+      "bonus_3_name": "armcol_events_martell_3",
+      "gear_set_name": "gearset_events_martell",
+      "id": "a01becd2448e40f9",
+      "name": "armcol_events_martell",
+      "name_placeholder": "EQ_EVENTS_MARTELL_SET_NAME",
+      "priority": 8100
+    },
+    {
+      "bonus_1_name": "armcol_events_oldnan_1",
+      "bonus_2_name": "armcol_events_oldnan_2",
+      "bonus_3_name": "armcol_events_oldnan_3",
+      "gear_set_name": "gearset_events_oldnan",
+      "id": "93ab014c5868321a",
+      "name": "armcol_events_oldnan",
+      "name_placeholder": "EQ_EVENTS_OLDNAN_SET_NAME",
+      "priority": 8700
+    },
+    {
+      "bonus_1_name": "armcol_events_rattleshirt_1",
+      "bonus_2_name": "armcol_events_rattleshirt_2",
+      "bonus_3_name": "armcol_events_rattleshirt_3",
+      "gear_set_name": "gearset_events_rattleshirt",
+      "id": "8185c3bc8da9a73",
+      "name": "armcol_events_rattleshirt",
+      "name_placeholder": "EQ_EVENTS_RATTLESHIRT_SET_NAME",
+      "priority": 9300
+    },
+    {
+      "bonus_1_name": "armcol_events_conquest2_1",
+      "bonus_2_name": "armcol_events_conquest2_2",
+      "bonus_3_name": "armcol_events_conquest2_3",
+      "gear_set_name": "gearset_events_conquest2",
+      "id": "e4c751665af0d314",
+      "name": "armcol_events_conquest2",
+      "name_placeholder": "EQ_EVENTS_CONQUEST2_SET_NAME",
+      "priority": 9900
+    },
+    {
+      "bonus_1_name": "armcol_events_hound_1",
+      "bonus_2_name": "armcol_events_hound_2",
+      "bonus_3_name": "armcol_events_hound_3",
+      "gear_set_name": "gearset_events_hound",
+      "id": "bcdfd4c1c1c7a91a",
+      "name": "armcol_events_hound",
+      "name_placeholder": "EQ_EVENTS_HOUND_SET_NAME",
+      "priority": 10500
+    },
+    {
+      "bonus_1_name": "armcol_events_queenlb_1",
+      "bonus_2_name": "armcol_events_queenlb_2",
+      "bonus_3_name": "armcol_events_queenlb_3",
+      "gear_set_name": "gearset_events_queenlb",
+      "id": "d8bf81059fd0aa90",
+      "name": "armcol_events_queenlb",
+      "name_placeholder": "EQ_EVENTS_QUEENLB_SET_NAME",
+      "priority": 11100
+    },
+    {
+      "bonus_1_name": "armcol_events_rhllor_1",
+      "bonus_2_name": "armcol_events_rhllor_2",
+      "bonus_3_name": "armcol_events_rhllor_3",
+      "gear_set_name": "gearset_events_rhllor",
+      "id": "4a84572f2407f072",
+      "name": "armcol_events_rhllor",
+      "name_placeholder": "EQ_EVENTS_RHLLOR_SET_NAME",
+      "priority": 11700
+    },
+    {
+      "bonus_1_name": "armcol_events_ironann_1",
+      "bonus_2_name": "armcol_events_ironann_2",
+      "bonus_3_name": "armcol_events_ironann_3",
+      "gear_set_name": "gearset_events_ironann",
+      "id": "fe47d96644b1e29",
+      "name": "armcol_events_ironann",
+      "name_placeholder": "EQ_EVENTS_IRONANN_SET_NAME",
+      "priority": 12300
+    },
+    {
+      "bonus_1_name": "armcol_events_cersei_1",
+      "bonus_2_name": "armcol_events_cersei_2",
+      "bonus_3_name": "armcol_events_cersei_3",
+      "gear_set_name": "gearset_events_cersei",
+      "id": "9fff5bf2048970a6",
+      "name": "armcol_events_cersei",
+      "name_placeholder": "EQ_EVENTS_CERSEI_SET_NAME",
+      "priority": 12900
+    },
+    {
+      "bonus_1_name": "armcol_events_kingsmoot_1",
+      "bonus_2_name": "armcol_events_kingsmoot_2",
+      "bonus_3_name": "armcol_events_kingsmoot_3",
+      "gear_set_name": "gearset_events_kingsmoot",
+      "id": "f6eac71b6f87e189",
+      "name": "armcol_events_kingsmoot",
+      "name_placeholder": "EQ_EVENTS_KINGSMOOT_SET_NAME",
+      "priority": 13500
+    },
+    {
+      "bonus_1_name": "armcol_events_freedom_1",
+      "bonus_2_name": "armcol_events_freedom_2",
+      "bonus_3_name": "armcol_events_freedom_3",
+      "gear_set_name": "gearset_events_freedom",
+      "id": "7edee3f5dd414656",
+      "name": "armcol_events_freedom",
+      "name_placeholder": "EQ_EVENTS_FREEDOM_SET_NAME",
+      "priority": 14100
+    },
+    {
+      "bonus_1_name": "armcol_events_dawn_1",
+      "bonus_2_name": "armcol_events_dawn_2",
+      "bonus_3_name": "armcol_events_dawn_3",
+      "gear_set_name": "gearset_events_dawn",
+      "id": "dd0b73bbfa901914",
+      "name": "armcol_events_dawn",
+      "name_placeholder": "EQ_EVENTS_DAWN_SET_NAME",
+      "priority": 14700
+    },
+    {
+      "bonus_1_name": "armcol_events_stark_1",
+      "bonus_2_name": "armcol_events_stark_2",
+      "bonus_3_name": "armcol_events_stark_3",
+      "gear_set_name": "gearset_events_stark",
+      "id": "ff529c388cde91c6",
+      "name": "armcol_events_stark",
+      "name_placeholder": "EQ_EVENTS_STARK_SET_NAME",
+      "priority": 15300
+    },
+    {
+      "bonus_1_name": "armcol_events_oldnan3_1",
+      "bonus_2_name": "armcol_events_oldnan3_2",
+      "bonus_3_name": "armcol_events_oldnan3_3",
+      "gear_set_name": "gearset_events_oldnan3",
+      "id": "58f2860e57b76489",
+      "name": "armcol_events_oldnan3",
+      "name_placeholder": "EQ_EVENTS_OLDNAN3_SET_NAME",
+      "priority": 15900
+    },
+    {
+      "bonus_1_name": "armcol_events_harvest_1",
+      "bonus_2_name": "armcol_events_harvest_2",
+      "bonus_3_name": "armcol_events_harvest_3",
+      "gear_set_name": "gearset_events_harvest",
+      "id": "86159f26327d6cd1",
+      "name": "armcol_events_harvest",
+      "name_placeholder": "EQ_EVENTS_HARVEST_SET_NAME",
+      "priority": 16500
+    },
+    {
+      "bonus_1_name": "armcol_events_yara_1",
+      "bonus_2_name": "armcol_events_yara_2",
+      "bonus_3_name": "armcol_events_yara_3",
+      "gear_set_name": "gearset_events_yara",
+      "id": "991cdb15077dbd4c",
+      "name": "armcol_events_yara",
+      "name_placeholder": "EQ_EVENTS_YARA_SET_NAME",
+      "priority": 17100
+    },
+    {
+      "bonus_1_name": "armcol_events_harrenhal2_1",
+      "bonus_2_name": "armcol_events_harrenhal2_2",
+      "bonus_3_name": "armcol_events_harrenhal2_3",
+      "gear_set_name": "gearset_events_harrenhal2",
+      "id": "e69baa93cf3c1f80",
+      "name": "armcol_events_harrenhal2",
+      "name_placeholder": "EQ_EVENTS_HARRENHAL2_SET_NAME",
+      "priority": 17700
+    },
+    {
+      "bonus_1_name": "armcol_events_oldtown_1",
+      "bonus_2_name": "armcol_events_oldtown_2",
+      "bonus_3_name": "armcol_events_oldtown_3",
+      "gear_set_name": "gearset_events_oldtown",
+      "id": "315e0cd26f379e89",
+      "name": "armcol_events_oldtown",
+      "name_placeholder": "EQ_EVENTS_OLDTOWN_SET_NAME",
+      "priority": 18300
+    },
+    {
+      "bonus_1_name": "armcol_events_artofcombat_1",
+      "bonus_2_name": "armcol_events_artofcombat_2",
+      "bonus_3_name": "armcol_events_artofcombat_3",
+      "gear_set_name": "gearset_events_artofcombat",
+      "id": "16e677a949b37c11",
+      "name": "armcol_events_artofcombat",
+      "name_placeholder": "EQ_EVENTS_ARTOFCOMBAT_SET_NAME",
+      "priority": 18900
+    }
+  ]
+}

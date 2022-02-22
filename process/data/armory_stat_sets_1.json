@@ -1,0 +1,761 @@
+{
+  "description": "Armory stat for each collection",
+  "values": [
+    {
+      "id": "ca310bb04a836e91",
+      "name": "armcol_event_nightwatch_1",
+      "progression": "prog_armory_bonus_SpecificTroop_1",
+      "property": "property_RangedAttackVsPlayersRanged_armory"
+    },
+    {
+      "id": "bf23575b93769c9f",
+      "name": "armcol_event_nightwatch_2",
+      "progression": "prog_armory_bonus_SpecificTroop_1",
+      "property": "property_MarchingSpeedVsSeatOfPower_armory"
+    },
+    {
+      "id": "93d29cfd2425cd65",
+      "name": "armcol_event_nightwatch_3",
+      "progression": "prog_armory_bonus_SpecificTroop_1",
+      "property": "property_RangedDefenseVsPlayer_armory"
+    },
+    {
+      "id": "85f1e1f293b18714",
+      "name": "armcol_event_harrenhal_1",
+      "progression": "prog_armory_bonus_TrainingCapacity_1",
+      "property": "property_TrainingCapacity_armory"
+    },
+    {
+      "id": "f0e3bd194a44751a",
+      "name": "armcol_event_harrenhal_2",
+      "progression": "prog_armory_bonus_Support_1",
+      "property": "property_ConstructionSpeed_armory"
+    },
+    {
+      "id": "dc1276bffd1724e0",
+      "name": "armcol_event_harrenhal_3",
+      "progression": "prog_armory_bonus_SpecificTroop_1",
+      "property": "property_HealCost_armory"
+    },
+    {
+      "id": "106c3ba92d2cbe68",
+      "name": "armcol_event_masterofwar_1",
+      "progression": "prog_armory_bonus_Support_1",
+      "property": "property_TroopLoad_armory"
+    },
+    {
+      "id": "657e6742f4d94c66",
+      "name": "armcol_event_masterofwar_2",
+      "progression": "prog_armory_bonus_SpecificTroop_1",
+      "property": "property_SiegeHealth_armory"
+    },
+    {
+      "id": "498face4438a1d9c",
+      "name": "armcol_event_masterofwar_3",
+      "progression": "prog_armory_bonus_MarchSize_1",
+      "property": "property_MaxMarchSize_armory"
+    },
+    {
+      "id": "9f6f887f5f33e722",
+      "name": "armcol_event_Conquest_1",
+      "progression": "prog_armory_bonus_SpecificTroop_1",
+      "property": "property_CavalryAttackVsPlayersRanged_armory"
+    },
+    {
+      "id": "ea7dd49486c6152c",
+      "name": "armcol_event_Conquest_2",
+      "progression": "prog_armory_bonus_SpecificTroop_1",
+      "property": "property_CavalryDefenseVsPlayersRanged_armory"
+    },
+    {
+      "id": "c68c1f32319544d6",
+      "name": "armcol_event_Conquest_3",
+      "progression": "prog_armory_bonus_SpecificTroop_1",
+      "property": "property_CavalryAttackVsPlayer_armory"
+    },
+    {
+      "id": "ef07986f8a208fe1",
+      "name": "armcol_event_Undying_1",
+      "progression": "prog_armory_bonus_SpecificTroop_1",
+      "property": "property_DragonHealth_armory"
+    },
+    {
+      "id": "9a15c48453d57def",
+      "name": "armcol_event_Undying_2",
+      "progression": "prog_armory_bonus_SpecificTroop_1",
+      "property": "property_DragonAttack_armory"
+    },
+    {
+      "id": "b6e40f22e4862c15",
+      "name": "armcol_event_Undying_3",
+      "progression": "prog_armory_bonus_GeneralTroop_1",
+      "property": "property_TroopAttackVsPlayer_armory"
+    },
+    {
+      "id": "cd61e5c27e36852b",
+      "name": "armcol_event_GreatHunt_1",
+      "progression": "prog_armory_bonus_SpecificTroop_1",
+      "property": "property_RangedAttackVsPlayersInfantry_armory"
+    },
+    {
+      "id": "b873b929a7c37725",
+      "name": "armcol_event_GreatHunt_2",
+      "progression": "prog_armory_bonus_SpecificTroop_1",
+      "property": "property_RangedDefenseVsPlayersInfantry_armory"
+    },
+    {
+      "id": "9482728f109026df",
+      "name": "armcol_event_GreatHunt_3",
+      "progression": "prog_armory_bonus_SpecificTroop_1",
+      "property": "property_RangedAttackVsPlayer_armory"
+    },
+    {
+      "id": "9d70972517a367db",
+      "name": "armcol_event_braavos_1",
+      "progression": "prog_armory_bonus_SpecificTroop_1",
+      "property": "property_MarchingSpeed_armory"
+    },
+    {
+      "id": "e862cbcece5695d5",
+      "name": "armcol_event_braavos_2",
+      "progression": "prog_armory_bonus_GeneralTroop_1",
+      "property": "property_TroopAttackVsSeatOfPower_armory"
+    },
+    {
+      "id": "c49300687905c42f",
+      "name": "armcol_event_braavos_3",
+      "progression": "prog_armory_bonus_MarchSize_1",
+      "property": "property_MaxMarchSizeVsSOP_armory"
+    },
+    {
+      "id": "bf9c7567bdd03159",
+      "name": "armcol_event_bolton_1",
+      "progression": "prog_armory_bonus_SpecificTroop_1",
+      "property": "property_InfantryAttackVsPlayersCavalry_armory"
+    },
+    {
+      "id": "ca8e298c6425c357",
+      "name": "armcol_event_bolton_2",
+      "progression": "prog_armory_bonus_SpecificTroop_1",
+      "property": "property_InfantryDefenseVsPlayersCavalry_armory"
+    },
+    {
+      "id": "e67fe22ad37692ad",
+      "name": "armcol_event_bolton_3",
+      "progression": "prog_armory_bonus_SpecificTroop_1",
+      "property": "property_InfantryAttackVsPlayer_armory"
+    },
+    {
+      "id": "fc07b83f5355d9fb",
+      "name": "armcol_event_blackfyre_1",
+      "progression": "prog_armory_bonus_GeneralTroop_1",
+      "property": "property_TroopDefenseVsPlayer_armory"
+    },
+    {
+      "id": "8915e4d48aa02bf5",
+      "name": "armcol_event_blackfyre_2",
+      "progression": "prog_armory_bonus_GeneralTroop_1",
+      "property": "property_TroopHealthVsPlayer_armory"
+    },
+    {
+      "id": "a5e42f723df37a0f",
+      "name": "armcol_event_blackfyre_3",
+      "progression": "prog_armory_bonus_GeneralTroop_1",
+      "property": "property_TroopAttackVsPlayer_armory"
+    },
+    {
+      "id": "5f6d7d79076a0882",
+      "name": "armcol_event_wrathofwinter_1",
+      "progression": "prog_armory_bonus_SOPRallySize_1",
+      "property": "property_ReinforcementCapacity_armory"
+    },
+    {
+      "id": "2a7f2192de9ffa8c",
+      "name": "armcol_event_wrathofwinter_2",
+      "progression": "prog_armory_bonus_GeneralTroop_1",
+      "property": "property_TroopDefenseVsSeatOfPower_armory"
+    },
+    {
+      "id": "68eea3469ccab76",
+      "name": "armcol_event_wrathofwinter_3",
+      "progression": "prog_armory_bonus_GeneralTroop_1",
+      "property": "property_TroopAttackVsSeatOfPower_armory"
+    },
+    {
+      "id": "c33e4f31185d693b",
+      "name": "armcol_event_wildling_1",
+      "progression": "prog_armory_bouns_MarcherTroop_1",
+      "property": "property_MarcherRangedDefenseVsPlayer_armory"
+    },
+    {
+      "id": "b62c13dac1a89b35",
+      "name": "armcol_event_wildling_2",
+      "progression": "prog_armory_bonus_RallySize_1",
+      "property": "property_RalliedTroopCapacity_armory"
+    },
+    {
+      "id": "9addd87c76fbcacf",
+      "name": "armcol_event_wildling_3",
+      "progression": "prog_armory_bouns_MarcherTroop_1",
+      "property": "property_MarcherRangedAttackVsPlayer_armory"
+    },
+    {
+      "id": "2142c6606743f823",
+      "name": "armcol_event_faithmilitant_1",
+      "progression": "prog_armory_bonus_SpecificTroop_1",
+      "property": "property_WallDamageBonus_armory"
+    },
+    {
+      "id": "54509a8bbeb60a2d",
+      "name": "armcol_event_faithmilitant_2",
+      "progression": "prog_armory_bonus_GeneralTroop_1",
+      "property": "property_TroopAttack_armory"
+    },
+    {
+      "id": "78a1512d09e55bd7",
+      "name": "armcol_event_faithmilitant_3",
+      "progression": "prog_armory_bonus_MarchSize_1",
+      "property": "property_MaxMarchSize_armory"
+    },
+    {
+      "id": "c28d304edb3783ca",
+      "name": "armcol_event_ironisland_1",
+      "progression": "prog_armory_bouns_MarcherTroop_1",
+      "property": "property_MarcherInfantryDefenseVsPlayer_armory"
+    },
+    {
+      "id": "b79f6ca502c271c4",
+      "name": "armcol_event_ironisland_2",
+      "progression": "prog_armory_bonus_RallySize_1",
+      "property": "property_RalliedTroopCapacity_armory"
+    },
+    {
+      "id": "9b6ea703b591203e",
+      "name": "armcol_event_ironisland_3",
+      "progression": "prog_armory_bouns_MarcherTroop_1",
+      "property": "property_MarcherInfantryAttackVsPlayer_armory"
+    },
+    {
+      "id": "913bc8cc4b66009f",
+      "name": "armcol_event_essospirate_1",
+      "progression": "prog_armory_bonus_SpecificTroop_1",
+      "property": "property_RangedDefenseVsPlayersInfantry_armory"
+    },
+    {
+      "id": "e42994279293f291",
+      "name": "armcol_event_essospirate_2",
+      "progression": "prog_armory_bouns_MarcherTroop_1",
+      "property": "property_MarcherRangedHealthVsPlayer_armory"
+    },
+    {
+      "id": "c8d85f8125c0a36b",
+      "name": "armcol_event_essospirate_3",
+      "progression": "prog_armory_bonus_SpecificTroop_1",
+      "property": "property_RangedHealthVsPlayer_armory"
+    },
+    {
+      "id": "c27cca42966948a1",
+      "name": "armcol_event_maester_1",
+      "progression": "prog_armory_bonus_Support_1",
+      "property": "property_FoodGathering_armory"
+    },
+    {
+      "id": "b76e96a94f9cbaaf",
+      "name": "armcol_event_maester_2",
+      "progression": "prog_armory_bonus_Support_1",
+      "property": "property_ForgingSteelCost_armory"
+    },
+    {
+      "id": "9b9f5d0ff8cfeb55",
+      "name": "armcol_event_maester_3",
+      "progression": "prog_armory_bonus_SpecificTroop_1",
+      "property": "property_TrainingSpeed_armory"
+    },
+    {
+      "id": "d3025ff9077a3079",
+      "name": "armcol_event_dothraki_1",
+      "progression": "prog_armory_bonus_SpecificTroop_1",
+      "property": "property_CavalryDefenseVsPlayersRanged_armory"
+    },
+    {
+      "id": "a6100312de8fc277",
+      "name": "armcol_event_dothraki_2",
+      "progression": "prog_armory_bouns_MarcherTroop_1",
+      "property": "property_MarcherCavalryHealthVsPlayer_armory"
+    },
+    {
+      "id": "8ae1c8b469dc938d",
+      "name": "armcol_event_dothraki_3",
+      "progression": "prog_armory_bonus_SpecificTroop_1",
+      "property": "property_CavalryHealthVsPlayer_armory"
+    },
+    {
+      "id": "96c53fb00cfdb723",
+      "name": "armcol_event_lannister_1",
+      "progression": "prog_armory_bonus_SpecificTroop_1",
+      "property": "property_InfantryDefenseVsPlayersCavalry_armory"
+    },
+    {
+      "id": "e3d7635bd508452d",
+      "name": "armcol_event_lannister_2",
+      "progression": "prog_armory_bouns_MarcherTroop_1",
+      "property": "property_MarcherInfantryHealthVsPlayer_armory"
+    },
+    {
+      "id": "cf26a8fd625b14d7",
+      "name": "armcol_event_lannister_3",
+      "progression": "prog_armory_bonus_SpecificTroop_1",
+      "property": "property_InfantryHealthVsPlayer_armory"
+    },
+    {
+      "id": "e24ad659f2810ddb",
+      "name": "armcol_event_winter_coming_1",
+      "progression": "prog_armory_bonus_Support_1",
+      "property": "property_TroopLoad_armory"
+    },
+    {
+      "id": "97588ab22b74ffd5",
+      "name": "armcol_event_winter_coming_2",
+      "progression": "prog_armory_bonus_SpecificTroop_1",
+      "property": "property_SiegeDefense_armory"
+    },
+    {
+      "id": "bba941149c27ae2f",
+      "name": "armcol_event_winter_coming_3",
+      "progression": "prog_armory_bonus_MarchSize_1",
+      "property": "property_MaxMarchSize_armory"
+    },
+    {
+      "id": "9f7e6359a535763c",
+      "name": "armcol_trinket_legacy_1_1",
+      "progression": "prog_trinketarmory_bonus_TrainingCapacity_1",
+      "property": "property_TrainingCapacity_armory"
+    },
+    {
+      "id": "ea6c3fb27cc08432",
+      "name": "armcol_trinket_legacy_1_2",
+      "progression": "prog_trinketarmory_bonus_GeneralTroop_1",
+      "property": "property_TroopDefenseVsPlayer_armory"
+    },
+    {
+      "id": "c69df414cb93d5c8",
+      "name": "armcol_trinket_legacy_1_3",
+      "progression": "prog_trinketarmory_bonus_SpecificTroop_1",
+      "property": "property_CavalryHealthVsPlayer_armory"
+    },
+    {
+      "id": "488665cf2b602e",
+      "name": "armcol_trinket_legacy_1_4",
+      "progression": "prog_trinketarmory_bonus_SpecificTroop_1",
+      "property": "property_CavalryAttackVsPlayersRanged_armory"
+    },
+    {
+      "id": "48959f25ab44a922",
+      "name": "armcol_trinket_legacy_2_1",
+      "progression": "prog_trinketarmory_bonus_Support_1",
+      "property": "property_TrainingSpeed_armory"
+    },
+    {
+      "id": "3d87c3ce72b15b2c",
+      "name": "armcol_trinket_legacy_2_2",
+      "progression": "prog_trinketarmory_bonus_MarchSize_1",
+      "property": "property_MaxMarchSizeVsSOP_armory"
+    },
+    {
+      "id": "11760868c5e20ad6",
+      "name": "armcol_trinket_legacy_2_3",
+      "progression": "prog_trinketarmory_bouns_MarcherTroop_1",
+      "property": "property_MarcherInfantryAttackVsPlayer_armory"
+    },
+    {
+      "id": "d7a37a19c15abf30",
+      "name": "armcol_trinket_legacy_2_4",
+      "progression": "prog_trinketarmory_bonus_SpecificTroop_1",
+      "property": "property_RangedAttackVsPlayersInfantry_armory"
+    },
+    {
+      "id": "845af522960ed931",
+      "name": "armcol_trinket_legacy_3_1",
+      "progression": "prog_trinketarmory_bonus_SpecificTroop_1",
+      "property": "property_MarchingSpeed_armory"
+    },
+    {
+      "id": "f148a9c94ffb2b3f",
+      "name": "armcol_trinket_legacy_3_2",
+      "progression": "prog_trinketarmory_bonus_GeneralTroop_1",
+      "property": "property_TroopAttackVsSeatOfPower_armory"
+    },
+    {
+      "id": "ddb9626ff8a87ac5",
+      "name": "armcol_trinket_legacy_3_3",
+      "progression": "prog_trinketarmory_bonus_SpecificTroop_1",
+      "property": "property_RangedDefenseVsPlayer_armory"
+    },
+    {
+      "id": "1b6c101efc10cf23",
+      "name": "armcol_trinket_legacy_3_4",
+      "progression": "prog_trinketarmory_bonus_SpecificTroop_1",
+      "property": "property_InfantryAttackVsPlayersCavalry_armory"
+    },
+    {
+      "id": "65f825a8fe085835",
+      "name": "armcol_trinket_legacy_4_1",
+      "progression": "prog_trinketarmory_bonus_Support_1",
+      "property": "property_MarchingSpeedVsSeatOfPower_armory"
+    },
+    {
+      "id": "10ea794327fdaa3b",
+      "name": "armcol_trinket_legacy_4_2",
+      "progression": "prog_trinketarmory_bonus_SpecificTroop_1",
+      "property": "property_RangedAttackVsPlayersCavalry_armory"
+    },
+    {
+      "id": "3c1bb2e590aefbc1",
+      "name": "armcol_trinket_legacy_4_3",
+      "progression": "prog_trinketarmory_bonus_SpecificTroop_1",
+      "property": "property_RangedDefenseVsPlayer_armory"
+    },
+    {
+      "id": "facec09494164e27",
+      "name": "armcol_trinket_legacy_4_4",
+      "progression": "prog_trinketarmory_bonus_GeneralTroop_1",
+      "property": "property_TroopDefenseVsPlayer_armory"
+    },
+    {
+      "id": "a9374fafc3422826",
+      "name": "armcol_trinket_legacy_5_1",
+      "progression": "prog_trinketarmory_bonus_Support_1",
+      "property": "property_DragonFeedXPBonus_Alpha_armory"
+    },
+    {
+      "id": "dc2513441ab7da28",
+      "name": "armcol_trinket_legacy_5_2",
+      "progression": "prog_trinketarmory_bonus_SpecificTroop_1",
+      "property": "property_DragonInfantryDefense_armory"
+    },
+    {
+      "id": "f0d4d8e2ade48bd2",
+      "name": "armcol_trinket_legacy_5_3",
+      "progression": "prog_trinketarmory_bonus_SpecificTroop_1",
+      "property": "property_DragonCavalryDefense_armory"
+    },
+    {
+      "id": "3601aa93a95c3e34",
+      "name": "armcol_trinket_legacy_5_4",
+      "progression": "prog_trinketarmory_bonus_MarchSize_1",
+      "property": "property_DragonMaxMarchSize_armory"
+    },
+    {
+      "id": "7edcb3d3cd33f738",
+      "name": "armcol_trinket_legacy_6_1",
+      "progression": "prog_trinketarmory_bonus_Support_1",
+      "property": "property_ForgingSteelCost_armory"
+    },
+    {
+      "id": "bceef3814c60536",
+      "name": "armcol_trinket_legacy_6_2",
+      "progression": "prog_trinketarmory_bonus_GeneralTroop_1",
+      "property": "property_TroopAttackVsPlayer_armory"
+    },
+    {
+      "id": "273f249ea39554cc",
+      "name": "armcol_trinket_legacy_6_3",
+      "progression": "prog_trinketarmory_bonus_SpecificTroop_1",
+      "property": "property_InfantryHealthVsPlayer_armory"
+    },
+    {
+      "id": "e1ea56efa72de12a",
+      "name": "armcol_trinket_legacy_6_4",
+      "progression": "prog_trinketarmory_bonus_SpecificTroop_1",
+      "property": "property_InfantryDefenseVsPlayersRanged_armory"
+    },
+    {
+      "id": "b213d9d4f079872b",
+      "name": "armcol_trinket_legacy_7_1",
+      "progression": "prog_trinketarmory_bonus_Support_1",
+      "property": "property_DragonMarchingSpeed_armory"
+    },
+    {
+      "id": "c701853f298c7525",
+      "name": "armcol_trinket_legacy_7_2",
+      "progression": "prog_trinketarmory_bonus_SpecificTroop_1",
+      "property": "property_SiegeHealthVsPlayer_armory"
+    },
+    {
+      "id": "ebf04e999edf24df",
+      "name": "armcol_trinket_legacy_7_3",
+      "progression": "prog_trinketarmory_bonus_SpecificTroop_1",
+      "property": "property_SiegeDefenseVsPlayer_armory"
+    },
+    {
+      "id": "2d253ce89a679139",
+      "name": "armcol_trinket_legacy_7_4",
+      "progression": "prog_trinketarmory_bonus_SpecificTroop_1",
+      "property": "property_CavalryHealthVsPlayer_armory"
+    },
+    {
+      "id": "3f2350b25491ba1b",
+      "name": "armcol_trinket_legacy_8_1",
+      "progression": "prog_trinketarmory_bonus_Support_1",
+      "property": "property_TrainingSpeed_armory"
+    },
+    {
+      "id": "4a310c598d644815",
+      "name": "armcol_trinket_legacy_8_2",
+      "progression": "prog_trinketarmory_bonus_MarchSize_1",
+      "property": "property_MaxMarchSizeVsSOP_armory"
+    },
+    {
+      "id": "66c0c7ff3a3719ef",
+      "name": "armcol_trinket_legacy_8_3",
+      "progression": "prog_trinketarmory_bonus_SpecificTroop_1",
+      "property": "property_CavalryDefenseVsPlayer_armory"
+    },
+    {
+      "id": "a015b58e3e8fac09",
+      "name": "armcol_trinket_legacy_8_4",
+      "progression": "prog_trinketarmory_bonus_SpecificTroop_1",
+      "property": "property_CavalryAttackVsPlayersRanged_armory"
+    },
+    {
+      "id": "f3ec3ab569dbca08",
+      "name": "armcol_trinket_legacy_9_1",
+      "progression": "prog_trinketarmory_bonus_TrainingCapacity_1",
+      "property": "property_TrainingCapacity_armory"
+    },
+    {
+      "id": "86fe665eb02e3806",
+      "name": "armcol_trinket_legacy_9_2",
+      "progression": "prog_trinketarmory_bonus_SpecificTroop_1",
+      "property": "property_SiegeDefenseVsPlayer_armory"
+    },
+    {
+      "id": "aa0fadf8077d69fc",
+      "name": "armcol_trinket_legacy_9_3",
+      "progression": "prog_trinketarmory_bouns_MarcherTroop_1",
+      "property": "property_MarcherInfantryDefenseVsPlayer_armory"
+    },
+    {
+      "id": "6cdadf8903c5dc1a",
+      "name": "armcol_trinket_legacy_9_4",
+      "progression": "prog_trinketarmory_bouns_MarcherTroop_1",
+      "property": "property_MarcherInfantryAttackVsPlayer_armory"
+    },
+    {
+      "id": "ff64b3905d17569b",
+      "name": "armcol_trinket_legacy_10_1",
+      "progression": "prog_trinketarmory_bonus_Support_1",
+      "property": "property_ResearchSpeed_armory"
+    },
+    {
+      "id": "8a76ef7b84e2a495",
+      "name": "armcol_trinket_legacy_10_2",
+      "progression": "prog_trinketarmory_bonus_SpecificTroop_1",
+      "property": "property_RangedAttackVsPlayer_armory"
+    },
+    {
+      "id": "a68724dd33b1f56f",
+      "name": "armcol_trinket_legacy_10_3",
+      "progression": "prog_trinketarmory_bonus_SpecificTroop_1",
+      "property": "property_RangedDefenseVsPlayersInfantry_armory"
+    },
+    {
+      "id": "605256ac37094089",
+      "name": "armcol_trinket_legacy_10_4",
+      "progression": "prog_trinketarmory_bonus_SpecificTroop_1",
+      "property": "property_SiegeAttackVsPlayer_armory"
+    },
+    {
+      "id": "33abd997605d2688",
+      "name": "armcol_trinket_legacy_11_1",
+      "progression": "prog_trinketarmory_bonus_Support_1",
+      "property": "property_HealTime_armory"
+    },
+    {
+      "id": "46b9857cb9a8d486",
+      "name": "armcol_trinket_legacy_11_2",
+      "progression": "prog_trinketarmory_bonus_SpecificTroop_1",
+      "property": "property_CavalryDefenseVsPlayer_armory"
+    },
+    {
+      "id": "6a484eda0efb857c",
+      "name": "armcol_trinket_legacy_11_3",
+      "progression": "prog_trinketarmory_bonus_SpecificTroop_1",
+      "property": "property_CavalryDefenseVsPlayersRanged_armory"
+    },
+    {
+      "id": "ac9d3cab0a43309a",
+      "name": "armcol_trinket_legacy_11_4",
+      "progression": "prog_trinketarmory_bonus_SpecificTroop_1",
+      "property": "property_SiegeDefenseVsPlayer_armory"
+    },
+    {
+      "id": "e44025eb6e2cf996",
+      "name": "armcol_trinket_legacy_12_1",
+      "progression": "prog_trinketarmory_bonus_WoundedCapacity_1",
+      "property": "property_WoundedCapacity_armory"
+    },
+    {
+      "id": "91527900b7d90b98",
+      "name": "armcol_trinket_legacy_12_2",
+      "progression": "prog_trinketarmory_bonus_SpecificTroop_1",
+      "property": "property_RangedHealthVsPlayer_armory"
+    },
+    {
+      "id": "bda3b2a6008a5a62",
+      "name": "armcol_trinket_legacy_12_3",
+      "progression": "prog_trinketarmory_bonus_SpecificTroop_1",
+      "property": "property_RangedAttackVsPlayersInfantry_armory"
+    },
+    {
+      "id": "7b76c0d70432ef84",
+      "name": "armcol_trinket_legacy_12_4",
+      "progression": "prog_trinketarmory_bonus_SpecificTroop_1",
+      "property": "property_SiegeHealthVsPlayer_armory"
+    },
+    {
+      "id": "630598415e95f15f",
+      "name": "armcol_trinket_martell_1_1",
+      "progression": "prog_trinketarmory_bonus_TrainingCapacity_1",
+      "property": "property_TrainingCapacity_armory"
+    },
+    {
+      "id": "1617c4aa87600351",
+      "name": "armcol_trinket_martell_1_2",
+      "progression": "prog_trinketarmory_bonus_GeneralTroop_1",
+      "property": "property_TroopHealthVsPlayer_armory"
+    },
+    {
+      "id": "3ae60f0c303352ab",
+      "name": "armcol_trinket_martell_1_3",
+      "progression": "prog_trinketarmory_bouns_MarcherTroop_1",
+      "property": "property_MarcherRangedHealthVsPlayer_armory"
+    },
+    {
+      "id": "fc337d7d348be74d",
+      "name": "armcol_trinket_martell_1_4",
+      "progression": "prog_trinketarmory_bonus_SpecificTroop_1",
+      "property": "property_CavalryDefenseVsPlayersRanged_armory"
+    },
+    {
+      "id": "daf14c2d84ccae6",
+      "name": "armcol_trinket_conqueror_1_1",
+      "progression": "prog_trinketarmory_bonus_Support_1",
+      "property": "property_ResearchSpeed_armory"
+    },
+    {
+      "id": "78bd482901b938e8",
+      "name": "armcol_trinket_conqueror_1_2",
+      "progression": "prog_trinketarmory_bonus_SpecificTroop_1",
+      "property": "property_CavalryAttackVsPlayer_armory"
+    },
+    {
+      "id": "544c838fb6ea6912",
+      "name": "armcol_trinket_conqueror_1_3",
+      "progression": "prog_trinketarmory_bonus_SpecificTroop_1",
+      "property": "property_InfantryAttackVsPlayer_armory"
+    },
+    {
+      "id": "9299f1feb252dcf4",
+      "name": "armcol_trinket_conqueror_1_4",
+      "progression": "prog_trinketarmory_bonus_SpecificTroop_1",
+      "property": "property_RangedAttackVsPlayer_armory"
+    },
+    {
+      "id": "81be4c30f5b3ab01",
+      "name": "armcol_trinket_rhllorartifacts_1_1",
+      "progression": "prog_trinketarmory_bonus_MarchSize_1",
+      "property": "property_MarchSizeVsPlayer_armory"
+    },
+    {
+      "id": "f4ac10db2c46590f",
+      "name": "armcol_trinket_rhllorartifacts_1_2",
+      "progression": "prog_trinketarmory_bonus_SpecificTroop_1",
+      "property": "property_MarchingSpeed_armory"
+    },
+    {
+      "id": "d85ddb7d9b1508f5",
+      "name": "armcol_trinket_rhllorartifacts_1_3",
+      "progression": "prog_trinketarmory_bonus_RallySize_1",
+      "property": "property_RalliedTroopCapacity_armory"
+    },
+    {
+      "id": "1e88a90c9fadbd13",
+      "name": "armcol_trinket_rhllorartifacts_1_4",
+      "progression": "prog_trinketarmory_bonus_SpecificTroop_1",
+      "property": "property_SiegeDefenseVsPlayer_armory"
+    },
+    {
+      "id": "24b04fd3a2fb9f8a",
+      "name": "armcol_trinket_astaporartifacts_1_1",
+      "progression": "prog_trinketarmory_bonus_Support_1",
+      "property": "property_ForgingSteelCost_armory"
+    },
+    {
+      "id": "51a213387b0e6d84",
+      "name": "armcol_trinket_astaporartifacts_1_2",
+      "progression": "prog_trinketarmory_bonus_SpecificTroop_1",
+      "property": "property_InfantryDefenseVsPlayer_armory"
+    },
+    {
+      "id": "7d53d89ecc5d3c7e",
+      "name": "armcol_trinket_astaporartifacts_1_3",
+      "progression": "prog_trinketarmory_bonus_SpecificTroop_1",
+      "property": "property_SiegeDefenseVsPlayer_armory"
+    },
+    {
+      "id": "bb86aaefc8e58998",
+      "name": "armcol_trinket_astaporartifacts_1_4",
+      "progression": "prog_trinketarmory_bonus_SpecificTroop_1",
+      "property": "property_SiegeHealthVsPlayer_armory"
+    },
+    {
+      "id": "f976ea77bb7d1e89",
+      "name": "armcol_trinket_winterartifacts_1_1",
+      "progression": "prog_trinketarmory_bonus_GeneralTroop_1",
+      "property": "property_DragonTroopHealthVsPlayer_armory"
+    },
+    {
+      "id": "8c64b69c6288ec87",
+      "name": "armcol_trinket_winterartifacts_1_2",
+      "progression": "prog_trinketarmory_bonus_Support_1",
+      "property": "property_DragonFeedXPBonus_Alpha_armory"
+    },
+    {
+      "id": "a0957d3ad5dbbd7d",
+      "name": "armcol_trinket_winterartifacts_1_3",
+      "progression": "prog_trinketarmory_bonus_MarchSize_1",
+      "property": "property_MarchSizeVsPlayer_armory"
+    },
+    {
+      "id": "66400f4bd163089b",
+      "name": "armcol_trinket_winterartifacts_1_4",
+      "progression": "prog_trinketarmory_bonus_GeneralTroop_1",
+      "property": "property_TroopAttackVsPlayer_armory"
+    },
+    {
+      "id": "52ddbec312340b88",
+      "name": "armcol_trinket_whent_1_1",
+      "progression": "prog_trinketarmory_bonus_SpecificTroop_1",
+      "property": "property_CavalryDefenseVsPlayer_armory"
+    },
+    {
+      "id": "27cfe228cbc1f986",
+      "name": "armcol_trinket_whent_1_2",
+      "progression": "prog_trinketarmory_bonus_Support_1",
+      "property": "property_TrainingSpeed_armory"
+    },
+    {
+      "id": "b3e298e7c92a87c",
+      "name": "armcol_trinket_whent_1_3",
+      "progression": "prog_trinketarmory_bonus_SpecificTroop_1",
+      "property": "property_SiegeAttackVsPlayer_armory"
+    },
+    {
+      "id": "cdeb5bff782a1d9a",
+      "name": "armcol_trinket_whent_1_4",
+      "progression": "prog_trinketarmory_bonus_RallySize_1",
+      "property": "property_RalliedTroopCapacityVsSeatOfPower_armory"
+    }
+  ]
+}

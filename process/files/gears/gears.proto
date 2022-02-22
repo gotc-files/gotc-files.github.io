@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+import 'files/common/common.proto';
+
+message Gears {
+  repeated Gear gears = 1;
+  message Gear {
+    ObjectIdentity identity = 1;
+    GearInfo info = 2;
+  }
+
+  message GearInfo {
+    string name_placeholder = 1;
+    string image = 32;
+    int32 sort_priority = 36;
+    ObjectIdentity slot_identity = 61;
+    int32 level = 70;
+  }
+}

@@ -1,0 +1,15 @@
+# dependencies
+/node_modules
+
+# production
+/build
+
+# Python related
+__pycache__
+
+# Raw data
+process/raw
+
+# misc
+.DS_Store
+.gitconfig

@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+import 'files/common/common.proto';
+
+message GearStatSets { repeated GearStatSet gear_stat_sets = 1; }
+
+message GearStatSet {
+  ObjectIdentity gear_identity = 1;
+  GearStatList gear_stat_list = 2;
+}
+
+message GearStatList { repeated GearStat gear_stats = 1; }
+
+message GearStat {
+  ObjectIdentity identity = 1;
+  ObjectIdentity progression = 2;
+}

@@ -1,0 +1,23 @@
+syntax = "proto3";
+
+import 'files/common/common.proto';
+
+message Properties {
+  repeated Property properties = 1;
+  message Property {
+    ObjectIdentity identity = 1;
+    PropertyInfo info = 2;
+  }
+
+  message PropertyInfo {
+    string name_placeholder = 1;
+    string description_placeholder = 2;
+    PropertyType type = 3;
+    string image = 4;
+  }
+
+  enum PropertyType {
+    UNKNOWN = 0;
+    GEAR = 4;
+  }
+}

@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+import 'files/common/common.proto';
+
+message ArmoryStatSets { repeated ArmoryStatSet armory_stat_sets = 1; }
+
+message ArmoryStatSet {
+  ObjectIdentity armory_stat_identity = 1;
+  ArmoryStatWrapper wrapper = 2;
+}
+
+message ArmoryStatWrapper { ArmoryStatInfo info = 1; }
+
+message ArmoryStatInfo {
+  ObjectIdentity property = 1;
+  ObjectIdentity progression = 2;
+}

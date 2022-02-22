@@ -1,0 +1,27 @@
+syntax = "proto3";
+
+import 'files/common/common.proto';
+
+message ArmoryStatProgressions {
+  repeated ArmoryStatProgression armory_stat_progressions = 1;
+
+  message ArmoryStatProgression {
+    fixed64 id = 1;
+    ProgressionInfo info = 2;
+  }
+
+  message ProgressionInfo {
+    IntStats int_stats = 1;
+    DoubleStats double_stats = 2;
+  }
+
+  message IntStats {
+    ObjectIdentity identity = 1;
+    repeated int64 stats = 2;
+  }
+
+  message DoubleStats {
+    ObjectIdentity identity = 1;
+    repeated double stats = 2;
+  }
+}

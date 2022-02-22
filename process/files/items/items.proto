@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+import 'files/common/common.proto';
+
+message Items {
+  repeated Item items = 1;
+  message Item {
+    ObjectIdentity identity = 1;
+    ItemInfo info = 2;
+  }
+
+  message ItemInfo {
+    string name_placeholder = 1;
+    string description_placeholder = 3;
+    string image = 32;
+    int64 sort_priority = 36;
+    int64 unknown_1 = 37;
+    ObjectIdentity item_type = 60;
+  }
+}

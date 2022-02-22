@@ -1,0 +1,26 @@
+syntax = "proto3";
+
+import 'files/common/common.proto';
+
+message GearSetProgressions {
+  repeated GearSetProgression gear_set_progressions = 1;
+}
+
+message GearSetProgression {
+  int64 id = 1;
+  ProgressionInfo info = 2;
+}
+
+message ProgressionInfo {
+  oneof progression_info {
+    EquipmentLevelProgressionInfo equipment = 1;
+    GearSetProgressionInfo gear_set = 3;
+  }
+}
+
+message EquipmentLevelProgressionInfo {}
+
+message GearSetProgressionInfo {
+  ObjectIdentity identity = 1;
+  repeated string gear_names_with_level = 2;
+}

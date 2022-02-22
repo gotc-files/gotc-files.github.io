@@ -1,0 +1,28 @@
+syntax = "proto3";
+
+import 'files/common/common.proto';
+
+message HeroCollectionActionProperties {
+  repeated HeroCollectionActionProperty properties = 1;
+}
+
+message HeroCollectionActionProperty {
+
+  fixed64 id = 1;
+  PropertyInfo info = 2;
+
+  message PropertyInfo {
+    IntegerProperty integer_property = 1;
+    DoubleProperty double_property = 2;
+  }
+
+  message IntegerProperty {
+    ObjectIdentity identity = 1;
+    repeated int64 values = 2;
+  }
+
+  message DoubleProperty {
+    ObjectIdentity identity = 1;
+    repeated double values = 2;
+  }
+}

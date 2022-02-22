@@ -1,0 +1,2682 @@
+{
+  "description": "Gear set to gear names with level",
+  "values": [
+    {
+      "gear_names_with_level": [],
+      "id": "0",
+      "name": ""
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_winteriscoming_5_helmet_lord5",
+        "eq_events_winteriscoming_10_helmet_lord10",
+        "eq_events_winteriscoming_15_helmet_lord15",
+        "eq_events_winteriscoming_20_helmet_lord20",
+        "eq_events_winteriscoming_25_helmet_lord25",
+        "eq_events_winteriscoming_30_helmet_lord30",
+        "eq_events_winteriscoming_35_helmet_lord35",
+        "eq_events_winteriscoming_40_helmet_lord40",
+        "eq_events_winteriscoming_45_helmet_lord45",
+        "eq_events_winteriscoming_50_helmet_lord50"
+      ],
+      "id": "a88b39aacde9cf4c",
+      "name": "prog_gearset_winter_coming_helmet"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_winteriscoming_5_chest_lord5",
+        "eq_events_winteriscoming_10_chest_lord10",
+        "eq_events_winteriscoming_15_chest_lord15",
+        "eq_events_winteriscoming_20_chest_lord20",
+        "eq_events_winteriscoming_25_chest_lord25",
+        "eq_events_winteriscoming_30_chest_lord30",
+        "eq_events_winteriscoming_35_chest_lord35",
+        "eq_events_winteriscoming_40_chest_lord40",
+        "eq_events_winteriscoming_45_chest_lord45",
+        "eq_events_winteriscoming_50_chest_lord50"
+      ],
+      "id": "a2c82e1531c7c662",
+      "name": "prog_gearset_winter_coming_chest"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_winteriscoming_5_pants_lord5",
+        "eq_events_winteriscoming_10_pants_lord10",
+        "eq_events_winteriscoming_15_pants_lord15",
+        "eq_events_winteriscoming_20_pants_lord20",
+        "eq_events_winteriscoming_25_pants_lord25",
+        "eq_events_winteriscoming_30_pants_lord30",
+        "eq_events_winteriscoming_35_pants_lord35",
+        "eq_events_winteriscoming_40_pants_lord40",
+        "eq_events_winteriscoming_45_pants_lord45",
+        "eq_events_winteriscoming_50_pants_lord50"
+      ],
+      "id": "2780f81dd71f5613",
+      "name": "prog_gearset_winter_coming_pants"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_winteriscoming_5_boots_lord5",
+        "eq_events_winteriscoming_10_boots_lord10",
+        "eq_events_winteriscoming_15_boots_lord15",
+        "eq_events_winteriscoming_20_boots_lord20",
+        "eq_events_winteriscoming_25_boots_lord25",
+        "eq_events_winteriscoming_30_boots_lord30",
+        "eq_events_winteriscoming_35_boots_lord35",
+        "eq_events_winteriscoming_40_boots_lord40",
+        "eq_events_winteriscoming_45_boots_lord45",
+        "eq_events_winteriscoming_50_boots_lord50"
+      ],
+      "id": "9eb392bf0558f75a",
+      "name": "prog_gearset_winter_coming_boots"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_winteriscoming_5_ring_lord5",
+        "eq_events_winteriscoming_10_ring_lord10",
+        "eq_events_winteriscoming_15_ring_lord15",
+        "eq_events_winteriscoming_20_ring_lord20",
+        "eq_events_winteriscoming_25_ring_lord25",
+        "eq_events_winteriscoming_30_ring_lord30",
+        "eq_events_winteriscoming_35_ring_lord35",
+        "eq_events_winteriscoming_40_ring_lord40",
+        "eq_events_winteriscoming_45_ring_lord45",
+        "eq_events_winteriscoming_50_ring_lord50"
+      ],
+      "id": "c7f9447336a88e0c",
+      "name": "prog_gearset_winter_coming_ring"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_winteriscoming_5_weapon_lord5",
+        "eq_events_winteriscoming_10_weapon_lord10",
+        "eq_events_winteriscoming_15_weapon_lord15",
+        "eq_events_winteriscoming_20_weapon_lord20",
+        "eq_events_winteriscoming_25_weapon_lord25",
+        "eq_events_winteriscoming_30_weapon_lord30",
+        "eq_events_winteriscoming_35_weapon_lord35",
+        "eq_events_winteriscoming_40_weapon_lord40",
+        "eq_events_winteriscoming_45_weapon_lord45",
+        "eq_events_winteriscoming_50_weapon_lord50"
+      ],
+      "id": "dadeff13a42b799f",
+      "name": "prog_gearset_winter_coming_weapon"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_lannister_5_helmet_lord5",
+        "eq_events_lannister_10_helmet_lord10",
+        "eq_events_lannister_15_helmet_lord15",
+        "eq_events_lannister_20_helmet_lord20",
+        "eq_events_lannister_25_helmet_lord25",
+        "eq_events_lannister_30_helmet_lord30",
+        "eq_events_lannister_35_helmet_lord35",
+        "eq_events_lannister_40_helmet_lord40",
+        "eq_events_lannister_45_helmet_lord45",
+        "eq_events_lannister_50_helmet_lord50"
+      ],
+      "id": "1fe092805a2dc7f7",
+      "name": "prog_gearset_lannister_helmet"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_lannister_5_chest_lord5",
+        "eq_events_lannister_10_chest_lord10",
+        "eq_events_lannister_15_chest_lord15",
+        "eq_events_lannister_20_chest_lord20",
+        "eq_events_lannister_25_chest_lord25",
+        "eq_events_lannister_30_chest_lord30",
+        "eq_events_lannister_35_chest_lord35",
+        "eq_events_lannister_40_chest_lord40",
+        "eq_events_lannister_45_chest_lord45",
+        "eq_events_lannister_50_chest_lord50"
+      ],
+      "id": "836a511544c478b7",
+      "name": "prog_gearset_lannister_chest"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_lannister_5_pants_lord5",
+        "eq_events_lannister_10_pants_lord10",
+        "eq_events_lannister_15_pants_lord15",
+        "eq_events_lannister_20_pants_lord20",
+        "eq_events_lannister_25_pants_lord25",
+        "eq_events_lannister_30_pants_lord30",
+        "eq_events_lannister_35_pants_lord35",
+        "eq_events_lannister_40_pants_lord40",
+        "eq_events_lannister_45_pants_lord45",
+        "eq_events_lannister_50_pants_lord50"
+      ],
+      "id": "622871da21ce8c6",
+      "name": "prog_gearset_lannister_pants"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_lannister_5_boots_lord5",
+        "eq_events_lannister_10_boots_lord10",
+        "eq_events_lannister_15_boots_lord15",
+        "eq_events_lannister_20_boots_lord20",
+        "eq_events_lannister_25_boots_lord25",
+        "eq_events_lannister_30_boots_lord30",
+        "eq_events_lannister_35_boots_lord35",
+        "eq_events_lannister_40_boots_lord40",
+        "eq_events_lannister_45_boots_lord45",
+        "eq_events_lannister_50_boots_lord50"
+      ],
+      "id": "bf11edbf705b498f",
+      "name": "prog_gearset_lannister_boots"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_lannister_5_ring_lord5",
+        "eq_events_lannister_10_ring_lord10",
+        "eq_events_lannister_15_ring_lord15",
+        "eq_events_lannister_20_ring_lord20",
+        "eq_events_lannister_25_ring_lord25",
+        "eq_events_lannister_30_ring_lord30",
+        "eq_events_lannister_35_ring_lord35",
+        "eq_events_lannister_40_ring_lord40",
+        "eq_events_lannister_45_ring_lord45",
+        "eq_events_lannister_50_ring_lord50"
+      ],
+      "id": "325b36e6292977e",
+      "name": "prog_gearset_lannister_ring"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_lannister_5_weapon_lord5",
+        "eq_events_lannister_10_weapon_lord10",
+        "eq_events_lannister_15_weapon_lord15",
+        "eq_events_lannister_20_weapon_lord20",
+        "eq_events_lannister_25_weapon_lord25",
+        "eq_events_lannister_30_weapon_lord30",
+        "eq_events_lannister_35_weapon_lord35",
+        "eq_events_lannister_40_weapon_lord40",
+        "eq_events_lannister_45_weapon_lord45",
+        "eq_events_lannister_50_weapon_lord50"
+      ],
+      "id": "6db5543933ef7124",
+      "name": "prog_gearset_lannister_weapon"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_dothraki_5_helmet_lord5",
+        "eq_events_dothraki_10_helmet_lord10",
+        "eq_events_dothraki_15_helmet_lord15",
+        "eq_events_dothraki_20_helmet_lord20",
+        "eq_events_dothraki_25_helmet_lord25",
+        "eq_events_dothraki_30_helmet_lord30",
+        "eq_events_dothraki_35_helmet_lord35",
+        "eq_events_dothraki_40_helmet_lord40",
+        "eq_events_dothraki_45_helmet_lord45",
+        "eq_events_dothraki_50_helmet_lord50"
+      ],
+      "id": "1a1bcaf3dedadf3",
+      "name": "prog_gearset_dothraki_helmet"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_dothraki_5_chest_lord5",
+        "eq_events_dothraki_10_chest_lord10",
+        "eq_events_dothraki_15_chest_lord15",
+        "eq_events_dothraki_20_chest_lord20",
+        "eq_events_dothraki_25_chest_lord25",
+        "eq_events_dothraki_30_chest_lord30",
+        "eq_events_dothraki_35_chest_lord35",
+        "eq_events_dothraki_40_chest_lord40",
+        "eq_events_dothraki_45_chest_lord45",
+        "eq_events_dothraki_50_chest_lord50"
+      ],
+      "id": "e30950f338e7b2ab",
+      "name": "prog_gearset_dothraki_chest"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_dothraki_5_pants_lord5",
+        "eq_events_dothraki_10_pants_lord10",
+        "eq_events_dothraki_15_pants_lord15",
+        "eq_events_dothraki_20_pants_lord20",
+        "eq_events_dothraki_25_pants_lord25",
+        "eq_events_dothraki_30_pants_lord30",
+        "eq_events_dothraki_35_pants_lord35",
+        "eq_events_dothraki_40_pants_lord40",
+        "eq_events_dothraki_45_pants_lord45",
+        "eq_events_dothraki_50_pants_lord50"
+      ],
+      "id": "664186fbde3f22da",
+      "name": "prog_gearset_dothraki_pants"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_dothraki_5_boots_lord5",
+        "eq_events_dothraki_10_boots_lord10",
+        "eq_events_dothraki_15_boots_lord15",
+        "eq_events_dothraki_20_boots_lord20",
+        "eq_events_dothraki_25_boots_lord25",
+        "eq_events_dothraki_30_boots_lord30",
+        "eq_events_dothraki_35_boots_lord35",
+        "eq_events_dothraki_40_boots_lord40",
+        "eq_events_dothraki_45_boots_lord45",
+        "eq_events_dothraki_50_boots_lord50"
+      ],
+      "id": "df72ec590c788393",
+      "name": "prog_gearset_dothraki_boots"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_dothraki_5_ring_lord5",
+        "eq_events_dothraki_10_ring_lord10",
+        "eq_events_dothraki_15_ring_lord15",
+        "eq_events_dothraki_20_ring_lord20",
+        "eq_events_dothraki_25_ring_lord25",
+        "eq_events_dothraki_30_ring_lord30",
+        "eq_events_dothraki_35_ring_lord35",
+        "eq_events_dothraki_40_ring_lord40",
+        "eq_events_dothraki_45_ring_lord45",
+        "eq_events_dothraki_50_ring_lord50"
+      ],
+      "id": "ceb4c8402a8b41be",
+      "name": "prog_gearset_dothraki_ring"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_dothraki_5_weapon_lord5",
+        "eq_events_dothraki_10_weapon_lord10",
+        "eq_events_dothraki_15_weapon_lord15",
+        "eq_events_dothraki_20_weapon_lord20",
+        "eq_events_dothraki_25_weapon_lord25",
+        "eq_events_dothraki_30_weapon_lord30",
+        "eq_events_dothraki_35_weapon_lord35",
+        "eq_events_dothraki_40_weapon_lord40",
+        "eq_events_dothraki_45_weapon_lord45",
+        "eq_events_dothraki_50_weapon_lord50"
+      ],
+      "id": "73f47a16542f1b20",
+      "name": "prog_gearset_dothraki_weapon"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_maester_5_helmet_lord5",
+        "eq_events_maester_10_helmet_lord10",
+        "eq_events_maester_15_helmet_lord15",
+        "eq_events_maester_20_helmet_lord20",
+        "eq_events_maester_25_helmet_lord25",
+        "eq_events_maester_30_helmet_lord30",
+        "eq_events_maester_35_helmet_lord35",
+        "eq_events_maester_40_helmet_lord40",
+        "eq_events_maester_45_helmet_lord45",
+        "eq_events_maester_50_helmet_lord50"
+      ],
+      "id": "8cfc75a76f8318dc",
+      "name": "prog_gearset_maester_helmet"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_maester_5_chest_lord5",
+        "eq_events_maester_10_chest_lord10",
+        "eq_events_maester_15_chest_lord15",
+        "eq_events_maester_20_chest_lord20",
+        "eq_events_maester_25_chest_lord25",
+        "eq_events_maester_30_chest_lord30",
+        "eq_events_maester_35_chest_lord35",
+        "eq_events_maester_40_chest_lord40",
+        "eq_events_maester_45_chest_lord45",
+        "eq_events_maester_50_chest_lord50"
+      ],
+      "id": "bcba59e0b97738ea",
+      "name": "prog_gearset_maester_chest"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_maester_5_pants_lord5",
+        "eq_events_maester_10_pants_lord10",
+        "eq_events_maester_15_pants_lord15",
+        "eq_events_maester_20_pants_lord20",
+        "eq_events_maester_25_pants_lord25",
+        "eq_events_maester_30_pants_lord30",
+        "eq_events_maester_35_pants_lord35",
+        "eq_events_maester_40_pants_lord40",
+        "eq_events_maester_45_pants_lord45",
+        "eq_events_maester_50_pants_lord50"
+      ],
+      "id": "39f28fe85fafa89b",
+      "name": "prog_gearset_maester_pants"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_maester_5_boots_lord5",
+        "eq_events_maester_10_boots_lord10",
+        "eq_events_maester_15_boots_lord15",
+        "eq_events_maester_20_boots_lord20",
+        "eq_events_maester_25_boots_lord25",
+        "eq_events_maester_30_boots_lord30",
+        "eq_events_maester_35_boots_lord35",
+        "eq_events_maester_40_boots_lord40",
+        "eq_events_maester_45_boots_lord45",
+        "eq_events_maester_50_boots_lord50"
+      ],
+      "id": "80c1e54a8de809d2",
+      "name": "prog_gearset_maester_boots"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_maester_5_ring_lord5",
+        "eq_events_maester_10_ring_lord10",
+        "eq_events_maester_15_ring_lord15",
+        "eq_events_maester_20_ring_lord20",
+        "eq_events_maester_25_ring_lord25",
+        "eq_events_maester_30_ring_lord30",
+        "eq_events_maester_35_ring_lord35",
+        "eq_events_maester_40_ring_lord40",
+        "eq_events_maester_45_ring_lord45",
+        "eq_events_maester_50_ring_lord50"
+      ],
+      "id": "94c39f7a3a1fc810",
+      "name": "prog_gearset_maester_ring"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_maester_5_weapon_lord5",
+        "eq_events_maester_10_weapon_lord10",
+        "eq_events_maester_15_weapon_lord15",
+        "eq_events_maester_20_weapon_lord20",
+        "eq_events_maester_25_weapon_lord25",
+        "eq_events_maester_30_weapon_lord30",
+        "eq_events_maester_35_weapon_lord35",
+        "eq_events_maester_40_weapon_lord40",
+        "eq_events_maester_45_weapon_lord45",
+        "eq_events_maester_50_weapon_lord50"
+      ],
+      "id": "fea9b31e0641ae0f",
+      "name": "prog_gearset_maester_weapon"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_essospirate_5_helmet_lord5",
+        "eq_events_essospirate_10_helmet_lord10",
+        "eq_events_essospirate_15_helmet_lord15",
+        "eq_events_essospirate_20_helmet_lord20",
+        "eq_events_essospirate_25_helmet_lord25",
+        "eq_events_essospirate_30_helmet_lord30",
+        "eq_events_essospirate_35_helmet_lord35",
+        "eq_events_essospirate_40_helmet_lord40",
+        "eq_events_essospirate_45_helmet_lord45",
+        "eq_events_essospirate_50_helmet_lord50"
+      ],
+      "id": "d3499f66f2738774",
+      "name": "prog_gearset_essospirate_helmet"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_essospirate_5_chest_lord5",
+        "eq_events_essospirate_10_chest_lord10",
+        "eq_events_essospirate_15_chest_lord15",
+        "eq_events_essospirate_20_chest_lord20",
+        "eq_events_essospirate_25_chest_lord25",
+        "eq_events_essospirate_30_chest_lord30",
+        "eq_events_essospirate_35_chest_lord35",
+        "eq_events_essospirate_40_chest_lord40",
+        "eq_events_essospirate_45_chest_lord45",
+        "eq_events_essospirate_50_chest_lord50"
+      ],
+      "id": "e02edcc6c9f65844",
+      "name": "prog_gearset_essospirate_chest"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_essospirate_5_pants_lord5",
+        "eq_events_essospirate_10_pants_lord10",
+        "eq_events_essospirate_15_pants_lord15",
+        "eq_events_essospirate_20_pants_lord20",
+        "eq_events_essospirate_25_pants_lord25",
+        "eq_events_essospirate_30_pants_lord30",
+        "eq_events_essospirate_35_pants_lord35",
+        "eq_events_essospirate_40_pants_lord40",
+        "eq_events_essospirate_45_pants_lord45",
+        "eq_events_essospirate_50_pants_lord50"
+      ],
+      "id": "65660ace2f2ec835",
+      "name": "prog_gearset_essospirate_pants"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_essospirate_5_boots_lord5",
+        "eq_events_essospirate_10_boots_lord10",
+        "eq_events_essospirate_15_boots_lord15",
+        "eq_events_essospirate_20_boots_lord20",
+        "eq_events_essospirate_25_boots_lord25",
+        "eq_events_essospirate_30_boots_lord30",
+        "eq_events_essospirate_35_boots_lord35",
+        "eq_events_essospirate_40_boots_lord40",
+        "eq_events_essospirate_45_boots_lord45",
+        "eq_events_essospirate_50_boots_lord50"
+      ],
+      "id": "dc55606cfd69697c",
+      "name": "prog_gearset_essospirate_boots"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_essospirate_5_ring_lord5",
+        "eq_events_essospirate_10_ring_lord10",
+        "eq_events_essospirate_15_ring_lord15",
+        "eq_events_essospirate_20_ring_lord20",
+        "eq_events_essospirate_25_ring_lord25",
+        "eq_events_essospirate_30_ring_lord30",
+        "eq_events_essospirate_35_ring_lord35",
+        "eq_events_essospirate_40_ring_lord40",
+        "eq_events_essospirate_45_ring_lord45",
+        "eq_events_essospirate_50_ring_lord50"
+      ],
+      "id": "ec4c795ba83f30e8",
+      "name": "prog_gearset_essospirate_ring"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_essospirate_5_weapon_lord5",
+        "eq_events_essospirate_10_weapon_lord10",
+        "eq_events_essospirate_15_weapon_lord15",
+        "eq_events_essospirate_20_weapon_lord20",
+        "eq_events_essospirate_25_weapon_lord25",
+        "eq_events_essospirate_30_weapon_lord30",
+        "eq_events_essospirate_35_weapon_lord35",
+        "eq_events_essospirate_40_weapon_lord40",
+        "eq_events_essospirate_45_weapon_lord45",
+        "eq_events_essospirate_50_weapon_lord50"
+      ],
+      "id": "a11c59df9bb131a7",
+      "name": "prog_gearset_essospirate_weapon"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_ironisland_5_helmet_lord5",
+        "eq_events_ironisland_10_helmet_lord10",
+        "eq_events_ironisland_15_helmet_lord15",
+        "eq_events_ironisland_20_helmet_lord20",
+        "eq_events_ironisland_25_helmet_lord25",
+        "eq_events_ironisland_30_helmet_lord30",
+        "eq_events_ironisland_35_helmet_lord35",
+        "eq_events_ironisland_40_helmet_lord40",
+        "eq_events_ironisland_45_helmet_lord45",
+        "eq_events_ironisland_50_helmet_lord50"
+      ],
+      "id": "b3f413c401e6d867",
+      "name": "prog_gearset_ironisland_helmet"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_ironisland_5_chest_lord5",
+        "eq_events_ironisland_10_chest_lord10",
+        "eq_events_ironisland_15_chest_lord15",
+        "eq_events_ironisland_20_chest_lord20",
+        "eq_events_ironisland_25_chest_lord25",
+        "eq_events_ironisland_30_chest_lord30",
+        "eq_events_ironisland_35_chest_lord35",
+        "eq_events_ironisland_40_chest_lord40",
+        "eq_events_ironisland_45_chest_lord45",
+        "eq_events_ironisland_50_chest_lord50"
+      ],
+      "id": "f332e367377a8184",
+      "name": "prog_gearset_ironisland_chest"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_ironisland_5_pants_lord5",
+        "eq_events_ironisland_10_pants_lord10",
+        "eq_events_ironisland_15_pants_lord15",
+        "eq_events_ironisland_20_pants_lord20",
+        "eq_events_ironisland_25_pants_lord25",
+        "eq_events_ironisland_30_pants_lord30",
+        "eq_events_ironisland_35_pants_lord35",
+        "eq_events_ironisland_40_pants_lord40",
+        "eq_events_ironisland_45_pants_lord45",
+        "eq_events_ironisland_50_pants_lord50"
+      ],
+      "id": "767a356fd1a211f5",
+      "name": "prog_gearset_ironisland_pants"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_ironisland_5_boots_lord5",
+        "eq_events_ironisland_10_boots_lord10",
+        "eq_events_ironisland_15_boots_lord15",
+        "eq_events_ironisland_20_boots_lord20",
+        "eq_events_ironisland_25_boots_lord25",
+        "eq_events_ironisland_30_boots_lord30",
+        "eq_events_ironisland_35_boots_lord35",
+        "eq_events_ironisland_40_boots_lord40",
+        "eq_events_ironisland_45_boots_lord45",
+        "eq_events_ironisland_50_boots_lord50"
+      ],
+      "id": "cf495fcd03e5b0bc",
+      "name": "prog_gearset_ironisland_boots"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_ironisland_5_ring_lord5",
+        "eq_events_ironisland_10_ring_lord10",
+        "eq_events_ironisland_15_ring_lord15",
+        "eq_events_ironisland_20_ring_lord20",
+        "eq_events_ironisland_25_ring_lord25",
+        "eq_events_ironisland_30_ring_lord30",
+        "eq_events_ironisland_35_ring_lord35",
+        "eq_events_ironisland_40_ring_lord40",
+        "eq_events_ironisland_45_ring_lord45",
+        "eq_events_ironisland_50_ring_lord50"
+      ],
+      "id": "4656a7fb9c7a0887",
+      "name": "prog_gearset_ironisland_ring"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_ironisland_5_weapon_lord5",
+        "eq_events_ironisland_10_weapon_lord10",
+        "eq_events_ironisland_15_weapon_lord15",
+        "eq_events_ironisland_20_weapon_lord20",
+        "eq_events_ironisland_25_weapon_lord25",
+        "eq_events_ironisland_30_weapon_lord30",
+        "eq_events_ironisland_35_weapon_lord35",
+        "eq_events_ironisland_40_weapon_lord40",
+        "eq_events_ironisland_45_weapon_lord45",
+        "eq_events_ironisland_50_weapon_lord50"
+      ],
+      "id": "c1a1d57d68246eb4",
+      "name": "prog_gearset_ironisland_weapon"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_faithmilitant_5_helmet_lord5",
+        "eq_events_faithmilitant_10_helmet_lord10",
+        "eq_events_faithmilitant_15_helmet_lord15",
+        "eq_events_faithmilitant_20_helmet_lord20",
+        "eq_events_faithmilitant_25_helmet_lord25",
+        "eq_events_faithmilitant_30_helmet_lord30",
+        "eq_events_faithmilitant_35_helmet_lord35",
+        "eq_events_faithmilitant_40_helmet_lord40",
+        "eq_events_faithmilitant_45_helmet_lord45",
+        "eq_events_faithmilitant_50_helmet_lord50"
+      ],
+      "id": "6452e32afaf71d2a",
+      "name": "prog_gearset_faithmilitant_helmet"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_faithmilitant_5_chest_lord5",
+        "eq_events_faithmilitant_10_chest_lord10",
+        "eq_events_faithmilitant_15_chest_lord15",
+        "eq_events_faithmilitant_20_chest_lord20",
+        "eq_events_faithmilitant_25_chest_lord25",
+        "eq_events_faithmilitant_30_chest_lord30",
+        "eq_events_faithmilitant_35_chest_lord35",
+        "eq_events_faithmilitant_40_chest_lord40",
+        "eq_events_faithmilitant_45_chest_lord45",
+        "eq_events_faithmilitant_50_chest_lord50"
+      ],
+      "id": "b15bc559fc670391",
+      "name": "prog_gearset_faithmilitant_chest"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_faithmilitant_5_pants_lord5",
+        "eq_events_faithmilitant_10_pants_lord10",
+        "eq_events_faithmilitant_15_pants_lord15",
+        "eq_events_faithmilitant_20_pants_lord20",
+        "eq_events_faithmilitant_25_pants_lord25",
+        "eq_events_faithmilitant_30_pants_lord30",
+        "eq_events_faithmilitant_35_pants_lord35",
+        "eq_events_faithmilitant_40_pants_lord40",
+        "eq_events_faithmilitant_45_pants_lord45",
+        "eq_events_faithmilitant_50_pants_lord50"
+      ],
+      "id": "341313511abf93e0",
+      "name": "prog_gearset_faithmilitant_pants"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_faithmilitant_5_boots_lord5",
+        "eq_events_faithmilitant_10_boots_lord10",
+        "eq_events_faithmilitant_15_boots_lord15",
+        "eq_events_faithmilitant_20_boots_lord20",
+        "eq_events_faithmilitant_25_boots_lord25",
+        "eq_events_faithmilitant_30_boots_lord30",
+        "eq_events_faithmilitant_35_boots_lord35",
+        "eq_events_faithmilitant_40_boots_lord40",
+        "eq_events_faithmilitant_45_boots_lord45",
+        "eq_events_faithmilitant_50_boots_lord50"
+      ],
+      "id": "8d2079f3c8f832a9",
+      "name": "prog_gearset_faithmilitant_boots"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_faithmilitant_5_ring_lord5",
+        "eq_events_faithmilitant_10_ring_lord10",
+        "eq_events_faithmilitant_15_ring_lord15",
+        "eq_events_faithmilitant_20_ring_lord20",
+        "eq_events_faithmilitant_25_ring_lord25",
+        "eq_events_faithmilitant_30_ring_lord30",
+        "eq_events_faithmilitant_35_ring_lord35",
+        "eq_events_faithmilitant_40_ring_lord40",
+        "eq_events_faithmilitant_45_ring_lord45",
+        "eq_events_faithmilitant_50_ring_lord50"
+      ],
+      "id": "e23777e02ef18563",
+      "name": "prog_gearset_faithmilitant_ring"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_faithmilitant_5_weapon_lord5",
+        "eq_events_faithmilitant_10_weapon_lord10",
+        "eq_events_faithmilitant_15_weapon_lord15",
+        "eq_events_faithmilitant_20_weapon_lord20",
+        "eq_events_faithmilitant_25_weapon_lord25",
+        "eq_events_faithmilitant_30_weapon_lord30",
+        "eq_events_faithmilitant_35_weapon_lord35",
+        "eq_events_faithmilitant_40_weapon_lord40",
+        "eq_events_faithmilitant_45_weapon_lord45",
+        "eq_events_faithmilitant_50_weapon_lord50"
+      ],
+      "id": "160725939335abf9",
+      "name": "prog_gearset_faithmilitant_weapon"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_wildling_5_helmet_lord5",
+        "eq_events_wildling_10_helmet_lord10",
+        "eq_events_wildling_15_helmet_lord15",
+        "eq_events_wildling_20_helmet_lord20",
+        "eq_events_wildling_25_helmet_lord25",
+        "eq_events_wildling_30_helmet_lord30",
+        "eq_events_wildling_35_helmet_lord35",
+        "eq_events_wildling_40_helmet_lord40",
+        "eq_events_wildling_45_helmet_lord45",
+        "eq_events_wildling_50_helmet_lord50"
+      ],
+      "id": "c0193056167e57a8",
+      "name": "prog_gearset_wildling_helmet"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_wildling_5_chest_lord5",
+        "eq_events_wildling_10_chest_lord10",
+        "eq_events_wildling_15_chest_lord15",
+        "eq_events_wildling_20_chest_lord20",
+        "eq_events_wildling_25_chest_lord25",
+        "eq_events_wildling_30_chest_lord30",
+        "eq_events_wildling_35_chest_lord35",
+        "eq_events_wildling_40_chest_lord40",
+        "eq_events_wildling_45_chest_lord45",
+        "eq_events_wildling_50_chest_lord50"
+      ],
+      "id": "6a4937c7cba7c2b",
+      "name": "prog_gearset_wildling_chest"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_wildling_5_pants_lord5",
+        "eq_events_wildling_10_pants_lord10",
+        "eq_events_wildling_15_pants_lord15",
+        "eq_events_wildling_20_pants_lord20",
+        "eq_events_wildling_25_pants_lord25",
+        "eq_events_wildling_30_pants_lord30",
+        "eq_events_wildling_35_pants_lord35",
+        "eq_events_wildling_40_pants_lord40",
+        "eq_events_wildling_45_pants_lord45",
+        "eq_events_wildling_50_pants_lord50"
+      ],
+      "id": "83ec45749a62ec5a",
+      "name": "prog_gearset_wildling_pants"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_wildling_5_boots_lord5",
+        "eq_events_wildling_10_boots_lord10",
+        "eq_events_wildling_15_boots_lord15",
+        "eq_events_wildling_20_boots_lord20",
+        "eq_events_wildling_25_boots_lord25",
+        "eq_events_wildling_30_boots_lord30",
+        "eq_events_wildling_35_boots_lord35",
+        "eq_events_wildling_40_boots_lord40",
+        "eq_events_wildling_45_boots_lord45",
+        "eq_events_wildling_50_boots_lord50"
+      ],
+      "id": "3adf2fd648254d13",
+      "name": "prog_gearset_wildling_boots"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_wildling_5_ring_lord5",
+        "eq_events_wildling_10_ring_lord10",
+        "eq_events_wildling_15_ring_lord15",
+        "eq_events_wildling_20_ring_lord20",
+        "eq_events_wildling_25_ring_lord25",
+        "eq_events_wildling_30_ring_lord30",
+        "eq_events_wildling_35_ring_lord35",
+        "eq_events_wildling_40_ring_lord40",
+        "eq_events_wildling_45_ring_lord45",
+        "eq_events_wildling_50_ring_lord50"
+      ],
+      "id": "576807f742853ab6",
+      "name": "prog_gearset_wildling_ring"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_wildling_5_weapon_lord5",
+        "eq_events_wildling_10_weapon_lord10",
+        "eq_events_wildling_15_weapon_lord15",
+        "eq_events_wildling_20_weapon_lord20",
+        "eq_events_wildling_25_weapon_lord25",
+        "eq_events_wildling_30_weapon_lord30",
+        "eq_events_wildling_35_weapon_lord35",
+        "eq_events_wildling_40_weapon_lord40",
+        "eq_events_wildling_45_weapon_lord45",
+        "eq_events_wildling_50_weapon_lord50"
+      ],
+      "id": "b24cf6ef7fbce17b",
+      "name": "prog_gearset_wildling_weapon"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_wrathofwinter_5_helmet_lord5",
+        "eq_events_wrathofwinter_10_helmet_lord10",
+        "eq_events_wrathofwinter_15_helmet_lord15",
+        "eq_events_wrathofwinter_20_helmet_lord20",
+        "eq_events_wrathofwinter_25_helmet_lord25",
+        "eq_events_wrathofwinter_30_helmet_lord30",
+        "eq_events_wrathofwinter_35_helmet_lord35",
+        "eq_events_wrathofwinter_40_helmet_lord40",
+        "eq_events_wrathofwinter_45_helmet_lord45",
+        "eq_events_wrathofwinter_50_helmet_lord50"
+      ],
+      "id": "decf8574951ecf6b",
+      "name": "prog_gearset_wrathofwinter_helmet"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_wrathofwinter_5_chest_lord5",
+        "eq_events_wrathofwinter_10_chest_lord10",
+        "eq_events_wrathofwinter_15_chest_lord15",
+        "eq_events_wrathofwinter_20_chest_lord20",
+        "eq_events_wrathofwinter_25_chest_lord25",
+        "eq_events_wrathofwinter_30_chest_lord30",
+        "eq_events_wrathofwinter_35_chest_lord35",
+        "eq_events_wrathofwinter_40_chest_lord40",
+        "eq_events_wrathofwinter_45_chest_lord45",
+        "eq_events_wrathofwinter_50_chest_lord50"
+      ],
+      "id": "f15c9f7ea06b7137",
+      "name": "prog_gearset_wrathofwinter_chest"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_wrathofwinter_5_pants_lord5",
+        "eq_events_wrathofwinter_10_pants_lord10",
+        "eq_events_wrathofwinter_15_pants_lord15",
+        "eq_events_wrathofwinter_20_pants_lord20",
+        "eq_events_wrathofwinter_25_pants_lord25",
+        "eq_events_wrathofwinter_30_pants_lord30",
+        "eq_events_wrathofwinter_35_pants_lord35",
+        "eq_events_wrathofwinter_40_pants_lord40",
+        "eq_events_wrathofwinter_45_pants_lord45",
+        "eq_events_wrathofwinter_50_pants_lord50"
+      ],
+      "id": "7414497646b3e146",
+      "name": "prog_gearset_wrathofwinter_pants"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_wrathofwinter_5_boots_lord5",
+        "eq_events_wrathofwinter_10_boots_lord10",
+        "eq_events_wrathofwinter_15_boots_lord15",
+        "eq_events_wrathofwinter_20_boots_lord20",
+        "eq_events_wrathofwinter_25_boots_lord25",
+        "eq_events_wrathofwinter_30_boots_lord30",
+        "eq_events_wrathofwinter_35_boots_lord35",
+        "eq_events_wrathofwinter_40_boots_lord40",
+        "eq_events_wrathofwinter_45_boots_lord45",
+        "eq_events_wrathofwinter_50_boots_lord50"
+      ],
+      "id": "cd2723d494f4400f",
+      "name": "prog_gearset_wrathofwinter_boots"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_wrathofwinter_5_ring_lord5",
+        "eq_events_wrathofwinter_10_ring_lord10",
+        "eq_events_wrathofwinter_15_ring_lord15",
+        "eq_events_wrathofwinter_20_ring_lord20",
+        "eq_events_wrathofwinter_25_ring_lord25",
+        "eq_events_wrathofwinter_30_ring_lord30",
+        "eq_events_wrathofwinter_35_ring_lord35",
+        "eq_events_wrathofwinter_40_ring_lord40",
+        "eq_events_wrathofwinter_45_ring_lord45",
+        "eq_events_wrathofwinter_50_ring_lord50"
+      ],
+      "id": "afe478f3577b6afa",
+      "name": "prog_gearset_wrathofwinter_ring"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_wrathofwinter_5_weapon_lord5",
+        "eq_events_wrathofwinter_10_weapon_lord10",
+        "eq_events_wrathofwinter_15_weapon_lord15",
+        "eq_events_wrathofwinter_20_weapon_lord20",
+        "eq_events_wrathofwinter_25_weapon_lord25",
+        "eq_events_wrathofwinter_30_weapon_lord30",
+        "eq_events_wrathofwinter_35_weapon_lord35",
+        "eq_events_wrathofwinter_40_weapon_lord40",
+        "eq_events_wrathofwinter_45_weapon_lord45",
+        "eq_events_wrathofwinter_50_weapon_lord50"
+      ],
+      "id": "ac9a43cdfcdc79b8",
+      "name": "prog_gearset_wrathofwinter_weapon"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_blackfyre_5_helmet_lord5",
+        "eq_events_blackfyre_10_helmet_lord10",
+        "eq_events_blackfyre_15_helmet_lord15",
+        "eq_events_blackfyre_20_helmet_lord20",
+        "eq_events_blackfyre_25_helmet_lord25",
+        "eq_events_blackfyre_30_helmet_lord30",
+        "eq_events_blackfyre_35_helmet_lord35",
+        "eq_events_blackfyre_40_helmet_lord40",
+        "eq_events_blackfyre_45_helmet_lord45",
+        "eq_events_blackfyre_50_helmet_lord50"
+      ],
+      "id": "906fc2f1bf9d4ca9",
+      "name": "prog_gearset_blackfyre_helmet"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_blackfyre_5_chest_lord5",
+        "eq_events_blackfyre_10_chest_lord10",
+        "eq_events_blackfyre_15_chest_lord15",
+        "eq_events_blackfyre_20_chest_lord20",
+        "eq_events_blackfyre_25_chest_lord25",
+        "eq_events_blackfyre_30_chest_lord30",
+        "eq_events_blackfyre_35_chest_lord35",
+        "eq_events_blackfyre_40_chest_lord40",
+        "eq_events_blackfyre_45_chest_lord45",
+        "eq_events_blackfyre_50_chest_lord50"
+      ],
+      "id": "898ee72ec19b528b",
+      "name": "prog_gearset_blackfyre_chest"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_blackfyre_5_pants_lord5",
+        "eq_events_blackfyre_10_pants_lord10",
+        "eq_events_blackfyre_15_pants_lord15",
+        "eq_events_blackfyre_20_pants_lord20",
+        "eq_events_blackfyre_25_pants_lord25",
+        "eq_events_blackfyre_30_pants_lord30",
+        "eq_events_blackfyre_35_pants_lord35",
+        "eq_events_blackfyre_40_pants_lord40",
+        "eq_events_blackfyre_45_pants_lord45",
+        "eq_events_blackfyre_50_pants_lord50"
+      ],
+      "id": "cc631262743c2fa",
+      "name": "prog_gearset_blackfyre_pants"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_blackfyre_5_boots_lord5",
+        "eq_events_blackfyre_10_boots_lord10",
+        "eq_events_blackfyre_15_boots_lord15",
+        "eq_events_blackfyre_20_boots_lord20",
+        "eq_events_blackfyre_25_boots_lord25",
+        "eq_events_blackfyre_30_boots_lord30",
+        "eq_events_blackfyre_35_boots_lord35",
+        "eq_events_blackfyre_40_boots_lord40",
+        "eq_events_blackfyre_45_boots_lord45",
+        "eq_events_blackfyre_50_boots_lord50"
+      ],
+      "id": "b5f55b84f50463b3",
+      "name": "prog_gearset_blackfyre_boots"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_blackfyre_5_ring_lord5",
+        "eq_events_blackfyre_10_ring_lord10",
+        "eq_events_blackfyre_15_ring_lord15",
+        "eq_events_blackfyre_20_ring_lord20",
+        "eq_events_blackfyre_25_ring_lord25",
+        "eq_events_blackfyre_30_ring_lord30",
+        "eq_events_blackfyre_35_ring_lord35",
+        "eq_events_blackfyre_40_ring_lord40",
+        "eq_events_blackfyre_45_ring_lord45",
+        "eq_events_blackfyre_50_ring_lord50"
+      ],
+      "id": "f8a89294567fee8a",
+      "name": "prog_gearset_blackfyre_ring"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_blackfyre_5_weapon_lord5",
+        "eq_events_blackfyre_10_weapon_lord10",
+        "eq_events_blackfyre_15_weapon_lord15",
+        "eq_events_blackfyre_20_weapon_lord20",
+        "eq_events_blackfyre_25_weapon_lord25",
+        "eq_events_blackfyre_30_weapon_lord30",
+        "eq_events_blackfyre_35_weapon_lord35",
+        "eq_events_blackfyre_40_weapon_lord40",
+        "eq_events_blackfyre_45_weapon_lord45",
+        "eq_events_blackfyre_50_weapon_lord50"
+      ],
+      "id": "e23a0448d65ffa7a",
+      "name": "prog_gearset_blackfyre_weapon"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_bolton_5_helmet_lord5",
+        "eq_events_bolton_10_helmet_lord10",
+        "eq_events_bolton_15_helmet_lord15",
+        "eq_events_bolton_20_helmet_lord20",
+        "eq_events_bolton_25_helmet_lord25",
+        "eq_events_bolton_30_helmet_lord30",
+        "eq_events_bolton_35_helmet_lord35",
+        "eq_events_bolton_40_helmet_lord40",
+        "eq_events_bolton_45_helmet_lord45",
+        "eq_events_bolton_50_helmet_lord50"
+      ],
+      "id": "8b96d7126f33b093",
+      "name": "prog_gearset_bolton_helmet"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_bolton_5_chest_lord5",
+        "eq_events_bolton_10_chest_lord10",
+        "eq_events_bolton_15_chest_lord15",
+        "eq_events_bolton_20_chest_lord20",
+        "eq_events_bolton_25_chest_lord25",
+        "eq_events_bolton_30_chest_lord30",
+        "eq_events_bolton_35_chest_lord35",
+        "eq_events_bolton_40_chest_lord40",
+        "eq_events_bolton_45_chest_lord45",
+        "eq_events_bolton_50_chest_lord50"
+      ],
+      "id": "5e4ba74066cd046d",
+      "name": "prog_gearset_bolton_chest"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_bolton_5_pants_lord5",
+        "eq_events_bolton_10_pants_lord10",
+        "eq_events_bolton_15_pants_lord15",
+        "eq_events_bolton_20_pants_lord20",
+        "eq_events_bolton_25_pants_lord25",
+        "eq_events_bolton_30_pants_lord30",
+        "eq_events_bolton_35_pants_lord35",
+        "eq_events_bolton_40_pants_lord40",
+        "eq_events_bolton_45_pants_lord45",
+        "eq_events_bolton_50_pants_lord50"
+      ],
+      "id": "db0371488015941c",
+      "name": "prog_gearset_bolton_pants"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_bolton_5_boots_lord5",
+        "eq_events_bolton_10_boots_lord10",
+        "eq_events_bolton_15_boots_lord15",
+        "eq_events_bolton_20_boots_lord20",
+        "eq_events_bolton_25_boots_lord25",
+        "eq_events_bolton_30_boots_lord30",
+        "eq_events_bolton_35_boots_lord35",
+        "eq_events_bolton_40_boots_lord40",
+        "eq_events_bolton_45_boots_lord45",
+        "eq_events_bolton_50_boots_lord50"
+      ],
+      "id": "62301bea52523555",
+      "name": "prog_gearset_bolton_boots"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_bolton_5_ring_lord5",
+        "eq_events_bolton_10_ring_lord10",
+        "eq_events_bolton_15_ring_lord15",
+        "eq_events_bolton_20_ring_lord20",
+        "eq_events_bolton_25_ring_lord25",
+        "eq_events_bolton_30_ring_lord30",
+        "eq_events_bolton_35_ring_lord35",
+        "eq_events_bolton_40_ring_lord40",
+        "eq_events_bolton_45_ring_lord45",
+        "eq_events_bolton_50_ring_lord50"
+      ],
+      "id": "d97134f6daf1c79f",
+      "name": "prog_gearset_bolton_ring"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_bolton_5_weapon_lord5",
+        "eq_events_bolton_10_weapon_lord10",
+        "eq_events_bolton_15_weapon_lord15",
+        "eq_events_bolton_20_weapon_lord20",
+        "eq_events_bolton_25_weapon_lord25",
+        "eq_events_bolton_30_weapon_lord30",
+        "eq_events_bolton_35_weapon_lord35",
+        "eq_events_bolton_40_weapon_lord40",
+        "eq_events_bolton_45_weapon_lord45",
+        "eq_events_bolton_50_weapon_lord50"
+      ],
+      "id": "f9c311ab06f10640",
+      "name": "prog_gearset_bolton_weapon"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_braavos_5_helmet_lord5",
+        "eq_events_braavos_10_helmet_lord10",
+        "eq_events_braavos_15_helmet_lord15",
+        "eq_events_braavos_20_helmet_lord20",
+        "eq_events_braavos_25_helmet_lord25",
+        "eq_events_braavos_30_helmet_lord30",
+        "eq_events_braavos_35_helmet_lord35",
+        "eq_events_braavos_40_helmet_lord40",
+        "eq_events_braavos_45_helmet_lord45",
+        "eq_events_braavos_50_helmet_lord50"
+      ],
+      "id": "2992e5fecd8a0771",
+      "name": "prog_gearset_braavos_helmet"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_braavos_5_chest_lord5",
+        "eq_events_braavos_10_chest_lord10",
+        "eq_events_braavos_15_chest_lord15",
+        "eq_events_braavos_20_chest_lord20",
+        "eq_events_braavos_25_chest_lord25",
+        "eq_events_braavos_30_chest_lord30",
+        "eq_events_braavos_35_chest_lord35",
+        "eq_events_braavos_40_chest_lord40",
+        "eq_events_braavos_45_chest_lord45",
+        "eq_events_braavos_50_chest_lord50"
+      ],
+      "id": "acbc68fef050277b",
+      "name": "prog_gearset_braavos_chest"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_braavos_5_pants_lord5",
+        "eq_events_braavos_10_pants_lord10",
+        "eq_events_braavos_15_pants_lord15",
+        "eq_events_braavos_20_pants_lord20",
+        "eq_events_braavos_25_pants_lord25",
+        "eq_events_braavos_30_pants_lord30",
+        "eq_events_braavos_35_pants_lord35",
+        "eq_events_braavos_40_pants_lord40",
+        "eq_events_braavos_45_pants_lord45",
+        "eq_events_braavos_50_pants_lord50"
+      ],
+      "id": "29f4bef61688b70a",
+      "name": "prog_gearset_braavos_pants"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_braavos_5_boots_lord5",
+        "eq_events_braavos_10_boots_lord10",
+        "eq_events_braavos_15_boots_lord15",
+        "eq_events_braavos_20_boots_lord20",
+        "eq_events_braavos_25_boots_lord25",
+        "eq_events_braavos_30_boots_lord30",
+        "eq_events_braavos_35_boots_lord35",
+        "eq_events_braavos_40_boots_lord40",
+        "eq_events_braavos_45_boots_lord45",
+        "eq_events_braavos_50_boots_lord50"
+      ],
+      "id": "90c7d454c4cf1643",
+      "name": "prog_gearset_braavos_boots"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_braavos_5_ring_lord5",
+        "eq_events_braavos_10_ring_lord10",
+        "eq_events_braavos_15_ring_lord15",
+        "eq_events_braavos_20_ring_lord20",
+        "eq_events_braavos_25_ring_lord25",
+        "eq_events_braavos_30_ring_lord30",
+        "eq_events_braavos_35_ring_lord35",
+        "eq_events_braavos_40_ring_lord40",
+        "eq_events_braavos_45_ring_lord45",
+        "eq_events_braavos_50_ring_lord50"
+      ],
+      "id": "21a37a8736c23f29",
+      "name": "prog_gearset_braavos_ring"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_braavos_5_weapon_lord5",
+        "eq_events_braavos_10_weapon_lord10",
+        "eq_events_braavos_15_weapon_lord15",
+        "eq_events_braavos_20_weapon_lord20",
+        "eq_events_braavos_25_weapon_lord25",
+        "eq_events_braavos_30_weapon_lord30",
+        "eq_events_braavos_35_weapon_lord35",
+        "eq_events_braavos_40_weapon_lord40",
+        "eq_events_braavos_45_weapon_lord45",
+        "eq_events_braavos_50_weapon_lord50"
+      ],
+      "id": "5bc72347a448b1a2",
+      "name": "prog_gearset_braavos_weapon"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_braavos_5_helmet2_lord5",
+        "eq_events_braavos_10_helmet2_lord10",
+        "eq_events_braavos_15_helmet2_lord15",
+        "eq_events_braavos_20_helmet2_lord20",
+        "eq_events_braavos_25_helmet2_lord25",
+        "eq_events_braavos_30_helmet2_lord30",
+        "eq_events_braavos_35_helmet2_lord35",
+        "eq_events_braavos_40_helmet2_lord40",
+        "eq_events_braavos_45_helmet2_lord45",
+        "eq_events_braavos_50_helmet2_lord50"
+      ],
+      "id": "d4c87fa9d1840c56",
+      "name": "prog_gearset_braavos_helmet2"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_braavos_5_weapon2_lord5",
+        "eq_events_braavos_10_weapon2_lord10",
+        "eq_events_braavos_15_weapon2_lord15",
+        "eq_events_braavos_20_weapon2_lord20",
+        "eq_events_braavos_25_weapon2_lord25",
+        "eq_events_braavos_30_weapon2_lord30",
+        "eq_events_braavos_35_weapon2_lord35",
+        "eq_events_braavos_40_weapon2_lord40",
+        "eq_events_braavos_45_weapon2_lord45",
+        "eq_events_braavos_50_weapon2_lord50"
+      ],
+      "id": "89d49aed4cb721f9",
+      "name": "prog_gearset_braavos_weapon2"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_greathunt_5_helmet_lord5",
+        "eq_events_greathunt_10_helmet_lord10",
+        "eq_events_greathunt_15_helmet_lord15",
+        "eq_events_greathunt_20_helmet_lord20",
+        "eq_events_greathunt_25_helmet_lord25",
+        "eq_events_greathunt_30_helmet_lord30",
+        "eq_events_greathunt_35_helmet_lord35",
+        "eq_events_greathunt_40_helmet_lord40",
+        "eq_events_greathunt_45_helmet_lord45",
+        "eq_events_greathunt_50_helmet_lord50"
+      ],
+      "id": "3bca8300bfdcd4d8",
+      "name": "prog_gearset_greathunt_helmet"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_greathunt_5_chest_lord5",
+        "eq_events_greathunt_10_chest_lord10",
+        "eq_events_greathunt_15_chest_lord15",
+        "eq_events_greathunt_20_chest_lord20",
+        "eq_events_greathunt_25_chest_lord25",
+        "eq_events_greathunt_30_chest_lord30",
+        "eq_events_greathunt_35_chest_lord35",
+        "eq_events_greathunt_40_chest_lord40",
+        "eq_events_greathunt_45_chest_lord45",
+        "eq_events_greathunt_50_chest_lord50"
+      ],
+      "id": "c045aba757b0393f",
+      "name": "prog_gearset_greathunt_chest"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_greathunt_5_pants_lord5",
+        "eq_events_greathunt_10_pants_lord10",
+        "eq_events_greathunt_15_pants_lord15",
+        "eq_events_greathunt_20_pants_lord20",
+        "eq_events_greathunt_25_pants_lord25",
+        "eq_events_greathunt_30_pants_lord30",
+        "eq_events_greathunt_35_pants_lord35",
+        "eq_events_greathunt_40_pants_lord40",
+        "eq_events_greathunt_45_pants_lord45",
+        "eq_events_greathunt_50_pants_lord50"
+      ],
+      "id": "450d7dafb168a94e",
+      "name": "prog_gearset_greathunt_pants"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_greathunt_5_boots_lord5",
+        "eq_events_greathunt_10_boots_lord10",
+        "eq_events_greathunt_15_boots_lord15",
+        "eq_events_greathunt_20_boots_lord20",
+        "eq_events_greathunt_25_boots_lord25",
+        "eq_events_greathunt_30_boots_lord30",
+        "eq_events_greathunt_35_boots_lord35",
+        "eq_events_greathunt_40_boots_lord40",
+        "eq_events_greathunt_45_boots_lord45",
+        "eq_events_greathunt_50_boots_lord50"
+      ],
+      "id": "fc3e170d632f0807",
+      "name": "prog_gearset_greathunt_boots"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_greathunt_5_ring_lord5",
+        "eq_events_greathunt_10_ring_lord10",
+        "eq_events_greathunt_15_ring_lord15",
+        "eq_events_greathunt_20_ring_lord20",
+        "eq_events_greathunt_25_ring_lord25",
+        "eq_events_greathunt_30_ring_lord30",
+        "eq_events_greathunt_35_ring_lord35",
+        "eq_events_greathunt_40_ring_lord40",
+        "eq_events_greathunt_45_ring_lord45",
+        "eq_events_greathunt_50_ring_lord50"
+      ],
+      "id": "6322add8f075c8b1",
+      "name": "prog_gearset_greathunt_ring"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_greathunt_5_weapon_lord5",
+        "eq_events_greathunt_10_weapon_lord10",
+        "eq_events_greathunt_15_weapon_lord15",
+        "eq_events_greathunt_20_weapon_lord20",
+        "eq_events_greathunt_25_weapon_lord25",
+        "eq_events_greathunt_30_weapon_lord30",
+        "eq_events_greathunt_35_weapon_lord35",
+        "eq_events_greathunt_40_weapon_lord40",
+        "eq_events_greathunt_45_weapon_lord45",
+        "eq_events_greathunt_50_weapon_lord50"
+      ],
+      "id": "499f45b9d61e620b",
+      "name": "prog_gearset_greathunt_weapon"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_undying_5_helmet_lord5",
+        "eq_events_undying_10_helmet_lord10",
+        "eq_events_undying_15_helmet_lord15",
+        "eq_events_undying_20_helmet_lord20",
+        "eq_events_undying_25_helmet_lord25",
+        "eq_events_undying_30_helmet_lord30",
+        "eq_events_undying_35_helmet_lord35",
+        "eq_events_undying_40_helmet_lord40",
+        "eq_events_undying_45_helmet_lord45",
+        "eq_events_undying_50_helmet_lord50"
+      ],
+      "id": "e12de03d6ef18f31",
+      "name": "prog_gearset_undying_helmet"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_undying_5_chest_lord5",
+        "eq_events_undying_10_chest_lord10",
+        "eq_events_undying_15_chest_lord15",
+        "eq_events_undying_20_chest_lord20",
+        "eq_events_undying_25_chest_lord25",
+        "eq_events_undying_30_chest_lord30",
+        "eq_events_undying_35_chest_lord35",
+        "eq_events_undying_40_chest_lord40",
+        "eq_events_undying_45_chest_lord45",
+        "eq_events_undying_50_chest_lord50"
+      ],
+      "id": "54d70f6ca4e62959",
+      "name": "prog_gearset_undying_chest"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_undying_5_pants_lord5",
+        "eq_events_undying_10_pants_lord10",
+        "eq_events_undying_15_pants_lord15",
+        "eq_events_undying_20_pants_lord20",
+        "eq_events_undying_25_pants_lord25",
+        "eq_events_undying_30_pants_lord30",
+        "eq_events_undying_35_pants_lord35",
+        "eq_events_undying_40_pants_lord40",
+        "eq_events_undying_45_pants_lord45",
+        "eq_events_undying_50_pants_lord50"
+      ],
+      "id": "d19fd964423eb928",
+      "name": "prog_gearset_undying_pants"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_undying_5_boots_lord5",
+        "eq_events_undying_10_boots_lord10",
+        "eq_events_undying_15_boots_lord15",
+        "eq_events_undying_20_boots_lord20",
+        "eq_events_undying_25_boots_lord25",
+        "eq_events_undying_30_boots_lord30",
+        "eq_events_undying_35_boots_lord35",
+        "eq_events_undying_40_boots_lord40",
+        "eq_events_undying_45_boots_lord45",
+        "eq_events_undying_50_boots_lord50"
+      ],
+      "id": "68acb3c690791861",
+      "name": "prog_gearset_undying_boots"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_undying_5_ring_lord5",
+        "eq_events_undying_10_ring_lord10",
+        "eq_events_undying_15_ring_lord15",
+        "eq_events_undying_20_ring_lord20",
+        "eq_events_undying_25_ring_lord25",
+        "eq_events_undying_30_ring_lord30",
+        "eq_events_undying_35_ring_lord35",
+        "eq_events_undying_40_ring_lord40",
+        "eq_events_undying_45_ring_lord45",
+        "eq_events_undying_50_ring_lord50"
+      ],
+      "id": "5ae2024b9a1bb66b",
+      "name": "prog_gearset_undying_ring"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_undying_5_weapon_lord5",
+        "eq_events_undying_10_weapon_lord10",
+        "eq_events_undying_15_weapon_lord15",
+        "eq_events_undying_20_weapon_lord20",
+        "eq_events_undying_25_weapon_lord25",
+        "eq_events_undying_30_weapon_lord30",
+        "eq_events_undying_35_weapon_lord35",
+        "eq_events_undying_40_weapon_lord40",
+        "eq_events_undying_45_weapon_lord45",
+        "eq_events_undying_50_weapon_lord50"
+      ],
+      "id": "93782684073339e2",
+      "name": "prog_gearset_undying_weapon"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_conquest_5_helmet_lord5",
+        "eq_events_conquest_10_helmet_lord10",
+        "eq_events_conquest_15_helmet_lord15",
+        "eq_events_conquest_20_helmet_lord20",
+        "eq_events_conquest_25_helmet_lord25",
+        "eq_events_conquest_30_helmet_lord30",
+        "eq_events_conquest_35_helmet_lord35",
+        "eq_events_conquest_40_helmet_lord40",
+        "eq_events_conquest_45_helmet_lord45",
+        "eq_events_conquest_50_helmet_lord50"
+      ],
+      "id": "bf2af565abbbd567",
+      "name": "prog_gearset_conquest_helmet"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_conquest_5_chest_lord5",
+        "eq_events_conquest_10_chest_lord10",
+        "eq_events_conquest_15_chest_lord15",
+        "eq_events_conquest_20_chest_lord20",
+        "eq_events_conquest_25_chest_lord25",
+        "eq_events_conquest_30_chest_lord30",
+        "eq_events_conquest_35_chest_lord35",
+        "eq_events_conquest_40_chest_lord40",
+        "eq_events_conquest_45_chest_lord45",
+        "eq_events_conquest_50_chest_lord50"
+      ],
+      "id": "38065167270df8dc",
+      "name": "prog_gearset_conquest_chest"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_conquest_5_pants_lord5",
+        "eq_events_conquest_10_pants_lord10",
+        "eq_events_conquest_15_pants_lord15",
+        "eq_events_conquest_20_pants_lord20",
+        "eq_events_conquest_25_pants_lord25",
+        "eq_events_conquest_30_pants_lord30",
+        "eq_events_conquest_35_pants_lord35",
+        "eq_events_conquest_40_pants_lord40",
+        "eq_events_conquest_45_pants_lord45",
+        "eq_events_conquest_50_pants_lord50"
+      ],
+      "id": "bd4e876fc1d568ad",
+      "name": "prog_gearset_conquest_pants"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_conquest_5_boots_lord5",
+        "eq_events_conquest_10_boots_lord10",
+        "eq_events_conquest_15_boots_lord15",
+        "eq_events_conquest_20_boots_lord20",
+        "eq_events_conquest_25_boots_lord25",
+        "eq_events_conquest_30_boots_lord30",
+        "eq_events_conquest_35_boots_lord35",
+        "eq_events_conquest_40_boots_lord40",
+        "eq_events_conquest_45_boots_lord45",
+        "eq_events_conquest_50_boots_lord50"
+      ],
+      "id": "47dedcd1392c9e4",
+      "name": "prog_gearset_conquest_boots"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_conquest_5_ring_lord5",
+        "eq_events_conquest_10_ring_lord10",
+        "eq_events_conquest_15_ring_lord15",
+        "eq_events_conquest_20_ring_lord20",
+        "eq_events_conquest_25_ring_lord25",
+        "eq_events_conquest_30_ring_lord30",
+        "eq_events_conquest_35_ring_lord35",
+        "eq_events_conquest_40_ring_lord40",
+        "eq_events_conquest_45_ring_lord45",
+        "eq_events_conquest_50_ring_lord50"
+      ],
+      "id": "30fe8730576380f3",
+      "name": "prog_gearset_conquest_ring"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_conquest_5_weapon_lord5",
+        "eq_events_conquest_10_weapon_lord10",
+        "eq_events_conquest_15_weapon_lord15",
+        "eq_events_conquest_20_weapon_lord20",
+        "eq_events_conquest_25_weapon_lord25",
+        "eq_events_conquest_30_weapon_lord30",
+        "eq_events_conquest_35_weapon_lord35",
+        "eq_events_conquest_40_weapon_lord40",
+        "eq_events_conquest_45_weapon_lord45",
+        "eq_events_conquest_50_weapon_lord50"
+      ],
+      "id": "cd7f33dcc27963b4",
+      "name": "prog_gearset_conquest_weapon"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_masterofwar_5_helmet_lord5",
+        "eq_events_masterofwar_10_helmet_lord10",
+        "eq_events_masterofwar_15_helmet_lord15",
+        "eq_events_masterofwar_20_helmet_lord20",
+        "eq_events_masterofwar_25_helmet_lord25",
+        "eq_events_masterofwar_30_helmet_lord30",
+        "eq_events_masterofwar_35_helmet_lord35",
+        "eq_events_masterofwar_40_helmet_lord40",
+        "eq_events_masterofwar_45_helmet_lord45",
+        "eq_events_masterofwar_50_helmet_lord50"
+      ],
+      "id": "141c55d40db71c5",
+      "name": "prog_gearset_masterofwar_helmet"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_masterofwar_5_chest_lord5",
+        "eq_events_masterofwar_10_chest_lord10",
+        "eq_events_masterofwar_15_chest_lord15",
+        "eq_events_masterofwar_20_chest_lord20",
+        "eq_events_masterofwar_25_chest_lord25",
+        "eq_events_masterofwar_30_chest_lord30",
+        "eq_events_masterofwar_35_chest_lord35",
+        "eq_events_masterofwar_40_chest_lord40",
+        "eq_events_masterofwar_45_chest_lord45",
+        "eq_events_masterofwar_50_chest_lord50"
+      ],
+      "id": "370a28e0e3b84ab",
+      "name": "prog_gearset_masterofwar_chest"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_masterofwar_5_pants_lord5",
+        "eq_events_masterofwar_10_pants_lord10",
+        "eq_events_masterofwar_15_pants_lord15",
+        "eq_events_masterofwar_20_pants_lord20",
+        "eq_events_masterofwar_25_pants_lord25",
+        "eq_events_masterofwar_30_pants_lord30",
+        "eq_events_masterofwar_35_pants_lord35",
+        "eq_events_masterofwar_40_pants_lord40",
+        "eq_events_masterofwar_45_pants_lord45",
+        "eq_events_masterofwar_50_pants_lord50"
+      ],
+      "id": "86387486e8e314da",
+      "name": "prog_gearset_masterofwar_pants"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_masterofwar_5_boots_lord5",
+        "eq_events_masterofwar_10_boots_lord10",
+        "eq_events_masterofwar_15_boots_lord15",
+        "eq_events_masterofwar_20_boots_lord20",
+        "eq_events_masterofwar_25_boots_lord25",
+        "eq_events_masterofwar_30_boots_lord30",
+        "eq_events_masterofwar_35_boots_lord35",
+        "eq_events_masterofwar_40_boots_lord40",
+        "eq_events_masterofwar_45_boots_lord45",
+        "eq_events_masterofwar_50_boots_lord50"
+      ],
+      "id": "3f0b1e243aa4b593",
+      "name": "prog_gearset_masterofwar_boots"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_masterofwar_5_ring_lord5",
+        "eq_events_masterofwar_10_ring_lord10",
+        "eq_events_masterofwar_15_ring_lord15",
+        "eq_events_masterofwar_20_ring_lord20",
+        "eq_events_masterofwar_25_ring_lord25",
+        "eq_events_masterofwar_30_ring_lord30",
+        "eq_events_masterofwar_35_ring_lord35",
+        "eq_events_masterofwar_40_ring_lord40",
+        "eq_events_masterofwar_45_ring_lord45",
+        "eq_events_masterofwar_50_ring_lord50"
+      ],
+      "id": "8cc478ba769e184c",
+      "name": "prog_gearset_masterofwar_ring"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_masterofwar_5_weapon_lord5",
+        "eq_events_masterofwar_10_weapon_lord10",
+        "eq_events_masterofwar_15_weapon_lord15",
+        "eq_events_masterofwar_20_weapon_lord20",
+        "eq_events_masterofwar_25_weapon_lord25",
+        "eq_events_masterofwar_30_weapon_lord30",
+        "eq_events_masterofwar_35_weapon_lord35",
+        "eq_events_masterofwar_40_weapon_lord40",
+        "eq_events_masterofwar_45_weapon_lord45",
+        "eq_events_masterofwar_50_weapon_lord50"
+      ],
+      "id": "731403e42919c716",
+      "name": "prog_gearset_masterofwar_weapon"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_harrenhal_5_helmet_lord5",
+        "eq_events_harrenhal_10_helmet_lord10",
+        "eq_events_harrenhal_15_helmet_lord15",
+        "eq_events_harrenhal_20_helmet_lord20",
+        "eq_events_harrenhal_25_helmet_lord25",
+        "eq_events_harrenhal_30_helmet_lord30",
+        "eq_events_harrenhal_35_helmet_lord35",
+        "eq_events_harrenhal_40_helmet_lord40",
+        "eq_events_harrenhal_45_helmet_lord45",
+        "eq_events_harrenhal_50_helmet_lord50"
+      ],
+      "id": "42753e7e9a4476ce",
+      "name": "prog_gearset_harrenhal_helmet"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_harrenhal_5_chest_lord5",
+        "eq_events_harrenhal_10_chest_lord10",
+        "eq_events_harrenhal_15_chest_lord15",
+        "eq_events_harrenhal_20_chest_lord20",
+        "eq_events_harrenhal_25_chest_lord25",
+        "eq_events_harrenhal_30_chest_lord30",
+        "eq_events_harrenhal_35_chest_lord35",
+        "eq_events_harrenhal_40_chest_lord40",
+        "eq_events_harrenhal_45_chest_lord45",
+        "eq_events_harrenhal_50_chest_lord50"
+      ],
+      "id": "78762df1779a5864",
+      "name": "prog_gearset_harrenhal_chest"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_harrenhal_5_pants_lord5",
+        "eq_events_harrenhal_10_pants_lord10",
+        "eq_events_harrenhal_15_pants_lord15",
+        "eq_events_harrenhal_20_pants_lord20",
+        "eq_events_harrenhal_25_pants_lord25",
+        "eq_events_harrenhal_30_pants_lord30",
+        "eq_events_harrenhal_35_pants_lord35",
+        "eq_events_harrenhal_40_pants_lord40",
+        "eq_events_harrenhal_45_pants_lord45",
+        "eq_events_harrenhal_50_pants_lord50"
+      ],
+      "id": "fd3efbf99142c815",
+      "name": "prog_gearset_harrenhal_pants"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_harrenhal_5_boots_lord5",
+        "eq_events_harrenhal_10_boots_lord10",
+        "eq_events_harrenhal_15_boots_lord15",
+        "eq_events_harrenhal_20_boots_lord20",
+        "eq_events_harrenhal_25_boots_lord25",
+        "eq_events_harrenhal_30_boots_lord30",
+        "eq_events_harrenhal_35_boots_lord35",
+        "eq_events_harrenhal_40_boots_lord40",
+        "eq_events_harrenhal_45_boots_lord45",
+        "eq_events_harrenhal_50_boots_lord50"
+      ],
+      "id": "440d915b4305695c",
+      "name": "prog_gearset_harrenhal_boots"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_harrenhal_5_ring_lord5",
+        "eq_events_harrenhal_10_ring_lord10",
+        "eq_events_harrenhal_15_ring_lord15",
+        "eq_events_harrenhal_20_ring_lord20",
+        "eq_events_harrenhal_25_ring_lord25",
+        "eq_events_harrenhal_30_ring_lord30",
+        "eq_events_harrenhal_35_ring_lord35",
+        "eq_events_harrenhal_40_ring_lord40",
+        "eq_events_harrenhal_45_ring_lord45",
+        "eq_events_harrenhal_50_ring_lord50"
+      ],
+      "id": "a0b392fb53b716a",
+      "name": "prog_gearset_harrenhal_ring"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_harrenhal_5_weapon_lord5",
+        "eq_events_harrenhal_10_weapon_lord10",
+        "eq_events_harrenhal_15_weapon_lord15",
+        "eq_events_harrenhal_20_weapon_lord20",
+        "eq_events_harrenhal_25_weapon_lord25",
+        "eq_events_harrenhal_30_weapon_lord30",
+        "eq_events_harrenhal_35_weapon_lord35",
+        "eq_events_harrenhal_40_weapon_lord40",
+        "eq_events_harrenhal_45_weapon_lord45",
+        "eq_events_harrenhal_50_weapon_lord50"
+      ],
+      "id": "3020f8c7f386c01d",
+      "name": "prog_gearset_harrenhal_weapon"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_nightwatch_5_helmet_lord5",
+        "eq_events_nightwatch_10_helmet_lord10",
+        "eq_events_nightwatch_15_helmet_lord15",
+        "eq_events_nightwatch_20_helmet_lord20",
+        "eq_events_nightwatch_25_helmet_lord25",
+        "eq_events_nightwatch_30_helmet_lord30",
+        "eq_events_nightwatch_35_helmet_lord35",
+        "eq_events_nightwatch_40_helmet_lord40",
+        "eq_events_nightwatch_45_helmet_lord45",
+        "eq_events_nightwatch_50_helmet_lord50"
+      ],
+      "id": "51b6ad96e73aebe1",
+      "name": "prog_gearset_nightwatch_helmet"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_nightwatch_5_chest_lord5",
+        "eq_events_nightwatch_10_chest_lord10",
+        "eq_events_nightwatch_15_chest_lord15",
+        "eq_events_nightwatch_20_chest_lord20",
+        "eq_events_nightwatch_25_chest_lord25",
+        "eq_events_nightwatch_30_chest_lord30",
+        "eq_events_nightwatch_35_chest_lord35",
+        "eq_events_nightwatch_40_chest_lord40",
+        "eq_events_nightwatch_45_chest_lord45",
+        "eq_events_nightwatch_50_chest_lord50"
+      ],
+      "id": "dc0bad2b19b8f0b",
+      "name": "prog_gearset_nightwatch_chest"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_nightwatch_5_pants_lord5",
+        "eq_events_nightwatch_10_pants_lord10",
+        "eq_events_nightwatch_15_pants_lord15",
+        "eq_events_nightwatch_20_pants_lord20",
+        "eq_events_nightwatch_25_pants_lord25",
+        "eq_events_nightwatch_30_pants_lord30",
+        "eq_events_nightwatch_35_pants_lord35",
+        "eq_events_nightwatch_40_pants_lord40",
+        "eq_events_nightwatch_45_pants_lord45",
+        "eq_events_nightwatch_50_pants_lord50"
+      ],
+      "id": "88886cda57431f7a",
+      "name": "prog_gearset_nightwatch_pants"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_nightwatch_5_boots_lord5",
+        "eq_events_nightwatch_10_boots_lord10",
+        "eq_events_nightwatch_15_boots_lord15",
+        "eq_events_nightwatch_20_boots_lord20",
+        "eq_events_nightwatch_25_boots_lord25",
+        "eq_events_nightwatch_30_boots_lord30",
+        "eq_events_nightwatch_35_boots_lord35",
+        "eq_events_nightwatch_40_boots_lord40",
+        "eq_events_nightwatch_45_boots_lord45",
+        "eq_events_nightwatch_50_boots_lord50"
+      ],
+      "id": "31bb06788504be33",
+      "name": "prog_gearset_nightwatch_boots"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_nightwatch_5_ring_lord5",
+        "eq_events_nightwatch_10_ring_lord10",
+        "eq_events_nightwatch_15_ring_lord15",
+        "eq_events_nightwatch_20_ring_lord20",
+        "eq_events_nightwatch_25_ring_lord25",
+        "eq_events_nightwatch_30_ring_lord30",
+        "eq_events_nightwatch_35_ring_lord35",
+        "eq_events_nightwatch_40_ring_lord40",
+        "eq_events_nightwatch_45_ring_lord45",
+        "eq_events_nightwatch_50_ring_lord50"
+      ],
+      "id": "aec0f130411e1069",
+      "name": "prog_gearset_nightwatch_ring"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_nightwatch_5_weapon_lord5",
+        "eq_events_nightwatch_10_weapon_lord10",
+        "eq_events_nightwatch_15_weapon_lord15",
+        "eq_events_nightwatch_20_weapon_lord20",
+        "eq_events_nightwatch_25_weapon_lord25",
+        "eq_events_nightwatch_30_weapon_lord30",
+        "eq_events_nightwatch_35_weapon_lord35",
+        "eq_events_nightwatch_40_weapon_lord40",
+        "eq_events_nightwatch_45_weapon_lord45",
+        "eq_events_nightwatch_50_weapon_lord50"
+      ],
+      "id": "23e36b2f8ef85d32",
+      "name": "prog_gearset_nightwatch_weapon"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_FalconShield_1_trinket_lord1",
+        "eq_events_FalconShield_5_trinket_lord5",
+        "eq_events_FalconShield_10_trinket_lord10",
+        "eq_events_FalconShield_15_trinket_lord15",
+        "eq_events_FalconShield_20_trinket_lord20",
+        "eq_events_FalconShield_25_trinket_lord25",
+        "eq_events_FalconShield_30_trinket_lord30",
+        "eq_events_FalconShield_35_trinket_lord35",
+        "eq_events_FalconShield_40_trinket_lord40",
+        "eq_events_FalconShield_45_trinket_lord45",
+        "eq_events_FalconShield_50_trinket_lord50"
+      ],
+      "id": "e8a8be896bc6109a",
+      "name": "prog_gearset_trinketarmory_1_slot1"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_trinket_boneneedle_alpha_lord1",
+        "eq_trinket_boneneedle_alpha_lord5",
+        "eq_trinket_boneneedle_alpha_lord10",
+        "eq_trinket_boneneedle_alpha_lord15",
+        "eq_trinket_boneneedle_alpha_lord20",
+        "eq_trinket_boneneedle_alpha_lord25",
+        "eq_trinket_boneneedle_alpha_lord30",
+        "eq_trinket_boneneedle_alpha_lord35",
+        "eq_trinket_boneneedle_alpha_lord40",
+        "eq_trinket_boneneedle_alpha_lord45",
+        "eq_trinket_boneneedle_alpha_lord50"
+      ],
+      "id": "9dbae262b233e294",
+      "name": "prog_gearset_trinketarmory_1_slot2"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_trinket_mormontcoin_alpha_lord1",
+        "eq_trinket_mormontcoin_alpha_lord5",
+        "eq_trinket_mormontcoin_alpha_lord10",
+        "eq_trinket_mormontcoin_alpha_lord15",
+        "eq_trinket_mormontcoin_alpha_lord20",
+        "eq_trinket_mormontcoin_alpha_lord25",
+        "eq_trinket_mormontcoin_alpha_lord30",
+        "eq_trinket_mormontcoin_alpha_lord35",
+        "eq_trinket_mormontcoin_alpha_lord40",
+        "eq_trinket_mormontcoin_alpha_lord45",
+        "eq_trinket_mormontcoin_alpha_lord50"
+      ],
+      "id": "b14b29c40560b36e",
+      "name": "prog_gearset_trinketarmory_1_slot3"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_trinket_expedition_1_alpha_lord1",
+        "eq_trinket_expedition_1_alpha_lord5",
+        "eq_trinket_expedition_1_alpha_lord10",
+        "eq_trinket_expedition_1_alpha_lord15",
+        "eq_trinket_expedition_1_alpha_lord20",
+        "eq_trinket_expedition_1_alpha_lord25",
+        "eq_trinket_expedition_1_alpha_lord30",
+        "eq_trinket_expedition_1_alpha_lord35",
+        "eq_trinket_expedition_1_alpha_lord40",
+        "eq_trinket_expedition_1_alpha_lord45",
+        "eq_trinket_expedition_1_alpha_lord50"
+      ],
+      "id": "19d2a44799bbe694",
+      "name": "prog_gearset_trinketarmory_2_slot1"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_trinket_necklace_alpha_lord1",
+        "eq_trinket_necklace_alpha_lord5",
+        "eq_trinket_necklace_alpha_lord10",
+        "eq_trinket_necklace_alpha_lord15",
+        "eq_trinket_necklace_alpha_lord20",
+        "eq_trinket_necklace_alpha_lord25",
+        "eq_trinket_necklace_alpha_lord30",
+        "eq_trinket_necklace_alpha_lord35",
+        "eq_trinket_necklace_alpha_lord40",
+        "eq_trinket_necklace_alpha_lord45",
+        "eq_trinket_necklace_alpha_lord50"
+      ],
+      "id": "6cc0f8ac404e149a",
+      "name": "prog_gearset_trinketarmory_2_slot2"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_trinket_mormontclaw_alpha_lord1",
+        "eq_trinket_mormontclaw_alpha_lord5",
+        "eq_trinket_mormontclaw_alpha_lord10",
+        "eq_trinket_mormontclaw_alpha_lord15",
+        "eq_trinket_mormontclaw_alpha_lord20",
+        "eq_trinket_mormontclaw_alpha_lord25",
+        "eq_trinket_mormontclaw_alpha_lord30",
+        "eq_trinket_mormontclaw_alpha_lord35",
+        "eq_trinket_mormontclaw_alpha_lord40",
+        "eq_trinket_mormontclaw_alpha_lord45",
+        "eq_trinket_mormontclaw_alpha_lord50"
+      ],
+      "id": "4031330af71d4560",
+      "name": "prog_gearset_trinketarmory_2_slot3"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_DragonFeeder_1_trinket_lord1",
+        "eq_events_DragonFeeder_5_trinket_lord5",
+        "eq_events_DragonFeeder_10_trinket_lord10",
+        "eq_events_DragonFeeder_15_trinket_lord15",
+        "eq_events_DragonFeeder_20_trinket_lord20",
+        "eq_events_DragonFeeder_25_trinket_lord25",
+        "eq_events_DragonFeeder_30_trinket_lord30",
+        "eq_events_DragonFeeder_35_trinket_lord35",
+        "eq_events_DragonFeeder_40_trinket_lord40",
+        "eq_events_DragonFeeder_45_trinket_lord45",
+        "eq_events_DragonFeeder_50_trinket_lord50"
+      ],
+      "id": "4904adfdc86f4b6e",
+      "name": "prog_gearset_trinketarmory_3_slot1"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_trinket_winebottle_alpha_lord1",
+        "eq_trinket_winebottle_alpha_lord5",
+        "eq_trinket_winebottle_alpha_lord10",
+        "eq_trinket_winebottle_alpha_lord15",
+        "eq_trinket_winebottle_alpha_lord20",
+        "eq_trinket_winebottle_alpha_lord25",
+        "eq_trinket_winebottle_alpha_lord30",
+        "eq_trinket_winebottle_alpha_lord35",
+        "eq_trinket_winebottle_alpha_lord40",
+        "eq_trinket_winebottle_alpha_lord45",
+        "eq_trinket_winebottle_alpha_lord50"
+      ],
+      "id": "3c16f116119ab960",
+      "name": "prog_gearset_trinketarmory_3_slot2"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_dance_of_dragons_1_trinket_lord1",
+        "eq_events_dance_of_dragons_5_trinket_lord5",
+        "eq_events_dance_of_dragons_10_trinket_lord10",
+        "eq_events_dance_of_dragons_15_trinket_lord15",
+        "eq_events_dance_of_dragons_20_trinket_lord20",
+        "eq_events_dance_of_dragons_25_trinket_lord25",
+        "eq_events_dance_of_dragons_30_trinket_lord30",
+        "eq_events_dance_of_dragons_35_trinket_lord35",
+        "eq_events_dance_of_dragons_40_trinket_lord40",
+        "eq_events_dance_of_dragons_45_trinket_lord45",
+        "eq_events_dance_of_dragons_50_trinket_lord50"
+      ],
+      "id": "10e73ab0a6c9e89a",
+      "name": "prog_gearset_trinketarmory_3_slot3"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_quiver_1_trinket_lord1",
+        "eq_quiver_5_trinket_lord5",
+        "eq_quiver_10_trinket_lord10",
+        "eq_quiver_15_trinket_lord15",
+        "eq_quiver_20_trinket_lord20",
+        "eq_quiver_25_trinket_lord25",
+        "eq_quiver_30_trinket_lord30",
+        "eq_quiver_35_trinket_lord35",
+        "eq_quiver_40_trinket_lord40",
+        "eq_quiver_45_trinket_lord45",
+        "eq_quiver_50_trinket_lord50"
+      ],
+      "id": "d830c0db97461e57",
+      "name": "prog_gearset_trinketarmory_6_slot1"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_trinket_saddle_alpha_lord1",
+        "eq_trinket_saddle_alpha_lord5",
+        "eq_trinket_saddle_alpha_lord10",
+        "eq_trinket_saddle_alpha_lord15",
+        "eq_trinket_saddle_alpha_lord20",
+        "eq_trinket_saddle_alpha_lord25",
+        "eq_trinket_saddle_alpha_lord30",
+        "eq_trinket_saddle_alpha_lord35",
+        "eq_trinket_saddle_alpha_lord40",
+        "eq_trinket_saddle_alpha_lord45",
+        "eq_trinket_saddle_alpha_lord50"
+      ],
+      "id": "ad229c304eb3ec59",
+      "name": "prog_gearset_trinketarmory_6_slot2"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_trinket_sevenpointedstar_alpha_lord1",
+        "eq_trinket_sevenpointedstar_alpha_lord5",
+        "eq_trinket_sevenpointedstar_alpha_lord10",
+        "eq_trinket_sevenpointedstar_alpha_lord15",
+        "eq_trinket_sevenpointedstar_alpha_lord20",
+        "eq_trinket_sevenpointedstar_alpha_lord25",
+        "eq_trinket_sevenpointedstar_alpha_lord30",
+        "eq_trinket_sevenpointedstar_alpha_lord35",
+        "eq_trinket_sevenpointedstar_alpha_lord40",
+        "eq_trinket_sevenpointedstar_alpha_lord45",
+        "eq_trinket_sevenpointedstar_alpha_lord50"
+      ],
+      "id": "81d35796f9e0bda3",
+      "name": "prog_gearset_trinketarmory_6_slot3"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_trinket_dragon3_alpha_lord1",
+        "eq_trinket_dragon3_alpha_lord5",
+        "eq_trinket_dragon3_alpha_lord10",
+        "eq_trinket_dragon3_alpha_lord15",
+        "eq_trinket_dragon3_alpha_lord20",
+        "eq_trinket_dragon3_alpha_lord25",
+        "eq_trinket_dragon3_alpha_lord30",
+        "eq_trinket_dragon3_alpha_lord35",
+        "eq_trinket_dragon3_alpha_lord40",
+        "eq_trinket_dragon3_alpha_lord45",
+        "eq_trinket_dragon3_alpha_lord50"
+      ],
+      "id": "294ada15653be859",
+      "name": "prog_gearset_trinketarmory_5_slot1"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_trinket_dragon2_alpha_lord1",
+        "eq_trinket_dragon2_alpha_lord5",
+        "eq_trinket_dragon2_alpha_lord10",
+        "eq_trinket_dragon2_alpha_lord15",
+        "eq_trinket_dragon2_alpha_lord20",
+        "eq_trinket_dragon2_alpha_lord25",
+        "eq_trinket_dragon2_alpha_lord30",
+        "eq_trinket_dragon2_alpha_lord35",
+        "eq_trinket_dragon2_alpha_lord40",
+        "eq_trinket_dragon2_alpha_lord45",
+        "eq_trinket_dragon2_alpha_lord50"
+      ],
+      "id": "5c5886febcce1a57",
+      "name": "prog_gearset_trinketarmory_5_slot2"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_trinket_dragon1_alpha_lord1",
+        "eq_trinket_dragon1_alpha_lord5",
+        "eq_trinket_dragon1_alpha_lord10",
+        "eq_trinket_dragon1_alpha_lord15",
+        "eq_trinket_dragon1_alpha_lord20",
+        "eq_trinket_dragon1_alpha_lord25",
+        "eq_trinket_dragon1_alpha_lord30",
+        "eq_trinket_dragon1_alpha_lord35",
+        "eq_trinket_dragon1_alpha_lord40",
+        "eq_trinket_dragon1_alpha_lord45",
+        "eq_trinket_dragon1_alpha_lord50"
+      ],
+      "id": "70a94d580b9d4bad",
+      "name": "prog_gearset_trinketarmory_5_slot3"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_BookOfBrothers_1_trinket_lord1",
+        "eq_events_BookOfBrothers_5_trinket_lord5",
+        "eq_events_BookOfBrothers_10_trinket_lord10",
+        "eq_events_BookOfBrothers_15_trinket_lord15",
+        "eq_events_BookOfBrothers_20_trinket_lord20",
+        "eq_events_BookOfBrothers_25_trinket_lord25",
+        "eq_events_BookOfBrothers_30_trinket_lord30",
+        "eq_events_BookOfBrothers_35_trinket_lord35",
+        "eq_events_BookOfBrothers_40_trinket_lord40",
+        "eq_events_BookOfBrothers_45_trinket_lord45",
+        "eq_events_BookOfBrothers_50_trinket_lord50"
+      ],
+      "id": "799cd3af34ef45a3",
+      "name": "prog_gearset_trinketarmory_4_slot1"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_trinket_essosbrooch_alpha_lord1",
+        "eq_trinket_essosbrooch_alpha_lord5",
+        "eq_trinket_essosbrooch_alpha_lord10",
+        "eq_trinket_essosbrooch_alpha_lord15",
+        "eq_trinket_essosbrooch_alpha_lord20",
+        "eq_trinket_essosbrooch_alpha_lord25",
+        "eq_trinket_essosbrooch_alpha_lord30",
+        "eq_trinket_essosbrooch_alpha_lord35",
+        "eq_trinket_essosbrooch_alpha_lord40",
+        "eq_trinket_essosbrooch_alpha_lord45",
+        "eq_trinket_essosbrooch_alpha_lord50"
+      ],
+      "id": "c8e8f44ed1ab7ad",
+      "name": "prog_gearset_trinketarmory_4_slot2"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_trinket_silkstole_alpha_lord1",
+        "eq_trinket_silkstole_alpha_lord5",
+        "eq_trinket_silkstole_alpha_lord10",
+        "eq_trinket_silkstole_alpha_lord15",
+        "eq_trinket_silkstole_alpha_lord20",
+        "eq_trinket_silkstole_alpha_lord25",
+        "eq_trinket_silkstole_alpha_lord30",
+        "eq_trinket_silkstole_alpha_lord35",
+        "eq_trinket_silkstole_alpha_lord40",
+        "eq_trinket_silkstole_alpha_lord45",
+        "eq_trinket_silkstole_alpha_lord50"
+      ],
+      "id": "207f44e25a49e657",
+      "name": "prog_gearset_trinketarmory_4_slot3"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_caliper_1_trinket_lord1",
+        "eq_events_caliper_5_trinket_lord5",
+        "eq_events_caliper_10_trinket_lord10",
+        "eq_events_caliper_15_trinket_lord15",
+        "eq_events_caliper_20_trinket_lord20",
+        "eq_events_caliper_25_trinket_lord25",
+        "eq_events_caliper_30_trinket_lord30",
+        "eq_events_caliper_35_trinket_lord35",
+        "eq_events_caliper_40_trinket_lord40",
+        "eq_events_caliper_45_trinket_lord45",
+        "eq_events_caliper_50_trinket_lord50"
+      ],
+      "id": "88e6c961c692b3ad",
+      "name": "prog_gearset_trinketarmory_7_slot1"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_trinket_knotbracelet_alpha_lord1",
+        "eq_trinket_knotbracelet_alpha_lord5",
+        "eq_trinket_knotbracelet_alpha_lord10",
+        "eq_trinket_knotbracelet_alpha_lord15",
+        "eq_trinket_knotbracelet_alpha_lord20",
+        "eq_trinket_knotbracelet_alpha_lord25",
+        "eq_trinket_knotbracelet_alpha_lord30",
+        "eq_trinket_knotbracelet_alpha_lord35",
+        "eq_trinket_knotbracelet_alpha_lord40",
+        "eq_trinket_knotbracelet_alpha_lord45",
+        "eq_trinket_knotbracelet_alpha_lord50"
+      ],
+      "id": "fdf4958a1f6741a3",
+      "name": "prog_gearset_trinketarmory_7_slot2"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_trinket_knife_alpha_lord1",
+        "eq_trinket_knife_alpha_lord5",
+        "eq_trinket_knife_alpha_lord10",
+        "eq_trinket_knife_alpha_lord15",
+        "eq_trinket_knife_alpha_lord20",
+        "eq_trinket_knife_alpha_lord25",
+        "eq_trinket_knife_alpha_lord30",
+        "eq_trinket_knife_alpha_lord35",
+        "eq_trinket_knife_alpha_lord40",
+        "eq_trinket_knife_alpha_lord45",
+        "eq_trinket_knife_alpha_lord50"
+      ],
+      "id": "d1055e2ca8341059",
+      "name": "prog_gearset_trinketarmory_7_slot3"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_eyepatch_1_trinket_lord1",
+        "eq_events_eyepatch_5_trinket_lord5",
+        "eq_events_eyepatch_10_trinket_lord10",
+        "eq_events_eyepatch_15_trinket_lord15",
+        "eq_events_eyepatch_20_trinket_lord20",
+        "eq_events_eyepatch_25_trinket_lord25",
+        "eq_events_eyepatch_30_trinket_lord30",
+        "eq_events_eyepatch_35_trinket_lord35",
+        "eq_events_eyepatch_40_trinket_lord40",
+        "eq_events_eyepatch_45_trinket_lord45",
+        "eq_events_eyepatch_50_trinket_lord50"
+      ],
+      "id": "b9003c7e6e4603cd",
+      "name": "prog_gearset_trinketarmory_8_slot1"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_books_1_trinket_lord1",
+        "eq_events_books_5_trinket_lord5",
+        "eq_events_books_10_trinket_lord10",
+        "eq_events_books_15_trinket_lord15",
+        "eq_events_books_20_trinket_lord20",
+        "eq_events_books_25_trinket_lord25",
+        "eq_events_books_30_trinket_lord30",
+        "eq_events_books_35_trinket_lord35",
+        "eq_events_books_40_trinket_lord40",
+        "eq_events_books_45_trinket_lord45",
+        "eq_events_books_50_trinket_lord50"
+      ],
+      "id": "cc126095b7b3f1c3",
+      "name": "prog_gearset_trinketarmory_8_slot2"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_bloodycrown_1_trinket_lord1",
+        "eq_events_bloodycrown_5_trinket_lord5",
+        "eq_events_bloodycrown_10_trinket_lord10",
+        "eq_events_bloodycrown_15_trinket_lord15",
+        "eq_events_bloodycrown_20_trinket_lord20",
+        "eq_events_bloodycrown_25_trinket_lord25",
+        "eq_events_bloodycrown_30_trinket_lord30",
+        "eq_events_bloodycrown_35_trinket_lord35",
+        "eq_events_bloodycrown_40_trinket_lord40",
+        "eq_events_bloodycrown_45_trinket_lord45",
+        "eq_events_bloodycrown_50_trinket_lord50"
+      ],
+      "id": "e0e3ab3300e0a039",
+      "name": "prog_gearset_trinketarmory_8_slot3"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_lantern_1_trinket_lord1",
+        "eq_lantern_5_trinket_lord5",
+        "eq_lantern_10_trinket_lord10",
+        "eq_lantern_15_trinket_lord15",
+        "eq_lantern_20_trinket_lord20",
+        "eq_lantern_25_trinket_lord25",
+        "eq_lantern_30_trinket_lord30",
+        "eq_lantern_35_trinket_lord35",
+        "eq_lantern_40_trinket_lord40",
+        "eq_lantern_45_trinket_lord45",
+        "eq_lantern_50_trinket_lord50"
+      ],
+      "id": "e9d635c43f92ae37",
+      "name": "prog_gearset_trinketarmory_9_slot1"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_trinket_sharktooth_alpha_lord1",
+        "eq_trinket_sharktooth_alpha_lord5",
+        "eq_trinket_sharktooth_alpha_lord10",
+        "eq_trinket_sharktooth_alpha_lord15",
+        "eq_trinket_sharktooth_alpha_lord20",
+        "eq_trinket_sharktooth_alpha_lord25",
+        "eq_trinket_sharktooth_alpha_lord30",
+        "eq_trinket_sharktooth_alpha_lord35",
+        "eq_trinket_sharktooth_alpha_lord40",
+        "eq_trinket_sharktooth_alpha_lord45",
+        "eq_trinket_sharktooth_alpha_lord50"
+      ],
+      "id": "9cc4692fe6675c39",
+      "name": "prog_gearset_trinketarmory_9_slot2"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_trinket_handbell_alpha_lord1",
+        "eq_trinket_handbell_alpha_lord5",
+        "eq_trinket_handbell_alpha_lord10",
+        "eq_trinket_handbell_alpha_lord15",
+        "eq_trinket_handbell_alpha_lord20",
+        "eq_trinket_handbell_alpha_lord25",
+        "eq_trinket_handbell_alpha_lord30",
+        "eq_trinket_handbell_alpha_lord35",
+        "eq_trinket_handbell_alpha_lord40",
+        "eq_trinket_handbell_alpha_lord45",
+        "eq_trinket_handbell_alpha_lord50"
+      ],
+      "id": "b035a28951340dc3",
+      "name": "prog_gearset_trinketarmory_9_slot3"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_ridingcrop_1_trinket_lord1",
+        "eq_events_ridingcrop_5_trinket_lord5",
+        "eq_events_ridingcrop_10_trinket_lord10",
+        "eq_events_ridingcrop_15_trinket_lord15",
+        "eq_events_ridingcrop_20_trinket_lord20",
+        "eq_events_ridingcrop_25_trinket_lord25",
+        "eq_events_ridingcrop_30_trinket_lord30",
+        "eq_events_ridingcrop_35_trinket_lord35",
+        "eq_events_ridingcrop_40_trinket_lord40",
+        "eq_events_ridingcrop_45_trinket_lord45",
+        "eq_events_ridingcrop_50_trinket_lord50"
+      ],
+      "id": "3815fc3b18fcf76f",
+      "name": "prog_gearset_trinketarmory_10_slot1"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_RoseNecklace_1_trinket_lord1",
+        "eq_events_RoseNecklace_5_trinket_lord5",
+        "eq_events_RoseNecklace_10_trinket_lord10",
+        "eq_events_RoseNecklace_15_trinket_lord15",
+        "eq_events_RoseNecklace_20_trinket_lord20",
+        "eq_events_RoseNecklace_25_trinket_lord25",
+        "eq_events_RoseNecklace_30_trinket_lord30",
+        "eq_events_RoseNecklace_35_trinket_lord35",
+        "eq_events_RoseNecklace_40_trinket_lord40",
+        "eq_events_RoseNecklace_45_trinket_lord45",
+        "eq_events_RoseNecklace_50_trinket_lord50"
+      ],
+      "id": "4d07a0d0c1090561",
+      "name": "prog_gearset_trinketarmory_10_slot2"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_trinket_pouch_alpha_lord1",
+        "eq_trinket_pouch_alpha_lord5",
+        "eq_trinket_pouch_alpha_lord10",
+        "eq_trinket_pouch_alpha_lord15",
+        "eq_trinket_pouch_alpha_lord20",
+        "eq_trinket_pouch_alpha_lord25",
+        "eq_trinket_pouch_alpha_lord30",
+        "eq_trinket_pouch_alpha_lord35",
+        "eq_trinket_pouch_alpha_lord40",
+        "eq_trinket_pouch_alpha_lord45",
+        "eq_trinket_pouch_alpha_lord50"
+      ],
+      "id": "61f66b76765a549b",
+      "name": "prog_gearset_trinketarmory_10_slot3"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_dragonpendant_1_trinket_lord1",
+        "eq_events_dragonpendant_5_trinket_lord5",
+        "eq_events_dragonpendant_10_trinket_lord10",
+        "eq_events_dragonpendant_15_trinket_lord15",
+        "eq_events_dragonpendant_20_trinket_lord20",
+        "eq_events_dragonpendant_25_trinket_lord25",
+        "eq_events_dragonpendant_30_trinket_lord30",
+        "eq_events_dragonpendant_35_trinket_lord35",
+        "eq_events_dragonpendant_40_trinket_lord40",
+        "eq_events_dragonpendant_45_trinket_lord45",
+        "eq_events_dragonpendant_50_trinket_lord50"
+      ],
+      "id": "68c3f58149285a95",
+      "name": "prog_gearset_trinketarmory_11_slot1"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_trinket_horn_alpha_lord1",
+        "eq_trinket_horn_alpha_lord5",
+        "eq_trinket_horn_alpha_lord10",
+        "eq_trinket_horn_alpha_lord15",
+        "eq_trinket_horn_alpha_lord20",
+        "eq_trinket_horn_alpha_lord25",
+        "eq_trinket_horn_alpha_lord30",
+        "eq_trinket_horn_alpha_lord35",
+        "eq_trinket_horn_alpha_lord40",
+        "eq_trinket_horn_alpha_lord45",
+        "eq_trinket_horn_alpha_lord50"
+      ],
+      "id": "1dd1a96a90dda89b",
+      "name": "prog_gearset_trinketarmory_11_slot2"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_trinket_arrowhead_alpha_lord1",
+        "eq_trinket_arrowhead_alpha_lord5",
+        "eq_trinket_arrowhead_alpha_lord10",
+        "eq_trinket_arrowhead_alpha_lord15",
+        "eq_trinket_arrowhead_alpha_lord20",
+        "eq_trinket_arrowhead_alpha_lord25",
+        "eq_trinket_arrowhead_alpha_lord30",
+        "eq_trinket_arrowhead_alpha_lord35",
+        "eq_trinket_arrowhead_alpha_lord40",
+        "eq_trinket_arrowhead_alpha_lord45",
+        "eq_trinket_arrowhead_alpha_lord50"
+      ],
+      "id": "312062cc278ef961",
+      "name": "prog_gearset_trinketarmory_11_slot3"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_vial_of_water_1_trinket_lord1",
+        "eq_events_vial_of_water_5_trinket_lord5",
+        "eq_events_vial_of_water_10_trinket_lord10",
+        "eq_events_vial_of_water_15_trinket_lord15",
+        "eq_events_vial_of_water_20_trinket_lord20",
+        "eq_events_vial_of_water_25_trinket_lord25",
+        "eq_events_vial_of_water_30_trinket_lord30",
+        "eq_events_vial_of_water_35_trinket_lord35",
+        "eq_events_vial_of_water_40_trinket_lord40",
+        "eq_events_vial_of_water_45_trinket_lord45",
+        "eq_events_vial_of_water_50_trinket_lord50"
+      ],
+      "id": "99b9ef4fbb55ac9b",
+      "name": "prog_gearset_trinketarmory_12_slot1"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_trinket_winch_alpha_lord1",
+        "eq_trinket_winch_alpha_lord5",
+        "eq_trinket_winch_alpha_lord10",
+        "eq_trinket_winch_alpha_lord15",
+        "eq_trinket_winch_alpha_lord20",
+        "eq_trinket_winch_alpha_lord25",
+        "eq_trinket_winch_alpha_lord30",
+        "eq_trinket_winch_alpha_lord35",
+        "eq_trinket_winch_alpha_lord40",
+        "eq_trinket_winch_alpha_lord45",
+        "eq_trinket_winch_alpha_lord50"
+      ],
+      "id": "ecabb3a462a05e95",
+      "name": "prog_gearset_trinketarmory_12_slot2"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_trinket_dtw_alpha_lord1",
+        "eq_trinket_dtw_alpha_lord5",
+        "eq_trinket_dtw_alpha_lord10",
+        "eq_trinket_dtw_alpha_lord15",
+        "eq_trinket_dtw_alpha_lord20",
+        "eq_trinket_dtw_alpha_lord25",
+        "eq_trinket_dtw_alpha_lord30",
+        "eq_trinket_dtw_alpha_lord35",
+        "eq_trinket_dtw_alpha_lord40",
+        "eq_trinket_dtw_alpha_lord45",
+        "eq_trinket_dtw_alpha_lord50"
+      ],
+      "id": "c05a7802d5f30f6f",
+      "name": "prog_gearset_trinketarmory_12_slot3"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_snakewhip_1_trinket_lord1",
+        "eq_events_snakewhip_5_trinket_lord5",
+        "eq_events_snakewhip_10_trinket_lord10",
+        "eq_events_snakewhip_15_trinket_lord15",
+        "eq_events_snakewhip_20_trinket_lord20",
+        "eq_events_snakewhip_25_trinket_lord25",
+        "eq_events_snakewhip_30_trinket_lord30",
+        "eq_events_snakewhip_35_trinket_lord35",
+        "eq_events_snakewhip_40_trinket_lord40",
+        "eq_events_snakewhip_45_trinket_lord45",
+        "eq_events_snakewhip_50_trinket_lord50"
+      ],
+      "id": "30e6014c834be268",
+      "name": "prog_gearset_trinketarmory_martell_slot1"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_storybook_1_trinket_lord1",
+        "eq_events_storybook_5_trinket_lord5",
+        "eq_events_storybook_10_trinket_lord10",
+        "eq_events_storybook_15_trinket_lord15",
+        "eq_events_storybook_20_trinket_lord20",
+        "eq_events_storybook_25_trinket_lord25",
+        "eq_events_storybook_30_trinket_lord30",
+        "eq_events_storybook_35_trinket_lord35",
+        "eq_events_storybook_40_trinket_lord40",
+        "eq_events_storybook_45_trinket_lord45",
+        "eq_events_storybook_50_trinket_lord50"
+      ],
+      "id": "45f45da75abe1066",
+      "name": "prog_gearset_trinketarmory_martell_slot2"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_drinkinghorn_1_trinket_lord1",
+        "eq_events_drinkinghorn_5_trinket_lord5",
+        "eq_events_drinkinghorn_10_trinket_lord10",
+        "eq_events_drinkinghorn_15_trinket_lord15",
+        "eq_events_drinkinghorn_20_trinket_lord20",
+        "eq_events_drinkinghorn_25_trinket_lord25",
+        "eq_events_drinkinghorn_30_trinket_lord30",
+        "eq_events_drinkinghorn_35_trinket_lord35",
+        "eq_events_drinkinghorn_40_trinket_lord40",
+        "eq_events_drinkinghorn_45_trinket_lord45",
+        "eq_events_drinkinghorn_50_trinket_lord50"
+      ],
+      "id": "69059601eded419c",
+      "name": "prog_gearset_trinketarmory_martell_slot3"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_blueprints_1_trinket_lord1",
+        "eq_events_blueprints_5_trinket_lord5",
+        "eq_events_blueprints_10_trinket_lord10",
+        "eq_events_blueprints_15_trinket_lord15",
+        "eq_events_blueprints_20_trinket_lord20",
+        "eq_events_blueprints_25_trinket_lord25",
+        "eq_events_blueprints_30_trinket_lord30",
+        "eq_events_blueprints_35_trinket_lord35",
+        "eq_events_blueprints_40_trinket_lord40",
+        "eq_events_blueprints_45_trinket_lord45",
+        "eq_events_blueprints_50_trinket_lord50"
+      ],
+      "id": "6b18b47805d09bfe",
+      "name": "prog_gearset_trinketarmory_conqueror_slot1"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_toysoldier_1_trinket_lord1",
+        "eq_events_toysoldier_5_trinket_lord5",
+        "eq_events_toysoldier_10_trinket_lord10",
+        "eq_events_toysoldier_15_trinket_lord15",
+        "eq_events_toysoldier_20_trinket_lord20",
+        "eq_events_toysoldier_25_trinket_lord25",
+        "eq_events_toysoldier_30_trinket_lord30",
+        "eq_events_toysoldier_35_trinket_lord35",
+        "eq_events_toysoldier_40_trinket_lord40",
+        "eq_events_toysoldier_45_trinket_lord45",
+        "eq_events_toysoldier_50_trinket_lord50"
+      ],
+      "id": "1e0ae893dc2569f0",
+      "name": "prog_gearset_trinketarmory_conqueror_slot2"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_trinket_queenlb_1_trinket_lord1",
+        "eq_events_trinket_queenlb_5_trinket_lord5",
+        "eq_events_trinket_queenlb_10_trinket_lord10",
+        "eq_events_trinket_queenlb_15_trinket_lord15",
+        "eq_events_trinket_queenlb_20_trinket_lord20",
+        "eq_events_trinket_queenlb_25_trinket_lord25",
+        "eq_events_trinket_queenlb_30_trinket_lord30",
+        "eq_events_trinket_queenlb_35_trinket_lord35",
+        "eq_events_trinket_queenlb_40_trinket_lord40",
+        "eq_events_trinket_queenlb_45_trinket_lord45",
+        "eq_events_trinket_queenlb_50_trinket_lord50"
+      ],
+      "id": "32fb23356b76380a",
+      "name": "prog_gearset_trinketarmory_conqueror_slot3"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_trinket_rhllor_1_trinket_lord1",
+        "eq_events_trinket_rhllor_5_trinket_lord5",
+        "eq_events_trinket_rhllor_10_trinket_lord10",
+        "eq_events_trinket_rhllor_15_trinket_lord15",
+        "eq_events_trinket_rhllor_20_trinket_lord20",
+        "eq_events_trinket_rhllor_25_trinket_lord25",
+        "eq_events_trinket_rhllor_30_trinket_lord30",
+        "eq_events_trinket_rhllor_35_trinket_lord35",
+        "eq_events_trinket_rhllor_40_trinket_lord40",
+        "eq_events_trinket_rhllor_45_trinket_lord45",
+        "eq_events_trinket_rhllor_50_trinket_lord50"
+      ],
+      "id": "5ca24b04b8ba7297",
+      "name": "prog_gearset_trinketarmory_rhllorartifacts_slot1"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_trinket_cersei_1_trinket_lord1",
+        "eq_events_trinket_cersei_5_trinket_lord5",
+        "eq_events_trinket_cersei_10_trinket_lord10",
+        "eq_events_trinket_cersei_15_trinket_lord15",
+        "eq_events_trinket_cersei_20_trinket_lord20",
+        "eq_events_trinket_cersei_25_trinket_lord25",
+        "eq_events_trinket_cersei_30_trinket_lord30",
+        "eq_events_trinket_cersei_35_trinket_lord35",
+        "eq_events_trinket_cersei_40_trinket_lord40",
+        "eq_events_trinket_cersei_45_trinket_lord45",
+        "eq_events_trinket_cersei_50_trinket_lord50"
+      ],
+      "id": "29b017ef614f8099",
+      "name": "prog_gearset_trinketarmory_rhllorartifacts_slot2"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_trinket_kingsmoot_1_trinket_lord1",
+        "eq_events_trinket_kingsmoot_5_trinket_lord5",
+        "eq_events_trinket_kingsmoot_10_trinket_lord10",
+        "eq_events_trinket_kingsmoot_15_trinket_lord15",
+        "eq_events_trinket_kingsmoot_20_trinket_lord20",
+        "eq_events_trinket_kingsmoot_25_trinket_lord25",
+        "eq_events_trinket_kingsmoot_30_trinket_lord30",
+        "eq_events_trinket_kingsmoot_35_trinket_lord35",
+        "eq_events_trinket_kingsmoot_40_trinket_lord40",
+        "eq_events_trinket_kingsmoot_45_trinket_lord45",
+        "eq_events_trinket_kingsmoot_50_trinket_lord50"
+      ],
+      "id": "541dc49d61cd163",
+      "name": "prog_gearset_trinketarmory_rhllorartifacts_slot3"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_trinket_freedom_1_trinket_lord1",
+        "eq_events_trinket_freedom_5_trinket_lord5",
+        "eq_events_trinket_freedom_10_trinket_lord10",
+        "eq_events_trinket_freedom_15_trinket_lord15",
+        "eq_events_trinket_freedom_20_trinket_lord20",
+        "eq_events_trinket_freedom_25_trinket_lord25",
+        "eq_events_trinket_freedom_30_trinket_lord30",
+        "eq_events_trinket_freedom_35_trinket_lord35",
+        "eq_events_trinket_freedom_40_trinket_lord40",
+        "eq_events_trinket_freedom_45_trinket_lord45",
+        "eq_events_trinket_freedom_50_trinket_lord50"
+      ],
+      "id": "c47e1d4df5eb10d3",
+      "name": "prog_gearset_trinketarmory_astaporartifacts_slot1"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_trinket_dawn_1_trinket_lord1",
+        "eq_events_trinket_dawn_5_trinket_lord5",
+        "eq_events_trinket_dawn_10_trinket_lord10",
+        "eq_events_trinket_dawn_15_trinket_lord15",
+        "eq_events_trinket_dawn_20_trinket_lord20",
+        "eq_events_trinket_dawn_25_trinket_lord25",
+        "eq_events_trinket_dawn_30_trinket_lord30",
+        "eq_events_trinket_dawn_35_trinket_lord35",
+        "eq_events_trinket_dawn_40_trinket_lord40",
+        "eq_events_trinket_dawn_45_trinket_lord45",
+        "eq_events_trinket_dawn_50_trinket_lord50"
+      ],
+      "id": "b16c41a62c1ee2dd",
+      "name": "prog_gearset_trinketarmory_astaporartifacts_slot2"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_trinket_stark_1_trinket_lord1",
+        "eq_events_trinket_stark_5_trinket_lord5",
+        "eq_events_trinket_stark_10_trinket_lord10",
+        "eq_events_trinket_stark_15_trinket_lord15",
+        "eq_events_trinket_stark_20_trinket_lord20",
+        "eq_events_trinket_stark_25_trinket_lord25",
+        "eq_events_trinket_stark_30_trinket_lord30",
+        "eq_events_trinket_stark_35_trinket_lord35",
+        "eq_events_trinket_stark_40_trinket_lord40",
+        "eq_events_trinket_stark_45_trinket_lord45",
+        "eq_events_trinket_stark_50_trinket_lord50"
+      ],
+      "id": "9d9d8a009b4db327",
+      "name": "prog_gearset_trinketarmory_astaporartifacts_slot3"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_trinket_oldnan3_1_trinket_lord1",
+        "eq_events_trinket_oldnan3_5_trinket_lord5",
+        "eq_events_trinket_oldnan3_10_trinket_lord10",
+        "eq_events_trinket_oldnan3_15_trinket_lord15",
+        "eq_events_trinket_oldnan3_20_trinket_lord20",
+        "eq_events_trinket_oldnan3_25_trinket_lord25",
+        "eq_events_trinket_oldnan3_30_trinket_lord30",
+        "eq_events_trinket_oldnan3_35_trinket_lord35",
+        "eq_events_trinket_oldnan3_40_trinket_lord40",
+        "eq_events_trinket_oldnan3_45_trinket_lord45",
+        "eq_events_trinket_oldnan3_50_trinket_lord50"
+      ],
+      "id": "e4dcf530b3c5f1dc",
+      "name": "prog_gearset_trinketarmory_winterartifacts_slot1"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_trinket_harvest_1_trinket_lord1",
+        "eq_events_trinket_harvest_5_trinket_lord5",
+        "eq_events_trinket_harvest_10_trinket_lord10",
+        "eq_events_trinket_harvest_15_trinket_lord15",
+        "eq_events_trinket_harvest_20_trinket_lord20",
+        "eq_events_trinket_harvest_25_trinket_lord25",
+        "eq_events_trinket_harvest_30_trinket_lord30",
+        "eq_events_trinket_harvest_35_trinket_lord35",
+        "eq_events_trinket_harvest_40_trinket_lord40",
+        "eq_events_trinket_harvest_45_trinket_lord45",
+        "eq_events_trinket_harvest_50_trinket_lord50"
+      ],
+      "id": "91cea9db6a3003d2",
+      "name": "prog_gearset_trinketarmory_winterartifacts_slot2"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_trinket_yara_1_trinket_lord1",
+        "eq_events_trinket_yara_5_trinket_lord5",
+        "eq_events_trinket_yara_10_trinket_lord10",
+        "eq_events_trinket_yara_15_trinket_lord15",
+        "eq_events_trinket_yara_20_trinket_lord20",
+        "eq_events_trinket_yara_25_trinket_lord25",
+        "eq_events_trinket_yara_30_trinket_lord30",
+        "eq_events_trinket_yara_35_trinket_lord35",
+        "eq_events_trinket_yara_40_trinket_lord40",
+        "eq_events_trinket_yara_45_trinket_lord45",
+        "eq_events_trinket_yara_50_trinket_lord50"
+      ],
+      "id": "bd3f627ddd635228",
+      "name": "prog_gearset_trinketarmory_winterartifacts_slot3"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_events_trinket_harrenhal2_1_trinket_lord1",
+        "eq_events_trinket_harrenhal2_5_trinket_lord5",
+        "eq_events_trinket_harrenhal2_10_trinket_lord10",
+        "eq_events_trinket_harrenhal2_15_trinket_lord15",
+        "eq_events_trinket_harrenhal2_20_trinket_lord20",
+        "eq_events_trinket_harrenhal2_25_trinket_lord25",
+        "eq_events_trinket_harrenhal2_30_trinket_lord30",
+        "eq_events_trinket_harrenhal2_35_trinket_lord35",
+        "eq_events_trinket_harrenhal2_40_trinket_lord40",
+        "eq_events_trinket_harrenhal2_45_trinket_lord45",
+        "eq_events_trinket_harrenhal2_50_trinket_lord50"
+      ],
+      "id": "1b439090916f7fd2",
+      "name": "prog_gearset_trinketarmory_whent_slot1"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_trinket_comingsoon_1_alpha_lord1"
+      ],
+      "id": "6e51cc7b489a8ddc",
+      "name": "prog_gearset_trinketarmory_whent_slot2"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_trinket_comingsoon_2_alpha_lord1"
+      ],
+      "id": "42a007ddffc9dc26",
+      "name": "prog_gearset_trinketarmory_whent_slot3"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_trinket_comingsoon_1_alpha_lord1"
+      ],
+      "id": "c0da4ef653fd465f",
+      "name": "prog_gearset_trinketarmory_comingsoon_slot2"
+    },
+    {
+      "gear_names_with_level": [
+        "eq_trinket_comingsoon_2_alpha_lord1"
+      ],
+      "id": "ec2b8550e4ae17a5",
+      "name": "prog_gearset_trinketarmory_comingsoon_slot3"
+    }
+  ]
+}

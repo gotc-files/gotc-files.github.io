@@ -1,0 +1,5333 @@
+{
+  "description": "Items",
+  "values": [
+    {
+      "description_placeholder": "CURR_FOOD_DESC",
+      "id": "ddc81bb580757891",
+      "image": "icon_resource_food.png",
+      "name": "curr_food",
+      "name_placeholder": "CURR_FOOD",
+      "priority": 300,
+      "type": "wallet"
+    },
+    {
+      "description_placeholder": "CURR_WOOD_DESC",
+      "id": "357e877d72e0fa54",
+      "image": "icon_resource_wood.png",
+      "name": "curr_wood",
+      "name_placeholder": "CURR_WOOD",
+      "priority": 400,
+      "type": "wallet"
+    },
+    {
+      "description_placeholder": "CURR_STONE_DESC",
+      "id": "b9c7d2244e5680f5",
+      "image": "icon_resource_stone.png",
+      "name": "curr_stone",
+      "name_placeholder": "CURR_STONE",
+      "priority": 500,
+      "type": "wallet"
+    },
+    {
+      "description_placeholder": "CURR_IRON_DESC",
+      "id": "f7d48ae885014a91",
+      "image": "icon_resource_iron.png",
+      "name": "curr_iron",
+      "name_placeholder": "CURR_IRON",
+      "priority": 600,
+      "type": "wallet"
+    },
+    {
+      "description_placeholder": "CURR_GOLD_DESC",
+      "id": "efa1400b5a7edf27",
+      "image": "icon_resource_gold.png",
+      "name": "curr_gold",
+      "name_placeholder": "CURR_GOLD",
+      "priority": 700,
+      "type": "wallet"
+    },
+    {
+      "description_placeholder": "CURR_STEEL_DESC",
+      "id": "21ca1faa96f75440",
+      "image": "icon_cur_steel.png",
+      "name": "curr_steel",
+      "name_placeholder": "CURR_STEEL",
+      "priority": 800,
+      "type": "wallet"
+    },
+    {
+      "description_placeholder": "CURR_SHRINE_DESC",
+      "id": "d940e8d2dc6ea2f9",
+      "image": "icon_wish.png",
+      "name": "curr_shrine",
+      "name_placeholder": "CURR_SHRINE",
+      "priority": 900,
+      "type": "wallet"
+    },
+    {
+      "description_placeholder": "CURR_FOOD_DESC",
+      "id": "b92632a5c05a5b1f",
+      "image": "icon_settings_FAQ.png",
+      "name": "curr_unobtainium",
+      "name_placeholder": "CURR_UNOBTAINIUM",
+      "priority": 1000,
+      "type": "wallet"
+    },
+    {
+      "description_placeholder": "CURR_REDTEMPLE_DESC",
+      "id": "dd2408e774450065",
+      "image": "icon_resource_harvest_red_temple.png",
+      "name": "curr_redtemple",
+      "name_placeholder": "CURR_REDTEMPLE",
+      "priority": 1100,
+      "type": "wallet"
+    },
+    {
+      "description_placeholder": "CURR_GEM_DESC",
+      "id": "85c820c96d9b2e1c",
+      "image": "icon_webstore_gem.png",
+      "name": "curr_gem",
+      "name_placeholder": "CURR_GEM",
+      "priority": 750,
+      "type": "wallet"
+    },
+    {
+      "description_placeholder": "ITEM_BUILDING_BRICK_1_DESC",
+      "id": "96ec4927f7d9c5b",
+      "image": "icon_buildreq_brick_1.png",
+      "name": "item_buildreq_brick_1",
+      "name_placeholder": "ITEM_BUILDREQ_BRICK_1",
+      "priority": 1500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_BUILDREQ_SOLDIERPINE_1_DESC",
+      "id": "5fa72350f95dedb7",
+      "image": "icon_buildreq_soldierpine_1.png",
+      "name": "item_buildreq_soldierpine_1",
+      "name_placeholder": "ITEM_BUILDREQ_SOLDIERPINE_1",
+      "priority": 1600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_BUILDREQ_KEYSTONE_1_DESC",
+      "id": "b7510366b19d62f6",
+      "image": "icon_buildreq_keystone_1.png",
+      "name": "item_buildreq_keystone_1",
+      "name_placeholder": "ITEM_BUILDREQ_KEYSTONE_1",
+      "priority": 1700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_BUILDREQ_LEVELCAP_1_DESC",
+      "id": "60d311b6b966bb90",
+      "image": "icon_buildreq_valyrian_stone_1.png",
+      "name": "item_buildreq_levelcap_1",
+      "name_placeholder": "ITEM_BUILDREQ_LEVELCAP_1",
+      "priority": 1800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_BUILDREQ_SCHOLARLY_FRAGMENT_1_DESC",
+      "id": "4fe5dfda07f042e2",
+      "image": "icon_buildreq_scholarly_fragment_1.png",
+      "name": "item_buildreq_scholarly_fragment_1",
+      "name_placeholder": "ITEM_BUILDREQ_SCHOLARLY_FRAGMENT_1",
+      "priority": 2100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_BUILDREQ_PALE_STEEL_1_DESC",
+      "id": "f3644f884a602dd6",
+      "image": "icon_buildreq_pale_steel_1.png",
+      "name": "item_buildreq_pale_steel_1",
+      "name_placeholder": "ITEM_BUILDREQ_PALE_STEEL_1",
+      "priority": 2200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_BUILDREQ_RED_GOLD_1_DESC",
+      "id": "36cff0bf04f12e4d",
+      "image": "icon_buildreq_red_gold_1.png",
+      "name": "item_buildreq_red_gold_1",
+      "name_placeholder": "ITEM_BUILDREQ_RED_GOLD_1",
+      "priority": 2300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_BUILDREQ_ADV_MILITARY_1_DESC",
+      "id": "fd08a71516d38f58",
+      "image": "icon_buildreq_red_gold_1.png",
+      "name": "item_buildreq_adv_military_1",
+      "name_placeholder": "ITEM_BUILDREQ_ADV_MILITARY",
+      "priority": 0,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_ENHANCEREQ_BASIC_1_DESC",
+      "id": "6e1e282bcd0310a8",
+      "image": "icon_buildreq_slate_1.png",
+      "name": "item_enhancereq_basic_1",
+      "name_placeholder": "ITEM_ENHANCEREQ_BASIC_1",
+      "priority": 2700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_ENHANCEREQ_ADVANCED_1_DESC",
+      "id": "829ad939e69f4a6c",
+      "image": "icon_buildreq_marble_1.png",
+      "name": "item_enhancereq_advanced_1",
+      "name_placeholder": "ITEM_ENHANCEREQ_ADVANCED_1",
+      "priority": 2800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_FLUX_0_DESCRIPTION",
+      "id": "49548a4e18adc510",
+      "image": "icon_crafting_flux_s01.png",
+      "name": "item_flux_0",
+      "name_placeholder": "ITEM_FLUX_0_NAME",
+      "priority": 3000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_FLUX_1_DESCRIPTION",
+      "id": "65a541e8affe94ea",
+      "image": "icon_crafting_flux_s02.png",
+      "name": "item_flux_1",
+      "name_placeholder": "ITEM_FLUX_1_NAME",
+      "priority": 3100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_FLUX_2_DESCRIPTION",
+      "id": "10b71d03760b66e4",
+      "image": "icon_crafting_flux_s03.png",
+      "name": "item_flux_2",
+      "name_placeholder": "ITEM_FLUX_2_NAME",
+      "priority": 3200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_FLUX_3_DESCRIPTION",
+      "id": "3c46d6a5c158371e",
+      "image": "icon_crafting_flux_s04.png",
+      "name": "item_flux_3",
+      "name_placeholder": "ITEM_FLUX_3_NAME",
+      "priority": 3300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_FLUX_4_DESCRIPTION",
+      "id": "fa93a4d4c5e082f8",
+      "image": "icon_crafting_flux_s05.png",
+      "name": "item_flux_4",
+      "name_placeholder": "ITEM_FLUX_4_NAME",
+      "priority": 3400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_FLUX_5_DESCRIPTION",
+      "id": "d6626f7272b3d302",
+      "image": "icon_crafting_flux_s06.png",
+      "name": "item_flux_5",
+      "name_placeholder": "ITEM_FLUX_5_NAME",
+      "priority": 3500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_FLUX_6_DESCRIPTION",
+      "id": "a3703399ab46210c",
+      "image": "icon_crafting_flux_s07.png",
+      "name": "item_flux_6",
+      "name_placeholder": "ITEM_FLUX_6_NAME",
+      "priority": 3600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_FLUX_TRINKET_1_DESCRIPTION",
+      "id": "dbcb01bddbf81a4d",
+      "image": "icon_crafting_flux_trinket_s01.png",
+      "name": "item_flux_trinket_1",
+      "name_placeholder": "ITEM_FLUX_TRINKET_1_NAME",
+      "priority": 3800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_FLUX_TRINKET_2_DESCRIPTION",
+      "id": "aed95d56020de843",
+      "image": "icon_crafting_flux_trinket_s02.png",
+      "name": "item_flux_trinket_2",
+      "name_placeholder": "ITEM_FLUX_TRINKET_2_NAME",
+      "priority": 3900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_FLUX_TRINKET_3_DESCRIPTION",
+      "id": "822896f0b55eb9b9",
+      "image": "icon_crafting_flux_trinket_s03.png",
+      "name": "item_flux_trinket_3",
+      "name_placeholder": "ITEM_FLUX_TRINKET_3_NAME",
+      "priority": 4000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_FLUX_TRINKET_4_DESCRIPTION",
+      "id": "44fde481b1e60c5f",
+      "image": "icon_crafting_flux_trinket_s04.png",
+      "name": "item_flux_trinket_4",
+      "name_placeholder": "ITEM_FLUX_TRINKET_4_NAME",
+      "priority": 4100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "",
+      "id": "a5aec0da26da3da1",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_display_aggregate",
+      "name_placeholder": "",
+      "priority": 0,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "",
+      "id": "5ce51467411d9a4f",
+      "image": "",
+      "name": "builder_Permanent",
+      "name_placeholder": "BUILDER_PERMANENT",
+      "priority": 4700,
+      "type": "builder"
+    },
+    {
+      "description_placeholder": "",
+      "id": "ee55a25a01bc1a84",
+      "image": "",
+      "name": "builder_Temporary",
+      "name_placeholder": "BUILDER_TEMPORARY",
+      "priority": 4800,
+      "type": "builder"
+    },
+    {
+      "description_placeholder": "",
+      "id": "a33c92bcd7481313",
+      "image": "icon_build.png",
+      "name": "item_test_builder_2_2s",
+      "name_placeholder": "TEST ITEM 2s Second Builder",
+      "priority": 4900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "Short time test 2nd builder",
+      "id": "e969ecd68b1cc1e7",
+      "image": "icon_build_premium.png",
+      "name": "item_builder_2_test_alpha",
+      "name_placeholder": "TEST ITEM Short time test 2nd builder",
+      "priority": 5100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "Short time test 3rd builder",
+      "id": "a7554184b5bc093",
+      "image": "icon_build_premium.png",
+      "name": "item_builder_3_test_alpha",
+      "name_placeholder": "TEST ITEM Short time test 3rd builder",
+      "priority": 5200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_BUILDER_2_1D_DESC",
+      "id": "18c66b7360ce664f",
+      "image": "icon_build_premium.png",
+      "name": "item_builder_2_1d",
+      "name_placeholder": "ITEM_BUILDER_2_1D",
+      "priority": 5300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_BUILDER_2_1D_DESC",
+      "id": "17a3dfb8cbc9b75a",
+      "image": "icon_build_premium.png",
+      "name": "item_builder_2_2d",
+      "name_placeholder": "ITEM_BUILDER_2_2D",
+      "priority": 5400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_BUILDER_2_1D_DESC",
+      "id": "1280b3fe52cb07a9",
+      "image": "icon_build_premium.png",
+      "name": "item_builder_2_3d",
+      "name_placeholder": "ITEM_BUILDER_2_3D",
+      "priority": 5500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_BUILDER_2_1D_DESC",
+      "id": "c4bda6904c4a583",
+      "image": "icon_build_premium.png",
+      "name": "item_builder_2_5d",
+      "name_placeholder": "ITEM_BUILDER_2_5D",
+      "priority": 5600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_BUILDER_2_1D_DESC",
+      "id": "60d02e436c1c465",
+      "image": "icon_build_premium.png",
+      "name": "item_builder_2_7d",
+      "name_placeholder": "ITEM_BUILDER_2_7D",
+      "priority": 5700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_BUILDER_2_1D_DESC",
+      "id": "9664ccf2c8307133",
+      "image": "icon_build_premium.png",
+      "name": "item_builder_2_30d",
+      "name_placeholder": "ITEM_BUILDER_2_30D",
+      "priority": 5800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_BUILDER_3_2D_DESC",
+      "id": "2aaf30cdbac5c1f9",
+      "image": "icon_build_premium_third.png",
+      "name": "item_builder_3_2d",
+      "name_placeholder": "ITEM_BUILDER_3_2D",
+      "priority": 5900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "",
+      "id": "21448164ec10c370",
+      "image": "",
+      "name": "researcher_Temporary",
+      "name_placeholder": "RESEARCHER_TEMPORARY",
+      "priority": 6200,
+      "type": "researcher"
+    },
+    {
+      "description_placeholder": "",
+      "id": "2c2ef874c580740",
+      "image": "icon_research.png",
+      "name": "item_test_researcher_2_30s",
+      "name_placeholder": "TEST ITEM 30s Second Researcher",
+      "priority": 6300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "Short time test 2nd researcher",
+      "id": "1dd14efb21d8dabc",
+      "image": "icon_research_premium.png",
+      "name": "item_researcher_2_test_alpha",
+      "name_placeholder": "TEST ITEM Short time test 2nd researcher",
+      "priority": 6500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "Short time test 3rd researcher",
+      "id": "fecdf635e19fdbc8",
+      "image": "icon_research_premium.png",
+      "name": "item_researcher_3_test_alpha",
+      "name_placeholder": "TEST ITEM DO NOT USE Short time test 3rd researcher",
+      "priority": 6600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_RESEARCHER_2_1D_DESC",
+      "id": "f992cb3576c98c7e",
+      "image": "icon_research_premium.png",
+      "name": "item_researcher_2_1d",
+      "name_placeholder": "ITEM_RESEARCHER_2_1D",
+      "priority": 6700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_RESEARCHER_2_1D_DESC",
+      "id": "f6f77ffeddce5d6b",
+      "image": "icon_research_premium.png",
+      "name": "item_researcher_2_2d",
+      "name_placeholder": "ITEM_RESEARCHER_2_2D",
+      "priority": 6800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_RESEARCHER_2_1D_DESC",
+      "id": "f3d413b844cced98",
+      "image": "icon_research_premium.png",
+      "name": "item_researcher_2_3d",
+      "name_placeholder": "ITEM_RESEARCHER_2_3D",
+      "priority": 6900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_RESEARCHER_2_1D_DESC",
+      "id": "ed1f7a2f12c34fb2",
+      "image": "icon_research_premium.png",
+      "name": "item_researcher_2_5d",
+      "name_placeholder": "ITEM_RESEARCHER_2_5D",
+      "priority": 7000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_RESEARCHER_2_1D_DESC",
+      "id": "e759a2a220c62e54",
+      "image": "icon_research_premium.png",
+      "name": "item_researcher_2_7d",
+      "name_placeholder": "ITEM_RESEARCHER_2_7D",
+      "priority": 7100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_RESEARCHER_2_1D_DESC",
+      "id": "6302d6e9c9387444",
+      "image": "icon_research_premium.png",
+      "name": "item_researcher_2_30d",
+      "name_placeholder": "ITEM_RESEARCHER_2_30D",
+      "priority": 7200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_RESEARCHER_3_2D_DESC",
+      "id": "cbfb908bacc22bc8",
+      "image": "icon_research_premium_third.png",
+      "name": "item_researcher_3_2d",
+      "name_placeholder": "ITEM_RESEARCHER_3_2D",
+      "priority": 7300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_SPEEDUP_DESC",
+      "id": "f1505e35969e78f",
+      "image": "icon_speedup.png",
+      "name": "item_speedup_Generic_1m",
+      "name_placeholder": "ITEM_SPEEDUP_GENERIC_1M",
+      "priority": 8000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_SPEEDUP_DESC",
+      "id": "1b98b4f93d632443",
+      "image": "icon_speedup.png",
+      "name": "item_speedup_Generic_5m",
+      "name_placeholder": "ITEM_SPEEDUP_GENERIC_5M",
+      "priority": 8100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_SPEEDUP_DESC",
+      "id": "e9a61364442e8d1b",
+      "image": "icon_speedup.png",
+      "name": "item_speedup_Generic_60m",
+      "name_placeholder": "ITEM_SPEEDUP_GENERIC_60M",
+      "priority": 8200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_SPEEDUP_DESC",
+      "id": "9a6538520172907b",
+      "image": "icon_speedup.png",
+      "name": "item_speedup_Generic_3h",
+      "name_placeholder": "ITEM_SPEEDUP_GENERIC_3H",
+      "priority": 8300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_SPEEDUP_DESC",
+      "id": "bc1beead6260c6f6",
+      "image": "icon_speedup.png",
+      "name": "item_speedup_Generic_8h",
+      "name_placeholder": "ITEM_SPEEDUP_GENERIC_8H",
+      "priority": 8400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_SPEEDUP_DESC",
+      "id": "54546bb42c4d06df",
+      "image": "icon_speedup.png",
+      "name": "item_speedup_Generic_24h",
+      "name_placeholder": "ITEM_SPEEDUP_GENERIC_24H",
+      "priority": 8500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_SPEEDUP_DESC",
+      "id": "caff8895fe54482d",
+      "image": "icon_build.png",
+      "name": "item_speedup_Building_1m",
+      "name_placeholder": "ITEM_SPEEDUP_BUILDING_1M",
+      "priority": 8600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_SPEEDUP_DESC",
+      "id": "de72398f9a5e8be1",
+      "image": "icon_build.png",
+      "name": "item_speedup_Building_5m",
+      "name_placeholder": "ITEM_SPEEDUP_BUILDING_5M",
+      "priority": 8700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_SPEEDUP_DESC",
+      "id": "e079b677a771296f",
+      "image": "icon_build.png",
+      "name": "item_speedup_Building_60m",
+      "name_placeholder": "ITEM_SPEEDUP_BUILDING_60M",
+      "priority": 8800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_SPEEDUP_DESC",
+      "id": "5f8fb524a64f3fd9",
+      "image": "icon_build.png",
+      "name": "item_speedup_Building_3h",
+      "name_placeholder": "ITEM_SPEEDUP_BUILDING_3H",
+      "priority": 8900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_SPEEDUP_DESC",
+      "id": "79f163dbc55d6954",
+      "image": "icon_build.png",
+      "name": "item_speedup_Building_8h",
+      "name_placeholder": "ITEM_SPEEDUP_BUILDING_8H",
+      "priority": 9000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_SPEEDUP_DESC",
+      "id": "5d8bcea7cf12a2ab",
+      "image": "icon_build.png",
+      "name": "item_speedup_Building_24h",
+      "name_placeholder": "ITEM_SPEEDUP_BUILDING_24H",
+      "priority": 9100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_SPEEDUP_DESC",
+      "id": "9520ea43de9e5432",
+      "image": "icon_forge.png",
+      "name": "item_speedup_Crafting_1m",
+      "name_placeholder": "ITEM_SPEEDUP_CRAFTING_1M",
+      "priority": 9200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_SPEEDUP_DESC",
+      "id": "81ad5b59ba9497fe",
+      "image": "icon_forge.png",
+      "name": "item_speedup_Crafting_5m",
+      "name_placeholder": "ITEM_SPEEDUP_CRAFTING_5M",
+      "priority": 9300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_SPEEDUP_DESC",
+      "id": "8b1578d0291858b3",
+      "image": "icon_forge.png",
+      "name": "item_speedup_Crafting_60m",
+      "name_placeholder": "ITEM_SPEEDUP_CRAFTING_60M",
+      "priority": 9400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_SPEEDUP_DESC",
+      "id": "50d7f2868523c6",
+      "image": "icon_forge.png",
+      "name": "item_speedup_Crafting_3h",
+      "name_placeholder": "ITEM_SPEEDUP_CRAFTING_3H",
+      "priority": 9500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_SPEEDUP_DESC",
+      "id": "262e010de597754b",
+      "image": "icon_forge.png",
+      "name": "item_speedup_Crafting_8h",
+      "name_placeholder": "ITEM_SPEEDUP_CRAFTING_8H",
+      "priority": 9600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_SPEEDUP_DESC",
+      "id": "36e70000417bd377",
+      "image": "icon_forge.png",
+      "name": "item_speedup_Crafting_24h",
+      "name_placeholder": "ITEM_SPEEDUP_CRAFTING_24H",
+      "priority": 9700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_SPEEDUP_DESC",
+      "id": "d7b2764f8f6af9e5",
+      "image": "icon_research.png",
+      "name": "item_speedup_Research_1m",
+      "name_placeholder": "ITEM_SPEEDUP_RESEARCH_1M",
+      "priority": 9800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_SPEEDUP_DESC",
+      "id": "c33fc755eb603a29",
+      "image": "icon_research.png",
+      "name": "item_speedup_Research_5m",
+      "name_placeholder": "ITEM_SPEEDUP_RESEARCH_5M",
+      "priority": 9900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_SPEEDUP_DESC",
+      "id": "65fe7454dc5e04ef",
+      "image": "icon_research.png",
+      "name": "item_speedup_Research_60m",
+      "name_placeholder": "ITEM_SPEEDUP_RESEARCH_60M",
+      "priority": 10000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_SPEEDUP_DESC",
+      "id": "42c24bfed7718e11",
+      "image": "icon_research.png",
+      "name": "item_speedup_Research_3h",
+      "name_placeholder": "ITEM_SPEEDUP_RESEARCH_3H",
+      "priority": 10100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_SPEEDUP_DESC",
+      "id": "64bc9d01b463d89c",
+      "image": "icon_research.png",
+      "name": "item_speedup_Research_8h",
+      "name_placeholder": "ITEM_SPEEDUP_RESEARCH_8H",
+      "priority": 10200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_SPEEDUP_DESC",
+      "id": "d80c0c84b43d8f2b",
+      "image": "icon_research.png",
+      "name": "item_speedup_Research_24h",
+      "name_placeholder": "ITEM_SPEEDUP_RESEARCH_24H",
+      "priority": 10300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_SPEEDUP_DESC",
+      "id": "9a35c45d35231038",
+      "image": "icon_traps.png",
+      "name": "item_speedup_Trap_1m",
+      "name_placeholder": "ITEM_SPEEDUP_TRAP_1M",
+      "priority": 10400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_SPEEDUP_DESC",
+      "id": "8eb875475129d3f4",
+      "image": "icon_traps.png",
+      "name": "item_speedup_Trap_5m",
+      "name_placeholder": "ITEM_SPEEDUP_TRAP_5M",
+      "priority": 10500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_SPEEDUP_DESC",
+      "id": "37cde5f3aa6086f8",
+      "image": "icon_traps.png",
+      "name": "item_speedup_Trap_60m",
+      "name_placeholder": "ITEM_SPEEDUP_TRAP_60M",
+      "priority": 10600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_SPEEDUP_DESC",
+      "id": "f45f9ec6d3867cc",
+      "image": "icon_traps.png",
+      "name": "item_speedup_Trap_3h",
+      "name_placeholder": "ITEM_SPEEDUP_TRAP_3H",
+      "priority": 10700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_SPEEDUP_DESC",
+      "id": "293b2f130e2a3141",
+      "image": "icon_traps.png",
+      "name": "item_speedup_Trap_8h",
+      "name_placeholder": "ITEM_SPEEDUP_TRAP_8H",
+      "priority": 10800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_SPEEDUP_DESC",
+      "id": "8a3f9d23c2030d3c",
+      "image": "icon_traps.png",
+      "name": "item_speedup_Trap_24h",
+      "name_placeholder": "ITEM_SPEEDUP_TRAP_24H",
+      "priority": 10900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_SPEEDUP_DESC",
+      "id": "a0cc4b5141cc9d4c",
+      "image": "icon_troop.png",
+      "name": "item_speedup_Troop_1m",
+      "name_placeholder": "ITEM_SPEEDUP_TROOP_1M",
+      "priority": 11000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_SPEEDUP_DESC",
+      "id": "b441fa4b25c65e80",
+      "image": "icon_troop.png",
+      "name": "item_speedup_Troop_5m",
+      "name_placeholder": "ITEM_SPEEDUP_TROOP_5M",
+      "priority": 11100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_SPEEDUP_DESC",
+      "id": "fcb5065c7da809a5",
+      "image": "icon_troop.png",
+      "name": "item_speedup_Troop_60m",
+      "name_placeholder": "ITEM_SPEEDUP_TROOP_60M",
+      "priority": 11200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_SPEEDUP_DESC",
+      "id": "35bc76e019d7eab8",
+      "image": "icon_troop.png",
+      "name": "item_speedup_Troop_3h",
+      "name_placeholder": "ITEM_SPEEDUP_TROOP_3H",
+      "priority": 11300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_SPEEDUP_DESC",
+      "id": "13c2a01f7ac5bc35",
+      "image": "icon_troop.png",
+      "name": "item_speedup_Troop_8h",
+      "name_placeholder": "ITEM_SPEEDUP_TROOP_8H",
+      "priority": 11400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_SPEEDUP_DESC",
+      "id": "41477e8c15cb8261",
+      "image": "icon_troop.png",
+      "name": "item_speedup_Troop_24h",
+      "name_placeholder": "ITEM_SPEEDUP_TROOP_24H",
+      "priority": 11500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_SPEEDUP_DESC",
+      "id": "bfdec256db9965e5",
+      "image": "icon_healing.png",
+      "name": "item_speedup_Healing_1m",
+      "name_placeholder": "ITEM_SPEEDUP_HEALING_1M",
+      "priority": 11600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_SPEEDUP_DESC",
+      "id": "ab53734cbf93a629",
+      "image": "icon_healing.png",
+      "name": "item_speedup_Healing_5m",
+      "name_placeholder": "ITEM_SPEEDUP_HEALING_5M",
+      "priority": 11700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_SPEEDUP_DESC",
+      "id": "659618e0c50af773",
+      "image": "icon_healing.png",
+      "name": "item_speedup_Healing_60m",
+      "name_placeholder": "ITEM_SPEEDUP_HEALING_60M",
+      "priority": 11800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_SPEEDUP_DESC",
+      "id": "2aaeffe783821211",
+      "image": "icon_healing.png",
+      "name": "item_speedup_Healing_3h",
+      "name_placeholder": "ITEM_SPEEDUP_HEALING_3H",
+      "priority": 11900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_SPEEDUP_DESC",
+      "id": "cd02918e090449c",
+      "image": "icon_healing.png",
+      "name": "item_speedup_Healing_8h",
+      "name_placeholder": "ITEM_SPEEDUP_HEALING_8H",
+      "priority": 12000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_SPEEDUP_DESC",
+      "id": "d8646030ad697cb7",
+      "image": "icon_healing.png",
+      "name": "item_speedup_Healing_24h",
+      "name_placeholder": "ITEM_SPEEDUP_HEALING_24H",
+      "priority": 12100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_SPEEDUP_MARCH_1_DESC",
+      "id": "bc24cf670000fe0",
+      "image": "icon_march.png",
+      "name": "item_Speedup_March_1",
+      "name_placeholder": "ITEM_SPEEDUP_MARCH_1",
+      "priority": 12500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_SPEEDUP_MARCH_2_DESC",
+      "id": "7ed0101da9f5fdee",
+      "image": "icon_march.png",
+      "name": "item_Speedup_March_2",
+      "name_placeholder": "ITEM_SPEEDUP_MARCH_2",
+      "priority": 12600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MARCH_RECALL_DESC",
+      "id": "f3aee40c481895cd",
+      "image": "icon_march.png",
+      "name": "item_March_Recall",
+      "name_placeholder": "ITEM_MARCH_RECALL",
+      "priority": 12700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MARCH_RETURN_DESC",
+      "id": "465adc5303998fc6",
+      "image": "icon_march_go_home.png",
+      "name": "item_March_Return",
+      "name_placeholder": "ITEM_MARCH_RETURN",
+      "priority": 12800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "OBSOLETE do not use (adv recall)",
+      "id": "2e9f25b7cdecf9ba",
+      "image": "icon_march.png",
+      "name": "item_Advanced_Recall",
+      "name_placeholder": "OBSOLETE do not use (adv recall)",
+      "priority": 12900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_RALLY_RECALL_DESC",
+      "id": "9dc06a3a39608a02",
+      "image": "icon_march.png",
+      "name": "item_Rally_Recall",
+      "name_placeholder": "ITEM_RALLY_RECALL",
+      "priority": 13000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MAX_MARCH_BOOST_DESC",
+      "id": "c51e2f27227df0b9",
+      "image": "icon_research_march_size_increase.png",
+      "name": "item_Max_March_Boost",
+      "name_placeholder": "ITEM_MAX_MARCH_BOOST",
+      "priority": 13100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MIR_REFINED_DRAGONGLASS_DESC",
+      "id": "cdd89145d58296af",
+      "image": "icon_march_item_req_refined_dragonglass.png",
+      "name": "item_MIR_Refined_Dragonglass",
+      "name_placeholder": "ITEM_MIR_REFINED_DRAGONGLASS",
+      "priority": 13300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MIR_COARSE_DRAGONGLASS_DESC",
+      "id": "72460049afa01bf9",
+      "image": "icon_march_item_req_refined_dragonglass.png",
+      "name": "item_MIR_Coarse_Dragonglass",
+      "name_placeholder": "ITEM_MIR_COARSE_DRAGONGLASS",
+      "priority": 13400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_RESOURCE_FOOD_DESC",
+      "id": "215365769f2adb3",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Food_500",
+      "name_placeholder": "ITEM_RESOURCE_FOOD_500",
+      "priority": 13700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_RESOURCE_FOOD_DESC",
+      "id": "407ed532ee7a7dba",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Food_1000",
+      "name_placeholder": "ITEM_RESOURCE_FOOD_1000",
+      "priority": 13800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_RESOURCE_FOOD_DESC",
+      "id": "b44d68e72a4ba736",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Food_5000",
+      "name_placeholder": "ITEM_RESOURCE_FOOD_5000",
+      "priority": 13900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_RESOURCE_FOOD_DESC",
+      "id": "7dcad7e20baabee7",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Food_10000",
+      "name_placeholder": "ITEM_RESOURCE_FOOD_10000",
+      "priority": 14000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_RESOURCE_FOOD_DESC",
+      "id": "13b14e9bf3c5f21e",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Food_20000",
+      "name_placeholder": "ITEM_RESOURCE_FOOD_20000",
+      "priority": 14100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_RESOURCE_FOOD_DESC",
+      "id": "eed454cf1b1c024f",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Food_100000",
+      "name_placeholder": "ITEM_RESOURCE_FOOD_100000",
+      "priority": 14200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_RESOURCE_FOOD_DESC",
+      "id": "5b8a8ddf3e674e27",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Food_1000000",
+      "name_placeholder": "ITEM_RESOURCE_FOOD_1000000",
+      "priority": 14300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_RESOURCE_FOOD_DESC",
+      "id": "3a6458116cd23b09",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Food_2500000",
+      "name_placeholder": "ITEM_RESOURCE_FOOD_2500000",
+      "priority": 14400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_RESOURCE_FOOD_DESC",
+      "id": "8e5c840874421c75",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Food_10000000",
+      "name_placeholder": "ITEM_RESOURCE_FOOD_10000000",
+      "priority": 14500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_RESOURCE_WOOD_DESC",
+      "id": "52bec59bb255ea4c",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Wood_500",
+      "name_placeholder": "ITEM_RESOURCE_WOOD_500",
+      "priority": 14700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_RESOURCE_WOOD_DESC",
+      "id": "da170670770a2f4d",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Wood_1000",
+      "name_placeholder": "ITEM_RESOURCE_WOOD_1000",
+      "priority": 14800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_RESOURCE_WOOD_DESC",
+      "id": "2e24bba5b33bf5c1",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Wood_5000",
+      "name_placeholder": "ITEM_RESOURCE_WOOD_5000",
+      "priority": 14900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_RESOURCE_WOOD_DESC",
+      "id": "25dd9c0efadfbfe",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Wood_10000",
+      "name_placeholder": "ITEM_RESOURCE_WOOD_10000",
+      "priority": 15000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_RESOURCE_WOOD_DESC",
+      "id": "6c2640b917c2b707",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Wood_20000",
+      "name_placeholder": "ITEM_RESOURCE_WOOD_20000",
+      "priority": 15100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_RESOURCE_WOOD_DESC",
+      "id": "6fbc6bd3d25a5ad6",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Wood_100000",
+      "name_placeholder": "ITEM_RESOURCE_WOOD_100000",
+      "priority": 15200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_RESOURCE_WOOD_DESC",
+      "id": "1b416cc86ddbf036",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Wood_1000000",
+      "name_placeholder": "ITEM_RESOURCE_WOOD_1000000",
+      "priority": 15300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_RESOURCE_WOOD_DESC",
+      "id": "7aafb9063f6e8518",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Wood_2500000",
+      "name_placeholder": "ITEM_RESOURCE_WOOD_2500000",
+      "priority": 15400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_RESOURCE_WOOD_DESC",
+      "id": "ea3ff8bb7b863fec",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Wood_10000000",
+      "name_placeholder": "ITEM_RESOURCE_WOOD_10000000",
+      "priority": 15500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_RESOURCE_STONE_DESC",
+      "id": "dfad41a34a80680",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Stone_25",
+      "name_placeholder": "ITEM_RESOURCE_STONE_25",
+      "priority": 15700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_RESOURCE_STONE_DESC",
+      "id": "de637fd3bdd7f0d5",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Stone_100",
+      "name_placeholder": "ITEM_RESOURCE_STONE_100",
+      "priority": 15800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_RESOURCE_STONE_DESC",
+      "id": "e82a5325dba0aecf",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Stone_500",
+      "name_placeholder": "ITEM_RESOURCE_STONE_500",
+      "priority": 15900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_RESOURCE_STONE_DESC",
+      "id": "6ee2ef37b4418f92",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Stone_1000",
+      "name_placeholder": "ITEM_RESOURCE_STONE_1000",
+      "priority": 16000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_RESOURCE_STONE_DESC",
+      "id": "14fb31dd565962d4",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Stone_3000",
+      "name_placeholder": "ITEM_RESOURCE_STONE_3000",
+      "priority": 16100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_RESOURCE_STONE_DESC",
+      "id": "974ad71a24cd854",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Stone_10000",
+      "name_placeholder": "ITEM_RESOURCE_STONE_10000",
+      "priority": 16200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_RESOURCE_STONE_DESC",
+      "id": "c04bffd11771747b",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Stone_15000",
+      "name_placeholder": "ITEM_RESOURCE_STONE_15000",
+      "priority": 16300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_RESOURCE_STONE_DESC",
+      "id": "8399127905dae2d5",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Stone_100000",
+      "name_placeholder": "ITEM_RESOURCE_STONE_100000",
+      "priority": 16400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_RESOURCE_STONE_DESC",
+      "id": "3115b9f30d6b37de",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Stone_150000",
+      "name_placeholder": "ITEM_RESOURCE_STONE_150000",
+      "priority": 16500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_RESOURCE_STONE_DESC",
+      "id": "130ddd79a51261f5",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Stone_400000",
+      "name_placeholder": "ITEM_RESOURCE_STONE_400000",
+      "priority": 16600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_RESOURCE_STONE_DESC",
+      "id": "6ebf155a1ef98280",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Stone_1000000",
+      "name_placeholder": "ITEM_RESOURCE_STONE_1000000",
+      "priority": 16700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_RESOURCE_IRON_DESC",
+      "id": "2179ff26c81a2be5",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Iron_25",
+      "name_placeholder": "ITEM_RESOURCE_IRON_25",
+      "priority": 16900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_RESOURCE_IRON_DESC",
+      "id": "a5a71fcb6d092f2e",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Iron_50",
+      "name_placeholder": "ITEM_RESOURCE_IRON_50",
+      "priority": 17000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_RESOURCE_IRON_DESC",
+      "id": "712e518a4200bd0f",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Iron_100",
+      "name_placeholder": "ITEM_RESOURCE_IRON_100",
+      "priority": 17100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_RESOURCE_IRON_DESC",
+      "id": "a6c5adf64c716211",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Iron_200",
+      "name_placeholder": "ITEM_RESOURCE_IRON_200",
+      "priority": 17200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_RESOURCE_IRON_DESC",
+      "id": "47677d7c2477e315",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Iron_500",
+      "name_placeholder": "ITEM_RESOURCE_IRON_500",
+      "priority": 17300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_RESOURCE_IRON_DESC",
+      "id": "d1736261b3a47128",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Iron_800",
+      "name_placeholder": "ITEM_RESOURCE_IRON_800",
+      "priority": 17400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_RESOURCE_IRON_DESC",
+      "id": "fae6c67d8d8226c7",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Iron_1000",
+      "name_placeholder": "ITEM_RESOURCE_IRON_1000",
+      "priority": 17500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_RESOURCE_IRON_DESC",
+      "id": "33d994dd38bf8ae8",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Iron_4000",
+      "name_placeholder": "ITEM_RESOURCE_IRON_4000",
+      "priority": 17600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_RESOURCE_IRON_DESC",
+      "id": "cd7b2abdd3a26266",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Iron_40000",
+      "name_placeholder": "ITEM_RESOURCE_IRON_40000",
+      "priority": 17700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_RESOURCE_IRON_DESC",
+      "id": "935cc0aef7887fdc",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Iron_100000",
+      "name_placeholder": "ITEM_RESOURCE_IRON_100000",
+      "priority": 17800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_RESOURCE_IRON_DESC",
+      "id": "2c196604ddd7295c",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Iron_500000",
+      "name_placeholder": "ITEM_RESOURCE_IRON_500000",
+      "priority": 17900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_RESOURCE_STEEL_DESC",
+      "id": "ab9e128442592516",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Steel_10",
+      "name_placeholder": "ITEM_RESOURCE_STEEL_10",
+      "priority": 18100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_RESOURCE_STEEL_DESC",
+      "id": "bf13a39e2653e6da",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Steel_50",
+      "name_placeholder": "ITEM_RESOURCE_STEEL_50",
+      "priority": 18200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_RESOURCE_STEEL_DESC",
+      "id": "7b2bde2c68202083",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Steel_100",
+      "name_placeholder": "ITEM_RESOURCE_STEEL_100",
+      "priority": 18300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_RESOURCE_STEEL_DESC",
+      "id": "6d42d312a10726dc",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Steel_1000",
+      "name_placeholder": "ITEM_RESOURCE_STEEL_1000",
+      "priority": 18400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_RESOURCE_STEEL_DESC",
+      "id": "a7941a7d313bce45",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Steel_10000",
+      "name_placeholder": "ITEM_RESOURCE_STEEL_10000",
+      "priority": 18500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_RESOURCE_STEEL_DESC",
+      "id": "e714459c11de0ae4",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Steel_100000",
+      "name_placeholder": "ITEM_RESOURCE_STEEL_100000",
+      "priority": 18600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_RESOURCE_CHEST_FOOD_WOOD_DESC",
+      "id": "5a8eec9dccc1825b",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Chest_FoodWood_1",
+      "name_placeholder": "ITEM_RESOURCE_CHEST_FOOD_WOOD",
+      "priority": 18900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_RESOURCE_CHEST_FOOD_WOOD_STONE_DESC",
+      "id": "8df39f2a7e6bb34a",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Chest_FoodWoodStone_1",
+      "name_placeholder": "ITEM_RESOURCE_CHEST_FOOD_WOOD_STONE",
+      "priority": 19000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_RESOURCE_CHEST_FOOD_WOOD_STONE_IRON_DESC",
+      "id": "3360556ecc5cfaf",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Chest_FoodWoodStoneIron_1",
+      "name_placeholder": "ITEM_RESOURCE_CHEST_FOOD_WOOD_STONE_IRON",
+      "priority": 19100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "DO NOT USE",
+      "id": "761010582039e1df",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Shrine_1",
+      "name_placeholder": "DO NOT USE",
+      "priority": 19300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "Reduces remaining time by 1 minute",
+      "id": "e24ec4a1d2e7af60",
+      "image": "icon_speedup.png",
+      "name": "item_Speedup_General_1",
+      "name_placeholder": "!OLD! 1-Minute Speedup",
+      "priority": 19600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "Reduces remaining time by 5 minutes",
+      "id": "975c984a0b125d6e",
+      "image": "icon_speedup.png",
+      "name": "item_Speedup_General_2",
+      "name_placeholder": "!OLD! 5-Minute Speedup",
+      "priority": 19700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "Reduces remaining time by 1 hour",
+      "id": "bbad53ecbc410c94",
+      "image": "icon_speedup.png",
+      "name": "item_Speedup_General_3",
+      "name_placeholder": "!OLD! 1-Hour Speedup",
+      "priority": 19800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "Reduces remaining time by 8 hours",
+      "id": "7d78219db8f9b972",
+      "image": "icon_speedup.png",
+      "name": "item_Speedup_General_4",
+      "name_placeholder": "!OLD! 8-Hour Speedup",
+      "priority": 19900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "Reduces time remaining",
+      "id": "3f28f750a187b232",
+      "image": "icon_build.png",
+      "name": "item_Speedup_Building_1",
+      "name_placeholder": "!OLD! 5-Minute Building Speedup",
+      "priority": 20100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "Reduces time remaining",
+      "id": "4a3aabbb7872403c",
+      "image": "icon_build.png",
+      "name": "item_Speedup_Building_2",
+      "name_placeholder": "!OLD! 2-Hour Building Speedup",
+      "priority": 20200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "Reduces time remaining",
+      "id": "85370563a7aa1019",
+      "image": "icon_forge.png",
+      "name": "item_Speedup_Forge_1",
+      "name_placeholder": "!OLD! 5-Minute Forge Speedup",
+      "priority": 20300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "Reduces time remaining",
+      "id": "f02559887e5fe217",
+      "image": "icon_forge.png",
+      "name": "item_Speedup_Forge_2",
+      "name_placeholder": "!OLD! 2-Hour Forge Speedup",
+      "priority": 20400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "Reduces time remaining",
+      "id": "7813ca96a3b4e3a1",
+      "image": "icon_speedup.png",
+      "name": "item_Research_Technology_1",
+      "name_placeholder": "!OLD! 5-Minute Technology Research",
+      "priority": 20500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "Reduces time remaining",
+      "id": "d01967d7a4111af",
+      "image": "icon_speedup.png",
+      "name": "item_Research_Technology_2",
+      "name_placeholder": "!OLD! 2-Hour Technology Research",
+      "priority": 20600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "Reduces time remaining",
+      "id": "cbcec6088e58892",
+      "image": "icon_traps.png",
+      "name": "item_Speedup_Trap_1",
+      "name_placeholder": "!OLD! 5-Minute Trap Building Speedup",
+      "priority": 20700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "Reduces time remaining",
+      "id": "79aeb08b51107a9c",
+      "image": "icon_traps.png",
+      "name": "item_Speedup_Trap_2",
+      "name_placeholder": "!OLD! 2-Hour Trap Building Speedup",
+      "priority": 20800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "Reduces time remaining",
+      "id": "bd40b4c239465c06",
+      "image": "icon_troop.png",
+      "name": "item_Speedup_Troop_1",
+      "name_placeholder": "!OLD! 5-Minute Troop Training Speedup",
+      "priority": 20900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "Reduces time remaining",
+      "id": "c852e829e0b3ae08",
+      "image": "icon_troop.png",
+      "name": "item_Speedup_Troop_2",
+      "name_placeholder": "!OLD! 2-Hour Troop Training Speedup",
+      "priority": 21000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "Reduces time remaining",
+      "id": "3040756856139815",
+      "image": "icon_healing.png",
+      "name": "item_Recovery_Wounded_1",
+      "name_placeholder": "!OLD! 5-Minute Wounded Recovery",
+      "priority": 21100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "Reduces time remaining",
+      "id": "455229838fe66a1b",
+      "image": "icon_healing.png",
+      "name": "item_Recovery_Wounded_2",
+      "name_placeholder": "!OLD! 2-Hour Wounded Recovery",
+      "priority": 21200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "Use this to get resources",
+      "id": "44454aa95daab949",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_ResourceChest_1",
+      "name_placeholder": "DO NOT USE Resource Chest (tier 1)",
+      "priority": 21400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "Use this to get resources",
+      "id": "31571642845f4b47",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_ResourceChest_2",
+      "name_placeholder": "DO NOT USE Resource Chest (tier 2)",
+      "priority": 21500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "Use this to get resources",
+      "id": "1da6dde4330c1abd",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_ResourceChest_3",
+      "name_placeholder": "DO NOT USE Resource Chest (tier 3)",
+      "priority": 21600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "Use this to get resources",
+      "id": "db73af9537b4af5b",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_ResourceChest_4",
+      "name_placeholder": "DO NOT USE Resource Chest (tier 4)",
+      "priority": 21700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "Use this to get resources",
+      "id": "f782643380e7fea1",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_ResourceChest_5",
+      "name_placeholder": "DO NOT USE Resource Chest (tier 5)",
+      "priority": 21800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "Use this to get resources",
+      "id": "829038d859120caf",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_ResourceChest_6",
+      "name_placeholder": "DO NOT USE Resource Chest (tier 6)",
+      "priority": 21900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "Use this to get Food",
+      "id": "345c1aa10f85f3a9",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Food_100",
+      "name_placeholder": "DO NOT USE (100 Food)",
+      "priority": 22100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "Use this to get Food",
+      "id": "ea90f4bf54c1afbb",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Food_50000",
+      "name_placeholder": "DO NOT USE (50,000 Food)",
+      "priority": 22200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "Use this to get Food",
+      "id": "5c58ff4513add744",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Food_150000",
+      "name_placeholder": "DO NOT USE (150,000 Food)",
+      "priority": 22300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "Use this to get Food",
+      "id": "5191f265314354cf",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Food_500000",
+      "name_placeholder": "DO NOT USE (500,000 Food)",
+      "priority": 22400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "Use this to get Food",
+      "id": "cb1e42df9eafcd07",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Food_1500000",
+      "name_placeholder": "DO NOT USE (1,500,000 Food)",
+      "priority": 22500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "Use this to get Food",
+      "id": "9a68e943309ab6e4",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Food_5000000",
+      "name_placeholder": "DO NOT USE (5,000,000 Food)",
+      "priority": 22600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "Use this to get Wood",
+      "id": "64f7e96dd422b456",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Wood_100",
+      "name_placeholder": "DO NOT USE (100 Wood)",
+      "priority": 22700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "Use this to get Wood",
+      "id": "9507fa9db0c6eaa2",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Wood_50000",
+      "name_placeholder": "DO NOT USE (50,000 Wood)",
+      "priority": 22800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "Use this to get Wood",
+      "id": "dd30c059daeb8fdd",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Wood_150000",
+      "name_placeholder": "DO NOT USE (150,000 Wood)",
+      "priority": 22900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "Use this to get Wood",
+      "id": "d0f9cd79f8050c56",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Wood_500000",
+      "name_placeholder": "DO NOT USE (500,000 Wood)",
+      "priority": 23000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "Use this to get Wood",
+      "id": "8bd5a3c8cd137316",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Wood_1500000",
+      "name_placeholder": "DO NOT USE (1,500,000 Wood)",
+      "priority": 23100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "Use this to get Wood",
+      "id": "daa30854632608f5",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Wood_5000000",
+      "name_placeholder": "DO NOT USE (5,000,000 Wood)",
+      "priority": 23200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "Use this to get Stone",
+      "id": "9ad152e27070551e",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Stone_5000",
+      "name_placeholder": "DO NOT USE (5,000 Stone)",
+      "priority": 23300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "Use this to get Stone",
+      "id": "ae3066a8ef1e3882",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Stone_25000",
+      "name_placeholder": "DO NOT USE (25,000 Stone)",
+      "priority": 23400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "Use this to get Stone",
+      "id": "4166030c92d3493e",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Stone_250000",
+      "name_placeholder": "DO NOT USE (250,000 Stone)",
+      "priority": 23500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "Use this to get Stone",
+      "id": "3cdcb4d32f85b455",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Stone_500000",
+      "name_placeholder": "DO NOT USE (500,000 Stone)",
+      "priority": 23600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "Use this to get Iron",
+      "id": "b12aaed10903ece2",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Iron_10",
+      "name_placeholder": "DO NOT USE (10 Iron)",
+      "priority": 23700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "Use this to get Iron",
+      "id": "bdf3f7e21e96bd22",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Iron_2000",
+      "name_placeholder": "DO NOT USE (2,000 Iron)",
+      "priority": 23800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "Use this to get Iron",
+      "id": "ed57ba849b3fc4b",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Iron_5000",
+      "name_placeholder": "DO NOT USE (5,000 Iron)",
+      "priority": 23900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "Use this to get Iron",
+      "id": "118c184e237cfb94",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Iron_20000",
+      "name_placeholder": "DO NOT USE (20,000 Iron)",
+      "priority": 24000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "Use this to get Iron",
+      "id": "e8ada26a8478a631",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Iron_50000",
+      "name_placeholder": "DO NOT USE (50,000 Iron)",
+      "priority": 24100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "Use this to get Iron",
+      "id": "e32f7a516830013c",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Iron_200000",
+      "name_placeholder": "DO NOT USE (200,000 Iron)",
+      "priority": 24200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "Use this to get Steel",
+      "id": "4d62f2da0e577e99",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Steel_500",
+      "name_placeholder": "DO NOT USE (500 Steel)",
+      "priority": 24300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "Use this to get Steel",
+      "id": "2a57e28d3213bd39",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_Resource_Steel_2000",
+      "name_placeholder": "DO NOT USE (2,000 Steel)",
+      "priority": 24400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_VIP_TIME_1_DESC",
+      "id": "19c37da28463277e",
+      "image": "icon_itm_vippoint.png",
+      "name": "item_VIP_Time_1",
+      "name_placeholder": "ITEM_VIP_TIME_1",
+      "priority": 24700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_VIP_TIME_2_DESC",
+      "id": "6cd121495d96d570",
+      "image": "icon_itm_vippoint.png",
+      "name": "item_VIP_Time_2",
+      "name_placeholder": "ITEM_VIP_TIME_2",
+      "priority": 24800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_VIP_TIME_3_DESC",
+      "id": "4020eaefeac5848a",
+      "image": "icon_itm_vippoint.png",
+      "name": "item_VIP_Time_3",
+      "name_placeholder": "ITEM_VIP_TIME_3",
+      "priority": 24900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_VIP_TIME_4_DESC",
+      "id": "86f5989eee7d316c",
+      "image": "icon_itm_vippoint.png",
+      "name": "item_VIP_Time_4",
+      "name_placeholder": "ITEM_VIP_TIME_4",
+      "priority": 25000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_VIP_TIME_5_DESC",
+      "id": "aa045338592e6096",
+      "image": "icon_itm_vippoint.png",
+      "name": "item_VIP_Time_5",
+      "name_placeholder": "ITEM_VIP_TIME_5",
+      "priority": 25100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_VIP_POINT_1_DESC",
+      "id": "cbca7561904e8304",
+      "image": "icon_itm_viptime.png",
+      "name": "item_VIP_Point_1",
+      "name_placeholder": "ITEM_VIP_POINT_1",
+      "priority": 25200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_VIP_POINT_2_DESC",
+      "id": "bed8298a49bb710a",
+      "image": "icon_itm_viptime.png",
+      "name": "item_VIP_Point_2",
+      "name_placeholder": "ITEM_VIP_POINT_2",
+      "priority": 25300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_VIP_POINT_3_DESC",
+      "id": "9229e22cfee820f0",
+      "image": "icon_itm_viptime.png",
+      "name": "item_VIP_Point_3",
+      "name_placeholder": "ITEM_VIP_POINT_3",
+      "priority": 25400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_VIP_POINT_4_DESC",
+      "id": "54fc905dfa509516",
+      "image": "icon_itm_viptime.png",
+      "name": "item_VIP_Point_4",
+      "name_placeholder": "ITEM_VIP_POINT_4",
+      "priority": 25500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_VIP_POINT_5_DESC",
+      "id": "780d5bfb4d03c4ec",
+      "image": "icon_itm_viptime.png",
+      "name": "item_VIP_Point_5",
+      "name_placeholder": "ITEM_VIP_POINT_5",
+      "priority": 25600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_VIP_POINT_6_DESC",
+      "id": "d1f071094f636e2",
+      "image": "icon_itm_viptime.png",
+      "name": "item_VIP_Point_6",
+      "name_placeholder": "ITEM_VIP_POINT_6",
+      "priority": 25700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PEACESHIELD_6_DESC_TEST",
+      "id": "d3ef8749e232275f",
+      "image": "icon_peaceshield.png",
+      "name": "item_peaceshield_6",
+      "name_placeholder": "ITEM_PEACESHIELD_6_TEST",
+      "priority": 26000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PEACESHIELD_7_DESC",
+      "id": "ff1e4cef556176a5",
+      "image": "icon_peaceshield.png",
+      "name": "item_peaceshield_7",
+      "name_placeholder": "ITEM_PEACESHIELD_7",
+      "priority": 26100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PEACESHIELD_8_DESC",
+      "id": "dcff21dea2ec03b8",
+      "image": "icon_peaceshield.png",
+      "name": "item_peaceshield_8",
+      "name_placeholder": "ITEM_PEACESHIELD_8",
+      "priority": 26200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PEACESHIELD_1_DESC",
+      "id": "153af538e68a92b9",
+      "image": "icon_peaceshield.png",
+      "name": "item_peaceshield_1",
+      "name_placeholder": "ITEM_PEACESHIELD_1",
+      "priority": 26300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PEACESHIELD_2_DESC",
+      "id": "6028a9d33f7f60b7",
+      "image": "icon_peaceshield.png",
+      "name": "item_peaceshield_2",
+      "name_placeholder": "ITEM_PEACESHIELD_2",
+      "priority": 26400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PEACESHIELD_3_DESC",
+      "id": "4cd96275882c314d",
+      "image": "icon_peaceshield.png",
+      "name": "item_peaceshield_3",
+      "name_placeholder": "ITEM_PEACESHIELD_3",
+      "priority": 26500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PEACESHIELD_9_DESC",
+      "id": "f00eea7815bf5242",
+      "image": "icon_peaceshield.png",
+      "name": "item_peaceshield_9",
+      "name_placeholder": "ITEM_PEACESHIELD_9",
+      "priority": 26600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PEACESHIELD_4_DESC",
+      "id": "8a0c10048c9484ab",
+      "image": "icon_peaceshield.png",
+      "name": "item_peaceshield_4",
+      "name_placeholder": "ITEM_PEACESHIELD_4",
+      "priority": 26700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PEACESHIELD_5_DESC",
+      "id": "a6fddba23bc7d551",
+      "image": "icon_peaceshield.png",
+      "name": "item_peaceshield_5",
+      "name_placeholder": "ITEM_PEACESHIELD_5",
+      "priority": 26800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "Crafting material",
+      "id": "68b586323de3184c",
+      "image": "",
+      "name": "mat_test",
+      "name_placeholder": "DO NOT USE Mat Test",
+      "priority": 27300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "mat_internaltesting_1",
+      "id": "dfd2c2052916d62c",
+      "image": "icon_itm_event_materials.png",
+      "name": "mat_internaltesting_1",
+      "name_placeholder": "mat_internaltesting_1",
+      "priority": 27400,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_TRINKET_DESC",
+      "id": "666e84b54fae65d1",
+      "image": "icon_eq_events_material_Wildling_trinket01_1.png",
+      "name": "mat_trinket_arrowhead_alpha_1",
+      "name_placeholder": "ITEM_MAT_TRINKET_ARROWHEAD_ALPHA_1_NAME",
+      "priority": 27600,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_TRINKET_DESC",
+      "id": "be0defd063399dfe",
+      "image": "icon_eq_events_material_Wildling_trinket02_1.png",
+      "name": "mat_trinket_boneneedle_alpha_1",
+      "name_placeholder": "ITEM_MAT_TRINKET_BONENEEDLE_ALPHA_1_NAME",
+      "priority": 27700,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_TRINKET_DESC",
+      "id": "fada60fc9b5df435",
+      "image": "icon_eq_events_material_FaithMilitant_trinket02_1.png",
+      "name": "mat_trinket_sevenpointedstar_alpha_1",
+      "name_placeholder": "ITEM_MAT_TRINKET_SEVENPOINTEDSTAR_ALPHA_1_NAME",
+      "priority": 27800,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_TRINKET_DESC",
+      "id": "afbd90702d4b093a",
+      "image": "icon_eq_events_material_Essos_trinket01_1.png",
+      "name": "mat_trinket_silkstole_alpha_1",
+      "name_placeholder": "ITEM_MAT_TRINKET_SILKSTOLE_ALPHA_1_NAME",
+      "priority": 27900,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_TRINKET_DESC",
+      "id": "b137bdbfed7a12a0",
+      "image": "icon_eq_events_material_Essos_trinket02_1.png",
+      "name": "mat_trinket_essosbrooch_alpha_1",
+      "name_placeholder": "ITEM_MAT_TRINKET_ESSOSBROOCH_ALPHA_1_NAME",
+      "priority": 28000,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_TRINKET_DESC",
+      "id": "c0f967325e6d9a3b",
+      "image": "icon_eq_events_material_FaithMilitant_trinket01_1.png",
+      "name": "mat_trinket_handbell_alpha_1",
+      "name_placeholder": "ITEM_MAT_TRINKET_HANDBELL_ALPHA_1_NAME",
+      "priority": 28100,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_TRINKET_DESC",
+      "id": "8d53bc305396168b",
+      "image": "icon_eq_events_material_Ironborn_trinket01_1.png",
+      "name": "mat_trinket_sharktooth_alpha_1",
+      "name_placeholder": "ITEM_MAT_TRINKET_SHARKTOOTH_ALPHA_1_NAME",
+      "priority": 28200,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_TRINKET_DESC",
+      "id": "688e05f173445b1e",
+      "image": "icon_eq_events_material_Ironborn_trinket02_1.png",
+      "name": "mat_trinket_knotbracelet_alpha_1",
+      "name_placeholder": "ITEM_MAT_TRINKET_KNOTBRACELET_ALPHA_1_NAME",
+      "priority": 28300,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_TRINKET_DESC",
+      "id": "124cd55e167e98f",
+      "image": "icon_eq_events_material_Mormont_trinket01_1.png",
+      "name": "mat_trinket_mormontclaw_alpha_1",
+      "name_placeholder": "ITEM_MAT_TRINKET_MORMONTCLAW_ALPHA_1_NAME",
+      "priority": 28400,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_TRINKET_DESC",
+      "id": "883bab5bdf9957e4",
+      "image": "icon_eq_events_material_Mormont_trinket02_1.png",
+      "name": "mat_trinket_mormontcoin_alpha_1",
+      "name_placeholder": "ITEM_MAT_TRINKET_MORMONTCOIN_ALPHA_1_NAME",
+      "priority": 28500,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_TRINKET_DESC",
+      "id": "eb5bbce405d7d163",
+      "image": "icon_eq_events_Bolton_trinket_02_1.png",
+      "name": "mat_trinket_knife_alpha_1",
+      "name_placeholder": "ITEM_MAT_TRINKET_KNIFE_ALPHA_1_NAME",
+      "priority": 26700,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_TRINKET_DESC",
+      "id": "86c85236c0578d03",
+      "image": "icon_eq_standard_material_trinket_goblet01.png",
+      "name": "mat_trinket_expedition_1_alpha_1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EXPEDITION_1_ALPHA_1_NAME",
+      "priority": 28700,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_TRINKET_DESC",
+      "id": "3d12385435d23bc8",
+      "image": "icon_eq_events_material_Braavos_trinket_2.png",
+      "name": "mat_trinket_pouch_alpha_1",
+      "name_placeholder": "ITEM_MAT_TRINKET_POUCH_ALPHA_1_NAME",
+      "priority": 26700,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_TRINKET_DESC",
+      "id": "fc32dd04e7633177",
+      "image": "icon_eq_events_material_GreatHunt_trinket_2.png",
+      "name": "mat_trinket_horn_alpha_1",
+      "name_placeholder": "ITEM_MAT_TRINKET_HORN_ALPHA_1_NAME",
+      "priority": 26700,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_TRINKET_DESC",
+      "id": "408e5847f2517b60",
+      "image": "icon_crafting_event_dragon_trinket.png",
+      "name": "mat_trinket_dragon1_alpha_1",
+      "name_placeholder": "ITEM_MAT_TRINKET_DRAGON1_ALPHA_1_NAME",
+      "priority": 26700,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_TRINKET_DESC",
+      "id": "2f52432d0199fa67",
+      "image": "icon_eq_events_material_Dorne_trinket_01_1.png",
+      "name": "mat_trinket_saddle_alpha_1",
+      "name_placeholder": "ITEM_MAT_TRINKET_SADDLE_ALPHA_1_NAME",
+      "priority": 26700,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_TRINKET_DESC",
+      "id": "5005f6ad55c1261d",
+      "image": "icon_eq_events_material_Siege_trinket_01_1.png",
+      "name": "mat_trinket_winch_alpha_1",
+      "name_placeholder": "ITEM_MAT_TRINKET_WINCH_ALPHA_1_NAME",
+      "priority": 26700,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_TRINKET_DESC",
+      "id": "b50cd6674465b365",
+      "image": "icon_eq_events_material_Harrenhal_trinket_02_1.png",
+      "name": "mat_trinket_necklace_alpha_1",
+      "name_placeholder": "ITEM_MAT_TRINKET_CHARM_ALPHA_1_NAME",
+      "priority": 26700,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_TRINKET_DESC",
+      "id": "fead5d672c596c25",
+      "image": "icon_eq_events_material_Harrenhal_trinket_01_1.png",
+      "name": "mat_trinket_winebottle_alpha_1",
+      "name_placeholder": "ITEM_MAT_TRINKET_WINE_ALPHA_1_NAME",
+      "priority": 26700,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_TRINKET_DESC",
+      "id": "268049703e3d21d1",
+      "image": "icon_eq_events_material_DragonGlass_trinket_01_1.png",
+      "name": "mat_trinket_dtw_alpha_1",
+      "name_placeholder": "ITEM_MAT_TRINKET_DTW_ALPHA_1_NAME",
+      "priority": 26700,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_TRINKET_DESC",
+      "id": "cd830f31fd12a896",
+      "image": "icon_eq_events_material_NightsWatch_trinket02_1.png",
+      "name": "mat_trinket_quiver_1",
+      "name_placeholder": "ITEM_MAT_TRINKET_QUIVER_1_NAME",
+      "priority": 26700,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_TRINKET_DESC",
+      "id": "4df4f5468313bbbd",
+      "image": "icon_eq_events_material_aftermath_trinket02_1.png",
+      "name": "mat_trinket_lantern_1",
+      "name_placeholder": "ITEM_MAT_TRINKET_LANTERN_1_NAME",
+      "priority": 26700,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_TRINKET_DESC",
+      "id": "a4249febad72c358",
+      "image": "icon_eq_events_material_FalconKnight_trinket_1.png",
+      "name": "mat_trinket_events_falconshield_1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_FALCONSHIELD_1_NAME",
+      "priority": 26700,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_TRINKET_DESC",
+      "id": "f3520a8071f88abf",
+      "image": "icon_eq_events_material_Caliper_trinket_1.png",
+      "name": "mat_trinket_events_caliper_1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_CALIPER_1_NAME",
+      "priority": 26700,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_TRINKET_DESC",
+      "id": "34e3e5bc710aabe2",
+      "image": "icon_eq_events_material_BookOfBrothers_trinket_1.png",
+      "name": "mat_trinket_events_BookOfBrothers_1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_BOOKOFBROTHERS_1_NAME",
+      "priority": 26700,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_TRINKET_DESC",
+      "id": "28ce033f5be31424",
+      "image": "icon_eq_events_material_DragonPendant_trinket_1.png",
+      "name": "mat_trinket_events_DragonPendant_1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_DRAGONPENDANT_1_NAME",
+      "priority": 26700,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_TRINKET_DESC",
+      "id": "be0229c8d161a8dd",
+      "image": "icon_eq_events_material_DragonFeeder_trinket_1.png",
+      "name": "mat_trinket_events_DragonFeeder_1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_DRAGONFEEDER_1_NAME",
+      "priority": 26700,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_TRINKET_DESC",
+      "id": "fe07ace5c61c9ce3",
+      "image": "icon_eq_events_material_RidingCrop_trinket_1.png",
+      "name": "mat_trinket_events_RidingCrop_1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_RIDINGCROP_1_NAME",
+      "priority": 26700,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_TRINKET_DESC",
+      "id": "2a73af9078bbea2e",
+      "image": "icon_eq_events_material_rosenecklace_trinket_1.png",
+      "name": "mat_trinket_events_RoseNecklace_1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_ROSENECKLACE_1_NAME",
+      "priority": 26700,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_TRINKET_DESC",
+      "id": "51cec21d27b2f40d",
+      "image": "icon_eq_events_material_vial_of_water_trinket_1.png",
+      "name": "mat_trinket_events_vial_of_water_1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_VIAL_OF_WATER_1_NAME",
+      "priority": 26700,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_TRINKET_DESC",
+      "id": "ffcfd5842f401fc",
+      "image": "icon_eq_events_material_dance_of_dragons_trinket_1.png",
+      "name": "mat_trinket_events_dance_of_dragons_1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_DANCE_OF_DRAGONS_1_NAME",
+      "priority": 26700,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_TRINKET_DESC",
+      "id": "6adde65d0efb2910",
+      "image": "icon_eq_events_material_eyepatch_trinket_1.png",
+      "name": "mat_trinket_events_eyepatch_1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_EYEPATCH_1_NAME",
+      "priority": 26700,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_TRINKET_DESC",
+      "id": "5f3024215c674a0c",
+      "image": "icon_eq_events_material_books_trinket_1.png",
+      "name": "mat_trinket_events_books_1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_BOOKS_1_NAME",
+      "priority": 26700,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_TRINKET_DESC",
+      "id": "d83b18f2dde12eaf",
+      "image": "icon_eq_events_material_bloodycrown_trinket_1.png",
+      "name": "mat_trinket_events_bloodycrown_1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_BLOODYCROWN_1_NAME",
+      "priority": 26700,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_TRINKET_DESC",
+      "id": "164214781117ca64",
+      "image": "icon_eq_events_material_snakeWhip_trinket_1.png",
+      "name": "mat_trinket_events_snakeWhip_1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_SNAKEWHIP_1_NAME",
+      "priority": 26700,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_TRINKET_DESC",
+      "id": "e4f33e9c433f765e",
+      "image": "icon_eq_events_material_storybook_trinket_1.png",
+      "name": "mat_trinket_events_storybook_1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_STORYBOOK_1_NAME",
+      "priority": 26700,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_TRINKET_DESC",
+      "id": "22fbd71635e12b7",
+      "image": "icon_eq_events_material_drinkinghorn_trinket_1.png",
+      "name": "mat_trinket_events_drinkinghorn_1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_DRINKINGHORN_1_NAME",
+      "priority": 26700,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_TRINKET_DESC",
+      "id": "5c46a69eb5c20b6",
+      "image": "icon_eq_events_material_blueprints_trinket_1.png",
+      "name": "mat_trinket_events_blueprints_1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_BLUEPRINTS_1_NAME",
+      "priority": 26700,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_TRINKET_DESC",
+      "id": "964e681a1838fddd",
+      "image": "icon_eq_events_material_toysoldier_trinket_1.png",
+      "name": "mat_trinket_events_toysoldier_1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_TOYSOLDIER_1_NAME",
+      "priority": 26700,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_TRINKET_DESC",
+      "id": "7be82ace8f6bf492",
+      "image": "icon_eq_events_material_joustingshield_trinket_1.png",
+      "name": "mat_trinket_events_queenlb_1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_QUEENLB_1_NAME",
+      "priority": 26700,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_TRINKET_DESC",
+      "id": "fb7a944a0ea80e9a",
+      "image": "icon_eq_events_material_rhllor_trinket_1.png",
+      "name": "mat_trinket_events_rhllor_1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_RHLLOR_1_NAME",
+      "priority": 26700,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_TRINKET_DESC",
+      "id": "1c1fd03340ec32d5",
+      "image": "icon_eq_events_material_ironann_trinket_1.png",
+      "name": "mat_trinket_events_ironann_1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_IRONANN_1_NAME",
+      "priority": 26700,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_TRINKET_DESC",
+      "id": "a085a37800299e6b",
+      "image": "icon_eq_events_material_cersei_trinket_1.png",
+      "name": "mat_trinket_events_cersei_1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_CERSEI_1_NAME",
+      "priority": 26700,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_TRINKET_DESC",
+      "id": "540310cf660e4c49",
+      "image": "icon_eq_events_material_kingsmoot_trinket_1.png",
+      "name": "mat_trinket_events_kingsmoot_1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_KINGSMOOT_1_NAME",
+      "priority": 26700,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_TRINKET_DESC",
+      "id": "1ec30b96caa4065c",
+      "image": "icon_eq_events_material_freedom_trinket_1.png",
+      "name": "mat_trinket_events_freedom_1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_FREEDOM_1_NAME",
+      "priority": 26700,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_TRINKET_DESC",
+      "id": "aa199f92a3497a54",
+      "image": "icon_eq_events_material_dawn_trinket_1.png",
+      "name": "mat_trinket_events_dawn_1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_DAWN_1_NAME",
+      "priority": 26700,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_TRINKET_DESC",
+      "id": "bca5abf735f2c5d1",
+      "image": "icon_eq_events_material_stark_trinket_1.png",
+      "name": "mat_trinket_events_stark_1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_STARK_1_NAME",
+      "priority": 26700,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_TRINKET_DESC",
+      "id": "6a5856925be9f383",
+      "image": "icon_eq_events_material_oldnan3_trinket_1.png",
+      "name": "mat_trinket_events_oldnan3_1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_OLDNAN3_1_NAME",
+      "priority": 26700,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_TRINKET_DESC",
+      "id": "3e2062bbe0c9adf1",
+      "image": "icon_eq_events_material_harvest_trinket_1.png",
+      "name": "mat_trinket_events_harvest_1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_HARVEST_1_NAME",
+      "priority": 26700,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_TRINKET_DESC",
+      "id": "f86bd8427cc9013d",
+      "image": "icon_eq_events_material_yara_trinket_1.png",
+      "name": "mat_trinket_events_yara_1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_YARA_1_NAME",
+      "priority": 26700,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_TRINKET_DESC",
+      "id": "95ce3e2d5524084b",
+      "image": "icon_eq_events_material_harrenhal2_trinket_1.png",
+      "name": "mat_trinket_events_harrenhal2_1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_HARRENHAL2_1_NAME",
+      "priority": 26700,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_TRINKET_DESC",
+      "id": "6f57a2b3ee8028a1",
+      "image": "icon_eq_events_material_oldtown_trinket_1.png",
+      "name": "mat_trinket_events_oldtown_1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_OLDTOWN_1_NAME",
+      "priority": 26700,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_TRINKET_DESC",
+      "id": "fd06e804a49566d5",
+      "image": "icon_eq_events_material_artofcombat_trinket_1.png",
+      "name": "mat_trinket_events_artofcombat_1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_ARTOFCOMBAT_1_NAME",
+      "priority": 26700,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_EVENT_DESC",
+      "id": "cc7312869bfc9506",
+      "image": "icon_crafting_raven_feather.png",
+      "name": "mat_event_winteriscoming_1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_WINTERISCOMING_1_NAME",
+      "priority": 33000,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_EVENT_DESC",
+      "id": "4efe277967454476",
+      "image": "icon_crafting_event_winterishere_1.png",
+      "name": "mat_event_winterishere_1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_WINTERISHERE_1_NAME",
+      "priority": 33100,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_EVENT_DESC",
+      "id": "f1d50ede42e2b148",
+      "image": "icon_crafting_event_horsehide.png",
+      "name": "mat_event_essosinvades_1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_ESSOSINVADES_1_NAME",
+      "priority": 33200,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_EVENT_DESC",
+      "id": "ed3ca91e42cf4f73",
+      "image": "icon_crafting_event_beetle.png",
+      "name": "mat_event_knightsmind_1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_KNIGHTSMIND_1_NAME",
+      "priority": 33300,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_EVENT_DESC",
+      "id": "59ed1bc6c49dfc4b",
+      "image": "icon_crafting_event_abalone.png",
+      "name": "mat_event_essospirate_1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_ESSOSPIRATE_1_NAME",
+      "priority": 33400,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_EVENT_DESC",
+      "id": "53309ef00ff519e8",
+      "image": "icon_crafting_event_driftwood.png",
+      "name": "mat_event_ironisland_1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_IRONISLAND_1_NAME",
+      "priority": 33500,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_EVENT_DESC",
+      "id": "54cbe99f9e9c678c",
+      "image": "icon_crafting_event_hair.png",
+      "name": "mat_event_faithmilitant_1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_FAITHMILITANT_1_NAME",
+      "priority": 33600,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_EVENT_DESC",
+      "id": "3d77a15bcc9ef4a0",
+      "image": "icon_crafting_event_bones.png",
+      "name": "mat_event_wildling_1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_WILDLING_1_NAME",
+      "priority": 33700,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_EVENT_DESC",
+      "id": "2ae45286feb5972d",
+      "image": "icon_crafting_event_pinecone.png",
+      "name": "mat_event_wrathofwinter_1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_WRATHOFWINTER_1_NAME",
+      "priority": 33800,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_EVENT_DESC",
+      "id": "e550efb4185241db",
+      "image": "icon_crafting_event_pennies.png",
+      "name": "mat_event_blackfyre_1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_BLACKFYRE_1_NAME",
+      "priority": 33900,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_EVENT_DESC",
+      "id": "62b9bb8987b86eaf",
+      "image": "icon_crafting_event_horseshoe.png",
+      "name": "mat_event_bolton_1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_BOLTON_1_NAME",
+      "priority": 34000,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_EVENT_DESC",
+      "id": "ce511ebce8546b35",
+      "image": "icon_crafting_event_cockle_shell.png",
+      "name": "mat_event_braavos_1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_BRAAVOS_1_NAME",
+      "priority": 34100,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_EVENT_DESC",
+      "id": "d436b24935311d0b",
+      "image": "icon_crafting_event_elk_hoof.png",
+      "name": "mat_event_greathunt_1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_GREATHUNT_1_NAME",
+      "priority": 34200,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_EVENT_DESC",
+      "id": "bc2611f675d7830f",
+      "image": "icon_crafting_event_dragon_spine.png",
+      "name": "mat_event_undying_1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_UNDYING_1_NAME",
+      "priority": 34300,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_EVENT_DESC",
+      "id": "612666158bf07ab9",
+      "image": "icon_crafting_event_horsehair.png",
+      "name": "mat_event_conquest_1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_CONQUEST_1_NAME",
+      "priority": 34400,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_EVENT_DESC",
+      "id": "d8bae8a3a2d742bc",
+      "image": "icon_crafting_event_tar.png",
+      "name": "mat_event_masterofwar_1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_MASTEROFWAR_1_NAME",
+      "priority": 34500,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_EVENT_DESC",
+      "id": "9ca6b679d8b61f34",
+      "image": "icon_crafting_event_yellow_thread.png",
+      "name": "mat_event_harrenhal_1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_HARRENHAL_1_NAME",
+      "priority": 34600,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_EVENT_DESC",
+      "id": "5b8ca50e9e41f4b3",
+      "image": "icon_crafting_event_blackleather.png",
+      "name": "mat_event_nightwatch_1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_NIGHTWATCH_1_NAME",
+      "priority": 34700,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_EVENT_DESC",
+      "id": "8aa711f799b08da6",
+      "image": "icon_crafting_event_ringmail.png",
+      "name": "mat_event_Aftermath_1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_AFTERMATH_1_NAME",
+      "priority": 34800,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_EVENT_DESC",
+      "id": "648480286b69db41",
+      "image": "icon_crafting_events_FalconKnight.png",
+      "name": "mat_event_FalconKnight_1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_FALCONKNIGHT_1_NAME",
+      "priority": 34900,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_EVENT_DESC",
+      "id": "fa5d5b2cce29b4aa",
+      "image": "icon_crafting_events_foundations.png",
+      "name": "mat_event_Foundations_1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_FOUNDATIONS_1_NAME",
+      "priority": 35000,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_EVENT_DESC",
+      "id": "85645aece93b53a4",
+      "image": "icon_crafting_events_Kingsguard.png",
+      "name": "mat_event_Kingsguard_1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_KINGSGUARD_1_NAME",
+      "priority": 35100,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_EVENT_DESC",
+      "id": "697014f9e7ba30c",
+      "image": "icon_crafting_events_Conqueror.png",
+      "name": "mat_event_Conqueror_1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_CONQUEROR_1_NAME",
+      "priority": 35200,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_EVENT_DESC",
+      "id": "8f729998c11b8234",
+      "image": "icon_crafting_event_tyrell.png",
+      "name": "mat_event_Tyrell_1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_TYRELL_1_NAME",
+      "priority": 35300,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_EVENT_DESC",
+      "id": "9f83ca3aa119b0bc",
+      "image": "icon_crafting_event_baelish.png",
+      "name": "mat_event_Baelish_1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_BAELISH_1_NAME",
+      "priority": 35400,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_EVENT_DESC",
+      "id": "5a05cd0f5809c86c",
+      "image": "icon_crafting_event_PurpleWedding.png",
+      "name": "mat_event_PurpleWedding_1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_PURPLEWEDDING_1_NAME",
+      "priority": 35500,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_EVENT_DESC",
+      "id": "1daa79a0beeb1faa",
+      "image": "icon_crafting_event_faceless.png",
+      "name": "mat_event_faceless_1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_FACELESS_1_NAME",
+      "priority": 35600,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_EVENT_DESC",
+      "id": "707ceb287c76272b",
+      "image": "icon_crafting_event_dragonkeeper.png",
+      "name": "mat_event_dragonkeeper_1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_DRAGONKEEPER_1_NAME",
+      "priority": 35700,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_EVENT_DESC",
+      "id": "9aacbd85bab2235e",
+      "image": "icon_crafting_event_brothers.png",
+      "name": "mat_event_brothers_1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_BROTHERS_1_NAME",
+      "priority": 35800,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_EVENT_DESC",
+      "id": "e81719eec926ca13",
+      "image": "icon_crafting_event_tyrion.png",
+      "name": "mat_event_tyrion_1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_TYRION_1_NAME",
+      "priority": 35900,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_EVENT_DESC",
+      "id": "417da937a771749a",
+      "image": "icon_crafting_event_baratheon.png",
+      "name": "mat_event_baratheon_1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_BARATHEON_1_NAME",
+      "priority": 36000,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_EVENT_DESC",
+      "id": "5c747268c868f639",
+      "image": "icon_crafting_event_martell.png",
+      "name": "mat_event_martell_1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_MARTELL_1_NAME",
+      "priority": 36100,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_EVENT_DESC",
+      "id": "8cd893becdf59508",
+      "image": "icon_crafting_event_oldnan.png",
+      "name": "mat_event_oldnan_1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_OLDNAN_1_NAME",
+      "priority": 36200,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_EVENT_DESC",
+      "id": "e4409e7887004d",
+      "image": "icon_crafting_event_rattleshirt.png",
+      "name": "mat_event_rattleshirt_1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_RATTLESHIRT_1_NAME",
+      "priority": 36300,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_EVENT_DESC",
+      "id": "bad5b9e8eccb8d1d",
+      "image": "icon_crafting_event_conquest2.png",
+      "name": "mat_event_conquest2_1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_CONQUEST2_1_NAME",
+      "priority": 36400,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_EVENT_DESC",
+      "id": "d17172bd5b098084",
+      "image": "icon_crafting_event_hound.png",
+      "name": "mat_event_hound_1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_HOUND_1_NAME",
+      "priority": 36500,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_EVENT_DESC",
+      "id": "539d3ec74d8c5af8",
+      "image": "icon_crafting_event_queenlb.png",
+      "name": "mat_event_queenlb_1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_QUEENLB_1_NAME",
+      "priority": 36600,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_EVENT_DESC",
+      "id": "f282f475461b734a",
+      "image": "icon_crafting_event_rhllor.png",
+      "name": "mat_event_rhllor_1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_RHLLOR_1_NAME",
+      "priority": 36700,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_EVENT_DESC",
+      "id": "346ac43a820b9cbf",
+      "image": "icon_crafting_event_ironann.png",
+      "name": "mat_event_ironann_1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_IRONANN_1_NAME",
+      "priority": 36800,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_EVENT_DESC",
+      "id": "a97dc347489ae3bb",
+      "image": "icon_crafting_event_cersei.png",
+      "name": "mat_event_cersei_1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_CERSEI_1_NAME",
+      "priority": 36900,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_EVENT_DESC",
+      "id": "46bb27471ac21b93",
+      "image": "icon_crafting_event_kingsmoot.png",
+      "name": "mat_event_kingsmoot_1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_KINGSMOOT_1_NAME",
+      "priority": 37000,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_EVENT_DESC",
+      "id": "36b61f9f0843a836",
+      "image": "icon_crafting_event_freedom.png",
+      "name": "mat_event_freedom_1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_FREEDOM_1_NAME",
+      "priority": 37100,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_EVENT_DESC",
+      "id": "39f4498a1d9050db",
+      "image": "icon_crafting_event_dawn.png",
+      "name": "mat_event_dawn_1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_DAWN_1_NAME",
+      "priority": 37200,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_EVENT_DESC",
+      "id": "5e8a0a2a7e16ce73",
+      "image": "icon_crafting_event_stark.png",
+      "name": "mat_event_stark_1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_STARK_1_NAME",
+      "priority": 37300,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_EVENT_DESC",
+      "id": "422d429b990e5de9",
+      "image": "icon_crafting_oldnan3.png",
+      "name": "mat_event_oldnan3_1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_OLDNAN3_1_NAME",
+      "priority": 37400,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_EVENT_DESC",
+      "id": "165576b2222e039b",
+      "image": "icon_crafting_events_harvest.png",
+      "name": "mat_event_harvest_1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_HARVEST_1_NAME",
+      "priority": 37500,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_EVENT_DESC",
+      "id": "6b860e5ac2102bb2",
+      "image": "icon_crafting_event_yara.png",
+      "name": "mat_event_yara_1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_YARA_1_NAME",
+      "priority": 37600,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_EVENT_DESC",
+      "id": "177e27ebd64ba04",
+      "image": "icon_crafting_event_harrenhal2.png",
+      "name": "mat_event_harrenhal2_1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_HARRENHAL2_1_NAME",
+      "priority": 37700,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_EVENT_DESC",
+      "id": "4722b6ba2c6786cb",
+      "image": "icon_crafting_event_oldtown.png",
+      "name": "mat_event_oldtown_1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_OLDTOWN_1_NAME",
+      "priority": 37800,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_EVENT_DESC",
+      "id": "7f808d4ef64c2725",
+      "image": "icon_crafting_event_artofcombat.png",
+      "name": "mat_event_artofcombat_1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_ARTOFCOMBAT_1_NAME",
+      "priority": 37900,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_DESC",
+      "id": "ef19ff2eb6419d20",
+      "image": "icon_crafting_blackiron.png",
+      "name": "mat_blackiron",
+      "name_placeholder": "ITEM_MATERIALS_BLACKIRON",
+      "priority": 38200,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_DESC",
+      "id": "e3c250a50eb105e3",
+      "image": "icon_crafting_copper_bar.png",
+      "name": "mat_copperbar",
+      "name_placeholder": "ITEM_MATERIALS_COPPERBAR",
+      "priority": 38300,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_DESC",
+      "id": "4833165f0a564a62",
+      "image": "icon_crafting_dragonglass.png",
+      "name": "mat_dragonglass",
+      "name_placeholder": "ITEM_MATERIALS_DRAGONGLASS",
+      "priority": 38400,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_DESC",
+      "id": "ede75f0c2ea50337",
+      "image": "icon_crafting_goldenheart_wood.png",
+      "name": "mat_goldenheartwood",
+      "name_placeholder": "ITEM_MATERIALS_GOLDENHEARTWOOD",
+      "priority": 38500,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_DESC",
+      "id": "54c7727456afac75",
+      "image": "icon_crafting_hide.png",
+      "name": "mat_hide",
+      "name_placeholder": "ITEM_MATERIALS_HIDE",
+      "priority": 38600,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_DESC",
+      "id": "eac5bea66e4954e4",
+      "image": "icon_crafting_ironwood.png",
+      "name": "mat_ironwood",
+      "name_placeholder": "ITEM_MATERIALS_IRONWOOD",
+      "priority": 38700,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_DESC",
+      "id": "b1c88e6bcf9835a4",
+      "image": "icon_crafting_kingswood_oak.png",
+      "name": "mat_kingswoodoak",
+      "name_placeholder": "ITEM_MATERIALS_KINGSWOODOAK",
+      "priority": 38800,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_DESC",
+      "id": "17c69f520e5fe5c2",
+      "image": "icon_crafting_leather_straps.png",
+      "name": "mat_leatherstrap",
+      "name_placeholder": "ITEM_MATERIALS_LEATHERSTRAPS",
+      "priority": 38900,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_DESC",
+      "id": "da15d0d8004c27ff",
+      "image": "icon_crafting_milk_of_the_poppy.png",
+      "name": "mat_milkofthepoppy",
+      "name_placeholder": "ITEM_MATERIALS_MILKOFTHEPOPPY",
+      "priority": 39000,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_DESC",
+      "id": "8abecd2b0f259aba",
+      "image": "icon_crafting_silk.png",
+      "name": "mat_silk",
+      "name_placeholder": "ITEM_MATERIALS_SILK",
+      "priority": 39100,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_DESC",
+      "id": "b978929e676548db",
+      "image": "icon_crafting_weir_wood.png",
+      "name": "mat_weirwood",
+      "name_placeholder": "ITEM_MATERIALS_WEIRWOOD",
+      "priority": 39200,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_DESC",
+      "id": "6c885db47f3b59d5",
+      "image": "icon_crafting_wild_fire.png",
+      "name": "mat_wildfire",
+      "name_placeholder": "ITEM_MATERIALS_WILDFIRE",
+      "priority": 39300,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_BOX_DESC",
+      "id": "4cdc5fadde68ee7d",
+      "image": "icon_crafting_blackiron.png",
+      "name": "mat_blackiron_box",
+      "name_placeholder": "ITEM_MATERIALS_BLACKIRON_BOX",
+      "priority": 39500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_BOX_DESC",
+      "id": "5e498ce61ef1cfbe",
+      "image": "icon_crafting_copper_bar.png",
+      "name": "mat_copperbar_box",
+      "name_placeholder": "ITEM_MATERIALS_COPPERBAR_BOX",
+      "priority": 39600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_BOX_DESC",
+      "id": "48593e892502d6d9",
+      "image": "icon_crafting_dragonbone.png",
+      "name": "mat_dragonbone_box",
+      "name_placeholder": "ITEM_MATERIALS_DRAGONBONE_BOX",
+      "priority": 39700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_BOX_DESC",
+      "id": "f8f220d8ce01b2fa",
+      "image": "icon_crafting_dragonglass.png",
+      "name": "mat_dragonglass_box",
+      "name_placeholder": "ITEM_MATERIALS_DRAGONGLASS_BOX",
+      "priority": 39800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_BOX_DESC",
+      "id": "7115aabc0ed39efe",
+      "image": "icon_crafting_goldenheart_wood.png",
+      "name": "mat_goldenheartwood_box",
+      "name_placeholder": "ITEM_MATERIALS_GOLDENHEARTWOOD_BOX",
+      "priority": 39900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_BOX_DESC",
+      "id": "987294b0f1ad6d94",
+      "image": "icon_crafting_hide.png",
+      "name": "mat_hide_box",
+      "name_placeholder": "ITEM_MATERIALS_HIDE_BOX",
+      "priority": 40000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_BOX_DESC",
+      "id": "aa6c423e9398b362",
+      "image": "icon_crafting_ironwood.png",
+      "name": "mat_ironwood_box",
+      "name_placeholder": "ITEM_MATERIALS_IRONWOOD_BOX",
+      "priority": 40100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_BOX_DESC",
+      "id": "932f0135f156737f",
+      "image": "icon_crafting_kingswood_oak.png",
+      "name": "mat_kingswoodoak_box",
+      "name_placeholder": "ITEM_MATERIALS_KINGSWOODOAK_BOX",
+      "priority": 40200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_BOX_DESC",
+      "id": "97f60abe5feb0e28",
+      "image": "icon_crafting_leather_straps.png",
+      "name": "mat_leatherstrap_box",
+      "name_placeholder": "ITEM_MATERIALS_LEATHERSTRAPS_BOX",
+      "priority": 40300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_BOX_DESC",
+      "id": "232d2ba87f7891ea",
+      "image": "icon_crafting_milk_of_the_poppy.png",
+      "name": "mat_milkofthepoppy_box",
+      "name_placeholder": "ITEM_MATERIALS_MILKOFTHEPOPPY_BOX",
+      "priority": 40400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_BOX_DESC",
+      "id": "6455954c1455ea47",
+      "image": "icon_crafting_silk.png",
+      "name": "mat_silk_box",
+      "name_placeholder": "ITEM_MATERIALS_SILK_BOX",
+      "priority": 40500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_BOX_DESC",
+      "id": "a123288462739f64",
+      "image": "icon_crafting_steel_bar.png",
+      "name": "mat_steelbar_box",
+      "name_placeholder": "ITEM_MATERIALS_STEELBAR_BOX",
+      "priority": 40600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_BOX_DESC",
+      "id": "5c2268c160a226f2",
+      "image": "icon_crafting_weir_wood.png",
+      "name": "mat_weirwood_box",
+      "name_placeholder": "ITEM_MATERIALS_WEIRWOOD_BOX",
+      "priority": 40700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_BOX_DESC",
+      "id": "af5f1453ade37b15",
+      "image": "icon_crafting_wild_fire.png",
+      "name": "mat_wildfire_box",
+      "name_placeholder": "ITEM_MATERIALS_WILDFIRE_BOX",
+      "priority": 40800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_DESC",
+      "id": "659d51887a3831ba",
+      "image": "icon_crafting_steel_bar.png",
+      "name": "mat_steelbar",
+      "name_placeholder": "ITEM_MATERIALS_STEELBAR",
+      "priority": 41000,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_DESC",
+      "id": "6fbba7bf32ff73d2",
+      "image": "icon_crafting_dragonbone.png",
+      "name": "mat_dragonbone",
+      "name_placeholder": "ITEM_MATERIALS_DRAGONBONE",
+      "priority": 41100,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_RANDOM_TELEPORT_DESC",
+      "id": "27e9c33d61928c10",
+      "image": "icon_teleportation_item.png",
+      "name": "item_Random_Teleport",
+      "name_placeholder": "ITEM_RANDOM_TELEPORT",
+      "priority": 42000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_ADVANCED_TELEPORT_DESC",
+      "id": "697ca315e12482ec",
+      "image": "icon_teleportation_item.png",
+      "name": "item_Advanced_Teleport",
+      "name_placeholder": "ITEM_ADVANCED_TELEPORT",
+      "priority": 42100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_KINGDOM_TELEPORT_DESC",
+      "id": "f42ffa975de61118",
+      "image": "icon_teleportation_kvk_item.png",
+      "name": "item_Kingdom_Teleport",
+      "name_placeholder": "ITEM_KINGDOM_TELEPORT",
+      "priority": 34650,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_ADVANCED_TELEPORT_SHARD_DESC",
+      "id": "893db59921e4a38b",
+      "image": "icon_teleportation_item.png",
+      "name": "item_Advanced_Teleport_Shard",
+      "name_placeholder": "ITEM_ADVANCED_TELEPORT_SHARD",
+      "priority": 42300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_BANNERCHANGE_1_DESC",
+      "id": "e495cbcb055c8512",
+      "image": "icon_item_bannerchange_1.png",
+      "name": "item_BannerChange_1",
+      "name_placeholder": "ITEM_BANNERCHANGE_1",
+      "priority": 42500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_NAMECHANGE_1_DESC",
+      "id": "961ebc75aae5a449",
+      "image": "icon_item_namechange_1.png",
+      "name": "item_NameChange_1",
+      "name_placeholder": "ITEM_NAMECHANGE_1",
+      "priority": 42600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_ALLEGIANCETAGCHANGE_1_DESC",
+      "id": "11708e64ce8bfc19",
+      "image": "icon_item_allegiancetagchange_1.png",
+      "name": "item_AllegianceTagChange_1",
+      "name_placeholder": "ITEM_ALLEGIANCETAGCHANGE_1",
+      "priority": 42700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_AVATARCHANGE_1_DESC",
+      "id": "ce2d11e7107adfb6",
+      "image": "icon_item_avatar_change_1.png",
+      "name": "item_AvatarChange_1",
+      "name_placeholder": "ITEM_AVATARCHANGE_1",
+      "priority": 42800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PRAYERTOKEN_1_DESC",
+      "id": "f6bf4bf482ec1a0",
+      "image": "icon_wish.png",
+      "name": "item_prayertoken_1",
+      "name_placeholder": "ITEM_PRAYERTOKEN_1",
+      "priority": 43100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "Use to receive a 24-Hour Peace Shield and a Random Teleport.",
+      "id": "750122f25a92ae01",
+      "image": "icon_defense_chest.png",
+      "name": "item_Small_Defense_Chest",
+      "name_placeholder": "DO NOT USE Small Defense Chest",
+      "priority": 43400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "Use to receive a 12-Hour ATK Bonus, a 12-Hour DEF Bonus, and a 25% Max March Boost",
+      "id": "c4e9b91e88991083",
+      "image": "icon_war_chest.png",
+      "name": "item_Small_War_Chest",
+      "name_placeholder": "DO NOT USE Small War Chest",
+      "priority": 43500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "Increases your current stamina by 1.",
+      "id": "ec4290c59228660a",
+      "image": "icon_recover_stamina.png",
+      "name": "item_Stamina_1",
+      "name_placeholder": "DO NOT USE +1 Stamina",
+      "priority": 44100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "Increases your current stamina by 5.",
+      "id": "5f85be5f4f6521e2",
+      "image": "icon_recover_stamina.png",
+      "name": "item_Stamina_5",
+      "name_placeholder": "DO NOT USE +5 Stamina",
+      "priority": 44200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_STAMINA_10_DESC",
+      "id": "654d4f80a84c180e",
+      "image": "icon_recover_stamina.png",
+      "name": "item_Stamina_10",
+      "name_placeholder": "ITEM_STAMINA_10",
+      "priority": 44300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_STAMINA_25_DESC",
+      "id": "f51e1e776955df09",
+      "image": "icon_recover_stamina.png",
+      "name": "item_Stamina_25",
+      "name_placeholder": "ITEM_STAMINA_25",
+      "priority": 44400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_STAMINA_50_DESC",
+      "id": "71c0fe9acc46dbc2",
+      "image": "icon_recover_stamina.png",
+      "name": "item_Stamina_50",
+      "name_placeholder": "ITEM_STAMINA_50",
+      "priority": 44500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_STAMINA_100_DESC",
+      "id": "d6036ec5303b3b98",
+      "image": "icon_recover_stamina.png",
+      "name": "item_Stamina_100",
+      "name_placeholder": "ITEM_STAMINA_100",
+      "priority": 44600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "Increases your current stamina by 1.",
+      "id": "a3d4455ecb5907a0",
+      "image": "icon_buff_healer.png",
+      "name": "item_RedTempleCurrencyBox_Quantity1",
+      "name_placeholder": "DO NOT USE +1 Light",
+      "priority": 44800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "Increases your current stamina by 5.",
+      "id": "10136bc416144048",
+      "image": "icon_buff_healer.png",
+      "name": "item_RedTempleCurrencyBox_Quantity5",
+      "name_placeholder": "DO NOT USE +5 Light",
+      "priority": 44900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_REDTEMPLECURRENCYBOX_QUANTITY10_DESC",
+      "id": "892c898b55d8304f",
+      "image": "icon_buff_healer.png",
+      "name": "item_RedTempleCurrencyBox_Quantity10",
+      "name_placeholder": "ITEM_REDTEMPLECURRENCYBOX_QUANTITY10",
+      "priority": 45000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_REDTEMPLECURRENCYBOX_QUANTITY25_DESC",
+      "id": "197fd87c94c1f748",
+      "image": "icon_buff_healer.png",
+      "name": "item_RedTempleCurrencyBox_Quantity25",
+      "name_placeholder": "ITEM_REDTEMPLECURRENCYBOX_QUANTITY25",
+      "priority": 45100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_REDTEMPLECURRENCYBOX_QUANTITY50_DESC",
+      "id": "9da1389131d2f383",
+      "image": "icon_buff_healer.png",
+      "name": "item_RedTempleCurrencyBox_Quantity50",
+      "name_placeholder": "ITEM_REDTEMPLECURRENCYBOX_QUANTITY50",
+      "priority": 45200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_REDTEMPLECURRENCYBOX_QUANTITY100_DESC",
+      "id": "5bed75027a298a15",
+      "image": "icon_buff_healer.png",
+      "name": "item_RedTempleCurrencyBox_Quantity100",
+      "name_placeholder": "ITEM_REDTEMPLECURRENCYBOX_QUANTITY100",
+      "priority": 45300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_REDTEMPLECURRENCYBOX_QUANTITY1000_DESC",
+      "id": "ec9f1a037eda222",
+      "image": "icon_buff_healer.png",
+      "name": "item_RedTempleCurrencyBox_Quantity1000",
+      "name_placeholder": "ITEM_REDTEMPLECURRENCYBOX_QUANTITY1000",
+      "priority": 45400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_REDTEMPLECURRENCYBOX_QUANTITY10000_DESC",
+      "id": "113f22486155808b",
+      "image": "icon_buff_healer.png",
+      "name": "item_RedTempleCurrencyBox_Quantity10000",
+      "name_placeholder": "ITEM_REDTEMPLECURRENCYBOX_QUANTITY10000",
+      "priority": 45500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_REDTEMPLECURRENCYBOX_QUANTITY100000_DESC",
+      "id": "881cd8ae363b9387",
+      "image": "icon_buff_healer.png",
+      "name": "item_RedTempleCurrencyBox_Quantity100000",
+      "name_placeholder": "ITEM_REDTEMPLECURRENCYBOX_QUANTITY100000",
+      "priority": 45600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_REDTEMPLECURRENCYBOX_QUANTITY1000000_DESC",
+      "id": "de76ca8efe147a87",
+      "image": "icon_buff_healer.png",
+      "name": "item_RedTempleCurrencyBox_Quantity1000000",
+      "name_placeholder": "ITEM_REDTEMPLECURRENCYBOX_QUANTITY1000000",
+      "priority": 45700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "TEST ITEM item_placeholder_1",
+      "id": "303d1ebbc36a3626",
+      "image": "icon_settings_language_chinese_simplified.png",
+      "name": "item_placeholder_1",
+      "name_placeholder": "TEST ITEM item_placeholder_1",
+      "priority": 46000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "TEST ITEM item_placeholder_2",
+      "id": "452f42501a9fc428",
+      "image": "icon_settings_language_chinese_traditional.png",
+      "name": "item_placeholder_2",
+      "name_placeholder": "TEST ITEM item_placeholder_2",
+      "priority": 46100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "TEST ITEM item_placeholder_3",
+      "id": "69de89f6adcc95d2",
+      "image": "icon_settings_language_english.png",
+      "name": "item_placeholder_3",
+      "name_placeholder": "TEST ITEM item_placeholder_3",
+      "priority": 46200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "TEST ITEM item_placeholder_4",
+      "id": "af0bfb87a9742034",
+      "image": "icon_settings_language_french.png",
+      "name": "item_placeholder_4",
+      "name_placeholder": "TEST ITEM item_placeholder_4",
+      "priority": 46300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "TEST ITEM item_placeholder_5",
+      "id": "83fa30211e2771ce",
+      "image": "icon_settings_language_german.png",
+      "name": "item_placeholder_5",
+      "name_placeholder": "TEST ITEM item_placeholder_5",
+      "priority": 46400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "TEST ITEM item_placeholder_6",
+      "id": "f6e86ccac7d283c0",
+      "image": "icon_settings_language_italian.png",
+      "name": "item_placeholder_6",
+      "name_placeholder": "TEST ITEM item_placeholder_6",
+      "priority": 46500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "TEST ITEM item_placeholder_7",
+      "id": "da19a76c7081d23a",
+      "image": "icon_settings_language_japanese.png",
+      "name": "item_placeholder_7",
+      "name_placeholder": "TEST ITEM item_placeholder_7",
+      "priority": 46600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "TEST ITEM item_placeholder_8",
+      "id": "f9f8ca5d870ca727",
+      "image": "icon_settings_language_korean.png",
+      "name": "item_placeholder_8",
+      "name_placeholder": "TEST ITEM item_placeholder_8",
+      "priority": 46700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "TEST ITEM item_placeholder_9",
+      "id": "d50901fb305ff6dd",
+      "image": "icon_settings_language_portuguese.png",
+      "name": "item_placeholder_9",
+      "name_placeholder": "TEST ITEM item_placeholder_9",
+      "priority": 46800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_XP_LORD_DESC",
+      "id": "244b14eb66a1e3c5",
+      "image": "icon_resource_lordExp.png",
+      "name": "item_xp_Lord_1",
+      "name_placeholder": "ITEM_XP_LORD_1",
+      "priority": 47000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_XP_LORD_DESC",
+      "id": "26cabba8235e375c",
+      "image": "icon_resource_lordExp.png",
+      "name": "item_xp_Lord_10",
+      "name_placeholder": "ITEM_XP_LORD_10",
+      "priority": 47100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_XP_LORD_DESC",
+      "id": "6682b32f2f6e30c1",
+      "image": "icon_resource_lordExp.png",
+      "name": "item_xp_Lord_100",
+      "name_placeholder": "ITEM_XP_LORD_100",
+      "priority": 47200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_XP_LORD_DESC",
+      "id": "954f5c953a5abf67",
+      "image": "icon_resource_lordExp.png",
+      "name": "item_xp_Lord_1000",
+      "name_placeholder": "ITEM_XP_LORD_1000",
+      "priority": 47300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_XP_LORD_DESC",
+      "id": "2f61f07ec8fa55db",
+      "image": "icon_resource_lordExp.png",
+      "name": "item_xp_Lord_10000",
+      "name_placeholder": "ITEM_XP_LORD_10000",
+      "priority": 47400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_XP_LORD_DESC",
+      "id": "61034b2f59ea86d0",
+      "image": "icon_resource_lordExp.png",
+      "name": "item_xp_Lord_100000",
+      "name_placeholder": "ITEM_XP_LORD_100000",
+      "priority": 47500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_XP_LORD_DESC",
+      "id": "f16b6a3f22bba4f6",
+      "image": "icon_resource_lordExp.png",
+      "name": "item_xp_Lord_1000000",
+      "name_placeholder": "ITEM_XP_LORD_1000000",
+      "priority": 47600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_XP_LORD_DESC",
+      "id": "8a7b4220dea28c72",
+      "image": "icon_resource_lordExp.png",
+      "name": "item_xp_Lord_10000000",
+      "name_placeholder": "ITEM_XP_LORD_10000000",
+      "priority": 47700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_XP_LORD_DESC",
+      "id": "f89a5da8b8c47527",
+      "image": "icon_resource_lordExp.png",
+      "name": "item_xp_Lord_100000000",
+      "name_placeholder": "ITEM_XP_LORD_100000000",
+      "priority": 47800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_XP_LORD_DESC",
+      "id": "8eff94d803c4bf4e",
+      "image": "icon_resource_lordExp.png",
+      "name": "item_xp_Lord_1000000000",
+      "name_placeholder": "ITEM_XP_LORD_1000000000",
+      "priority": 47900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "An unknown item",
+      "id": "1268b4ef67408b6f",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_unknown",
+      "name_placeholder": "???",
+      "priority": 0,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "DO NOT USE (ever) item_Farm_boost_24hr",
+      "id": "89ea03a12f3a1c86",
+      "image": "",
+      "name": "item_Farm_boost_24hr",
+      "name_placeholder": "DO NOT USE (ever) item_Farm_boost_24hr",
+      "priority": 48500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "DO NOT USE (ever) item_Sawmill_boost_24hr",
+      "id": "a3d235fac15ec6c1",
+      "image": "",
+      "name": "item_Sawmill_boost_24hr",
+      "name_placeholder": "DO NOT USE (ever) item_Sawmill_boost_24hr",
+      "priority": 48600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "DO NOT USE (ever) item_StoneQuarry_boost_24hr",
+      "id": "b3a579b456fbaf6d",
+      "image": "",
+      "name": "item_StoneQuarry_boost_24hr",
+      "name_placeholder": "DO NOT USE (ever) item_StoneQuarry_boost_24hr",
+      "priority": 48700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "DO NOT USE (ever) item_Mine_boost_24hr",
+      "id": "e78538a7d02db3bf",
+      "image": "",
+      "name": "item_Mine_boost_24hr",
+      "name_placeholder": "DO NOT USE (ever) item_Mine_boost_24hr",
+      "priority": 48800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "DO NOT USE (ever) item_test_Farm_boost_2s",
+      "id": "b918cc26b01a32f8",
+      "image": "",
+      "name": "item_test_Farm_boost_2s",
+      "name_placeholder": "DO NOT USE (ever) item_test_Farm_boost_2s",
+      "priority": 49000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_ATK_BONUS_1_DESC",
+      "id": "a6749d3c948ac8a0",
+      "image": "icon_attack.png",
+      "name": "item_Atk_Bonus_1",
+      "name_placeholder": "ITEM_ATK_BONUS_1",
+      "priority": 49400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_ATK_BONUS_2_DESC",
+      "id": "d366c1d74d7f3aae",
+      "image": "icon_attack.png",
+      "name": "item_Atk_Bonus_2",
+      "name_placeholder": "ITEM_ATK_BONUS_2",
+      "priority": 49500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_DEF_BONUS_1_DESC",
+      "id": "437821541bc2e374",
+      "image": "icon_defense.png",
+      "name": "item_Def_Bonus_1",
+      "name_placeholder": "ITEM_DEF_BONUS_1",
+      "priority": 49600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_DEF_BONUS_2_DESC",
+      "id": "366a7dbfc237117a",
+      "image": "icon_defense.png",
+      "name": "item_Def_Bonus_2",
+      "name_placeholder": "ITEM_DEF_BONUS_2",
+      "priority": 49700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_ANTI_SCOUT_1_DESC",
+      "id": "21ebdff13bef4408",
+      "image": "icon_scout.png",
+      "name": "item_Anti_Scout_1",
+      "name_placeholder": "ITEM_ANTI_SCOUT_1",
+      "priority": 49900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_ANTI_SCOUT_2_DESC",
+      "id": "54f9831ae21ab606",
+      "image": "icon_scout.png",
+      "name": "item_Anti_Scout_2",
+      "name_placeholder": "ITEM_ANTI_SCOUT_2",
+      "priority": 50000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_GATHER_BONUS_1_DESC",
+      "id": "6df85d9df012ca10",
+      "image": "icon_gather_resources.png",
+      "name": "item_Gather_Bonus_1",
+      "name_placeholder": "ITEM_GATHER_BONUS_1",
+      "priority": 50200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_GATHER_BONUS_2_DESC",
+      "id": "18ea017629e7381e",
+      "image": "icon_gather_resources.png",
+      "name": "item_Gather_Bonus_2",
+      "name_placeholder": "ITEM_GATHER_BONUS_2",
+      "priority": 50300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_FALSE_ARMY_DESC",
+      "id": "3967bc6beb4d384",
+      "image": "icon_false_army.png",
+      "name": "item_False_Army",
+      "name_placeholder": "ITEM_FALSE_ARMY",
+      "priority": 50500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_SMALL_UPKEEP_1_DESC",
+      "id": "56d1c94eb4037354",
+      "image": "icon_small_upkeep.png",
+      "name": "item_Small_Upkeep_1",
+      "name_placeholder": "ITEM_SMALL_UPKEEP_1",
+      "priority": 50700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_SMALL_UPKEEP_2_DESC",
+      "id": "23c395a56df6815a",
+      "image": "icon_small_upkeep.png",
+      "name": "item_Small_Upkeep_2",
+      "name_placeholder": "ITEM_SMALL_UPKEEP_2",
+      "priority": 50800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_LARGE_UPKEEP_1_DESC",
+      "id": "6676fefbc46f95fe",
+      "image": "icon_largeUpkeep.png",
+      "name": "item_Large_Upkeep_1",
+      "name_placeholder": "ITEM_LARGE_UPKEEP_1",
+      "priority": 50900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_LARGE_UPKEEP_2_DESC",
+      "id": "1364a2101d9a67f0",
+      "image": "icon_largeUpkeep.png",
+      "name": "item_Large_Upkeep_2",
+      "name_placeholder": "ITEM_LARGE_UPKEEP_2",
+      "priority": 51000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_BASICRESOURCEGATHERBOOST_DESC",
+      "id": "d609fa15fbf0a7f3",
+      "image": "icon_itm_gather_resources.png",
+      "name": "item_BasicResourceGatherBoost_25percent_1h",
+      "name_placeholder": "ITEM_BASICRESOURCEGATHERBOOST_25PERCENT_1H_NAME",
+      "priority": 51300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_BASICRESOURCEGATHERBOOST_DESC",
+      "id": "c7a7274906f8d4cc",
+      "image": "icon_itm_gather_resources.png",
+      "name": "item_BasicResourceGatherBoost_25percent_4h",
+      "name_placeholder": "ITEM_BASICRESOURCEGATHERBOOST_25PERCENT_4H_NAME",
+      "priority": 51400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_BASICRESOURCEGATHERBOOST_DESC",
+      "id": "fa31f467aae79098",
+      "image": "icon_itm_gather_resources.png",
+      "name": "item_BasicResourceGatherBoost_25percent_8h",
+      "name_placeholder": "ITEM_BASICRESOURCEGATHERBOOST_25PERCENT_8H_NAME",
+      "priority": 51500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_BASICRESOURCEGATHERBOOST_DESC",
+      "id": "6b55af770f6e4c8b",
+      "image": "icon_itm_gather_resources.png",
+      "name": "item_BasicResourceGatherBoost_25percent_24h",
+      "name_placeholder": "ITEM_BASICRESOURCEGATHERBOOST_25PERCENT_24H_NAME",
+      "priority": 51600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_BASICRESOURCEGATHERBOOST_DESC",
+      "id": "9e31a258838782ca",
+      "image": "icon_itm_gather_resources.png",
+      "name": "item_BasicResourceGatherBoost_25percent_7d",
+      "name_placeholder": "ITEM_BASICRESOURCEGATHERBOOST_25PERCENT_7D_NAME",
+      "priority": 51700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_BASICRESOURCEGATHERBOOST_DESC",
+      "id": "e5e445b078567847",
+      "image": "icon_itm_gather_resources.png",
+      "name": "item_BasicResourceGatherBoost_25percent_30d",
+      "name_placeholder": "ITEM_BASICRESOURCEGATHERBOOST_25PERCENT_30D_NAME",
+      "priority": 51800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_BASICRESOURCEGATHERBOOST_DESC",
+      "id": "7fdc80ef344d3a9d",
+      "image": "icon_itm_gather_resources.png",
+      "name": "item_BasicResourceGatherBoost_50percent_8h",
+      "name_placeholder": "ITEM_BASICRESOURCEGATHERBOOST_50PERCENT_8H_NAME",
+      "priority": 51900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_BASICRESOURCEGATHERBOOST_DESC",
+      "id": "f4e6a73fedeef033",
+      "image": "icon_itm_gather_resources.png",
+      "name": "item_BasicResourceGatherBoost_50percent_24h",
+      "name_placeholder": "ITEM_BASICRESOURCEGATHERBOOST_50PERCENT_24H_NAME",
+      "priority": 52000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_BASICRESOURCEGATHERBOOST_DESC",
+      "id": "1bdcd6d01d2d28cf",
+      "image": "icon_itm_gather_resources.png",
+      "name": "item_BasicResourceGatherBoost_50percent_7d",
+      "name_placeholder": "ITEM_BASICRESOURCEGATHERBOOST_50PERCENT_7D_NAME",
+      "priority": 52100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_BASICRESOURCEGATHERBOOST_DESC",
+      "id": "7a574df89ad6c4ff",
+      "image": "icon_itm_gather_resources.png",
+      "name": "item_BasicResourceGatherBoost_50percent_30d",
+      "name_placeholder": "ITEM_BASICRESOURCEGATHERBOOST_50PERCENT_30D_NAME",
+      "priority": 52200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EXOTICRESOURCEGATHERBOOST_DESC",
+      "id": "ac9ff42cce30307",
+      "image": "icon_itm_gather_resources_adv.png",
+      "name": "item_ExoticResourceGatherBoost_25percent_8h",
+      "name_placeholder": "ITEM_EXOTICRESOURCEGATHERBOOST_25PERCENT_8H_NAME",
+      "priority": 52300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EXOTICRESOURCEGATHERBOOST_DESC",
+      "id": "c1cb6783d696544d",
+      "image": "icon_itm_gather_resources_adv.png",
+      "name": "item_ExoticResourceGatherBoost_25percent_24h",
+      "name_placeholder": "ITEM_EXOTICRESOURCEGATHERBOOST_25PERCENT_24H_NAME",
+      "priority": 52400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EXOTICRESOURCEGATHERBOOST_DESC",
+      "id": "6ec9a97de5831155",
+      "image": "icon_itm_gather_resources_adv.png",
+      "name": "item_ExoticResourceGatherBoost_25percent_7d",
+      "name_placeholder": "ITEM_EXOTICRESOURCEGATHERBOOST_25PERCENT_7D_NAME",
+      "priority": 52500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EXOTICRESOURCEGATHERBOOST_DESC",
+      "id": "4f7a8d44a1ae6081",
+      "image": "icon_itm_gather_resources_adv.png",
+      "name": "item_ExoticResourceGatherBoost_25percent_30d",
+      "name_placeholder": "ITEM_EXOTICRESOURCEGATHERBOOST_25PERCENT_30D_NAME",
+      "priority": 52600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EXOTICRESOURCEGATHERBOOST_DESC",
+      "id": "8f248bca5249a902",
+      "image": "icon_itm_gather_resources_adv.png",
+      "name": "item_ExoticResourceGatherBoost_50percent_8h",
+      "name_placeholder": "ITEM_EXOTICRESOURCEGATHERBOOST_50PERCENT_8H_NAME",
+      "priority": 52700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EXOTICRESOURCEGATHERBOOST_DESC",
+      "id": "5e786fcb3416e8f5",
+      "image": "icon_itm_gather_resources_adv.png",
+      "name": "item_ExoticResourceGatherBoost_50percent_24h",
+      "name_placeholder": "ITEM_EXOTICRESOURCEGATHERBOOST_50PERCENT_24H_NAME",
+      "priority": 52800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EXOTICRESOURCEGATHERBOOST_DESC",
+      "id": "eb24ddf57b29bb50",
+      "image": "icon_itm_gather_resources_adv.png",
+      "name": "item_ExoticResourceGatherBoost_50percent_7d",
+      "name_placeholder": "ITEM_EXOTICRESOURCEGATHERBOOST_50PERCENT_7D_NAME",
+      "priority": 52900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EXOTICRESOURCEGATHERBOOST_DESC",
+      "id": "d0c9850c432edc39",
+      "image": "icon_itm_gather_resources_adv.png",
+      "name": "item_ExoticResourceGatherBoost_50percent_30d",
+      "name_placeholder": "ITEM_EXOTICRESOURCEGATHERBOOST_50PERCENT_30D_NAME",
+      "priority": 53000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MARCHSIZE_DESC",
+      "id": "39ace7ca3c7e72e9",
+      "image": "dragon_talent_hatchling_march_size_max.png",
+      "name": "item_MarchSize_25percent_2h",
+      "name_placeholder": "ITEM_MARCHSIZE_25PERCENT_2H_NAME",
+      "priority": 53100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MARCHSIZE_DESC",
+      "id": "485402efec8fb092",
+      "image": "dragon_talent_hatchling_march_size_max.png",
+      "name": "item_MarchSize_25percent_24h",
+      "name_placeholder": "ITEM_MARCHSIZE_25PERCENT_24H_NAME",
+      "priority": 53200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MARCHSIZE_DESC",
+      "id": "bc419342a2d4d8ec",
+      "image": "dragon_talent_hatchling_march_size_max.png",
+      "name": "item_MarchSize_50percent_2h",
+      "name_placeholder": "ITEM_MARCHSIZE_50PERCENT_2H_NAME",
+      "priority": 53300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MARCHSIZE_DESC",
+      "id": "d7e70aa70e0f0c2a",
+      "image": "dragon_talent_hatchling_march_size_max.png",
+      "name": "item_MarchSize_50percent_24h",
+      "name_placeholder": "ITEM_MARCHSIZE_50PERCENT_24H_NAME",
+      "priority": 53400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "TESTING ITEM",
+      "id": "603714327e062206",
+      "image": "icon_attack.png",
+      "name": "item_AttackBoost_10percent_1h_tr_test",
+      "name_placeholder": "ITEM_ATTACKBOOST_10PERCENT_1H_TR_TEST",
+      "priority": 44200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_ATTACKBOOST_DESC",
+      "id": "8d70d7b7e5d2278",
+      "image": "icon_attack.png",
+      "name": "item_AttackBoost_10percent_1h",
+      "name_placeholder": "ITEM_ATTACKBOOST_10PERCENT_1H_NAME",
+      "priority": 53600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_ATTACKBOOST_DESC",
+      "id": "133f08aab15030a1",
+      "image": "icon_attack.png",
+      "name": "item_AttackBoost_10percent_6h",
+      "name_placeholder": "ITEM_ATTACKBOOST_10PERCENT_6H_NAME",
+      "priority": 53700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_ATTACKBOOST_DESC",
+      "id": "f3d086fab782095a",
+      "image": "icon_attack.png",
+      "name": "item_AttackBoost_10percent_12h",
+      "name_placeholder": "ITEM_ATTACKBOOST_10PERCENT_12H_NAME",
+      "priority": 53800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_ATTACKBOOST_DESC",
+      "id": "3af01311effc746e",
+      "image": "icon_attack.png",
+      "name": "item_AttackBoost_10percent_24h",
+      "name_placeholder": "ITEM_ATTACKBOOST_10PERCENT_24H_NAME",
+      "priority": 53900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_ATTACKBOOST_DESC",
+      "id": "2d89cf27c1a92e02",
+      "image": "icon_attack.png",
+      "name": "item_AttackBoost_20percent_12h",
+      "name_placeholder": "ITEM_ATTACKBOOST_20PERCENT_12H_NAME",
+      "priority": 54000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_ATTACKBOOST_DESC",
+      "id": "e4a95acc99d75336",
+      "image": "icon_attack.png",
+      "name": "item_AttackBoost_20percent_24h",
+      "name_placeholder": "ITEM_ATTACKBOOST_20PERCENT_24H_NAME",
+      "priority": 54100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_ATTACKBOOST_DESC",
+      "id": "e770de100f4c4bf6",
+      "image": "icon_attack.png",
+      "name": "item_AttackBoost_20percent_7d",
+      "name_placeholder": "ITEM_ATTACKBOOST_20PERCENT_7D_NAME",
+      "priority": 54200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_ATTACKBOOST_DESC",
+      "id": "4793103893acb4f0",
+      "image": "icon_attack.png",
+      "name": "item_AttackBoost_25percent_12h",
+      "name_placeholder": "ITEM_ATTACKBOOST_25PERCENT_12H_NAME",
+      "priority": 54300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_ATTACKBOOST_DESC",
+      "id": "8eb385d3cbd2c9c4",
+      "image": "icon_attack.png",
+      "name": "item_AttackBoost_25percent_24h",
+      "name_placeholder": "ITEM_ATTACKBOOST_25PERCENT_24H_NAME",
+      "priority": 54400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_ATTACKBOOST_DESC",
+      "id": "4c04466f0ac236c2",
+      "image": "icon_attack.png",
+      "name": "item_AttackBoost_25percent_7d",
+      "name_placeholder": "ITEM_ATTACKBOOST_25PERCENT_7D_NAME",
+      "priority": 54500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_ATTACKBOOST_DESC",
+      "id": "e628c9bfd4d509d3",
+      "image": "icon_attack.png",
+      "name": "item_AttackBoost_30percent_12h",
+      "name_placeholder": "ITEM_ATTACKBOOST_30PERCENT_12H_NAME",
+      "priority": 54600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_ATTACKBOOST_DESC",
+      "id": "2f085c548cab74e7",
+      "image": "icon_attack.png",
+      "name": "item_AttackBoost_30percent_24h",
+      "name_placeholder": "ITEM_ATTACKBOOST_30PERCENT_24H_NAME",
+      "priority": 54700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_ATTACKBOOST_DESC",
+      "id": "46c66decf0b4a82",
+      "image": "icon_attack.png",
+      "name": "item_AttackBoost_30percent_7d",
+      "name_placeholder": "ITEM_ATTACKBOOST_30PERCENT_7D_NAME",
+      "priority": 54800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_ATTACKBOOST_DESC",
+      "id": "62cdd2642c58b88a",
+      "image": "icon_attack.png",
+      "name": "item_AttackBoost_40percent_1h",
+      "name_placeholder": "ITEM_ATTACKBOOST_40PERCENT_1H_NAME",
+      "priority": 55000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_ATTACKBOOST_DESC",
+      "id": "7925d7b5e355aa53",
+      "image": "icon_attack.png",
+      "name": "item_AttackBoost_40percent_6h",
+      "name_placeholder": "ITEM_ATTACKBOOST_40PERCENT_6H_NAME",
+      "priority": 55100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_ATTACKBOOST_DESC",
+      "id": "13811ee864502f99",
+      "image": "icon_attack.png",
+      "name": "item_AttackBoost_40percent_12h",
+      "name_placeholder": "ITEM_ATTACKBOOST_40PERCENT_12H_NAME",
+      "priority": 55200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_ATTACKBOOST_DESC",
+      "id": "daa18b033c2e52ad",
+      "image": "icon_attack.png",
+      "name": "item_AttackBoost_40percent_24h",
+      "name_placeholder": "ITEM_ATTACKBOOST_40PERCENT_24H_NAME",
+      "priority": 55300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_ATTACKBOOST_DESC",
+      "id": "2af58a29542f9db3",
+      "image": "icon_attack.png",
+      "name": "item_AttackBoost_40percent_7d",
+      "name_placeholder": "ITEM_ATTACKBOOST_40PERCENT_7D_NAME",
+      "priority": 55400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_HEALTHBOOST_DESC",
+      "id": "2c6c8a0d31233d8c",
+      "image": "icon_health.png",
+      "name": "item_HealthBoost_10percent_1h",
+      "name_placeholder": "ITEM_HEALTHBOOST_10PERCENT_1H_NAME",
+      "priority": 55600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_HEALTHBOOST_DESC",
+      "id": "37848fdcfe2e2f55",
+      "image": "icon_health.png",
+      "name": "item_HealthBoost_10percent_6h",
+      "name_placeholder": "ITEM_HEALTHBOOST_10PERCENT_6H_NAME",
+      "priority": 55700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_HEALTHBOOST_DESC",
+      "id": "f9eb0667bea6b000",
+      "image": "icon_health.png",
+      "name": "item_HealthBoost_10percent_12h",
+      "name_placeholder": "ITEM_HEALTHBOOST_10PERCENT_12H_NAME",
+      "priority": 55800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_HEALTHBOOST_DESC",
+      "id": "30cb938ce6d8cd34",
+      "image": "icon_health.png",
+      "name": "item_HealthBoost_10percent_24h",
+      "name_placeholder": "ITEM_HEALTHBOOST_10PERCENT_24H_NAME",
+      "priority": 55900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_HEALTHBOOST_DESC",
+      "id": "27b24fbac88d9758",
+      "image": "icon_health.png",
+      "name": "item_HealthBoost_20percent_12h",
+      "name_placeholder": "ITEM_HEALTHBOOST_20PERCENT_12H_NAME",
+      "priority": 56000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_HEALTHBOOST_DESC",
+      "id": "ee92da5190f3ea6c",
+      "image": "icon_health.png",
+      "name": "item_HealthBoost_20percent_24h",
+      "name_placeholder": "ITEM_HEALTHBOOST_20PERCENT_24H_NAME",
+      "priority": 56100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_HEALTHBOOST_DESC",
+      "id": "c3cb596640325402",
+      "image": "icon_health.png",
+      "name": "item_HealthBoost_20percent_7d",
+      "name_placeholder": "ITEM_HEALTHBOOST_20PERCENT_7D_NAME",
+      "priority": 56200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_HEALTHBOOST_DESC",
+      "id": "4da890a59a880daa",
+      "image": "icon_health.png",
+      "name": "item_HealthBoost_25percent_12h",
+      "name_placeholder": "ITEM_HEALTHBOOST_25PERCENT_12H_NAME",
+      "priority": 56300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_HEALTHBOOST_DESC",
+      "id": "8488054ec2f6709e",
+      "image": "icon_health.png",
+      "name": "item_HealthBoost_25percent_24h",
+      "name_placeholder": "ITEM_HEALTHBOOST_25PERCENT_24H_NAME",
+      "priority": 56400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_HEALTHBOOST_DESC",
+      "id": "68bfc11945bc2936",
+      "image": "icon_health.png",
+      "name": "item_HealthBoost_25percent_7d",
+      "name_placeholder": "ITEM_HEALTHBOOST_25PERCENT_7D_NAME",
+      "priority": 56500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_HEALTHBOOST_DESC",
+      "id": "ec134922ddf1b089",
+      "image": "icon_health.png",
+      "name": "item_HealthBoost_30percent_12h",
+      "name_placeholder": "ITEM_HEALTHBOOST_30PERCENT_12H_NAME",
+      "priority": 56600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_HEALTHBOOST_DESC",
+      "id": "2533dcc9858fcdbd",
+      "image": "icon_health.png",
+      "name": "item_HealthBoost_30percent_24h",
+      "name_placeholder": "ITEM_HEALTHBOOST_30PERCENT_24H_NAME",
+      "priority": 56700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_HEALTHBOOST_DESC",
+      "id": "20d7e1a880755576",
+      "image": "icon_health.png",
+      "name": "item_HealthBoost_30percent_7d",
+      "name_placeholder": "ITEM_HEALTHBOOST_30PERCENT_7D_NAME",
+      "priority": 56800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_DEFENSEBOOST_DESC",
+      "id": "c29b02fd55be779",
+      "image": "icon_defense.png",
+      "name": "item_DefenseBoost_10percent_1h",
+      "name_placeholder": "ITEM_DEFENSEBOOST_10PERCENT_1H_NAME",
+      "priority": 56900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_DEFENSEBOOST_DESC",
+      "id": "17c1b5fe1a56f5a0",
+      "image": "icon_defense.png",
+      "name": "item_DefenseBoost_10percent_6h",
+      "name_placeholder": "ITEM_DEFENSEBOOST_10PERCENT_6H_NAME",
+      "priority": 57000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_DEFENSEBOOST_DESC",
+      "id": "df25b3e1547a5e65",
+      "image": "icon_defense.png",
+      "name": "item_DefenseBoost_10percent_12h",
+      "name_placeholder": "ITEM_DEFENSEBOOST_10PERCENT_12H_NAME",
+      "priority": 57100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_DEFENSEBOOST_DESC",
+      "id": "1605260a0c042351",
+      "image": "icon_defense.png",
+      "name": "item_DefenseBoost_10percent_24h",
+      "name_placeholder": "ITEM_DEFENSEBOOST_10PERCENT_24H_NAME",
+      "priority": 57200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_DEFENSEBOOST_DESC",
+      "id": "17cfa3c2251793d",
+      "image": "icon_defense.png",
+      "name": "item_DefenseBoost_20percent_12h",
+      "name_placeholder": "ITEM_DEFENSEBOOST_20PERCENT_12H_NAME",
+      "priority": 57300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_DEFENSEBOOST_DESC",
+      "id": "c85c6fd77a2f0409",
+      "image": "icon_defense.png",
+      "name": "item_DefenseBoost_20percent_24h",
+      "name_placeholder": "ITEM_DEFENSEBOOST_20PERCENT_24H_NAME",
+      "priority": 57400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_DEFENSEBOOST_DESC",
+      "id": "e38e6344a44a8ef7",
+      "image": "icon_defense.png",
+      "name": "item_DefenseBoost_20percent_7d",
+      "name_placeholder": "ITEM_DEFENSEBOOST_20PERCENT_7D_NAME",
+      "priority": 57500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_DEFENSEBOOST_DESC",
+      "id": "6b6625237054e3cf",
+      "image": "icon_defense.png",
+      "name": "item_DefenseBoost_25percent_12h",
+      "name_placeholder": "ITEM_DEFENSEBOOST_25PERCENT_12H_NAME",
+      "priority": 57600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_DEFENSEBOOST_DESC",
+      "id": "a246b0c8282a9efb",
+      "image": "icon_defense.png",
+      "name": "item_DefenseBoost_25percent_24h",
+      "name_placeholder": "ITEM_DEFENSEBOOST_25PERCENT_24H_NAME",
+      "priority": 57700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_DEFENSEBOOST_DESC",
+      "id": "48fafb3ba1c4f3c3",
+      "image": "icon_defense.png",
+      "name": "item_DefenseBoost_25percent_7d",
+      "name_placeholder": "ITEM_DEFENSEBOOST_25PERCENT_7D_NAME",
+      "priority": 57800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_DEFENSEBOOST_DESC",
+      "id": "caddfca4372d5eec",
+      "image": "icon_defense.png",
+      "name": "item_DefenseBoost_30percent_12h",
+      "name_placeholder": "ITEM_DEFENSEBOOST_30PERCENT_12H_NAME",
+      "priority": 57900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_DEFENSEBOOST_DESC",
+      "id": "3fd694f6f5323d8",
+      "image": "icon_defense.png",
+      "name": "item_DefenseBoost_30percent_24h",
+      "name_placeholder": "ITEM_DEFENSEBOOST_30PERCENT_24H_NAME",
+      "priority": 58000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_DEFENSEBOOST_DESC",
+      "id": "92db8a640d8f83",
+      "image": "icon_defense.png",
+      "name": "item_DefenseBoost_30percent_7d",
+      "name_placeholder": "ITEM_DEFENSEBOOST_30PERCENT_7D_NAME",
+      "priority": 58100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_UPKEEPREDUCER_DESC",
+      "id": "c90acab306d0df82",
+      "image": "icon_small_upkeep.png",
+      "name": "item_UpkeepReducer_25percent_1h",
+      "name_placeholder": "ITEM_UPKEEPREDUCER_25PERCENT_1H_NAME",
+      "priority": 58200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_UPKEEPREDUCER_DESC",
+      "id": "d2e2cf62c9ddcd5b",
+      "image": "icon_small_upkeep.png",
+      "name": "item_UpkeepReducer_25percent_6h",
+      "name_placeholder": "ITEM_UPKEEPREDUCER_25PERCENT_6H_NAME",
+      "priority": 58300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_UPKEEPREDUCER_DESC",
+      "id": "f61ec6b0404f6705",
+      "image": "icon_small_upkeep.png",
+      "name": "item_UpkeepReducer_25percent_12h",
+      "name_placeholder": "ITEM_UPKEEPREDUCER_25PERCENT_12H_NAME",
+      "priority": 58400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_UPKEEPREDUCER_DESC",
+      "id": "3f3e535b18311a31",
+      "image": "icon_small_upkeep.png",
+      "name": "item_UpkeepReducer_25percent_24h",
+      "name_placeholder": "ITEM_UPKEEPREDUCER_25PERCENT_24H_NAME",
+      "priority": 58500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_UPKEEPREDUCER_DESC",
+      "id": "95bf23e41aad3977",
+      "image": "icon_small_upkeep.png",
+      "name": "item_UpkeepReducer_25percent_3d",
+      "name_placeholder": "ITEM_UPKEEPREDUCER_25PERCENT_3D_NAME",
+      "priority": 58600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_UPKEEPREDUCER_DESC",
+      "id": "813292fe7ea7fabb",
+      "image": "icon_small_upkeep.png",
+      "name": "item_UpkeepReducer_25percent_7d",
+      "name_placeholder": "ITEM_UPKEEPREDUCER_25PERCENT_7D_NAME",
+      "priority": 58700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_UPKEEPREDUCER_DESC",
+      "id": "b18fb99c6f092efd",
+      "image": "icon_small_upkeep.png",
+      "name": "item_UpkeepReducer_25percent_30d",
+      "name_placeholder": "ITEM_UPKEEPREDUCER_25PERCENT_30D_NAME",
+      "priority": 58800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_UPKEEPREDUCER_DESC",
+      "id": "a08d5b13fab1a689",
+      "image": "icon_largeUpkeep.png",
+      "name": "item_UpkeepReducer_50percent_24h",
+      "name_placeholder": "ITEM_UPKEEPREDUCER_50PERCENT_24H_NAME",
+      "priority": 58900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_UPKEEPREDUCER_DESC",
+      "id": "1052576c84079372",
+      "image": "icon_largeUpkeep.png",
+      "name": "item_UpkeepReducer_50percent_3d",
+      "name_placeholder": "ITEM_UPKEEPREDUCER_50PERCENT_3D_NAME",
+      "priority": 59000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_UPKEEPREDUCER_DESC",
+      "id": "4dfe676e00d50be",
+      "image": "icon_largeUpkeep.png",
+      "name": "item_UpkeepReducer_50percent_7d",
+      "name_placeholder": "ITEM_UPKEEPREDUCER_50PERCENT_7D_NAME",
+      "priority": 59100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_UPKEEPREDUCER_DESC",
+      "id": "2e3cb1d48d899245",
+      "image": "icon_largeUpkeep.png",
+      "name": "item_UpkeepReducer_50percent_30d",
+      "name_placeholder": "ITEM_UPKEEPREDUCER_50PERCENT_30D_NAME",
+      "priority": 59200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_ANTISCOUT_DESC",
+      "id": "9d22e33177e61b0",
+      "image": "icon_scout.png",
+      "name": "item_AntiScout_2h",
+      "name_placeholder": "ITEM_ANTISCOUT_2H_NAME",
+      "priority": 59300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_ANTISCOUT_DESC",
+      "id": "a1a0f07850c4e636",
+      "image": "icon_scout.png",
+      "name": "item_AntiScout_12h",
+      "name_placeholder": "ITEM_ANTISCOUT_12H_NAME",
+      "priority": 59400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_ANTISCOUT_DESC",
+      "id": "6880659308ba9b02",
+      "image": "icon_scout.png",
+      "name": "item_AntiScout_24h",
+      "name_placeholder": "ITEM_ANTISCOUT_24H_NAME",
+      "priority": 59500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_ANTISCOUT_DESC",
+      "id": "5a0273afa0045650",
+      "image": "icon_scout.png",
+      "name": "item_AntiScout_3d",
+      "name_placeholder": "ITEM_ANTISCOUT_3D_NAME",
+      "priority": 59600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PLOTBOOST_DESC",
+      "id": "f86ca80ab3de657d",
+      "image": "icon_structure_farm.png",
+      "name": "item_FarmPlotBoost_100percent_24h",
+      "name_placeholder": "ITEM_FARMPLOTBOOST_100PERCENT_24H_NAME",
+      "priority": 59700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PLOTBOOST_DESC",
+      "id": "f78e4ffe74fc1c4a",
+      "image": "icon_structure_sawmill.png",
+      "name": "item_SawmillPlotBoost_100percent_24h",
+      "name_placeholder": "ITEM_SAWMILLPLOTBOOST_100PERCENT_24H_NAME",
+      "priority": 59800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PLOTBOOST_DESC",
+      "id": "f9c945fb47c4fb12",
+      "image": "icon_itm_quarry.png",
+      "name": "item_StoneQuarryPlotBoost_100percent_24h",
+      "name_placeholder": "ITEM_STONEQUARRYPLOTBOOST_100PERCENT_24H_NAME",
+      "priority": 59900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PLOTBOOST_DESC",
+      "id": "490333963c0afc69",
+      "image": "icon_itm_mine.png",
+      "name": "item_IronMinePlotBoost_100percent_24h",
+      "name_placeholder": "ITEM_IRONMINEPLOTBOOST_100PERCENT_24H_NAME",
+      "priority": 60000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MARCHSPEEDUP_DESC",
+      "id": "3c6c9212b9d82849",
+      "image": "icon_march.png",
+      "name": "item_MarchSpeedup_25percent",
+      "name_placeholder": "ITEM_MARCHSPEEDUP_25PERCENT_NAME",
+      "priority": 60100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MARCHSPEEDUP_DESC",
+      "id": "c7f268e3729734ac",
+      "image": "icon_march.png",
+      "name": "item_MarchSpeedup_50percent",
+      "name_placeholder": "ITEM_MARCHSPEEDUP_50PERCENT_NAME",
+      "priority": 60200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MARCHSPEEDUP_DESC",
+      "id": "9018698106f2fdcb",
+      "image": "icon_march.png",
+      "name": "item_MarchSpeedup_75percent",
+      "name_placeholder": "ITEM_MARCHSPEEDUP_75PERCENT_NAME",
+      "priority": 60300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MARCHSPEEDBOOST_DESC",
+      "id": "7c617dac6ebb2857",
+      "image": "icon_march.png",
+      "name": "item_MarchSpeedBoost_10percent_12h",
+      "name_placeholder": "ITEM_MARCHSPEEDBOOST_10PERCENT_12H_NAME",
+      "priority": 60400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MARCHSPEEDBOOST_DESC",
+      "id": "b541e84736c55563",
+      "image": "icon_march.png",
+      "name": "item_MarchSpeedBoost_10percent_24h",
+      "name_placeholder": "ITEM_MARCHSPEEDBOOST_10PERCENT_24H_NAME",
+      "priority": 60500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MARCHSPEEDBOOST_DESC",
+      "id": "a238347118900f0f",
+      "image": "icon_march.png",
+      "name": "item_MarchSpeedBoost_20percent_12h",
+      "name_placeholder": "ITEM_MARCHSPEEDBOOST_20PERCENT_12H_NAME",
+      "priority": 60600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MARCHSPEEDBOOST_DESC",
+      "id": "6b18a19a40ee723b",
+      "image": "icon_march.png",
+      "name": "item_MarchSpeedBoost_20percent_24h",
+      "name_placeholder": "ITEM_MARCHSPEEDBOOST_20PERCENT_24H_NAME",
+      "priority": 60700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MARCHSPEEDBOOST_DESC",
+      "id": "d33f4f1703b932ca",
+      "image": "icon_march.png",
+      "name": "item_MarchSpeedBoost_20percent_7d",
+      "name_placeholder": "ITEM_MARCHSPEEDBOOST_20PERCENT_7D_NAME",
+      "priority": 60800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MARCHSPEEDBOOST_DESC",
+      "id": "c822eb6e4a9595fd",
+      "image": "icon_march.png",
+      "name": "item_MarchSpeedBoost_25percent_12h",
+      "name_placeholder": "ITEM_MARCHSPEEDBOOST_25PERCENT_12H_NAME",
+      "priority": 60900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MARCHSPEEDBOOST_DESC",
+      "id": "1027e8512ebe8c9",
+      "image": "icon_march.png",
+      "name": "item_MarchSpeedBoost_25percent_24h",
+      "name_placeholder": "ITEM_MARCHSPEEDBOOST_25PERCENT_24H_NAME",
+      "priority": 61000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MARCHSPEEDBOOST_DESC",
+      "id": "784bd76806374ffe",
+      "image": "icon_march.png",
+      "name": "item_MarchSpeedBoost_25percent_7d",
+      "name_placeholder": "ITEM_MARCHSPEEDBOOST_25PERCENT_7D_NAME",
+      "priority": 61100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MARCHSPEEDBOOST_DESC",
+      "id": "699932e90dec28de",
+      "image": "icon_march.png",
+      "name": "item_MarchSpeedBoost_30percent_12h",
+      "name_placeholder": "ITEM_MARCHSPEEDBOOST_30PERCENT_12H_NAME",
+      "priority": 61200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MARCHSPEEDBOOST_DESC",
+      "id": "a0b9a702559255ea",
+      "image": "icon_march.png",
+      "name": "item_MarchSpeedBoost_30percent_24h",
+      "name_placeholder": "ITEM_MARCHSPEEDBOOST_30PERCENT_24H_NAME",
+      "priority": 61300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MARCHSPEEDBOOST_DESC",
+      "id": "3023f7d9c3fe33be",
+      "image": "icon_march.png",
+      "name": "item_MarchSpeedBoost_30percent_7d",
+      "name_placeholder": "ITEM_MARCHSPEEDBOOST_30PERCENT_7D_NAME",
+      "priority": 61400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MARCHSPEEDBOOSTVSRESOURCE_DESC",
+      "id": "74e0dcdfb8dfc439",
+      "image": "icon_buff_marching_resource.png",
+      "name": "item_MarchSpeedBoostVsResource_10percent_12h",
+      "name_placeholder": "ITEM_MARCHSPEEDBOOSTVSRESOURCE_10PERCENT_12H_NAME",
+      "priority": 61500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MARCHSPEEDBOOSTVSRESOURCE_DESC",
+      "id": "bdc04934e0a1b90d",
+      "image": "icon_buff_marching_resource.png",
+      "name": "item_MarchSpeedBoostVsResource_10percent_24h",
+      "name_placeholder": "ITEM_MARCHSPEEDBOOSTVSRESOURCE_10PERCENT_24H_NAME",
+      "priority": 61600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MARCHSPEEDBOOSTVSRESOURCE_DESC",
+      "id": "aab99502cef4e361",
+      "image": "icon_buff_marching_resource.png",
+      "name": "item_MarchSpeedBoostVsResource_20percent_12h",
+      "name_placeholder": "ITEM_MARCHSPEEDBOOSTVSRESOURCE_20PERCENT_12H_NAME",
+      "priority": 61700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MARCHSPEEDBOOSTVSRESOURCE_DESC",
+      "id": "639900e9968a9e55",
+      "image": "icon_buff_marching_resource.png",
+      "name": "item_MarchSpeedBoostVsResource_20percent_24h",
+      "name_placeholder": "ITEM_MARCHSPEEDBOOSTVSRESOURCE_20PERCENT_24H_NAME",
+      "priority": 61800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MARCHSPEEDBOOSTVSRESOURCE_DESC",
+      "id": "ca6be021d663c843",
+      "image": "icon_buff_marching_resource.png",
+      "name": "item_MarchSpeedBoostVsResource_20percent_7d",
+      "name_placeholder": "ITEM_MARCHSPEEDBOOSTVSRESOURCE_20PERCENT_7D_NAME",
+      "priority": 61900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MARCHSPEEDBOOSTVSRESOURCE_DESC",
+      "id": "c0a34a1d9cf17993",
+      "image": "icon_buff_marching_resource.png",
+      "name": "item_MarchSpeedBoostVsResource_25percent_12h",
+      "name_placeholder": "ITEM_MARCHSPEEDBOOSTVSRESOURCE_25PERCENT_12H_NAME",
+      "priority": 62000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MARCHSPEEDBOOSTVSRESOURCE_DESC",
+      "id": "983dff6c48f04a7",
+      "image": "icon_buff_marching_resource.png",
+      "name": "item_MarchSpeedBoostVsResource_25percent_24h",
+      "name_placeholder": "ITEM_MARCHSPEEDBOOSTVSRESOURCE_25PERCENT_24H_NAME",
+      "priority": 62100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MARCHSPEEDBOOSTVSRESOURCE_DESC",
+      "id": "611f785ed3edb577",
+      "image": "icon_buff_marching_resource.png",
+      "name": "item_MarchSpeedBoostVsResource_25percent_7d",
+      "name_placeholder": "ITEM_MARCHSPEEDBOOSTVSRESOURCE_25PERCENT_7D_NAME",
+      "priority": 62200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MARCHSPEEDBOOSTVSRESOURCE_DESC",
+      "id": "6118939adb88c4b0",
+      "image": "icon_buff_marching_resource.png",
+      "name": "item_MarchSpeedBoostVsResource_30percent_12h",
+      "name_placeholder": "ITEM_MARCHSPEEDBOOSTVSRESOURCE_30PERCENT_12H_NAME",
+      "priority": 62300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MARCHSPEEDBOOSTVSRESOURCE_DESC",
+      "id": "a838067183f6b984",
+      "image": "icon_buff_marching_resource.png",
+      "name": "item_MarchSpeedBoostVsResource_30percent_24h",
+      "name_placeholder": "ITEM_MARCHSPEEDBOOSTVSRESOURCE_30PERCENT_24H_NAME",
+      "priority": 62400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MARCHSPEEDBOOSTVSRESOURCE_DESC",
+      "id": "297758ef1624c937",
+      "image": "icon_buff_marching_resource.png",
+      "name": "item_MarchSpeedBoostVsResource_30percent_7d",
+      "name_placeholder": "ITEM_MARCHSPEEDBOOSTVSRESOURCE_30PERCENT_7D_NAME",
+      "priority": 62500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MARCHSPEEDBOOSTVSNPC_DESC",
+      "id": "248cb422cc4e145e",
+      "image": "icon_buff_marching_npc.png",
+      "name": "item_MarchSpeedBoostVsNPC_10percent_12h",
+      "name_placeholder": "ITEM_MARCHSPEEDBOOSTVSNPC_10PERCENT_12H_NAME",
+      "priority": 62600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MARCHSPEEDBOOSTVSNPC_DESC",
+      "id": "edac21c99430696a",
+      "image": "icon_buff_marching_npc.png",
+      "name": "item_MarchSpeedBoostVsNPC_10percent_24h",
+      "name_placeholder": "ITEM_MARCHSPEEDBOOSTVSNPC_10PERCENT_24H_NAME",
+      "priority": 62700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MARCHSPEEDBOOSTVSNPC_DESC",
+      "id": "fad5fdffba653306",
+      "image": "icon_buff_marching_npc.png",
+      "name": "item_MarchSpeedBoostVsNPC_20percent_12h",
+      "name_placeholder": "ITEM_MARCHSPEEDBOOSTVSNPC_20PERCENT_12H_NAME",
+      "priority": 62800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MARCHSPEEDBOOSTVSNPC_DESC",
+      "id": "33f56814e21b4e32",
+      "image": "icon_buff_marching_npc.png",
+      "name": "item_MarchSpeedBoostVsNPC_20percent_24h",
+      "name_placeholder": "ITEM_MARCHSPEEDBOOSTVSNPC_20PERCENT_24H_NAME",
+      "priority": 62900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MARCHSPEEDBOOSTVSNPC_DESC",
+      "id": "5fdbceae198980e3",
+      "image": "icon_buff_marching_npc.png",
+      "name": "item_MarchSpeedBoostVsNPC_20percent_7d",
+      "name_placeholder": "ITEM_MARCHSPEEDBOOSTVSNPC_20PERCENT_7D_NAME",
+      "priority": 63000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MARCHSPEEDBOOSTVSNPC_DESC",
+      "id": "90cf22e0e860a9f4",
+      "image": "icon_buff_marching_npc.png",
+      "name": "item_MarchSpeedBoostVsNPC_25percent_12h",
+      "name_placeholder": "ITEM_MARCHSPEEDBOOSTVSNPC_25PERCENT_12H_NAME",
+      "priority": 63100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MARCHSPEEDBOOSTVSNPC_DESC",
+      "id": "59efb70bb01ed4c0",
+      "image": "icon_buff_marching_npc.png",
+      "name": "item_MarchSpeedBoostVsNPC_25percent_24h",
+      "name_placeholder": "ITEM_MARCHSPEEDBOOSTVSNPC_25PERCENT_24H_NAME",
+      "priority": 63200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MARCHSPEEDBOOSTVSNPC_DESC",
+      "id": "f4af56d11c07fdd7",
+      "image": "icon_buff_marching_npc.png",
+      "name": "item_MarchSpeedBoostVsNPC_25percent_7d",
+      "name_placeholder": "ITEM_MARCHSPEEDBOOSTVSNPC_25PERCENT_7D_NAME",
+      "priority": 63300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MARCHSPEEDBOOSTVSNPC_DESC",
+      "id": "3174fb67af1914d7",
+      "image": "icon_buff_marching_npc.png",
+      "name": "item_MarchSpeedBoostVsNPC_30percent_12h",
+      "name_placeholder": "ITEM_MARCHSPEEDBOOSTVSNPC_30PERCENT_12H_NAME",
+      "priority": 63400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MARCHSPEEDBOOSTVSNPC_DESC",
+      "id": "f8546e8cf76769e3",
+      "image": "icon_buff_marching_npc.png",
+      "name": "item_MarchSpeedBoostVsNPC_30percent_24h",
+      "name_placeholder": "ITEM_MARCHSPEEDBOOSTVSNPC_30PERCENT_24H_NAME",
+      "priority": 63500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MARCHSPEEDBOOSTVSNPC_DESC",
+      "id": "bcc77660d9ce8197",
+      "image": "icon_buff_marching_npc.png",
+      "name": "item_MarchSpeedBoostVsNPC_30percent_7d",
+      "name_placeholder": "ITEM_MARCHSPEEDBOOSTVSNPC_30PERCENT_7D_NAME",
+      "priority": 63600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MARCHSPEEDBOOSTVSSEATOFPOWER_DESC",
+      "id": "766aaa2de05427ed",
+      "image": "icon_buff_marching_seatofpower.png",
+      "name": "item_MarchSpeedBoostVsSeatOfPower_10percent_12h",
+      "name_placeholder": "ITEM_MARCHSPEEDBOOSTVSSEATOFPOWER_10PERCENT_12H_NAME",
+      "priority": 63700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MARCHSPEEDBOOSTVSSEATOFPOWER_DESC",
+      "id": "bf4a3fc6b82a5ad9",
+      "image": "icon_buff_marching_seatofpower.png",
+      "name": "item_MarchSpeedBoostVsSeatOfPower_10percent_24h",
+      "name_placeholder": "ITEM_MARCHSPEEDBOOSTVSSEATOFPOWER_10PERCENT_24H_NAME",
+      "priority": 63800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MARCHSPEEDBOOSTVSSEATOFPOWER_DESC",
+      "id": "a833e3f0967f00b5",
+      "image": "icon_buff_marching_seatofpower.png",
+      "name": "item_MarchSpeedBoostVsSeatOfPower_20percent_12h",
+      "name_placeholder": "ITEM_MARCHSPEEDBOOSTVSSEATOFPOWER_20PERCENT_12H_NAME",
+      "priority": 63900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MARCHSPEEDBOOSTVSSEATOFPOWER_DESC",
+      "id": "6113761bce017d81",
+      "image": "icon_buff_marching_seatofpower.png",
+      "name": "item_MarchSpeedBoostVsSeatOfPower_20percent_24h",
+      "name_placeholder": "ITEM_MARCHSPEEDBOOSTVSSEATOFPOWER_20PERCENT_24H_NAME",
+      "priority": 64000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MARCHSPEEDBOOSTVSSEATOFPOWER_DESC",
+      "id": "c7d3d4e68771cd3e",
+      "image": "icon_buff_marching_seatofpower.png",
+      "name": "item_MarchSpeedBoostVsSeatOfPower_20percent_7d",
+      "name_placeholder": "ITEM_MARCHSPEEDBOOSTVSSEATOFPOWER_20PERCENT_7D_NAME",
+      "priority": 64100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MARCHSPEEDBOOSTVSSEATOFPOWER_DESC",
+      "id": "c2293cefc47a9a47",
+      "image": "icon_buff_marching_seatofpower.png",
+      "name": "item_MarchSpeedBoostVsSeatOfPower_25percent_12h",
+      "name_placeholder": "ITEM_MARCHSPEEDBOOSTVSSEATOFPOWER_25PERCENT_12H_NAME",
+      "priority": 64200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MARCHSPEEDBOOSTVSSEATOFPOWER_DESC",
+      "id": "b09a9049c04e773",
+      "image": "icon_buff_marching_seatofpower.png",
+      "name": "item_MarchSpeedBoostVsSeatOfPower_25percent_24h",
+      "name_placeholder": "ITEM_MARCHSPEEDBOOSTVSSEATOFPOWER_25PERCENT_24H_NAME",
+      "priority": 64300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MARCHSPEEDBOOSTVSSEATOFPOWER_DESC",
+      "id": "6ca74c9982ffb00a",
+      "image": "icon_buff_marching_seatofpower.png",
+      "name": "item_MarchSpeedBoostVsSeatOfPower_25percent_7d",
+      "name_placeholder": "ITEM_MARCHSPEEDBOOSTVSSEATOFPOWER_25PERCENT_7D_NAME",
+      "priority": 64400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MARCHSPEEDBOOSTVSSEATOFPOWER_DESC",
+      "id": "6392e56883032764",
+      "image": "icon_buff_marching_seatofpower.png",
+      "name": "item_MarchSpeedBoostVsSeatOfPower_30percent_12h",
+      "name_placeholder": "ITEM_MARCHSPEEDBOOSTVSSEATOFPOWER_30PERCENT_12H_NAME",
+      "priority": 64500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MARCHSPEEDBOOSTVSSEATOFPOWER_DESC",
+      "id": "aab27083db7d5a50",
+      "image": "icon_buff_marching_seatofpower.png",
+      "name": "item_MarchSpeedBoostVsSeatOfPower_30percent_24h",
+      "name_placeholder": "ITEM_MARCHSPEEDBOOSTVSSEATOFPOWER_30PERCENT_24H_NAME",
+      "priority": 64600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MARCHSPEEDBOOSTVSSEATOFPOWER_DESC",
+      "id": "24cf6c284736cc4a",
+      "image": "icon_buff_marching_seatofpower.png",
+      "name": "item_MarchSpeedBoostVsSeatOfPower_30percent_7d",
+      "name_placeholder": "ITEM_MARCHSPEEDBOOSTVSSEATOFPOWER_30PERCENT_7D_NAME",
+      "priority": 64700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MARCHSIZE_DESC",
+      "id": "2301d26cfb1484c1",
+      "image": "dragon_talent_hatchling_march_size_max.png",
+      "name": "item_MarchSize_1000_2h",
+      "name_placeholder": "ITEM_MARCHSIZE_1000_2H_NAME",
+      "priority": 64800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MARCHSIZE_DESC",
+      "id": "f5fedc98be8afa11",
+      "image": "dragon_talent_hatchling_march_size_max.png",
+      "name": "item_MarchSize_1000_12h",
+      "name_placeholder": "ITEM_MARCHSIZE_1000_12H_NAME",
+      "priority": 64900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MARCHSIZE_DESC",
+      "id": "3cde4973e6f48725",
+      "image": "dragon_talent_hatchling_march_size_max.png",
+      "name": "item_MarchSize_1000_24h",
+      "name_placeholder": "ITEM_MARCHSIZE_1000_24H_NAME",
+      "priority": 65000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MARCHSIZE_DESC",
+      "id": "2c6466a7501355d4",
+      "image": "dragon_talent_hatchling_march_size_max.png",
+      "name": "item_MarchSize_1000_1h",
+      "name_placeholder": "ITEM_MARCHSIZE_1000_1H_NAME",
+      "priority": 65100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MARCHSIZE_DESC",
+      "id": "d27bc8a2096972cf",
+      "image": "dragon_talent_hatchling_march_size_max.png",
+      "name": "item_MarchSize_2000_2h",
+      "name_placeholder": "ITEM_MARCHSIZE_2000_2H_NAME",
+      "priority": 65200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MARCHSIZE_DESC",
+      "id": "fa1f001530a6a300",
+      "image": "dragon_talent_hatchling_march_size_max.png",
+      "name": "item_MarchSize_2000_12h",
+      "name_placeholder": "ITEM_MARCHSIZE_2000_12H_NAME",
+      "priority": 65300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MARCHSIZE_DESC",
+      "id": "333f95fe68d8de34",
+      "image": "dragon_talent_hatchling_march_size_max.png",
+      "name": "item_MarchSize_2000_24h",
+      "name_placeholder": "ITEM_MARCHSIZE_2000_24H_NAME",
+      "priority": 65400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MARCHSIZE_DESC",
+      "id": "e5dcb90e2cfe1122",
+      "image": "dragon_talent_hatchling_march_size_max.png",
+      "name": "item_MarchSize_4000_12h",
+      "name_placeholder": "ITEM_MARCHSIZE_4000_12H_NAME",
+      "priority": 65500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MARCHSIZE_DESC",
+      "id": "2cfc2ce574806c16",
+      "image": "dragon_talent_hatchling_march_size_max.png",
+      "name": "item_MarchSize_4000_24h",
+      "name_placeholder": "ITEM_MARCHSIZE_4000_24H_NAME",
+      "priority": 65600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MARCHSIZE_DESC",
+      "id": "f56853cc774d25d4",
+      "image": "dragon_talent_hatchling_march_size_max.png",
+      "name": "item_MarchSize_4000_7d",
+      "name_placeholder": "ITEM_MARCHSIZE_4000_7D_NAME",
+      "priority": 65700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MARCHSIZE_DESC",
+      "id": "da5bcb38144f7566",
+      "image": "dragon_talent_hatchling_march_size_max.png",
+      "name": "item_MarchSize_8000_12h",
+      "name_placeholder": "ITEM_MARCHSIZE_8000_12H_NAME",
+      "priority": 65800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MARCHSIZE_DESC",
+      "id": "137b5ed34c310852",
+      "image": "dragon_talent_hatchling_march_size_max.png",
+      "name": "item_MarchSize_8000_24h",
+      "name_placeholder": "ITEM_MARCHSIZE_8000_24H_NAME",
+      "priority": 65900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_MARCHSIZE_DESC",
+      "id": "35f4bc1d2de463ba",
+      "image": "dragon_talent_hatchling_march_size_max.png",
+      "name": "item_MarchSize_8000_7d",
+      "name_placeholder": "ITEM_MARCHSIZE_8000_7D_NAME",
+      "priority": 66000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "DO NOT USE",
+      "id": "3348d66becc849af",
+      "image": "icon_settings_FAQ.png",
+      "name": "item_elite_mn_writ",
+      "name_placeholder": "DO NOT USE",
+      "priority": 57500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "DO NOT USE",
+      "id": "270ebbee500dae3a",
+      "image": "icon_settings_FAQ.png",
+      "name": "item_elite_mn_bounty_31",
+      "name_placeholder": "DO NOT USE",
+      "priority": 57600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "DO NOT USE",
+      "id": "521ce70589f85c34",
+      "image": "icon_settings_FAQ.png",
+      "name": "item_elite_mn_bounty_32",
+      "name_placeholder": "DO NOT USE",
+      "priority": 57700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "DO NOT USE",
+      "id": "7eed2ca33eab0dce",
+      "image": "icon_settings_FAQ.png",
+      "name": "item_elite_mn_bounty_33",
+      "name_placeholder": "DO NOT USE",
+      "priority": 57800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "DO NOT USE",
+      "id": "b8385ed23a13b828",
+      "image": "icon_settings_FAQ.png",
+      "name": "item_elite_mn_bounty_34",
+      "name_placeholder": "DO NOT USE",
+      "priority": 57900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "DO NOT USE",
+      "id": "94c995748d40e9d2",
+      "image": "icon_settings_FAQ.png",
+      "name": "item_elite_mn_bounty_35",
+      "name_placeholder": "DO NOT USE",
+      "priority": 58000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "DO NOT USE",
+      "id": "e1dbc99f54b51bdc",
+      "image": "icon_settings_FAQ.png",
+      "name": "item_elite_mn_bounty_36",
+      "name_placeholder": "DO NOT USE",
+      "priority": 58100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "DO NOT USE",
+      "id": "cd2a0239e3e64a26",
+      "image": "icon_settings_FAQ.png",
+      "name": "item_elite_mn_bounty_37",
+      "name_placeholder": "DO NOT USE",
+      "priority": 58200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "DO NOT USE",
+      "id": "eecb6f08146b3f3b",
+      "image": "icon_settings_FAQ.png",
+      "name": "item_elite_mn_bounty_38",
+      "name_placeholder": "DO NOT USE",
+      "priority": 58300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "DO NOT USE",
+      "id": "c23aa4aea3386ec1",
+      "image": "icon_settings_FAQ.png",
+      "name": "item_elite_mn_bounty_39",
+      "name_placeholder": "DO NOT USE",
+      "priority": 58400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "DO NOT USE",
+      "id": "101775992853ed19",
+      "image": "icon_settings_FAQ.png",
+      "name": "item_elite_mn_bounty_40",
+      "name_placeholder": "DO NOT USE",
+      "priority": 58500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "DO NOT USE",
+      "id": "39dd59c9a562d9e3",
+      "image": "icon_settings_FAQ.png",
+      "name": "item_elite_mn_bounty_reward_31",
+      "name_placeholder": "DO NOT USE",
+      "priority": 58600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "DO NOT USE",
+      "id": "4ccf05227c972bed",
+      "image": "icon_settings_FAQ.png",
+      "name": "item_elite_mn_bounty_reward_32",
+      "name_placeholder": "DO NOT USE",
+      "priority": 58700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "DO NOT USE",
+      "id": "603ece84cbc47a17",
+      "image": "icon_settings_FAQ.png",
+      "name": "item_elite_mn_bounty_reward_33",
+      "name_placeholder": "DO NOT USE",
+      "priority": 58800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "DO NOT USE",
+      "id": "a6ebbcf5cf7ccff1",
+      "image": "icon_settings_FAQ.png",
+      "name": "item_elite_mn_bounty_reward_34",
+      "name_placeholder": "DO NOT USE",
+      "priority": 58900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "DO NOT USE",
+      "id": "8a1a7753782f9e0b",
+      "image": "icon_settings_FAQ.png",
+      "name": "item_elite_mn_bounty_reward_35",
+      "name_placeholder": "DO NOT USE",
+      "priority": 59000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "DO NOT USE",
+      "id": "ff082bb8a1da6c05",
+      "image": "icon_settings_FAQ.png",
+      "name": "item_elite_mn_bounty_reward_36",
+      "name_placeholder": "DO NOT USE",
+      "priority": 59100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "DO NOT USE",
+      "id": "d3f9e01e16893dff",
+      "image": "icon_settings_FAQ.png",
+      "name": "item_elite_mn_bounty_reward_37",
+      "name_placeholder": "DO NOT USE",
+      "priority": 59200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "DO NOT USE",
+      "id": "f0188d2fe10448e2",
+      "image": "icon_settings_FAQ.png",
+      "name": "item_elite_mn_bounty_reward_38",
+      "name_placeholder": "DO NOT USE",
+      "priority": 59300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "DO NOT USE",
+      "id": "dce9468956571918",
+      "image": "icon_settings_FAQ.png",
+      "name": "item_elite_mn_bounty_reward_39",
+      "name_placeholder": "DO NOT USE",
+      "priority": 59400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "DO NOT USE",
+      "id": "ec497bedd3c9ac0",
+      "image": "icon_settings_FAQ.png",
+      "name": "item_elite_mn_bounty_reward_40",
+      "name_placeholder": "DO NOT USE",
+      "priority": 59500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_LCI_2019_LAUNCH_REWARDBOX_DESC",
+      "id": "b2673394a4a1c792",
+      "image": "icon_itm_resource_chest_01.png",
+      "name": "item_levelcapincrease_2019_launch_rewardbox",
+      "name_placeholder": "ITEM_LCI_2019_LAUNCH_REWARDBOX",
+      "priority": 59600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_ANNIVERSARY_TROOPATTACK_BOOST_REWARDBOX_DESC",
+      "id": "ffbc9be208e4ef",
+      "image": "icon_attack.png",
+      "name": "item_anniversary_troopattack_boost_rewardbox",
+      "name_placeholder": "ITEM_ANNIVERSARY_TROOPATTACK_BOOST_REWARDBOX_NAME",
+      "priority": 59700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "DO NOT USE",
+      "id": "a4c5ebb0c7a13a4b",
+      "image": "icon_resource_lordExp.png",
+      "name": "item_boost_TroopAttackVsPlayerSeatOfPower_mtx",
+      "name_placeholder": "ITEM_BOOST_TROOPATTACKVSPLAYERSEATOFPOWER_MTX",
+      "priority": 69700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_REDTEMPLE_LAUNCH_REWARDBOX_DESC",
+      "id": "99b7a041beaba99a",
+      "image": "icon_itm_resource_chest_01.png",
+      "name": "item_redtemple_light_launch_2_rewardbox",
+      "name_placeholder": "ITEM_REDTEMPLE_LAUNCH_REWARDBOX",
+      "priority": 69900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_FREEIAPGIFT_RESOURCE_REWARDBOX_DESC",
+      "id": "54d752df333b0cb7",
+      "image": "icon_itm_resource_chest_01.png",
+      "name": "item_freeiapgift_resource_rewardbox_1",
+      "name_placeholder": "ITEM_FREEIAPGIFT_RESOURCE_REWARDBOX",
+      "priority": 70100,
+      "type": "item"
+    }
+  ]
+}
