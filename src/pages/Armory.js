@@ -24,11 +24,6 @@ function Armory() {
 
   const armoryNames = armories.map((armory) => armory.name);
   const armory = armories[currentArmoryIndex];
-  const armoryStat1 = armory["bonus_1"];
-  console.log(
-    `Armory stat 1: ${armoryStat1["name"]} (${armoryStat1["description"]}), value: ${armoryStat1["progression"][currentArmoryLevelIndex]}`
-  );
-
   return (
     <React.Fragment>
       <NavBar
@@ -50,7 +45,7 @@ function Armory() {
       />
 
       <Container maxWidth="lg">
-        <Grid container spacing={2} sx={{ px: 0, py: 1 }}>
+        <Grid container spacing={2} sx={{ px: 0, py: 2 }}>
           <Grid item xs={12} md={6} sx={{ p: 0 }}>
             <Card sx={{ color: "white" }}>
               <CardHeader
