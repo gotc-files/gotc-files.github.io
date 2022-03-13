@@ -1,28 +1,11 @@
-import { CardContent, makeStyles, Tooltip } from "@material-ui/core";
-import Card from "@material-ui/core/Card";
-import CardHeader from "@material-ui/core/CardHeader";
-import Table from "@material-ui/core/Table";
-import TableBody from "@material-ui/core/TableBody";
-import TableCell from "@material-ui/core/TableCell";
-import TableRow from "@material-ui/core/TableRow";
+import { CardContent, Tooltip } from "@mui/material";
+import Card from "@mui/material/Card";
+import CardHeader from "@mui/material/CardHeader";
+import Table from "@mui/material/Table";
+import TableBody from "@mui/material/TableBody";
+import TableCell from "@mui/material/TableCell";
+import TableRow from "@mui/material/TableRow";
 import React from "react";
-
-const useStyles = makeStyles((theme) => ({
-  header: {
-    color: "white",
-  },
-  content: {
-    padding: theme.spacing(0.5, 0, 0, 0),
-    "&:last-child": {
-      paddingBottom: 0,
-    },
-  },
-  tableRow: {
-    "&:last-child th, &:last-child td": {
-      borderBottom: 0,
-    },
-  },
-}));
 
 function formatNumber(num) {
   if (num === Math.floor(num) && num > 10) {
@@ -32,20 +15,35 @@ function formatNumber(num) {
 }
 
 function StatsTable(props) {
-  const classes = useStyles();
   return (
     <Card>
       <CardHeader
-        className={classes.header}
         style={{ backgroundColor: props.color }}
+        sx={{ color: "white" }}
         title={props.title}
         titleTypographyProps={{ variant: "h6" }}
       />
-      <CardContent className={classes.content}>
+      <CardContent
+        sx={{
+          pt: 0.5,
+          px: 0,
+          pb: 0,
+          "&:last-child": {
+            pb: 0.5,
+          },
+        }}
+      >
         <Table>
           <TableBody>
             {props.stats.map((stats, index) => (
-              <TableRow key={index} className={classes.tableRow}>
+              <TableRow
+                key={index}
+                sx={{
+                  "&:last-child th, &:last-child td": {
+                    borderBottom: 0,
+                  },
+                }}
+              >
                 <Tooltip title={stats.description}>
                   <TableCell size="small">{stats.name}</TableCell>
                 </Tooltip>

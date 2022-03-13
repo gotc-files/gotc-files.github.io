@@ -1,7 +1,7 @@
-import Button from "@material-ui/core/Button";
-import Menu from "@material-ui/core/Menu";
-import MenuItem from "@material-ui/core/MenuItem";
-import ExpandMoreIcon from "@material-ui/icons/ExpandMore";
+import Button from "@mui/material/Button";
+import Menu from "@mui/material/Menu";
+import MenuItem from "@mui/material/MenuItem";
+import { ExpandMore } from "@mui/icons-material";
 import React, { useState } from "react";
 
 function NavBarSelect(props) {
@@ -24,7 +24,7 @@ function NavBarSelect(props) {
     <React.Fragment>
       <Button color="inherit" onClick={handleMenuButtonClick}>
         <span>{props.currentChoice}</span>
-        <ExpandMoreIcon fontSize="small" />
+        <ExpandMore fontSize="small" />
       </Button>
       <Menu
         id={`${props.name}-menu`}

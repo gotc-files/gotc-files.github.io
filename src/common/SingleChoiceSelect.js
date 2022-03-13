@@ -1,10 +1,4 @@
-import {
-  FormControl,
-  InputLabel,
-  makeStyles,
-  MenuItem,
-  Select,
-} from "@material-ui/core";
+import { FormControl, InputLabel, MenuItem, Select } from "@mui/material";
 
 function formatLabel(name) {
   return name
@@ -13,21 +7,13 @@ function formatLabel(name) {
     .join(" ");
 }
 
-const useStyles = makeStyles((theme) => ({
-  select: {
-    margin: theme.spacing(1),
-    minWidth: 100,
-  },
-}));
-
 function SingleChoiceSelect(props) {
-  const classes = useStyles();
   const handleChange = (event) => {
     props.handleChoiceChange(event.target.value);
   };
 
   return (
-    <FormControl className={classes.select}>
+    <FormControl sx={{ margin: 1, minWidth: 100 }}>
       <InputLabel id={props.name} color="primary">
         {formatLabel(props.name)}
       </InputLabel>

@@ -1,21 +1,13 @@
-import { makeStyles } from "@material-ui/core";
-import AppBar from "@material-ui/core/AppBar";
-import Toolbar from "@material-ui/core/Toolbar";
-import Typography from "@material-ui/core/Typography";
+import AppBar from "@mui/material/AppBar";
+import Toolbar from "@mui/material/Toolbar";
+import Typography from "@mui/material/Typography";
 import NavBarSelect from "./NavBarSelect";
 
-const useStyles = makeStyles((theme) => ({
-  navTitle: {
-    margin: theme.spacing(1, 5, 1, 1),
-  },
-}));
-
 function NavBar(props) {
-  const classes = useStyles();
   return (
     <AppBar position="static">
       <Toolbar color="secondary.main">
-        <Typography className={classes.navTitle} variant="h6">
+        <Typography variant="h6" sx={{ ml: 1, mr: 5, my: 1 }}>
           {props.title}
         </Typography>
         {props.selectArgsList.map((selectArgs) => (

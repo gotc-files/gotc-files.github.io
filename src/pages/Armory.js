@@ -1,9 +1,8 @@
-import { CardContent } from "@material-ui/core";
-import Card from "@material-ui/core/Card";
-import CardHeader from "@material-ui/core/CardHeader";
-import Container from "@material-ui/core/Container";
-import Grid from "@material-ui/core/Grid";
-import { makeStyles } from "@material-ui/core/styles";
+import { CardContent } from "@mui/material";
+import Card from "@mui/material/Card";
+import CardHeader from "@mui/material/CardHeader";
+import Container from "@mui/material/Container";
+import Grid from "@mui/material/Grid";
 import React, { useState } from "react";
 import NavBar from "../common/NavBar";
 import SingleChoiceSelect from "../common/SingleChoiceSelect";
@@ -15,17 +14,7 @@ const LEVELS = [5, 10, 15, 20, 25, 30, 35, 40, 45, 50];
 const QUALITIES = ["Poor", "Common", "Fine", "Exquisite", "Epic", "Legendary"];
 const ARMORY_COLLECTION_LEVELS = [...Array(236).keys()].map((i) => i + 1);
 
-const useStyles = makeStyles((theme) => ({
-  mainCard: {
-    color: "white",
-  },
-  container: {
-    margin: theme.spacing(3, 0, 3, 0),
-  },
-}));
-
 function Armory() {
-  const classes = useStyles();
   const [currentLevel, setCurrentLevel] = useState(40);
   const [currentQualityIndex, setCurrentQualityIndex] = useState(2);
   const [currentArmoryIndex, setCurrentArmoryIndex] = useState(
@@ -61,9 +50,9 @@ function Armory() {
       />
 
       <Container maxWidth="lg">
-        <Grid container spacing={2} className={classes.container}>
-          <Grid item xs={12} md={6}>
-            <Card className={classes.mainCard}>
+        <Grid container spacing={2} sx={{ px: 0, py: 1 }}>
+          <Grid item xs={12} md={6} sx={{ p: 0 }}>
+            <Card sx={{ color: "white" }}>
               <CardHeader
                 title={armory.name}
                 subheader={armory.description}
