@@ -4,7 +4,7 @@ import CardHeader from "@mui/material/CardHeader";
 import Container from "@mui/material/Container";
 import Grid from "@mui/material/Grid";
 import useLocalStorage from "@rehooks/local-storage";
-import React, { useState } from "react";
+import React from "react";
 import { Navigate, useParams } from "react-router-dom";
 import NavBar from "../common/NavBar";
 import SingleChoiceSelect from "../common/SingleChoiceSelect";

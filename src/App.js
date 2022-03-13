@@ -3,7 +3,7 @@ import {
   ThemeProvider,
   StyledEngineProvider,
 } from "@mui/material/styles";
-import { BrowserRouter, Route, Routes } from "react-router-dom";
+import { HashRouter, Route, Routes } from "react-router-dom";
 import Armory from "./pages/Armory";
 import Home from "./pages/Home";
 
@@ -11,7 +11,7 @@ const theme = createTheme();
 
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <StyledEngineProvider injectFirst>
         <ThemeProvider theme={theme}>
           <Routes>
@@ -21,7 +21,7 @@ function App() {
           </Routes>
         </ThemeProvider>
       </StyledEngineProvider>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
