@@ -3,9 +3,11 @@ import Menu from "@mui/material/Menu";
 import MenuItem from "@mui/material/MenuItem";
 import { ExpandMore } from "@mui/icons-material";
 import React, { useState } from "react";
+import { useNavigate } from "react-router-dom";
 
 function NavBarSelect(props) {
   const [menu, setMenu] = useState(null);
+  let navigate = useNavigate();
 
   const handleMenuClose = () => {
     setMenu(null);
@@ -16,32 +18,37 @@ function NavBarSelect(props) {
   };
 
   const handleChoiceItemClick = (choice) => {
-    props.handleChoiceChange(choice);
     handleMenuClose();
+    navigate(choice.link);
   };
 
   return (
     <React.Fragment>
       <Button color="inherit" onClick={handleMenuButtonClick}>
-        <span>{props.currentChoice}</span>
+        <span>
+          {
+            props.choices.find((choice) => choice.id === props.currentChoiceId)
+              .name
+          }
+        </span>
         <ExpandMore fontSize="small" />
       </Button>
       <Menu
-        id={`${props.name}-menu`}
-        key={`${props.name}-menu`}
+        id={`${props.id}-menu`}
+        key={`${props.id}-menu`}
         anchorEl={menu}
         open={Boolean(menu)}
         onClose={handleMenuClose}
       >
         {props.choices.map((choice) => (
           <MenuItem
-            key={choice}
-            selected={props.currentChoice === choice}
+            key={choice.id}
+            selected={props.currentChoiceId === choice.id}
             onClick={() => {
               handleChoiceItemClick(choice);
             }}
           >
-            {choice}
+            {choice.name}
           </MenuItem>
         ))}
       </Menu>

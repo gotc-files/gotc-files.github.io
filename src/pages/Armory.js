@@ -3,7 +3,9 @@ import Card from "@mui/material/Card";
 import CardHeader from "@mui/material/CardHeader";
 import Container from "@mui/material/Container";
 import Grid from "@mui/material/Grid";
+import useLocalStorage from "@rehooks/local-storage";
 import React, { useState } from "react";
+import { Navigate, useParams } from "react-router-dom";
 import NavBar from "../common/NavBar";
 import SingleChoiceSelect from "../common/SingleChoiceSelect";
 import StatsTable from "../common/StatsTable";
@@ -15,15 +17,24 @@ const QUALITIES = ["Poor", "Common", "Fine", "Exquisite", "Epic", "Legendary"];
 const ARMORY_COLLECTION_LEVELS = [...Array(236).keys()].map((i) => i + 1);
 
 function Armory() {
-  const [currentLevel, setCurrentLevel] = useState(40);
-  const [currentQualityIndex, setCurrentQualityIndex] = useState(2);
-  const [currentArmoryIndex, setCurrentArmoryIndex] = useState(
-    armories.length - 1
+  const urlParams = useParams();
+  const [currentLevel, setCurrentLevel] = useLocalStorage("armory-level", 40);
+  const [currentQualityIndex, setCurrentQualityIndex] = useLocalStorage(
+    "armory-quality-index",
+    2
   );
-  const [currentArmoryLevelIndex, setCurrentArmoryLevelIndex] = useState(165);
+  const [currentArmoryLevelIndex, setCurrentArmoryLevelIndex] = useLocalStorage(
+    "armory-collection-level",
+    165
+  );
 
-  const armoryNames = armories.map((armory) => armory.name);
-  const armory = armories[currentArmoryIndex];
+  if (!urlParams.armoryId) {
+    return (
+      <Navigate replace to={`/armory/${armories[armories.length - 1].id}`} />
+    );
+  }
+
+  const armory = armories.find((armory) => armory.id === urlParams.armoryId);
   return (
     <React.Fragment>
       <NavBar
@@ -31,15 +42,12 @@ function Armory() {
         selectArgsList={[
           {
             name: "gear-set",
-            choices: armoryNames,
-            currentChoice: armory.name,
-            handleChoiceChange: (currentArmoryName) => {
-              setCurrentArmoryIndex(
-                armoryNames.findIndex(
-                  (armoryName) => armoryName === currentArmoryName
-                )
-              );
-            },
+            choices: armories.map((armory) => ({
+              id: armory.id,
+              name: armory.name,
+              link: `/armory/${armory.id}`,
+            })),
+            currentChoiceId: urlParams.armoryId,
           },
         ]}
       />
@@ -102,8 +110,8 @@ function Armory() {
             />
           </Grid>
           {["helmet", "weapon", "chest", "ring", "pants", "boots"].map(
-            (slot) => (
-              <Grid item xs={12} md={6}>
+            (slot, index) => (
+              <Grid item xs={12} md={6} key={index}>
                 <GearStatsCard
                   armory={armory}
                   gear={armory[slot]}
