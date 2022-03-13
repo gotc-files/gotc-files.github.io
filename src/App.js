@@ -11,7 +11,7 @@ const theme = createTheme({
   },
 });
 
-function App(props) {
+function App() {
   return (
     <ThemeProvider theme={theme}>
       <Armory />

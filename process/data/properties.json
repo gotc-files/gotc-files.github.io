@@ -7578,6 +7578,22 @@
       "type": 5
     },
     {
+      "description_placeholder": "PROPERTY_MAXIMUM_STAMINA_DESC",
+      "id": "6b56280276f5d880",
+      "image": "icon_recover_stamina.png",
+      "name": "property_MaxStamina_activity",
+      "name_placeholder": "PROPERTY_MAXIMUM_STAMINA",
+      "type": 9
+    },
+    {
+      "description_placeholder": "PROPERTY_STAMINA_REGENERATION_DESC",
+      "id": "4b46437fbc21e18d",
+      "image": "icon_recover_stamina.png",
+      "name": "property_StaminaRegenRate_activity",
+      "name_placeholder": "PROPERTY_STAMINA_REGENERATION",
+      "type": 9
+    },
+    {
       "description_placeholder": "PROPERTY_TRAP_ATTACK_VS_INFANTRY_DESC",
       "id": "21f1796f8bdb0d42",
       "image": "icon_traps.png",

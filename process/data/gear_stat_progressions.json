@@ -60914,6 +60914,54 @@
       ]
     },
     {
+      "id": "9eaef3ec44c1885a",
+      "name": "prog_gear_event5_MarcherCavalryHealthVsPlayer_1",
+      "stats": [
+        0.0333200000000001,
+        0.0357000000000001,
+        0.0380800000000001,
+        0.0404600000000001,
+        0.0428400000000001,
+        0.0476000000000001
+      ]
+    },
+    {
+      "id": "2d69dd76998ccfb2",
+      "name": "prog_gear_event5_MarcherCavalryHealthVsPlayer_5",
+      "stats": [
+        0.0633080000000001,
+        0.0678300000000001,
+        0.0723520000000001,
+        0.0768740000000001,
+        0.0813960000000001,
+        0.0904400000000001
+      ]
+    },
+    {
+      "id": "8c1e6eb0d8e24b62",
+      "name": "prog_gear_event5_MarcherCavalryHealthVsPlayer_10",
+      "stats": [
+        0.0932960000000001,
+        0.0999600000000001,
+        0.106624,
+        0.113288,
+        0.119952,
+        0.13328
+      ]
+    },
+    {
+      "id": "13288b8cb2fc5d70",
+      "name": "prog_gear_event5_MarcherCavalryHealthVsPlayer_15",
+      "stats": [
+        0.123284,
+        0.13209,
+        0.140896,
+        0.149702,
+        0.158508,
+        0.17612
+      ]
+    },
+    {
       "id": "837bda7b73e59a77",
       "name": "prog_gear_event5_MarcherCavalryHealthVsPlayer_20",
       "stats": [
@@ -63314,6 +63362,102 @@
       ]
     },
     {
+      "id": "1f769f7cd1d80396",
+      "name": "prog_gear_Event5.5_CavalryDefenseVsPlayer_1",
+      "stats": [
+        0.01428,
+        0.0153,
+        0.01632,
+        0.01734,
+        0.01836,
+        0.0204000000000001
+      ]
+    },
+    {
+      "id": "acb1b1e60c95447e",
+      "name": "prog_gear_Event5.5_CavalryDefenseVsPlayer_5",
+      "stats": [
+        0.027132,
+        0.02907,
+        0.031008,
+        0.0329460000000001,
+        0.0348840000000001,
+        0.0387600000000001
+      ]
+    },
+    {
+      "id": "bac2179b34640630",
+      "name": "prog_gear_Event5.5_CavalryDefenseVsPlayer_10",
+      "stats": [
+        0.039984,
+        0.04284,
+        0.045696,
+        0.048552,
+        0.0514080000000001,
+        0.0571200000000001
+      ]
+    },
+    {
+      "id": "25f4f2a75e7a1022",
+      "name": "prog_gear_Event5.5_CavalryDefenseVsPlayer_15",
+      "stats": [
+        0.052836,
+        0.05661,
+        0.060384,
+        0.064158,
+        0.0679320000000001,
+        0.0754800000000001
+      ]
+    },
+    {
+      "id": "b5a7a3509f63d725",
+      "name": "prog_gear_Event5.5_CavalryDefenseVsPlayer_20",
+      "stats": [
+        0.065688,
+        0.07038,
+        0.075072,
+        0.079764,
+        0.084456,
+        0.09384
+      ]
+    },
+    {
+      "id": "2a91466cf57dc137",
+      "name": "prog_gear_Event5.5_CavalryDefenseVsPlayer_25",
+      "stats": [
+        0.07854,
+        0.08415,
+        0.08976,
+        0.09537,
+        0.10098,
+        0.1122
+      ]
+    },
+    {
+      "id": "b084cf16066167d6",
+      "name": "prog_gear_Event5.5_CavalryDefenseVsPlayer_30",
+      "stats": [
+        0.091392,
+        0.09792,
+        0.104448,
+        0.110976,
+        0.117504,
+        0.13056
+      ]
+    },
+    {
+      "id": "2fb22a2a6c7f71c4",
+      "name": "prog_gear_Event5.5_CavalryDefenseVsPlayer_35",
+      "stats": [
+        0.104244,
+        0.11169,
+        0.119136,
+        0.126582,
+        0.134028,
+        0.14892
+      ]
+    },
+    {
       "id": "ab6ccac7c96c750f",
       "name": "prog_gear_Event5.5_CavalryDefenseVsPlayer_40",
       "stats": [
@@ -63400,6 +63544,66 @@
     {
       "id": "63cb650536e10f03",
       "name": "prog_gear_Event5.5_CavalryHealthVsPlayer_50",
+      "stats": [
+        0.1428,
+        0.153,
+        0.1632,
+        0.1734,
+        0.1836,
+        0.204
+      ]
+    },
+    {
+      "id": "7be96acd94fcc659",
+      "name": "prog_gear_Event5.5_CavalryAttackVsPlayersCavalry_30",
+      "stats": [
+        0.091392,
+        0.09792,
+        0.104448,
+        0.110976,
+        0.117504,
+        0.13056
+      ]
+    },
+    {
+      "id": "e4df8ff1fee2d04b",
+      "name": "prog_gear_Event5.5_CavalryAttackVsPlayersCavalry_35",
+      "stats": [
+        0.104244,
+        0.11169,
+        0.119136,
+        0.126582,
+        0.134028,
+        0.14892
+      ]
+    },
+    {
+      "id": "60016f1c5bf1d480",
+      "name": "prog_gear_Event5.5_CavalryAttackVsPlayersCavalry_40",
+      "stats": [
+        0.117096,
+        0.12546,
+        0.133824,
+        0.142188,
+        0.150552,
+        0.16728
+      ]
+    },
+    {
+      "id": "ff378a2031efc292",
+      "name": "prog_gear_Event5.5_CavalryAttackVsPlayersCavalry_45",
+      "stats": [
+        0.129948,
+        0.13923,
+        0.148512,
+        0.157794,
+        0.167076,
+        0.18564
+      ]
+    },
+    {
+      "id": "6522035ac2f36473",
+      "name": "prog_gear_Event5.5_CavalryAttackVsPlayersCavalry_50",
       "stats": [
         0.1428,
         0.153,

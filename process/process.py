@@ -1,12 +1,16 @@
-import os
 import json
+import os
+import sys
 
 from files.processor_mapping import find_processor
 from pages.processor_list import page_processor_list
 
 
 def main():
-    files = os.listdir('./raw')
+    if len(sys.argv) < 2:
+        print('Please specify the raw data directory')
+    raw_data_dir = sys.argv[1]
+    files = os.listdir(raw_data_dir)
     unrecognized_files_count = 0
     processed_files_count = 0
     bad_files_count = 0
@@ -21,7 +25,7 @@ def main():
         if id_processor_pair:
             id, processor_class = id_processor_pair
             processed_files_count += 1
-            processor = processor_class('./raw/' + f)
+            processor = processor_class(os.path.join(raw_data_dir, f))
             processed_result = processor.process()
             if processor.key_name():
                 file_data_dict[id] = dict(
