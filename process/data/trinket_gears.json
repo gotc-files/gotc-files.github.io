@@ -1,0 +1,3173 @@
+{
+  "description": "Gears (event and non event)",
+  "values": [
+    {
+      "id": "747e84af26644865",
+      "image": "icon_eq_quiver_trinket_1.png",
+      "level": 1,
+      "name": "eq_quiver_1_trinket_lord1",
+      "name_placeholder": "EQ_QUIVER_1_TRINKET_LORD1_NAME",
+      "priority": 300001,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "b338568770def60f",
+      "image": "icon_eq_quiver_trinket_1.png",
+      "level": 5,
+      "name": "eq_quiver_5_trinket_lord5",
+      "name_placeholder": "EQ_QUIVER_5_TRINKET_LORD5_NAME",
+      "priority": 300002,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "d1bf5608ab740fd2",
+      "image": "icon_eq_quiver_trinket_1.png",
+      "level": 10,
+      "name": "eq_quiver_10_trinket_lord10",
+      "name_placeholder": "EQ_QUIVER_10_TRINKET_LORD10_NAME",
+      "priority": 300003,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "f071095d67ae56be",
+      "image": "icon_eq_quiver_trinket_1.png",
+      "level": 15,
+      "name": "eq_quiver_15_trinket_lord15",
+      "name_placeholder": "EQ_QUIVER_15_TRINKET_LORD15_NAME",
+      "priority": 300004,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "f3c3c4b1e50b63b7",
+      "image": "icon_eq_quiver_trinket_1.png",
+      "level": 20,
+      "name": "eq_quiver_20_trinket_lord20",
+      "name_placeholder": "EQ_QUIVER_20_TRINKET_LORD20_NAME",
+      "priority": 300005,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "d20d9be429d13adb",
+      "image": "icon_eq_quiver_trinket_1.png",
+      "level": 25,
+      "name": "eq_quiver_25_trinket_lord25",
+      "name_placeholder": "EQ_QUIVER_25_TRINKET_LORD25_NAME",
+      "priority": 300006,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "ede84ad920de4794",
+      "image": "icon_eq_quiver_trinket_1.png",
+      "level": 30,
+      "name": "eq_quiver_30_trinket_lord30",
+      "name_placeholder": "EQ_QUIVER_30_TRINKET_LORD30_NAME",
+      "priority": 300007,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "cc26158cec041ef8",
+      "image": "icon_eq_quiver_trinket_1.png",
+      "level": 35,
+      "name": "eq_quiver_35_trinket_lord35",
+      "name_placeholder": "EQ_QUIVER_35_TRINKET_LORD35_NAME",
+      "priority": 300008,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "b73ae1c379f5bb7d",
+      "image": "icon_eq_quiver_trinket_1.png",
+      "level": 40,
+      "name": "eq_quiver_40_trinket_lord40",
+      "name_placeholder": "EQ_QUIVER_40_TRINKET_LORD40_NAME",
+      "priority": 300009,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "96f4be96b52fe211",
+      "image": "icon_eq_quiver_trinket_1.png",
+      "level": 45,
+      "name": "eq_quiver_45_trinket_lord45",
+      "name_placeholder": "EQ_QUIVER_45_TRINKET_LORD45_NAME",
+      "priority": 300010,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "a9116fabbc209f5e",
+      "image": "icon_eq_quiver_trinket_1.png",
+      "level": 50,
+      "name": "eq_quiver_50_trinket_lord50",
+      "name_placeholder": "EQ_QUIVER_50_TRINKET_LORD50_NAME",
+      "priority": 300011,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "ce4d741868afcf03",
+      "image": "icon_eq_lantern_trinket_1.png",
+      "level": 1,
+      "name": "eq_lantern_1_trinket_lord1",
+      "name_placeholder": "EQ_LANTERN_1_TRINKET_LORD1_NAME",
+      "priority": 300012,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "90ba6303e157169",
+      "image": "icon_eq_lantern_trinket_1.png",
+      "level": 5,
+      "name": "eq_lantern_5_trinket_lord5",
+      "name_placeholder": "EQ_LANTERN_5_TRINKET_LORD5_NAME",
+      "priority": 300013,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "a6f00de784f69ccb",
+      "image": "icon_eq_lantern_trinket_1.png",
+      "level": 10,
+      "name": "eq_lantern_10_trinket_lord10",
+      "name_placeholder": "EQ_LANTERN_10_TRINKET_LORD10_NAME",
+      "priority": 300014,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "873e52b2482cc5a7",
+      "image": "icon_eq_lantern_trinket_1.png",
+      "level": 15,
+      "name": "eq_lantern_15_trinket_lord15",
+      "name_placeholder": "EQ_LANTERN_15_TRINKET_LORD15_NAME",
+      "priority": 300015,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "848c9f5eca89f0ae",
+      "image": "icon_eq_lantern_trinket_1.png",
+      "level": 20,
+      "name": "eq_lantern_20_trinket_lord20",
+      "name_placeholder": "EQ_LANTERN_20_TRINKET_LORD20_NAME",
+      "priority": 300016,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "a542c00b0653a9c2",
+      "image": "icon_eq_lantern_trinket_1.png",
+      "level": 25,
+      "name": "eq_lantern_25_trinket_lord25",
+      "name_placeholder": "EQ_LANTERN_25_TRINKET_LORD25_NAME",
+      "priority": 300017,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "9aa711360f5cd48d",
+      "image": "icon_eq_lantern_trinket_1.png",
+      "level": 30,
+      "name": "eq_lantern_30_trinket_lord30",
+      "name_placeholder": "EQ_LANTERN_30_TRINKET_LORD30_NAME",
+      "priority": 300018,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "bb694e63c3868de1",
+      "image": "icon_eq_lantern_trinket_1.png",
+      "level": 35,
+      "name": "eq_lantern_35_trinket_lord35",
+      "name_placeholder": "EQ_LANTERN_35_TRINKET_LORD35_NAME",
+      "priority": 300019,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "c075ba2c56772864",
+      "image": "icon_eq_lantern_trinket_1.png",
+      "level": 40,
+      "name": "eq_lantern_40_trinket_lord40",
+      "name_placeholder": "EQ_LANTERN_40_TRINKET_LORD40_NAME",
+      "priority": 300020,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "e1bbe5799aad7108",
+      "image": "icon_eq_lantern_trinket_1.png",
+      "level": 45,
+      "name": "eq_lantern_45_trinket_lord45",
+      "name_placeholder": "EQ_LANTERN_45_TRINKET_LORD45_NAME",
+      "priority": 300021,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "de5e344493a20c47",
+      "image": "icon_eq_lantern_trinket_1.png",
+      "level": 50,
+      "name": "eq_lantern_50_trinket_lord50",
+      "name_placeholder": "EQ_LANTERN_50_TRINKET_LORD50_NAME",
+      "priority": 300022,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "9205a60064fb0112",
+      "image": "icon_eq_events_FalconShield_trinket_1.png",
+      "level": 1,
+      "name": "eq_events_FalconShield_1_trinket_lord1",
+      "name_placeholder": "EQ_EVENTS_FALCONSHIELD_1_TRINKET_LORD1_NAME",
+      "priority": 300023,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "554374283241bf78",
+      "image": "icon_eq_events_FalconShield_trinket_1.png",
+      "level": 5,
+      "name": "eq_events_FalconShield_5_trinket_lord5",
+      "name_placeholder": "EQ_EVENTS_FALCONSHIELD_5_TRINKET_LORD5_NAME",
+      "priority": 300024,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "9e5bcf8a4d72d871",
+      "image": "icon_eq_events_FalconShield_trinket_1.png",
+      "level": 10,
+      "name": "eq_events_FalconShield_10_trinket_lord10",
+      "name_placeholder": "EQ_EVENTS_FALCONSHIELD_10_TRINKET_LORD10_NAME",
+      "priority": 300025,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "bf9590df81a8811d",
+      "image": "icon_eq_events_FalconShield_trinket_1.png",
+      "level": 15,
+      "name": "eq_events_FalconShield_15_trinket_lord15",
+      "name_placeholder": "EQ_EVENTS_FALCONSHIELD_15_TRINKET_LORD15_NAME",
+      "priority": 300026,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "bc275d33030db414",
+      "image": "icon_eq_events_FalconShield_trinket_1.png",
+      "level": 20,
+      "name": "eq_events_FalconShield_20_trinket_lord20",
+      "name_placeholder": "EQ_EVENTS_FALCONSHIELD_20_TRINKET_LORD20_NAME",
+      "priority": 300027,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "9de90266cfd7ed78",
+      "image": "icon_eq_events_FalconShield_trinket_1.png",
+      "level": 25,
+      "name": "eq_events_FalconShield_25_trinket_lord25",
+      "name_placeholder": "EQ_EVENTS_FALCONSHIELD_25_TRINKET_LORD25_NAME",
+      "priority": 300028,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "a20cd35bc6d89037",
+      "image": "icon_eq_events_FalconShield_trinket_1.png",
+      "level": 30,
+      "name": "eq_events_FalconShield_30_trinket_lord30",
+      "name_placeholder": "EQ_EVENTS_FALCONSHIELD_30_TRINKET_LORD30_NAME",
+      "priority": 300029,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "83c28c0e0a02c95b",
+      "image": "icon_eq_events_FalconShield_trinket_1.png",
+      "level": 35,
+      "name": "eq_events_FalconShield_35_trinket_lord35",
+      "name_placeholder": "EQ_EVENTS_FALCONSHIELD_35_TRINKET_LORD35_NAME",
+      "priority": 300030,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "f8de78419ff36cde",
+      "image": "icon_eq_events_FalconShield_trinket_1.png",
+      "level": 40,
+      "name": "eq_events_FalconShield_40_trinket_lord40",
+      "name_placeholder": "EQ_EVENTS_FALCONSHIELD_40_TRINKET_LORD40_NAME",
+      "priority": 300031,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "d9102714532935b2",
+      "image": "icon_eq_events_FalconShield_trinket_1.png",
+      "level": 45,
+      "name": "eq_events_FalconShield_45_trinket_lord45",
+      "name_placeholder": "EQ_EVENTS_FALCONSHIELD_45_TRINKET_LORD45_NAME",
+      "priority": 300032,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "e6f5f6295a2648fd",
+      "image": "icon_eq_events_FalconShield_trinket_1.png",
+      "level": 50,
+      "name": "eq_events_FalconShield_50_trinket_lord50",
+      "name_placeholder": "EQ_EVENTS_FALCONSHIELD_50_TRINKET_LORD50_NAME",
+      "priority": 300033,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "67b3a732f49c2ace",
+      "image": "icon_eq_events_Caliper_trinket_1.png",
+      "level": 1,
+      "name": "eq_events_Caliper_1_trinket_lord1",
+      "name_placeholder": "EQ_EVENTS_CALIPER_1_TRINKET_LORD1_NAME",
+      "priority": 300034,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "a0f5751aa22694a4",
+      "image": "icon_eq_events_Caliper_trinket_1.png",
+      "level": 5,
+      "name": "eq_events_Caliper_5_trinket_lord5",
+      "name_placeholder": "EQ_EVENTS_CALIPER_5_TRINKET_LORD5_NAME",
+      "priority": 300035,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "2c6021395797772b",
+      "image": "icon_eq_events_Caliper_trinket_1.png",
+      "level": 10,
+      "name": "eq_events_Caliper_10_trinket_lord10",
+      "name_placeholder": "EQ_EVENTS_CALIPER_10_TRINKET_LORD10_NAME",
+      "priority": 300036,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "dae7e6c9b4d2e47",
+      "image": "icon_eq_events_Caliper_trinket_1.png",
+      "level": 15,
+      "name": "eq_events_Caliper_15_trinket_lord15",
+      "name_placeholder": "EQ_EVENTS_CALIPER_15_TRINKET_LORD15_NAME",
+      "priority": 300037,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "e1cb38019e81b4e",
+      "image": "icon_eq_events_Caliper_trinket_1.png",
+      "level": 20,
+      "name": "eq_events_Caliper_20_trinket_lord20",
+      "name_placeholder": "EQ_EVENTS_CALIPER_20_TRINKET_LORD20_NAME",
+      "priority": 300038,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "2fd2ecd5d5324222",
+      "image": "icon_eq_events_Caliper_trinket_1.png",
+      "level": 25,
+      "name": "eq_events_Caliper_25_trinket_lord25",
+      "name_placeholder": "EQ_EVENTS_CALIPER_25_TRINKET_LORD25_NAME",
+      "priority": 300039,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "10373de8dc3d3f6d",
+      "image": "icon_eq_events_Caliper_trinket_1.png",
+      "level": 30,
+      "name": "eq_events_Caliper_30_trinket_lord30",
+      "name_placeholder": "EQ_EVENTS_CALIPER_30_TRINKET_LORD30_NAME",
+      "priority": 300040,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "31f962bd10e76601",
+      "image": "icon_eq_events_Caliper_trinket_1.png",
+      "level": 35,
+      "name": "eq_events_Caliper_35_trinket_lord35",
+      "name_placeholder": "EQ_EVENTS_CALIPER_35_TRINKET_LORD35_NAME",
+      "priority": 300041,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "4ae596f28516c384",
+      "image": "icon_eq_events_Caliper_trinket_1.png",
+      "level": 40,
+      "name": "eq_events_Caliper_40_trinket_lord40",
+      "name_placeholder": "EQ_EVENTS_CALIPER_40_TRINKET_LORD40_NAME",
+      "priority": 300042,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "6b2bc9a749cc9ae8",
+      "image": "icon_eq_events_Caliper_trinket_1.png",
+      "level": 45,
+      "name": "eq_events_Caliper_45_trinket_lord45",
+      "name_placeholder": "EQ_EVENTS_CALIPER_45_TRINKET_LORD45_NAME",
+      "priority": 300043,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "54ce189a40c3e7a7",
+      "image": "icon_eq_events_Caliper_trinket_1.png",
+      "level": 50,
+      "name": "eq_events_Caliper_50_trinket_lord50",
+      "name_placeholder": "EQ_EVENTS_CALIPER_50_TRINKET_LORD50_NAME",
+      "priority": 300044,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "11f5956ae98ae820",
+      "image": "icon_eq_events_BookOfBrothers_trinket_1.png",
+      "level": 1,
+      "name": "eq_events_BookOfBrothers_1_trinket_lord1",
+      "name_placeholder": "EQ_EVENTS_BOOKOFBROTHERS_1_TRINKET_LORD1_NAME",
+      "priority": 300045,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "d6b34742bf30564a",
+      "image": "icon_eq_events_BookOfBrothers_trinket_1.png",
+      "level": 5,
+      "name": "eq_events_BookOfBrothers_5_trinket_lord5",
+      "name_placeholder": "EQ_EVENTS_BOOKOFBROTHERS_5_TRINKET_LORD5_NAME",
+      "priority": 300046,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "5a8965dfb5e4fac7",
+      "image": "icon_eq_events_BookOfBrothers_trinket_1.png",
+      "level": 10,
+      "name": "eq_events_BookOfBrothers_10_trinket_lord10",
+      "name_placeholder": "EQ_EVENTS_BOOKOFBROTHERS_10_TRINKET_LORD10_NAME",
+      "priority": 300047,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "7b473a8a793ea3ab",
+      "image": "icon_eq_events_BookOfBrothers_trinket_1.png",
+      "level": 15,
+      "name": "eq_events_BookOfBrothers_15_trinket_lord15",
+      "name_placeholder": "EQ_EVENTS_BOOKOFBROTHERS_15_TRINKET_LORD15_NAME",
+      "priority": 300048,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "78f5f766fb9b96a2",
+      "image": "icon_eq_events_BookOfBrothers_trinket_1.png",
+      "level": 20,
+      "name": "eq_events_BookOfBrothers_20_trinket_lord20",
+      "name_placeholder": "EQ_EVENTS_BOOKOFBROTHERS_20_TRINKET_LORD20_NAME",
+      "priority": 300049,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "593ba8333741cfce",
+      "image": "icon_eq_events_BookOfBrothers_trinket_1.png",
+      "level": 25,
+      "name": "eq_events_BookOfBrothers_25_trinket_lord25",
+      "name_placeholder": "EQ_EVENTS_BOOKOFBROTHERS_25_TRINKET_LORD25_NAME",
+      "priority": 300050,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "66de790e3e4eb281",
+      "image": "icon_eq_events_BookOfBrothers_trinket_1.png",
+      "level": 30,
+      "name": "eq_events_BookOfBrothers_30_trinket_lord30",
+      "name_placeholder": "EQ_EVENTS_BOOKOFBROTHERS_30_TRINKET_LORD30_NAME",
+      "priority": 300051,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "4710265bf294ebed",
+      "image": "icon_eq_events_BookOfBrothers_trinket_1.png",
+      "level": 35,
+      "name": "eq_events_BookOfBrothers_35_trinket_lord35",
+      "name_placeholder": "EQ_EVENTS_BOOKOFBROTHERS_35_TRINKET_LORD35_NAME",
+      "priority": 300052,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "3c0cd21467654e68",
+      "image": "icon_eq_events_BookOfBrothers_trinket_1.png",
+      "level": 40,
+      "name": "eq_events_BookOfBrothers_40_trinket_lord40",
+      "name_placeholder": "EQ_EVENTS_BOOKOFBROTHERS_40_TRINKET_LORD40_NAME",
+      "priority": 300053,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "1dc28d41abbf1704",
+      "image": "icon_eq_events_BookOfBrothers_trinket_1.png",
+      "level": 45,
+      "name": "eq_events_BookOfBrothers_45_trinket_lord45",
+      "name_placeholder": "EQ_EVENTS_BOOKOFBROTHERS_45_TRINKET_LORD45_NAME",
+      "priority": 300054,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "22275c7ca2b06a4b",
+      "image": "icon_eq_events_BookOfBrothers_trinket_1.png",
+      "level": 50,
+      "name": "eq_events_BookOfBrothers_50_trinket_lord50",
+      "name_placeholder": "EQ_EVENTS_BOOKOFBROTHERS_50_TRINKET_LORD50_NAME",
+      "priority": 300055,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "ce3a888e8273474f",
+      "image": "icon_eq_events_DragonPendant_trinket_1.png",
+      "level": 1,
+      "name": "eq_events_DragonPendant_1_trinket_lord1",
+      "name_placeholder": "EQ_EVENTS_DRAGONPENDANT_1_TRINKET_LORD1_NAME",
+      "priority": 300056,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "97c5aa6d4c9f925",
+      "image": "icon_eq_events_DragonPendant_trinket_1.png",
+      "level": 5,
+      "name": "eq_events_DragonPendant_5_trinket_lord5",
+      "name_placeholder": "EQ_EVENTS_DRAGONPENDANT_5_TRINKET_LORD5_NAME",
+      "priority": 300057,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "756eb3178a9e26c6",
+      "image": "icon_eq_events_DragonPendant_trinket_1.png",
+      "level": 10,
+      "name": "eq_events_DragonPendant_10_trinket_lord10",
+      "name_placeholder": "EQ_EVENTS_DRAGONPENDANT_10_TRINKET_LORD10_NAME",
+      "priority": 300058,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "54a0ec4246447faa",
+      "image": "icon_eq_events_DragonPendant_trinket_1.png",
+      "level": 15,
+      "name": "eq_events_DragonPendant_15_trinket_lord15",
+      "name_placeholder": "EQ_EVENTS_DRAGONPENDANT_15_TRINKET_LORD15_NAME",
+      "priority": 300059,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "571221aec4e14aa3",
+      "image": "icon_eq_events_DragonPendant_trinket_1.png",
+      "level": 20,
+      "name": "eq_events_DragonPendant_20_trinket_lord20",
+      "name_placeholder": "EQ_EVENTS_DRAGONPENDANT_20_TRINKET_LORD20_NAME",
+      "priority": 300060,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "76dc7efb083b13cf",
+      "image": "icon_eq_events_DragonPendant_trinket_1.png",
+      "level": 25,
+      "name": "eq_events_DragonPendant_25_trinket_lord25",
+      "name_placeholder": "EQ_EVENTS_DRAGONPENDANT_25_TRINKET_LORD25_NAME",
+      "priority": 300061,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "4939afc601346e80",
+      "image": "icon_eq_events_DragonPendant_trinket_1.png",
+      "level": 30,
+      "name": "eq_events_DragonPendant_30_trinket_lord30",
+      "name_placeholder": "EQ_EVENTS_DRAGONPENDANT_30_TRINKET_LORD30_NAME",
+      "priority": 300062,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "68f7f093cdee37ec",
+      "image": "icon_eq_events_DragonPendant_trinket_1.png",
+      "level": 35,
+      "name": "eq_events_DragonPendant_35_trinket_lord35",
+      "name_placeholder": "EQ_EVENTS_DRAGONPENDANT_35_TRINKET_LORD35_NAME",
+      "priority": 300063,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "13eb04dc581f9269",
+      "image": "icon_eq_events_DragonPendant_trinket_1.png",
+      "level": 40,
+      "name": "eq_events_DragonPendant_40_trinket_lord40",
+      "name_placeholder": "EQ_EVENTS_DRAGONPENDANT_40_TRINKET_LORD40_NAME",
+      "priority": 300064,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "32255b8994c5cb05",
+      "image": "icon_eq_events_DragonPendant_trinket_1.png",
+      "level": 45,
+      "name": "eq_events_DragonPendant_45_trinket_lord45",
+      "name_placeholder": "EQ_EVENTS_DRAGONPENDANT_45_TRINKET_LORD45_NAME",
+      "priority": 300065,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "dc08ab49dcab64a",
+      "image": "icon_eq_events_DragonPendant_trinket_1.png",
+      "level": 50,
+      "name": "eq_events_DragonPendant_50_trinket_lord50",
+      "name_placeholder": "EQ_EVENTS_DRAGONPENDANT_50_TRINKET_LORD50_NAME",
+      "priority": 300066,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "b951ed0c316462ce",
+      "image": "icon_eq_events_DragonFeeder_trinket_1.png",
+      "level": 1,
+      "name": "eq_events_DragonFeeder_1_trinket_lord1",
+      "name_placeholder": "EQ_EVENTS_DRAGONFEEDER_1_TRINKET_LORD1_NAME",
+      "priority": 300067,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "7e173f2467dedca4",
+      "image": "icon_eq_events_DragonFeeder_trinket_1.png",
+      "level": 5,
+      "name": "eq_events_DragonFeeder_5_trinket_lord5",
+      "name_placeholder": "EQ_EVENTS_DRAGONFEEDER_5_TRINKET_LORD5_NAME",
+      "priority": 300068,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "68a7513c18200677",
+      "image": "icon_eq_events_DragonFeeder_trinket_1.png",
+      "level": 10,
+      "name": "eq_events_DragonFeeder_10_trinket_lord10",
+      "name_placeholder": "EQ_EVENTS_DRAGONFEEDER_10_TRINKET_LORD10_NAME",
+      "priority": 300069,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "49690e69d4fa5f1b",
+      "image": "icon_eq_events_DragonFeeder_trinket_1.png",
+      "level": 15,
+      "name": "eq_events_DragonFeeder_15_trinket_lord15",
+      "name_placeholder": "EQ_EVENTS_DRAGONFEEDER_15_TRINKET_LORD15_NAME",
+      "priority": 300070,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "4adbc385565f6a12",
+      "image": "icon_eq_events_DragonFeeder_trinket_1.png",
+      "level": 20,
+      "name": "eq_events_DragonFeeder_20_trinket_lord20",
+      "name_placeholder": "EQ_EVENTS_DRAGONFEEDER_20_TRINKET_LORD20_NAME",
+      "priority": 300071,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "6b159cd09a85337e",
+      "image": "icon_eq_events_DragonFeeder_trinket_1.png",
+      "level": 25,
+      "name": "eq_events_DragonFeeder_25_trinket_lord25",
+      "name_placeholder": "EQ_EVENTS_DRAGONFEEDER_25_TRINKET_LORD25_NAME",
+      "priority": 300072,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "54f04ded938a4e31",
+      "image": "icon_eq_events_DragonFeeder_trinket_1.png",
+      "level": 30,
+      "name": "eq_events_DragonFeeder_30_trinket_lord30",
+      "name_placeholder": "EQ_EVENTS_DRAGONFEEDER_30_TRINKET_LORD30_NAME",
+      "priority": 300073,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "753e12b85f50175d",
+      "image": "icon_eq_events_DragonFeeder_trinket_1.png",
+      "level": 35,
+      "name": "eq_events_DragonFeeder_35_trinket_lord35",
+      "name_placeholder": "EQ_EVENTS_DRAGONFEEDER_35_TRINKET_LORD35_NAME",
+      "priority": 300074,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "e22e6f7caa1b2d8",
+      "image": "icon_eq_events_DragonFeeder_trinket_1.png",
+      "level": 40,
+      "name": "eq_events_DragonFeeder_40_trinket_lord40",
+      "name_placeholder": "EQ_EVENTS_DRAGONFEEDER_40_TRINKET_LORD40_NAME",
+      "priority": 300075,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "2fecb9a2067bebb4",
+      "image": "icon_eq_events_DragonFeeder_trinket_1.png",
+      "level": 45,
+      "name": "eq_events_DragonFeeder_45_trinket_lord45",
+      "name_placeholder": "EQ_EVENTS_DRAGONFEEDER_45_TRINKET_LORD45_NAME",
+      "priority": 300076,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "1009689f0f7496fb",
+      "image": "icon_eq_events_DragonFeeder_trinket_1.png",
+      "level": 50,
+      "name": "eq_events_DragonFeeder_50_trinket_lord50",
+      "name_placeholder": "EQ_EVENTS_DRAGONFEEDER_50_TRINKET_LORD50_NAME",
+      "priority": 300077,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "f04c498f7f56f9d2",
+      "image": "icon_eq_events_RidingCrop_trinket_1.png",
+      "level": 1,
+      "name": "eq_events_RidingCrop_1_trinket_lord1",
+      "name_placeholder": "EQ_EVENTS_RIDINGCROP_1_TRINKET_LORD1_NAME",
+      "priority": 300078,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "370a9ba729ec47b8",
+      "image": "icon_eq_events_RidingCrop_trinket_1.png",
+      "level": 5,
+      "name": "eq_events_RidingCrop_5_trinket_lord5",
+      "name_placeholder": "EQ_EVENTS_RIDINGCROP_5_TRINKET_LORD5_NAME",
+      "priority": 300079,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "1eae1103a144589c",
+      "image": "icon_eq_events_RidingCrop_trinket_1.png",
+      "level": 10,
+      "name": "eq_events_RidingCrop_10_trinket_lord10",
+      "name_placeholder": "EQ_EVENTS_RIDINGCROP_10_TRINKET_LORD10_NAME",
+      "priority": 300080,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "3f604e566d9e01f0",
+      "image": "icon_eq_events_RidingCrop_trinket_1.png",
+      "level": 15,
+      "name": "eq_events_RidingCrop_15_trinket_lord15",
+      "name_placeholder": "EQ_EVENTS_RIDINGCROP_15_TRINKET_LORD15_NAME",
+      "priority": 300081,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "3cd283baef3b34f9",
+      "image": "icon_eq_events_RidingCrop_trinket_1.png",
+      "level": 20,
+      "name": "eq_events_RidingCrop_20_trinket_lord20",
+      "name_placeholder": "EQ_EVENTS_RIDINGCROP_20_TRINKET_LORD20_NAME",
+      "priority": 300082,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "1d1cdcef23e16d95",
+      "image": "icon_eq_events_RidingCrop_trinket_1.png",
+      "level": 25,
+      "name": "eq_events_RidingCrop_25_trinket_lord25",
+      "name_placeholder": "EQ_EVENTS_RIDINGCROP_25_TRINKET_LORD25_NAME",
+      "priority": 300083,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "22f90dd22aee10da",
+      "image": "icon_eq_events_RidingCrop_trinket_1.png",
+      "level": 30,
+      "name": "eq_events_RidingCrop_30_trinket_lord30",
+      "name_placeholder": "EQ_EVENTS_RIDINGCROP_30_TRINKET_LORD30_NAME",
+      "priority": 300084,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "3375287e63449b6",
+      "image": "icon_eq_events_RidingCrop_trinket_1.png",
+      "level": 35,
+      "name": "eq_events_RidingCrop_35_trinket_lord35",
+      "name_placeholder": "EQ_EVENTS_RIDINGCROP_35_TRINKET_LORD35_NAME",
+      "priority": 300085,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "782ba6c873c5ec33",
+      "image": "icon_eq_events_RidingCrop_trinket_1.png",
+      "level": 40,
+      "name": "eq_events_RidingCrop_40_trinket_lord40",
+      "name_placeholder": "EQ_EVENTS_RIDINGCROP_40_TRINKET_LORD40_NAME",
+      "priority": 300086,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "59e5f99dbf1fb55f",
+      "image": "icon_eq_events_RidingCrop_trinket_1.png",
+      "level": 45,
+      "name": "eq_events_RidingCrop_45_trinket_lord45",
+      "name_placeholder": "EQ_EVENTS_RIDINGCROP_45_TRINKET_LORD45_NAME",
+      "priority": 300087,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "660028a0b610c810",
+      "image": "icon_eq_events_RidingCrop_trinket_1.png",
+      "level": 50,
+      "name": "eq_events_RidingCrop_50_trinket_lord50",
+      "name_placeholder": "EQ_EVENTS_RIDINGCROP_50_TRINKET_LORD50_NAME",
+      "priority": 300088,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "ef28f379343e829e",
+      "image": "icon_eq_events_RoseNecklace_trinket_1.png",
+      "level": 1,
+      "name": "eq_events_RoseNecklace_1_trinket_lord1",
+      "name_placeholder": "EQ_EVENTS_ROSENECKLACE_1_TRINKET_LORD1_NAME",
+      "priority": 300089,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "286e215162843cf4",
+      "image": "icon_eq_events_RoseNecklace_trinket_1.png",
+      "level": 5,
+      "name": "eq_events_RoseNecklace_5_trinket_lord5",
+      "name_placeholder": "EQ_EVENTS_ROSENECKLACE_5_TRINKET_LORD5_NAME",
+      "priority": 300090,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "1faf98b929f3186",
+      "image": "icon_eq_events_RoseNecklace_trinket_1.png",
+      "level": 10,
+      "name": "eq_events_RoseNecklace_10_trinket_lord10",
+      "name_placeholder": "EQ_EVENTS_ROSENECKLACE_10_TRINKET_LORD10_NAME",
+      "priority": 300091,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "2034a6de5e4568ea",
+      "image": "icon_eq_events_RoseNecklace_trinket_1.png",
+      "level": 15,
+      "name": "eq_events_RoseNecklace_15_trinket_lord15",
+      "name_placeholder": "EQ_EVENTS_ROSENECKLACE_15_TRINKET_LORD15_NAME",
+      "priority": 300092,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "23866b32dce05de3",
+      "image": "icon_eq_events_RoseNecklace_trinket_1.png",
+      "level": 20,
+      "name": "eq_events_RoseNecklace_20_trinket_lord20",
+      "name_placeholder": "EQ_EVENTS_ROSENECKLACE_20_TRINKET_LORD20_NAME",
+      "priority": 300093,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "2483467103a048f",
+      "image": "icon_eq_events_RoseNecklace_trinket_1.png",
+      "level": 25,
+      "name": "eq_events_RoseNecklace_25_trinket_lord25",
+      "name_placeholder": "EQ_EVENTS_ROSENECKLACE_25_TRINKET_LORD25_NAME",
+      "priority": 300094,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "3dade55a193579c0",
+      "image": "icon_eq_events_RoseNecklace_trinket_1.png",
+      "level": 30,
+      "name": "eq_events_RoseNecklace_30_trinket_lord30",
+      "name_placeholder": "EQ_EVENTS_ROSENECKLACE_30_TRINKET_LORD30_NAME",
+      "priority": 300095,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "1c63ba0fd5ef20ac",
+      "image": "icon_eq_events_RoseNecklace_trinket_1.png",
+      "level": 35,
+      "name": "eq_events_RoseNecklace_35_trinket_lord35",
+      "name_placeholder": "EQ_EVENTS_ROSENECKLACE_35_TRINKET_LORD35_NAME",
+      "priority": 300096,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "677f4e40401e8529",
+      "image": "icon_eq_events_RoseNecklace_trinket_1.png",
+      "level": 40,
+      "name": "eq_events_RoseNecklace_40_trinket_lord40",
+      "name_placeholder": "EQ_EVENTS_ROSENECKLACE_40_TRINKET_LORD40_NAME",
+      "priority": 300097,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "46b111158cc4dc45",
+      "image": "icon_eq_events_RoseNecklace_trinket_1.png",
+      "level": 45,
+      "name": "eq_events_RoseNecklace_45_trinket_lord45",
+      "name_placeholder": "EQ_EVENTS_ROSENECKLACE_45_TRINKET_LORD45_NAME",
+      "priority": 300098,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "7954c02885cba10a",
+      "image": "icon_eq_events_RoseNecklace_trinket_1.png",
+      "level": 50,
+      "name": "eq_events_RoseNecklace_50_trinket_lord50",
+      "name_placeholder": "EQ_EVENTS_ROSENECKLACE_50_TRINKET_LORD50_NAME",
+      "priority": 300099,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "ea5ca2f27b16769d",
+      "image": "icon_eq_events_vial_of_water_trinket_1.png",
+      "level": 1,
+      "name": "eq_events_vial_of_water_1_trinket_lord1",
+      "name_placeholder": "EQ_EVENTS_VIAL_OF_WATER_1_TRINKET_LORD1_NAME",
+      "priority": 300100,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "2d1a70da2dacc8f7",
+      "image": "icon_eq_events_vial_of_water_trinket_1.png",
+      "level": 5,
+      "name": "eq_events_vial_of_water_5_trinket_lord5",
+      "name_placeholder": "EQ_EVENTS_VIAL_OF_WATER_5_TRINKET_LORD5_NAME",
+      "priority": 300101,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "480732e177868fe",
+      "image": "icon_eq_events_vial_of_water_trinket_1.png",
+      "level": 10,
+      "name": "eq_events_vial_of_water_10_trinket_lord10",
+      "name_placeholder": "EQ_EVENTS_VIAL_OF_WATER_10_TRINKET_LORD10_NAME",
+      "priority": 300102,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "254e2c7bdba23192",
+      "image": "icon_eq_events_vial_of_water_trinket_1.png",
+      "level": 15,
+      "name": "eq_events_vial_of_water_15_trinket_lord15",
+      "name_placeholder": "EQ_EVENTS_VIAL_OF_WATER_15_TRINKET_LORD15_NAME",
+      "priority": 300103,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "26fce1975907049b",
+      "image": "icon_eq_events_vial_of_water_trinket_1.png",
+      "level": 20,
+      "name": "eq_events_vial_of_water_20_trinket_lord20",
+      "name_placeholder": "EQ_EVENTS_VIAL_OF_WATER_20_TRINKET_LORD20_NAME",
+      "priority": 300104,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "732bec295dd5df7",
+      "image": "icon_eq_events_vial_of_water_trinket_1.png",
+      "level": 25,
+      "name": "eq_events_vial_of_water_25_trinket_lord25",
+      "name_placeholder": "EQ_EVENTS_VIAL_OF_WATER_25_TRINKET_LORD25_NAME",
+      "priority": 300105,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "38d76fff9cd220b8",
+      "image": "icon_eq_events_vial_of_water_trinket_1.png",
+      "level": 30,
+      "name": "eq_events_vial_of_water_30_trinket_lord30",
+      "name_placeholder": "EQ_EVENTS_VIAL_OF_WATER_30_TRINKET_LORD30_NAME",
+      "priority": 300106,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "191930aa500879d4",
+      "image": "icon_eq_events_vial_of_water_trinket_1.png",
+      "level": 35,
+      "name": "eq_events_vial_of_water_35_trinket_lord35",
+      "name_placeholder": "EQ_EVENTS_VIAL_OF_WATER_35_TRINKET_LORD35_NAME",
+      "priority": 300107,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "6205c4e5c5f9dc51",
+      "image": "icon_eq_events_vial_of_water_trinket_1.png",
+      "level": 40,
+      "name": "eq_events_vial_of_water_40_trinket_lord40",
+      "name_placeholder": "EQ_EVENTS_VIAL_OF_WATER_40_TRINKET_LORD40_NAME",
+      "priority": 300108,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "43cb9bb00923853d",
+      "image": "icon_eq_events_vial_of_water_trinket_1.png",
+      "level": 45,
+      "name": "eq_events_vial_of_water_45_trinket_lord45",
+      "name_placeholder": "EQ_EVENTS_VIAL_OF_WATER_45_TRINKET_LORD45_NAME",
+      "priority": 300109,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "7c2e4a8d002cf872",
+      "image": "icon_eq_events_vial_of_water_trinket_1.png",
+      "level": 50,
+      "name": "eq_events_vial_of_water_50_trinket_lord50",
+      "name_placeholder": "EQ_EVENTS_VIAL_OF_WATER_50_TRINKET_LORD50_NAME",
+      "priority": 300110,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "d40fc00881a57974",
+      "image": "icon_eq_events_dance_of_dragons_trinket_1.png",
+      "level": 1,
+      "name": "eq_events_dance_of_dragons_1_trinket_lord1",
+      "name_placeholder": "EQ_EVENTS_DANCE_OF_DRAGONS_1_TRINKET_LORD1_NAME",
+      "priority": 300111,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "13491220d71fc71e",
+      "image": "icon_eq_events_dance_of_dragons_trinket_1.png",
+      "level": 5,
+      "name": "eq_events_dance_of_dragons_5_trinket_lord5",
+      "name_placeholder": "EQ_EVENTS_DANCE_OF_DRAGONS_5_TRINKET_LORD5_NAME",
+      "priority": 300112,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "732d10eda1e4154d",
+      "image": "icon_eq_events_dance_of_dragons_trinket_1.png",
+      "level": 10,
+      "name": "eq_events_dance_of_dragons_10_trinket_lord10",
+      "name_placeholder": "EQ_EVENTS_DANCE_OF_DRAGONS_10_TRINKET_LORD10_NAME",
+      "priority": 300113,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "52e34fb86d3e4c21",
+      "image": "icon_eq_events_dance_of_dragons_trinket_1.png",
+      "level": 15,
+      "name": "eq_events_dance_of_dragons_15_trinket_lord15",
+      "name_placeholder": "EQ_EVENTS_DANCE_OF_DRAGONS_15_TRINKET_LORD15_NAME",
+      "priority": 300114,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "51518254ef9b7928",
+      "image": "icon_eq_events_dance_of_dragons_trinket_1.png",
+      "level": 20,
+      "name": "eq_events_dance_of_dragons_20_trinket_lord20",
+      "name_placeholder": "EQ_EVENTS_DANCE_OF_DRAGONS_20_TRINKET_LORD20_NAME",
+      "priority": 300115,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "709fdd0123412044",
+      "image": "icon_eq_events_dance_of_dragons_trinket_1.png",
+      "level": 25,
+      "name": "eq_events_dance_of_dragons_25_trinket_lord25",
+      "name_placeholder": "EQ_EVENTS_DANCE_OF_DRAGONS_25_TRINKET_LORD25_NAME",
+      "priority": 300116,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "4f7a0c3c2a4e5d0b",
+      "image": "icon_eq_events_dance_of_dragons_trinket_1.png",
+      "level": 30,
+      "name": "eq_events_dance_of_dragons_30_trinket_lord30",
+      "name_placeholder": "EQ_EVENTS_DANCE_OF_DRAGONS_30_TRINKET_LORD30_NAME",
+      "priority": 300117,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "6eb45369e6940467",
+      "image": "icon_eq_events_dance_of_dragons_trinket_1.png",
+      "level": 35,
+      "name": "eq_events_dance_of_dragons_35_trinket_lord35",
+      "name_placeholder": "EQ_EVENTS_DANCE_OF_DRAGONS_35_TRINKET_LORD35_NAME",
+      "priority": 300118,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "15a8a7267365a1e2",
+      "image": "icon_eq_events_dance_of_dragons_trinket_1.png",
+      "level": 40,
+      "name": "eq_events_dance_of_dragons_40_trinket_lord40",
+      "name_placeholder": "EQ_EVENTS_DANCE_OF_DRAGONS_40_TRINKET_LORD40_NAME",
+      "priority": 300119,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "3466f873bfbff88e",
+      "image": "icon_eq_events_dance_of_dragons_trinket_1.png",
+      "level": 45,
+      "name": "eq_events_dance_of_dragons_45_trinket_lord45",
+      "name_placeholder": "EQ_EVENTS_DANCE_OF_DRAGONS_45_TRINKET_LORD45_NAME",
+      "priority": 300120,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "b83294eb6b085c1",
+      "image": "icon_eq_events_dance_of_dragons_trinket_1.png",
+      "level": 50,
+      "name": "eq_events_dance_of_dragons_50_trinket_lord50",
+      "name_placeholder": "EQ_EVENTS_DANCE_OF_DRAGONS_50_TRINKET_LORD50_NAME",
+      "priority": 300121,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "ec41516cc5fe36a1",
+      "image": "icon_eq_events_eyepatch_trinket_1.png",
+      "level": 1,
+      "name": "eq_events_eyepatch_1_trinket_lord1",
+      "name_placeholder": "EQ_EVENTS_EYEPATCH_1_TRINKET_LORD1_NAME",
+      "priority": 300122,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "2b078344934488cb",
+      "image": "icon_eq_events_eyepatch_trinket_1.png",
+      "level": 5,
+      "name": "eq_events_eyepatch_5_trinket_lord5",
+      "name_placeholder": "EQ_EVENTS_EYEPATCH_5_TRINKET_LORD5_NAME",
+      "priority": 300123,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "6ebe5b000e38f74d",
+      "image": "icon_eq_events_eyepatch_trinket_1.png",
+      "level": 10,
+      "name": "eq_events_eyepatch_10_trinket_lord10",
+      "name_placeholder": "EQ_EVENTS_EYEPATCH_10_TRINKET_LORD10_NAME",
+      "priority": 300124,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "4f700455c2e2ae21",
+      "image": "icon_eq_events_eyepatch_trinket_1.png",
+      "level": 15,
+      "name": "eq_events_eyepatch_15_trinket_lord15",
+      "name_placeholder": "EQ_EVENTS_EYEPATCH_15_TRINKET_LORD15_NAME",
+      "priority": 300125,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "4cc2c9b940479b28",
+      "image": "icon_eq_events_eyepatch_trinket_1.png",
+      "level": 20,
+      "name": "eq_events_eyepatch_20_trinket_lord20",
+      "name_placeholder": "EQ_EVENTS_EYEPATCH_20_TRINKET_LORD20_NAME",
+      "priority": 300126,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "6d0c96ec8c9dc244",
+      "image": "icon_eq_events_eyepatch_trinket_1.png",
+      "level": 25,
+      "name": "eq_events_eyepatch_25_trinket_lord25",
+      "name_placeholder": "EQ_EVENTS_EYEPATCH_25_TRINKET_LORD25_NAME",
+      "priority": 300127,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "52e947d18592bf0b",
+      "image": "icon_eq_events_eyepatch_trinket_1.png",
+      "level": 30,
+      "name": "eq_events_eyepatch_30_trinket_lord30",
+      "name_placeholder": "EQ_EVENTS_EYEPATCH_30_TRINKET_LORD30_NAME",
+      "priority": 300128,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "732718844948e667",
+      "image": "icon_eq_events_eyepatch_trinket_1.png",
+      "level": 35,
+      "name": "eq_events_eyepatch_35_trinket_lord35",
+      "name_placeholder": "EQ_EVENTS_EYEPATCH_35_TRINKET_LORD35_NAME",
+      "priority": 300129,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "83beccbdcb943e2",
+      "image": "icon_eq_events_eyepatch_trinket_1.png",
+      "level": 40,
+      "name": "eq_events_eyepatch_40_trinket_lord40",
+      "name_placeholder": "EQ_EVENTS_EYEPATCH_40_TRINKET_LORD40_NAME",
+      "priority": 300130,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "29f5b39e10631a8e",
+      "image": "icon_eq_events_eyepatch_trinket_1.png",
+      "level": 45,
+      "name": "eq_events_eyepatch_45_trinket_lord45",
+      "name_placeholder": "EQ_EVENTS_EYEPATCH_45_TRINKET_LORD45_NAME",
+      "priority": 300131,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "161062a3196c67c1",
+      "image": "icon_eq_events_eyepatch_trinket_1.png",
+      "level": 50,
+      "name": "eq_events_eyepatch_50_trinket_lord50",
+      "name_placeholder": "EQ_EVENTS_EYEPATCH_50_TRINKET_LORD50_NAME",
+      "priority": 300132,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "eb03d120cef2ad11",
+      "image": "icon_eq_events_books_trinket_1.png",
+      "level": 1,
+      "name": "eq_events_books_1_trinket_lord1",
+      "name_placeholder": "EQ_EVENTS_BOOKS_1_TRINKET_LORD1_NAME",
+      "priority": 300133,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "2c4503089848137b",
+      "image": "icon_eq_events_books_trinket_1.png",
+      "level": 5,
+      "name": "eq_events_books_5_trinket_lord5",
+      "name_placeholder": "EQ_EVENTS_BOOKS_5_TRINKET_LORD5_NAME",
+      "priority": 300134,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "9734eb4e44731e51",
+      "image": "icon_eq_events_books_trinket_1.png",
+      "level": 10,
+      "name": "eq_events_books_10_trinket_lord10",
+      "name_placeholder": "EQ_EVENTS_BOOKS_10_TRINKET_LORD10_NAME",
+      "priority": 300135,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "b6fab41b88a9473d",
+      "image": "icon_eq_events_books_trinket_1.png",
+      "level": 15,
+      "name": "eq_events_books_15_trinket_lord15",
+      "name_placeholder": "EQ_EVENTS_BOOKS_15_TRINKET_LORD15_NAME",
+      "priority": 300136,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "b54879f70a0c7234",
+      "image": "icon_eq_events_books_trinket_1.png",
+      "level": 20,
+      "name": "eq_events_books_20_trinket_lord20",
+      "name_placeholder": "EQ_EVENTS_BOOKS_20_TRINKET_LORD20_NAME",
+      "priority": 300137,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "948626a2c6d62b58",
+      "image": "icon_eq_events_books_trinket_1.png",
+      "level": 25,
+      "name": "eq_events_books_25_trinket_lord25",
+      "name_placeholder": "EQ_EVENTS_BOOKS_25_TRINKET_LORD25_NAME",
+      "priority": 300138,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "ab63f79fcfd95617",
+      "image": "icon_eq_events_books_trinket_1.png",
+      "level": 30,
+      "name": "eq_events_books_30_trinket_lord30",
+      "name_placeholder": "EQ_EVENTS_BOOKS_30_TRINKET_LORD30_NAME",
+      "priority": 300139,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "8aada8ca03030f7b",
+      "image": "icon_eq_events_books_trinket_1.png",
+      "level": 35,
+      "name": "eq_events_books_35_trinket_lord35",
+      "name_placeholder": "EQ_EVENTS_BOOKS_35_TRINKET_LORD35_NAME",
+      "priority": 300140,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "f1b15c8596f2aafe",
+      "image": "icon_eq_events_books_trinket_1.png",
+      "level": 40,
+      "name": "eq_events_books_40_trinket_lord40",
+      "name_placeholder": "EQ_EVENTS_BOOKS_40_TRINKET_LORD40_NAME",
+      "priority": 300141,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "d07f03d05a28f392",
+      "image": "icon_eq_events_books_trinket_1.png",
+      "level": 45,
+      "name": "eq_events_books_45_trinket_lord45",
+      "name_placeholder": "EQ_EVENTS_BOOKS_45_TRINKET_LORD45_NAME",
+      "priority": 300142,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "ef9ad2ed53278edd",
+      "image": "icon_eq_events_books_trinket_1.png",
+      "level": 50,
+      "name": "eq_events_books_50_trinket_lord50",
+      "name_placeholder": "EQ_EVENTS_BOOKS_50_TRINKET_LORD50_NAME",
+      "priority": 300143,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "e1fc906998a989a1",
+      "image": "icon_eq_events_bloodycrown_trinket_1.png",
+      "level": 1,
+      "name": "eq_events_bloodycrown_1_trinket_lord1",
+      "name_placeholder": "EQ_EVENTS_BLOODYCROWN_1_TRINKET_LORD1_NAME",
+      "priority": 300144,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "26ba4241ce1337cb",
+      "image": "icon_eq_events_bloodycrown_trinket_1.png",
+      "level": 5,
+      "name": "eq_events_bloodycrown_5_trinket_lord5",
+      "name_placeholder": "EQ_EVENTS_BLOODYCROWN_5_TRINKET_LORD5_NAME",
+      "priority": 300145,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "55749fab6c2a2bf5",
+      "image": "icon_eq_events_bloodycrown_trinket_1.png",
+      "level": 10,
+      "name": "eq_events_bloodycrown_10_trinket_lord10",
+      "name_placeholder": "EQ_EVENTS_BLOODYCROWN_10_TRINKET_LORD10_NAME",
+      "priority": 300146,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "74bac0fea0f07299",
+      "image": "icon_eq_events_bloodycrown_trinket_1.png",
+      "level": 15,
+      "name": "eq_events_bloodycrown_15_trinket_lord15",
+      "name_placeholder": "EQ_EVENTS_BLOODYCROWN_15_TRINKET_LORD15_NAME",
+      "priority": 300147,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "77080d1222554790",
+      "image": "icon_eq_events_bloodycrown_trinket_1.png",
+      "level": 20,
+      "name": "eq_events_bloodycrown_20_trinket_lord20",
+      "name_placeholder": "EQ_EVENTS_BLOODYCROWN_20_TRINKET_LORD20_NAME",
+      "priority": 300148,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "56c65247ee8f1efc",
+      "image": "icon_eq_events_bloodycrown_trinket_1.png",
+      "level": 25,
+      "name": "eq_events_bloodycrown_25_trinket_lord25",
+      "name_placeholder": "EQ_EVENTS_BLOODYCROWN_25_TRINKET_LORD25_NAME",
+      "priority": 300149,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "6923837ae78063b3",
+      "image": "icon_eq_events_bloodycrown_trinket_1.png",
+      "level": 30,
+      "name": "eq_events_bloodycrown_30_trinket_lord30",
+      "name_placeholder": "EQ_EVENTS_BLOODYCROWN_30_TRINKET_LORD30_NAME",
+      "priority": 300150,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "48eddc2f2b5a3adf",
+      "image": "icon_eq_events_bloodycrown_trinket_1.png",
+      "level": 35,
+      "name": "eq_events_bloodycrown_35_trinket_lord35",
+      "name_placeholder": "EQ_EVENTS_BLOODYCROWN_35_TRINKET_LORD35_NAME",
+      "priority": 300151,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "33f12860beab9f5a",
+      "image": "icon_eq_events_bloodycrown_trinket_1.png",
+      "level": 40,
+      "name": "eq_events_bloodycrown_40_trinket_lord40",
+      "name_placeholder": "EQ_EVENTS_BLOODYCROWN_40_TRINKET_LORD40_NAME",
+      "priority": 300152,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "123f77357271c636",
+      "image": "icon_eq_events_bloodycrown_trinket_1.png",
+      "level": 45,
+      "name": "eq_events_bloodycrown_45_trinket_lord45",
+      "name_placeholder": "EQ_EVENTS_BLOODYCROWN_45_TRINKET_LORD45_NAME",
+      "priority": 300153,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "2ddaa6087b7ebb79",
+      "image": "icon_eq_events_bloodycrown_trinket_1.png",
+      "level": 50,
+      "name": "eq_events_bloodycrown_50_trinket_lord50",
+      "name_placeholder": "EQ_EVENTS_BLOODYCROWN_50_TRINKET_LORD50_NAME",
+      "priority": 300154,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "4763e92c72763548",
+      "image": "icon_eq_events_snakewhip_trinket_1.png",
+      "level": 1,
+      "name": "eq_events_snakewhip_1_trinket_lord1",
+      "name_placeholder": "EQ_EVENTS_SNAKEWHIP_1_TRINKET_LORD1_NAME",
+      "priority": 300155,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "80253b0424cc8b22",
+      "image": "icon_eq_events_snakewhip_trinket_1.png",
+      "level": 5,
+      "name": "eq_events_snakewhip_5_trinket_lord5",
+      "name_placeholder": "EQ_EVENTS_SNAKEWHIP_5_TRINKET_LORD5_NAME",
+      "priority": 300156,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "4fe09c684c6640d6",
+      "image": "icon_eq_events_snakewhip_trinket_1.png",
+      "level": 10,
+      "name": "eq_events_snakewhip_10_trinket_lord10",
+      "name_placeholder": "EQ_EVENTS_SNAKEWHIP_10_TRINKET_LORD10_NAME",
+      "priority": 300157,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "6e2ec33d80bc19ba",
+      "image": "icon_eq_events_snakewhip_trinket_1.png",
+      "level": 15,
+      "name": "eq_events_snakewhip_15_trinket_lord15",
+      "name_placeholder": "EQ_EVENTS_SNAKEWHIP_15_TRINKET_LORD15_NAME",
+      "priority": 300158,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "6d9c0ed102192cb3",
+      "image": "icon_eq_events_snakewhip_trinket_1.png",
+      "level": 20,
+      "name": "eq_events_snakewhip_20_trinket_lord20",
+      "name_placeholder": "EQ_EVENTS_SNAKEWHIP_20_TRINKET_LORD20_NAME",
+      "priority": 300159,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "4c525184cec375df",
+      "image": "icon_eq_events_snakewhip_trinket_1.png",
+      "level": 25,
+      "name": "eq_events_snakewhip_25_trinket_lord25",
+      "name_placeholder": "EQ_EVENTS_SNAKEWHIP_25_TRINKET_LORD25_NAME",
+      "priority": 300160,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "73b780b9c7cc0890",
+      "image": "icon_eq_events_snakewhip_trinket_1.png",
+      "level": 30,
+      "name": "eq_events_snakewhip_30_trinket_lord30",
+      "name_placeholder": "EQ_EVENTS_SNAKEWHIP_30_TRINKET_LORD30_NAME",
+      "priority": 300161,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "5279dfec0b1651fc",
+      "image": "icon_eq_events_snakewhip_trinket_1.png",
+      "level": 35,
+      "name": "eq_events_snakewhip_35_trinket_lord35",
+      "name_placeholder": "EQ_EVENTS_SNAKEWHIP_35_TRINKET_LORD35_NAME",
+      "priority": 300162,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "29652ba39ee7f479",
+      "image": "icon_eq_events_snakewhip_trinket_1.png",
+      "level": 40,
+      "name": "eq_events_snakewhip_40_trinket_lord40",
+      "name_placeholder": "EQ_EVENTS_SNAKEWHIP_40_TRINKET_LORD40_NAME",
+      "priority": 300163,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "8ab74f6523dad15",
+      "image": "icon_eq_events_snakewhip_trinket_1.png",
+      "level": 45,
+      "name": "eq_events_snakewhip_45_trinket_lord45",
+      "name_placeholder": "EQ_EVENTS_SNAKEWHIP_45_TRINKET_LORD45_NAME",
+      "priority": 300164,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "374ea5cb5b32d05a",
+      "image": "icon_eq_events_snakewhip_trinket_1.png",
+      "level": 50,
+      "name": "eq_events_snakewhip_50_trinket_lord50",
+      "name_placeholder": "EQ_EVENTS_SNAKEWHIP_50_TRINKET_LORD50_NAME",
+      "priority": 300165,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "edbb9a6de67dd577",
+      "image": "icon_eq_events_storybook_trinket_1.png",
+      "level": 1,
+      "name": "eq_events_storybook_1_trinket_lord1",
+      "name_placeholder": "EQ_EVENTS_STORYBOOK_1_TRINKET_LORD1_NAME",
+      "priority": 300166,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "2afd4845b0c76b1d",
+      "image": "icon_eq_events_storybook_trinket_1.png",
+      "level": 5,
+      "name": "eq_events_storybook_5_trinket_lord5",
+      "name_placeholder": "EQ_EVENTS_STORYBOOK_5_TRINKET_LORD5_NAME",
+      "priority": 300167,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "7a42749b85a01ebc",
+      "image": "icon_eq_events_storybook_trinket_1.png",
+      "level": 10,
+      "name": "eq_events_storybook_10_trinket_lord10",
+      "name_placeholder": "EQ_EVENTS_STORYBOOK_10_TRINKET_LORD10_NAME",
+      "priority": 300168,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "5b8c2bce497a47d0",
+      "image": "icon_eq_events_storybook_trinket_1.png",
+      "level": 15,
+      "name": "eq_events_storybook_15_trinket_lord15",
+      "name_placeholder": "EQ_EVENTS_STORYBOOK_15_TRINKET_LORD15_NAME",
+      "priority": 300169,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "583ee622cbdf72d9",
+      "image": "icon_eq_events_storybook_trinket_1.png",
+      "level": 20,
+      "name": "eq_events_storybook_20_trinket_lord20",
+      "name_placeholder": "EQ_EVENTS_STORYBOOK_20_TRINKET_LORD20_NAME",
+      "priority": 300170,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "79f0b97707052bb5",
+      "image": "icon_eq_events_storybook_trinket_1.png",
+      "level": 25,
+      "name": "eq_events_storybook_25_trinket_lord25",
+      "name_placeholder": "EQ_EVENTS_STORYBOOK_25_TRINKET_LORD25_NAME",
+      "priority": 300171,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "4615684a0e0a56fa",
+      "image": "icon_eq_events_storybook_trinket_1.png",
+      "level": 30,
+      "name": "eq_events_storybook_30_trinket_lord30",
+      "name_placeholder": "EQ_EVENTS_STORYBOOK_30_TRINKET_LORD30_NAME",
+      "priority": 300172,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "67db371fc2d00f96",
+      "image": "icon_eq_events_storybook_trinket_1.png",
+      "level": 35,
+      "name": "eq_events_storybook_35_trinket_lord35",
+      "name_placeholder": "EQ_EVENTS_STORYBOOK_35_TRINKET_LORD35_NAME",
+      "priority": 300173,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "1cc7c3505721aa13",
+      "image": "icon_eq_events_storybook_trinket_1.png",
+      "level": 40,
+      "name": "eq_events_storybook_40_trinket_lord40",
+      "name_placeholder": "EQ_EVENTS_STORYBOOK_40_TRINKET_LORD40_NAME",
+      "priority": 300174,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "3d099c059bfbf37f",
+      "image": "icon_eq_events_storybook_trinket_1.png",
+      "level": 45,
+      "name": "eq_events_storybook_45_trinket_lord45",
+      "name_placeholder": "EQ_EVENTS_STORYBOOK_45_TRINKET_LORD45_NAME",
+      "priority": 300175,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "2ec4d3892f48e30",
+      "image": "icon_eq_events_storybook_trinket_1.png",
+      "level": 50,
+      "name": "eq_events_storybook_50_trinket_lord50",
+      "name_placeholder": "EQ_EVENTS_STORYBOOK_50_TRINKET_LORD50_NAME",
+      "priority": 300176,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "b33953219cfed8c0",
+      "image": "icon_eq_events_drinkinghorn_trinket_1.png",
+      "level": 1,
+      "name": "eq_events_drinkinghorn_1_trinket_lord1",
+      "name_placeholder": "EQ_EVENTS_DRINKINGHORN_1_TRINKET_LORD1_NAME",
+      "priority": 300177,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "747f8109ca4466aa",
+      "image": "icon_eq_events_drinkinghorn_trinket_1.png",
+      "level": 5,
+      "name": "eq_events_drinkinghorn_5_trinket_lord5",
+      "name_placeholder": "EQ_EVENTS_DRINKINGHORN_5_TRINKET_LORD5_NAME",
+      "priority": 300178,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "fb8b7cddf11e19a2",
+      "image": "icon_eq_events_drinkinghorn_trinket_1.png",
+      "level": 10,
+      "name": "eq_events_drinkinghorn_10_trinket_lord10",
+      "name_placeholder": "EQ_EVENTS_DRINKINGHORN_10_TRINKET_LORD10_NAME",
+      "priority": 300179,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "da4523883dc440ce",
+      "image": "icon_eq_events_drinkinghorn_trinket_1.png",
+      "level": 15,
+      "name": "eq_events_drinkinghorn_15_trinket_lord15",
+      "name_placeholder": "EQ_EVENTS_DRINKINGHORN_15_TRINKET_LORD15_NAME",
+      "priority": 300180,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "d9f7ee64bf6175c7",
+      "image": "icon_eq_events_drinkinghorn_trinket_1.png",
+      "level": 20,
+      "name": "eq_events_drinkinghorn_20_trinket_lord20",
+      "name_placeholder": "EQ_EVENTS_DRINKINGHORN_20_TRINKET_LORD20_NAME",
+      "priority": 300181,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "f839b13173bb2cab",
+      "image": "icon_eq_events_drinkinghorn_trinket_1.png",
+      "level": 25,
+      "name": "eq_events_drinkinghorn_25_trinket_lord25",
+      "name_placeholder": "EQ_EVENTS_DRINKINGHORN_25_TRINKET_LORD25_NAME",
+      "priority": 300182,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "c7dc600c7ab451e4",
+      "image": "icon_eq_events_drinkinghorn_trinket_1.png",
+      "level": 30,
+      "name": "eq_events_drinkinghorn_30_trinket_lord30",
+      "name_placeholder": "EQ_EVENTS_DRINKINGHORN_30_TRINKET_LORD30_NAME",
+      "priority": 300183,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "e6123f59b66e0888",
+      "image": "icon_eq_events_drinkinghorn_trinket_1.png",
+      "level": 35,
+      "name": "eq_events_drinkinghorn_35_trinket_lord35",
+      "name_placeholder": "EQ_EVENTS_DRINKINGHORN_35_TRINKET_LORD35_NAME",
+      "priority": 300184,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "9d0ecb16239fad0d",
+      "image": "icon_eq_events_drinkinghorn_trinket_1.png",
+      "level": 40,
+      "name": "eq_events_drinkinghorn_40_trinket_lord40",
+      "name_placeholder": "EQ_EVENTS_DRINKINGHORN_40_TRINKET_LORD40_NAME",
+      "priority": 300185,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "bcc09443ef45f461",
+      "image": "icon_eq_events_drinkinghorn_trinket_1.png",
+      "level": 45,
+      "name": "eq_events_drinkinghorn_45_trinket_lord45",
+      "name_placeholder": "EQ_EVENTS_DRINKINGHORN_45_TRINKET_LORD45_NAME",
+      "priority": 300186,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "8325457ee64a892e",
+      "image": "icon_eq_events_drinkinghorn_trinket_1.png",
+      "level": 50,
+      "name": "eq_events_drinkinghorn_50_trinket_lord50",
+      "name_placeholder": "EQ_EVENTS_DRINKINGHORN_50_TRINKET_LORD50_NAME",
+      "priority": 300187,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "85fefae5bc4398d8",
+      "image": "icon_eq_events_blueprints_trinket_1.png",
+      "level": 1,
+      "name": "eq_events_blueprints_1_trinket_lord1",
+      "name_placeholder": "EQ_EVENTS_BLUEPRINTS_1_TRINKET_LORD1_NAME",
+      "priority": 300188,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "42b828cdeaf926b2",
+      "image": "icon_eq_events_blueprints_trinket_1.png",
+      "level": 5,
+      "name": "eq_events_blueprints_5_trinket_lord5",
+      "name_placeholder": "EQ_EVENTS_BLUEPRINTS_5_TRINKET_LORD5_NAME",
+      "priority": 300189,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "21555de0f658c5e8",
+      "image": "icon_eq_events_blueprints_trinket_1.png",
+      "level": 10,
+      "name": "eq_events_blueprints_10_trinket_lord10",
+      "name_placeholder": "EQ_EVENTS_BLUEPRINTS_10_TRINKET_LORD10_NAME",
+      "priority": 300190,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "9b02b53a829c84",
+      "image": "icon_eq_events_blueprints_trinket_1.png",
+      "level": 15,
+      "name": "eq_events_blueprints_15_trinket_lord15",
+      "name_placeholder": "EQ_EVENTS_BLUEPRINTS_15_TRINKET_LORD15_NAME",
+      "priority": 300191,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "329cf59b827a98d",
+      "image": "icon_eq_events_blueprints_trinket_1.png",
+      "level": 20,
+      "name": "eq_events_blueprints_20_trinket_lord20",
+      "name_placeholder": "EQ_EVENTS_BLUEPRINTS_20_TRINKET_LORD20_NAME",
+      "priority": 300192,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "22e7900c74fdf0e1",
+      "image": "icon_eq_events_blueprints_trinket_1.png",
+      "level": 25,
+      "name": "eq_events_blueprints_25_trinket_lord25",
+      "name_placeholder": "EQ_EVENTS_BLUEPRINTS_25_TRINKET_LORD25_NAME",
+      "priority": 300193,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "1d0241317df28dae",
+      "image": "icon_eq_events_blueprints_trinket_1.png",
+      "level": 30,
+      "name": "eq_events_blueprints_30_trinket_lord30",
+      "name_placeholder": "EQ_EVENTS_BLUEPRINTS_30_TRINKET_LORD30_NAME",
+      "priority": 300194,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "3ccc1e64b128d4c2",
+      "image": "icon_eq_events_blueprints_trinket_1.png",
+      "level": 35,
+      "name": "eq_events_blueprints_35_trinket_lord35",
+      "name_placeholder": "EQ_EVENTS_BLUEPRINTS_35_TRINKET_LORD35_NAME",
+      "priority": 300195,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "47d0ea2b24d97147",
+      "image": "icon_eq_events_blueprints_trinket_1.png",
+      "level": 40,
+      "name": "eq_events_blueprints_40_trinket_lord40",
+      "name_placeholder": "EQ_EVENTS_BLUEPRINTS_40_TRINKET_LORD40_NAME",
+      "priority": 300196,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "661eb57ee803282b",
+      "image": "icon_eq_events_blueprints_trinket_1.png",
+      "level": 45,
+      "name": "eq_events_blueprints_45_trinket_lord45",
+      "name_placeholder": "EQ_EVENTS_BLUEPRINTS_45_TRINKET_LORD45_NAME",
+      "priority": 300197,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "59fb6443e10c5564",
+      "image": "icon_eq_events_blueprints_trinket_1.png",
+      "level": 50,
+      "name": "eq_events_blueprints_50_trinket_lord50",
+      "name_placeholder": "EQ_EVENTS_BLUEPRINTS_50_TRINKET_LORD50_NAME",
+      "priority": 300198,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "5b1bb4d40e2f625f",
+      "image": "icon_eq_events_toysoldier_trinket_1.png",
+      "level": 1,
+      "name": "eq_events_toysoldier_1_trinket_lord1",
+      "name_placeholder": "EQ_EVENTS_TOYSOLDIER_1_TRINKET_LORD1_NAME",
+      "priority": 300199,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "9c5d66fc5895dc35",
+      "image": "icon_eq_events_toysoldier_trinket_1.png",
+      "level": 5,
+      "name": "eq_events_toysoldier_5_trinket_lord5",
+      "name_placeholder": "EQ_EVENTS_TOYSOLDIER_5_TRINKET_LORD5_NAME",
+      "priority": 300200,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "29cafe8a13782e02",
+      "image": "icon_eq_events_toysoldier_trinket_1.png",
+      "level": 10,
+      "name": "eq_events_toysoldier_10_trinket_lord10",
+      "name_placeholder": "EQ_EVENTS_TOYSOLDIER_10_TRINKET_LORD10_NAME",
+      "priority": 300201,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "804a1dfdfa2776e",
+      "image": "icon_eq_events_toysoldier_trinket_1.png",
+      "level": 15,
+      "name": "eq_events_toysoldier_15_trinket_lord15",
+      "name_placeholder": "EQ_EVENTS_TOYSOLDIER_15_TRINKET_LORD15_NAME",
+      "priority": 300202,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "bb66c335d074267",
+      "image": "icon_eq_events_toysoldier_trinket_1.png",
+      "level": 20,
+      "name": "eq_events_toysoldier_20_trinket_lord20",
+      "name_placeholder": "EQ_EVENTS_TOYSOLDIER_20_TRINKET_LORD20_NAME",
+      "priority": 300203,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "2a78336691dd1b0b",
+      "image": "icon_eq_events_toysoldier_trinket_1.png",
+      "level": 25,
+      "name": "eq_events_toysoldier_25_trinket_lord25",
+      "name_placeholder": "EQ_EVENTS_TOYSOLDIER_25_TRINKET_LORD25_NAME",
+      "priority": 300204,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "159de25b98d26644",
+      "image": "icon_eq_events_toysoldier_trinket_1.png",
+      "level": 30,
+      "name": "eq_events_toysoldier_30_trinket_lord30",
+      "name_placeholder": "EQ_EVENTS_TOYSOLDIER_30_TRINKET_LORD30_NAME",
+      "priority": 300205,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "3453bd0e54083f28",
+      "image": "icon_eq_events_toysoldier_trinket_1.png",
+      "level": 35,
+      "name": "eq_events_toysoldier_35_trinket_lord35",
+      "name_placeholder": "EQ_EVENTS_TOYSOLDIER_35_TRINKET_LORD35_NAME",
+      "priority": 300206,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "4f4f4941c1f99aad",
+      "image": "icon_eq_events_toysoldier_trinket_1.png",
+      "level": 40,
+      "name": "eq_events_toysoldier_40_trinket_lord40",
+      "name_placeholder": "EQ_EVENTS_TOYSOLDIER_40_TRINKET_LORD40_NAME",
+      "priority": 300207,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "6e8116140d23c3c1",
+      "image": "icon_eq_events_toysoldier_trinket_1.png",
+      "level": 45,
+      "name": "eq_events_toysoldier_45_trinket_lord45",
+      "name_placeholder": "EQ_EVENTS_TOYSOLDIER_45_TRINKET_LORD45_NAME",
+      "priority": 300208,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "5164c729042cbe8e",
+      "image": "icon_eq_events_toysoldier_trinket_1.png",
+      "level": 50,
+      "name": "eq_events_toysoldier_50_trinket_lord50",
+      "name_placeholder": "EQ_EVENTS_TOYSOLDIER_50_TRINKET_LORD50_NAME",
+      "priority": 300209,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "18f8fa0293001dc7",
+      "image": "icon_eq_events_joustingshield_trinket_1.png",
+      "level": 1,
+      "name": "eq_events_trinket_queenlb_1_trinket_lord1",
+      "name_placeholder": "EQ_EVENTS_TRINKET_QUEENLB_1_TRINKET_LORD1_NAME",
+      "priority": 300210,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "dfbe282ac5baa3ad",
+      "image": "icon_eq_events_joustingshield_trinket_1.png",
+      "level": 5,
+      "name": "eq_events_trinket_queenlb_5_trinket_lord5",
+      "name_placeholder": "EQ_EVENTS_TRINKET_QUEENLB_5_TRINKET_LORD5_NAME",
+      "priority": 300211,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "1ffba76caf45c15d",
+      "image": "icon_eq_events_joustingshield_trinket_1.png",
+      "level": 10,
+      "name": "eq_events_trinket_queenlb_10_trinket_lord10",
+      "name_placeholder": "EQ_EVENTS_TRINKET_QUEENLB_10_TRINKET_LORD10_NAME",
+      "priority": 300212,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "3e35f839639f9831",
+      "image": "icon_eq_events_joustingshield_trinket_1.png",
+      "level": 15,
+      "name": "eq_events_trinket_queenlb_15_trinket_lord15",
+      "name_placeholder": "EQ_EVENTS_TRINKET_QUEENLB_15_TRINKET_LORD15_NAME",
+      "priority": 300213,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "3d8735d5e13aad38",
+      "image": "icon_eq_events_joustingshield_trinket_1.png",
+      "level": 20,
+      "name": "eq_events_trinket_queenlb_20_trinket_lord20",
+      "name_placeholder": "EQ_EVENTS_TRINKET_QUEENLB_20_TRINKET_LORD20_NAME",
+      "priority": 300214,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "1c496a802de0f454",
+      "image": "icon_eq_events_joustingshield_trinket_1.png",
+      "level": 25,
+      "name": "eq_events_trinket_queenlb_25_trinket_lord25",
+      "name_placeholder": "EQ_EVENTS_TRINKET_QUEENLB_25_TRINKET_LORD25_NAME",
+      "priority": 300215,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "23acbbbd24ef891b",
+      "image": "icon_eq_events_joustingshield_trinket_1.png",
+      "level": 30,
+      "name": "eq_events_trinket_queenlb_30_trinket_lord30",
+      "name_placeholder": "EQ_EVENTS_TRINKET_QUEENLB_30_TRINKET_LORD30_NAME",
+      "priority": 300216,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "262e4e8e835d077",
+      "image": "icon_eq_events_joustingshield_trinket_1.png",
+      "level": 35,
+      "name": "eq_events_trinket_queenlb_35_trinket_lord35",
+      "name_placeholder": "EQ_EVENTS_TRINKET_QUEENLB_35_TRINKET_LORD35_NAME",
+      "priority": 300217,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "797e10a77dc475f2",
+      "image": "icon_eq_events_joustingshield_trinket_1.png",
+      "level": 40,
+      "name": "eq_events_trinket_queenlb_40_trinket_lord40",
+      "name_placeholder": "EQ_EVENTS_TRINKET_QUEENLB_40_TRINKET_LORD40_NAME",
+      "priority": 300218,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "58b04ff2b11e2c9e",
+      "image": "icon_eq_events_joustingshield_trinket_1.png",
+      "level": 45,
+      "name": "eq_events_trinket_queenlb_45_trinket_lord45",
+      "name_placeholder": "EQ_EVENTS_TRINKET_QUEENLB_45_TRINKET_LORD45_NAME",
+      "priority": 300219,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "67559ecfb81151d1",
+      "image": "icon_eq_events_joustingshield_trinket_1.png",
+      "level": 50,
+      "name": "eq_events_trinket_queenlb_50_trinket_lord50",
+      "name_placeholder": "EQ_EVENTS_TRINKET_QUEENLB_50_TRINKET_LORD50_NAME",
+      "priority": 300220,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "d39846e5431db87b",
+      "image": "icon_eq_events_rhllor_trinket_1.png",
+      "level": 1,
+      "name": "eq_events_trinket_rhllor_1_trinket_lord1",
+      "name_placeholder": "EQ_EVENTS_TRINKET_RHLLOR_1_TRINKET_LORD1_NAME",
+      "priority": 300221,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "14de94cd15a70611",
+      "image": "icon_eq_events_rhllor_trinket_1.png",
+      "level": 5,
+      "name": "eq_events_trinket_rhllor_5_trinket_lord5",
+      "name_placeholder": "EQ_EVENTS_TRINKET_RHLLOR_5_TRINKET_LORD5_NAME",
+      "priority": 300222,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "d812ba4c529c084",
+      "image": "icon_eq_events_rhllor_trinket_1.png",
+      "level": 10,
+      "name": "eq_events_trinket_rhllor_10_trinket_lord10",
+      "name_placeholder": "EQ_EVENTS_TRINKET_RHLLOR_10_TRINKET_LORD10_NAME",
+      "priority": 300223,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "2c4f74f109f399e8",
+      "image": "icon_eq_events_rhllor_trinket_1.png",
+      "level": 15,
+      "name": "eq_events_trinket_rhllor_15_trinket_lord15",
+      "name_placeholder": "EQ_EVENTS_TRINKET_RHLLOR_15_TRINKET_LORD15_NAME",
+      "priority": 300224,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "2ffdb91d8b56ace1",
+      "image": "icon_eq_events_rhllor_trinket_1.png",
+      "level": 20,
+      "name": "eq_events_trinket_rhllor_20_trinket_lord20",
+      "name_placeholder": "EQ_EVENTS_TRINKET_RHLLOR_20_TRINKET_LORD20_NAME",
+      "priority": 300225,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "e33e648478cf58d",
+      "image": "icon_eq_events_rhllor_trinket_1.png",
+      "level": 25,
+      "name": "eq_events_trinket_rhllor_25_trinket_lord25",
+      "name_placeholder": "EQ_EVENTS_TRINKET_RHLLOR_25_TRINKET_LORD25_NAME",
+      "priority": 300226,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "31d637754e8388c2",
+      "image": "icon_eq_events_rhllor_trinket_1.png",
+      "level": 30,
+      "name": "eq_events_trinket_rhllor_30_trinket_lord30",
+      "name_placeholder": "EQ_EVENTS_TRINKET_RHLLOR_30_TRINKET_LORD30_NAME",
+      "priority": 300227,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "101868208259d1ae",
+      "image": "icon_eq_events_rhllor_trinket_1.png",
+      "level": 35,
+      "name": "eq_events_trinket_rhllor_35_trinket_lord35",
+      "name_placeholder": "EQ_EVENTS_TRINKET_RHLLOR_35_TRINKET_LORD35_NAME",
+      "priority": 300228,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "6b049c6f17a8742b",
+      "image": "icon_eq_events_rhllor_trinket_1.png",
+      "level": 40,
+      "name": "eq_events_trinket_rhllor_40_trinket_lord40",
+      "name_placeholder": "EQ_EVENTS_TRINKET_RHLLOR_40_TRINKET_LORD40_NAME",
+      "priority": 300229,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "4acac33adb722d47",
+      "image": "icon_eq_events_rhllor_trinket_1.png",
+      "level": 45,
+      "name": "eq_events_trinket_rhllor_45_trinket_lord45",
+      "name_placeholder": "EQ_EVENTS_TRINKET_RHLLOR_45_TRINKET_LORD45_NAME",
+      "priority": 300230,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "752f1207d27d5008",
+      "image": "icon_eq_events_rhllor_trinket_1.png",
+      "level": 50,
+      "name": "eq_events_trinket_rhllor_50_trinket_lord50",
+      "name_placeholder": "EQ_EVENTS_TRINKET_RHLLOR_50_TRINKET_LORD50_NAME",
+      "priority": 300231,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "f444236ba21fff99",
+      "image": "icon_eq_events_trinket_ironann_trinket_1.png",
+      "level": 1,
+      "name": "eq_events_trinket_ironann_1_trinket_lord1",
+      "name_placeholder": "EQ_EVENTS_TRINKET_IRONANN_1_TRINKET_LORD1_NAME",
+      "priority": 300232,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "3302f143f4a541f3",
+      "image": "icon_eq_events_trinket_ironann_trinket_1.png",
+      "level": 5,
+      "name": "eq_events_trinket_ironann_5_trinket_lord5",
+      "name_placeholder": "EQ_EVENTS_TRINKET_IRONANN_5_TRINKET_LORD5_NAME",
+      "priority": 300233,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "189529f0125a44af",
+      "image": "icon_eq_events_trinket_ironann_trinket_1.png",
+      "level": 10,
+      "name": "eq_events_trinket_ironann_10_trinket_lord10",
+      "name_placeholder": "EQ_EVENTS_TRINKET_IRONANN_10_TRINKET_LORD10_NAME",
+      "priority": 300234,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "395b76a5de801dc3",
+      "image": "icon_eq_events_trinket_ironann_trinket_1.png",
+      "level": 15,
+      "name": "eq_events_trinket_ironann_15_trinket_lord15",
+      "name_placeholder": "EQ_EVENTS_TRINKET_IRONANN_15_TRINKET_LORD15_NAME",
+      "priority": 300235,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "3ae9bb495c2528ca",
+      "image": "icon_eq_events_trinket_ironann_trinket_1.png",
+      "level": 20,
+      "name": "eq_events_trinket_ironann_20_trinket_lord20",
+      "name_placeholder": "EQ_EVENTS_TRINKET_IRONANN_20_TRINKET_LORD20_NAME",
+      "priority": 300236,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "1b27e41c90ff71a6",
+      "image": "icon_eq_events_trinket_ironann_trinket_1.png",
+      "level": 25,
+      "name": "eq_events_trinket_ironann_25_trinket_lord25",
+      "name_placeholder": "EQ_EVENTS_TRINKET_IRONANN_25_TRINKET_LORD25_NAME",
+      "priority": 300237,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "24c2352199f00ce9",
+      "image": "icon_eq_events_trinket_ironann_trinket_1.png",
+      "level": 30,
+      "name": "eq_events_trinket_ironann_30_trinket_lord30",
+      "name_placeholder": "EQ_EVENTS_TRINKET_IRONANN_30_TRINKET_LORD30_NAME",
+      "priority": 300238,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "50c6a74552a5585",
+      "image": "icon_eq_events_trinket_ironann_trinket_1.png",
+      "level": 35,
+      "name": "eq_events_trinket_ironann_35_trinket_lord35",
+      "name_placeholder": "EQ_EVENTS_TRINKET_IRONANN_35_TRINKET_LORD35_NAME",
+      "priority": 300239,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "7e109e3bc0dbf000",
+      "image": "icon_eq_events_trinket_ironann_trinket_1.png",
+      "level": 40,
+      "name": "eq_events_trinket_ironann_40_trinket_lord40",
+      "name_placeholder": "EQ_EVENTS_TRINKET_IRONANN_40_TRINKET_LORD40_NAME",
+      "priority": 300240,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "5fdec16e0c01a96c",
+      "image": "icon_eq_events_trinket_ironann_trinket_1.png",
+      "level": 45,
+      "name": "eq_events_trinket_ironann_45_trinket_lord45",
+      "name_placeholder": "EQ_EVENTS_TRINKET_IRONANN_45_TRINKET_LORD45_NAME",
+      "priority": 300241,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "603b1053050ed423",
+      "image": "icon_eq_events_trinket_ironann_trinket_1.png",
+      "level": 50,
+      "name": "eq_events_trinket_ironann_50_trinket_lord50",
+      "name_placeholder": "EQ_EVENTS_TRINKET_IRONANN_50_TRINKET_LORD50_NAME",
+      "priority": 300242,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "99e2f2ec66208057",
+      "image": "icon_eq_events_cersei_trinket_1.png",
+      "level": 1,
+      "name": "eq_events_trinket_cersei_1_trinket_lord1",
+      "name_placeholder": "EQ_EVENTS_TRINKET_CERSEI_1_TRINKET_LORD1_NAME",
+      "priority": 300243,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "5ea420c4309a3e3d",
+      "image": "icon_eq_events_cersei_trinket_1.png",
+      "level": 5,
+      "name": "eq_events_trinket_cersei_5_trinket_lord5",
+      "name_placeholder": "EQ_EVENTS_TRINKET_CERSEI_5_TRINKET_LORD5_NAME",
+      "priority": 300244,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "a838a07efe112c11",
+      "image": "icon_eq_events_cersei_trinket_1.png",
+      "level": 10,
+      "name": "eq_events_trinket_cersei_10_trinket_lord10",
+      "name_placeholder": "EQ_EVENTS_TRINKET_CERSEI_10_TRINKET_LORD10_NAME",
+      "priority": 300245,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "89f6ff2b32cb757d",
+      "image": "icon_eq_events_cersei_trinket_1.png",
+      "level": 15,
+      "name": "eq_events_trinket_cersei_15_trinket_lord15",
+      "name_placeholder": "EQ_EVENTS_TRINKET_CERSEI_15_TRINKET_LORD15_NAME",
+      "priority": 300246,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "8a4432c7b06e4074",
+      "image": "icon_eq_events_cersei_trinket_1.png",
+      "level": 20,
+      "name": "eq_events_trinket_cersei_20_trinket_lord20",
+      "name_placeholder": "EQ_EVENTS_TRINKET_CERSEI_20_TRINKET_LORD20_NAME",
+      "priority": 300247,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "ab8a6d927cb41918",
+      "image": "icon_eq_events_cersei_trinket_1.png",
+      "level": 25,
+      "name": "eq_events_trinket_cersei_25_trinket_lord25",
+      "name_placeholder": "EQ_EVENTS_TRINKET_CERSEI_25_TRINKET_LORD25_NAME",
+      "priority": 300248,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "946fbcaf75bb6457",
+      "image": "icon_eq_events_cersei_trinket_1.png",
+      "level": 30,
+      "name": "eq_events_trinket_cersei_30_trinket_lord30",
+      "name_placeholder": "EQ_EVENTS_TRINKET_CERSEI_30_TRINKET_LORD30_NAME",
+      "priority": 300249,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "b5a1e3fab9613d3b",
+      "image": "icon_eq_events_cersei_trinket_1.png",
+      "level": 35,
+      "name": "eq_events_trinket_cersei_35_trinket_lord35",
+      "name_placeholder": "EQ_EVENTS_TRINKET_CERSEI_35_TRINKET_LORD35_NAME",
+      "priority": 300250,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "cebd17b52c9098be",
+      "image": "icon_eq_events_cersei_trinket_1.png",
+      "level": 40,
+      "name": "eq_events_trinket_cersei_40_trinket_lord40",
+      "name_placeholder": "EQ_EVENTS_TRINKET_CERSEI_40_TRINKET_LORD40_NAME",
+      "priority": 300251,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "ef7348e0e04ac1d2",
+      "image": "icon_eq_events_cersei_trinket_1.png",
+      "level": 45,
+      "name": "eq_events_trinket_cersei_45_trinket_lord45",
+      "name_placeholder": "EQ_EVENTS_TRINKET_CERSEI_45_TRINKET_LORD45_NAME",
+      "priority": 300252,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "d09699dde945bc9d",
+      "image": "icon_eq_events_cersei_trinket_1.png",
+      "level": 50,
+      "name": "eq_events_trinket_cersei_50_trinket_lord50",
+      "name_placeholder": "EQ_EVENTS_TRINKET_CERSEI_50_TRINKET_LORD50_NAME",
+      "priority": 300253,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "f3a0c47e6c68c447",
+      "image": "icon_eq_events_kingsmoot_trinket_1.png",
+      "level": 1,
+      "name": "eq_events_trinket_kingsmoot_1_trinket_lord1",
+      "name_placeholder": "EQ_EVENTS_TRINKET_KINGSMOOT_1_TRINKET_LORD1_NAME",
+      "priority": 300254,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "34e616563ad27a2d",
+      "image": "icon_eq_events_kingsmoot_trinket_1.png",
+      "level": 5,
+      "name": "eq_events_trinket_kingsmoot_5_trinket_lord5",
+      "name_placeholder": "EQ_EVENTS_TRINKET_KINGSMOOT_5_TRINKET_LORD5_NAME",
+      "priority": 300255,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "e83a916873591ade",
+      "image": "icon_eq_events_kingsmoot_trinket_1.png",
+      "level": 10,
+      "name": "eq_events_trinket_kingsmoot_10_trinket_lord10",
+      "name_placeholder": "EQ_EVENTS_TRINKET_KINGSMOOT_10_TRINKET_LORD10_NAME",
+      "priority": 300256,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "c9f4ce3dbf8343b2",
+      "image": "icon_eq_events_kingsmoot_trinket_1.png",
+      "level": 15,
+      "name": "eq_events_trinket_kingsmoot_15_trinket_lord15",
+      "name_placeholder": "EQ_EVENTS_TRINKET_KINGSMOOT_15_TRINKET_LORD15_NAME",
+      "priority": 300257,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "ca4603d13d2676bb",
+      "image": "icon_eq_events_kingsmoot_trinket_1.png",
+      "level": 20,
+      "name": "eq_events_trinket_kingsmoot_20_trinket_lord20",
+      "name_placeholder": "EQ_EVENTS_TRINKET_KINGSMOOT_20_TRINKET_LORD20_NAME",
+      "priority": 300258,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "eb885c84f1fc2fd7",
+      "image": "icon_eq_events_kingsmoot_trinket_1.png",
+      "level": 25,
+      "name": "eq_events_trinket_kingsmoot_25_trinket_lord25",
+      "name_placeholder": "EQ_EVENTS_TRINKET_KINGSMOOT_25_TRINKET_LORD25_NAME",
+      "priority": 300259,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "d46d8db9f8f35298",
+      "image": "icon_eq_events_kingsmoot_trinket_1.png",
+      "level": 30,
+      "name": "eq_events_trinket_kingsmoot_30_trinket_lord30",
+      "name_placeholder": "EQ_EVENTS_TRINKET_KINGSMOOT_30_TRINKET_LORD30_NAME",
+      "priority": 300260,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "f5a3d2ec34290bf4",
+      "image": "icon_eq_events_kingsmoot_trinket_1.png",
+      "level": 35,
+      "name": "eq_events_trinket_kingsmoot_35_trinket_lord35",
+      "name_placeholder": "EQ_EVENTS_TRINKET_KINGSMOOT_35_TRINKET_LORD35_NAME",
+      "priority": 300261,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "8ebf26a3a1d8ae71",
+      "image": "icon_eq_events_kingsmoot_trinket_1.png",
+      "level": 40,
+      "name": "eq_events_trinket_kingsmoot_40_trinket_lord40",
+      "name_placeholder": "EQ_EVENTS_TRINKET_KINGSMOOT_40_TRINKET_LORD40_NAME",
+      "priority": 300262,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "af7179f66d02f71d",
+      "image": "icon_eq_events_kingsmoot_trinket_1.png",
+      "level": 45,
+      "name": "eq_events_trinket_kingsmoot_45_trinket_lord45",
+      "name_placeholder": "EQ_EVENTS_TRINKET_KINGSMOOT_45_TRINKET_LORD45_NAME",
+      "priority": 300263,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "9094a8cb640d8a52",
+      "image": "icon_eq_events_kingsmoot_trinket_1.png",
+      "level": 50,
+      "name": "eq_events_trinket_kingsmoot_50_trinket_lord50",
+      "name_placeholder": "EQ_EVENTS_TRINKET_KINGSMOOT_50_TRINKET_LORD50_NAME",
+      "priority": 300264,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "8deb45193194e4ce",
+      "image": "icon_eq_events_freedom_trinket_1.png",
+      "level": 1,
+      "name": "eq_events_trinket_freedom_1_trinket_lord1",
+      "name_placeholder": "EQ_EVENTS_TRINKET_FREEDOM_1_TRINKET_LORD1_NAME",
+      "priority": 300265,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "4aad9731672e5aa4",
+      "image": "icon_eq_events_freedom_trinket_1.png",
+      "level": 5,
+      "name": "eq_events_trinket_freedom_5_trinket_lord5",
+      "name_placeholder": "EQ_EVENTS_TRINKET_FREEDOM_5_TRINKET_LORD5_NAME",
+      "priority": 300266,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "43defd6ba709450e",
+      "image": "icon_eq_events_freedom_trinket_1.png",
+      "level": 10,
+      "name": "eq_events_trinket_freedom_10_trinket_lord10",
+      "name_placeholder": "EQ_EVENTS_TRINKET_FREEDOM_10_TRINKET_LORD10_NAME",
+      "priority": 300267,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "6210a23e6bd31c62",
+      "image": "icon_eq_events_freedom_trinket_1.png",
+      "level": 15,
+      "name": "eq_events_trinket_freedom_15_trinket_lord15",
+      "name_placeholder": "EQ_EVENTS_TRINKET_FREEDOM_15_TRINKET_LORD15_NAME",
+      "priority": 300268,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "61a26fd2e976296b",
+      "image": "icon_eq_events_freedom_trinket_1.png",
+      "level": 20,
+      "name": "eq_events_trinket_freedom_20_trinket_lord20",
+      "name_placeholder": "EQ_EVENTS_TRINKET_FREEDOM_20_TRINKET_LORD20_NAME",
+      "priority": 300269,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "406c308725ac7007",
+      "image": "icon_eq_events_freedom_trinket_1.png",
+      "level": 25,
+      "name": "eq_events_trinket_freedom_25_trinket_lord25",
+      "name_placeholder": "EQ_EVENTS_TRINKET_FREEDOM_25_TRINKET_LORD25_NAME",
+      "priority": 300270,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "7f89e1ba2ca30d48",
+      "image": "icon_eq_events_freedom_trinket_1.png",
+      "level": 30,
+      "name": "eq_events_trinket_freedom_30_trinket_lord30",
+      "name_placeholder": "EQ_EVENTS_TRINKET_FREEDOM_30_TRINKET_LORD30_NAME",
+      "priority": 300271,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "5e47beefe0795424",
+      "image": "icon_eq_events_freedom_trinket_1.png",
+      "level": 35,
+      "name": "eq_events_trinket_freedom_35_trinket_lord35",
+      "name_placeholder": "EQ_EVENTS_TRINKET_FREEDOM_35_TRINKET_LORD35_NAME",
+      "priority": 300272,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "255b4aa07588f1a1",
+      "image": "icon_eq_events_freedom_trinket_1.png",
+      "level": 40,
+      "name": "eq_events_trinket_freedom_40_trinket_lord40",
+      "name_placeholder": "EQ_EVENTS_TRINKET_FREEDOM_40_TRINKET_LORD40_NAME",
+      "priority": 300273,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "49515f5b952a8cd",
+      "image": "icon_eq_events_freedom_trinket_1.png",
+      "level": 45,
+      "name": "eq_events_trinket_freedom_45_trinket_lord45",
+      "name_placeholder": "EQ_EVENTS_TRINKET_FREEDOM_45_TRINKET_LORD45_NAME",
+      "priority": 300274,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "3b70c4c8b05dd582",
+      "image": "icon_eq_events_freedom_trinket_1.png",
+      "level": 50,
+      "name": "eq_events_trinket_freedom_50_trinket_lord50",
+      "name_placeholder": "EQ_EVENTS_TRINKET_FREEDOM_50_TRINKET_LORD50_NAME",
+      "priority": 300275,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "5b859e7cdacaad0f",
+      "image": "icon_eq_events_dawn_trinket_1.png",
+      "level": 1,
+      "name": "eq_events_trinket_dawn_1_trinket_lord1",
+      "name_placeholder": "EQ_EVENTS_TRINKET_DAWN_1_TRINKET_LORD1_NAME",
+      "priority": 300276,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "9cc34c548c701365",
+      "image": "icon_eq_events_dawn_trinket_1.png",
+      "level": 5,
+      "name": "eq_events_trinket_dawn_5_trinket_lord5",
+      "name_placeholder": "EQ_EVENTS_TRINKET_DAWN_5_TRINKET_LORD5_NAME",
+      "priority": 300277,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "f2d29402051e20eb",
+      "image": "icon_eq_events_dawn_trinket_1.png",
+      "level": 10,
+      "name": "eq_events_trinket_dawn_10_trinket_lord10",
+      "name_placeholder": "EQ_EVENTS_TRINKET_DAWN_10_TRINKET_LORD10_NAME",
+      "priority": 300278,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "d31ccb57c9c47987",
+      "image": "icon_eq_events_dawn_trinket_1.png",
+      "level": 15,
+      "name": "eq_events_trinket_dawn_15_trinket_lord15",
+      "name_placeholder": "EQ_EVENTS_TRINKET_DAWN_15_TRINKET_LORD15_NAME",
+      "priority": 300279,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "d0ae06bb4b614c8e",
+      "image": "icon_eq_events_dawn_trinket_1.png",
+      "level": 20,
+      "name": "eq_events_trinket_dawn_20_trinket_lord20",
+      "name_placeholder": "EQ_EVENTS_TRINKET_DAWN_20_TRINKET_LORD20_NAME",
+      "priority": 300280,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "f16059ee87bb15e2",
+      "image": "icon_eq_events_dawn_trinket_1.png",
+      "level": 25,
+      "name": "eq_events_trinket_dawn_25_trinket_lord25",
+      "name_placeholder": "EQ_EVENTS_TRINKET_DAWN_25_TRINKET_LORD25_NAME",
+      "priority": 300281,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "ce8588d38eb468ad",
+      "image": "icon_eq_events_dawn_trinket_1.png",
+      "level": 30,
+      "name": "eq_events_trinket_dawn_30_trinket_lord30",
+      "name_placeholder": "EQ_EVENTS_TRINKET_DAWN_30_TRINKET_LORD30_NAME",
+      "priority": 300282,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "ef4bd786426e31c1",
+      "image": "icon_eq_events_dawn_trinket_1.png",
+      "level": 35,
+      "name": "eq_events_trinket_dawn_35_trinket_lord35",
+      "name_placeholder": "EQ_EVENTS_TRINKET_DAWN_35_TRINKET_LORD35_NAME",
+      "priority": 300283,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "945723c9d79f9444",
+      "image": "icon_eq_events_dawn_trinket_1.png",
+      "level": 40,
+      "name": "eq_events_trinket_dawn_40_trinket_lord40",
+      "name_placeholder": "EQ_EVENTS_TRINKET_DAWN_40_TRINKET_LORD40_NAME",
+      "priority": 300284,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "b5997c9c1b45cd28",
+      "image": "icon_eq_events_dawn_trinket_1.png",
+      "level": 45,
+      "name": "eq_events_trinket_dawn_45_trinket_lord45",
+      "name_placeholder": "EQ_EVENTS_TRINKET_DAWN_45_TRINKET_LORD45_NAME",
+      "priority": 300285,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "8a7cada1124ab067",
+      "image": "icon_eq_events_dawn_trinket_1.png",
+      "level": 50,
+      "name": "eq_events_trinket_dawn_50_trinket_lord50",
+      "name_placeholder": "EQ_EVENTS_TRINKET_DAWN_50_TRINKET_LORD50_NAME",
+      "priority": 300286,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "1afac19ca923ce3c",
+      "image": "icon_eq_events_stark_trinket_1.png",
+      "level": 1,
+      "name": "eq_events_trinket_stark_1_trinket_lord1",
+      "name_placeholder": "EQ_EVENTS_TRINKET_STARK_1_TRINKET_LORD1_NAME",
+      "priority": 300287,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "ddbc13b4ff997056",
+      "image": "icon_eq_events_stark_trinket_1.png",
+      "level": 5,
+      "name": "eq_events_trinket_stark_5_trinket_lord5",
+      "name_placeholder": "EQ_EVENTS_TRINKET_STARK_5_TRINKET_LORD5_NAME",
+      "priority": 300288,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "4ea939a9314488ac",
+      "image": "icon_eq_events_stark_trinket_1.png",
+      "level": 10,
+      "name": "eq_events_trinket_stark_10_trinket_lord10",
+      "name_placeholder": "EQ_EVENTS_TRINKET_STARK_10_TRINKET_LORD10_NAME",
+      "priority": 300289,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "6f6766fcfd9ed1c0",
+      "image": "icon_eq_events_stark_trinket_1.png",
+      "level": 15,
+      "name": "eq_events_trinket_stark_15_trinket_lord15",
+      "name_placeholder": "EQ_EVENTS_TRINKET_STARK_15_TRINKET_LORD15_NAME",
+      "priority": 300290,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "6cd5ab107f3be4c9",
+      "image": "icon_eq_events_stark_trinket_1.png",
+      "level": 20,
+      "name": "eq_events_trinket_stark_20_trinket_lord20",
+      "name_placeholder": "EQ_EVENTS_TRINKET_STARK_20_TRINKET_LORD20_NAME",
+      "priority": 300291,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "4d1bf445b3e1bda5",
+      "image": "icon_eq_events_stark_trinket_1.png",
+      "level": 25,
+      "name": "eq_events_trinket_stark_25_trinket_lord25",
+      "name_placeholder": "EQ_EVENTS_TRINKET_STARK_25_TRINKET_LORD25_NAME",
+      "priority": 300292,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "72fe2578baeec0ea",
+      "image": "icon_eq_events_stark_trinket_1.png",
+      "level": 30,
+      "name": "eq_events_trinket_stark_30_trinket_lord30",
+      "name_placeholder": "EQ_EVENTS_TRINKET_STARK_30_TRINKET_LORD30_NAME",
+      "priority": 300293,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "53307a2d76349986",
+      "image": "icon_eq_events_stark_trinket_1.png",
+      "level": 35,
+      "name": "eq_events_trinket_stark_35_trinket_lord35",
+      "name_placeholder": "EQ_EVENTS_TRINKET_STARK_35_TRINKET_LORD35_NAME",
+      "priority": 300294,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "282c8e62e3c53c03",
+      "image": "icon_eq_events_stark_trinket_1.png",
+      "level": 40,
+      "name": "eq_events_trinket_stark_40_trinket_lord40",
+      "name_placeholder": "EQ_EVENTS_TRINKET_STARK_40_TRINKET_LORD40_NAME",
+      "priority": 300295,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "9e2d1372f1f656f",
+      "image": "icon_eq_events_stark_trinket_1.png",
+      "level": 45,
+      "name": "eq_events_trinket_stark_45_trinket_lord45",
+      "name_placeholder": "EQ_EVENTS_TRINKET_STARK_45_TRINKET_LORD45_NAME",
+      "priority": 300296,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "3607000a26101820",
+      "image": "icon_eq_events_stark_trinket_1.png",
+      "level": 50,
+      "name": "eq_events_trinket_stark_50_trinket_lord50",
+      "name_placeholder": "EQ_EVENTS_TRINKET_STARK_50_TRINKET_LORD50_NAME",
+      "priority": 300297,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "b6a79a072795e662",
+      "image": "icon_eq_events_oldnan3_trinket_1.png",
+      "level": 1,
+      "name": "eq_events_trinket_oldnan3_1_trinket_lord1",
+      "name_placeholder": "EQ_EVENTS_TRINKET_OLDNAN3_1_TRINKET_LORD1_NAME",
+      "priority": 300298,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "71e1482f712f5808",
+      "image": "icon_eq_events_oldnan3_trinket_1.png",
+      "level": 5,
+      "name": "eq_events_trinket_oldnan3_5_trinket_lord5",
+      "name_placeholder": "EQ_EVENTS_TRINKET_OLDNAN3_5_TRINKET_LORD5_NAME",
+      "priority": 300299,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "95beef44c1510232",
+      "image": "icon_eq_events_oldnan3_trinket_1.png",
+      "level": 10,
+      "name": "eq_events_trinket_oldnan3_10_trinket_lord10",
+      "name_placeholder": "EQ_EVENTS_TRINKET_OLDNAN3_10_TRINKET_LORD10_NAME",
+      "priority": 300300,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "b470b0110d8b5b5e",
+      "image": "icon_eq_events_oldnan3_trinket_1.png",
+      "level": 15,
+      "name": "eq_events_trinket_oldnan3_15_trinket_lord15",
+      "name_placeholder": "EQ_EVENTS_TRINKET_OLDNAN3_15_TRINKET_LORD15_NAME",
+      "priority": 300301,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "b7c27dfd8f2e6e57",
+      "image": "icon_eq_events_oldnan3_trinket_1.png",
+      "level": 20,
+      "name": "eq_events_trinket_oldnan3_20_trinket_lord20",
+      "name_placeholder": "EQ_EVENTS_TRINKET_OLDNAN3_20_TRINKET_LORD20_NAME",
+      "priority": 300302,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "960c22a843f4373b",
+      "image": "icon_eq_events_oldnan3_trinket_1.png",
+      "level": 25,
+      "name": "eq_events_trinket_oldnan3_25_trinket_lord25",
+      "name_placeholder": "EQ_EVENTS_TRINKET_OLDNAN3_25_TRINKET_LORD25_NAME",
+      "priority": 300303,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "a9e9f3954afb4a74",
+      "image": "icon_eq_events_oldnan3_trinket_1.png",
+      "level": 30,
+      "name": "eq_events_trinket_oldnan3_30_trinket_lord30",
+      "name_placeholder": "EQ_EVENTS_TRINKET_OLDNAN3_30_TRINKET_LORD30_NAME",
+      "priority": 300304,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "8827acc086211318",
+      "image": "icon_eq_events_oldnan3_trinket_1.png",
+      "level": 35,
+      "name": "eq_events_trinket_oldnan3_35_trinket_lord35",
+      "name_placeholder": "EQ_EVENTS_TRINKET_OLDNAN3_35_TRINKET_LORD35_NAME",
+      "priority": 300305,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "f33b588f13d0b69d",
+      "image": "icon_eq_events_oldnan3_trinket_1.png",
+      "level": 40,
+      "name": "eq_events_trinket_oldnan3_40_trinket_lord40",
+      "name_placeholder": "EQ_EVENTS_TRINKET_OLDNAN3_40_TRINKET_LORD40_NAME",
+      "priority": 300306,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "d2f507dadf0aeff1",
+      "image": "icon_eq_events_oldnan3_trinket_1.png",
+      "level": 45,
+      "name": "eq_events_trinket_oldnan3_45_trinket_lord45",
+      "name_placeholder": "EQ_EVENTS_TRINKET_OLDNAN3_45_TRINKET_LORD45_NAME",
+      "priority": 300307,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "ed10d6e7d60592be",
+      "image": "icon_eq_events_oldnan3_trinket_1.png",
+      "level": 50,
+      "name": "eq_events_trinket_oldnan3_50_trinket_lord50",
+      "name_placeholder": "EQ_EVENTS_TRINKET_OLDNAN3_50_TRINKET_LORD50_NAME",
+      "priority": 300308,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "332c562582b962ac",
+      "image": "icon_eq_events_harvest_trinket_1.png",
+      "level": 1,
+      "name": "eq_events_trinket_harvest_1_trinket_lord1",
+      "name_placeholder": "EQ_EVENTS_TRINKET_HARVEST_1_TRINKET_LORD1_NAME",
+      "priority": 300309,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "f46a840dd403dcc6",
+      "image": "icon_eq_events_harvest_trinket_1.png",
+      "level": 5,
+      "name": "eq_events_trinket_harvest_5_trinket_lord5",
+      "name_placeholder": "EQ_EVENTS_TRINKET_HARVEST_5_TRINKET_LORD5_NAME",
+      "priority": 300310,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "cedd8ccb859b9c7",
+      "image": "icon_eq_events_harvest_trinket_1.png",
+      "level": 10,
+      "name": "eq_events_trinket_harvest_10_trinket_lord10",
+      "name_placeholder": "EQ_EVENTS_TRINKET_HARVEST_10_TRINKET_LORD10_NAME",
+      "priority": 300311,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "2d2387997483e0ab",
+      "image": "icon_eq_events_harvest_trinket_1.png",
+      "level": 15,
+      "name": "eq_events_trinket_harvest_15_trinket_lord15",
+      "name_placeholder": "EQ_EVENTS_TRINKET_HARVEST_15_TRINKET_LORD15_NAME",
+      "priority": 300312,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "2e914a75f626d5a2",
+      "image": "icon_eq_events_harvest_trinket_1.png",
+      "level": 20,
+      "name": "eq_events_trinket_harvest_20_trinket_lord20",
+      "name_placeholder": "EQ_EVENTS_TRINKET_HARVEST_20_TRINKET_LORD20_NAME",
+      "priority": 300313,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "f5f15203afc8cce",
+      "image": "icon_eq_events_harvest_trinket_1.png",
+      "level": 25,
+      "name": "eq_events_trinket_harvest_25_trinket_lord25",
+      "name_placeholder": "EQ_EVENTS_TRINKET_HARVEST_25_TRINKET_LORD25_NAME",
+      "priority": 300314,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "30bac41d33f3f181",
+      "image": "icon_eq_events_harvest_trinket_1.png",
+      "level": 30,
+      "name": "eq_events_trinket_harvest_30_trinket_lord30",
+      "name_placeholder": "EQ_EVENTS_TRINKET_HARVEST_30_TRINKET_LORD30_NAME",
+      "priority": 300315,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "11749b48ff29a8ed",
+      "image": "icon_eq_events_harvest_trinket_1.png",
+      "level": 35,
+      "name": "eq_events_trinket_harvest_35_trinket_lord35",
+      "name_placeholder": "EQ_EVENTS_TRINKET_HARVEST_35_TRINKET_LORD35_NAME",
+      "priority": 300316,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "6a686f076ad80d68",
+      "image": "icon_eq_events_harvest_trinket_1.png",
+      "level": 40,
+      "name": "eq_events_trinket_harvest_40_trinket_lord40",
+      "name_placeholder": "EQ_EVENTS_TRINKET_HARVEST_40_TRINKET_LORD40_NAME",
+      "priority": 300317,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "4ba63052a6025404",
+      "image": "icon_eq_events_harvest_trinket_1.png",
+      "level": 45,
+      "name": "eq_events_trinket_harvest_45_trinket_lord45",
+      "name_placeholder": "EQ_EVENTS_TRINKET_HARVEST_45_TRINKET_LORD45_NAME",
+      "priority": 300318,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "7443e16faf0d294b",
+      "image": "icon_eq_events_harvest_trinket_1.png",
+      "level": 50,
+      "name": "eq_events_trinket_harvest_50_trinket_lord50",
+      "name_placeholder": "EQ_EVENTS_TRINKET_HARVEST_50_TRINKET_LORD50_NAME",
+      "priority": 300319,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "fcdf3e271965d424",
+      "image": "icon_eq_events_yara_trinket_1.png",
+      "level": 1,
+      "name": "eq_events_trinket_yara_1_trinket_lord1",
+      "name_placeholder": "EQ_EVENTS_TRINKET_YARA_1_TRINKET_LORD1_NAME",
+      "priority": 300320,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "3b99ec0f4fdf6a4e",
+      "image": "icon_eq_events_yara_trinket_1.png",
+      "level": 5,
+      "name": "eq_events_trinket_yara_5_trinket_lord5",
+      "name_placeholder": "EQ_EVENTS_TRINKET_YARA_5_TRINKET_LORD5_NAME",
+      "priority": 300321,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "c1818d28a4961d90",
+      "image": "icon_eq_events_yara_trinket_1.png",
+      "level": 10,
+      "name": "eq_events_trinket_yara_10_trinket_lord10",
+      "name_placeholder": "EQ_EVENTS_TRINKET_YARA_10_TRINKET_LORD10_NAME",
+      "priority": 300322,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "e04fd27d684c44fc",
+      "image": "icon_eq_events_yara_trinket_1.png",
+      "level": 15,
+      "name": "eq_events_trinket_yara_15_trinket_lord15",
+      "name_placeholder": "EQ_EVENTS_TRINKET_YARA_15_TRINKET_LORD15_NAME",
+      "priority": 300323,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "e3fd1f91eae971f5",
+      "image": "icon_eq_events_yara_trinket_1.png",
+      "level": 20,
+      "name": "eq_events_trinket_yara_20_trinket_lord20",
+      "name_placeholder": "EQ_EVENTS_TRINKET_YARA_20_TRINKET_LORD20_NAME",
+      "priority": 300324,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "c23340c426332899",
+      "image": "icon_eq_events_yara_trinket_1.png",
+      "level": 25,
+      "name": "eq_events_trinket_yara_25_trinket_lord25",
+      "name_placeholder": "EQ_EVENTS_TRINKET_YARA_25_TRINKET_LORD25_NAME",
+      "priority": 300325,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "fdd691f92f3c55d6",
+      "image": "icon_eq_events_yara_trinket_1.png",
+      "level": 30,
+      "name": "eq_events_trinket_yara_30_trinket_lord30",
+      "name_placeholder": "EQ_EVENTS_TRINKET_YARA_30_TRINKET_LORD30_NAME",
+      "priority": 300326,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "dc18ceace3e60cba",
+      "image": "icon_eq_events_yara_trinket_1.png",
+      "level": 35,
+      "name": "eq_events_trinket_yara_35_trinket_lord35",
+      "name_placeholder": "EQ_EVENTS_TRINKET_YARA_35_TRINKET_LORD35_NAME",
+      "priority": 300327,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "a7043ae37617a93f",
+      "image": "icon_eq_events_yara_trinket_1.png",
+      "level": 40,
+      "name": "eq_events_trinket_yara_40_trinket_lord40",
+      "name_placeholder": "EQ_EVENTS_TRINKET_YARA_40_TRINKET_LORD40_NAME",
+      "priority": 300328,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "86ca65b6bacdf053",
+      "image": "icon_eq_events_yara_trinket_1.png",
+      "level": 45,
+      "name": "eq_events_trinket_yara_45_trinket_lord45",
+      "name_placeholder": "EQ_EVENTS_TRINKET_YARA_45_TRINKET_LORD45_NAME",
+      "priority": 300329,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "b92fb48bb3c28d1c",
+      "image": "icon_eq_events_yara_trinket_1.png",
+      "level": 50,
+      "name": "eq_events_trinket_yara_50_trinket_lord50",
+      "name_placeholder": "EQ_EVENTS_TRINKET_YARA_50_TRINKET_LORD50_NAME",
+      "priority": 300330,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "b45badd48b22d146",
+      "image": "icon_eq_events_harrenhal2_trinket_1.png",
+      "level": 1,
+      "name": "eq_events_trinket_harrenhal2_1_trinket_lord1",
+      "name_placeholder": "EQ_EVENTS_TRINKET_HARRENHAL2_1_TRINKET_LORD1_NAME",
+      "priority": 300331,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "731d7ffcdd986f2c",
+      "image": "icon_eq_events_harrenhal2_trinket_1.png",
+      "level": 5,
+      "name": "eq_events_trinket_harrenhal2_5_trinket_lord5",
+      "name_placeholder": "EQ_EVENTS_TRINKET_HARRENHAL2_5_TRINKET_LORD5_NAME",
+      "priority": 300332,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "3afd231d462b95a8",
+      "image": "icon_eq_events_harrenhal2_trinket_1.png",
+      "level": 10,
+      "name": "eq_events_trinket_harrenhal2_10_trinket_lord10",
+      "name_placeholder": "EQ_EVENTS_TRINKET_HARRENHAL2_10_TRINKET_LORD10_NAME",
+      "priority": 300333,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "1b337c488af1ccc4",
+      "image": "icon_eq_events_harrenhal2_trinket_1.png",
+      "level": 15,
+      "name": "eq_events_trinket_harrenhal2_15_trinket_lord15",
+      "name_placeholder": "EQ_EVENTS_TRINKET_HARRENHAL2_15_TRINKET_LORD15_NAME",
+      "priority": 300334,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "1881b1a40854f9cd",
+      "image": "icon_eq_events_harrenhal2_trinket_1.png",
+      "level": 20,
+      "name": "eq_events_trinket_harrenhal2_20_trinket_lord20",
+      "name_placeholder": "EQ_EVENTS_TRINKET_HARRENHAL2_20_TRINKET_LORD20_NAME",
+      "priority": 300335,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "394feef1c48ea0a1",
+      "image": "icon_eq_events_harrenhal2_trinket_1.png",
+      "level": 25,
+      "name": "eq_events_trinket_harrenhal2_25_trinket_lord25",
+      "name_placeholder": "EQ_EVENTS_TRINKET_HARRENHAL2_25_TRINKET_LORD25_NAME",
+      "priority": 300336,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "6aa3fcccd81ddee",
+      "image": "icon_eq_events_harrenhal2_trinket_1.png",
+      "level": 30,
+      "name": "eq_events_trinket_harrenhal2_30_trinket_lord30",
+      "name_placeholder": "EQ_EVENTS_TRINKET_HARRENHAL2_30_TRINKET_LORD30_NAME",
+      "priority": 300337,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "27646099015b8482",
+      "image": "icon_eq_events_harrenhal2_trinket_1.png",
+      "level": 35,
+      "name": "eq_events_trinket_harrenhal2_35_trinket_lord35",
+      "name_placeholder": "EQ_EVENTS_TRINKET_HARRENHAL2_35_TRINKET_LORD35_NAME",
+      "priority": 300338,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "5c7894d694aa2107",
+      "image": "icon_eq_events_harrenhal2_trinket_1.png",
+      "level": 40,
+      "name": "eq_events_trinket_harrenhal2_40_trinket_lord40",
+      "name_placeholder": "EQ_EVENTS_TRINKET_HARRENHAL2_40_TRINKET_LORD40_NAME",
+      "priority": 300339,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "7db6cb835870786b",
+      "image": "icon_eq_events_harrenhal2_trinket_1.png",
+      "level": 45,
+      "name": "eq_events_trinket_harrenhal2_45_trinket_lord45",
+      "name_placeholder": "EQ_EVENTS_TRINKET_HARRENHAL2_45_TRINKET_LORD45_NAME",
+      "priority": 300340,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "42531abe517f0524",
+      "image": "icon_eq_events_harrenhal2_trinket_1.png",
+      "level": 50,
+      "name": "eq_events_trinket_harrenhal2_50_trinket_lord50",
+      "name_placeholder": "EQ_EVENTS_TRINKET_HARRENHAL2_50_TRINKET_LORD50_NAME",
+      "priority": 300341,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "71d30122c8dfbab9",
+      "image": "icon_eq_events_oldtown_trinket_1.png",
+      "level": 1,
+      "name": "eq_events_trinket_oldtown_1_trinket_lord1",
+      "name_placeholder": "EQ_EVENTS_TRINKET_OLDTOWN_1_TRINKET_LORD1_NAME",
+      "priority": 300342,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "b695d30a9e6504d3",
+      "image": "icon_eq_events_oldtown_trinket_1.png",
+      "level": 5,
+      "name": "eq_events_trinket_oldtown_5_trinket_lord5",
+      "name_placeholder": "EQ_EVENTS_TRINKET_OLDTOWN_5_TRINKET_LORD5_NAME",
+      "priority": 300343,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "823d702f8ce75242",
+      "image": "icon_eq_events_oldtown_trinket_1.png",
+      "level": 10,
+      "name": "eq_events_trinket_oldtown_10_trinket_lord10",
+      "name_placeholder": "EQ_EVENTS_TRINKET_OLDTOWN_10_TRINKET_LORD10_NAME",
+      "priority": 300344,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "a3f32f7a403d0b2e",
+      "image": "icon_eq_events_oldtown_trinket_1.png",
+      "level": 15,
+      "name": "eq_events_trinket_oldtown_15_trinket_lord15",
+      "name_placeholder": "EQ_EVENTS_TRINKET_OLDTOWN_15_TRINKET_LORD15_NAME",
+      "priority": 300345,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "a041e296c2983e27",
+      "image": "icon_eq_events_oldtown_trinket_1.png",
+      "level": 20,
+      "name": "eq_events_trinket_oldtown_20_trinket_lord20",
+      "name_placeholder": "EQ_EVENTS_TRINKET_OLDTOWN_20_TRINKET_LORD20_NAME",
+      "priority": 300346,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "818fbdc30e42674b",
+      "image": "icon_eq_events_oldtown_trinket_1.png",
+      "level": 25,
+      "name": "eq_events_trinket_oldtown_25_trinket_lord25",
+      "name_placeholder": "EQ_EVENTS_TRINKET_OLDTOWN_25_TRINKET_LORD25_NAME",
+      "priority": 300347,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "be6a6cfe074d1a04",
+      "image": "icon_eq_events_oldtown_trinket_1.png",
+      "level": 30,
+      "name": "eq_events_trinket_oldtown_30_trinket_lord30",
+      "name_placeholder": "EQ_EVENTS_TRINKET_OLDTOWN_30_TRINKET_LORD30_NAME",
+      "priority": 300348,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "9fa433abcb974368",
+      "image": "icon_eq_events_oldtown_trinket_1.png",
+      "level": 35,
+      "name": "eq_events_trinket_oldtown_35_trinket_lord35",
+      "name_placeholder": "EQ_EVENTS_TRINKET_OLDTOWN_35_TRINKET_LORD35_NAME",
+      "priority": 300349,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "e4b8c7e45e66e6ed",
+      "image": "icon_eq_events_oldtown_trinket_1.png",
+      "level": 40,
+      "name": "eq_events_trinket_oldtown_40_trinket_lord40",
+      "name_placeholder": "EQ_EVENTS_TRINKET_OLDTOWN_40_TRINKET_LORD40_NAME",
+      "priority": 300350,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "c57698b192bcbf81",
+      "image": "icon_eq_events_oldtown_trinket_1.png",
+      "level": 45,
+      "name": "eq_events_trinket_oldtown_45_trinket_lord45",
+      "name_placeholder": "EQ_EVENTS_TRINKET_OLDTOWN_45_TRINKET_LORD45_NAME",
+      "priority": 300351,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "fa93498c9bb3c2ce",
+      "image": "icon_eq_events_oldtown_trinket_1.png",
+      "level": 50,
+      "name": "eq_events_trinket_oldtown_50_trinket_lord50",
+      "name_placeholder": "EQ_EVENTS_TRINKET_OLDTOWN_50_TRINKET_LORD50_NAME",
+      "priority": 300352,
+      "slot_name": "slot_Trinket"
+    }
+  ]
+}

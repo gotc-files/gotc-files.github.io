@@ -1,0 +1,327 @@
+{
+  "description": "Basic information about a trinket gear set",
+  "values": [
+    {
+      "color": {
+        "alpha": 255,
+        "blue": 78,
+        "green": 42
+      },
+      "description_placeholder": "EQ_TRINKETARMORY_LEGACY_1_SET_NAME_DESCRIPTION",
+      "id": "ebabfc50f6ae8873",
+      "name": "gearset_trinketarmory_legacy_1",
+      "name_placeholder": "EQ_TRINKETARMORY_LEGACY_1_SET_NAME",
+      "priority": 201,
+      "trinket_names": [
+        "prog_gearset_trinketarmory_1_slot1",
+        "prog_gearset_trinketarmory_1_slot2",
+        "prog_gearset_trinketarmory_1_slot3"
+      ]
+    },
+    {
+      "color": {
+        "alpha": 255,
+        "blue": 88,
+        "green": 142,
+        "red": 195
+      },
+      "description_placeholder": "EQ_TRINKETARMORY_LEGACY_2_SET_NAME_DESCRIPTION",
+      "id": "9eb9a0bb2f5b7a7d",
+      "name": "gearset_trinketarmory_legacy_2",
+      "name_placeholder": "EQ_TRINKETARMORY_LEGACY_2_SET_NAME",
+      "priority": 202,
+      "trinket_names": [
+        "prog_gearset_trinketarmory_2_slot1",
+        "prog_gearset_trinketarmory_2_slot2",
+        "prog_gearset_trinketarmory_2_slot3"
+      ]
+    },
+    {
+      "color": {
+        "alpha": 255,
+        "blue": 17,
+        "green": 116,
+        "red": 216
+      },
+      "description_placeholder": "EQ_TRINKETARMORY_LEGACY_3_SET_NAME_DESCRIPTION",
+      "id": "b2486b1d98082b87",
+      "name": "gearset_trinketarmory_legacy_3",
+      "name_placeholder": "EQ_TRINKETARMORY_LEGACY_3_SET_NAME",
+      "priority": 203,
+      "trinket_names": [
+        "prog_gearset_trinketarmory_3_slot1",
+        "prog_gearset_trinketarmory_3_slot2",
+        "prog_gearset_trinketarmory_3_slot3"
+      ]
+    },
+    {
+      "color": {
+        "alpha": 255,
+        "blue": 53,
+        "green": 77,
+        "red": 19
+      },
+      "description_placeholder": "EQ_TRINKETARMORY_LEGACY_6_SET_NAME_DESCRIPTION",
+      "id": "2d7e8e21f2163d95",
+      "name": "gearset_trinketarmory_legacy_6",
+      "name_placeholder": "EQ_TRINKETARMORY_LEGACY_6_SET_NAME",
+      "priority": 204,
+      "trinket_names": [
+        "prog_gearset_trinketarmory_6_slot1",
+        "prog_gearset_trinketarmory_6_slot2",
+        "prog_gearset_trinketarmory_6_slot3"
+      ]
+    },
+    {
+      "color": {
+        "alpha": 255,
+        "blue": 11,
+        "green": 31,
+        "red": 111
+      },
+      "description_placeholder": "EQ_TRINKETARMORY_LEGACY_5_SET_NAME_DESCRIPTION",
+      "id": "586cd2ca2be3cf9b",
+      "name": "gearset_trinketarmory_legacy_5",
+      "name_placeholder": "EQ_TRINKETARMORY_LEGACY_5_SET_NAME",
+      "priority": 205,
+      "trinket_names": [
+        "prog_gearset_trinketarmory_5_slot1",
+        "prog_gearset_trinketarmory_5_slot2",
+        "prog_gearset_trinketarmory_5_slot3"
+      ]
+    },
+    {
+      "color": {
+        "alpha": 255,
+        "blue": 19,
+        "green": 185,
+        "red": 253
+      },
+      "description_placeholder": "EQ_TRINKETARMORY_LEGACY_4_SET_NAME_DESCRIPTION",
+      "id": "749d196c9cb09e61",
+      "name": "gearset_trinketarmory_legacy_4",
+      "name_placeholder": "EQ_TRINKETARMORY_LEGACY_4_SET_NAME",
+      "priority": 206,
+      "trinket_names": [
+        "prog_gearset_trinketarmory_4_slot1",
+        "prog_gearset_trinketarmory_4_slot2",
+        "prog_gearset_trinketarmory_4_slot3"
+      ]
+    },
+    {
+      "color": {
+        "alpha": 255,
+        "blue": 147,
+        "green": 181,
+        "red": 149
+      },
+      "description_placeholder": "EQ_TRINKETARMORY_LEGACY_7_SET_NAME_DESCRIPTION",
+      "id": "18f458745456c6f",
+      "name": "gearset_trinketarmory_legacy_7",
+      "name_placeholder": "EQ_TRINKETARMORY_LEGACY_7_SET_NAME",
+      "priority": 207,
+      "trinket_names": [
+        "prog_gearset_trinketarmory_7_slot1",
+        "prog_gearset_trinketarmory_7_slot2",
+        "prog_gearset_trinketarmory_7_slot3"
+      ]
+    },
+    {
+      "color": {
+        "alpha": 255,
+        "blue": 51,
+        "green": 12,
+        "red": 163
+      },
+      "description_placeholder": "EQ_TRINKETARMORY_LEGACY_8_SET_NAME_DESCRIPTION",
+      "id": "226e28b6b2c81972",
+      "name": "gearset_trinketarmory_legacy_8",
+      "name_placeholder": "EQ_TRINKETARMORY_LEGACY_8_SET_NAME",
+      "priority": 208,
+      "trinket_names": [
+        "prog_gearset_trinketarmory_8_slot1",
+        "prog_gearset_trinketarmory_8_slot2",
+        "prog_gearset_trinketarmory_8_slot3"
+      ]
+    },
+    {
+      "color": {
+        "alpha": 255,
+        "blue": 19,
+        "green": 210,
+        "red": 255
+      },
+      "description_placeholder": "EQ_TRINKETARMORY_LEGACY_9_SET_NAME_DESCRIPTION",
+      "id": "e9fe310059b4888",
+      "name": "gearset_trinketarmory_legacy_9",
+      "name_placeholder": "EQ_TRINKETARMORY_LEGACY_9_SET_NAME",
+      "priority": 209,
+      "trinket_names": [
+        "prog_gearset_trinketarmory_9_slot1",
+        "prog_gearset_trinketarmory_9_slot2",
+        "prog_gearset_trinketarmory_9_slot3"
+      ]
+    },
+    {
+      "color": {
+        "alpha": 255,
+        "blue": 19,
+        "green": 185,
+        "red": 253
+      },
+      "description_placeholder": "EQ_TRINKETARMORY_LEGACY_10_SET_NAME_DESCRIPTION",
+      "id": "d40a46b07fbf28d9",
+      "name": "gearset_trinketarmory_legacy_10",
+      "name_placeholder": "EQ_TRINKETARMORY_LEGACY_10_SET_NAME",
+      "priority": 210,
+      "trinket_names": [
+        "prog_gearset_trinketarmory_10_slot1",
+        "prog_gearset_trinketarmory_10_slot2",
+        "prog_gearset_trinketarmory_10_slot3"
+      ]
+    },
+    {
+      "color": {
+        "alpha": 255,
+        "blue": 36,
+        "green": 97,
+        "red": 152
+      },
+      "description_placeholder": "EQ_TRINKETARMORY_LEGACY_11_SET_NAME_DESCRIPTION",
+      "id": "f8fb8d16c8ec7923",
+      "name": "gearset_trinketarmory_legacy_11",
+      "name_placeholder": "EQ_TRINKETARMORY_LEGACY_11_SET_NAME",
+      "priority": 211,
+      "trinket_names": [
+        "prog_gearset_trinketarmory_11_slot1",
+        "prog_gearset_trinketarmory_11_slot2",
+        "prog_gearset_trinketarmory_11_slot3"
+      ]
+    },
+    {
+      "color": {
+        "alpha": 255,
+        "blue": 122,
+        "green": 204,
+        "red": 163
+      },
+      "description_placeholder": "EQ_TRINKETARMORY_LEGACY_12_SET_NAME_DESCRIPTION",
+      "id": "8de9d1fd11198b2d",
+      "name": "gearset_trinketarmory_legacy_12",
+      "name_placeholder": "EQ_TRINKETARMORY_LEGACY_12_SET_NAME",
+      "priority": 212,
+      "trinket_names": [
+        "prog_gearset_trinketarmory_12_slot1",
+        "prog_gearset_trinketarmory_12_slot2",
+        "prog_gearset_trinketarmory_12_slot3"
+      ]
+    },
+    {
+      "color": {
+        "alpha": 255,
+        "blue": 17,
+        "green": 116,
+        "red": 216
+      },
+      "description_placeholder": "EQ_TRINKETARMORY_MARTELL_1_SET_DESCRIPTION",
+      "id": "1075d0db143c8504",
+      "name": "gearset_trinketarmory_martell_1",
+      "name_placeholder": "EQ_TRINKETARMORY_MARTELL_1_SET_NAME",
+      "priority": 213,
+      "trinket_names": [
+        "prog_gearset_trinketarmory_martell_slot1",
+        "prog_gearset_trinketarmory_martell_slot2",
+        "prog_gearset_trinketarmory_martell_slot3"
+      ]
+    },
+    {
+      "color": {
+        "alpha": 255,
+        "blue": 33,
+        "green": 33,
+        "red": 190
+      },
+      "description_placeholder": "EQ_TRINKETARMORY_CONQUEROR_1_SET_DESCRIPTION",
+      "id": "c5eed6cd66ac4f99",
+      "name": "gearset_trinketarmory_conqueror_1",
+      "name_placeholder": "EQ_TRINKETARMORY_CONQUEROR_1_SET_NAME",
+      "priority": 214,
+      "trinket_names": [
+        "prog_gearset_trinketarmory_conqueror_slot1",
+        "prog_gearset_trinketarmory_conqueror_slot2",
+        "prog_gearset_trinketarmory_conqueror_slot3"
+      ]
+    },
+    {
+      "color": {
+        "alpha": 255,
+        "blue": 43,
+        "green": 43,
+        "red": 114
+      },
+      "description_placeholder": "EQ_TRINKETARMORY_RHLLORARTIFACTS_1_SET_DESCRIPTION",
+      "id": "d15e01d8ee63674f",
+      "name": "gearset_trinketarmory_rhllorartifacts_1",
+      "name_placeholder": "EQ_TRINKETARMORY_RHLLORARTIFACTS_1_SET_NAME",
+      "priority": 215,
+      "trinket_names": [
+        "prog_gearset_trinketarmory_rhllorartifacts_slot1",
+        "prog_gearset_trinketarmory_rhllorartifacts_slot2",
+        "prog_gearset_trinketarmory_rhllorartifacts_slot3"
+      ]
+    },
+    {
+      "color": {
+        "alpha": 255,
+        "blue": 82,
+        "green": 78,
+        "red": 76
+      },
+      "description_placeholder": "EQ_TRINKETARMORY_ASTAPORARTIFACTS_1_SET_DESCRIPTION",
+      "id": "e6cbe802d369aefd",
+      "name": "gearset_trinketarmory_astaporartifacts_1",
+      "name_placeholder": "EQ_TRINKETARMORY_ASTAPORARTIFACTS_1_SET_NAME",
+      "priority": 216,
+      "trinket_names": [
+        "prog_gearset_trinketarmory_astaporartifacts_slot1",
+        "prog_gearset_trinketarmory_astaporartifacts_slot2",
+        "prog_gearset_trinketarmory_astaporartifacts_slot3"
+      ]
+    },
+    {
+      "color": {
+        "alpha": 255,
+        "blue": 122,
+        "green": 79,
+        "red": 55
+      },
+      "description_placeholder": "EQ_TRINKETARMORY_WINTERARTIFACTS_1_SET_DESCRIPTION",
+      "id": "9e4230770dfe68a5",
+      "name": "gearset_trinketarmory_winterartifacts_1",
+      "name_placeholder": "EQ_TRINKETARMORY_WINTERARTIFACTS_1_SET_NAME",
+      "priority": 217,
+      "trinket_names": [
+        "prog_gearset_trinketarmory_winterartifacts_slot1",
+        "prog_gearset_trinketarmory_winterartifacts_slot2",
+        "prog_gearset_trinketarmory_winterartifacts_slot3"
+      ]
+    },
+    {
+      "color": {
+        "alpha": 255,
+        "green": 232,
+        "red": 255
+      },
+      "description_placeholder": "EQ_TRINKETARMORY_WHENT_1_SET_DESCRIPTION",
+      "id": "bc924afce8afcf3e",
+      "name": "gearset_trinketarmory_whent_1",
+      "name_placeholder": "EQ_TRINKETARMORY_WHENT_1_SET_NAME",
+      "priority": 218,
+      "trinket_names": [
+        "prog_gearset_trinketarmory_whent_slot1",
+        "prog_gearset_trinketarmory_whent_slot2",
+        "prog_gearset_trinketarmory_whent_slot3"
+      ]
+    }
+  ]
+}

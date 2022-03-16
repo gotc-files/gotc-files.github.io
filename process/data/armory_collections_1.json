@@ -2,9 +2,11 @@
   "description": "Armory collection information",
   "values": [
     {
-      "bonus_1_name": "armcol_event_winter_coming_1",
-      "bonus_2_name": "armcol_event_winter_coming_2",
-      "bonus_3_name": "armcol_event_winter_coming_3",
+      "bonuses": [
+        "armcol_event_winter_coming_1",
+        "armcol_event_winter_coming_2",
+        "armcol_event_winter_coming_3"
+      ],
       "gear_set_name": "gearset_event_winter_coming",
       "id": "18689e76520fbd38",
       "name": "armcol_event_winter_coming",
@@ -12,9 +14,12 @@
       "priority": 1
     },
     {
-      "bonus_1_name": "armcol_trinket_legacy_1_1",
-      "bonus_2_name": "armcol_trinket_legacy_1_2",
-      "bonus_3_name": "armcol_trinket_legacy_1_3",
+      "bonuses": [
+        "armcol_trinket_legacy_1_1",
+        "armcol_trinket_legacy_1_2",
+        "armcol_trinket_legacy_1_3",
+        "armcol_trinket_legacy_1_4"
+      ],
       "gear_set_name": "gearset_trinketarmory_legacy_1",
       "id": "54193b84a4e0e94f",
       "name": "armcol_trinket_legacy_1",
@@ -22,9 +27,11 @@
       "priority": 1
     },
     {
-      "bonus_1_name": "armcol_event_lannister_1",
-      "bonus_2_name": "armcol_event_lannister_2",
-      "bonus_3_name": "armcol_event_lannister_3",
+      "bonuses": [
+        "armcol_event_lannister_1",
+        "armcol_event_lannister_2",
+        "armcol_event_lannister_3"
+      ],
       "gear_set_name": "gearset_event_lannister",
       "id": "b4dfa0424050140f",
       "name": "armcol_event_lannister",
@@ -32,9 +39,12 @@
       "priority": 2
     },
     {
-      "bonus_1_name": "armcol_trinket_legacy_2_1",
-      "bonus_2_name": "armcol_trinket_legacy_2_2",
-      "bonus_3_name": "armcol_trinket_legacy_2_3",
+      "bonuses": [
+        "armcol_trinket_legacy_2_1",
+        "armcol_trinket_legacy_2_2",
+        "armcol_trinket_legacy_2_3",
+        "armcol_trinket_legacy_2_4"
+      ],
       "gear_set_name": "gearset_trinketarmory_legacy_2",
       "id": "210b676f7d151b41",
       "name": "armcol_trinket_legacy_2",
@@ -42,9 +52,11 @@
       "priority": 2
     },
     {
-      "bonus_1_name": "armcol_event_dothraki_1",
-      "bonus_2_name": "armcol_event_dothraki_2",
-      "bonus_3_name": "armcol_event_dothraki_3",
+      "bonuses": [
+        "armcol_event_dothraki_1",
+        "armcol_event_dothraki_2",
+        "armcol_event_dothraki_3"
+      ],
       "gear_set_name": "gearset_event_dothraki",
       "id": "d2ef4d04ede03540",
       "name": "armcol_event_dothraki",
@@ -52,9 +64,12 @@
       "priority": 3
     },
     {
-      "bonus_1_name": "armcol_trinket_legacy_3_1",
-      "bonus_2_name": "armcol_trinket_legacy_3_2",
-      "bonus_3_name": "armcol_trinket_legacy_3_3",
+      "bonuses": [
+        "armcol_trinket_legacy_3_1",
+        "armcol_trinket_legacy_3_2",
+        "armcol_trinket_legacy_3_3",
+        "armcol_trinket_legacy_3_4"
+      ],
       "gear_set_name": "gearset_trinketarmory_legacy_3",
       "id": "dfaacc9ca464abb",
       "name": "armcol_trinket_legacy_3",
@@ -62,9 +77,11 @@
       "priority": 3
     },
     {
-      "bonus_1_name": "armcol_event_maester_1",
-      "bonus_2_name": "armcol_event_maester_2",
-      "bonus_3_name": "armcol_event_maester_3",
+      "bonuses": [
+        "armcol_event_maester_1",
+        "armcol_event_maester_2",
+        "armcol_event_maester_3"
+      ],
       "gear_set_name": "gearset_event_maester",
       "id": "f6c2a27a53cd89d7",
       "name": "armcol_event_maester",
@@ -72,9 +89,12 @@
       "priority": 4
     },
     {
-      "bonus_1_name": "armcol_trinket_legacy_4_1",
-      "bonus_2_name": "armcol_trinket_legacy_4_2",
-      "bonus_3_name": "armcol_trinket_legacy_4_3",
+      "bonuses": [
+        "armcol_trinket_legacy_4_1",
+        "armcol_trinket_legacy_4_2",
+        "armcol_trinket_legacy_4_3",
+        "armcol_trinket_legacy_4_4"
+      ],
       "gear_set_name": "gearset_trinketarmory_legacy_4",
       "id": "cb2fdeb8cefeff5d",
       "name": "armcol_trinket_legacy_4",
@@ -82,9 +102,11 @@
       "priority": 4
     },
     {
-      "bonus_1_name": "armcol_event_essospirate_1",
-      "bonus_2_name": "armcol_event_essospirate_2",
-      "bonus_3_name": "armcol_event_essospirate_3",
+      "bonuses": [
+        "armcol_event_essospirate_1",
+        "armcol_event_essospirate_2",
+        "armcol_event_essospirate_3"
+      ],
       "gear_set_name": "gearset_event_essospirate",
       "id": "7c028858333035a",
       "name": "armcol_event_essospirate",
@@ -92,9 +114,12 @@
       "priority": 5
     },
     {
-      "bonus_1_name": "armcol_trinket_legacy_5_1",
-      "bonus_2_name": "armcol_trinket_legacy_5_2",
-      "bonus_3_name": "armcol_trinket_legacy_5_3",
+      "bonuses": [
+        "armcol_trinket_legacy_5_1",
+        "armcol_trinket_legacy_5_2",
+        "armcol_trinket_legacy_5_3",
+        "armcol_trinket_legacy_5_4"
+      ],
       "gear_set_name": "gearset_trinketarmory_legacy_5",
       "id": "e7de151e79adaea7",
       "name": "armcol_trinket_legacy_5",
@@ -102,9 +127,11 @@
       "priority": 5
     },
     {
-      "bonus_1_name": "armcol_event_ironisland_1",
-      "bonus_2_name": "armcol_event_ironisland_2",
-      "bonus_3_name": "armcol_event_ironisland_3",
+      "bonuses": [
+        "armcol_event_ironisland_1",
+        "armcol_event_ironisland_2",
+        "armcol_event_ironisland_3"
+      ],
       "gear_set_name": "gearset_event_ironisland",
       "id": "6a79b297ae8f937",
       "name": "armcol_event_ironisland",
@@ -112,9 +139,12 @@
       "priority": 6
     },
     {
-      "bonus_1_name": "armcol_trinket_legacy_6_1",
-      "bonus_2_name": "armcol_trinket_legacy_6_2",
-      "bonus_3_name": "armcol_trinket_legacy_6_3",
+      "bonuses": [
+        "armcol_trinket_legacy_6_1",
+        "armcol_trinket_legacy_6_2",
+        "armcol_trinket_legacy_6_3",
+        "armcol_trinket_legacy_6_4"
+      ],
       "gear_set_name": "gearset_trinketarmory_legacy_6",
       "id": "92cc49f5a0585ca9",
       "name": "armcol_trinket_legacy_6",
@@ -122,9 +152,11 @@
       "priority": 6
     },
     {
-      "bonus_1_name": "armcol_event_faithmilitant_1",
-      "bonus_2_name": "armcol_event_faithmilitant_2",
-      "bonus_3_name": "armcol_event_faithmilitant_3",
+      "bonuses": [
+        "armcol_event_faithmilitant_1",
+        "armcol_event_faithmilitant_2",
+        "armcol_event_faithmilitant_3"
+      ],
       "gear_set_name": "gearset_event_faithmilitant",
       "id": "ca975439e882dd7",
       "name": "armcol_event_faithmilitant",
@@ -132,9 +164,12 @@
       "priority": 7
     },
     {
-      "bonus_1_name": "armcol_trinket_legacy_7_1",
-      "bonus_2_name": "armcol_trinket_legacy_7_2",
-      "bonus_3_name": "armcol_trinket_legacy_7_3",
+      "bonuses": [
+        "armcol_trinket_legacy_7_1",
+        "armcol_trinket_legacy_7_2",
+        "armcol_trinket_legacy_7_3",
+        "armcol_trinket_legacy_7_4"
+      ],
       "gear_set_name": "gearset_trinketarmory_legacy_7",
       "id": "be3d8253170b0d53",
       "name": "armcol_trinket_legacy_7",
@@ -142,9 +177,11 @@
       "priority": 7
     },
     {
-      "bonus_1_name": "armcol_event_wildling_1",
-      "bonus_2_name": "armcol_event_wildling_2",
-      "bonus_3_name": "armcol_event_wildling_3",
+      "bonuses": [
+        "armcol_event_wildling_1",
+        "armcol_event_wildling_2",
+        "armcol_event_wildling_3"
+      ],
       "gear_set_name": "gearset_event_wildling",
       "id": "166821d64310787c",
       "name": "armcol_event_wildling",
@@ -152,9 +189,12 @@
       "priority": 8
     },
     {
-      "bonus_1_name": "armcol_trinket_legacy_8_1",
-      "bonus_2_name": "armcol_trinket_legacy_8_2",
-      "bonus_3_name": "armcol_trinket_legacy_8_3",
+      "bonuses": [
+        "armcol_trinket_legacy_8_1",
+        "armcol_trinket_legacy_8_2",
+        "armcol_trinket_legacy_8_3",
+        "armcol_trinket_legacy_8_4"
+      ],
       "gear_set_name": "gearset_trinketarmory_legacy_8",
       "id": "9ddcef62e086784e",
       "name": "armcol_trinket_legacy_8",
@@ -162,9 +202,11 @@
       "priority": 8
     },
     {
-      "bonus_1_name": "armcol_event_wrathofwinter_1",
-      "bonus_2_name": "armcol_event_wrathofwinter_2",
-      "bonus_3_name": "armcol_event_wrathofwinter_3",
+      "bonuses": [
+        "armcol_event_wrathofwinter_1",
+        "armcol_event_wrathofwinter_2",
+        "armcol_event_wrathofwinter_3"
+      ],
       "gear_set_name": "gearset_event_wrathofwinter",
       "id": "1b08233e01f6e1bc",
       "name": "armcol_event_wrathofwinter",
@@ -172,9 +214,12 @@
       "priority": 9
     },
     {
-      "bonus_1_name": "armcol_trinket_legacy_9_1",
-      "bonus_2_name": "armcol_trinket_legacy_9_2",
-      "bonus_3_name": "armcol_trinket_legacy_9_3",
+      "bonuses": [
+        "armcol_trinket_legacy_9_1",
+        "armcol_trinket_legacy_9_2",
+        "armcol_trinket_legacy_9_3",
+        "armcol_trinket_legacy_9_4"
+      ],
       "gear_set_name": "gearset_trinketarmory_legacy_9",
       "id": "b12d24c457d529b4",
       "name": "armcol_trinket_legacy_9",
@@ -182,9 +227,11 @@
       "priority": 9
     },
     {
-      "bonus_1_name": "armcol_event_blackfyre_1",
-      "bonus_2_name": "armcol_event_blackfyre_2",
-      "bonus_3_name": "armcol_event_blackfyre_3",
+      "bonuses": [
+        "armcol_event_blackfyre_1",
+        "armcol_event_blackfyre_2",
+        "armcol_event_blackfyre_3"
+      ],
       "gear_set_name": "gearset_event_blackfyre",
       "id": "806230e6e94812a0",
       "name": "armcol_event_blackfyre",
@@ -192,9 +239,12 @@
       "priority": 10
     },
     {
-      "bonus_1_name": "armcol_trinket_legacy_10_1",
-      "bonus_2_name": "armcol_trinket_legacy_10_2",
-      "bonus_3_name": "armcol_trinket_legacy_10_3",
+      "bonuses": [
+        "armcol_trinket_legacy_10_1",
+        "armcol_trinket_legacy_10_2",
+        "armcol_trinket_legacy_10_3",
+        "armcol_trinket_legacy_10_4"
+      ],
       "gear_set_name": "gearset_trinketarmory_legacy_10",
       "id": "5b3040b075d8b2cc",
       "name": "armcol_trinket_legacy_10",
@@ -202,9 +252,11 @@
       "priority": 10
     },
     {
-      "bonus_1_name": "armcol_event_bolton_1",
-      "bonus_2_name": "armcol_event_bolton_2",
-      "bonus_3_name": "armcol_event_bolton_3",
+      "bonuses": [
+        "armcol_event_bolton_1",
+        "armcol_event_bolton_2",
+        "armcol_event_bolton_3"
+      ],
       "gear_set_name": "gearset_event_bolton",
       "id": "517b37aaeebb8ce3",
       "name": "armcol_event_bolton",
@@ -212,9 +264,12 @@
       "priority": 11
     },
     {
-      "bonus_1_name": "armcol_trinket_legacy_11_1",
-      "bonus_2_name": "armcol_trinket_legacy_11_2",
-      "bonus_3_name": "armcol_trinket_legacy_11_3",
+      "bonuses": [
+        "armcol_trinket_legacy_11_1",
+        "armcol_trinket_legacy_11_2",
+        "armcol_trinket_legacy_11_3",
+        "armcol_trinket_legacy_11_4"
+      ],
       "gear_set_name": "gearset_trinketarmory_legacy_11",
       "id": "77c18b16c28be336",
       "name": "armcol_trinket_legacy_11",
@@ -222,9 +277,11 @@
       "priority": 11
     },
     {
-      "bonus_1_name": "armcol_event_braavos_1",
-      "bonus_2_name": "armcol_event_braavos_2",
-      "bonus_3_name": "armcol_event_braavos_3",
+      "bonuses": [
+        "armcol_event_braavos_1",
+        "armcol_event_braavos_2",
+        "armcol_event_braavos_3"
+      ],
       "gear_set_name": "gearset_event_braavos",
       "id": "e1fed8c357bfdcdf",
       "name": "armcol_event_braavos",
@@ -232,9 +289,12 @@
       "priority": 12
     },
     {
-      "bonus_1_name": "armcol_trinket_legacy_12_1",
-      "bonus_2_name": "armcol_trinket_legacy_12_2",
-      "bonus_3_name": "armcol_trinket_legacy_12_3",
+      "bonuses": [
+        "armcol_trinket_legacy_12_1",
+        "armcol_trinket_legacy_12_2",
+        "armcol_trinket_legacy_12_3",
+        "armcol_trinket_legacy_12_4"
+      ],
       "gear_set_name": "gearset_trinketarmory_legacy_12",
       "id": "2d3d7fd1b7e1138",
       "name": "armcol_trinket_legacy_12",
@@ -242,9 +302,11 @@
       "priority": 12
     },
     {
-      "bonus_1_name": "armcol_event_GreatHunt_1",
-      "bonus_2_name": "armcol_event_GreatHunt_2",
-      "bonus_3_name": "armcol_event_GreatHunt_3",
+      "bonuses": [
+        "armcol_event_GreatHunt_1",
+        "armcol_event_GreatHunt_2",
+        "armcol_event_GreatHunt_3"
+      ],
       "gear_set_name": "gearset_event_GreatHunt",
       "id": "e8bd5b24be75b1a4",
       "name": "armcol_event_GreatHunt",
@@ -252,9 +314,12 @@
       "priority": 13
     },
     {
-      "bonus_1_name": "armcol_trinket_martell_1_1",
-      "bonus_2_name": "armcol_trinket_martell_1_2",
-      "bonus_3_name": "armcol_trinket_martell_1_3",
+      "bonuses": [
+        "armcol_trinket_martell_1_1",
+        "armcol_trinket_martell_1_2",
+        "armcol_trinket_martell_1_3",
+        "armcol_trinket_martell_1_4"
+      ],
       "gear_set_name": "gearset_trinketarmory_martell_1",
       "id": "9f4fd6db1e5b1f11",
       "name": "armcol_trinket_martell_1",
@@ -262,9 +327,11 @@
       "priority": 13
     },
     {
-      "bonus_1_name": "armcol_event_Undying_1",
-      "bonus_2_name": "armcol_event_Undying_2",
-      "bonus_3_name": "armcol_event_Undying_3",
+      "bonuses": [
+        "armcol_event_Undying_1",
+        "armcol_event_Undying_2",
+        "armcol_event_Undying_3"
+      ],
       "gear_set_name": "gearset_event_Undying",
       "id": "4dfea0c9db0e375e",
       "name": "armcol_event_Undying",
@@ -272,9 +339,12 @@
       "priority": 14
     },
     {
-      "bonus_1_name": "armcol_trinket_conqueror_1_1",
-      "bonus_2_name": "armcol_trinket_conqueror_1_2",
-      "bonus_3_name": "armcol_trinket_conqueror_1_3",
+      "bonuses": [
+        "armcol_trinket_conqueror_1_1",
+        "armcol_trinket_conqueror_1_2",
+        "armcol_trinket_conqueror_1_3",
+        "armcol_trinket_conqueror_1_4"
+      ],
       "gear_set_name": "gearset_trinketarmory_conqueror_1",
       "id": "b32e95019b0f33b6",
       "name": "armcol_trinket_conqueror_1",
@@ -282,9 +352,11 @@
       "priority": 14
     },
     {
-      "bonus_1_name": "armcol_event_Conquest_1",
-      "bonus_2_name": "armcol_event_Conquest_2",
-      "bonus_3_name": "armcol_event_Conquest_3",
+      "bonuses": [
+        "armcol_event_Conquest_1",
+        "armcol_event_Conquest_2",
+        "armcol_event_Conquest_3"
+      ],
       "gear_set_name": "gearset_event_Conquest",
       "id": "8ed478435793c05d",
       "name": "armcol_event_Conquest",
@@ -292,9 +364,12 @@
       "priority": 15
     },
     {
-      "bonus_1_name": "armcol_trinket_rhllorartifacts_1_1",
-      "bonus_2_name": "armcol_trinket_rhllorartifacts_1_2",
-      "bonus_3_name": "armcol_trinket_rhllorartifacts_1_3",
+      "bonuses": [
+        "armcol_trinket_rhllorartifacts_1_1",
+        "armcol_trinket_rhllorartifacts_1_2",
+        "armcol_trinket_rhllorartifacts_1_3",
+        "armcol_trinket_rhllorartifacts_1_4"
+      ],
       "gear_set_name": "gearset_trinketarmory_rhllorartifacts_1",
       "id": "8f666507f99fe396",
       "name": "armcol_trinket_rhllorartifacts_1",
@@ -302,9 +377,11 @@
       "priority": 15
     },
     {
-      "bonus_1_name": "armcol_event_masterofwar_1",
-      "bonus_2_name": "armcol_event_masterofwar_2",
-      "bonus_3_name": "armcol_event_masterofwar_3",
+      "bonuses": [
+        "armcol_event_masterofwar_1",
+        "armcol_event_masterofwar_2",
+        "armcol_event_masterofwar_3"
+      ],
       "gear_set_name": "gearset_event_masterofwar",
       "id": "163e8d2217e053c3",
       "name": "armcol_event_masterofwar",
@@ -312,9 +389,12 @@
       "priority": 16
     },
     {
-      "bonus_1_name": "armcol_trinket_astaporartifacts_1_1",
-      "bonus_2_name": "armcol_trinket_astaporartifacts_1_2",
-      "bonus_3_name": "armcol_trinket_astaporartifacts_1_3",
+      "bonuses": [
+        "armcol_trinket_astaporartifacts_1_1",
+        "armcol_trinket_astaporartifacts_1_2",
+        "armcol_trinket_astaporartifacts_1_3",
+        "armcol_trinket_astaporartifacts_1_4"
+      ],
       "gear_set_name": "gearset_trinketarmory_astaporartifacts_1",
       "id": "72ce8e9b5b7de6f",
       "name": "armcol_trinket_astaporartifacts_1",
@@ -322,9 +402,11 @@
       "priority": 16
     },
     {
-      "bonus_1_name": "armcol_event_nightwatch_1",
-      "bonus_2_name": "armcol_event_nightwatch_2",
-      "bonus_3_name": "armcol_event_nightwatch_3",
+      "bonuses": [
+        "armcol_event_nightwatch_1",
+        "armcol_event_nightwatch_2",
+        "armcol_event_nightwatch_3"
+      ],
       "gear_set_name": "gearset_event_nightwatch",
       "id": "a1bb907b43401ebf",
       "name": "armcol_event_nightwatch",
@@ -332,9 +414,12 @@
       "priority": 17
     },
     {
-      "bonus_1_name": "armcol_trinket_winterartifacts_1_1",
-      "bonus_2_name": "armcol_trinket_winterartifacts_1_2",
-      "bonus_3_name": "armcol_trinket_winterartifacts_1_3",
+      "bonuses": [
+        "armcol_trinket_winterartifacts_1_1",
+        "armcol_trinket_winterartifacts_1_2",
+        "armcol_trinket_winterartifacts_1_3",
+        "armcol_trinket_winterartifacts_1_4"
+      ],
       "gear_set_name": "gearset_trinketarmory_winterartifacts_1",
       "id": "c07a54a81a02ec7c",
       "name": "armcol_trinket_winterartifacts_1",
@@ -342,9 +427,11 @@
       "priority": 17
     },
     {
-      "bonus_1_name": "armcol_event_harrenhal_1",
-      "bonus_2_name": "armcol_event_harrenhal_2",
-      "bonus_3_name": "armcol_event_harrenhal_3",
+      "bonuses": [
+        "armcol_event_harrenhal_1",
+        "armcol_event_harrenhal_2",
+        "armcol_event_harrenhal_3"
+      ],
       "gear_set_name": "gearset_event_harrenhal",
       "id": "5d3ef7b7dd9e3940",
       "name": "armcol_event_harrenhal",
@@ -352,9 +439,12 @@
       "priority": 18
     },
     {
-      "bonus_1_name": "armcol_trinket_whent_1_1",
-      "bonus_2_name": "armcol_trinket_whent_1_2",
-      "bonus_3_name": "armcol_trinket_whent_1_3",
+      "bonuses": [
+        "armcol_trinket_whent_1_1",
+        "armcol_trinket_whent_1_2",
+        "armcol_trinket_whent_1_3",
+        "armcol_trinket_whent_1_4"
+      ],
       "gear_set_name": "gearset_trinketarmory_whent_1",
       "id": "dca917d9a6f36262",
       "name": "armcol_trinket_whent_1",

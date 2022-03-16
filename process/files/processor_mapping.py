@@ -20,21 +20,28 @@ from files.items.items import ItemsProcessor
 from files.properties.properties import PropertiesProcessor
 from files.translations.translations import TranslationsProcessor
 from files.armory_stat_progressions.armory_stat_progressions import ArmoryStatProgressionsProcessor
+from files.armory_gears.armory_gears import ArmoryGearsProcessor
+from files.trinket_gear_sets.trinket_gear_sets import TrinketGearSetsProcessor
 
 FILE_PROCESSOR_MAPPING_CONFIG = {
     ('GearSetTable', 'json', 'gear_set_1', GearSetsProcessor),
     ('GearsetTable_GearGen_GearSets', 'json',
      'gear_set_2', GearSetsProcessor),
+    ('GearSetTable_Trinkets', 'json',
+     'trinket_gear_sets', TrinketGearSetsProcessor),
     ('GearSetProgressions', 'pb', 'gear_set_progressions_1',
      GearSetProgressionsProcessor),
     ('ProgressionTable_GearGen_GearSets', 'pb', 'gear_set_progressions_2',
      GearSetProgressionsProcessor),
     ('GearTable', 'pb', 'gears_1', GearsProcessor),
     ('ItemTable_GearGen_GearSets', 'pb', 'gears_2', GearsProcessor),
+    ('ItemTable_GearGen_Trinkets', 'pb', 'trinket_gears', GearsProcessor),
     ('GearTable_PropertyModderTable', 'pb',
      'gear_stat_sets_1', GearStatSetsProcessor),
     ('ItemTable_GearGen_GearSets_PropertyModderTable',
      'pb', 'gear_stat_sets_2', GearStatSetsProcessor),
+    ('ItemTable_GearGen_Trinkets_PropertyModderTable',
+     'pb', 'trinket_gear_stat_sets', GearStatSetsProcessor),
     ('GearProgressions', 'pb', 'gear_stat_progressions', GearStatProgressionsProcessor),
     ('ArmoryCollectionsTable', 'json',
      'armory_collections_1', ArmoryCollectionsProcessor),
@@ -46,6 +53,11 @@ FILE_PROCESSOR_MAPPING_CONFIG = {
      'armory_stat_sets_2', ArmoryStatSetsProcessor),
     ('ArmoryPropertyProgressions', 'pb',
      'armory_stat_progressions', ArmoryStatProgressionsProcessor),
+    ('GearTable_ArmoryGearTable', 'json', 'armory_gears_1', ArmoryGearsProcessor),
+    ('ItemTable_GearGen_GearSets_ArmoryGearTable',
+     'json', 'armory_gears_2', ArmoryGearsProcessor),
+    ('ItemTable_GearGen_Trinkets_ArmoryGearTable',
+     'json', 'armory_gears_3', ArmoryGearsProcessor),
     ('HeroCollectionActionTable', 'json',
      'hero_collection_actions', HeroCollectionActionsProcessor),
     ('HeroCollectionActionProgressions', 'json',
