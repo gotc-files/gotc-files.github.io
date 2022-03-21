@@ -13,7 +13,10 @@ class TranslationsProcessor(FileProcessor):
             entries = content.split('¯¯')
             pairs = [entry.split('¬¬')
                      for entry in entries if len(entry.split('¬¬')) >= 2]
-            return list(map(lambda pair: {"name": pair[0], "value": pair[1]}, pairs))
+            return list(map(lambda pair: {"name": pair[0], "value": pair[1]}, pairs + self.additional_translations()))
+
+    def additional_translations(self):
+        return [['DRIVEN_DRAGONFEEDXPBONUS_ALPHA_DESCRIPTION', 'Bonus to XP from Feeding your dragon']]
 
     def description(self):
         return 'Translations for a specific language'

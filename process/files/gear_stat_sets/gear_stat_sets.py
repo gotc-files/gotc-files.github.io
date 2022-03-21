@@ -14,7 +14,7 @@ class GearStatSetsProcessor(ProtoProcessor):
         for gear_stat_set in gear_stat_sets.gear_stat_sets:
             gear_stat_sets_output.append({
                 "id": id_int64_to_hex(gear_stat_set.gear_identity.id),
-                "name": gear_stat_set.gear_identity.name,
+                "name": gear_stat_set.gear_identity.name.lower(),
                 "stats": [{
                     "name": gear_stat.identity.name,
                     "progression": gear_stat.progression.name

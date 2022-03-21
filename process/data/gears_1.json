@@ -1688,7 +1688,7 @@
       "id": "ad9d34cc623b8737",
       "image": "title_lord_dreadfort.png",
       "level": 1,
-      "name": "eq_admin_rallycap_againstSOP",
+      "name": "eq_admin_rallycap_againstsop",
       "name_placeholder": "Admin RallyCap vs SOP",
       "priority": 30100,
       "slot_name": "slot_Weapon"
@@ -1697,7 +1697,7 @@
       "id": "bfa81b9b8d37cbc0",
       "image": "title_lord_moatCailin.png",
       "level": 1,
-      "name": "eq_admin_rallycap_againstNPC",
+      "name": "eq_admin_rallycap_againstnpc",
       "name_placeholder": "Admin RallyCap vs NPC",
       "priority": 30200,
       "slot_name": "slot_Weapon"
@@ -1715,7 +1715,7 @@
       "id": "34029d7daa4c66f7",
       "image": "icon_eq_events_FaithMilitant_pants_1.png",
       "level": 1,
-      "name": "eq_admin_pants_Dragon_UnitAttackVsPlayer",
+      "name": "eq_admin_pants_dragon_unitattackvsplayer",
       "name_placeholder": "Admin Dragonrider AttackVsPlayer Pants",
       "priority": 30500,
       "slot_name": "slot_Pants"
@@ -1724,7 +1724,7 @@
       "id": "4f5e2d97b5d73123",
       "image": "icon_eq_events_FaithMilitant_pants_1.png",
       "level": 1,
-      "name": "eq_admin_pants_Dragon_UnitAttackVsPlayersCavalry",
+      "name": "eq_admin_pants_dragon_unitattackvsplayerscavalry",
       "name_placeholder": "Admin Dragonrider AttackVsPlayersCavalry Pants",
       "priority": 30600,
       "slot_name": "slot_Pants"
@@ -1733,7 +1733,7 @@
       "id": "4fc9cbee78a9a91b",
       "image": "icon_eq_events_FaithMilitant_pants_1.png",
       "level": 1,
-      "name": "eq_admin_pants_Dragon_UnitAttackVsPlayersInfantry",
+      "name": "eq_admin_pants_dragon_unitattackvsplayersinfantry",
       "name_placeholder": "Admin Dragonrider AttackVsPlayersInfantry Pants",
       "priority": 30700,
       "slot_name": "slot_Pants"
@@ -1742,7 +1742,7 @@
       "id": "eb9dfb8da6e4e8ce",
       "image": "icon_eq_events_FaithMilitant_pants_1.png",
       "level": 1,
-      "name": "eq_admin_pants_Dragon_UnitAttackVsPlayersRanged_gear",
+      "name": "eq_admin_pants_dragon_unitattackvsplayersranged_gear",
       "name_placeholder": "Admin Dragonrider AttackVsPlayersRanged Pants",
       "priority": 30800,
       "slot_name": "slot_Pants"
@@ -1751,7 +1751,7 @@
       "id": "e6b5f5d6f295f9c0",
       "image": "icon_eq_events_FaithMilitant_pants_1.png",
       "level": 1,
-      "name": "eq_admin_pants_Dragon_UnitAttackVsPlayersSiege",
+      "name": "eq_admin_pants_dragon_unitattackvsplayerssiege",
       "name_placeholder": "Admin Dragonrider AttackVsPlayersSiege Pants",
       "priority": 30900,
       "slot_name": "slot_Pants"
@@ -1760,7 +1760,7 @@
       "id": "6a6391d79a767f98",
       "image": "icon_eq_events_FaithMilitant_pants_1.png",
       "level": 1,
-      "name": "eq_admin_pants_Dragon_UnitDefenseVsPlayer",
+      "name": "eq_admin_pants_dragon_unitdefensevsplayer",
       "name_placeholder": "Admin Dragonrider DefenseVsPlayersCavalry Pants",
       "priority": 31000,
       "slot_name": "slot_Pants"
@@ -1769,7 +1769,7 @@
       "id": "dab21d794af7a69d",
       "image": "icon_eq_events_FaithMilitant_pants_1.png",
       "level": 1,
-      "name": "eq_admin_pants_Dragon_UnitDefenseVsPlayersCavalry",
+      "name": "eq_admin_pants_dragon_unitdefensevsplayerscavalry",
       "name_placeholder": "Admin Dragonrider DefenseVsPlayersCavalry Pants",
       "priority": 31100,
       "slot_name": "slot_Pants"
@@ -1778,7 +1778,7 @@
       "id": "5867256e82125999",
       "image": "icon_eq_events_FaithMilitant_pants_1.png",
       "level": 1,
-      "name": "eq_admin_pants_Dragon_UnitDefenseVsPlayersInfantry",
+      "name": "eq_admin_pants_dragon_unitdefensevsplayersinfantry",
       "name_placeholder": "Admin DragonriderDefenseVsPlayersInfantry Pants",
       "priority": 31200,
       "slot_name": "slot_Pants"
@@ -1787,7 +1787,7 @@
       "id": "8821ee728a91d82a",
       "image": "icon_eq_events_FaithMilitant_pants_1.png",
       "level": 1,
-      "name": "eq_admin_pants_Dragon_UnitDefenseVsPlayersRanged",
+      "name": "eq_admin_pants_dragon_unitdefensevsplayersranged",
       "name_placeholder": "Admin Dragonrider DefenseVsPlayersRanged Pants",
       "priority": 31300,
       "slot_name": "slot_Pants"
@@ -1796,7 +1796,7 @@
       "id": "d87bea6d9f977091",
       "image": "icon_eq_events_FaithMilitant_pants_1.png",
       "level": 1,
-      "name": "eq_admin_pants_Dragon_UnitDefenseVsPlayersSiege",
+      "name": "eq_admin_pants_dragon_unitdefensevsplayerssiege",
       "name_placeholder": "Admin Dragonrider DefenseVsPlayersSiege Pants",
       "priority": 31400,
       "slot_name": "slot_Pants"
@@ -1805,7 +1805,7 @@
       "id": "703c16ec2e78bbe3",
       "image": "icon_eq_events_FaithMilitant_pants_1.png",
       "level": 1,
-      "name": "eq_admin_pants_Dragon_UnitHealthVsPlayer",
+      "name": "eq_admin_pants_dragon_unithealthvsplayer",
       "name_placeholder": "Admin Dragonrider HealthVsPlayer Pants",
       "priority": 31500,
       "slot_name": "slot_Pants"
@@ -1814,7 +1814,7 @@
       "id": "ab6c6d7632ff687d",
       "image": "icon_eq_events_FaithMilitant_pants_1.png",
       "level": 1,
-      "name": "eq_admin_pants_SiegeAttackVsPlayersTraps",
+      "name": "eq_admin_pants_siegeattackvsplayerstraps",
       "name_placeholder": "Admin Dragonrider SiegeAttackVsPlayersTraps Pants",
       "priority": 31600,
       "slot_name": "slot_Pants"
@@ -1832,7 +1832,7 @@
       "id": "b9d201da20b5879c",
       "image": "icon_eq_standard_helmet_casque.png",
       "level": 1,
-      "name": "eq_admin_helmet_VsDead_AttackMarchspeed",
+      "name": "eq_admin_helmet_vsdead_attackmarchspeed",
       "name_placeholder": "Admin Vs Dead Attack and March Speed Helmet",
       "priority": 32000,
       "slot_name": "slot_Helmet"
@@ -1841,7 +1841,7 @@
       "id": "4332b4165ff5b3c3",
       "image": "icon_eq_standard_boots_leadsoledshoes.png",
       "level": 1,
-      "name": "eq_admin_boots_VsDead_RallyandSize",
+      "name": "eq_admin_boots_vsdead_rallyandsize",
       "name_placeholder": "Admin Vs Dead Rally and March Boots",
       "priority": 32100,
       "slot_name": "slot_Boots"
@@ -1850,7 +1850,7 @@
       "id": "45a41052776ce646",
       "image": "icon_eq_standard_pants_leatherpoleyns.png",
       "level": 1,
-      "name": "eq_admin_pants_VsDead_DefenseDragonAttack",
+      "name": "eq_admin_pants_vsdead_defensedragonattack",
       "name_placeholder": "Admin Vs Dead Defense and Dragon Attack Pants",
       "priority": 32200,
       "slot_name": "slot_Pants"
@@ -1859,7 +1859,7 @@
       "id": "b7575169256b35d1",
       "image": "icon_eq_standard_helmet_casque.png",
       "level": 1,
-      "name": "eq_admin_helmet_VsWorldBoss_TroopAttack",
+      "name": "eq_admin_helmet_vsworldboss_troopattack",
       "name_placeholder": "Admin Vs World Boss Attack",
       "priority": 32400,
       "slot_name": "slot_Helmet"
@@ -1868,7 +1868,7 @@
       "id": "955aaef026bea2d5",
       "image": "icon_eq_standard_boots_leadsoledshoes.png",
       "level": 1,
-      "name": "eq_admin_boots_VsWorldBoss_TroopDefense",
+      "name": "eq_admin_boots_vsworldboss_troopdefense",
       "name_placeholder": "Admin Vs World Boss Defense",
       "priority": 32500,
       "slot_name": "slot_Boots"
@@ -1877,7 +1877,7 @@
       "id": "bd4b9ae0e8bb464d",
       "image": "icon_eq_standard_pants_leatherpoleyns.png",
       "level": 1,
-      "name": "eq_admin_pants_VsWorldBoss_TroopHealth",
+      "name": "eq_admin_pants_vsworldboss_troophealth",
       "name_placeholder": "Admin Vs World Boss Health",
       "priority": 32600,
       "slot_name": "slot_Pants"
@@ -1886,7 +1886,7 @@
       "id": "b39d4c6de3df4824",
       "image": "icon_eq_events_DragonGlass_trinket01.png",
       "level": 1,
-      "name": "eq_admin_trinket_VsWorldBoss_MarchSizeandSpeed",
+      "name": "eq_admin_trinket_vsworldboss_marchsizeandspeed",
       "name_placeholder": "Admin Vs World Boss March Size and Speed",
       "priority": 32700,
       "slot_name": "slot_Trinket"
@@ -12650,7 +12650,7 @@
       "id": "a4b65331887a4e47",
       "image": "title_handoftheking.png",
       "level": 1,
-      "name": "eq_standard_trinket_testAlphaJPH_level1",
+      "name": "eq_standard_trinket_testalphajph_level1",
       "name_placeholder": "Trinket testAlphaJPH 1",
       "priority": 158300,
       "slot_name": "slot_Trinket"
@@ -12659,7 +12659,7 @@
       "id": "318d9596a9b3b755",
       "image": "title_handoftheking.png",
       "level": 1,
-      "name": "eq_standard_trinket_testAlpha",
+      "name": "eq_standard_trinket_testalpha",
       "name_placeholder": "Trinket testAlpha 1 DO NOT USE",
       "priority": 158500,
       "slot_name": "slot_Trinket"
@@ -12668,7 +12668,7 @@
       "id": "76106d3f415883d3",
       "image": "title_handoftheking.png",
       "level": 1,
-      "name": "eq_standard_trinket_testAlpha_level1",
+      "name": "eq_standard_trinket_testalpha_level1",
       "name_placeholder": "Trinket testAlpha 1",
       "priority": 158600,
       "slot_name": "slot_Trinket"
@@ -12677,7 +12677,7 @@
       "id": "c5d743a59c15c43b",
       "image": "title_handoftheking.png",
       "level": 5,
-      "name": "eq_standard_trinket_testAlpha_level5",
+      "name": "eq_standard_trinket_testalpha_level5",
       "name_placeholder": "Trinket testAlpha 5",
       "priority": 158700,
       "slot_name": "slot_Trinket"
@@ -12686,7 +12686,7 @@
       "id": "846e25f2eb56e4fd",
       "image": "title_handoftheking.png",
       "level": 10,
-      "name": "eq_standard_trinket_testAlpha_level10",
+      "name": "eq_standard_trinket_testalpha_level10",
       "name_placeholder": "Trinket testAlpha 10",
       "priority": 158800,
       "slot_name": "slot_Trinket"
@@ -12695,7 +12695,7 @@
       "id": "1b58c0ce8148f2ef",
       "image": "title_handoftheking.png",
       "level": 15,
-      "name": "eq_standard_trinket_testAlpha_level15",
+      "name": "eq_standard_trinket_testalpha_level15",
       "name_placeholder": "Trinket testAlpha 15",
       "priority": 158900,
       "slot_name": "slot_Trinket"
@@ -12704,7 +12704,7 @@
       "id": "11a69530dfd8c42d",
       "image": "title_master_blacksmith.png",
       "level": 1,
-      "name": "eq_standard_trinket_testBravo",
+      "name": "eq_standard_trinket_testbravo",
       "name_placeholder": "Trinket testBravo 1 DO NOT USE",
       "priority": 159100,
       "slot_name": "slot_Trinket"
@@ -12713,7 +12713,7 @@
       "id": "8920456f009b7393",
       "image": "title_master_blacksmith.png",
       "level": 1,
-      "name": "eq_standard_trinket_testBravo_level1",
+      "name": "eq_standard_trinket_testbravo_level1",
       "name_placeholder": "Trinket testBravo 1",
       "priority": 159200,
       "slot_name": "slot_Trinket"
@@ -12722,7 +12722,7 @@
       "id": "3ae76bf5ddd6347b",
       "image": "title_master_blacksmith.png",
       "level": 5,
-      "name": "eq_standard_trinket_testBravo_level5",
+      "name": "eq_standard_trinket_testbravo_level5",
       "name_placeholder": "Trinket testBravo 5",
       "priority": 159300,
       "slot_name": "slot_Trinket"
@@ -12731,7 +12731,7 @@
       "id": "2562a47d4dab5352",
       "image": "title_master_blacksmith.png",
       "level": 10,
-      "name": "eq_standard_trinket_testBravo_level10",
+      "name": "eq_standard_trinket_testbravo_level10",
       "name_placeholder": "Trinket testBravo 10",
       "priority": 159400,
       "slot_name": "slot_Trinket"
@@ -12740,7 +12740,7 @@
       "id": "ba54414127b54540",
       "image": "title_master_blacksmith.png",
       "level": 15,
-      "name": "eq_standard_trinket_testBravo_level15",
+      "name": "eq_standard_trinket_testbravo_level15",
       "name_placeholder": "Trinket testBravo 15",
       "priority": 159500,
       "slot_name": "slot_Trinket"
@@ -12749,7 +12749,7 @@
       "id": "fce27e0ab607cae",
       "image": "title_lost.png",
       "level": 1,
-      "name": "eq_standard_blank_testCharlielevel1",
+      "name": "eq_standard_blank_testcharlielevel1",
       "name_placeholder": "Blank testCharlie 1",
       "priority": 159800,
       "slot_name": "slot_Trinket"
@@ -12758,7 +12758,7 @@
       "id": "1af61c204f568e86",
       "image": "title_lost.png",
       "level": 5,
-      "name": "eq_standard_blank_testCharlie_level5",
+      "name": "eq_standard_blank_testcharlie_level5",
       "name_placeholder": "Blank testCharlie 5",
       "priority": 159900,
       "slot_name": "slot_Trinket"
@@ -12767,7 +12767,7 @@
       "id": "e6985af6a33485ac",
       "image": "title_lost.png",
       "level": 10,
-      "name": "eq_standard_blank_testCharlie_level10",
+      "name": "eq_standard_blank_testcharlie_level10",
       "name_placeholder": "Blank testCharlie 10",
       "priority": 160000,
       "slot_name": "slot_Trinket"
@@ -12776,7 +12776,7 @@
       "id": "79aebfcac92a93be",
       "image": "title_lost.png",
       "level": 15,
-      "name": "eq_standard_blank_testCharlie_level15",
+      "name": "eq_standard_blank_testcharlie_level15",
       "name_placeholder": "Blank testCharlie 15",
       "priority": 160100,
       "slot_name": "slot_Trinket"
@@ -12785,7 +12785,7 @@
       "id": "e9fdee3d083354b9",
       "image": "title_lost.png",
       "level": 20,
-      "name": "eq_standard_blank_testCharlie_level20",
+      "name": "eq_standard_blank_testcharlie_level20",
       "name_placeholder": "Blank testCharlie 20",
       "priority": 160200,
       "slot_name": "slot_Trinket"
@@ -12794,7 +12794,7 @@
       "id": "76cb0b01622d42ab",
       "image": "title_lost.png",
       "level": 25,
-      "name": "eq_standard_blank_testCharlie_level25",
+      "name": "eq_standard_blank_testcharlie_level25",
       "name_placeholder": "Blank testCharlie 25",
       "priority": 160300,
       "slot_name": "slot_Trinket"
@@ -12803,7 +12803,7 @@
       "id": "ecde827b9131e44a",
       "image": "title_lost.png",
       "level": 30,
-      "name": "eq_standard_blank_testCharlie_level30",
+      "name": "eq_standard_blank_testcharlie_level30",
       "name_placeholder": "Blank testCharlie 30",
       "priority": 160400,
       "slot_name": "slot_Trinket"
@@ -12812,7 +12812,7 @@
       "id": "73e86747fb2ff258",
       "image": "title_lost.png",
       "level": 35,
-      "name": "eq_standard_blank_testCharlie_level35",
+      "name": "eq_standard_blank_testcharlie_level35",
       "name_placeholder": "Blank testCharlie 35",
       "priority": 160500,
       "slot_name": "slot_Trinket"
@@ -12821,7 +12821,7 @@
       "id": "f73687aa5e3cf693",
       "image": "title_lost.png",
       "level": 40,
-      "name": "eq_standard_blank_testCharlie_level40",
+      "name": "eq_standard_blank_testcharlie_level40",
       "name_placeholder": "Blank testCharlie 40",
       "priority": 160600,
       "slot_name": "slot_Trinket"
@@ -12830,7 +12830,7 @@
       "id": "680062963422e081",
       "image": "title_lost.png",
       "level": 45,
-      "name": "eq_standard_blank_testCharlie_level45",
+      "name": "eq_standard_blank_testcharlie_level45",
       "name_placeholder": "Blank testCharlie 45",
       "priority": 160700,
       "slot_name": "slot_Trinket"
@@ -12839,7 +12839,7 @@
       "id": "f215ebecc73e4660",
       "image": "title_lost.png",
       "level": 50,
-      "name": "eq_standard_blank_testCharlie_level50",
+      "name": "eq_standard_blank_testcharlie_level50",
       "name_placeholder": "Blank testCharlie 50",
       "priority": 160800,
       "slot_name": "slot_Trinket"

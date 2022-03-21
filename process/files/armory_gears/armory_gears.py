@@ -8,7 +8,7 @@ class ArmoryGearsProcessor(JsonProcessor):
         for armory_gear_obj in obj["Objects"].values():
             armory_gears.append({
                 "id": id_int64_str_to_hex(armory_gear_obj["DID"]["ID"]),
-                "name": armory_gear_obj["DID"]["Name"],
+                "name": armory_gear_obj["DID"]["Name"].lower(),
                 "armory_collection_name": armory_gear_obj["ArmoryCollection"]["Name"],
                 "score_progression_name": armory_gear_obj["ScoreProg"]["Name"],
             })

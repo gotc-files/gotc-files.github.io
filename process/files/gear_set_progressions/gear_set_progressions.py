@@ -27,7 +27,7 @@ class GearSetProgressionsProcessor(ProtoProcessor):
             gear_set_progressions_output.append({
                 "id": id_int64_str_to_hex(gear_set.identity.id),
                 "name": gear_set.identity.name,
-                "gear_names_with_level": deduplicate_with_order(gear_set.gear_names_with_level)
+                "gear_names_with_level": deduplicate_with_order([name.lower() for name in gear_set.gear_names_with_level])
             })
         return gear_set_progressions_output
 

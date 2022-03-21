@@ -13,7 +13,7 @@ class GearsProcessor(ProtoProcessor):
         for gear in gears.gears:
             gears_output.append({
                 "id": id_int64_to_hex(gear.identity.id),
-                "name": gear.identity.name,
+                "name": gear.identity.name.lower(),
                 "name_placeholder": gear.info.name_placeholder,
                 "image": gear.info.image,
                 "priority": gear.info.sort_priority,

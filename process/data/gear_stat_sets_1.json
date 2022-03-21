@@ -3319,7 +3319,7 @@
     },
     {
       "id": "ad9d34cc623b8737",
-      "name": "eq_admin_rallycap_againstSOP",
+      "name": "eq_admin_rallycap_againstsop",
       "stats": [
         {
           "name": "property_RalliedTroopCapacityVsSeatOfPower_gear",
@@ -3329,7 +3329,7 @@
     },
     {
       "id": "bfa81b9b8d37cbc0",
-      "name": "eq_admin_rallycap_againstNPC",
+      "name": "eq_admin_rallycap_againstnpc",
       "stats": [
         {
           "name": "property_RalliedTroopCapacityVsNPC_gear",
@@ -3361,7 +3361,7 @@
     },
     {
       "id": "34029d7daa4c66f7",
-      "name": "eq_admin_pants_Dragon_UnitAttackVsPlayer",
+      "name": "eq_admin_pants_dragon_unitattackvsplayer",
       "stats": [
         {
           "name": "property_DragonCavalryAttackVsPlayer_gear",
@@ -3383,7 +3383,7 @@
     },
     {
       "id": "4f5e2d97b5d73123",
-      "name": "eq_admin_pants_Dragon_UnitAttackVsPlayersCavalry",
+      "name": "eq_admin_pants_dragon_unitattackvsplayerscavalry",
       "stats": [
         {
           "name": "property_DragonCavalryAttackVsPlayersCavalry_gear",
@@ -3405,7 +3405,7 @@
     },
     {
       "id": "4fc9cbee78a9a91b",
-      "name": "eq_admin_pants_Dragon_UnitAttackVsPlayersInfantry",
+      "name": "eq_admin_pants_dragon_unitattackvsplayersinfantry",
       "stats": [
         {
           "name": "property_DragonCavalryAttackVsPlayersInfantry_gear",
@@ -3427,7 +3427,7 @@
     },
     {
       "id": "eb9dfb8da6e4e8ce",
-      "name": "eq_admin_pants_Dragon_UnitAttackVsPlayersRanged_gear",
+      "name": "eq_admin_pants_dragon_unitattackvsplayersranged_gear",
       "stats": [
         {
           "name": "property_DragonCavalryAttackVsPlayersRanged_gear",
@@ -3449,7 +3449,7 @@
     },
     {
       "id": "e6b5f5d6f295f9c0",
-      "name": "eq_admin_pants_Dragon_UnitAttackVsPlayersSiege",
+      "name": "eq_admin_pants_dragon_unitattackvsplayerssiege",
       "stats": [
         {
           "name": "property_DragonCavalryAttackVsPlayersSiege_gear",
@@ -3471,7 +3471,7 @@
     },
     {
       "id": "6a6391d79a767f98",
-      "name": "eq_admin_pants_Dragon_UnitDefenseVsPlayer",
+      "name": "eq_admin_pants_dragon_unitdefensevsplayer",
       "stats": [
         {
           "name": "property_DragonCavalryDefenseVsPlayer_gear",
@@ -3493,7 +3493,7 @@
     },
     {
       "id": "dab21d794af7a69d",
-      "name": "eq_admin_pants_Dragon_UnitDefenseVsPlayersCavalry",
+      "name": "eq_admin_pants_dragon_unitdefensevsplayerscavalry",
       "stats": [
         {
           "name": "property_DragonCavalryDefenseVsPlayersCavalry_gear",
@@ -3515,7 +3515,7 @@
     },
     {
       "id": "5867256e82125999",
-      "name": "eq_admin_pants_Dragon_UnitDefenseVsPlayersInfantry",
+      "name": "eq_admin_pants_dragon_unitdefensevsplayersinfantry",
       "stats": [
         {
           "name": "property_DragonCavalryDefenseVsPlayersInfantry_gear",
@@ -3537,7 +3537,7 @@
     },
     {
       "id": "8821ee728a91d82a",
-      "name": "eq_admin_pants_Dragon_UnitDefenseVsPlayersRanged",
+      "name": "eq_admin_pants_dragon_unitdefensevsplayersranged",
       "stats": [
         {
           "name": "property_DragonCavalryDefenseVsPlayersRanged_gear",
@@ -3559,7 +3559,7 @@
     },
     {
       "id": "d87bea6d9f977091",
-      "name": "eq_admin_pants_Dragon_UnitDefenseVsPlayersSiege",
+      "name": "eq_admin_pants_dragon_unitdefensevsplayerssiege",
       "stats": [
         {
           "name": "property_DragonCavalryDefenseVsPlayersSiege_gear",
@@ -3581,7 +3581,7 @@
     },
     {
       "id": "703c16ec2e78bbe3",
-      "name": "eq_admin_pants_Dragon_UnitHealthVsPlayer",
+      "name": "eq_admin_pants_dragon_unithealthvsplayer",
       "stats": [
         {
           "name": "property_DragonCavalryHealthVsPlayer_gear",
@@ -3603,7 +3603,7 @@
     },
     {
       "id": "ab6c6d7632ff687d",
-      "name": "eq_admin_pants_SiegeAttackVsPlayersTraps",
+      "name": "eq_admin_pants_siegeattackvsplayerstraps",
       "stats": [
         {
           "name": "property_DragonSiegeAttackVsPlayersTraps_gear",
@@ -3623,7 +3623,7 @@
     },
     {
       "id": "b9d201da20b5879c",
-      "name": "eq_admin_helmet_VsDead_AttackMarchspeed",
+      "name": "eq_admin_helmet_vsdead_attackmarchspeed",
       "stats": [
         {
           "name": "property_MarchSpeedVsDead_gear",
@@ -3637,7 +3637,7 @@
     },
     {
       "id": "4332b4165ff5b3c3",
-      "name": "eq_admin_boots_VsDead_RallyandSize",
+      "name": "eq_admin_boots_vsdead_rallyandsize",
       "stats": [
         {
           "name": "property_RalliedTroopCapacityVsDead_gear",
@@ -3659,7 +3659,7 @@
     },
     {
       "id": "45a41052776ce646",
-      "name": "eq_admin_pants_VsDead_DefenseDragonAttack",
+      "name": "eq_admin_pants_vsdead_defensedragonattack",
       "stats": [
         {
           "name": "property_TroopDefenseVsDead_gear",
@@ -3673,7 +3673,7 @@
     },
     {
       "id": "b7575169256b35d1",
-      "name": "eq_admin_helmet_VsWorldBoss_TroopAttack",
+      "name": "eq_admin_helmet_vsworldboss_troopattack",
       "stats": [
         {
           "name": "property_TroopAttackVsNPCBoss_gear",
@@ -3683,7 +3683,7 @@
     },
     {
       "id": "955aaef026bea2d5",
-      "name": "eq_admin_boots_VsWorldBoss_TroopDefense",
+      "name": "eq_admin_boots_vsworldboss_troopdefense",
       "stats": [
         {
           "name": "property_TroopDefenseVsNPCBoss_gear",
@@ -3693,7 +3693,7 @@
     },
     {
       "id": "bd4b9ae0e8bb464d",
-      "name": "eq_admin_pants_VsWorldBoss_TroopHealth",
+      "name": "eq_admin_pants_vsworldboss_troophealth",
       "stats": [
         {
           "name": "property_TroopHealthVsNPCBoss_gear",
@@ -3703,7 +3703,7 @@
     },
     {
       "id": "b39d4c6de3df4824",
-      "name": "eq_admin_trinket_VsWorldBoss_MarchSizeandSpeed",
+      "name": "eq_admin_trinket_vsworldboss_marchsizeandspeed",
       "stats": [
         {
           "name": "property_MaxMarchSizeVsNPCBoss_gear",
@@ -25985,7 +25985,7 @@
     },
     {
       "id": "a4b65331887a4e47",
-      "name": "eq_standard_trinket_testAlphaJPH_level1",
+      "name": "eq_standard_trinket_testalphajph_level1",
       "stats": [
         {
           "name": "property_ResearchSpeed_gear",
@@ -25999,7 +25999,7 @@
     },
     {
       "id": "318d9596a9b3b755",
-      "name": "eq_standard_trinket_testAlpha",
+      "name": "eq_standard_trinket_testalpha",
       "stats": [
         {
           "name": "property_ResearchSpeed_gear",
@@ -26013,7 +26013,7 @@
     },
     {
       "id": "76106d3f415883d3",
-      "name": "eq_standard_trinket_testAlpha_level1",
+      "name": "eq_standard_trinket_testalpha_level1",
       "stats": [
         {
           "name": "property_ResearchSpeed_gear",
@@ -26027,7 +26027,7 @@
     },
     {
       "id": "c5d743a59c15c43b",
-      "name": "eq_standard_trinket_testAlpha_level5",
+      "name": "eq_standard_trinket_testalpha_level5",
       "stats": [
         {
           "name": "property_ResearchSpeed_gear",
@@ -26041,7 +26041,7 @@
     },
     {
       "id": "846e25f2eb56e4fd",
-      "name": "eq_standard_trinket_testAlpha_level10",
+      "name": "eq_standard_trinket_testalpha_level10",
       "stats": [
         {
           "name": "property_ResearchSpeed_gear",
@@ -26055,7 +26055,7 @@
     },
     {
       "id": "1b58c0ce8148f2ef",
-      "name": "eq_standard_trinket_testAlpha_level15",
+      "name": "eq_standard_trinket_testalpha_level15",
       "stats": [
         {
           "name": "property_ResearchSpeed_gear",
@@ -26069,7 +26069,7 @@
     },
     {
       "id": "11a69530dfd8c42d",
-      "name": "eq_standard_trinket_testBravo",
+      "name": "eq_standard_trinket_testbravo",
       "stats": [
         {
           "name": "property_HealCost_gear",
@@ -26087,7 +26087,7 @@
     },
     {
       "id": "8920456f009b7393",
-      "name": "eq_standard_trinket_testBravo_level1",
+      "name": "eq_standard_trinket_testbravo_level1",
       "stats": [
         {
           "name": "property_HealCost_gear",
@@ -26105,7 +26105,7 @@
     },
     {
       "id": "3ae76bf5ddd6347b",
-      "name": "eq_standard_trinket_testBravo_level5",
+      "name": "eq_standard_trinket_testbravo_level5",
       "stats": [
         {
           "name": "property_HealCost_gear",
@@ -26123,7 +26123,7 @@
     },
     {
       "id": "2562a47d4dab5352",
-      "name": "eq_standard_trinket_testBravo_level10",
+      "name": "eq_standard_trinket_testbravo_level10",
       "stats": [
         {
           "name": "property_HealCost_gear",
@@ -26141,7 +26141,7 @@
     },
     {
       "id": "ba54414127b54540",
-      "name": "eq_standard_trinket_testBravo_level15",
+      "name": "eq_standard_trinket_testbravo_level15",
       "stats": [
         {
           "name": "property_HealCost_gear",
@@ -26159,7 +26159,7 @@
     },
     {
       "id": "fce27e0ab607cae",
-      "name": "eq_standard_blank_testCharlielevel1",
+      "name": "eq_standard_blank_testcharlielevel1",
       "stats": [
         {
           "name": "property_HealCost_gear",
@@ -26177,7 +26177,7 @@
     },
     {
       "id": "1af61c204f568e86",
-      "name": "eq_standard_blank_testCharlie_level5",
+      "name": "eq_standard_blank_testcharlie_level5",
       "stats": [
         {
           "name": "property_HealCost_gear",
@@ -26195,7 +26195,7 @@
     },
     {
       "id": "e6985af6a33485ac",
-      "name": "eq_standard_blank_testCharlie_level10",
+      "name": "eq_standard_blank_testcharlie_level10",
       "stats": [
         {
           "name": "property_HealCost_gear",
@@ -26213,7 +26213,7 @@
     },
     {
       "id": "79aebfcac92a93be",
-      "name": "eq_standard_blank_testCharlie_level15",
+      "name": "eq_standard_blank_testcharlie_level15",
       "stats": [
         {
           "name": "property_HealCost_gear",
@@ -26231,7 +26231,7 @@
     },
     {
       "id": "e9fdee3d083354b9",
-      "name": "eq_standard_blank_testCharlie_level20",
+      "name": "eq_standard_blank_testcharlie_level20",
       "stats": [
         {
           "name": "property_HealCost_gear",
@@ -26249,7 +26249,7 @@
     },
     {
       "id": "76cb0b01622d42ab",
-      "name": "eq_standard_blank_testCharlie_level25",
+      "name": "eq_standard_blank_testcharlie_level25",
       "stats": [
         {
           "name": "property_HealCost_gear",
@@ -26267,7 +26267,7 @@
     },
     {
       "id": "ecde827b9131e44a",
-      "name": "eq_standard_blank_testCharlie_level30",
+      "name": "eq_standard_blank_testcharlie_level30",
       "stats": [
         {
           "name": "property_HealCost_gear",
@@ -26285,7 +26285,7 @@
     },
     {
       "id": "73e86747fb2ff258",
-      "name": "eq_standard_blank_testCharlie_level35",
+      "name": "eq_standard_blank_testcharlie_level35",
       "stats": [
         {
           "name": "property_HealCost_gear",
@@ -26303,7 +26303,7 @@
     },
     {
       "id": "f73687aa5e3cf693",
-      "name": "eq_standard_blank_testCharlie_level40",
+      "name": "eq_standard_blank_testcharlie_level40",
       "stats": [
         {
           "name": "property_HealCost_gear",
@@ -26321,7 +26321,7 @@
     },
     {
       "id": "680062963422e081",
-      "name": "eq_standard_blank_testCharlie_level45",
+      "name": "eq_standard_blank_testcharlie_level45",
       "stats": [
         {
           "name": "property_HealCost_gear",
@@ -26339,7 +26339,7 @@
     },
     {
       "id": "f215ebecc73e4660",
-      "name": "eq_standard_blank_testCharlie_level50",
+      "name": "eq_standard_blank_testcharlie_level50",
       "stats": [
         {
           "name": "property_HealCost_gear",
