@@ -2642,6 +2642,14 @@
       "type": 9
     },
     {
+      "description_placeholder": "PROPERTY_MARCH_SPEED_NPC_DESC",
+      "id": "434fa141c48679da",
+      "image": "dragon_talent_hatchling_marchspeed_pve.png",
+      "name": "property_MarchingSpeedVsNPC_action",
+      "name_placeholder": "PROPERTY_MARCH_SPEED_VS_NPCS",
+      "type": 12
+    },
+    {
       "description_placeholder": "PROPERTY_MARCH_SPEED_RESOURCES_DESC",
       "id": "48199e1e89e719b7",
       "image": "icon_buff_marching_resource.png",
@@ -37258,171 +37266,171 @@
       "type": 9
     },
     {
-      "description_placeholder": "PROPERTY_TROOP_HEALTH_VS_SOPCASTLEBLACK_DESCRIPTION",
+      "description_placeholder": "PROPERTY_TROOPATTACKVSSOPWALL_DESCRIPTION",
       "id": "1f6e8a892c421cd0",
-      "image": "",
+      "image": "icon_buff_SoP_troop_attack.png",
       "name": "property_TroopAttackvsSoPWall_seatofpower",
-      "name_placeholder": "PROPERTY_TROOP_HEALTH_VS_SOPCASTLEBLACK_NAME",
+      "name_placeholder": "PROPERTY_TROOPATTACKVSSOPWALL_NAME",
       "type": 6
     },
     {
-      "description_placeholder": "PROPERTY_TROOP_HEALTH_VS_SOPCASTLEBLACK_DESCRIPTION",
+      "description_placeholder": "PROPERTY_TROOPATTACKVSSOPWALL_DESCRIPTION",
       "id": "54c3972174a89ff6",
-      "image": "",
+      "image": "icon_buff_SoP_troop_attack.png",
       "name": "property_TroopAttackvsSoPWall_consumable",
-      "name_placeholder": "PROPERTY_TROOP_HEALTH_VS_SOPCASTLEBLACK_NAME",
+      "name_placeholder": "PROPERTY_TROOPATTACKVSSOPWALL_NAME",
       "type": 3
     },
     {
-      "description_placeholder": "PROPERTY_TROOP_HEALTH_VS_SOPCASTLEBLACK_DESCRIPTION",
+      "description_placeholder": "PROPERTY_TROOPATTACKVSSOPWALL_DESCRIPTION",
       "id": "e6680d8e9039cf37",
-      "image": "",
+      "image": "icon_buff_SoP_troop_attack.png",
       "name": "property_TroopAttackvsSoPWall_activity",
-      "name_placeholder": "PROPERTY_TROOP_HEALTH_VS_SOPCASTLEBLACK_NAME",
+      "name_placeholder": "PROPERTY_TROOPATTACKVSSOPWALL_NAME",
       "type": 9
     },
     {
-      "description_placeholder": "PROPERTY_TROOP_HEALTH_VS_SOPCASTLEBLACK_DESCRIPTION",
+      "description_placeholder": "PROPERTY_TROOPDEFENSEVSSOPWALL_DESCRIPTION",
       "id": "9cb896f23b1a142",
-      "image": "",
+      "image": "icon_buff_SoP_troop_defense.png",
       "name": "property_TroopDefensevsSoPWall_seatofpower",
-      "name_placeholder": "PROPERTY_TROOP_HEALTH_VS_SOPCASTLEBLACK_NAME",
+      "name_placeholder": "PROPERTY_TROOPDEFENSEVSSOPWALL_NAME",
       "type": 6
     },
     {
-      "description_placeholder": "PROPERTY_TROOP_HEALTH_VS_SOPCASTLEBLACK_DESCRIPTION",
+      "description_placeholder": "PROPERTY_TROOPDEFENSEVSSOPWALL_DESCRIPTION",
       "id": "4878834f8a6a5763",
-      "image": "",
+      "image": "icon_buff_SoP_troop_defense.png",
       "name": "property_TroopDefensevsSoPWall_consumable",
-      "name_placeholder": "PROPERTY_TROOP_HEALTH_VS_SOPCASTLEBLACK_NAME",
+      "name_placeholder": "PROPERTY_TROOPDEFENSEVSSOPWALL_NAME",
       "type": 3
     },
     {
-      "description_placeholder": "PROPERTY_TROOP_HEALTH_VS_SOPCASTLEBLACK_DESCRIPTION",
+      "description_placeholder": "PROPERTY_TROOPDEFENSEVSSOPWALL_DESCRIPTION",
       "id": "55d74741cfa4fe7d",
-      "image": "",
+      "image": "icon_buff_SoP_troop_defense.png",
       "name": "property_TroopDefensevsSoPWall_activity",
-      "name_placeholder": "PROPERTY_TROOP_HEALTH_VS_SOPCASTLEBLACK_NAME",
+      "name_placeholder": "PROPERTY_TROOPDEFENSEVSSOPWALL_NAME",
       "type": 9
     },
     {
-      "description_placeholder": "PROPERTY_TROOP_HEALTH_VS_SOPCASTLEBLACK_DESCRIPTION",
+      "description_placeholder": "PROPERTY_TROOPHEALTHVSSOPWALL_DESCRIPTION",
       "id": "758add70df1beaa2",
-      "image": "",
+      "image": "icon_buff_SoP_troop_health.png",
       "name": "property_TroopHealthvsSoPWall_seatofpower",
-      "name_placeholder": "PROPERTY_TROOP_HEALTH_VS_SOPCASTLEBLACK_NAME",
+      "name_placeholder": "PROPERTY_TROOPHEALTHVSSOPWALL_NAME",
       "type": 6
     },
     {
-      "description_placeholder": "PROPERTY_TROOP_HEALTH_VS_SOPCASTLEBLACK_DESCRIPTION",
+      "description_placeholder": "PROPERTY_TROOPHEALTHVSSOPWALL_DESCRIPTION",
       "id": "13fe9ff2d4a62c2",
-      "image": "",
+      "image": "icon_buff_SoP_troop_health.png",
       "name": "property_TroopHealthvsSoPWall_consumable",
-      "name_placeholder": "PROPERTY_TROOP_HEALTH_VS_SOPCASTLEBLACK_NAME",
+      "name_placeholder": "PROPERTY_TROOPHEALTHVSSOPWALL_NAME",
       "type": 3
     },
     {
-      "description_placeholder": "PROPERTY_TROOP_HEALTH_VS_SOPCASTLEBLACK_DESCRIPTION",
+      "description_placeholder": "PROPERTY_TROOPHEALTHVSSOPWALL_DESCRIPTION",
       "id": "c2d38af8df47d0c3",
-      "image": "",
+      "image": "icon_buff_SoP_troop_health.png",
       "name": "property_TroopHealthvsSoPWall_activity",
-      "name_placeholder": "PROPERTY_TROOP_HEALTH_VS_SOPCASTLEBLACK_NAME",
+      "name_placeholder": "PROPERTY_TROOPHEALTHVSSOPWALL_NAME",
       "type": 9
     },
     {
-      "description_placeholder": "PROPERTY_TROOP_HEALTH_VS_SOPCASTLEBLACK_DESCRIPTION",
+      "description_placeholder": "PROPERTY_MAXMARCHSIZEVSSOPWALL_DESCRIPTION",
       "id": "dcb8433f817c0965",
-      "image": "",
+      "image": "icon_buff_SoP_march_size.png",
       "name": "property_MaxMarchSizeVsSoPWall_seatofpower",
-      "name_placeholder": "PROPERTY_TROOP_HEALTH_VS_SOPCASTLEBLACK_NAME",
+      "name_placeholder": "PROPERTY_MAXMARCHSIZEVSSOPWALL_NAME",
       "type": 6
     },
     {
-      "description_placeholder": "PROPERTY_TROOP_HEALTH_VS_SOPCASTLEBLACK_DESCRIPTION",
+      "description_placeholder": "PROPERTY_MAXMARCHSIZEVSSOPWALL_DESCRIPTION",
       "id": "58e5ddb747eb6e0b",
-      "image": "",
+      "image": "icon_buff_SoP_march_size.png",
       "name": "property_MaxMarchSizeVsSoPWall_consumable",
-      "name_placeholder": "PROPERTY_TROOP_HEALTH_VS_SOPCASTLEBLACK_NAME",
+      "name_placeholder": "PROPERTY_MAXMARCHSIZEVSSOPWALL_NAME",
       "type": 3
     },
     {
-      "description_placeholder": "PROPERTY_TROOP_HEALTH_VS_SOPCASTLEBLACK_DESCRIPTION",
+      "description_placeholder": "PROPERTY_MAXMARCHSIZEVSSOPWALL_DESCRIPTION",
       "id": "2cd15ec3bd0aec01",
-      "image": "",
+      "image": "icon_buff_SoP_march_size.png",
       "name": "property_MaxMarchSizeVsSoPWall_activity",
-      "name_placeholder": "PROPERTY_TROOP_HEALTH_VS_SOPCASTLEBLACK_NAME",
+      "name_placeholder": "PROPERTY_MAXMARCHSIZEVSSOPWALL_NAME",
       "type": 9
     },
     {
-      "description_placeholder": "PROPERTY_TROOP_HEALTH_VS_SOPCASTLEBLACK_DESCRIPTION",
+      "description_placeholder": "PROPERTY_RALLIEDTROOPCAPACITYVSSOPWALL_DESCRIPTION",
       "id": "214116828df4415c",
-      "image": "",
+      "image": "icon_buff_SoP_rally_capacity.png",
       "name": "property_RalliedTroopCapacityVsSoPWall_seatofpower",
-      "name_placeholder": "PROPERTY_TROOP_HEALTH_VS_SOPCASTLEBLACK_NAME",
+      "name_placeholder": "PROPERTY_RALLIEDTROOPCAPACITYVSSOPWALL_NAME",
       "type": 6
     },
     {
-      "description_placeholder": "PROPERTY_TROOP_HEALTH_VS_SOPCASTLEBLACK_DESCRIPTION",
+      "description_placeholder": "PROPERTY_RALLIEDTROOPCAPACITYVSSOPWALL_DESCRIPTION",
       "id": "be0b071c60975eb3",
-      "image": "",
+      "image": "icon_buff_SoP_rally_capacity.png",
       "name": "property_RalliedTroopCapacityVsSoPWall_consumable",
-      "name_placeholder": "PROPERTY_TROOP_HEALTH_VS_SOPCASTLEBLACK_NAME",
+      "name_placeholder": "PROPERTY_RALLIEDTROOPCAPACITYVSSOPWALL_NAME",
       "type": 3
     },
     {
-      "description_placeholder": "PROPERTY_TROOP_HEALTH_VS_SOPCASTLEBLACK_DESCRIPTION",
+      "description_placeholder": "PROPERTY_RALLIEDTROOPCAPACITYVSSOPWALL_DESCRIPTION",
       "id": "e1d2743c7839e99d",
-      "image": "",
+      "image": "icon_buff_SoP_rally_capacity.png",
       "name": "property_RalliedTroopCapacityVsSoPWall_activity",
-      "name_placeholder": "PROPERTY_TROOP_HEALTH_VS_SOPCASTLEBLACK_NAME",
+      "name_placeholder": "PROPERTY_RALLIEDTROOPCAPACITYVSSOPWALL_NAME",
       "type": 9
     },
     {
-      "description_placeholder": "PROPERTY_TROOP_HEALTH_VS_SOPCASTLEBLACK_DESCRIPTION",
+      "description_placeholder": "PROPERTY_RALLYSLOTVSSOPWALL_DESCRIPTION",
       "id": "5ce4fcda742f5bf9",
-      "image": "",
+      "image": "icon_buff_SoP_rally_slots.png",
       "name": "property_RallySlotVsSoPWall_seatofpower",
-      "name_placeholder": "PROPERTY_TROOP_HEALTH_VS_SOPCASTLEBLACK_NAME",
+      "name_placeholder": "PROPERTY_RALLYSLOTVSSOPWALL_NAME",
       "type": 6
     },
     {
-      "description_placeholder": "PROPERTY_TROOP_HEALTH_VS_SOPCASTLEBLACK_DESCRIPTION",
+      "description_placeholder": "PROPERTY_RALLYSLOTVSSOPWALL_DESCRIPTION",
       "id": "914868dcff496139",
-      "image": "",
+      "image": "icon_buff_SoP_rally_slots.png",
       "name": "property_RallySlotVsSoPWall_consumable",
-      "name_placeholder": "PROPERTY_TROOP_HEALTH_VS_SOPCASTLEBLACK_NAME",
+      "name_placeholder": "PROPERTY_RALLYSLOTVSSOPWALL_NAME",
       "type": 3
     },
     {
-      "description_placeholder": "PROPERTY_TROOP_HEALTH_VS_SOPCASTLEBLACK_DESCRIPTION",
+      "description_placeholder": "PROPERTY_RALLYSLOTVSSOPWALL_DESCRIPTION",
       "id": "7b39e3b5f9dcbb48",
-      "image": "",
+      "image": "icon_buff_SoP_rally_slots.png",
       "name": "property_RallySlotVsSoPWall_activity",
-      "name_placeholder": "PROPERTY_TROOP_HEALTH_VS_SOPCASTLEBLACK_NAME",
+      "name_placeholder": "PROPERTY_RALLYSLOTVSSOPWALL_NAME",
       "type": 9
     },
     {
-      "description_placeholder": "PROPERTY_TROOP_HEALTH_VS_SOPCASTLEBLACK_DESCRIPTION",
+      "description_placeholder": "PROPERTY_TROOPSDEADTOWOUNDEDVSSOPWALL_DESCRIPTION",
       "id": "68ab9bc392449c2d",
-      "image": "",
+      "image": "icon_buff_SoP_dead_to_wounded.png",
       "name": "property_TroopsDeadtoWoundedVsSoPWall_seatofpower",
-      "name_placeholder": "PROPERTY_TROOP_HEALTH_VS_SOPCASTLEBLACK_NAME",
+      "name_placeholder": "PROPERTY_TROOPSDEADTOWOUNDEDVSSOPWALL_NAME",
       "type": 6
     },
     {
-      "description_placeholder": "PROPERTY_TROOP_HEALTH_VS_SOPCASTLEBLACK_DESCRIPTION",
+      "description_placeholder": "PROPERTY_TROOPSDEADTOWOUNDEDVSSOPWALL_DESCRIPTION",
       "id": "440f0d95d2bbd88",
-      "image": "",
+      "image": "icon_buff_SoP_dead_to_wounded.png",
       "name": "property_TroopsDeadtoWoundedVsSoPWall_consumable",
-      "name_placeholder": "PROPERTY_TROOP_HEALTH_VS_SOPCASTLEBLACK_NAME",
+      "name_placeholder": "PROPERTY_TROOPSDEADTOWOUNDEDVSSOPWALL_NAME",
       "type": 3
     },
     {
-      "description_placeholder": "PROPERTY_TROOP_HEALTH_VS_SOPCASTLEBLACK_DESCRIPTION",
+      "description_placeholder": "PROPERTY_TROOPSDEADTOWOUNDEDVSSOPWALL_DESCRIPTION",
       "id": "5bb9a3caa3be863a",
-      "image": "",
+      "image": "icon_buff_SoP_dead_to_wounded.png",
       "name": "property_TroopsDeadtoWoundedVsSoPWall_activity",
-      "name_placeholder": "PROPERTY_TROOP_HEALTH_VS_SOPCASTLEBLACK_NAME",
+      "name_placeholder": "PROPERTY_TROOPSDEADTOWOUNDEDVSSOPWALL_NAME",
       "type": 9
     },
     {
