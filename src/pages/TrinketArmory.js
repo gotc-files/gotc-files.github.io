@@ -7,7 +7,7 @@ import React from "react";
 import { Navigate, useParams } from "react-router-dom";
 import Page from "../common/Page";
 import SingleChoiceSelect from "../common/SingleChoiceSelect";
-import StatsTable from "../common/StatsTable";
+import StatsCard from "../common/StatsCard";
 import trinketArmories from "../data/trinket_armory.json";
 
 const LEVELS = [1, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50];
@@ -102,7 +102,7 @@ function TrinketArmory() {
           </Card>
         </Grid>
         <Grid item xs={12} md={6}>
-          <StatsTable
+          <StatsCard
             title="Trinket Armory Stats"
             color={currentTrinktArmory.color}
             stats={currentTrinktArmory.bonuses.map((bonus) => ({
@@ -114,7 +114,7 @@ function TrinketArmory() {
         </Grid>
         {currentTrinktArmory.trinkets.map((trinket, index) => (
           <Grid item xs={12} md={6} key={index}>
-            <StatsTable
+            <StatsCard
               title={
                 trinket.gear_with_level.find(
                   (trinket) => trinket.level === currentTrinketLevel

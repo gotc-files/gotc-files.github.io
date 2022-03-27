@@ -4,7 +4,7 @@ import {
   Divider,
   Drawer,
   List,
-  ListItem,
+  ListItemButton,
   ListItemText,
 } from "@mui/material";
 import AppBar from "@mui/material/AppBar";
@@ -12,38 +12,43 @@ import IconButton from "@mui/material/IconButton";
 import Toolbar from "@mui/material/Toolbar";
 import Typography from "@mui/material/Typography";
 import React, { useState } from "react";
-import { Link } from "react-router-dom";
+import { Link, useLocation, useParams } from "react-router-dom";
 import NavBarSelect from "./NavBarSelect";
 
 const drawerWidth = 240;
 
 function NavBar(props) {
   const [mobileOpen, setMobileOpen] = useState(false);
+  const location = useLocation();
 
   const handleDrawerToggle = () => {
     setMobileOpen(!mobileOpen);
   };
+  const topLevelPath = location.pathname.split("/")[1];
 
   const drawer = (
     <div>
-      <Toolbar>
+      <Toolbar sx={{ height: props.height }}>
         <Typography variant="h6" sx={{ ml: 1, mr: 5, my: 1, color: "inherit" }}>
           GoTC Files
         </Typography>
       </Toolbar>
       <Divider />
-      <List>
-        <ListItem button key="armory" component={Link} to="/armory">
-          <ListItemText primary="Armory" />
-        </ListItem>
-        <ListItem
-          button
-          key="trinket-armory"
-          component={Link}
-          to="/trinket-armory"
-        >
-          <ListItemText primary="Trinket Armory" />
-        </ListItem>
+      <List sx={{ py: 0 }}>
+        {[
+          ["armory", "Armory"],
+          ["trinket-armory", "Trinket Armory"],
+          ["hero", "Hero"],
+        ].map(([url, text]) => (
+          <ListItemButton
+            key={url}
+            component={Link}
+            to={`/${url}`}
+            selected={topLevelPath === url}
+          >
+            <ListItemText primary={text} />
+          </ListItemButton>
+        ))}
       </List>
     </div>
   );
@@ -57,7 +62,7 @@ function NavBar(props) {
           ml: { sm: `${drawerWidth}px` },
         }}
       >
-        <Toolbar>
+        <Toolbar sx={{ height: props.height }}>
           <IconButton
             color="inherit"
             aria-label="open drawer"
@@ -92,11 +97,12 @@ function NavBar(props) {
             keepMounted: true,
           }}
           sx={{
-            display: { xs: "block", sm: "none" },
+            display: { xs: "block", md: "none" },
             "& .MuiDrawer-paper": {
               boxSizing: "border-box",
               width: drawerWidth,
             },
+            height: props.height,
           }}
         >
           {drawer}
@@ -104,11 +110,12 @@ function NavBar(props) {
         <Drawer
           variant="permanent"
           sx={{
-            display: { xs: "none", sm: "block" },
+            display: { xs: "none", md: "block" },
             "& .MuiDrawer-paper": {
               boxSizing: "border-box",
               width: drawerWidth,
             },
+            height: props.height,
           }}
           open
         >

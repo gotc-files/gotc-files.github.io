@@ -1,14 +1,39 @@
+import { blue, cyan } from "@mui/material/colors";
 import {
   createTheme,
-  ThemeProvider,
   StyledEngineProvider,
+  ThemeProvider,
 } from "@mui/material/styles";
 import { HashRouter, Route, Routes } from "react-router-dom";
 import Armory from "./pages/Armory";
+import Hero from "./pages/Hero";
 import Home from "./pages/Home";
 import TrinketArmory from "./pages/TrinketArmory";
 
-const theme = createTheme();
+const theme = createTheme({
+  palette: {
+    primary: blue,
+    secondary: cyan,
+    poor: {
+      main: "#fefefe",
+    },
+    common: {
+      main: "#6ad812",
+    },
+    fine: {
+      main: "#2892dc",
+    },
+    exquisite: {
+      main: "#d536db",
+    },
+    epic: {
+      main: "#fe7d0e",
+    },
+    legendary: {
+      main: "#ffff0d",
+    },
+  },
+});
 
 function App() {
   return (
@@ -24,6 +49,7 @@ function App() {
               path="/trinket-armory/:trinketArmoryId"
               element={<TrinketArmory />}
             />
+            <Route path="/hero" element={<Hero />} />
           </Routes>
         </ThemeProvider>
       </StyledEngineProvider>

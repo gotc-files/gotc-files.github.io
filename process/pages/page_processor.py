@@ -8,10 +8,10 @@ class PageProcessor:
 
     def translate(self, key):
         translation = self.lookup_file('translations', key)
-        if not translation:
-            raise InsufficientDataException(
-                'Failed to find translation for key: %s' % key)
-        return translation
+        return translation if translation else '%s (Not Translated)' % key
+
+    def try_translate(self, key):
+        return self.lookup_file('translations', key)
 
     def lookup_file(self, file_id, key):
         return self.lookup_files([file_id], key)

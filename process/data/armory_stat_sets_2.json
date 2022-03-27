@@ -562,20 +562,20 @@
     {
       "id": "2640054d8f27bd5c",
       "name": "armcol_events_artofcombat_1",
-      "progression": "prog_armory_bonus_SpecificTroop_1",
-      "property": "property_CavalryAttackVsPlayersCavalry_armory"
+      "progression": "prog_armory_bonus_GeneralTroop_1",
+      "property": "property_TroopAttackVsPlayer_armory"
     },
     {
       "id": "535259a656d24f52",
       "name": "armcol_events_artofcombat_2",
-      "progression": "prog_armory_bouns_MarcherTroop_1",
-      "property": "property_MarcherCavalryHealthVsPlayer_armory"
+      "progression": "prog_armory_bonus_SpecificTroop_1",
+      "property": "property_TrainingSpeed_armory"
     },
     {
       "id": "7fa39200e1811ea8",
       "name": "armcol_events_artofcombat_3",
-      "progression": "prog_armory_bonus_SpecificTroop_1",
-      "property": "property_CavalryAttackVsPlayer_armory"
+      "progression": "prog_armory_bonus_GeneralTroop_1",
+      "property": "property_MarcherTroopAttackVsPlayer_armory"
     }
   ]
 }

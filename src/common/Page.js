@@ -5,11 +5,11 @@ function Page(props) {
   return (
     <Box sx={{ display: "flex" }}>
       <NavBar
-        height={56}
+        height={80}
         title={props.title}
         selectArgsList={props.selectArgsList}
       />
-      <Container maxWidth="lg" sx={{ mt: "64px" }}>
+      <Container maxWidth="lg" sx={{ mt: "80px" }}>
         {props.children}
       </Container>
     </Box>

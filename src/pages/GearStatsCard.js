@@ -1,8 +1,8 @@
-import StatsTable from "../common/StatsTable";
+import StatsCard from "../common/StatsCard";
 
 function GearStatsCard(props) {
   return (
-    <StatsTable
+    <StatsCard
       title={
         props.gear.gear_with_level.find(
           (gear) => gear.level === props.currentLevel

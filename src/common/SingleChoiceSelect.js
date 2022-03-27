@@ -12,14 +12,16 @@ function SingleChoiceSelect(props) {
     props.handleChoiceChange(event.target.value);
   };
 
+  const id = props.id || props.name;
+
   return (
     <FormControl sx={{ margin: 1, minWidth: 100 }}>
-      <InputLabel id={props.name} color="primary">
+      <InputLabel id={`${id}-label`} color="primary">
         {formatLabel(props.name)}
       </InputLabel>
       <Select
-        labelId={`${props.name}-label`}
-        id={props.name}
+        labelId={`${id}-label`}
+        id={id}
         value={props.currentChoice}
         label={props.name}
         onChange={handleChange}

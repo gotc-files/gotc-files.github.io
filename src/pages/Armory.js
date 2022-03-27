@@ -7,7 +7,7 @@ import React from "react";
 import { Navigate, useParams } from "react-router-dom";
 import Page from "../common/Page";
 import SingleChoiceSelect from "../common/SingleChoiceSelect";
-import StatsTable from "../common/StatsTable";
+import StatsCard from "../common/StatsCard";
 import armories from "../data/armory.json";
 import GearStatsCard from "./GearStatsCard";
 
@@ -55,7 +55,7 @@ function Armory() {
             <CardHeader
               title={armory.name}
               subheader={armory.description}
-              style={{ backgroundColor: armory.color }}
+              sx={{ backgroundColor: armory.color }}
               subheaderTypographyProps={{ color: "inherit" }}
             />
             <CardContent>
@@ -93,7 +93,7 @@ function Armory() {
           </Card>
         </Grid>
         <Grid item xs={12} md={6}>
-          <StatsTable
+          <StatsCard
             title="Armory Stats"
             color={armory.color}
             stats={["bonus_1", "bonus_2", "bonus_3"].map((bonusName) => ({

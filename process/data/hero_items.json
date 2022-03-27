@@ -1,0 +1,851 @@
+{
+  "description": "Items",
+  "values": [
+    {
+      "description_placeholder": "ITEM_HEROXP_DESC",
+      "id": "1bc11ea2142e613b",
+      "image": "icon_elite_writ.png",
+      "name": "item_hero_xp_test",
+      "name_placeholder": "ITEM_HEROXP",
+      "priority": 300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_STONES_1_DESC",
+      "id": "d303812cc9245486",
+      "image": "icon_item_hero_stone.png",
+      "name": "item_hero_adv_stones_1",
+      "name_placeholder": "ITEM_HERO_ADV_STONES_1_NAME",
+      "priority": 600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_HEROXP_DESC",
+      "id": "84edc42749b8291b",
+      "image": "icon_item_hero_xp.png",
+      "name": "item_hero_adv_xp_10",
+      "name_placeholder": "ITEM_HERO_ADV_XP_10_NAME",
+      "priority": 800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_HEROXP_DESC",
+      "id": "106578652001766",
+      "image": "icon_item_hero_xp.png",
+      "name": "item_hero_adv_xp_100",
+      "name_placeholder": "ITEM_HERO_ADV_XP_100_NAME",
+      "priority": 900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_HEROXP_DESC",
+      "id": "30472d36cc15e89",
+      "image": "icon_item_hero_xp.png",
+      "name": "item_hero_adv_xp_1000",
+      "name_placeholder": "ITEM_HERO_ADV_XP_1000_NAME",
+      "priority": 1000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_HEROXP_DESC",
+      "id": "d1ed74b3c390a4ad",
+      "image": "icon_item_hero_xp.png",
+      "name": "item_hero_adv_xp_10000",
+      "name_placeholder": "ITEM_HERO_ADV_XP_10000_NAME",
+      "priority": 1100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "CURR_RELICSHOP_1_DESC",
+      "id": "c669ef53ca00678d",
+      "image": "icon_coin_silverstag.png",
+      "name": "curr_relicshop_1",
+      "name_placeholder": "CURR_RELICSHOP_1_NAME",
+      "priority": 1400,
+      "type": "wallet"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "a77496e1449bb90f",
+      "image": "icon_hero_portrait_barristan_a.png",
+      "name": "item_hero_adv_barristanselmy_lordcommander_1",
+      "name_placeholder": "ITEM_HERO_ADV_BARRISTANSELMY_LORDCOMMANDER_1_NAME",
+      "priority": 1700,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "49fa0b2a4abc5e34",
+      "image": "icon_hero_portrait_benjen_a.png",
+      "name": "item_hero_adv_benjenstark_firstranger_1",
+      "name_placeholder": "ITEM_HERO_ADV_BENJENSTARK_FIRSTRANGER_1_NAME",
+      "priority": 1800,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "8c14e7da577fd27d",
+      "image": "icon_hero_portrait_cersei_a.png",
+      "name": "item_hero_adv_cerseilannister_queenregent_1",
+      "name_placeholder": "ITEM_HERO_ADV_CERSEILANNISTER_QUEENREGENT_1_NAME",
+      "priority": 1900,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "bc0e31e0957046ae",
+      "image": "icon_hero_portrait_daenerys_a.png",
+      "name": "item_hero_adv_daenerystargeryen_motherofdragons_1",
+      "name_placeholder": "ITEM_HERO_ADV_DAENERYSTARGERYEN_MOTHEROFDRAGONS_1_NAME",
+      "priority": 2000,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "be06b733a9857073",
+      "image": "icon_hero_portrait_ned_a.png",
+      "name": "item_hero_adv_eddardstark_youngwarrior_1",
+      "name_placeholder": "ITEM_HERO_ADV_EDDARDSTARK_YOUNGWARRIOR_1_NAME",
+      "priority": 2100,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "fffff8026651e3c9",
+      "image": "icon_hero_portrait_eddison_a.png",
+      "name": "item_hero_adv_eddisontollett_nightswatchrecruit_1",
+      "name_placeholder": "ITEM_HERO_ADV_EDDISONTOLLETT_NIGHTSWATCHRECRUIT_1_NAME",
+      "priority": 2200,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "bf3f8595ec97b2b4",
+      "image": "icon_hero_portrait_gendry_a.png",
+      "name": "item_hero_adv_gendry_apprenticeblacksmith_1",
+      "name_placeholder": "ITEM_HERO_ADV_GENDRY_APPRENTICEBLACKSMITH_1_NAME",
+      "priority": 2300,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "2f07a7f9ba8751de",
+      "image": "icon_hero_portrait_greyworm_a.png",
+      "name": "item_hero_adv_greyworm_unsulliedcaptain_1",
+      "name_placeholder": "ITEM_HERO_ADV_GREYWORM_UNSULLIEDCAPTAIN_1_NAME",
+      "priority": 2400,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "d2676310f1621897",
+      "image": "icon_hero_portrait_hodor_a.png",
+      "name": "item_hero_adv_hodor_gentlegiant_1",
+      "name_placeholder": "ITEM_HERO_ADV_HODOR_GENTLEGIANT_1_NAME",
+      "priority": 2500,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "bd4fdea1cbe18849",
+      "image": "icon_hero_portrait_hotpie_a.png",
+      "name": "item_hero_adv_hotpie_nightswatchrecruit_1",
+      "name_placeholder": "ITEM_HERO_ADV_HOTPIE_NIGHTSWATCHRECRUIT_1_NAME",
+      "priority": 2600,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "8f94231d4be38938",
+      "image": "icon_hero_portrait_jaime_a.png",
+      "name": "item_hero_adv_jamielannister_lionoflannister_1",
+      "name_placeholder": "ITEM_HERO_ADV_JAMIELANNISTER_LIONOFLANNISTER_1_NAME",
+      "priority": 2700,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "2a9f281bdc29e248",
+      "image": "icon_hero_portrait_jaqen_a.png",
+      "name": "item_hero_adv_jaqenhghar_facelessassassin_1",
+      "name_placeholder": "ITEM_HERO_ADV_JAQENHGHAR_FACELESSASSASSIN_1_NAME",
+      "priority": 2800,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "8add15514309dcf8",
+      "image": "icon_hero_portrait_jon_a.png",
+      "name": "item_hero_adv_jonsnow_bastardofwinterfell_1",
+      "name_placeholder": "ITEM_HERO_ADV_JONSNOW_BASTARDOFWINTERFELL_1_NAME",
+      "priority": 2900,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "4addbc916f9f6316",
+      "image": "icon_hero_portrait_lancel_a.png",
+      "name": "item_hero_adv_lancellannister_kingssquire_1",
+      "name_placeholder": "ITEM_HERO_ADV_LANCELLANNISTER_KINGSSQUIRE_1_NAME",
+      "priority": 3000,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "43112217c1de48c6",
+      "image": "icon_hero_portrait_maesterluwin_a.png",
+      "name": "item_hero_adv_maesterluwin_maesterofwinterfell_1",
+      "name_placeholder": "ITEM_HERO_ADV_MAESTERLUWIN_MAESTEROFWINTERFELL_1_NAME",
+      "priority": 3100,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "4d8fe7594f6b04d0",
+      "image": "icon_hero_portrait_margaery_a.png",
+      "name": "item_hero_adv_margaerytyrell_kingsbetrothed_1",
+      "name_placeholder": "ITEM_HERO_ADV_MARGAERYTYRELL_KINGSBETROTHED_1_NAME",
+      "priority": 3200,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "9fd854a588739e4c",
+      "image": "icon_hero_portrait_melisandre_a.png",
+      "name": "item_hero_adv_melisandre_theredwoman_1",
+      "name_placeholder": "ITEM_HERO_ADV_MELISANDRE_THEREDWOMAN_1_NAME",
+      "priority": 3300,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "22573dc69a1b7ab7",
+      "image": "icon_hero_portrait_missandei_a.png",
+      "name": "item_hero_adv_missandei_heraldofthedragon_1",
+      "name_placeholder": "ITEM_HERO_ADV_MISSANDEI_HERALDOFTHEDRAGON_1_NAME",
+      "priority": 3400,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "3b542e0f71920ffb",
+      "image": "icon_hero_portrait_petyr_a.png",
+      "name": "item_hero_adv_petyrbaelish_littlefinger_1",
+      "name_placeholder": "ITEM_HERO_ADV_PETYRBAELISH_LITTLEFINGER_1_NAME",
+      "priority": 3500,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "4e248c0f0f04e5f3",
+      "image": "icon_hero_portrait_podrick_a.png",
+      "name": "item_hero_adv_podrickpayne_youngsquire_1",
+      "name_placeholder": "ITEM_HERO_ADV_PODRICKPAYNE_YOUNGSQUIRE_1_NAME",
+      "priority": 3600,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "706947a0ca3ee825",
+      "image": "icon_hero_portrait_pyat_a.png",
+      "name": "item_hero_adv_pyatpree_warlockofqarth_1",
+      "name_placeholder": "ITEM_HERO_ADV_PYATPREE_WARLOCKOFQARTH_1_NAME",
+      "priority": 3700,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "f9d6d0db63a2882b",
+      "image": "icon_hero_portrait_qyburn_a.png",
+      "name": "item_hero_adv_qyburn_fallenmaester_1",
+      "name_placeholder": "ITEM_HERO_ADV_QYBURN_FALLENMAESTER_1_NAME",
+      "priority": 3800,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "6ea669072034e59b",
+      "image": "icon_hero_portrait_robb_a.png",
+      "name": "item_hero_adv_robbstark_heirtowinterfell_1",
+      "name_placeholder": "ITEM_HERO_ADV_ROBBSTARK_HEIRTOWINTERFELL_1_NAME",
+      "priority": 3900,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "1507b02372b41032",
+      "image": "icon_hero_portrait_sansa_a.png",
+      "name": "item_hero_adv_sansastark_littlebird_1",
+      "name_placeholder": "ITEM_HERO_ADV_SANSASTARK_LITTLEBIRD_1_NAME",
+      "priority": 4000,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "e3bf87774bf2fdb6",
+      "image": "icon_hero_portrait_shae_a.png",
+      "name": "item_hero_adv_shae_handmaiden_1",
+      "name_placeholder": "ITEM_HERO_ADV_SHAE_HANDMAIDEN_1_NAME",
+      "priority": 4100,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "6fc0de592d63f07b",
+      "image": "icon_hero_portrait_theon_a.png",
+      "name": "item_hero_adv_theongreyjoy_wardofwinterfell_1",
+      "name_placeholder": "ITEM_HERO_ADV_THEONGREYJOY_WARDOFWINTERFELL_1_NAME",
+      "priority": 4200,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "6eda77f4bcf1300d",
+      "image": "icon_hero_portrait_thoros_a.png",
+      "name": "item_hero_adv_thorosofmyr_redpriest_1",
+      "name_placeholder": "ITEM_HERO_ADV_THOROSOFMYR_REDPRIEST_1_NAME",
+      "priority": 4300,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "cec6616770ce9ff9",
+      "image": "icon_hero_portrait_tyrion_a.png",
+      "name": "item_hero_adv_tyrionlannister_theimp_1",
+      "name_placeholder": "ITEM_HERO_ADV_TYRIONLANNISTER_THEIMP_1_NAME",
+      "priority": 4400,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "5c77a7ad59a1759b",
+      "image": "icon_hero_portrait_varys_a.png",
+      "name": "item_hero_adv_varys_thespider_1",
+      "name_placeholder": "ITEM_HERO_ADV_VARYS_THESPIDER_1_NAME",
+      "priority": 4500,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "73872445830e3c37",
+      "image": "icon_hero_portrait_yara_a.png",
+      "name": "item_hero_adv_yaragreyjoy_ironbornraider_1",
+      "name_placeholder": "ITEM_HERO_ADV_YARAGREYJOY_IRONBORNRAIDER_1_NAME",
+      "priority": 4600,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "eba7b9d0f6485def",
+      "image": "icon_hero_portrait_sandor_a.png",
+      "name": "item_hero_adv_sandorclegane_thehound_1",
+      "name_placeholder": "ITEM_HERO_ADV_SANDORCLEGANE_THEHOUND_1_NAME",
+      "priority": 4700,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "e714da86ae9381cc",
+      "image": "icon_hero_portrait_arya_a.png",
+      "name": "item_hero_adv_aryastark_waterdancer_1",
+      "name_placeholder": "ITEM_HERO_ADV_ARYASTARK_WATERDANCER_1_NAME",
+      "priority": 4800,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "b1759c5516bacf50",
+      "image": "icon_hero_portrait_doran_a.png",
+      "name": "item_hero_adv_doranmartel_lordofsunspear_1",
+      "name_placeholder": "ITEM_HERO_ADV_DORANMARTEL_LORDOFSUNSPEAR_1_NAME",
+      "priority": 4900,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "ab3c67af631b3f95",
+      "image": "icon_hero_portrait_rhaegar_a.png",
+      "name": "item_hero_adv_rhaegartargaryen_lastdragon_1",
+      "name_placeholder": "ITEM_HERO_ADV_RHAEGARTARGARYEN_LASTDRAGON_1_NAME",
+      "priority": 5000,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "a6b43a95f25f4902",
+      "image": "icon_hero_portrait_beric_a.png",
+      "name": "item_hero_adv_bericdondarrion_lightninglord_1",
+      "name_placeholder": "ITEM_HERO_ADV_BERICDONDARRION_LIGHTNINGLORD_1_NAME",
+      "priority": 5100,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "27b69e2d140c3e4c",
+      "image": "icon_hero_portrait_benjen_b.png",
+      "name": "item_hero_adv_benjenstark_coldhands_1",
+      "name_placeholder": "ITEM_HERO_ADV_BENJENSTARK_COLDHANDS_1_NAME",
+      "priority": 5200,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "f1171662d9802a32",
+      "image": "icon_hero_portrait_gregor_a.png",
+      "name": "item_hero_adv_gregorclegane_themountain_1",
+      "name_placeholder": "ITEM_HERO_ADV_GREGORCLEGANE_THEMOUNTAIN_1_NAME",
+      "priority": 5300,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "fed403b96c507e3",
+      "image": "icon_hero_portrait_loras_a.png",
+      "name": "item_hero_adv_lorastyrell_knightofflowers_1",
+      "name_placeholder": "ITEM_HERO_ADV_LORASTYRELL_KNIGHTOFFLOWERS_1_NAME",
+      "priority": 5400,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "3bb60a2894a0e907",
+      "image": "icon_hero_portrait_ellaria_a.png",
+      "name": "item_hero_adv_ellariasand_motherofsnakes_1",
+      "name_placeholder": "ITEM_HERO_ADV_ELLARIASAND_MOTHEROFSNAKES_1_NAME",
+      "priority": 5500,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "5dd892515c34a745",
+      "image": "icon_hero_portrait_cersei_b.png",
+      "name": "item_hero_adv_cerseilannister_queenmother_1",
+      "name_placeholder": "ITEM_HERO_ADV_CERSEILANNISTER_QUEENMOTHER_1_NAME",
+      "priority": 5600,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "94d2d88061152fa0",
+      "image": "icon_hero_portrait_euron_a.png",
+      "name": "item_hero_adv_eurongreyjoy_kingoftheironislands_1",
+      "name_placeholder": "ITEM_HERO_ADV_EURONGREYJOY_KINGOFTHEIRONISLANDS_1_NAME",
+      "priority": 5700,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "392dafc3af380053",
+      "image": "icon_hero_portrait_balon_a.png",
+      "name": "item_hero_adv_balongreyjoy_lordreaper_1",
+      "name_placeholder": "ITEM_HERO_ADV_BALONGREYJOY_LORDREAPER_1_NAME",
+      "priority": 5800,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "c2ece099ab7065ca",
+      "image": "icon_hero_portrait_daenerys_b.png",
+      "name": "item_hero_adv_daenerystargaryen_breakerofchains_1",
+      "name_placeholder": "ITEM_HERO_ADV_DAENERYSTARGARYEN_BREAKEROFCHAINS_1_NAME",
+      "priority": 5900,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "ab315cd3fc02f47f",
+      "image": "icon_hero_portrait_salladhor_a.png",
+      "name": "item_hero_adv_salladhorsaan_piratelord_1",
+      "name_placeholder": "ITEM_HERO_ADV_SALLADHORSAAN_PIRATELORD_1_NAME",
+      "priority": 6000,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "c63ca52b2bc76449",
+      "image": "icon_hero_portrait_three_eyed_raven_a.png",
+      "name": "item_hero_adv_threeeyedraven_greenseer_1",
+      "name_placeholder": "ITEM_HERO_ADV_THREEEYEDRAVEN_GREENSEER_1_NAME",
+      "priority": 6100,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "6d490a2efca1bf68",
+      "image": "icon_hero_portrait_leaf_a.png",
+      "name": "item_hero_adv_leaf_childoftheforest_1",
+      "name_placeholder": "ITEM_HERO_ADV_LEAF_CHILDOFTHEFOREST_1_NAME",
+      "priority": 6200,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "30a702ff1c791c78",
+      "image": "icon_hero_portrait_jon_b.png",
+      "name": "item_hero_adv_jonsnow_lordcommander_1",
+      "name_placeholder": "ITEM_HERO_ADV_JONSNOW_LORDCOMMANDER_1_NAME",
+      "priority": 6300,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "2daca9fafc1f8e24",
+      "image": "icon_hero_portrait_walder_a.png",
+      "name": "item_hero_adv_walderfrey_lordofthecrossing_1",
+      "name_placeholder": "ITEM_HERO_ADV_WALDERFREY_LORDOFTHECROSSING_1_NAME",
+      "priority": 6400,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "51cad16d03133e29",
+      "image": "icon_hero_portrait_night_king_a.png",
+      "name": "item_hero_adv_nightking_firstwhitewalker_1",
+      "name_placeholder": "ITEM_HERO_ADV_NIGHTKING_FIRSTWHITEWALKER_1_NAME",
+      "priority": 6500,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "a327086d3bf06242",
+      "image": "icon_hero_portrait_old_nan_a.png",
+      "name": "item_hero_adv_oldnan_weaveroftales_1",
+      "name_placeholder": "ITEM_HERO_ADV_OLDNAN_WEAVEROFTALES_1_NAME",
+      "priority": 6600,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "5030991053431314",
+      "image": "icon_hero_portrait_tyrion_b.png",
+      "name": "item_hero_adv_tyrion_handoftheking_1",
+      "name_placeholder": "ITEM_HERO_ADV_TYRION_HANDOFTHEKING_1_NAME",
+      "priority": 6700,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "819d6fc866f73916",
+      "image": "icon_hero_portrait_anguy_a.png",
+      "name": "item_hero_adv_anguy_thearcher_1",
+      "name_placeholder": "ITEM_HERO_ADV_ANGUY_THEARCHER_1_NAME",
+      "priority": 6800,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "55bfaa0a0b4f2472",
+      "image": "icon_hero_portrait_petyr_b.png",
+      "name": "item_hero_adv_petyrbaelish_theunrequited_1",
+      "name_placeholder": "ITEM_HERO_ADV_PETYRBAELISH_THEUNREQUITED_1_NAME",
+      "priority": 6900,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "b2911c6b2fa8e59c",
+      "image": "icon_hero_portrait_maester_luwin_b.png",
+      "name": "item_hero_adv_maesterluwin_loyalservant_1",
+      "name_placeholder": "ITEM_HERO_ADV_MAESTERLUWIN_LOYALSERVANT_1_NAME",
+      "priority": 7000,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "e5c8ccebe510521c",
+      "image": "icon_hero_portrait_arya_b.png",
+      "name": "item_hero_adv_arya_thevengeful_1",
+      "name_placeholder": "ITEM_HERO_ADV_ARYA_THEVENGEFUL_1_NAME",
+      "priority": 7100,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "44ecdebb850a0fe9",
+      "image": "icon_hero_portrait_jaime_b.png",
+      "name": "item_hero_adv_jaimelannister_kingsguard_1",
+      "name_placeholder": "ITEM_HERO_ADV_JAIMELANNISTER_KINGSGUARD_1_NAME",
+      "priority": 7200,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "99714f8f85182d02",
+      "image": "icon_hero_portrait_ned_b.png",
+      "name": "item_hero_adv_youngned_quietwolf_1",
+      "name_placeholder": "ITEM_HERO_ADV_YOUNGNED_QUIETWOLF_1_NAME",
+      "priority": 7300,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "5f1a86e9355d816d",
+      "image": "icon_hero_portrait_sansa_b.png",
+      "name": "item_hero_adv_sansa_ladyofthenorth_1",
+      "name_placeholder": "ITEM_HERO_ADV_SANSA_LADYOFTHENORTH_1_NAME",
+      "priority": 7400,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "4e81fdfd9f2aa3e",
+      "image": "icon_hero_portrait_tyrion_b.png",
+      "name": "item_hero_adv_theongreyjoy_thebetrayed_1",
+      "name_placeholder": "ITEM_HERO_ADV_THEONGREYJOY_THEBETRAYED_1_NAME",
+      "priority": 7500,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "b566d84a71f11b48",
+      "image": "icon_hero_portrait_anguy_a.png",
+      "name": "item_hero_adv_robbstark_youngwolf_1",
+      "name_placeholder": "ITEM_HERO_ADV_ROBBSTARK_YOUNGWOLF_1_NAME",
+      "priority": 7600,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "976c538ae6f8c0b4",
+      "image": "icon_hero_portrait_mance_a.png",
+      "name": "item_hero_adv_mancerayder_kingbeyondthewall_1",
+      "name_placeholder": "ITEM_HERO_ADV_MANCERAYDER_KINGBEYONDTHEWALL_1_NAME",
+      "priority": 7900,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "4d5405184ece5ea7",
+      "image": "icon_hero_portrait_rattleshirt_a.png",
+      "name": "item_hero_adv_rattleshirt_lordofbones_1",
+      "name_placeholder": "ITEM_HERO_ADV_RATTLESHIRT_LORDOFBONES_1_NAME",
+      "priority": 8000,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_SEAL_STANDARD_1_DESC",
+      "id": "2ecc14666f69430d",
+      "image": "icon_hero_seal_common.png",
+      "name": "item_hero_seal_standard_1",
+      "name_placeholder": "ITEM_HERO_SEAL_STANDARD_1_NAME",
+      "priority": 8200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_SEAL_NOBLE_1_DESC",
+      "id": "4e05df45feeb8f0",
+      "image": "icon_hero_seal_noble.png",
+      "name": "item_hero_seal_noble_1",
+      "name_placeholder": "ITEM_HERO_SEAL_NOBLE_1_NAME",
+      "priority": 8300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_SEAL_ROYAL_1_DESC",
+      "id": "dded2a7680f0ac98",
+      "image": "icon_hero_seal_royal.png",
+      "name": "item_hero_seal_royal_1",
+      "name_placeholder": "ITEM_HERO_SEAL_ROYAL_1_NAME",
+      "priority": 8400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_INFLUENCE_100_DESC",
+      "id": "6db94500f219028f",
+      "image": "icon_allegiance_influence.png",
+      "name": "item_Influence_100",
+      "name_placeholder": "ITEM_INFLUENCE_100",
+      "priority": 8700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_SUMMON_PURCHASE_BASIC_1_DESC",
+      "id": "cedc43ff267b55f3",
+      "image": "icon_itm_resource_chest_01.png",
+      "name": "item_summon_purchase_basic_1",
+      "name_placeholder": "ITEM_SUMMON_PURCHASE_BASIC_1_NAME",
+      "priority": 9000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_SUMMON_PURCHASE_BASIC_10_DESC",
+      "id": "1572103574b85a91",
+      "image": "icon_itm_resource_chest_01.png",
+      "name": "item_summon_purchase_basic_10",
+      "name_placeholder": "ITEM_SUMMON_PURCHASE_BASIC_10_NAME",
+      "priority": 9100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_SUMMON_PURCHASE_PREMIUM_1_DESC",
+      "id": "4905eae3e1288a25",
+      "image": "icon_itm_resource_chest_01.png",
+      "name": "item_summon_purchase_premium_1",
+      "name_placeholder": "ITEM_SUMMON_PURCHASE_PREMIUM_1_NAME",
+      "priority": 9200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_SUMMON_PURCHASE_PREMIUM_10_DESC",
+      "id": "d7ad9c22263bf045",
+      "image": "icon_itm_resource_chest_01.png",
+      "name": "item_summon_purchase_premium_10",
+      "name_placeholder": "ITEM_SUMMON_PURCHASE_PREMIUM_10_NAME",
+      "priority": 9300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_SHARD_DESC",
+      "id": "c259d3416407a18",
+      "image": "icon_elite_writ.png",
+      "name": "item_hotpie_recruit_shard",
+      "name_placeholder": "ITEM_HOTPIE_RECRUIT_SHARD_NAME",
+      "priority": 9500,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_SHARD_DESC",
+      "id": "bd8b343fa2277cb4",
+      "image": "icon_elite_writ.png",
+      "name": "item_jonsnow_bastard_shard",
+      "name_placeholder": "ITEM_JONSNOW_BASTARD_SHARD_NAME",
+      "priority": 9600,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_SHARD_DESC",
+      "id": "97ea0586f1d5ce5a",
+      "image": "icon_elite_writ.png",
+      "name": "item_jamielannister_lion_shard",
+      "name_placeholder": "ITEM_JAMIELANNISTER_LION_SHARD_NAME",
+      "priority": 9700,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_SHARD_DESC",
+      "id": "7569cc11f35fe649",
+      "image": "icon_elite_writ.png",
+      "name": "item_daenerys_motherofdragons_shard",
+      "name_placeholder": "ITEM_DAENERYS_MOTHEROFDRAGONS_SHARD_NAME",
+      "priority": 9800,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "3c09ef65c4b16843",
+      "image": "icon_item_hero_shard.png",
+      "name": "item_hero_adv_barristonselmy_lordcommander_1",
+      "name_placeholder": "ITEM_HERO_ADV_BARRISTONSELMY_LORDCOMMANDER_1_NAME",
+      "priority": 9900,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "e5a683d01dbefd34",
+      "image": "icon_item_hero_shard.png",
+      "name": "item_hero_adv_danerystargeryen_motherofdragons_1",
+      "name_placeholder": "ITEM_HERO_ADV_DANERYSTARGERYEN_MOTHEROFDRAGONS_1_NAME",
+      "priority": 10000,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "d2eb7d43ab06e4da",
+      "image": "icon_item_hero_shard.png",
+      "name": "item_hero_adv_cersielannister_queenregent_1",
+      "name_placeholder": "ITEM_HERO_ADV_CERSIELANNISTER_QUEENREGENT_1_NAME",
+      "priority": 10100,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "5824d2470bf58c83",
+      "image": "icon_item_hero_shard.png",
+      "name": "item_hero_adv_petrybaelish_littlefinger_1",
+      "name_placeholder": "ITEM_HERO_ADV_PETRYBAELISH_LITTLEFINGER_1_NAME",
+      "priority": 10200,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "f52c3d8b5a09aec8",
+      "image": "icon_item_hero_shard.png",
+      "name": "item_hero_adv_poderickpayne_youngsquire_1",
+      "name_placeholder": "ITEM_HERO_ADV_PODERICKPAYNE_YOUNGSQUIRE_1_NAME",
+      "priority": 10300,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "",
+      "id": "e1a4f7a7aee2eae",
+      "image": "icon_item_hero_shard.png",
+      "name": "item_hero_adv_hotpie_recruit_1",
+      "name_placeholder": "ITEM_HERO_ADV_HOTPIE_RECRUIT_1_NAME",
+      "priority": 10400,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_STONES_1_DESC",
+      "id": "beb2bc65a05db06b",
+      "image": "icon_buildreq_brick_1.png",
+      "name": "item_starreq_advanced_1",
+      "name_placeholder": "ITEM_HERO_ADV_STONES_1_NAME",
+      "priority": 10600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_NOTREAL",
+      "id": "3193ef1c91982d23",
+      "image": "icon_buildreq_brick_1.png",
+      "name": "item_hero_seal_peasant_1",
+      "name_placeholder": "ITEM_HERO_NOTREAL",
+      "priority": 10700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_HEROXP_DESC",
+      "id": "3d8f2ac5906ec45e",
+      "image": "icon_elite_writ.png",
+      "name": "item_hero_xp_rarity_1",
+      "name_placeholder": "ITEM_HERO_XP_RARITY_1_NAME",
+      "priority": 10900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_HEROXP_DESC",
+      "id": "489d762e499b3650",
+      "image": "icon_elite_writ.png",
+      "name": "item_hero_xp_rarity_2",
+      "name_placeholder": "ITEM_HERO_XP_RARITY_2_NAME",
+      "priority": 11000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_HEROXP_DESC",
+      "id": "646cbd88fec867aa",
+      "image": "icon_elite_writ.png",
+      "name": "item_hero_xp_rarity_3",
+      "name_placeholder": "ITEM_HERO_XP_RARITY_3_NAME",
+      "priority": 11100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_HEROXP_DESC",
+      "id": "a2b9cff9fa70d24c",
+      "image": "icon_elite_writ.png",
+      "name": "item_hero_xp_rarity_4",
+      "name_placeholder": "ITEM_HERO_XP_RARITY_4_NAME",
+      "priority": 11200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_HEROXP_DESC",
+      "id": "8e48045f4d2383b6",
+      "image": "icon_elite_writ.png",
+      "name": "item_hero_xp_rarity_5",
+      "name_placeholder": "ITEM_HERO_XP_RARITY_5_NAME",
+      "priority": 11300,
+      "type": "item"
+    }
+  ]
+}

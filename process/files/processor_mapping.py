@@ -2,6 +2,9 @@ from collections import defaultdict
 
 from files.armory_collections.armory_collections import \
     ArmoryCollectionsProcessor
+from files.armory_gears.armory_gears import ArmoryGearsProcessor
+from files.armory_stat_progressions.armory_stat_progressions import \
+    ArmoryStatProgressionsProcessor
 from files.armory_stat_sets.armory_stat_sets import ArmoryStatSetsProcessor
 from files.gear_set_progressions.gear_set_progressions import \
     GearSetProgressionsProcessor
@@ -16,11 +19,14 @@ from files.hero_collection_action_properties.hero_collection_action_properties i
     HeroCollectionActionPropertiesProcessor
 from files.hero_collection_actions.hero_collection_actions import \
     HeroCollectionActionsProcessor
+from files.hero_progressions.hero_progressions import HeroProgressionsProcessor
+from files.hero_skill_progressions.hero_skill_progressions import \
+    HeroSkillProgressionsProcessor
+from files.hero_skills.hero_skills import HeroSkillsProcessor
+from files.heroes.heroes import HeroesProcessor
 from files.items.items import ItemsProcessor
 from files.properties.properties import PropertiesProcessor
 from files.translations.translations import TranslationsProcessor
-from files.armory_stat_progressions.armory_stat_progressions import ArmoryStatProgressionsProcessor
-from files.armory_gears.armory_gears import ArmoryGearsProcessor
 from files.trinket_gear_sets.trinket_gear_sets import TrinketGearSetsProcessor
 
 FILE_PROCESSOR_MAPPING_CONFIG = {
@@ -58,6 +64,11 @@ FILE_PROCESSOR_MAPPING_CONFIG = {
      'json', 'armory_gears_2', ArmoryGearsProcessor),
     ('ItemTable_GearGen_Trinkets_ArmoryGearTable',
      'json', 'armory_gears_3', ArmoryGearsProcessor),
+    ('HeroTable_VisGen_Launch', 'json', 'heroes', HeroesProcessor),
+    ('HeroProgressions', 'json', 'hero_progressions', HeroProgressionsProcessor),
+    ('HeroSkillsTable_VisGen_Launch', 'json', 'hero_skills', HeroSkillsProcessor),
+    ('HeroPropertyProgressions_VisGen_Launch', 'pb',
+     'hero_skill_progressions', HeroSkillProgressionsProcessor),
     ('HeroCollectionActionTable', 'json',
      'hero_collection_actions', HeroCollectionActionsProcessor),
     ('HeroCollectionActionProgressions', 'json',
@@ -65,6 +76,7 @@ FILE_PROCESSOR_MAPPING_CONFIG = {
     ('HeroCollectionActionPropertyProgressions', 'pb',
      'hero_collection_action_properties', HeroCollectionActionPropertiesProcessor),
     ('ItemTable', 'pb', 'items', ItemsProcessor),
+    ('ItemTable_Heroes', 'pb', 'hero_items', ItemsProcessor),
     ('PropertyTable', 'pb', 'properties', PropertiesProcessor),
     ('enUS', 'txt', 'translations', TranslationsProcessor)
 }
