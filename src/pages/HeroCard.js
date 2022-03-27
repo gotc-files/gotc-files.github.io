@@ -41,7 +41,16 @@ function HeroCard(props) {
         subheader={props.hero.description}
         subheaderTypographyProps={{ color: "inherit" }}
       />
-      <CardContent>
+      <CardContent
+        sx={{
+          pt: 2,
+          px: 1,
+          pb: 0,
+          "&:last-child": {
+            pb: 0.5,
+          },
+        }}
+      >
         <SingleChoiceSelect
           id={`${props.hero.id}-level`}
           name="hero-level"
