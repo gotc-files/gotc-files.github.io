@@ -13,7 +13,7 @@ message Gears {
     string name_placeholder = 1;
     string image = 32;
     int32 sort_priority = 36;
-    ObjectIdentity slot_identity = 61;
+    ObjectIdentity gear_slot_identity = 61;
     int32 level = 70;
   }
 }

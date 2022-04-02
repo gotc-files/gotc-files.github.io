@@ -12,7 +12,7 @@ import IconButton from "@mui/material/IconButton";
 import Toolbar from "@mui/material/Toolbar";
 import Typography from "@mui/material/Typography";
 import React, { useState } from "react";
-import { Link, useLocation, useParams } from "react-router-dom";
+import { Link, useLocation } from "react-router-dom";
 import NavBarSelect from "./NavBarSelect";
 
 const drawerWidth = 240;
@@ -39,6 +39,7 @@ function NavBar(props) {
           ["armory", "Armory"],
           ["trinket-armory", "Trinket Armory"],
           ["hero", "Hero"],
+          ["summon", "Summon"],
         ].map(([url, text]) => (
           <ListItemButton
             key={url}

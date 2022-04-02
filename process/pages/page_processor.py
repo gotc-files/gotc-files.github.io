@@ -3,8 +3,9 @@ class InsufficientDataException(Exception):
 
 
 class PageProcessor:
-    def __init__(self, file_data_dict):
-        self.file_data_dict = file_data_dict
+    def __init__(self, context):
+        self.file_lookup_dict = context["file_lookup_dict"]
+        self.file_values_dict = context["file_values_dict"]
 
     def translate(self, key):
         translation = self.lookup_file('translations', key)
@@ -18,10 +19,10 @@ class PageProcessor:
 
     def lookup_files(self, file_ids, key):
         for file_id in file_ids:
-            if file_id not in self.file_data_dict:
-                raise KeyError('File id %s invalid')
-            if key in self.file_data_dict[file_id]:
-                return self.file_data_dict[file_id][key]
+            if file_id not in self.file_lookup_dict:
+                raise KeyError('File id %s invalid' & file_id)
+            if key in self.file_lookup_dict[file_id]:
+                return self.file_lookup_dict[file_id][key]
         return None
 
     def iterate_files(self, file_ids):
@@ -29,7 +30,7 @@ class PageProcessor:
             yield from self.iterate_file(file_id)
 
     def iterate_file(self, file_id):
-        if file_id not in self.file_data_dict:
+        if file_id not in self.file_values_dict:
             raise KeyError('File id %s invalid')
-        for value in self.file_data_dict[file_id]:
+        for value in self.file_values_dict[file_id]:
             yield value

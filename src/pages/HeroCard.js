@@ -17,11 +17,11 @@ const heroSkillValue = (skill, heroLevelIndex) => {
   return skill.signature_skill_values[heroLevelIndex];
 };
 
-const RARITY_TO_COLOR = {
-  1: "#6ad812",
-  2: "#2892dc",
-  3: "#d536db",
-  4: "#fe7d0e",
+const RARITY_TO_COLOR_NAME = {
+  1: "common",
+  2: "fine",
+  3: "exquisite",
+  4: "epic",
 };
 
 function HeroCard(props) {
@@ -34,7 +34,7 @@ function HeroCard(props) {
       <CardHeader
         sx={{
           color: "white",
-          backgroundColor: RARITY_TO_COLOR[props.hero.rarity],
+          backgroundColor: RARITY_TO_COLOR_NAME[props.hero.rarity],
         }}
         title={props.hero.name}
         titleTypographyProps={{ variant: "h6" }}

@@ -16,5 +16,7 @@ message Items {
     int64 sort_priority = 36;
     int64 unknown_1 = 37;
     ObjectIdentity item_type = 60;
+    ObjectIdentity gear_slot_identity = 61;
+    int32 gear_level = 70;
   }
 }

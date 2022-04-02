@@ -1,0 +1,239 @@
+{
+  "description": "Items",
+  "values": [
+    {
+      "description_placeholder": "ITEM_DRAGON_LIVESTOCK_DESCRIPTION",
+      "id": "a9e10e29c2040e98",
+      "image": "icon_itm_dragon_food_01.png",
+      "name": "item_dragon_livestock_1",
+      "name_placeholder": "ITEM_DRAGON_LIVESTOCK_1_NAME",
+      "priority": 2000500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_DRAGON_LIVESTOCK_DESCRIPTION",
+      "id": "dcf352c21bf1fc96",
+      "image": "icon_itm_dragon_food_02.png",
+      "name": "item_dragon_livestock_2",
+      "name_placeholder": "ITEM_DRAGON_LIVESTOCK_2_NAME",
+      "priority": 2000600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_DRAGON_LIVESTOCK_DESCRIPTION",
+      "id": "f0029964aca2ad6c",
+      "image": "icon_itm_dragon_food_03.png",
+      "name": "item_dragon_livestock_3",
+      "name_placeholder": "ITEM_DRAGON_LIVESTOCK_3_NAME",
+      "priority": 2000700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_DRAGON_LIVESTOCK_DESCRIPTION",
+      "id": "36d7eb15a81a188a",
+      "image": "icon_itm_dragon_food_04.png",
+      "name": "item_dragon_livestock_4",
+      "name_placeholder": "ITEM_DRAGON_LIVESTOCK_4_NAME",
+      "priority": 2000800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_DRAGON_LIVESTOCK_DESCRIPTION",
+      "id": "1a2620b31f494970",
+      "image": "icon_itm_dragon_food_05.png",
+      "name": "item_dragon_livestock_5",
+      "name_placeholder": "ITEM_DRAGON_LIVESTOCK_5_NAME",
+      "priority": 2000900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_DRAGON_LIVESTOCK_DESCRIPTION",
+      "id": "6f347c58c6bcbb7e",
+      "image": "icon_itm_dragon_food_06.png",
+      "name": "item_dragon_livestock_6",
+      "name_placeholder": "ITEM_DRAGON_LIVESTOCK_6_NAME",
+      "priority": 2001000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_DRAGON_LIVESTOCK_DESCRIPTION",
+      "id": "43c5b7fe71efea84",
+      "image": "icon_itm_livestock.png",
+      "name": "item_dragon_livestock_7",
+      "name_placeholder": "ITEM_DRAGON_LIVESTOCK_7_NAME",
+      "priority": 2001100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_DRAGON_LIVESTOCK_DESCRIPTION",
+      "id": "6024dacf86629f99",
+      "image": "icon_itm_livestock.png",
+      "name": "item_dragon_livestock_8",
+      "name_placeholder": "ITEM_DRAGON_LIVESTOCK_8_NAME",
+      "priority": 2001200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_DRAGON_LIVESTOCK_DESCRIPTION",
+      "id": "4cd511693131ce63",
+      "image": "icon_itm_livestock.png",
+      "name": "item_dragon_livestock_9",
+      "name_placeholder": "ITEM_DRAGON_LIVESTOCK_9_NAME",
+      "priority": 2001300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_DRAGON_LIVESTOCK_DESCRIPTION",
+      "id": "b564269d21a9feda",
+      "image": "icon_itm_livestock.png",
+      "name": "item_dragon_livestock_10",
+      "name_placeholder": "ITEM_DRAGON_LIVESTOCK_10_NAME",
+      "priority": 2001400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_DRAGON_HUNGER_DESCRIPTION",
+      "id": "8e39b957a9c17fad",
+      "image": "icon_dragon_bonus_feeding.png",
+      "name": "item_dragon_hunger_1",
+      "name_placeholder": "ITEM_DRAGON_HUNGER_1_NAME",
+      "priority": 2001700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_DRAGON_HUNGER_DESCRIPTION",
+      "id": "d7da2e1ac767dc59",
+      "image": "icon_dragon_bonus_feeding.png",
+      "name": "item_dragon_hunger_3",
+      "name_placeholder": "ITEM_DRAGON_HUNGER_3_NAME",
+      "priority": 2001800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_DRAGON_HUNGER_DESCRIPTION",
+      "id": "3dfe97cd748c3845",
+      "image": "icon_dragon_bonus_feeding.png",
+      "name": "item_dragon_hunger_5",
+      "name_placeholder": "ITEM_DRAGON_HUNGER_5_NAME",
+      "priority": 2001900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_DRAGON_HUNGER_DESCRIPTION",
+      "id": "f3039e0bc5917ede",
+      "image": "icon_dragon_bonus_feeding.png",
+      "name": "item_dragon_hunger_10",
+      "name_placeholder": "ITEM_DRAGON_HUNGER_10_NAME",
+      "priority": 2002000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_DRAGON_HUNGER_DESCRIPTION",
+      "id": "6350cffc0488b9d9",
+      "image": "icon_dragon_bonus_feeding.png",
+      "name": "item_dragon_hunger_25",
+      "name_placeholder": "ITEM_DRAGON_HUNGER_25_NAME",
+      "priority": 2002100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_DRAGONALPHA_LEVELUPGRADE_1_DESCRIPTION",
+      "id": "dd1f6690071de398",
+      "image": "chest_sigil-targaryen-01.png",
+      "name": "item_dragonalpha_levelupgrade_1",
+      "name_placeholder": "ITEM_DRAGONALPHA_LEVELUPGRADE_1_NAME",
+      "priority": 2002400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_BUILDREQ_DRAGON_RESEARCH_1_DESCRIPTION",
+      "id": "f77018acd41d2626",
+      "image": "icon_dragon_lore.png",
+      "name": "item_buildreq_dragon_research_1",
+      "name_placeholder": "ITEM_BUILDREQ_DRAGON_RESEARCH_1_NAME",
+      "priority": 2002600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_BUILDREQ_DRAGON_RESEARCH_2_DESCRIPTION",
+      "id": "826244470de8d428",
+      "image": "icon_dragon_secrets.png",
+      "name": "item_buildreq_dragon_research_2",
+      "name_placeholder": "ITEM_BUILDREQ_DRAGON_RESEARCH_2_NAME",
+      "priority": 2002700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_DRAGON_FIRESTONE_1_DESCRIPTION",
+      "id": "103f3d54a1c6e44c",
+      "image": "icon_itm_firestone.png",
+      "name": "item_dragon_firestone_1",
+      "name_placeholder": "ITEM_DRAGON_FIRESTONE_1_NAME",
+      "priority": 2002800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "Contains wood and hunger items",
+      "id": "43d0dbcd3500e00c",
+      "image": "chest_sigil-targaryen-01.png",
+      "name": "item_dragon_test_eggstock_1",
+      "name_placeholder": "Dragon Testing Item - Egg Advancement 1",
+      "priority": 2003000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "Contains livestock and hunger items",
+      "id": "4f4e3ea9154353f9",
+      "image": "chest_sigil-targaryen-01.png",
+      "name": "item_dragon_test_hatchlingstock_1",
+      "name_placeholder": "Dragon Testing Item - Hatchling Advancement 1",
+      "priority": 2003100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "Contains livestock and hunger items",
+      "id": "c68192e38ac9c21a",
+      "image": "chest_sigil-targaryen-01.png",
+      "name": "item_dragon_test_whelpstock_1",
+      "name_placeholder": "Dragon Testing Item - Whelp Advancement 1",
+      "priority": 2003200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "Contains livestock and hunger items",
+      "id": "ccfa8841db3a3f82",
+      "image": "chest_sigil-targaryen-01.png",
+      "name": "item_dragon_test_adolescentstock_1",
+      "name_placeholder": "Dragon Testing Item - Adolescent Advancement 1",
+      "priority": 2003300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "Contains livestock and hunger items",
+      "id": "f69d483bb217d8a0",
+      "image": "chest_sigil-targaryen-01.png",
+      "name": "item_dragon_test_adultstock_1",
+      "name_placeholder": "Dragon Testing Item - Adult Advancement 1",
+      "priority": 2003400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "DRAGON_RENAME_DESC",
+      "id": "fb1a84b44c3e30b5",
+      "image": "icon_item_dragon_rename.png",
+      "name": "item_dragon_rename",
+      "name_placeholder": "DRAGON_RENAME_NAME",
+      "priority": 2003600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "DRAGON_VISUALCHANGE_DESC",
+      "id": "fb86a90b35d6037e",
+      "image": "icon_item_dragon_visualchange.png",
+      "name": "item_dragon_visualchange",
+      "name_placeholder": "DRAGON_VISUALCHANGE_NAME",
+      "priority": 2003700,
+      "type": "item"
+    }
+  ]
+}

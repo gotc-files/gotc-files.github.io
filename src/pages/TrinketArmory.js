@@ -62,7 +62,6 @@ function TrinketArmory() {
             <CardHeader
               title={currentTrinktArmory.name}
               style={{ backgroundColor: currentTrinktArmory.color }}
-              subheaderTypographyProps={{ color: "inherit" }}
             />
             <CardContent>
               <SingleChoiceSelect

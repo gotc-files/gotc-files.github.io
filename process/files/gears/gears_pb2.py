@@ -15,7 +15,7 @@ _sym_db = _symbol_database.Default()
 from files.common import common_pb2 as files_dot_common_dot_common__pb2
 
 
-DESCRIPTOR = _descriptor_pool.Default().AddSerializedFile(b'\n\x17\x66iles/gears/gears.proto\x1a\x19\x66iles/common/common.proto\"\xf1\x01\n\x05Gears\x12\x1a\n\x05gears\x18\x01 \x03(\x0b\x32\x0b.Gears.Gear\x1aH\n\x04Gear\x12!\n\x08identity\x18\x01 \x01(\x0b\x32\x0f.ObjectIdentity\x12\x1d\n\x04info\x18\x02 \x01(\x0b\x32\x0f.Gears.GearInfo\x1a\x81\x01\n\x08GearInfo\x12\x18\n\x10name_placeholder\x18\x01 \x01(\t\x12\r\n\x05image\x18  \x01(\t\x12\x15\n\rsort_priority\x18$ \x01(\x05\x12&\n\rslot_identity\x18= \x01(\x0b\x32\x0f.ObjectIdentity\x12\r\n\x05level\x18\x46 \x01(\x05\x62\x06proto3')
+DESCRIPTOR = _descriptor_pool.Default().AddSerializedFile(b'\n\x17\x66iles/gears/gears.proto\x1a\x19\x66iles/common/common.proto\"\xf6\x01\n\x05Gears\x12\x1a\n\x05gears\x18\x01 \x03(\x0b\x32\x0b.Gears.Gear\x1aH\n\x04Gear\x12!\n\x08identity\x18\x01 \x01(\x0b\x32\x0f.ObjectIdentity\x12\x1d\n\x04info\x18\x02 \x01(\x0b\x32\x0f.Gears.GearInfo\x1a\x86\x01\n\x08GearInfo\x12\x18\n\x10name_placeholder\x18\x01 \x01(\t\x12\r\n\x05image\x18  \x01(\t\x12\x15\n\rsort_priority\x18$ \x01(\x05\x12+\n\x12gear_slot_identity\x18= \x01(\x0b\x32\x0f.ObjectIdentity\x12\r\n\x05level\x18\x46 \x01(\x05\x62\x06proto3')
 
 
 
@@ -49,9 +49,9 @@ if _descriptor._USE_C_DESCRIPTORS == False:
 
   DESCRIPTOR._options = None
   _GEARS._serialized_start=55
-  _GEARS._serialized_end=296
+  _GEARS._serialized_end=301
   _GEARS_GEAR._serialized_start=92
   _GEARS_GEAR._serialized_end=164
   _GEARS_GEARINFO._serialized_start=167
-  _GEARS_GEARINFO._serialized_end=296
+  _GEARS_GEARINFO._serialized_end=301
 # @@protoc_insertion_point(module_scope)

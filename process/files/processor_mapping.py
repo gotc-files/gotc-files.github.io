@@ -26,6 +26,8 @@ from files.hero_skills.hero_skills import HeroSkillsProcessor
 from files.heroes.heroes import HeroesProcessor
 from files.items.items import ItemsProcessor
 from files.properties.properties import PropertiesProcessor
+from files.summon_odds.summon_odds import SummonOddsProcessor
+from files.summons.summons import SummonsProcessor
 from files.translations.translations import TranslationsProcessor
 from files.trinket_gear_sets.trinket_gear_sets import TrinketGearSetsProcessor
 
@@ -75,8 +77,11 @@ FILE_PROCESSOR_MAPPING_CONFIG = {
      'hero_collection_action_progressions', HeroCollectionActionProgressionsProcessor),
     ('HeroCollectionActionPropertyProgressions', 'pb',
      'hero_collection_action_properties', HeroCollectionActionPropertiesProcessor),
+    ('SummonTable', 'json', 'summons', SummonsProcessor),
+    ('SummoningOddsTable', 'pb', 'summon_odds', SummonOddsProcessor),
     ('ItemTable', 'pb', 'items', ItemsProcessor),
     ('ItemTable_Heroes', 'pb', 'hero_items', ItemsProcessor),
+    ('ItemTable_Dragon_1', 'pb', 'dragon_items', ItemsProcessor),
     ('PropertyTable', 'pb', 'properties', PropertiesProcessor),
     ('enUS', 'txt', 'translations', TranslationsProcessor)
 }

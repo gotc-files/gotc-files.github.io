@@ -14,7 +14,10 @@ def main():
     unrecognized_files_count = 0
     processed_files_count = 0
     bad_files_count = 0
-    file_data_dict = {}
+    context = {
+        "file_lookup_dict": {},
+        "file_values_dict": {},
+    }
     for f in files:
         file_name_components = f.split('.')
         if len(file_name_components) != 3:
@@ -28,21 +31,20 @@ def main():
             processor = processor_class(os.path.join(raw_data_dir, f))
             processed_result = processor.process()
             if processor.key_name():
-                file_data_dict[id] = dict(
+                context["file_lookup_dict"][id] = dict(
                     [(
                         value[processor.key_name()],
                         value[processor.value_name(
                         )] if processor.value_name() else value
                     )
                         for value in processed_result["values"]])
-            else:
-                file_data_dict[id] = processed_result["values"]
+            context["file_values_dict"][id] = processed_result["values"]
             json.dump(processed_result,
                       open('./data/' + id + '.json', 'w'), indent=2, sort_keys=True)
         else:
             unrecognized_files_count += 1
     for id, processor_class in page_processor_list():
-        processor = processor_class(file_data_dict)
+        processor = processor_class(context)
         processed_result = processor.process()
         json.dump(processed_result,
                   open('../src/data/' + id + '.json', 'w'), indent=2, sort_keys=True)

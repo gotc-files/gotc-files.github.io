@@ -8,10 +8,11 @@ function StatsCard(props) {
   return (
     <Card>
       <CardHeader
-        style={{ backgroundColor: props.color }}
-        sx={{ color: "white" }}
+        sx={{ color: "white", backgroundColor: props.color }}
         title={props.title}
         titleTypographyProps={{ variant: "h6" }}
+        subheader={props.subtitle}
+        subheaderTypographyProps={{ color: "inherit" }}
       />
       <CardContent
         sx={{

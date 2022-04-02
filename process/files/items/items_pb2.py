@@ -15,7 +15,7 @@ _sym_db = _symbol_database.Default()
 from files.common import common_pb2 as files_dot_common_dot_common__pb2
 
 
-DESCRIPTOR = _descriptor_pool.Default().AddSerializedFile(b'\n\x17\x66iles/items/items.proto\x1a\x19\x66iles/common/common.proto\"\x92\x02\n\x05Items\x12\x1a\n\x05items\x18\x01 \x03(\x0b\x32\x0b.Items.Item\x1aH\n\x04Item\x12!\n\x08identity\x18\x01 \x01(\x0b\x32\x0f.ObjectIdentity\x12\x1d\n\x04info\x18\x02 \x01(\x0b\x32\x0f.Items.ItemInfo\x1a\xa2\x01\n\x08ItemInfo\x12\x18\n\x10name_placeholder\x18\x01 \x01(\t\x12\x1f\n\x17\x64\x65scription_placeholder\x18\x03 \x01(\t\x12\r\n\x05image\x18  \x01(\t\x12\x15\n\rsort_priority\x18$ \x01(\x03\x12\x11\n\tunknown_1\x18% \x01(\x03\x12\"\n\titem_type\x18< \x01(\x0b\x32\x0f.ObjectIdentityb\x06proto3')
+DESCRIPTOR = _descriptor_pool.Default().AddSerializedFile(b'\n\x17\x66iles/items/items.proto\x1a\x19\x66iles/common/common.proto\"\xd3\x02\n\x05Items\x12\x1a\n\x05items\x18\x01 \x03(\x0b\x32\x0b.Items.Item\x1aH\n\x04Item\x12!\n\x08identity\x18\x01 \x01(\x0b\x32\x0f.ObjectIdentity\x12\x1d\n\x04info\x18\x02 \x01(\x0b\x32\x0f.Items.ItemInfo\x1a\xe3\x01\n\x08ItemInfo\x12\x18\n\x10name_placeholder\x18\x01 \x01(\t\x12\x1f\n\x17\x64\x65scription_placeholder\x18\x03 \x01(\t\x12\r\n\x05image\x18  \x01(\t\x12\x15\n\rsort_priority\x18$ \x01(\x03\x12\x11\n\tunknown_1\x18% \x01(\x03\x12\"\n\titem_type\x18< \x01(\x0b\x32\x0f.ObjectIdentity\x12+\n\x12gear_slot_identity\x18= \x01(\x0b\x32\x0f.ObjectIdentity\x12\x12\n\ngear_level\x18\x46 \x01(\x05\x62\x06proto3')
 
 
 
@@ -49,9 +49,9 @@ if _descriptor._USE_C_DESCRIPTORS == False:
 
   DESCRIPTOR._options = None
   _ITEMS._serialized_start=55
-  _ITEMS._serialized_end=329
+  _ITEMS._serialized_end=394
   _ITEMS_ITEM._serialized_start=92
   _ITEMS_ITEM._serialized_end=164
   _ITEMS_ITEMINFO._serialized_start=167
-  _ITEMS_ITEMINFO._serialized_end=329
+  _ITEMS_ITEMINFO._serialized_end=394
 # @@protoc_insertion_point(module_scope)

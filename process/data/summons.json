@@ -1,0 +1,1777 @@
+{
+  "description": "Basic information about summon configurations",
+  "values": [
+    {
+      "category": "standard",
+      "description_placeholder": "SUMMON_DESC_BASIC",
+      "id": "cf9f30e5ee7fd43c",
+      "name": "summon_basic",
+      "name_placeholder": "SUMMON_NAME_BASIC",
+      "purchase_options": [
+        "summon_purchase_basic_1",
+        "summon_purchase_basic_10"
+      ]
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DESC_PREMIUM",
+      "id": "1b990a82f35ed875",
+      "name": "summon_premium",
+      "name_placeholder": "SUMMON_NAME_PREMIUM",
+      "purchase_options": [
+        "summon_purchase_premium_1",
+        "summon_purchase_premium_10"
+      ]
+    },
+    {
+      "category": "standard",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_STANDARD_DESC",
+      "id": "fddbc47278d55c76",
+      "name": "summon_defaultAlpha_standard",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_STANDARD_NAME",
+      "purchase_options": [
+        "summon_purchase_defaultAlpha_standard_1x_top",
+        "summon_purchase_defaultAlpha_standard_10x"
+      ]
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "id": "171375cc23e6eb6c",
+      "name": "summon_defaultAlpha_noble",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_defaultAlpha_noble_1x_top",
+        "summon_purchase_defaultAlpha_noble_10x"
+      ]
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "id": "65cc647306907d4a",
+      "name": "summon_defaultAlpha_royal",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_defaultAlpha_royal_1x_top",
+        "summon_purchase_defaultAlpha_royal_10x"
+      ]
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_COMBOA_NOBLE_DESC",
+      "id": "c0e77ee557634b4",
+      "name": "summon_ComboA_noble",
+      "name_placeholder": "SUMMON_COMBOA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_ComboA_noble_1x_top",
+        "summon_purchase_ComboA_noble_10x"
+      ]
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_COMBOA_ROYAL_DESC",
+      "id": "7ed166517000a292",
+      "name": "summon_ComboA_royal",
+      "name_placeholder": "SUMMON_COMBOA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_ComboA_royal_1x_top",
+        "summon_purchase_ComboA_royal_10x"
+      ]
+    },
+    {
+      "category": "standard",
+      "description_placeholder": "SUMMON_STANDARD_DEFAULTECHO_DESCRIPTION",
+      "id": "e8d3d6fcb1f6a104",
+      "name": "summon_standard_defaultEcho",
+      "name_placeholder": "SUMMON_STANDARD_DEFAULTECHO_NAME",
+      "purchase_options": [
+        "summon_standard_defaultEcho_purchase_1x",
+        "summon_standard_defaultEcho_purchase_10x"
+      ]
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_NOBLE_DEFAULTFOXTROT_DESCRIPTION",
+      "id": "2b255e29b5a6cf5f",
+      "name": "summon_noble_defaultFoxtrot",
+      "name_placeholder": "SUMMON_NOBLE_DEFAULTFOXTROT_NAME",
+      "purchase_options": [
+        "summon_noble_defaultFoxtrot_purchase_1x",
+        "summon_noble_defaultFoxtrot_purchase_10x"
+      ]
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_ROYAL_DEFAULTGOLF_DESCRIPTION",
+      "id": "2d3d95a11259de16",
+      "name": "summon_royal_defaultGolf",
+      "name_placeholder": "SUMMON_ROYAL_DEFAULTGOLF_NAME",
+      "purchase_options": [
+        "summon_royal_defaultGolf_purchase_1x",
+        "summon_royal_defaultGolf_purchase_10x"
+      ]
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "id": "c2283993abdd19fb",
+      "name": "summon_noble_ComboAlpha",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_noble_ComboAlpha_purchase_1x",
+        "summon_noble_ComboAlpha_purchase_10x"
+      ]
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "BarristanThoros (Building)",
+      "id": "5c58e1574e852ae0",
+      "name": "summon_noble_BarristanThoros_Building",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_BarristanThoros_Building_1x_top",
+        "summon_purchase_noble_BarristanThoros_Building_10x_top"
+      ],
+      "time_str": "legacy_groups"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "BarristanThoros (Crafting)",
+      "id": "a7b7bd7cf1a5e052",
+      "name": "summon_noble_BarristanThoros_Crafting",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_BarristanThoros_Crafting_1x_top",
+        "summon_purchase_noble_BarristanThoros_Crafting_10x_top"
+      ],
+      "time_str": "legacy_groups"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "BarristanThoros (Dragon)",
+      "id": "8c2339f0b46edefa",
+      "name": "summon_noble_BarristanThoros_Dragon",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_BarristanThoros_Dragon_1x_top",
+        "summon_purchase_noble_BarristanThoros_Dragon_10x_top"
+      ],
+      "time_str": "legacy_groups"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "BarristanThoros (Research)",
+      "id": "ebf4d56e4f917a4f",
+      "name": "summon_noble_BarristanThoros_Research",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_BarristanThoros_Research_1x_top",
+        "summon_purchase_noble_BarristanThoros_Research_10x_top"
+      ],
+      "time_str": "legacy_groups"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "DaenarysJaqen (Building)",
+      "id": "ca2d240420adde03",
+      "name": "summon_noble_DaenarysJaqen_Building",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_DaenarysJaqen_Building_1x_top",
+        "summon_purchase_noble_DaenarysJaqen_Building_10x_top"
+      ],
+      "time_str": "legacy_groups"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "DaenarysJaqen (Dragon)",
+      "id": "45e55069e78df8",
+      "name": "summon_noble_DaenarysJaqen_Dragon",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_DaenarysJaqen_Dragon_1x_top",
+        "summon_purchase_noble_DaenarysJaqen_Dragon_10x_top"
+      ],
+      "time_str": "legacy_groups"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "DaenarysJaqen (Hero)",
+      "id": "be4b442d71dc4201",
+      "name": "summon_noble_DaenarysJaqen_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_DaenarysJaqen_Hero_1x_top",
+        "summon_purchase_noble_DaenarysJaqen_Hero_10x_top"
+      ],
+      "time_str": "legacy_groups"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "DaenarysJaqen (Research)",
+      "id": "7d81103d21b98eac",
+      "name": "summon_noble_DaenarysJaqen_Research",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_DaenarysJaqen_Research_1x_top",
+        "summon_purchase_noble_DaenarysJaqen_Research_10x_top"
+      ],
+      "time_str": "legacy_groups"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "GreyWormCersei (Crafting)",
+      "id": "cca18f2ad21c8455",
+      "name": "summon_noble_GreyWormCersei_Crafting",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_GreyWormCersei_Crafting_1x_top",
+        "summon_purchase_noble_GreyWormCersei_Crafting_10x_top"
+      ],
+      "time_str": "legacy_groups"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "GreyWormCersei (Dragon)",
+      "id": "44347a22c061e059",
+      "name": "summon_noble_GreyWormCersei_Dragon",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_GreyWormCersei_Dragon_1x_top",
+        "summon_purchase_noble_GreyWormCersei_Dragon_10x_top"
+      ],
+      "time_str": "legacy_groups"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "GreyWormCersei (Hero)",
+      "id": "476dffc0507d40ff",
+      "name": "summon_noble_GreyWormCersei_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_GreyWormCersei_Hero_1x_top",
+        "summon_purchase_noble_GreyWormCersei_Hero_10x_top"
+      ],
+      "time_str": "legacy_groups"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "GreyWormCersei (Research)",
+      "id": "80e2e7386c281e48",
+      "name": "summon_noble_GreyWormCersei_Research",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_GreyWormCersei_Research_1x_top",
+        "summon_purchase_noble_GreyWormCersei_Research_10x_top"
+      ],
+      "time_str": "legacy_groups"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "MelisandreJaime (Building)",
+      "id": "e41cc404b63ba74e",
+      "name": "summon_noble_MelisandreJaime_Building",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_MelisandreJaime_Building_1x_top",
+        "summon_purchase_noble_MelisandreJaime_Building_10x_top"
+      ],
+      "time_str": "legacy_groups"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "MelisandreJaime (Crafting)",
+      "id": "1ff3982f091b6dfc",
+      "name": "summon_noble_MelisandreJaime_Crafting",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_MelisandreJaime_Crafting_1x_top",
+        "summon_purchase_noble_MelisandreJaime_Crafting_10x_top"
+      ],
+      "time_str": "legacy_groups"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "MelisandreJaime (Dragon)",
+      "id": "27ff38a0aa6bcbe6",
+      "name": "summon_noble_MelisandreJaime_Dragon",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_MelisandreJaime_Dragon_1x_top",
+        "summon_purchase_noble_MelisandreJaime_Dragon_10x_top"
+      ],
+      "time_str": "legacy_groups"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "MelisandreJaime (Hero)",
+      "id": "4f66b0609d451c3f",
+      "name": "summon_noble_MelisandreJaime_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_MelisandreJaime_Hero_1x_top",
+        "summon_purchase_noble_MelisandreJaime_Hero_10x_top"
+      ],
+      "time_str": "legacy_groups"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "BarristanDaenarys (Gold)",
+      "id": "343272a3739db177",
+      "name": "summon_royal_BarristanDaenarys_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_BarristanDaenarys_Gold_1x_top",
+        "summon_purchase_royal_BarristanDaenarys_Gold_10x_top"
+      ],
+      "time_str": "legacy_groups"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "JaqenJaime (Gold)",
+      "id": "e80c870d20e16901",
+      "name": "summon_royal_JaqenJaime_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_JaqenJaime_Gold_1x_top",
+        "summon_purchase_royal_JaqenJaime_Gold_10x_top"
+      ],
+      "time_str": "legacy_groups"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "MelisandreCersei (Gold)",
+      "id": "f4129b731ceeb2e0",
+      "name": "summon_royal_MelisandreCersei_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_MelisandreCersei_Gold_1x_top",
+        "summon_purchase_royal_MelisandreCersei_Gold_10x_top"
+      ],
+      "time_str": "legacy_groups"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "ThorosGreyWorm (Gold)",
+      "id": "3e214cee6ea85deb",
+      "name": "summon_royal_ThorosGreyWorm_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_ThorosGreyWorm_Gold_1x_top",
+        "summon_purchase_royal_ThorosGreyWorm_Gold_10x_top"
+      ],
+      "time_str": "legacy_groups"
+    },
+    {
+      "category": "standard",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_STANDARD_DESC",
+      "heroes": "ComboA (BasicRSSGold)",
+      "id": "2a091312343f9f00",
+      "name": "summon_standard_ComboA_BasicRSSGold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_STANDARD_NAME",
+      "purchase_options": [
+        "summon_purchase_standard_ComboA_BasicRSSGold_1x_top",
+        "summon_purchase_standard_ComboA_BasicRSSGold_10x_top"
+      ],
+      "time_str": "legacy_groups"
+    },
+    {
+      "category": "standard",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_STANDARD_DESC",
+      "heroes": "ComboB (BasicRSSGold)",
+      "id": "26c298484304ce5e",
+      "name": "summon_standard_ComboB_BasicRSSGold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_STANDARD_NAME",
+      "purchase_options": [
+        "summon_purchase_standard_ComboB_BasicRSSGold_1x_top",
+        "summon_purchase_standard_ComboB_BasicRSSGold_10x_top"
+      ],
+      "time_str": "legacy_groups"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "BarristanThoros (Hero)",
+      "id": "93c3691b0eaa4d5f",
+      "name": "summon_noble_BarristanThoros_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_BarristanThoros_Hero_1x_top",
+        "summon_purchase_noble_BarristanThoros_Hero_10x_top"
+      ],
+      "time_str": "legacy_groups"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "BarristanThoros (Gold)",
+      "id": "c84e9f794367fd4b",
+      "name": "summon_noble_BarristanThoros_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_BarristanThoros_Gold_1x_top",
+        "summon_purchase_noble_BarristanThoros_Gold_10x_top"
+      ],
+      "time_str": "legacy_groups"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "GreyWormCersei (Building)",
+      "id": "374ed3016d3c4ee7",
+      "name": "summon_noble_GreyWormCersei_Building",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_GreyWormCersei_Building_1x_top",
+        "summon_purchase_noble_GreyWormCersei_Building_10x_top"
+      ],
+      "time_str": "legacy_groups"
+    },
+    {
+      "category": "standard",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_STANDARD_DESC",
+      "heroes": "ComboA",
+      "id": "cd6406772480cacb",
+      "name": "summon_standard_ComboA_BasicRSSOaths",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_STANDARD_NAME",
+      "purchase_options": [
+        "summon_purchase_standard_ComboA_BasicRSSOaths_1x_top",
+        "summon_purchase_standard_ComboA_BasicRSSOaths_10x_top"
+      ],
+      "time_str": "standard"
+    },
+    {
+      "category": "standard",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_STANDARD_DESC",
+      "heroes": "ComboB",
+      "id": "2b59a63867516fff",
+      "name": "summon_standard_ComboB_BasicRSSOaths",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_STANDARD_NAME",
+      "purchase_options": [
+        "summon_purchase_standard_ComboB_BasicRSSOaths_1x_top",
+        "summon_purchase_standard_ComboB_BasicRSSOaths_10x_top"
+      ],
+      "time_str": "standard"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "SandorArya",
+      "id": "7bd5a088e079b06c",
+      "name": "summon_noble_SandorAryaJAN21_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_SandorAryaJAN21_Hero_1x_top",
+        "summon_purchase_noble_SandorAryaJAN21_Hero_10x_top"
+      ],
+      "time_str": "JAN21"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "CerseiMargaery",
+      "id": "e2fb200cce994568",
+      "name": "summon_noble_CerseiMargaeryJAN21_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_CerseiMargaeryJAN21_Hero_1x_top",
+        "summon_purchase_noble_CerseiMargaeryJAN21_Hero_10x_top"
+      ],
+      "time_str": "JAN21"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "ThorosQyburn",
+      "id": "3a81222cee18ae29",
+      "name": "summon_noble_ThorosQyburnJAN21_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_ThorosQyburnJAN21_Hero_1x_top",
+        "summon_purchase_noble_ThorosQyburnJAN21_Hero_10x_top"
+      ],
+      "time_str": "JAN21"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "SandorArya",
+      "id": "5bcd49545ced4d55",
+      "name": "summon_royal_SandorAryaJAN21_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_SandorAryaJAN21_Gold_1x_top",
+        "summon_purchase_royal_SandorAryaJAN21_Gold_10x_top"
+      ],
+      "time_str": "JAN21"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "CerseiMargaery",
+      "id": "e5ee0b617c1e6c15",
+      "name": "summon_royal_CerseiMargaeryJAN21_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_CerseiMargaeryJAN21_Gold_1x_top",
+        "summon_purchase_royal_CerseiMargaeryJAN21_Gold_10x_top"
+      ],
+      "time_str": "JAN21"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "ThorosQyburn",
+      "id": "2625d3bbc6b7a715",
+      "name": "summon_royal_ThorosQyburnJAN21_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_ThorosQyburnJAN21_Gold_1x_top",
+        "summon_purchase_royal_ThorosQyburnJAN21_Gold_10x_top"
+      ],
+      "time_str": "JAN21"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "DoranRhaegar",
+      "id": "a3500533aa8004fd",
+      "name": "summon_noble_DoranRhaegarFEB21_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_DoranRhaegarFEB21_Hero_1x_top",
+        "summon_purchase_noble_DoranRhaegarFEB21_Hero_10x_top"
+      ],
+      "time_str": "FEB21"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "BarristanTyrion",
+      "id": "59574d040b1497db",
+      "name": "summon_noble_BarristanTyrionFEB21_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_BarristanTyrionFEB21_Hero_1x_top",
+        "summon_purchase_noble_BarristanTyrionFEB21_Hero_10x_top"
+      ],
+      "time_str": "FEB21"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "MelisandreVarys",
+      "id": "e83520fc4ebf3ffb",
+      "name": "summon_noble_MelisandreVarysFEB21_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_MelisandreVarysFEB21_Hero_1x_top",
+        "summon_purchase_noble_MelisandreVarysFEB21_Hero_10x_top"
+      ],
+      "time_str": "FEB21"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "DoranRhaegar",
+      "id": "bff4f4a4822f0dc1",
+      "name": "summon_royal_DoranRhaegarFEB21_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_DoranRhaegarFEB21_Gold_1x_top",
+        "summon_purchase_royal_DoranRhaegarFEB21_Gold_10x_top"
+      ],
+      "time_str": "FEB21"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "BarristanTyrion",
+      "id": "fb14bf13a47515b2",
+      "name": "summon_royal_BarristanTyrionFEB21_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_BarristanTyrionFEB21_Gold_1x_top",
+        "summon_purchase_royal_BarristanTyrionFEB21_Gold_10x_top"
+      ],
+      "time_str": "FEB21"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "MelisandreVarys",
+      "id": "4a76d2ebe1debd92",
+      "name": "summon_royal_MelisandreVarysFEB21_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_MelisandreVarysFEB21_Gold_1x_top",
+        "summon_purchase_royal_MelisandreVarysFEB21_Gold_10x_top"
+      ],
+      "time_str": "FEB21"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "BericBenjenColdhands",
+      "id": "64fc5b3421a864c3",
+      "name": "summon_noble_BericBenjenColdhandsMAR21_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_BericBenjenColdhandsMAR21_Hero_1x_top",
+        "summon_purchase_noble_BericBenjenColdhandsMAR21_Hero_10x_top"
+      ],
+      "time_str": "MAR21"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "JaqenYara",
+      "id": "175174294318c0ec",
+      "name": "summon_noble_JaqenYaraMAR21_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_JaqenYaraMAR21_Hero_1x_top",
+        "summon_purchase_noble_JaqenYaraMAR21_Hero_10x_top"
+      ],
+      "time_str": "MAR21"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "JaimeEddard",
+      "id": "37825907121c7e49",
+      "name": "summon_noble_JaimeEddardMAR21_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_JaimeEddardMAR21_Hero_1x_top",
+        "summon_purchase_noble_JaimeEddardMAR21_Hero_10x_top"
+      ],
+      "time_str": "MAR21"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "BericBenjenColdhands",
+      "id": "1946cf5d06e41651",
+      "name": "summon_royal_BericBenjenColdhandsMAR21_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_BericBenjenColdhandsMAR21_Gold_1x_top",
+        "summon_purchase_royal_BericBenjenColdhandsMAR21_Gold_10x_top"
+      ],
+      "time_str": "MAR21"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "JaqenYara",
+      "id": "5983025635e1fbde",
+      "name": "summon_royal_JaqenYaraMAR21_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_JaqenYaraMAR21_Gold_1x_top",
+        "summon_purchase_royal_JaqenYaraMAR21_Gold_10x_top"
+      ],
+      "time_str": "MAR21"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "JaimeEddard",
+      "id": "87d239ef2782dc43",
+      "name": "summon_royal_JaimeEddardMAR21_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_JaimeEddardMAR21_Gold_1x_top",
+        "summon_purchase_royal_JaimeEddardMAR21_Gold_10x_top"
+      ],
+      "time_str": "MAR21"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "TheMountainLoras",
+      "id": "d62f5f81a363ee49",
+      "name": "summon_noble_TheMountainLorasAPR21_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_TheMountainLorasAPR21_Hero_1x_top",
+        "summon_purchase_noble_TheMountainLorasAPR21_Hero_10x_top"
+      ],
+      "time_str": "APR21"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "DaenerysPetyr",
+      "id": "3a13cf2d9aa9eba6",
+      "name": "summon_noble_DaenerysPetyrAPR21_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_DaenerysPetyrAPR21_Hero_1x_top",
+        "summon_purchase_noble_DaenerysPetyrAPR21_Hero_10x_top"
+      ],
+      "time_str": "APR21"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "SandorArya",
+      "id": "1400eb0f5da11248",
+      "name": "summon_noble_SandorAryaAPR21_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_SandorAryaAPR21_Hero_1x_top",
+        "summon_purchase_noble_SandorAryaAPR21_Hero_10x_top"
+      ],
+      "time_str": "APR21"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "TheMountainLoras",
+      "id": "8fdca921049603be",
+      "name": "summon_royal_TheMountainLorasAPR21_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_TheMountainLorasAPR21_Gold_1x_top",
+        "summon_purchase_royal_TheMountainLorasAPR21_Gold_10x_top"
+      ],
+      "time_str": "APR21"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "DaenerysPetry",
+      "id": "d47d057cfc3e563d",
+      "name": "summon_royal_DaenerysPetryAPR21_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_DaenerysPetryAPR21_Gold_1x_top",
+        "summon_purchase_royal_DaenerysPetryAPR21_Gold_10x_top"
+      ],
+      "time_str": "APR21"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "SandorArya",
+      "id": "341802d3e135ef71",
+      "name": "summon_royal_SandorAryaAPR21_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_SandorAryaAPR21_Gold_1x_top",
+        "summon_purchase_royal_SandorAryaAPR21_Gold_10x_top"
+      ],
+      "time_str": "APR21"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "EllariaCerseiQueenMother",
+      "id": "44d32dcd38bef101",
+      "name": "summon_noble_EllariaCerseiQueenMotherMAY21_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_EllariaCerseiQueenMotherMAY21_Hero_1x_top",
+        "summon_purchase_noble_EllariaCerseiQueenMotherMAY21_Hero_10x_top"
+      ],
+      "time_str": "MAY21"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "GreywormMissandei",
+      "id": "4f01d87ee480187f",
+      "name": "summon_noble_GreywormMissandeiMAY21_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_GreywormMissandeiMAY21_Hero_1x_top",
+        "summon_purchase_noble_GreywormMissandeiMAY21_Hero_10x_top"
+      ],
+      "time_str": "MAY21"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "MountainQyburn",
+      "id": "9cf3bf88e1d4c1cf",
+      "name": "summon_noble_MountainQyburnMAY21_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_MountainQyburnMAY21_Hero_1x_top",
+        "summon_purchase_noble_MountainQyburnMAY21_Hero_10x_top"
+      ],
+      "time_str": "MAY21"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "EllariaCerseiQueenMother",
+      "id": "109b2f91965436bb",
+      "name": "summon_royal_EllariaCerseiQueenMotherMAY21_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_EllariaCerseiQueenMotherMAY21_Gold_1x_top",
+        "summon_purchase_royal_EllariaCerseiQueenMotherMAY21_Gold_10x_top"
+      ],
+      "time_str": "MAY21"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "GreywormMissandei",
+      "id": "90966583bfb02c48",
+      "name": "summon_royal_GreywormMissandeiMAY21_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_GreywormMissandeiMAY21_Gold_1x_top",
+        "summon_purchase_royal_GreywormMissandeiMAY21_Gold_10x_top"
+      ],
+      "time_str": "MAY21"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "MountainQyburn",
+      "id": "9be694e55353e8b2",
+      "name": "summon_royal_MountainQyburnMAY21_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_MountainQyburnMAY21_Gold_1x_top",
+        "summon_purchase_royal_MountainQyburnMAY21_Gold_10x_top"
+      ],
+      "time_str": "MAY21"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "EuronBalon",
+      "id": "ae4c537202f3ab09",
+      "name": "summon_noble_EuronBalonJUN21_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_EuronBalonJUN21_Hero_1x_top",
+        "summon_purchase_noble_EuronBalonJUN21_Hero_10x_top"
+      ],
+      "time_str": "JUN21"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "ThorosRhaegar",
+      "id": "309e501263fa2607",
+      "name": "summon_noble_ThorosRhaegarJUN21_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_ThorosRhaegarJUN21_Hero_1x_top",
+        "summon_purchase_noble_ThorosRhaegarJUN21_Hero_10x_top"
+      ],
+      "time_str": "JUN21"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "MelisandreCerseiQueenMother",
+      "id": "4ece5f5712f1a66",
+      "name": "summon_noble_MelisandreCerseiQueenMotherJUN21_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_MelisandreCerseiQueenMotherJUN21_Hero_1x_top",
+        "summon_purchase_noble_MelisandreCerseiQueenMotherJUN21_Hero_10x_top"
+      ],
+      "time_str": "JUN21"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "EuronBalon",
+      "id": "8e54baaebe675630",
+      "name": "summon_royal_EuronBalonJUN21_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_EuronBalonJUN21_Gold_1x_top",
+        "summon_purchase_royal_EuronBalonJUN21_Gold_10x_top"
+      ],
+      "time_str": "JUN21"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "ThorosRhaegar",
+      "id": "1fc469de77eea9eb",
+      "name": "summon_royal_ThorosRhaegarJUN21_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_ThorosRhaegarJUN21_Gold_1x_top",
+        "summon_purchase_royal_ThorosRhaegarJUN21_Gold_10x_top"
+      ],
+      "time_str": "JUN21"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "MelisandreCerseiQueenMother",
+      "id": "9d02d306dfb5c19b",
+      "name": "summon_royal_MelisandreCerseiQueenMotherJUN21_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_MelisandreCerseiQueenMotherJUN21_Gold_1x_top",
+        "summon_purchase_royal_MelisandreCerseiQueenMotherJUN21_Gold_10x_top"
+      ],
+      "time_str": "JUN21"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "DaenerysSallador",
+      "id": "6a32cc9049fadcf7",
+      "name": "summon_noble_DaenerysSalladorJUL21_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_DaenerysSalladorJUL21_Hero_1x_top",
+        "summon_purchase_noble_DaenerysSalladorJUL21_Hero_10x_top"
+      ],
+      "time_str": "JUL21"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "BarristanVarys",
+      "id": "45552559307a1833",
+      "name": "summon_noble_BarristanVarysJUL21_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_BarristanVarysJUL21_Hero_1x_top",
+        "summon_purchase_noble_BarristanVarysJUL21_Hero_10x_top"
+      ],
+      "time_str": "JUL21"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "BericLoras",
+      "id": "6af0ce799fb29d06",
+      "name": "summon_noble_BericLorasJUL21_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_BericLorasJUL21_Hero_1x_top",
+        "summon_purchase_noble_BericLorasJUL21_Hero_10x_top"
+      ],
+      "time_str": "JUL21"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "DaenerysSallador",
+      "id": "33c13a30ee0f3100",
+      "name": "summon_royal_DaenerysSalladorJUL21_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_DaenerysSalladorJUL21_Gold_1x_top",
+        "summon_purchase_royal_DaenerysSalladorJUL21_Gold_10x_top"
+      ],
+      "time_str": "JUL21"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "BarristanVarys",
+      "id": "42400e3482fd314e",
+      "name": "summon_royal_BarristanVarysJUL21_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_BarristanVarysJUL21_Gold_1x_top",
+        "summon_purchase_royal_BarristanVarysJUL21_Gold_10x_top"
+      ],
+      "time_str": "JUL21"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "BericLoras",
+      "id": "4ae827a52326603f",
+      "name": "summon_royal_BericLorasJUL21_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_BericLorasJUL21_Gold_1x_top",
+        "summon_purchase_royal_BericLorasJUL21_Gold_10x_top"
+      ],
+      "time_str": "JUL21"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "ThreeEyedRavenLeaf",
+      "id": "fdec7d19920fe3e8",
+      "name": "summon_noble_ThreeEyedRavenLeafAUG21_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_ThreeEyedRavenLeafAUG21_Hero_1x_top",
+        "summon_purchase_noble_ThreeEyedRavenLeafAUG21_Hero_10x_top"
+      ],
+      "time_str": "AUG21"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "CerseiMargaery",
+      "id": "648c4dc6005ca90d",
+      "name": "summon_noble_CerseiMargaeryAUG21_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_CerseiMargaeryAUG21_Hero_1x_top",
+        "summon_purchase_noble_CerseiMargaeryAUG21_Hero_10x_top"
+      ],
+      "time_str": "AUG21"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "JaqenTyrion",
+      "id": "e1ba1f5b167a67a",
+      "name": "summon_noble_JaqenTyrionAUG21_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_JaqenTyrionAUG21_Hero_1x_top",
+        "summon_purchase_noble_JaqenTyrionAUG21_Hero_10x_top"
+      ],
+      "time_str": "AUG21"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "ThreeEyedRavenLeaf",
+      "id": "42533432c6a8c1cc",
+      "name": "summon_royal_ThreeEyedRavenLeafAUG21_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_ThreeEyedRavenLeafAUG21_Gold_1x_top",
+        "summon_purchase_royal_ThreeEyedRavenLeafAUG21_Gold_10x_top"
+      ],
+      "time_str": "AUG21"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "CerseiMargaery",
+      "id": "639966abb2db8070",
+      "name": "summon_royal_CerseiMargaeryAUG21_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_CerseiMargaeryAUG21_Gold_1x_top",
+        "summon_purchase_royal_CerseiMargaeryAUG21_Gold_10x_top"
+      ],
+      "time_str": "AUG21"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "JaqenTyrion",
+      "id": "be4bc11d84f90470",
+      "name": "summon_royal_JaqenTyrionAUG21_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_JaqenTyrionAUG21_Gold_1x_top",
+        "summon_purchase_royal_JaqenTyrionAUG21_Gold_10x_top"
+      ],
+      "time_str": "AUG21"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "JonWalder",
+      "id": "761b89405e9f3a71",
+      "name": "summon_noble_JonWalderSEP21_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_JonWalderSEP21_Hero_1x_top",
+        "summon_purchase_noble_JonWalderSEP21_Hero_10x_top"
+      ],
+      "time_str": "SEP21"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "DoranBenjen",
+      "id": "d810265c43e87ab1",
+      "name": "summon_noble_DoranBenjenSEP21_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_DoranBenjenSEP21_Hero_1x_top",
+        "summon_purchase_noble_DoranBenjenSEP21_Hero_10x_top"
+      ],
+      "time_str": "SEP21"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "DaenyYara",
+      "id": "92891ae3e7da81b9",
+      "name": "summon_noble_DaenyYaraSEP21_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_DaenyYaraSEP21_Hero_1x_top",
+        "summon_purchase_noble_DaenyYaraSEP21_Hero_10x_top"
+      ],
+      "time_str": "SEP21"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "JonWalder",
+      "id": "38c9ff3f28660143",
+      "name": "summon_royal_JonWalderSEP21_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_JonWalderSEP21_Gold_1x_top",
+        "summon_purchase_royal_JonWalderSEP21_Gold_10x_top"
+      ],
+      "time_str": "SEP21"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "DoranBenjen",
+      "id": "684046b47676d8bb",
+      "name": "summon_royal_DoranBenjenSEP21_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_DoranBenjenSEP21_Gold_1x_top",
+        "summon_purchase_royal_DoranBenjenSEP21_Gold_10x_top"
+      ],
+      "time_str": "SEP21"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "DaenyYara",
+      "id": "dc5b6c9c9123ba8b",
+      "name": "summon_royal_DaenyYaraSEP21_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_DaenyYaraSEP21_Gold_1x_top",
+        "summon_purchase_royal_DaenyYaraSEP21_Gold_10x_top"
+      ],
+      "time_str": "SEP21"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "NightKingOldNan",
+      "id": "f0c2b713415f7ece",
+      "name": "summon_noble_NightKingOldNanOCT21_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_NightKingOldNanOCT21_Hero_1x_top",
+        "summon_purchase_noble_NightKingOldNanOCT21_Hero_10x_top"
+      ],
+      "time_str": "OCT21"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "EllariaEddard",
+      "id": "15c9d877d24ce9bf",
+      "name": "summon_noble_EllariaEddardOCT21_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_EllariaEddardOCT21_Hero_1x_top",
+        "summon_purchase_noble_EllariaEddardOCT21_Hero_10x_top"
+      ],
+      "time_str": "OCT21"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "JaimePetyr",
+      "id": "431161aeb9a1a98d",
+      "name": "summon_noble_JaimePetyrOCT21_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_JaimePetyrOCT21_Hero_1x_top",
+        "summon_purchase_noble_JaimePetyrOCT21_Hero_10x_top"
+      ],
+      "time_str": "OCT21"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "NightKingOldNan",
+      "id": "52814504ee3efca7",
+      "name": "summon_royal_NightKingOldNanOCT21_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_NightKingOldNanOCT21_Gold_1x_top",
+        "summon_purchase_royal_NightKingOldNanOCT21_Gold_10x_top"
+      ],
+      "time_str": "OCT21"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "EllariaEddard",
+      "id": "3a93e1bbc6586653",
+      "name": "summon_royal_EllariaEddardOCT21_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_EllariaEddardOCT21_Gold_1x_top",
+        "summon_purchase_royal_EllariaEddardOCT21_Gold_10x_top"
+      ],
+      "time_str": "OCT21"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "JaimePetyr",
+      "id": "63098872053554b4",
+      "name": "summon_royal_JaimePetyrOCT21_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_JaimePetyrOCT21_Gold_1x_top",
+        "summon_purchase_royal_JaimePetyrOCT21_Gold_10x_top"
+      ],
+      "time_str": "OCT21"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "TyrionAnguy",
+      "id": "44748ea7d948ccc3",
+      "name": "summon_noble_TyrionAnguyNOV21_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_TyrionAnguyNOV21_Hero_1x_top",
+        "summon_purchase_noble_TyrionAnguyNOV21_Hero_10x_top"
+      ],
+      "time_str": "NOV21"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "DaenyArya",
+      "id": "551cccc7f23d2946",
+      "name": "summon_noble_DaenyAryaNOV21_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_DaenyAryaNOV21_Hero_1x_top",
+        "summon_purchase_noble_DaenyAryaNOV21_Hero_10x_top"
+      ],
+      "time_str": "NOV21"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "SandorBalon",
+      "id": "1d40edc585b3abb9",
+      "name": "summon_noble_SandorBalonNOV21_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_SandorBalonNOV21_Hero_1x_top",
+        "summon_purchase_noble_SandorBalonNOV21_Hero_10x_top"
+      ],
+      "time_str": "NOV21"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "TyrionAnguy",
+      "id": "f424ee4fecd66ec9",
+      "name": "summon_royal_TyrionAnguyNOV21_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_TyrionAnguyNOV21_Gold_1x_top",
+        "summon_purchase_royal_TyrionAnguyNOV21_Gold_10x_top"
+      ],
+      "time_str": "NOV21"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "DaenyArya",
+      "id": "1bcebab884c41274",
+      "name": "summon_royal_DaenyAryaNOV21_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_DaenyAryaNOV21_Gold_1x_top",
+        "summon_purchase_royal_DaenyAryaNOV21_Gold_10x_top"
+      ],
+      "time_str": "NOV21"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "SandorBalon",
+      "id": "ad108d2db02d09b3",
+      "name": "summon_royal_SandorBalonNOV21_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_SandorBalonNOV21_Gold_1x_top",
+        "summon_purchase_royal_SandorBalonNOV21_Gold_10x_top"
+      ],
+      "time_str": "NOV21"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "PetyrLuwin",
+      "id": "283a2c8e8da9e82a",
+      "name": "summon_noble_PetyrLuwinDEC21_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_PetyrLuwinDEC21_Hero_1x_top",
+        "summon_purchase_noble_PetyrLuwinDEC21_Hero_10x_top"
+      ],
+      "time_str": "DEC21"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "EuronSallad",
+      "id": "b2a40972c0a53282",
+      "name": "summon_noble_EuronSalladDEC21_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_EuronSalladDEC21_Hero_1x_top",
+        "summon_purchase_noble_EuronSalladDEC21_Hero_10x_top"
+      ],
+      "time_str": "DEC21"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "GreyWormQyburn",
+      "id": "fc4a1a0b2e89168b",
+      "name": "summon_noble_GreyWormQyburnDEC21_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_GreyWormQyburnDEC21_Hero_1x_top",
+        "summon_purchase_noble_GreyWormQyburnDEC21_Hero_10x_top"
+      ],
+      "time_str": "DEC21"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "PetyrLuwin",
+      "id": "822c552313d1513",
+      "name": "summon_royal_PetyrLuwinDEC21_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_PetyrLuwinDEC21_Gold_1x_top",
+        "summon_purchase_royal_PetyrLuwinDEC21_Gold_10x_top"
+      ],
+      "time_str": "DEC21"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "EuronSallad",
+      "id": "2f4699af53b9088",
+      "name": "summon_royal_EuronSalladDEC21_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_EuronSalladDEC21_Gold_1x_top",
+        "summon_purchase_royal_EuronSalladDEC21_Gold_10x_top"
+      ],
+      "time_str": "DEC21"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "GreyWormQyburn",
+      "id": "fb5f31669c0e3ff6",
+      "name": "summon_royal_GreyWormQyburnDEC21_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_GreyWormQyburnDEC21_Gold_1x_top",
+        "summon_purchase_royal_GreyWormQyburnDEC21_Gold_10x_top"
+      ],
+      "time_str": "DEC21"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "AryaJaime",
+      "id": "d53fe4604775818b",
+      "name": "summon_noble_AryaJaimeJAN22_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_AryaJaimeJAN22_Hero_1x_top",
+        "summon_purchase_noble_AryaJaimeJAN22_Hero_10x_top"
+      ],
+      "time_str": "JAN22"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "MountainTyrion",
+      "id": "1163a2d1e547911e",
+      "name": "summon_noble_MountainTyrionJAN22_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_MountainTyrionJAN22_Hero_1x_top",
+        "summon_purchase_noble_MountainTyrionJAN22_Hero_10x_top"
+      ],
+      "time_str": "JAN22"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "SandorVarys",
+      "id": "e665126914ea1fb2",
+      "name": "summon_noble_SandorVarysJAN22_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_SandorVarysJAN22_Hero_1x_top",
+        "summon_purchase_noble_SandorVarysJAN22_Hero_10x_top"
+      ],
+      "time_str": "JAN22"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "AryaJaime",
+      "id": "9bed921f318cbab9",
+      "name": "summon_royal_AryaJaimeJAN22_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_AryaJaimeJAN22_Gold_1x_top",
+        "summon_purchase_royal_AryaJaimeJAN22_Gold_10x_top"
+      ],
+      "time_str": "JAN22"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "MountainTyrion",
+      "id": "167689bc57c0b863",
+      "name": "summon_royal_MountainTyrionJAN22_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_MountainTyrionJAN22_Gold_1x_top",
+        "summon_purchase_royal_MountainTyrionJAN22_Gold_10x_top"
+      ],
+      "time_str": "JAN22"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "SandorVarys",
+      "id": "563572812174bdb8",
+      "name": "summon_royal_SandorVarysJAN22_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_SandorVarysJAN22_Gold_1x_top",
+        "summon_purchase_royal_SandorVarysJAN22_Gold_10x_top"
+      ],
+      "time_str": "JAN22"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "NightKingEddard",
+      "id": "a3ab5d417279ec03",
+      "name": "summon_noble_NightKingEddardFEB22_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_NightKingEddardFEB22_Hero_1x_top",
+        "summon_purchase_noble_NightKingEddardFEB22_Hero_10x_top"
+      ],
+      "time_str": "FEB22"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "JonSnowBalon",
+      "id": "f7d40eedd58a966e",
+      "name": "summon_noble_JonSnowBalonFEB22_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_JonSnowBalonFEB22_Hero_1x_top",
+        "summon_purchase_noble_JonSnowBalonFEB22_Hero_10x_top"
+      ],
+      "time_str": "FEB22"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "JaimeRhaegar",
+      "id": "970f4b7642ff399e",
+      "name": "summon_noble_JaimeRhaegarFEB22_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_JaimeRhaegarFEB22_Hero_1x_top",
+        "summon_purchase_noble_JaimeRhaegarFEB22_Hero_10x_top"
+      ],
+      "time_str": "FEB22"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "CerseiOldNan",
+      "id": "9eaa63cc0819b42b",
+      "name": "summon_noble_CerseiOldNanFEB22_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_CerseiOldNanFEB22_Hero_1x_top",
+        "summon_purchase_noble_CerseiOldNanFEB22_Hero_10x_top"
+      ],
+      "time_str": "FEB22"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "NightKingEddard",
+      "id": "1e8af56dd186e6a",
+      "name": "summon_royal_NightKingEddardFEB22_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_NightKingEddardFEB22_Gold_1x_top",
+        "summon_purchase_royal_NightKingEddardFEB22_Gold_10x_top"
+      ],
+      "time_str": "FEB22"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "JonSnowBalon",
+      "id": "eb70ff7afd259f52",
+      "name": "summon_royal_JonSnowBalonFEB22_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_JonSnowBalonFEB22_Gold_1x_top",
+        "summon_purchase_royal_JonSnowBalonFEB22_Gold_10x_top"
+      ],
+      "time_str": "FEB22"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "JaimeRhaegar",
+      "id": "8babbae16a5030a2",
+      "name": "summon_royal_JaimeRhaegarFEB22_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_JaimeRhaegarFEB22_Gold_1x_top",
+        "summon_purchase_royal_JaimeRhaegarFEB22_Gold_10x_top"
+      ],
+      "time_str": "FEB22"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "CerseiOldNan",
+      "id": "820e925b20b6bd17",
+      "name": "summon_royal_CerseiOldNanFEB22_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_CerseiOldNanFEB22_Gold_1x_top",
+        "summon_purchase_royal_CerseiOldNanFEB22_Gold_10x_top"
+      ],
+      "time_str": "FEB22"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "YoungNedSansa",
+      "id": "bff6111234ea7d9",
+      "name": "summon_noble_YoungNedSansaMAR22_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_YoungNedSansaMAR22_Hero_1x_top",
+        "summon_purchase_noble_YoungNedSansaMAR22_Hero_10x_top"
+      ],
+      "time_str": "MAR22"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "EllariaYara",
+      "id": "505b119627061f76",
+      "name": "summon_noble_EllariaYaraMAR22_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_EllariaYaraMAR22_Hero_1x_top",
+        "summon_purchase_noble_EllariaYaraMAR22_Hero_10x_top"
+      ],
+      "time_str": "MAR22"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "ThreeEyedRavenPetyr",
+      "id": "1e3f9e594adb0d63",
+      "name": "summon_noble_ThreeEyedRavenPetyrMAR22_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_ThreeEyedRavenPetyrMAR22_Hero_1x_top",
+        "summon_purchase_noble_ThreeEyedRavenPetyrMAR22_Hero_10x_top"
+      ],
+      "time_str": "MAR22"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "YoungNedSansa",
+      "id": "24a558dd375a2835",
+      "name": "summon_royal_YoungNedSansaMAR22_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_YoungNedSansaMAR22_Gold_1x_top",
+        "summon_purchase_royal_YoungNedSansaMAR22_Gold_10x_top"
+      ],
+      "time_str": "MAR22"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "EllariaYara",
+      "id": "e00b717e1298bd7c",
+      "name": "summon_royal_EllariaYaraMAR22_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_EllariaYaraMAR22_Gold_1x_top",
+        "summon_purchase_royal_EllariaYaraMAR22_Gold_10x_top"
+      ],
+      "time_str": "MAR22"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "ThreeEyedRavenPetyr",
+      "id": "9c20df99be428482",
+      "name": "summon_royal_ThreeEyedRavenPetyrMAR22_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_ThreeEyedRavenPetyrMAR22_Gold_1x_top",
+        "summon_purchase_royal_ThreeEyedRavenPetyrMAR22_Gold_10x_top"
+      ],
+      "time_str": "MAR22"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "BericMasterLuwin",
+      "id": "69b138c10b6558c4",
+      "name": "summon_noble_BericMasterLuwinAPR22_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_BericMasterLuwinAPR22_Hero_1x_top",
+        "summon_purchase_noble_BericMasterLuwinAPR22_Hero_10x_top"
+      ],
+      "time_str": "APR22"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "JaqenQyburn",
+      "id": "e7f23917280b8fcb",
+      "name": "summon_noble_JaqenQyburnAPR22_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_JaqenQyburnAPR22_Hero_1x_top",
+        "summon_purchase_noble_JaqenQyburnAPR22_Hero_10x_top"
+      ],
+      "time_str": "APR22"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "MelisandreBenjen",
+      "id": "b001e1f38925f9d7",
+      "name": "summon_noble_MelisandreBenjenAPR22_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_MelisandreBenjenAPR22_Hero_1x_top",
+        "summon_purchase_noble_MelisandreBenjenAPR22_Hero_10x_top"
+      ],
+      "time_str": "APR22"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "ThorosAnguy",
+      "id": "8660857f63f5baa8",
+      "name": "summon_noble_ThorosAnguyAPR22_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_ThorosAnguyAPR22_Hero_1x_top",
+        "summon_purchase_noble_ThorosAnguyAPR22_Hero_10x_top"
+      ],
+      "time_str": "APR22"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "BericMasterLuwin",
+      "id": "3042ce61ac90b533",
+      "name": "summon_royal_BericMasterLuwinAPR22_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_BericMasterLuwinAPR22_Gold_1x_top",
+        "summon_purchase_royal_BericMasterLuwinAPR22_Gold_10x_top"
+      ],
+      "time_str": "APR22"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "JaqenQyburn",
+      "id": "57a259ff1d952dc1",
+      "name": "summon_royal_JaqenQyburnAPR22_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_JaqenQyburnAPR22_Gold_1x_top",
+        "summon_purchase_royal_JaqenQyburnAPR22_Gold_10x_top"
+      ],
+      "time_str": "APR22"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "MelisandreBenjen",
+      "id": "e9f217532ed01420",
+      "name": "summon_royal_MelisandreBenjenAPR22_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_MelisandreBenjenAPR22_Gold_1x_top",
+        "summon_purchase_royal_MelisandreBenjenAPR22_Gold_10x_top"
+      ],
+      "time_str": "APR22"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "ThorosAnguy",
+      "id": "3630e597566b18a2",
+      "name": "summon_royal_ThorosAnguyAPR22_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_ThorosAnguyAPR22_Gold_1x_top",
+        "summon_purchase_royal_ThorosAnguyAPR22_Gold_10x_top"
+      ],
+      "time_str": "APR22"
+    }
+  ]
+}

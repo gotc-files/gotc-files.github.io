@@ -17,7 +17,7 @@ class GearsProcessor(ProtoProcessor):
                 "name_placeholder": gear.info.name_placeholder,
                 "image": gear.info.image,
                 "priority": gear.info.sort_priority,
-                "slot_name": gear.info.slot_identity.name,
+                "slot_name": gear.info.gear_slot_identity.name,
                 "level": gear.info.level,
             })
         return gears_output
