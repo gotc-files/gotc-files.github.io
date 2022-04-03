@@ -41,7 +41,6 @@ function Summon() {
   const selectedSummons = summons.filter(
     (summon) => getSummonTimeStrName(summon) === urlParams.timeStrName
   );
-  console.log(selectedSummons);
 
   return (
     <Page
@@ -60,7 +59,12 @@ function Summon() {
     >
       <Grid container spacing={2} sx={{ px: 0, py: 2 }}>
         {selectedSummons.map((summon) => (
-          <Grid item xs={12} md={selectedSummons.length === 6 ? 4 : 3}>
+          <Grid
+            item
+            xs={12}
+            md={selectedSummons.length === 6 ? 4 : 3}
+            key={summon.id}
+          >
             <StatsCard
               title={summon.heroes}
               subtitle={summon.name}

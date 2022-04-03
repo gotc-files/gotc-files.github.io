@@ -8,6 +8,7 @@ import { HashRouter, Route, Routes } from "react-router-dom";
 import Armory from "./pages/Armory";
 import Hero from "./pages/Hero";
 import Home from "./pages/Home";
+import Summon from "./pages/Summon";
 import TrinketArmory from "./pages/TrinketArmory";
 
 const theme = createTheme({
@@ -50,6 +51,8 @@ function App() {
               element={<TrinketArmory />}
             />
             <Route path="/hero" element={<Hero />} />
+            <Route path="/summon" element={<Summon />} />
+            <Route path="/summon/:timeStrName" element={<Summon />} />
           </Routes>
         </ThemeProvider>
       </StyledEngineProvider>
