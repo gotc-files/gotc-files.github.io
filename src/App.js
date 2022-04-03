@@ -8,19 +8,30 @@ import { HashRouter, Route, Routes } from "react-router-dom";
 import Armory from "./pages/Armory";
 import Hero from "./pages/Hero";
 import Home from "./pages/Home";
-import Summon from "./pages/Summon";
 import TrinketArmory from "./pages/TrinketArmory";
 
 const theme = createTheme({
   palette: {
     primary: blue,
     secondary: cyan,
-    poor: "#fefefe",
-    common: "#6ad812",
-    fine: "#2892dc",
-    exquisite: "#d536db",
-    epic: "#fe7d0e",
-    legendary: "#ffff0d",
+    poor: {
+      main: "#fefefe",
+    },
+    common: {
+      main: "#6ad812",
+    },
+    fine: {
+      main: "#2892dc",
+    },
+    exquisite: {
+      main: "#d536db",
+    },
+    epic: {
+      main: "#fe7d0e",
+    },
+    legendary: {
+      main: "#ffff0d",
+    },
   },
 });
 
@@ -39,8 +50,6 @@ function App() {
               element={<TrinketArmory />}
             />
             <Route path="/hero" element={<Hero />} />
-            <Route path="/summon" element={<Summon />} />
-            <Route path="/summon/:timeStrName" element={<Summon />} />
           </Routes>
         </ThemeProvider>
       </StyledEngineProvider>

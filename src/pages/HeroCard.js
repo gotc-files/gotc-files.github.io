@@ -18,10 +18,10 @@ const heroSkillValue = (skill, heroLevelIndex) => {
 };
 
 const RARITY_TO_COLOR_NAME = {
-  1: "common",
-  2: "fine",
-  3: "exquisite",
-  4: "epic",
+  1: "common.main",
+  2: "fine.main",
+  3: "exquisite.main",
+  4: "epic.main",
 };
 
 function HeroCard(props) {

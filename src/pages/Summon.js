@@ -24,9 +24,9 @@ const timeStrDisplay = (timeStrName) => {
 };
 
 const CATEGORY_TO_COLOR_NAME = {
-  standard: "fine",
-  noble: "exquisite",
-  royal: "epic",
+  standard: "fine.main",
+  noble: "exquisite.main",
+  royal: "epic.main",
 };
 
 function Summon() {
