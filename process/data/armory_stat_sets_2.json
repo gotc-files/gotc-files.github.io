@@ -576,6 +576,24 @@
       "name": "armcol_events_artofcombat_3",
       "progression": "prog_armory_bouns_MarcherTroop_1",
       "property": "property_MarcherTroopAttackVsPlayer_armory"
+    },
+    {
+      "id": "a0b833d4ff793368",
+      "name": "armcol_events_maygearset_1",
+      "progression": "prog_armory_bonus_Support_1",
+      "property": "property_FoodGathering_armory"
+    },
+    {
+      "id": "d5aa6f3f268cc166",
+      "name": "armcol_events_maygearset_2",
+      "progression": "prog_armory_bonus_Support_1",
+      "property": "property_TroopLoad_armory"
+    },
+    {
+      "id": "f95ba49991df909c",
+      "name": "armcol_events_maygearset_3",
+      "progression": "prog_armory_bonus_GeneralTroop_1",
+      "property": "property_DragonBreathDamage_armory"
     }
   ]
 }

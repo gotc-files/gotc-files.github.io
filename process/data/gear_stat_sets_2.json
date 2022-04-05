@@ -48480,6 +48480,1686 @@
           "progression": "prog_gear_Event7_ForgingSteelCost_50"
         }
       ]
+    },
+    {
+      "id": "a7ef7ff0948f687a",
+      "name": "eq_events_maygearset_5_boots_lord5",
+      "stats": [
+        {
+          "name": "property_TrapAttack_gear",
+          "progression": "prog_gear_Event7_TrapAttack_5"
+        },
+        {
+          "name": "property_TrapHealth_gear",
+          "progression": "prog_gear_Event7_TrapHealth_5"
+        },
+        {
+          "name": "property_TroopLoad_gear",
+          "progression": "prog_gear_Event7_TroopLoad_5"
+        }
+      ]
+    },
+    {
+      "id": "b74528a8bb2876ed",
+      "name": "eq_events_maygearset_5_chest_lord5",
+      "stats": [
+        {
+          "name": "property_FoodGeneration_gear",
+          "progression": "prog_gear_Event7_FoodGeneration_5"
+        },
+        {
+          "name": "property_TrapAttack_gear",
+          "progression": "prog_gear_Event7_TrapAttack_5"
+        },
+        {
+          "name": "property_TroopLoad_gear",
+          "progression": "prog_gear_Event7_TroopLoad_5"
+        }
+      ]
+    },
+    {
+      "id": "c31cd392eacdb81b",
+      "name": "eq_events_maygearset_5_helmet_lord5",
+      "stats": [
+        {
+          "name": "property_TrapDefense_gear",
+          "progression": "prog_gear_Event7_TrapDefense_5"
+        },
+        {
+          "name": "property_TroopLoad_gear",
+          "progression": "prog_gear_Event7_TroopLoad_5"
+        },
+        {
+          "name": "property_WorkshopTrainingCapacity_gear",
+          "progression": "prog_gear_Event7_WorkshopTrainingCapacity_5"
+        }
+      ]
+    },
+    {
+      "id": "646d6a8bc9d0bff6",
+      "name": "eq_events_maygearset_5_pants_lord5",
+      "stats": [
+        {
+          "name": "property_WorkshopTrainingCapacity_gear",
+          "progression": "prog_gear_Event7_WorkshopTrainingCapacity_5"
+        },
+        {
+          "name": "property_TrapDefense_gear",
+          "progression": "prog_gear_Event7_TrapDefense_5"
+        },
+        {
+          "name": "property_FoodGathering_gear",
+          "progression": "prog_gear_Event7_FoodGathering_5"
+        }
+      ]
+    },
+    {
+      "id": "ce870f0881a85a05",
+      "name": "eq_events_maygearset_5_ring_lord5",
+      "stats": [
+        {
+          "name": "property_TrapDefense_gear",
+          "progression": "prog_gear_Event7_TrapDefense_5"
+        },
+        {
+          "name": "property_WorkshopTrainingCapacity_gear",
+          "progression": "prog_gear_Event7_WorkshopTrainingCapacity_5"
+        },
+        {
+          "name": "property_FoodGathering_gear",
+          "progression": "prog_gear_Event7_FoodGathering_5"
+        }
+      ]
+    },
+    {
+      "id": "a4c14ba5a312e696",
+      "name": "eq_events_maygearset_5_weapon_lord5",
+      "stats": [
+        {
+          "name": "property_TrapHealth_gear",
+          "progression": "prog_gear_Event7_TrapHealth_5"
+        },
+        {
+          "name": "property_FoodGathering_gear",
+          "progression": "prog_gear_Event7_FoodGathering_5"
+        },
+        {
+          "name": "property_FoodGeneration_gear",
+          "progression": "prog_gear_Event7_FoodGeneration_5"
+        }
+      ]
+    },
+    {
+      "id": "502811c3cc117582",
+      "name": "eq_events_maygearset_10_boots_lord10",
+      "stats": [
+        {
+          "name": "property_TrapAttack_gear",
+          "progression": "prog_gear_Event7_TrapAttack_10"
+        },
+        {
+          "name": "property_TrapHealth_gear",
+          "progression": "prog_gear_Event7_TrapHealth_10"
+        },
+        {
+          "name": "property_TroopLoad_gear",
+          "progression": "prog_gear_Event7_TroopLoad_10"
+        }
+      ]
+    },
+    {
+      "id": "1f62942b9b950e32",
+      "name": "eq_events_maygearset_10_chest_lord10",
+      "stats": [
+        {
+          "name": "property_FoodGeneration_gear",
+          "progression": "prog_gear_Event7_FoodGeneration_10"
+        },
+        {
+          "name": "property_TrapAttack_gear",
+          "progression": "prog_gear_Event7_TrapAttack_10"
+        },
+        {
+          "name": "property_TroopLoad_gear",
+          "progression": "prog_gear_Event7_TroopLoad_10"
+        }
+      ]
+    },
+    {
+      "id": "8734bc903a80c231",
+      "name": "eq_events_maygearset_10_helmet_lord10",
+      "stats": [
+        {
+          "name": "property_TrapDefense_gear",
+          "progression": "prog_gear_Event7_TrapDefense_10"
+        },
+        {
+          "name": "property_TroopLoad_gear",
+          "progression": "prog_gear_Event7_TroopLoad_10"
+        },
+        {
+          "name": "property_WorkshopTrainingCapacity_gear",
+          "progression": "prog_gear_Event7_WorkshopTrainingCapacity_10"
+        }
+      ]
+    },
+    {
+      "id": "c74583363de30ad3",
+      "name": "eq_events_maygearset_10_pants_lord10",
+      "stats": [
+        {
+          "name": "property_WorkshopTrainingCapacity_gear",
+          "progression": "prog_gear_Event7_WorkshopTrainingCapacity_10"
+        },
+        {
+          "name": "property_TrapDefense_gear",
+          "progression": "prog_gear_Event7_TrapDefense_10"
+        },
+        {
+          "name": "property_FoodGathering_gear",
+          "progression": "prog_gear_Event7_FoodGathering_10"
+        }
+      ]
+    },
+    {
+      "id": "97e21769f055ace1",
+      "name": "eq_events_maygearset_10_ring_lord10",
+      "stats": [
+        {
+          "name": "property_TrapDefense_gear",
+          "progression": "prog_gear_Event7_TrapDefense_10"
+        },
+        {
+          "name": "property_WorkshopTrainingCapacity_gear",
+          "progression": "prog_gear_Event7_WorkshopTrainingCapacity_10"
+        },
+        {
+          "name": "property_FoodGathering_gear",
+          "progression": "prog_gear_Event7_FoodGathering_10"
+        }
+      ]
+    },
+    {
+      "id": "3c0cba4e30356c13",
+      "name": "eq_events_maygearset_10_weapon_lord10",
+      "stats": [
+        {
+          "name": "property_TrapHealth_gear",
+          "progression": "prog_gear_Event7_TrapHealth_10"
+        },
+        {
+          "name": "property_FoodGathering_gear",
+          "progression": "prog_gear_Event7_FoodGathering_10"
+        },
+        {
+          "name": "property_FoodGeneration_gear",
+          "progression": "prog_gear_Event7_FoodGeneration_10"
+        }
+      ]
+    },
+    {
+      "id": "da4269113f429072",
+      "name": "eq_events_maygearset_15_boots_lord15",
+      "stats": [
+        {
+          "name": "property_TrapAttack_gear",
+          "progression": "prog_gear_Event7_TrapAttack_15"
+        },
+        {
+          "name": "property_TrapHealth_gear",
+          "progression": "prog_gear_Event7_TrapHealth_15"
+        },
+        {
+          "name": "property_TroopLoad_gear",
+          "progression": "prog_gear_Event7_TroopLoad_15"
+        }
+      ]
+    },
+    {
+      "id": "9508ecf968c6ebc2",
+      "name": "eq_events_maygearset_15_chest_lord15",
+      "stats": [
+        {
+          "name": "property_FoodGeneration_gear",
+          "progression": "prog_gear_Event7_FoodGeneration_15"
+        },
+        {
+          "name": "property_TrapAttack_gear",
+          "progression": "prog_gear_Event7_TrapAttack_15"
+        },
+        {
+          "name": "property_TroopLoad_gear",
+          "progression": "prog_gear_Event7_TroopLoad_15"
+        }
+      ]
+    },
+    {
+      "id": "b0fefb08dd437454",
+      "name": "eq_events_maygearset_15_helmet_lord15",
+      "stats": [
+        {
+          "name": "property_TrapDefense_gear",
+          "progression": "prog_gear_Event7_TrapDefense_15"
+        },
+        {
+          "name": "property_TroopLoad_gear",
+          "progression": "prog_gear_Event7_TroopLoad_15"
+        },
+        {
+          "name": "property_WorkshopTrainingCapacity_gear",
+          "progression": "prog_gear_Event7_WorkshopTrainingCapacity_15"
+        }
+      ]
+    },
+    {
+      "id": "4d2ffbe4ceb0ef23",
+      "name": "eq_events_maygearset_15_pants_lord15",
+      "stats": [
+        {
+          "name": "property_WorkshopTrainingCapacity_gear",
+          "progression": "prog_gear_Event7_WorkshopTrainingCapacity_15"
+        },
+        {
+          "name": "property_TrapDefense_gear",
+          "progression": "prog_gear_Event7_TrapDefense_15"
+        },
+        {
+          "name": "property_FoodGathering_gear",
+          "progression": "prog_gear_Event7_FoodGathering_15"
+        }
+      ]
+    },
+    {
+      "id": "e8856a4749999c30",
+      "name": "eq_events_maygearset_15_ring_lord15",
+      "stats": [
+        {
+          "name": "property_TrapDefense_gear",
+          "progression": "prog_gear_Event7_TrapDefense_15"
+        },
+        {
+          "name": "property_WorkshopTrainingCapacity_gear",
+          "progression": "prog_gear_Event7_WorkshopTrainingCapacity_15"
+        },
+        {
+          "name": "property_FoodGathering_gear",
+          "progression": "prog_gear_Event7_FoodGathering_15"
+        }
+      ]
+    },
+    {
+      "id": "bc6fdd6d7f6da76",
+      "name": "eq_events_maygearset_15_weapon_lord15",
+      "stats": [
+        {
+          "name": "property_TrapHealth_gear",
+          "progression": "prog_gear_Event7_TrapHealth_15"
+        },
+        {
+          "name": "property_FoodGathering_gear",
+          "progression": "prog_gear_Event7_FoodGathering_15"
+        },
+        {
+          "name": "property_FoodGeneration_gear",
+          "progression": "prog_gear_Event7_FoodGeneration_15"
+        }
+      ]
+    },
+    {
+      "id": "b970054724c701a3",
+      "name": "eq_events_maygearset_20_boots_lord20",
+      "stats": [
+        {
+          "name": "property_TrapAttack_gear",
+          "progression": "prog_gear_Event7_TrapAttack_20"
+        },
+        {
+          "name": "property_TrapHealth_gear",
+          "progression": "prog_gear_Event7_TrapHealth_20"
+        },
+        {
+          "name": "property_TroopLoad_gear",
+          "progression": "prog_gear_Event7_TroopLoad_20"
+        },
+        {
+          "name": "property_TrapDefense_gear",
+          "progression": "prog_gear_Event7_TrapDefense_20"
+        }
+      ]
+    },
+    {
+      "id": "f63a80af73437a13",
+      "name": "eq_events_maygearset_20_chest_lord20",
+      "stats": [
+        {
+          "name": "property_FoodGeneration_gear",
+          "progression": "prog_gear_Event7_FoodGeneration_20"
+        },
+        {
+          "name": "property_TrapAttack_gear",
+          "progression": "prog_gear_Event7_TrapAttack_20"
+        },
+        {
+          "name": "property_TroopLoad_gear",
+          "progression": "prog_gear_Event7_TroopLoad_20"
+        },
+        {
+          "name": "property_WorkshopTrainingCapacity_gear",
+          "progression": "prog_gear_Event7_WorkshopTrainingCapacity_20"
+        }
+      ]
+    },
+    {
+      "id": "e2069e7cf3c4d60e",
+      "name": "eq_events_maygearset_20_helmet_lord20",
+      "stats": [
+        {
+          "name": "property_TrapDefense_gear",
+          "progression": "prog_gear_Event7_TrapDefense_20"
+        },
+        {
+          "name": "property_TroopLoad_gear",
+          "progression": "prog_gear_Event7_TroopLoad_20"
+        },
+        {
+          "name": "property_WorkshopTrainingCapacity_gear",
+          "progression": "prog_gear_Event7_WorkshopTrainingCapacity_20"
+        },
+        {
+          "name": "property_TrapAttack_gear",
+          "progression": "prog_gear_Event7_TrapAttack_20"
+        }
+      ]
+    },
+    {
+      "id": "2e1d97b2d5357ef2",
+      "name": "eq_events_maygearset_20_pants_lord20",
+      "stats": [
+        {
+          "name": "property_WorkshopTrainingCapacity_gear",
+          "progression": "prog_gear_Event7_WorkshopTrainingCapacity_20"
+        },
+        {
+          "name": "property_TrapDefense_gear",
+          "progression": "prog_gear_Event7_TrapDefense_20"
+        },
+        {
+          "name": "property_FoodGathering_gear",
+          "progression": "prog_gear_Event7_FoodGathering_20"
+        },
+        {
+          "name": "property_TroopLoad_gear",
+          "progression": "prog_gear_Event7_TroopLoad_20"
+        }
+      ]
+    },
+    {
+      "id": "944c28f82c692caa",
+      "name": "eq_events_maygearset_20_ring_lord20",
+      "stats": [
+        {
+          "name": "property_TrapDefense_gear",
+          "progression": "prog_gear_Event7_TrapDefense_20"
+        },
+        {
+          "name": "property_WorkshopTrainingCapacity_gear",
+          "progression": "prog_gear_Event7_WorkshopTrainingCapacity_20"
+        },
+        {
+          "name": "property_FoodGathering_gear",
+          "progression": "prog_gear_Event7_FoodGathering_20"
+        },
+        {
+          "name": "property_TrapAttack_gear",
+          "progression": "prog_gear_Event7_TrapAttack_20"
+        }
+      ]
+    },
+    {
+      "id": "593e98a2f971782c",
+      "name": "eq_events_maygearset_20_weapon_lord20",
+      "stats": [
+        {
+          "name": "property_TrapHealth_gear",
+          "progression": "prog_gear_Event7_TrapHealth_20"
+        },
+        {
+          "name": "property_FoodGathering_gear",
+          "progression": "prog_gear_Event7_FoodGathering_20"
+        },
+        {
+          "name": "property_FoodGeneration_gear",
+          "progression": "prog_gear_Event7_FoodGeneration_20"
+        },
+        {
+          "name": "property_TroopLoad_gear",
+          "progression": "prog_gear_Event7_TroopLoad_20"
+        }
+      ]
+    },
+    {
+      "id": "331a7d95d794e453",
+      "name": "eq_events_maygearset_25_boots_lord25",
+      "stats": [
+        {
+          "name": "property_TrapAttack_gear",
+          "progression": "prog_gear_Event7_TrapAttack_25"
+        },
+        {
+          "name": "property_TrapHealth_gear",
+          "progression": "prog_gear_Event7_TrapHealth_25"
+        },
+        {
+          "name": "property_TroopLoad_gear",
+          "progression": "prog_gear_Event7_TroopLoad_25"
+        },
+        {
+          "name": "property_TrapDefense_gear",
+          "progression": "prog_gear_Event7_TrapDefense_25"
+        },
+        {
+          "name": "property_FoodGathering_gear",
+          "progression": "prog_gear_Event7.5_FoodGathering_25"
+        }
+      ]
+    },
+    {
+      "id": "7c50f87d80109fe3",
+      "name": "eq_events_maygearset_25_chest_lord25",
+      "stats": [
+        {
+          "name": "property_FoodGeneration_gear",
+          "progression": "prog_gear_Event7_FoodGeneration_25"
+        },
+        {
+          "name": "property_TrapAttack_gear",
+          "progression": "prog_gear_Event7_TrapAttack_25"
+        },
+        {
+          "name": "property_TroopLoad_gear",
+          "progression": "prog_gear_Event7_TroopLoad_25"
+        },
+        {
+          "name": "property_WorkshopTrainingCapacity_gear",
+          "progression": "prog_gear_Event7_WorkshopTrainingCapacity_25"
+        },
+        {
+          "name": "property_TrapDefense_gear",
+          "progression": "prog_gear_Event7.5_TrapDefense_25"
+        }
+      ]
+    },
+    {
+      "id": "d5ccd9e41407606b",
+      "name": "eq_events_maygearset_25_helmet_lord25",
+      "stats": [
+        {
+          "name": "property_TrapDefense_gear",
+          "progression": "prog_gear_Event7_TrapDefense_25"
+        },
+        {
+          "name": "property_TroopLoad_gear",
+          "progression": "prog_gear_Event7_TroopLoad_25"
+        },
+        {
+          "name": "property_WorkshopTrainingCapacity_gear",
+          "progression": "prog_gear_Event7_WorkshopTrainingCapacity_25"
+        },
+        {
+          "name": "property_TrapAttack_gear",
+          "progression": "prog_gear_Event7_TrapAttack_25"
+        },
+        {
+          "name": "property_FoodGathering_gear",
+          "progression": "prog_gear_Event7.5_FoodGathering_25"
+        }
+      ]
+    },
+    {
+      "id": "a477ef6026669b02",
+      "name": "eq_events_maygearset_25_pants_lord25",
+      "stats": [
+        {
+          "name": "property_WorkshopTrainingCapacity_gear",
+          "progression": "prog_gear_Event7_WorkshopTrainingCapacity_25"
+        },
+        {
+          "name": "property_TrapDefense_gear",
+          "progression": "prog_gear_Event7_TrapDefense_25"
+        },
+        {
+          "name": "property_FoodGathering_gear",
+          "progression": "prog_gear_Event7_FoodGathering_25"
+        },
+        {
+          "name": "property_TroopLoad_gear",
+          "progression": "prog_gear_Event7_TroopLoad_25"
+        },
+        {
+          "name": "property_TrapHealth_gear",
+          "progression": "prog_gear_Event7.5_TrapHealth_25"
+        }
+      ]
+    },
+    {
+      "id": "eb2b55d695a51c7b",
+      "name": "eq_events_maygearset_25_ring_lord25",
+      "stats": [
+        {
+          "name": "property_TrapDefense_gear",
+          "progression": "prog_gear_Event7_TrapDefense_25"
+        },
+        {
+          "name": "property_WorkshopTrainingCapacity_gear",
+          "progression": "prog_gear_Event7_WorkshopTrainingCapacity_25"
+        },
+        {
+          "name": "property_FoodGathering_gear",
+          "progression": "prog_gear_Event7_FoodGathering_25"
+        },
+        {
+          "name": "property_TrapAttack_gear",
+          "progression": "prog_gear_Event7_TrapAttack_25"
+        },
+        {
+          "name": "property_TrapHealth_gear",
+          "progression": "prog_gear_Event7.5_TrapHealth_25"
+        }
+      ]
+    },
+    {
+      "id": "6ef4df3a1eb2ce49",
+      "name": "eq_events_maygearset_25_weapon_lord25",
+      "stats": [
+        {
+          "name": "property_TrapHealth_gear",
+          "progression": "prog_gear_Event7_TrapHealth_25"
+        },
+        {
+          "name": "property_FoodGathering_gear",
+          "progression": "prog_gear_Event7_FoodGathering_25"
+        },
+        {
+          "name": "property_FoodGeneration_gear",
+          "progression": "prog_gear_Event7_FoodGeneration_25"
+        },
+        {
+          "name": "property_TroopLoad_gear",
+          "progression": "prog_gear_Event7_TroopLoad_25"
+        },
+        {
+          "name": "property_WorkshopTrainingCapacity_gear",
+          "progression": "prog_gear_Event7.5_WorkshopTrainingCapacity_25"
+        }
+      ]
+    },
+    {
+      "id": "602e3717bbefe8a5",
+      "name": "eq_events_maygearset_30_boots_lord30",
+      "stats": [
+        {
+          "name": "property_TrapAttack_gear",
+          "progression": "prog_gear_Event7_TrapAttack_30"
+        },
+        {
+          "name": "property_TrapHealth_gear",
+          "progression": "prog_gear_Event7_TrapHealth_30"
+        },
+        {
+          "name": "property_TroopLoad_gear",
+          "progression": "prog_gear_Event7_TroopLoad_30"
+        },
+        {
+          "name": "property_TrapDefense_gear",
+          "progression": "prog_gear_Event7_TrapDefense_30"
+        },
+        {
+          "name": "property_FoodGathering_gear",
+          "progression": "prog_gear_Event7.5_FoodGathering_30"
+        },
+        {
+          "name": "property_WorkshopTrainingCapacity_gear",
+          "progression": "prog_gear_Event7_WorkshopTrainingCapacity_30"
+        }
+      ]
+    },
+    {
+      "id": "2f64b2ffec6b9315",
+      "name": "eq_events_maygearset_30_chest_lord30",
+      "stats": [
+        {
+          "name": "property_FoodGeneration_gear",
+          "progression": "prog_gear_Event7_FoodGeneration_30"
+        },
+        {
+          "name": "property_TrapAttack_gear",
+          "progression": "prog_gear_Event7_TrapAttack_30"
+        },
+        {
+          "name": "property_TroopLoad_gear",
+          "progression": "prog_gear_Event7_TroopLoad_30"
+        },
+        {
+          "name": "property_WorkshopTrainingCapacity_gear",
+          "progression": "prog_gear_Event7_WorkshopTrainingCapacity_30"
+        },
+        {
+          "name": "property_TrapDefense_gear",
+          "progression": "prog_gear_Event7.5_TrapDefense_30"
+        },
+        {
+          "name": "property_FoodGathering_gear",
+          "progression": "prog_gear_Event7_FoodGathering_30"
+        }
+      ]
+    },
+    {
+      "id": "c1177fd8b4f8da1b",
+      "name": "eq_events_maygearset_30_helmet_lord30",
+      "stats": [
+        {
+          "name": "property_TrapDefense_gear",
+          "progression": "prog_gear_Event7_TrapDefense_30"
+        },
+        {
+          "name": "property_TroopLoad_gear",
+          "progression": "prog_gear_Event7_TroopLoad_30"
+        },
+        {
+          "name": "property_WorkshopTrainingCapacity_gear",
+          "progression": "prog_gear_Event7_WorkshopTrainingCapacity_30"
+        },
+        {
+          "name": "property_TrapAttack_gear",
+          "progression": "prog_gear_Event7_TrapAttack_30"
+        },
+        {
+          "name": "property_FoodGathering_gear",
+          "progression": "prog_gear_Event7.5_FoodGathering_30"
+        },
+        {
+          "name": "property_TrapHealth_gear",
+          "progression": "prog_gear_Event7_TrapHealth_30"
+        }
+      ]
+    },
+    {
+      "id": "f743a5e24a1d97f4",
+      "name": "eq_events_maygearset_30_pants_lord30",
+      "stats": [
+        {
+          "name": "property_WorkshopTrainingCapacity_gear",
+          "progression": "prog_gear_Event7_WorkshopTrainingCapacity_30"
+        },
+        {
+          "name": "property_TrapDefense_gear",
+          "progression": "prog_gear_Event7_TrapDefense_30"
+        },
+        {
+          "name": "property_FoodGathering_gear",
+          "progression": "prog_gear_Event7_FoodGathering_30"
+        },
+        {
+          "name": "property_TroopLoad_gear",
+          "progression": "prog_gear_Event7_TroopLoad_30"
+        },
+        {
+          "name": "property_TrapHealth_gear",
+          "progression": "prog_gear_Event7.5_TrapHealth_30"
+        },
+        {
+          "name": "property_TrapAttack_gear",
+          "progression": "prog_gear_Event7_TrapAttack_30"
+        }
+      ]
+    },
+    {
+      "id": "9529c2776782ac93",
+      "name": "eq_events_maygearset_30_ring_lord30",
+      "stats": [
+        {
+          "name": "property_TrapDefense_gear",
+          "progression": "prog_gear_Event7_TrapDefense_30"
+        },
+        {
+          "name": "property_WorkshopTrainingCapacity_gear",
+          "progression": "prog_gear_Event7_WorkshopTrainingCapacity_30"
+        },
+        {
+          "name": "property_FoodGathering_gear",
+          "progression": "prog_gear_Event7_FoodGathering_30"
+        },
+        {
+          "name": "property_TrapAttack_gear",
+          "progression": "prog_gear_Event7_TrapAttack_30"
+        },
+        {
+          "name": "property_TrapHealth_gear",
+          "progression": "prog_gear_Event7.5_TrapHealth_30"
+        },
+        {
+          "name": "property_TroopLoad_gear",
+          "progression": "prog_gear_Event7_TroopLoad_30"
+        }
+      ]
+    },
+    {
+      "id": "7a2f7906be4d7439",
+      "name": "eq_events_maygearset_30_weapon_lord30",
+      "stats": [
+        {
+          "name": "property_TrapHealth_gear",
+          "progression": "prog_gear_Event7_TrapHealth_30"
+        },
+        {
+          "name": "property_FoodGathering_gear",
+          "progression": "prog_gear_Event7_FoodGathering_30"
+        },
+        {
+          "name": "property_FoodGeneration_gear",
+          "progression": "prog_gear_Event7_FoodGeneration_30"
+        },
+        {
+          "name": "property_TroopLoad_gear",
+          "progression": "prog_gear_Event7_TroopLoad_30"
+        },
+        {
+          "name": "property_WorkshopTrainingCapacity_gear",
+          "progression": "prog_gear_Event7.5_WorkshopTrainingCapacity_30"
+        },
+        {
+          "name": "property_TrapDefense_gear",
+          "progression": "prog_gear_Event7_TrapDefense_30"
+        }
+      ]
+    },
+    {
+      "id": "ea444fc548bc0d55",
+      "name": "eq_events_maygearset_35_boots_lord35",
+      "stats": [
+        {
+          "name": "property_TrapAttack_gear",
+          "progression": "prog_gear_Event7_TrapAttack_35"
+        },
+        {
+          "name": "property_TrapHealth_gear",
+          "progression": "prog_gear_Event7_TrapHealth_35"
+        },
+        {
+          "name": "property_TroopLoad_gear",
+          "progression": "prog_gear_Event7_TroopLoad_35"
+        },
+        {
+          "name": "property_TrapDefense_gear",
+          "progression": "prog_gear_Event7_TrapDefense_35"
+        },
+        {
+          "name": "property_FoodGathering_gear",
+          "progression": "prog_gear_Event7.5_FoodGathering_35"
+        },
+        {
+          "name": "property_WorkshopTrainingCapacity_gear",
+          "progression": "prog_gear_Event7_WorkshopTrainingCapacity_35"
+        },
+        {
+          "name": "property_FoodGeneration_gear",
+          "progression": "prog_gear_Event7.5_FoodGeneration_35"
+        }
+      ]
+    },
+    {
+      "id": "a50eca2d1f3876e5",
+      "name": "eq_events_maygearset_35_chest_lord35",
+      "stats": [
+        {
+          "name": "property_FoodGeneration_gear",
+          "progression": "prog_gear_Event7_FoodGeneration_35"
+        },
+        {
+          "name": "property_TrapAttack_gear",
+          "progression": "prog_gear_Event7_TrapAttack_35"
+        },
+        {
+          "name": "property_TroopLoad_gear",
+          "progression": "prog_gear_Event7_TroopLoad_35"
+        },
+        {
+          "name": "property_WorkshopTrainingCapacity_gear",
+          "progression": "prog_gear_Event7_WorkshopTrainingCapacity_35"
+        },
+        {
+          "name": "property_TrapDefense_gear",
+          "progression": "prog_gear_Event7.5_TrapDefense_35"
+        },
+        {
+          "name": "property_FoodGathering_gear",
+          "progression": "prog_gear_Event7_FoodGathering_35"
+        },
+        {
+          "name": "property_TrapHealth_gear",
+          "progression": "prog_gear_Event7.5_TrapHealth_35"
+        }
+      ]
+    },
+    {
+      "id": "f6dd3840533b6c7e",
+      "name": "eq_events_maygearset_35_helmet_lord35",
+      "stats": [
+        {
+          "name": "property_TrapDefense_gear",
+          "progression": "prog_gear_Event7_TrapDefense_35"
+        },
+        {
+          "name": "property_TroopLoad_gear",
+          "progression": "prog_gear_Event7_TroopLoad_35"
+        },
+        {
+          "name": "property_WorkshopTrainingCapacity_gear",
+          "progression": "prog_gear_Event7_WorkshopTrainingCapacity_35"
+        },
+        {
+          "name": "property_TrapAttack_gear",
+          "progression": "prog_gear_Event7_TrapAttack_35"
+        },
+        {
+          "name": "property_FoodGathering_gear",
+          "progression": "prog_gear_Event7.5_FoodGathering_35"
+        },
+        {
+          "name": "property_TrapHealth_gear",
+          "progression": "prog_gear_Event7_TrapHealth_35"
+        },
+        {
+          "name": "property_FoodGeneration_gear",
+          "progression": "prog_gear_Event7.5_FoodGeneration_35"
+        }
+      ]
+    },
+    {
+      "id": "7d29dd30b94e7204",
+      "name": "eq_events_maygearset_35_pants_lord35",
+      "stats": [
+        {
+          "name": "property_WorkshopTrainingCapacity_gear",
+          "progression": "prog_gear_Event7_WorkshopTrainingCapacity_35"
+        },
+        {
+          "name": "property_TrapDefense_gear",
+          "progression": "prog_gear_Event7_TrapDefense_35"
+        },
+        {
+          "name": "property_FoodGathering_gear",
+          "progression": "prog_gear_Event7_FoodGathering_35"
+        },
+        {
+          "name": "property_TroopLoad_gear",
+          "progression": "prog_gear_Event7_TroopLoad_35"
+        },
+        {
+          "name": "property_TrapHealth_gear",
+          "progression": "prog_gear_Event7.5_TrapHealth_35"
+        },
+        {
+          "name": "property_TrapAttack_gear",
+          "progression": "prog_gear_Event7_TrapAttack_35"
+        },
+        {
+          "name": "property_FoodGeneration_gear",
+          "progression": "prog_gear_Event7.5_FoodGeneration_35"
+        }
+      ]
+    },
+    {
+      "id": "ea4ebf59de4e9c42",
+      "name": "eq_events_maygearset_35_ring_lord35",
+      "stats": [
+        {
+          "name": "property_TrapDefense_gear",
+          "progression": "prog_gear_Event7_TrapDefense_35"
+        },
+        {
+          "name": "property_WorkshopTrainingCapacity_gear",
+          "progression": "prog_gear_Event7_WorkshopTrainingCapacity_35"
+        },
+        {
+          "name": "property_FoodGathering_gear",
+          "progression": "prog_gear_Event7_FoodGathering_35"
+        },
+        {
+          "name": "property_TrapAttack_gear",
+          "progression": "prog_gear_Event7_TrapAttack_35"
+        },
+        {
+          "name": "property_TrapHealth_gear",
+          "progression": "prog_gear_Event7.5_TrapHealth_35"
+        },
+        {
+          "name": "property_TroopLoad_gear",
+          "progression": "prog_gear_Event7_TroopLoad_35"
+        },
+        {
+          "name": "property_FoodGeneration_gear",
+          "progression": "prog_gear_Event7.5_FoodGeneration_35"
+        }
+      ]
+    },
+    {
+      "id": "4de53e9e598ec25c",
+      "name": "eq_events_maygearset_35_weapon_lord35",
+      "stats": [
+        {
+          "name": "property_TrapHealth_gear",
+          "progression": "prog_gear_Event7_TrapHealth_35"
+        },
+        {
+          "name": "property_FoodGathering_gear",
+          "progression": "prog_gear_Event7_FoodGathering_35"
+        },
+        {
+          "name": "property_FoodGeneration_gear",
+          "progression": "prog_gear_Event7_FoodGeneration_35"
+        },
+        {
+          "name": "property_TroopLoad_gear",
+          "progression": "prog_gear_Event7_TroopLoad_35"
+        },
+        {
+          "name": "property_WorkshopTrainingCapacity_gear",
+          "progression": "prog_gear_Event7.5_WorkshopTrainingCapacity_35"
+        },
+        {
+          "name": "property_TrapDefense_gear",
+          "progression": "prog_gear_Event7_TrapDefense_35"
+        },
+        {
+          "name": "property_TrapAttack_gear",
+          "progression": "prog_gear_Event7.5_TrapAttack_35"
+        }
+      ]
+    },
+    {
+      "id": "e97a6e3bbcc4a6ca",
+      "name": "eq_events_maygearset_40_boots_lord40",
+      "stats": [
+        {
+          "name": "property_TrapAttack_gear",
+          "progression": "prog_gear_Event7_TrapAttack_40"
+        },
+        {
+          "name": "property_TrapHealth_gear",
+          "progression": "prog_gear_Event7_TrapHealth_40"
+        },
+        {
+          "name": "property_TroopLoad_gear",
+          "progression": "prog_gear_Event7_TroopLoad_40"
+        },
+        {
+          "name": "property_TrapDefense_gear",
+          "progression": "prog_gear_Event7_TrapDefense_40"
+        },
+        {
+          "name": "property_FoodGathering_gear",
+          "progression": "prog_gear_Event7.5_FoodGathering_40"
+        },
+        {
+          "name": "property_WorkshopTrainingCapacity_gear",
+          "progression": "prog_gear_Event7_WorkshopTrainingCapacity_40"
+        },
+        {
+          "name": "property_FoodGeneration_gear",
+          "progression": "prog_gear_Event7.5_FoodGeneration_40"
+        },
+        {
+          "name": "property_TrapSpeed_gear",
+          "progression": "prog_gear_Event7_TrapSpeed_40"
+        }
+      ]
+    },
+    {
+      "id": "a630ebd3eb40dd7a",
+      "name": "eq_events_maygearset_40_chest_lord40",
+      "stats": [
+        {
+          "name": "property_FoodGeneration_gear",
+          "progression": "prog_gear_Event7_FoodGeneration_40"
+        },
+        {
+          "name": "property_TrapAttack_gear",
+          "progression": "prog_gear_Event7_TrapAttack_40"
+        },
+        {
+          "name": "property_TroopLoad_gear",
+          "progression": "prog_gear_Event7_TroopLoad_40"
+        },
+        {
+          "name": "property_WorkshopTrainingCapacity_gear",
+          "progression": "prog_gear_Event7_WorkshopTrainingCapacity_40"
+        },
+        {
+          "name": "property_TrapDefense_gear",
+          "progression": "prog_gear_Event7.5_TrapDefense_40"
+        },
+        {
+          "name": "property_FoodGathering_gear",
+          "progression": "prog_gear_Event7_FoodGathering_40"
+        },
+        {
+          "name": "property_TrapHealth_gear",
+          "progression": "prog_gear_Event7.5_TrapHealth_40"
+        },
+        {
+          "name": "property_TrapSpeed_gear",
+          "progression": "prog_gear_Event7_TrapSpeed_40"
+        }
+      ]
+    },
+    {
+      "id": "2862dba5614cfe70",
+      "name": "eq_events_maygearset_40_helmet_lord40",
+      "stats": [
+        {
+          "name": "property_TrapDefense_gear",
+          "progression": "prog_gear_Event7_TrapDefense_40"
+        },
+        {
+          "name": "property_TroopLoad_gear",
+          "progression": "prog_gear_Event7_TroopLoad_40"
+        },
+        {
+          "name": "property_WorkshopTrainingCapacity_gear",
+          "progression": "prog_gear_Event7_WorkshopTrainingCapacity_40"
+        },
+        {
+          "name": "property_TrapAttack_gear",
+          "progression": "prog_gear_Event7_TrapAttack_40"
+        },
+        {
+          "name": "property_FoodGathering_gear",
+          "progression": "prog_gear_Event7.5_FoodGathering_40"
+        },
+        {
+          "name": "property_TrapHealth_gear",
+          "progression": "prog_gear_Event7_TrapHealth_40"
+        },
+        {
+          "name": "property_FoodGeneration_gear",
+          "progression": "prog_gear_Event7.5_FoodGeneration_40"
+        },
+        {
+          "name": "property_TrapSpeed_gear",
+          "progression": "prog_gear_Event7_TrapSpeed_40"
+        }
+      ]
+    },
+    {
+      "id": "7e17fcce4d36d99b",
+      "name": "eq_events_maygearset_40_pants_lord40",
+      "stats": [
+        {
+          "name": "property_WorkshopTrainingCapacity_gear",
+          "progression": "prog_gear_Event7_WorkshopTrainingCapacity_40"
+        },
+        {
+          "name": "property_TrapDefense_gear",
+          "progression": "prog_gear_Event7_TrapDefense_40"
+        },
+        {
+          "name": "property_FoodGathering_gear",
+          "progression": "prog_gear_Event7_FoodGathering_40"
+        },
+        {
+          "name": "property_TroopLoad_gear",
+          "progression": "prog_gear_Event7_TroopLoad_40"
+        },
+        {
+          "name": "property_TrapHealth_gear",
+          "progression": "prog_gear_Event7.5_TrapHealth_40"
+        },
+        {
+          "name": "property_TrapAttack_gear",
+          "progression": "prog_gear_Event7_TrapAttack_40"
+        },
+        {
+          "name": "property_FoodGeneration_gear",
+          "progression": "prog_gear_Event7.5_FoodGeneration_40"
+        },
+        {
+          "name": "property_TrapSpeed_gear",
+          "progression": "prog_gear_Event7_TrapSpeed_40"
+        }
+      ]
+    },
+    {
+      "id": "931057db94102c3c",
+      "name": "eq_events_maygearset_40_ring_lord40",
+      "stats": [
+        {
+          "name": "property_TrapDefense_gear",
+          "progression": "prog_gear_Event7_TrapDefense_40"
+        },
+        {
+          "name": "property_WorkshopTrainingCapacity_gear",
+          "progression": "prog_gear_Event7_WorkshopTrainingCapacity_40"
+        },
+        {
+          "name": "property_FoodGathering_gear",
+          "progression": "prog_gear_Event7_FoodGathering_40"
+        },
+        {
+          "name": "property_TrapAttack_gear",
+          "progression": "prog_gear_Event7_TrapAttack_40"
+        },
+        {
+          "name": "property_TrapHealth_gear",
+          "progression": "prog_gear_Event7.5_TrapHealth_40"
+        },
+        {
+          "name": "property_TroopLoad_gear",
+          "progression": "prog_gear_Event7_TroopLoad_40"
+        },
+        {
+          "name": "property_FoodGeneration_gear",
+          "progression": "prog_gear_Event7.5_FoodGeneration_40"
+        },
+        {
+          "name": "property_TrapSpeed_gear",
+          "progression": "prog_gear_Event7_TrapSpeed_40"
+        }
+      ]
+    },
+    {
+      "id": "935add7b6bf95052",
+      "name": "eq_events_maygearset_40_weapon_lord40",
+      "stats": [
+        {
+          "name": "property_TrapHealth_gear",
+          "progression": "prog_gear_Event7_TrapHealth_40"
+        },
+        {
+          "name": "property_FoodGathering_gear",
+          "progression": "prog_gear_Event7_FoodGathering_40"
+        },
+        {
+          "name": "property_FoodGeneration_gear",
+          "progression": "prog_gear_Event7_FoodGeneration_40"
+        },
+        {
+          "name": "property_TroopLoad_gear",
+          "progression": "prog_gear_Event7_TroopLoad_40"
+        },
+        {
+          "name": "property_WorkshopTrainingCapacity_gear",
+          "progression": "prog_gear_Event7.5_WorkshopTrainingCapacity_40"
+        },
+        {
+          "name": "property_TrapDefense_gear",
+          "progression": "prog_gear_Event7_TrapDefense_40"
+        },
+        {
+          "name": "property_TrapAttack_gear",
+          "progression": "prog_gear_Event7.5_TrapAttack_40"
+        },
+        {
+          "name": "property_TrapSpeed_gear",
+          "progression": "prog_gear_Event7_TrapSpeed_40"
+        }
+      ]
+    },
+    {
+      "id": "631016e94f97433a",
+      "name": "eq_events_maygearset_45_boots_lord45",
+      "stats": [
+        {
+          "name": "property_TrapAttack_gear",
+          "progression": "prog_gear_Event7_TrapAttack_45"
+        },
+        {
+          "name": "property_TrapHealth_gear",
+          "progression": "prog_gear_Event7_TrapHealth_45"
+        },
+        {
+          "name": "property_TroopLoad_gear",
+          "progression": "prog_gear_Event7_TroopLoad_45"
+        },
+        {
+          "name": "property_TrapDefense_gear",
+          "progression": "prog_gear_Event7_TrapDefense_45"
+        },
+        {
+          "name": "property_FoodGathering_gear",
+          "progression": "prog_gear_Event7.5_FoodGathering_45"
+        },
+        {
+          "name": "property_WorkshopTrainingCapacity_gear",
+          "progression": "prog_gear_Event7_WorkshopTrainingCapacity_45"
+        },
+        {
+          "name": "property_FoodGeneration_gear",
+          "progression": "prog_gear_Event7.5_FoodGeneration_45"
+        },
+        {
+          "name": "property_TrapSpeed_gear",
+          "progression": "prog_gear_Event7_TrapSpeed_45"
+        }
+      ]
+    },
+    {
+      "id": "2c5a93011813388a",
+      "name": "eq_events_maygearset_45_chest_lord45",
+      "stats": [
+        {
+          "name": "property_FoodGeneration_gear",
+          "progression": "prog_gear_Event7_FoodGeneration_45"
+        },
+        {
+          "name": "property_TrapAttack_gear",
+          "progression": "prog_gear_Event7_TrapAttack_45"
+        },
+        {
+          "name": "property_TroopLoad_gear",
+          "progression": "prog_gear_Event7_TroopLoad_45"
+        },
+        {
+          "name": "property_WorkshopTrainingCapacity_gear",
+          "progression": "prog_gear_Event7_WorkshopTrainingCapacity_45"
+        },
+        {
+          "name": "property_TrapDefense_gear",
+          "progression": "prog_gear_Event7.5_TrapDefense_45"
+        },
+        {
+          "name": "property_FoodGathering_gear",
+          "progression": "prog_gear_Event7_FoodGathering_45"
+        },
+        {
+          "name": "property_TrapHealth_gear",
+          "progression": "prog_gear_Event7.5_TrapHealth_45"
+        },
+        {
+          "name": "property_TrapSpeed_gear",
+          "progression": "prog_gear_Event7_TrapSpeed_45"
+        }
+      ]
+    },
+    {
+      "id": "1fa89c3d868f4815",
+      "name": "eq_events_maygearset_45_helmet_lord45",
+      "stats": [
+        {
+          "name": "property_TrapDefense_gear",
+          "progression": "prog_gear_Event7_TrapDefense_45"
+        },
+        {
+          "name": "property_TroopLoad_gear",
+          "progression": "prog_gear_Event7_TroopLoad_45"
+        },
+        {
+          "name": "property_WorkshopTrainingCapacity_gear",
+          "progression": "prog_gear_Event7_WorkshopTrainingCapacity_45"
+        },
+        {
+          "name": "property_TrapAttack_gear",
+          "progression": "prog_gear_Event7_TrapAttack_45"
+        },
+        {
+          "name": "property_FoodGathering_gear",
+          "progression": "prog_gear_Event7.5_FoodGathering_45"
+        },
+        {
+          "name": "property_TrapHealth_gear",
+          "progression": "prog_gear_Event7_TrapHealth_45"
+        },
+        {
+          "name": "property_FoodGeneration_gear",
+          "progression": "prog_gear_Event7.5_FoodGeneration_45"
+        },
+        {
+          "name": "property_TrapSpeed_gear",
+          "progression": "prog_gear_Event7_TrapSpeed_45"
+        }
+      ]
+    },
+    {
+      "id": "f47d841cbe653c6b",
+      "name": "eq_events_maygearset_45_pants_lord45",
+      "stats": [
+        {
+          "name": "property_WorkshopTrainingCapacity_gear",
+          "progression": "prog_gear_Event7_WorkshopTrainingCapacity_45"
+        },
+        {
+          "name": "property_TrapDefense_gear",
+          "progression": "prog_gear_Event7_TrapDefense_45"
+        },
+        {
+          "name": "property_FoodGathering_gear",
+          "progression": "prog_gear_Event7_FoodGathering_45"
+        },
+        {
+          "name": "property_TroopLoad_gear",
+          "progression": "prog_gear_Event7_TroopLoad_45"
+        },
+        {
+          "name": "property_TrapHealth_gear",
+          "progression": "prog_gear_Event7.5_TrapHealth_45"
+        },
+        {
+          "name": "property_TrapAttack_gear",
+          "progression": "prog_gear_Event7_TrapAttack_45"
+        },
+        {
+          "name": "property_FoodGeneration_gear",
+          "progression": "prog_gear_Event7.5_FoodGeneration_45"
+        },
+        {
+          "name": "property_TrapSpeed_gear",
+          "progression": "prog_gear_Event7_TrapSpeed_45"
+        }
+      ]
+    },
+    {
+      "id": "ec772af52ddc1ced",
+      "name": "eq_events_maygearset_45_ring_lord45",
+      "stats": [
+        {
+          "name": "property_TrapDefense_gear",
+          "progression": "prog_gear_Event7_TrapDefense_45"
+        },
+        {
+          "name": "property_WorkshopTrainingCapacity_gear",
+          "progression": "prog_gear_Event7_WorkshopTrainingCapacity_45"
+        },
+        {
+          "name": "property_FoodGathering_gear",
+          "progression": "prog_gear_Event7_FoodGathering_45"
+        },
+        {
+          "name": "property_TrapAttack_gear",
+          "progression": "prog_gear_Event7_TrapAttack_45"
+        },
+        {
+          "name": "property_TrapHealth_gear",
+          "progression": "prog_gear_Event7.5_TrapHealth_45"
+        },
+        {
+          "name": "property_TroopLoad_gear",
+          "progression": "prog_gear_Event7_TroopLoad_45"
+        },
+        {
+          "name": "property_FoodGeneration_gear",
+          "progression": "prog_gear_Event7.5_FoodGeneration_45"
+        },
+        {
+          "name": "property_TrapSpeed_gear",
+          "progression": "prog_gear_Event7_TrapSpeed_45"
+        }
+      ]
+    },
+    {
+      "id": "a4909ae38c3ae637",
+      "name": "eq_events_maygearset_45_weapon_lord45",
+      "stats": [
+        {
+          "name": "property_TrapHealth_gear",
+          "progression": "prog_gear_Event7_TrapHealth_45"
+        },
+        {
+          "name": "property_FoodGathering_gear",
+          "progression": "prog_gear_Event7_FoodGathering_45"
+        },
+        {
+          "name": "property_FoodGeneration_gear",
+          "progression": "prog_gear_Event7_FoodGeneration_45"
+        },
+        {
+          "name": "property_TroopLoad_gear",
+          "progression": "prog_gear_Event7_TroopLoad_45"
+        },
+        {
+          "name": "property_WorkshopTrainingCapacity_gear",
+          "progression": "prog_gear_Event7.5_WorkshopTrainingCapacity_45"
+        },
+        {
+          "name": "property_TrapDefense_gear",
+          "progression": "prog_gear_Event7_TrapDefense_45"
+        },
+        {
+          "name": "property_TrapAttack_gear",
+          "progression": "prog_gear_Event7.5_TrapAttack_45"
+        },
+        {
+          "name": "property_TrapSpeed_gear",
+          "progression": "prog_gear_Event7_TrapSpeed_45"
+        }
+      ]
+    },
+    {
+      "id": "30245c6b23ec4fcc",
+      "name": "eq_events_maygearset_50_boots_lord50",
+      "stats": [
+        {
+          "name": "property_TrapAttack_gear",
+          "progression": "prog_gear_Event7_TrapAttack_50"
+        },
+        {
+          "name": "property_TrapHealth_gear",
+          "progression": "prog_gear_Event7_TrapHealth_50"
+        },
+        {
+          "name": "property_TroopLoad_gear",
+          "progression": "prog_gear_Event7_TroopLoad_50"
+        },
+        {
+          "name": "property_TrapDefense_gear",
+          "progression": "prog_gear_Event7_TrapDefense_50"
+        },
+        {
+          "name": "property_FoodGathering_gear",
+          "progression": "prog_gear_Event7.5_FoodGathering_50"
+        },
+        {
+          "name": "property_WorkshopTrainingCapacity_gear",
+          "progression": "prog_gear_Event7_WorkshopTrainingCapacity_50"
+        },
+        {
+          "name": "property_FoodGeneration_gear",
+          "progression": "prog_gear_Event7.5_FoodGeneration_50"
+        },
+        {
+          "name": "property_TrapSpeed_gear",
+          "progression": "prog_gear_Event7_TrapSpeed_50"
+        }
+      ]
+    },
+    {
+      "id": "7f6ed9837468347c",
+      "name": "eq_events_maygearset_50_chest_lord50",
+      "stats": [
+        {
+          "name": "property_FoodGeneration_gear",
+          "progression": "prog_gear_Event7_FoodGeneration_50"
+        },
+        {
+          "name": "property_TrapAttack_gear",
+          "progression": "prog_gear_Event7_TrapAttack_50"
+        },
+        {
+          "name": "property_TroopLoad_gear",
+          "progression": "prog_gear_Event7_TroopLoad_50"
+        },
+        {
+          "name": "property_WorkshopTrainingCapacity_gear",
+          "progression": "prog_gear_Event7_WorkshopTrainingCapacity_50"
+        },
+        {
+          "name": "property_TrapDefense_gear",
+          "progression": "prog_gear_Event7.5_TrapDefense_50"
+        },
+        {
+          "name": "property_FoodGathering_gear",
+          "progression": "prog_gear_Event7_FoodGathering_50"
+        },
+        {
+          "name": "property_TrapHealth_gear",
+          "progression": "prog_gear_Event7.5_TrapHealth_50"
+        },
+        {
+          "name": "property_TrapSpeed_gear",
+          "progression": "prog_gear_Event7_TrapSpeed_50"
+        }
+      ]
+    },
+    {
+      "id": "b733a012670f265",
+      "name": "eq_events_maygearset_50_helmet_lord50",
+      "stats": [
+        {
+          "name": "property_TrapDefense_gear",
+          "progression": "prog_gear_Event7_TrapDefense_50"
+        },
+        {
+          "name": "property_TroopLoad_gear",
+          "progression": "prog_gear_Event7_TroopLoad_50"
+        },
+        {
+          "name": "property_WorkshopTrainingCapacity_gear",
+          "progression": "prog_gear_Event7_WorkshopTrainingCapacity_50"
+        },
+        {
+          "name": "property_TrapAttack_gear",
+          "progression": "prog_gear_Event7_TrapAttack_50"
+        },
+        {
+          "name": "property_FoodGathering_gear",
+          "progression": "prog_gear_Event7.5_FoodGathering_50"
+        },
+        {
+          "name": "property_TrapHealth_gear",
+          "progression": "prog_gear_Event7_TrapHealth_50"
+        },
+        {
+          "name": "property_FoodGeneration_gear",
+          "progression": "prog_gear_Event7.5_FoodGeneration_50"
+        },
+        {
+          "name": "property_TrapSpeed_gear",
+          "progression": "prog_gear_Event7_TrapSpeed_50"
+        }
+      ]
+    },
+    {
+      "id": "a749ce9ed21e309d",
+      "name": "eq_events_maygearset_50_pants_lord50",
+      "stats": [
+        {
+          "name": "property_WorkshopTrainingCapacity_gear",
+          "progression": "prog_gear_Event7_WorkshopTrainingCapacity_50"
+        },
+        {
+          "name": "property_TrapDefense_gear",
+          "progression": "prog_gear_Event7_TrapDefense_50"
+        },
+        {
+          "name": "property_FoodGathering_gear",
+          "progression": "prog_gear_Event7_FoodGathering_50"
+        },
+        {
+          "name": "property_TroopLoad_gear",
+          "progression": "prog_gear_Event7_TroopLoad_50"
+        },
+        {
+          "name": "property_TrapHealth_gear",
+          "progression": "prog_gear_Event7.5_TrapHealth_50"
+        },
+        {
+          "name": "property_TrapAttack_gear",
+          "progression": "prog_gear_Event7_TrapAttack_50"
+        },
+        {
+          "name": "property_FoodGeneration_gear",
+          "progression": "prog_gear_Event7.5_FoodGeneration_50"
+        },
+        {
+          "name": "property_TrapSpeed_gear",
+          "progression": "prog_gear_Event7_TrapSpeed_50"
+        }
+      ]
+    },
+    {
+      "id": "9275bd54dffbac05",
+      "name": "eq_events_maygearset_50_ring_lord50",
+      "stats": [
+        {
+          "name": "property_TrapDefense_gear",
+          "progression": "prog_gear_Event7_TrapDefense_50"
+        },
+        {
+          "name": "property_WorkshopTrainingCapacity_gear",
+          "progression": "prog_gear_Event7_WorkshopTrainingCapacity_50"
+        },
+        {
+          "name": "property_FoodGathering_gear",
+          "progression": "prog_gear_Event7_FoodGathering_50"
+        },
+        {
+          "name": "property_TrapAttack_gear",
+          "progression": "prog_gear_Event7_TrapAttack_50"
+        },
+        {
+          "name": "property_TrapHealth_gear",
+          "progression": "prog_gear_Event7.5_TrapHealth_50"
+        },
+        {
+          "name": "property_TroopLoad_gear",
+          "progression": "prog_gear_Event7_TroopLoad_50"
+        },
+        {
+          "name": "property_FoodGeneration_gear",
+          "progression": "prog_gear_Event7.5_FoodGeneration_50"
+        },
+        {
+          "name": "property_TrapSpeed_gear",
+          "progression": "prog_gear_Event7_TrapSpeed_50"
+        }
+      ]
+    },
+    {
+      "id": "b04b3cdf2cc55c47",
+      "name": "eq_events_maygearset_50_weapon_lord50",
+      "stats": [
+        {
+          "name": "property_TrapHealth_gear",
+          "progression": "prog_gear_Event7_TrapHealth_50"
+        },
+        {
+          "name": "property_FoodGathering_gear",
+          "progression": "prog_gear_Event7_FoodGathering_50"
+        },
+        {
+          "name": "property_FoodGeneration_gear",
+          "progression": "prog_gear_Event7_FoodGeneration_50"
+        },
+        {
+          "name": "property_TroopLoad_gear",
+          "progression": "prog_gear_Event7_TroopLoad_50"
+        },
+        {
+          "name": "property_WorkshopTrainingCapacity_gear",
+          "progression": "prog_gear_Event7.5_WorkshopTrainingCapacity_50"
+        },
+        {
+          "name": "property_TrapDefense_gear",
+          "progression": "prog_gear_Event7_TrapDefense_50"
+        },
+        {
+          "name": "property_TrapAttack_gear",
+          "progression": "prog_gear_Event7.5_TrapAttack_50"
+        },
+        {
+          "name": "property_TrapSpeed_gear",
+          "progression": "prog_gear_Event7_TrapSpeed_50"
+        }
+      ]
     }
   ]
 }

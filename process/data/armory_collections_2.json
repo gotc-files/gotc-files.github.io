@@ -384,6 +384,18 @@
       "name": "armcol_events_artofcombat",
       "name_placeholder": "EQ_EVENTS_ARTOFCOMBAT_SET_NAME",
       "priority": 18900
+    },
+    {
+      "bonuses": [
+        "armcol_events_maygearset_1",
+        "armcol_events_maygearset_2",
+        "armcol_events_maygearset_3"
+      ],
+      "gear_set_name": "gearset_events_maygearset",
+      "id": "fde59ac88ee95b56",
+      "name": "armcol_events_maygearset",
+      "name_placeholder": "EQ_EVENTS_MAYGEARSET_SET_NAME",
+      "priority": 19500
     }
   ]
 }

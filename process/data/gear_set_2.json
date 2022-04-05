@@ -861,6 +861,33 @@
       "ring_name": "prog_gearset_events_artofcombat_ring",
       "weapon_id": "e2561c35a613d20a",
       "weapon_name": "prog_gearset_events_artofcombat_weapon"
+    },
+    {
+      "boots_id": "59e36730ef1b09fa",
+      "boots_name": "prog_gearset_events_maygearset_boots",
+      "chest_id": "6598db9adb8438c2",
+      "chest_name": "prog_gearset_events_maygearset_chest",
+      "color": {
+        "alpha": 255,
+        "blue": 3,
+        "green": 186,
+        "red": 252
+      },
+      "description_placeholder": "EQ_EVENTS_MAYGEARSET_SET_DESCRIPTION",
+      "helmet_id": "f8b5b18cb95db69d",
+      "helmet_name": "prog_gearset_events_maygearset_helmet",
+      "id": "1ea8a770707a09c2",
+      "material_id": "dfd2c2052916d62c",
+      "material_name": "mat_internaltesting_1",
+      "name": "gearset_events_maygearset",
+      "name_placeholder": "EQ_EVENTS_MAYGEARSET_SET_NAME",
+      "pants_id": "e0d00d923d5ca8b3",
+      "pants_name": "prog_gearset_events_maygearset_pants",
+      "priority": 19500,
+      "ring_id": "c0c4f8e8844c8720",
+      "ring_name": "prog_gearset_events_maygearset_ring",
+      "weapon_id": "8ae07735d09f004e",
+      "weapon_name": "prog_gearset_events_maygearset_weapon"
     }
   ]
 }
