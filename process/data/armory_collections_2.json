@@ -396,6 +396,18 @@
       "name": "armcol_events_maygearset",
       "name_placeholder": "EQ_EVENTS_MAYGEARSET_SET_NAME",
       "priority": 19500
+    },
+    {
+      "bonuses": [
+        "armcol_events_deadwalk_1",
+        "armcol_events_deadwalk_2",
+        "armcol_events_deadwalk_3"
+      ],
+      "gear_set_name": "gearset_events_deadwalk",
+      "id": "d731bd3baef2d9c5",
+      "name": "armcol_events_deadwalk",
+      "name_placeholder": "EQ_EVENTS_DEADWALK_SET_NAME",
+      "priority": 20100
     }
   ]
 }

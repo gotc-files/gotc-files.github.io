@@ -594,6 +594,24 @@
       "name": "armcol_events_maygearset_3",
       "progression": "prog_armory_bonus_GeneralTroop_1",
       "property": "property_DragonBreathDamage_armory"
+    },
+    {
+      "id": "732d3a06727e61ca",
+      "name": "armcol_events_deadwalk_1",
+      "progression": "prog_armory_bonus_GeneralTroop_1",
+      "property": "property_DragonTroopAttackVsPlayer_armory"
+    },
+    {
+      "id": "63f66edab8b93c4",
+      "name": "armcol_events_deadwalk_2",
+      "progression": "prog_armory_bonus_GeneralTroop_1",
+      "property": "property_TroopDefenseVsPlayer_armory"
+    },
+    {
+      "id": "2acead4b1cd8c23e",
+      "name": "armcol_events_deadwalk_3",
+      "progression": "prog_armory_bonus_MarchSize_1",
+      "property": "property_DragonMaxMarchSize_armory"
     }
   ]
 }

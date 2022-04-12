@@ -888,6 +888,33 @@
       "ring_name": "prog_gearset_events_maygearset_ring",
       "weapon_id": "8ae07735d09f004e",
       "weapon_name": "prog_gearset_events_maygearset_weapon"
+    },
+    {
+      "boots_id": "e9c6544e75553ba6",
+      "boots_name": "prog_gearset_events_deadwalk_boots",
+      "chest_id": "d5bde8e441ca0a9e",
+      "chest_name": "prog_gearset_events_deadwalk_chest",
+      "color": {
+        "alpha": 255,
+        "blue": 88,
+        "green": 118,
+        "red": 66
+      },
+      "description_placeholder": "EQ_EVENTS_DEADWALK_SET_DESCRIPTION",
+      "helmet_id": "47d76836b0c7c53e",
+      "helmet_name": "prog_gearset_events_deadwalk_helmet",
+      "id": "47587b752ee4f6a",
+      "material_id": "4ac4e3ffb60bf924",
+      "material_name": "mat_event_deadwalk_1",
+      "name": "gearset_events_deadwalk",
+      "name_placeholder": "EQ_EVENTS_DEADWALK_SET_NAME",
+      "pants_id": "50f53eeca7129aef",
+      "pants_name": "prog_gearset_events_deadwalk_pants",
+      "priority": 20100,
+      "ring_id": "27ad98451467ad72",
+      "ring_name": "prog_gearset_events_deadwalk_ring",
+      "weapon_id": "3582ae8fd90573ed",
+      "weapon_name": "prog_gearset_events_deadwalk_weapon"
     }
   ]
 }

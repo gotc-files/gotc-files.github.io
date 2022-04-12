@@ -31,6 +31,6 @@ class PageProcessor:
 
     def iterate_file(self, file_id):
         if file_id not in self.file_values_dict:
-            raise KeyError('File id %s invalid')
+            raise KeyError('File id %s invalid' % file_id)
         for value in self.file_values_dict[file_id]:
             yield value
