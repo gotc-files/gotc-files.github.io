@@ -61,11 +61,13 @@ function HeroCard(props) {
           handleChoiceChange={setHeroLevel}
         />
         <StatsTable
-          stats={props.hero.skills.map((skill) => ({
-            name: `(${skill.type.charAt(0)}) ${skill.name}`,
-            description: skill.description,
-            value: heroSkillValue(skill, heroLevel - 1),
-          }))}
+          stats={props.hero.skills
+            .filter((skill) => heroLevel >= (skill.unlock_level || 0))
+            .map((skill) => ({
+              name: `(${skill.type.charAt(0)}) ${skill.name}`,
+              description: skill.description,
+              value: heroSkillValue(skill, heroLevel - 1),
+            }))}
         />
       </CardContent>
     </Card>
