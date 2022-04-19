@@ -20,7 +20,7 @@ class PageProcessor:
     def lookup_files(self, file_ids, key):
         for file_id in file_ids:
             if file_id not in self.file_lookup_dict:
-                raise KeyError('File id %s invalid' & file_id)
+                raise KeyError('File id %s invalid' % file_id)
             if key in self.file_lookup_dict[file_id]:
                 return self.file_lookup_dict[file_id][key]
         return None
