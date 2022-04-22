@@ -322,6 +322,24 @@
         "prog_gearset_trinketarmory_whent_slot2",
         "prog_gearset_trinketarmory_whent_slot3"
       ]
+    },
+    {
+      "color": {
+        "alpha": 255,
+        "blue": 114,
+        "green": 101,
+        "red": 26
+      },
+      "description_placeholder": "EQ_TRINKETARMORY_NIGHTSWATCHARTIFACTS_1_SET_DESCRIPTION",
+      "id": "7df0b2f1c6eb8850",
+      "name": "gearset_trinketarmory_nightswatchartifacts_1",
+      "name_placeholder": "EQ_TRINKETARMORY_NIGHTSWATCHARTIFACTS_1_SET_NAME",
+      "priority": 219,
+      "trinket_names": [
+        "prog_gearset_trinketarmory_nightswatchartifacts_slot1",
+        "prog_gearset_trinketarmory_nightswatchartifacts_slot2",
+        "prog_gearset_trinketarmory_nightswatchartifacts_slot3"
+      ]
     }
   ]
 }

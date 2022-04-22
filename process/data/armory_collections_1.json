@@ -450,6 +450,19 @@
       "name": "armcol_trinket_whent_1",
       "name_placeholder": "EQ_TRINKET_WHENT_1_SET_NAME",
       "priority": 18
+    },
+    {
+      "bonuses": [
+        "armcol_trinket_nightswatchartifacts_1_1",
+        "armcol_trinket_nightswatchartifacts_1_2",
+        "armcol_trinket_nightswatchartifacts_1_3",
+        "armcol_trinket_nightswatchartifacts_1_4"
+      ],
+      "gear_set_name": "gearset_trinketarmory_nightswatchartifacts_1",
+      "id": "9ed4de5f2d594a0f",
+      "name": "armcol_trinket_nightswatchartifacts_1",
+      "name_placeholder": "EQ_TRINKET_NIGHTSWATCHARTIFACTS_1_SET_NAME",
+      "priority": 19
     }
   ]
 }

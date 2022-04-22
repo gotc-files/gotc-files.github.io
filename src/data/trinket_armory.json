@@ -39652,5 +39652,1296 @@
         ]
       }
     ]
+  },
+  {
+    "bonuses": [
+      {
+        "description": "Troop Attack vs. Seat of Power bonus when your dragon is present.",
+        "name": "Dragon: Troop Attack at a Seat of Power",
+        "progression": [
+          0.0,
+          0.0001,
+          0.0003,
+          0.0005,
+          0.0007,
+          0.0009,
+          0.0011,
+          0.0014,
+          0.0018,
+          0.0021,
+          0.0024,
+          0.0027,
+          0.0031,
+          0.0034,
+          0.0037,
+          0.004,
+          0.0043,
+          0.0046,
+          0.0049,
+          0.0052,
+          0.0055,
+          0.0058,
+          0.0061,
+          0.0064,
+          0.0068,
+          0.0072,
+          0.0077,
+          0.0082,
+          0.0086,
+          0.0091,
+          0.0096,
+          0.01,
+          0.0105,
+          0.011,
+          0.0115,
+          0.0119,
+          0.0121,
+          0.0123,
+          0.0125,
+          0.0127,
+          0.0129,
+          0.0144,
+          0.0147,
+          0.015,
+          0.0153,
+          0.0156,
+          0.0159,
+          0.0163,
+          0.0166,
+          0.0169,
+          0.0174,
+          0.0179,
+          0.0184,
+          0.0189,
+          0.0194,
+          0.0199,
+          0.0204,
+          0.0209,
+          0.0215,
+          0.022,
+          0.0225,
+          0.0231,
+          0.0236,
+          0.0241,
+          0.0247,
+          0.0254,
+          0.0256,
+          0.026,
+          0.027,
+          0.0285,
+          0.0293,
+          0.0303,
+          0.0313,
+          0.0323,
+          0.0334,
+          0.0344,
+          0.0354,
+          0.0365,
+          0.0375,
+          0.0386,
+          0.0396,
+          0.0407,
+          0.0417,
+          0.0428,
+          0.0438,
+          0.0449,
+          0.0459,
+          0.047,
+          0.048,
+          0.0491,
+          0.0501,
+          0.0512,
+          0.0522,
+          0.0543,
+          0.0605,
+          0.0618,
+          0.0623,
+          0.066,
+          0.0672,
+          0.0714,
+          0.0885,
+          0.0935,
+          0.0976,
+          0.0995,
+          0.1211,
+          0.1217,
+          0.1222,
+          0.1228,
+          0.1233,
+          0.1238,
+          0.1244,
+          0.1249,
+          0.1255,
+          0.126,
+          0.1265,
+          0.1271,
+          0.1276,
+          0.1282,
+          0.1287,
+          0.1292,
+          0.1298,
+          0.1303,
+          0.1309,
+          0.1314,
+          0.1319,
+          0.1325,
+          0.133,
+          0.1336,
+          0.1341,
+          0.1346,
+          0.1352,
+          0.1357,
+          0.1363,
+          0.1368,
+          0.1374,
+          0.1379,
+          0.1384,
+          0.139,
+          0.1395,
+          0.1401,
+          0.1406,
+          0.1428,
+          0.1449,
+          0.1471,
+          0.1492,
+          0.1514,
+          0.1536,
+          0.1557,
+          0.1579,
+          0.1601
+        ]
+      },
+      {
+        "description": "How much faster your troops march to a Seat of Power.",
+        "name": "March Speed vs. Seats of Power",
+        "progression": [
+          0.0,
+          0.0002,
+          0.0007,
+          0.00122,
+          0.00174,
+          0.00226,
+          0.0028,
+          0.0035,
+          0.0045,
+          0.0053,
+          0.006,
+          0.0068,
+          0.0078,
+          0.0085,
+          0.0093,
+          0.01,
+          0.0108,
+          0.0115,
+          0.0123,
+          0.013,
+          0.0138,
+          0.0145,
+          0.0153,
+          0.016,
+          0.017,
+          0.018,
+          0.0193,
+          0.0206,
+          0.0216,
+          0.0228,
+          0.0241,
+          0.0251,
+          0.0263,
+          0.0276,
+          0.0288,
+          0.0298,
+          0.0303,
+          0.0308,
+          0.0313,
+          0.0318,
+          0.0323,
+          0.0361,
+          0.0368,
+          0.0376,
+          0.0384,
+          0.0391,
+          0.0399,
+          0.0409,
+          0.0416,
+          0.0424,
+          0.0436,
+          0.0449,
+          0.0461,
+          0.0474,
+          0.0486,
+          0.0499,
+          0.0511,
+          0.0524,
+          0.0539,
+          0.0551,
+          0.0564,
+          0.0579,
+          0.0592,
+          0.0604,
+          0.0619,
+          0.0637,
+          0.0642,
+          0.0652,
+          0.0677,
+          0.0714,
+          0.0734,
+          0.076,
+          0.0785,
+          0.081,
+          0.0837,
+          0.0862,
+          0.0887,
+          0.0915,
+          0.094,
+          0.0968,
+          0.0993,
+          0.102,
+          0.1045,
+          0.1073,
+          0.1098,
+          0.1125,
+          0.1151,
+          0.1178,
+          0.1203,
+          0.1231,
+          0.1256,
+          0.1283,
+          0.1308,
+          0.1361,
+          0.1517,
+          0.1549,
+          0.1562,
+          0.1654,
+          0.1684,
+          0.179,
+          0.2218,
+          0.2344,
+          0.2447,
+          0.2494,
+          0.3036,
+          0.3051,
+          0.3063,
+          0.3078,
+          0.3091,
+          0.3103,
+          0.3118,
+          0.3131,
+          0.3146,
+          0.3158,
+          0.3171,
+          0.3186,
+          0.3199,
+          0.3214,
+          0.3226,
+          0.3239,
+          0.3254,
+          0.3266,
+          0.3281,
+          0.3294,
+          0.3306,
+          0.3321,
+          0.3334,
+          0.3349,
+          0.3361,
+          0.3374,
+          0.3389,
+          0.3402,
+          0.3417,
+          0.3429,
+          0.3444,
+          0.3457,
+          0.3469,
+          0.3484,
+          0.3497,
+          0.3512,
+          0.3524,
+          0.358,
+          0.3632,
+          0.3687,
+          0.374,
+          0.3795,
+          0.385,
+          0.3903,
+          0.3958,
+          0.4013
+        ]
+      },
+      {
+        "description": "Siege Attack in Player-to-Player combat.",
+        "name": "Siege Attack vs. Player's Troops",
+        "progression": [
+          0.0,
+          0.0002,
+          0.0006,
+          0.00102,
+          0.00144,
+          0.00186,
+          0.0023,
+          0.0028,
+          0.0036,
+          0.0042,
+          0.0048,
+          0.0054,
+          0.0062,
+          0.0068,
+          0.0074,
+          0.008,
+          0.0086,
+          0.0092,
+          0.0098,
+          0.0104,
+          0.011,
+          0.0116,
+          0.0122,
+          0.0128,
+          0.0136,
+          0.0144,
+          0.0154,
+          0.0164,
+          0.0172,
+          0.0182,
+          0.0192,
+          0.02,
+          0.021,
+          0.022,
+          0.023,
+          0.0238,
+          0.0242,
+          0.0246,
+          0.025,
+          0.0254,
+          0.0258,
+          0.0288,
+          0.0294,
+          0.03,
+          0.0306,
+          0.0312,
+          0.0318,
+          0.0326,
+          0.0332,
+          0.0338,
+          0.0348,
+          0.0358,
+          0.0368,
+          0.0378,
+          0.0388,
+          0.0398,
+          0.0408,
+          0.0418,
+          0.043,
+          0.044,
+          0.045,
+          0.0462,
+          0.0472,
+          0.0482,
+          0.0494,
+          0.0508,
+          0.0512,
+          0.052,
+          0.054,
+          0.057,
+          0.0586,
+          0.0606,
+          0.0626,
+          0.0646,
+          0.0668,
+          0.0688,
+          0.0708,
+          0.073,
+          0.075,
+          0.0772,
+          0.0792,
+          0.0814,
+          0.0834,
+          0.0856,
+          0.0876,
+          0.0898,
+          0.0918,
+          0.094,
+          0.096,
+          0.0982,
+          0.1002,
+          0.1024,
+          0.1044,
+          0.1086,
+          0.121,
+          0.1236,
+          0.1246,
+          0.132,
+          0.1344,
+          0.1428,
+          0.177,
+          0.187,
+          0.1952,
+          0.199,
+          0.2422,
+          0.2434,
+          0.2444,
+          0.2456,
+          0.2466,
+          0.2476,
+          0.2488,
+          0.2498,
+          0.251,
+          0.252,
+          0.253,
+          0.2542,
+          0.2552,
+          0.2564,
+          0.2574,
+          0.2584,
+          0.2596,
+          0.2606,
+          0.2618,
+          0.2628,
+          0.2638,
+          0.265,
+          0.266,
+          0.2672,
+          0.2682,
+          0.2692,
+          0.2704,
+          0.2714,
+          0.2726,
+          0.2736,
+          0.2748,
+          0.2758,
+          0.2768,
+          0.278,
+          0.279,
+          0.2802,
+          0.2812,
+          0.2856,
+          0.2898,
+          0.2942,
+          0.2984,
+          0.3028,
+          0.3072,
+          0.3114,
+          0.3158,
+          0.3202
+        ]
+      },
+      {
+        "description": "The number of troops that can participate in the Rallies you start.",
+        "name": "Rallied Troops vs. Seats of Power",
+        "progression": [
+          0,
+          5,
+          10,
+          15,
+          20,
+          25,
+          30,
+          40,
+          45,
+          55,
+          65,
+          70,
+          80,
+          90,
+          100,
+          105,
+          115,
+          120,
+          130,
+          140,
+          145,
+          155,
+          165,
+          170,
+          180,
+          190,
+          205,
+          215,
+          230,
+          240,
+          255,
+          265,
+          280,
+          290,
+          305,
+          315,
+          320,
+          325,
+          335,
+          340,
+          345,
+          380,
+          390,
+          400,
+          405,
+          415,
+          425,
+          430,
+          440,
+          450,
+          460,
+          475,
+          490,
+          500,
+          515,
+          530,
+          540,
+          555,
+          570,
+          585,
+          600,
+          615,
+          625,
+          640,
+          655,
+          675,
+          680,
+          690,
+          715,
+          755,
+          775,
+          805,
+          830,
+          860,
+          885,
+          915,
+          940,
+          970,
+          995,
+          1025,
+          1050,
+          1080,
+          1105,
+          1135,
+          1165,
+          1190,
+          1220,
+          1245,
+          1275,
+          1300,
+          1330,
+          1360,
+          1385,
+          1440,
+          1605,
+          1640,
+          1655,
+          1750,
+          1785,
+          1895,
+          2350,
+          2485,
+          2590,
+          2640,
+          3215,
+          3230,
+          3245,
+          3260,
+          3275,
+          3290,
+          3300,
+          3315,
+          3330,
+          3345,
+          3360,
+          3375,
+          3390,
+          3405,
+          3415,
+          3430,
+          3445,
+          3460,
+          3475,
+          3490,
+          3505,
+          3520,
+          3530,
+          3545,
+          3560,
+          3575,
+          3590,
+          3605,
+          3620,
+          3630,
+          3645,
+          3660,
+          3675,
+          3690,
+          3705,
+          3720,
+          3735,
+          3790,
+          3865,
+          3920,
+          3980,
+          4035,
+          4095,
+          4155,
+          4210,
+          4270
+        ]
+      }
+    ],
+    "color": "#1a6572",
+    "id": "7df0b2f1c6eb8850",
+    "name": "EQ_TRINKET_NIGHTSWATCHARTIFACTS_1_SET_NAME (Not Translated)",
+    "trinkets": [
+      {
+        "gear_with_level": [
+          {
+            "level": 1,
+            "name": "EQ_EVENTS_TRINKET_DEADWALK_1_TRINKET_LORD1_NAME (Not Translated)",
+            "stats": [
+              {
+                "description": "The maximum number of troops that can be in a single march.",
+                "name": "March Size",
+                "progression": [
+                  142.0,
+                  153.0,
+                  163.0,
+                  173.0,
+                  183.0,
+                  204.0
+                ]
+              },
+              {
+                "description": "Dragon: Troop Attack vs. a Player while in combat with another player",
+                "name": "Dragon: Troop Attack vs. Player",
+                "progression": [
+                  0.0214200000000001,
+                  0.0229500000000001,
+                  0.0244800000000001,
+                  0.0260100000000001,
+                  0.0275400000000001,
+                  0.0306000000000001
+                ]
+              },
+              {
+                "description": "Troop attack bonus towards attacking Seats of Power.",
+                "name": "Attack at a Seat Of Power",
+                "progression": [
+                  0.0285600000000001,
+                  0.0306000000000001,
+                  0.0326400000000001,
+                  0.0346800000000001,
+                  0.0367200000000001,
+                  0.0408000000000001
+                ]
+              },
+              {
+                "description": "Max March Size bonus when your dragon is present.",
+                "name": "Dragon: Max March Size",
+                "progression": [
+                  142.0,
+                  153.0,
+                  163.0,
+                  173.0,
+                  183.0,
+                  204.0
+                ]
+              }
+            ]
+          },
+          {
+            "level": 5,
+            "name": "EQ_EVENTS_TRINKET_DEADWALK_5_TRINKET_LORD5_NAME (Not Translated)",
+            "stats": [
+              {
+                "description": "The maximum number of troops that can be in a single march.",
+                "name": "March Size",
+                "progression": [
+                  271.0,
+                  290.0,
+                  310.0,
+                  329.0,
+                  348.0,
+                  387.0
+                ]
+              },
+              {
+                "description": "Dragon: Troop Attack vs. a Player while in combat with another player",
+                "name": "Dragon: Troop Attack vs. Player",
+                "progression": [
+                  0.040698,
+                  0.0436050000000001,
+                  0.0465120000000001,
+                  0.0494190000000001,
+                  0.0523260000000001,
+                  0.0581400000000001
+                ]
+              },
+              {
+                "description": "Troop attack bonus towards attacking Seats of Power.",
+                "name": "Attack at a Seat Of Power",
+                "progression": [
+                  0.0542640000000001,
+                  0.0581400000000001,
+                  0.0620160000000001,
+                  0.0658920000000001,
+                  0.0697680000000001,
+                  0.0775200000000001
+                ]
+              },
+              {
+                "description": "Max March Size bonus when your dragon is present.",
+                "name": "Dragon: Max March Size",
+                "progression": [
+                  271.0,
+                  290.0,
+                  310.0,
+                  329.0,
+                  348.0,
+                  387.0
+                ]
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "name": "EQ_EVENTS_TRINKET_DEADWALK_10_TRINKET_LORD10_NAME (Not Translated)",
+            "stats": [
+              {
+                "description": "The maximum number of troops that can be in a single march.",
+                "name": "March Size",
+                "progression": [
+                  399.0,
+                  428.0,
+                  456.0,
+                  485.0,
+                  514.0,
+                  571.0
+                ]
+              },
+              {
+                "description": "Dragon: Troop Attack vs. a Player while in combat with another player",
+                "name": "Dragon: Troop Attack vs. Player",
+                "progression": [
+                  0.059976,
+                  0.0642600000000001,
+                  0.0685440000000001,
+                  0.0728280000000001,
+                  0.0771120000000001,
+                  0.0856800000000001
+                ]
+              },
+              {
+                "description": "Troop attack bonus towards attacking Seats of Power.",
+                "name": "Attack at a Seat Of Power",
+                "progression": [
+                  0.0799680000000001,
+                  0.0856800000000001,
+                  0.0913920000000001,
+                  0.0971040000000001,
+                  0.102816,
+                  0.11424
+                ]
+              },
+              {
+                "description": "Max March Size bonus when your dragon is present.",
+                "name": "Dragon: Max March Size",
+                "progression": [
+                  399.0,
+                  428.0,
+                  456.0,
+                  485.0,
+                  514.0,
+                  571.0
+                ]
+              }
+            ]
+          },
+          {
+            "level": 15,
+            "name": "EQ_EVENTS_TRINKET_DEADWALK_15_TRINKET_LORD15_NAME (Not Translated)",
+            "stats": [
+              {
+                "description": "The maximum number of troops that can be in a single march.",
+                "name": "March Size",
+                "progression": [
+                  528.0,
+                  566.0,
+                  603.0,
+                  641.0,
+                  679.0,
+                  754.0
+                ]
+              },
+              {
+                "description": "Dragon: Troop Attack vs. a Player while in combat with another player",
+                "name": "Dragon: Troop Attack vs. Player",
+                "progression": [
+                  0.079254,
+                  0.0849150000000001,
+                  0.0905760000000001,
+                  0.0962370000000001,
+                  0.101898,
+                  0.11322
+                ]
+              },
+              {
+                "description": "Troop attack bonus towards attacking Seats of Power.",
+                "name": "Attack at a Seat Of Power",
+                "progression": [
+                  0.105672,
+                  0.11322,
+                  0.120768,
+                  0.128316,
+                  0.135864,
+                  0.15096
+                ]
+              },
+              {
+                "description": "Max March Size bonus when your dragon is present.",
+                "name": "Dragon: Max March Size",
+                "progression": [
+                  528.0,
+                  566.0,
+                  603.0,
+                  641.0,
+                  679.0,
+                  754.0
+                ]
+              }
+            ]
+          },
+          {
+            "level": 20,
+            "name": "EQ_EVENTS_TRINKET_DEADWALK_20_TRINKET_LORD20_NAME (Not Translated)",
+            "stats": [
+              {
+                "description": "The maximum number of troops that can be in a single march.",
+                "name": "March Size",
+                "progression": [
+                  656.0,
+                  703.0,
+                  750.0,
+                  797.0,
+                  844.0,
+                  938.0
+                ]
+              },
+              {
+                "description": "Dragon: Troop Attack vs. a Player while in combat with another player",
+                "name": "Dragon: Troop Attack vs. Player",
+                "progression": [
+                  0.098532,
+                  0.10557,
+                  0.112608,
+                  0.119646,
+                  0.126684,
+                  0.14076
+                ]
+              },
+              {
+                "description": "Troop attack bonus towards attacking Seats of Power.",
+                "name": "Attack at a Seat Of Power",
+                "progression": [
+                  0.131376,
+                  0.14076,
+                  0.150144,
+                  0.159528,
+                  0.168912,
+                  0.18768
+                ]
+              },
+              {
+                "description": "Max March Size bonus when your dragon is present.",
+                "name": "Dragon: Max March Size",
+                "progression": [
+                  656.0,
+                  703.0,
+                  750.0,
+                  797.0,
+                  844.0,
+                  938.0
+                ]
+              }
+            ]
+          },
+          {
+            "level": 25,
+            "name": "EQ_EVENTS_TRINKET_DEADWALK_25_TRINKET_LORD25_NAME (Not Translated)",
+            "stats": [
+              {
+                "description": "The maximum number of troops that can be in a single march.",
+                "name": "March Size",
+                "progression": [
+                  785.0,
+                  841.0,
+                  897.0,
+                  953.0,
+                  1009.0,
+                  1122.0
+                ]
+              },
+              {
+                "description": "Dragon: Troop Attack vs. a Player while in combat with another player",
+                "name": "Dragon: Troop Attack vs. Player",
+                "progression": [
+                  0.11781,
+                  0.126225,
+                  0.13464,
+                  0.143055,
+                  0.15147,
+                  0.1683
+                ]
+              },
+              {
+                "description": "Troop attack bonus towards attacking Seats of Power.",
+                "name": "Attack at a Seat Of Power",
+                "progression": [
+                  0.15708,
+                  0.1683,
+                  0.17952,
+                  0.19074,
+                  0.20196,
+                  0.2244
+                ]
+              },
+              {
+                "description": "Max March Size bonus when your dragon is present.",
+                "name": "Dragon: Max March Size",
+                "progression": [
+                  785.0,
+                  841.0,
+                  897.0,
+                  953.0,
+                  1009.0,
+                  1122.0
+                ]
+              }
+            ]
+          },
+          {
+            "level": 30,
+            "name": "EQ_EVENTS_TRINKET_DEADWALK_30_TRINKET_LORD30_NAME (Not Translated)",
+            "stats": [
+              {
+                "description": "The maximum number of troops that can be in a single march.",
+                "name": "March Size",
+                "progression": [
+                  913.0,
+                  979.0,
+                  1044.0,
+                  1109.0,
+                  1175.0,
+                  1305.0
+                ]
+              },
+              {
+                "description": "Dragon: Troop Attack vs. a Player while in combat with another player",
+                "name": "Dragon: Troop Attack vs. Player",
+                "progression": [
+                  0.137088,
+                  0.14688,
+                  0.156672,
+                  0.166464,
+                  0.176256,
+                  0.19584
+                ]
+              },
+              {
+                "description": "Troop attack bonus towards attacking Seats of Power.",
+                "name": "Attack at a Seat Of Power",
+                "progression": [
+                  0.182784,
+                  0.19584,
+                  0.208896,
+                  0.221952,
+                  0.235008,
+                  0.26112
+                ]
+              },
+              {
+                "description": "Max March Size bonus when your dragon is present.",
+                "name": "Dragon: Max March Size",
+                "progression": [
+                  913.0,
+                  979.0,
+                  1044.0,
+                  1109.0,
+                  1175.0,
+                  1305.0
+                ]
+              },
+              {
+                "description": "Dragon: Troop Health vs. a Player while in combat with another player",
+                "name": "Dragon: Troop Health vs. Player",
+                "progression": [
+                  0.068544,
+                  0.07344,
+                  0.078336,
+                  0.083232,
+                  0.088128,
+                  0.09792
+                ]
+              }
+            ]
+          },
+          {
+            "level": 35,
+            "name": "EQ_EVENTS_TRINKET_DEADWALK_35_TRINKET_LORD35_NAME (Not Translated)",
+            "stats": [
+              {
+                "description": "The maximum number of troops that can be in a single march.",
+                "name": "March Size",
+                "progression": [
+                  1042.0,
+                  1116.0,
+                  1191.0,
+                  1265.0,
+                  1340.0,
+                  1489.0
+                ]
+              },
+              {
+                "description": "Dragon: Troop Attack vs. a Player while in combat with another player",
+                "name": "Dragon: Troop Attack vs. Player",
+                "progression": [
+                  0.156366,
+                  0.167535,
+                  0.178704,
+                  0.189873,
+                  0.201042,
+                  0.22338
+                ]
+              },
+              {
+                "description": "Troop attack bonus towards attacking Seats of Power.",
+                "name": "Attack at a Seat Of Power",
+                "progression": [
+                  0.208488,
+                  0.22338,
+                  0.238272,
+                  0.253164,
+                  0.268056,
+                  0.29784
+                ]
+              },
+              {
+                "description": "Max March Size bonus when your dragon is present.",
+                "name": "Dragon: Max March Size",
+                "progression": [
+                  1042.0,
+                  1116.0,
+                  1191.0,
+                  1265.0,
+                  1340.0,
+                  1489.0
+                ]
+              },
+              {
+                "description": "Dragon: Troop Health vs. a Player while in combat with another player",
+                "name": "Dragon: Troop Health vs. Player",
+                "progression": [
+                  0.078183,
+                  0.0837675,
+                  0.089352,
+                  0.0949365,
+                  0.100521,
+                  0.11169
+                ]
+              }
+            ]
+          },
+          {
+            "level": 40,
+            "name": "EQ_EVENTS_TRINKET_DEADWALK_40_TRINKET_LORD40_NAME (Not Translated)",
+            "stats": [
+              {
+                "description": "The maximum number of troops that can be in a single march.",
+                "name": "March Size",
+                "progression": [
+                  1170.0,
+                  1254.0,
+                  1338.0,
+                  1421.0,
+                  1505.0,
+                  1672.0
+                ]
+              },
+              {
+                "description": "Dragon: Troop Attack vs. a Player while in combat with another player",
+                "name": "Dragon: Troop Attack vs. Player",
+                "progression": [
+                  0.175644,
+                  0.18819,
+                  0.200736,
+                  0.213282,
+                  0.225828,
+                  0.25092
+                ]
+              },
+              {
+                "description": "Troop attack bonus towards attacking Seats of Power.",
+                "name": "Attack at a Seat Of Power",
+                "progression": [
+                  0.234192,
+                  0.25092,
+                  0.267648,
+                  0.284376,
+                  0.301104,
+                  0.33456
+                ]
+              },
+              {
+                "description": "Max March Size bonus when your dragon is present.",
+                "name": "Dragon: Max March Size",
+                "progression": [
+                  1170.0,
+                  1254.0,
+                  1338.0,
+                  1421.0,
+                  1505.0,
+                  1672.0
+                ]
+              },
+              {
+                "description": "Dragon: Troop Health vs. a Player while in combat with another player",
+                "name": "Dragon: Troop Health vs. Player",
+                "progression": [
+                  0.087822,
+                  0.094095,
+                  0.100368,
+                  0.106641,
+                  0.112914,
+                  0.12546
+                ]
+              }
+            ]
+          },
+          {
+            "level": 45,
+            "name": "EQ_EVENTS_TRINKET_DEADWALK_45_TRINKET_LORD45_NAME (Not Translated)",
+            "stats": [
+              {
+                "description": "The maximum number of troops that can be in a single march.",
+                "name": "March Size",
+                "progression": [
+                  1299.0,
+                  1392.0,
+                  1485.0,
+                  1577.0,
+                  1670.0,
+                  1856.0
+                ]
+              },
+              {
+                "description": "Dragon: Troop Attack vs. a Player while in combat with another player",
+                "name": "Dragon: Troop Attack vs. Player",
+                "progression": [
+                  0.194922,
+                  0.208845,
+                  0.222768,
+                  0.236691,
+                  0.250614,
+                  0.27846
+                ]
+              },
+              {
+                "description": "Troop attack bonus towards attacking Seats of Power.",
+                "name": "Attack at a Seat Of Power",
+                "progression": [
+                  0.259896,
+                  0.27846,
+                  0.297024,
+                  0.315588,
+                  0.334152,
+                  0.37128
+                ]
+              },
+              {
+                "description": "Max March Size bonus when your dragon is present.",
+                "name": "Dragon: Max March Size",
+                "progression": [
+                  1299.0,
+                  1392.0,
+                  1485.0,
+                  1577.0,
+                  1670.0,
+                  1856.0
+                ]
+              },
+              {
+                "description": "Dragon: Troop Health vs. a Player while in combat with another player",
+                "name": "Dragon: Troop Health vs. Player",
+                "progression": [
+                  0.097461,
+                  0.1044225,
+                  0.111384,
+                  0.1183455,
+                  0.125307,
+                  0.13923
+                ]
+              }
+            ]
+          },
+          {
+            "level": 50,
+            "name": "EQ_EVENTS_TRINKET_DEADWALK_50_TRINKET_LORD50_NAME (Not Translated)",
+            "stats": [
+              {
+                "description": "The maximum number of troops that can be in a single march.",
+                "name": "March Size",
+                "progression": [
+                  1428.0,
+                  1530.0,
+                  1632.0,
+                  1734.0,
+                  1836.0,
+                  2040.0
+                ]
+              },
+              {
+                "description": "Dragon: Troop Attack vs. a Player while in combat with another player",
+                "name": "Dragon: Troop Attack vs. Player",
+                "progression": [
+                  0.2142,
+                  0.2295,
+                  0.2448,
+                  0.2601,
+                  0.2754,
+                  0.306
+                ]
+              },
+              {
+                "description": "Troop attack bonus towards attacking Seats of Power.",
+                "name": "Attack at a Seat Of Power",
+                "progression": [
+                  0.2856,
+                  0.306,
+                  0.3264,
+                  0.3468,
+                  0.3672,
+                  0.408
+                ]
+              },
+              {
+                "description": "Max March Size bonus when your dragon is present.",
+                "name": "Dragon: Max March Size",
+                "progression": [
+                  1428.0,
+                  1530.0,
+                  1632.0,
+                  1734.0,
+                  1836.0,
+                  2040.0
+                ]
+              },
+              {
+                "description": "Dragon: Troop Health vs. a Player while in combat with another player",
+                "name": "Dragon: Troop Health vs. Player",
+                "progression": [
+                  0.1071,
+                  0.11475,
+                  0.1224,
+                  0.13005,
+                  0.1377,
+                  0.153
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]

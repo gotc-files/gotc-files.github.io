@@ -756,6 +756,30 @@
       "name": "armcol_trinket_whent_1_4",
       "progression": "prog_trinketarmory_bonus_RallySize_1",
       "property": "property_RalliedTroopCapacityVsSeatOfPower_armory"
+    },
+    {
+      "id": "70f47e7f6b46444f",
+      "name": "armcol_trinket_nightswatchartifacts_1_1",
+      "progression": "prog_trinketarmory_bonus_GeneralTroop_1",
+      "property": "property_DragonTroopAttackVsSeatOfPower_armory"
+    },
+    {
+      "id": "5e62294b2b3b641",
+      "name": "armcol_trinket_nightswatchartifacts_1_2",
+      "progression": "prog_trinketarmory_bonus_Support_1",
+      "property": "property_MarchingSpeedVsSeatOfPower_armory"
+    },
+    {
+      "id": "2917e93205e0e7bb",
+      "name": "armcol_trinket_nightswatchartifacts_1_3",
+      "progression": "prog_trinketarmory_bonus_SpecificTroop_1",
+      "property": "property_SiegeAttackVsPlayer_armory"
+    },
+    {
+      "id": "efc29b430158525d",
+      "name": "armcol_trinket_nightswatchartifacts_1_4",
+      "progression": "prog_trinketarmory_bonus_RallySize_1",
+      "property": "property_RalliedTroopCapacityVsSeatOfPower_armory"
     }
   ]
 }

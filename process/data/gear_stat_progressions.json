@@ -58586,6 +58586,150 @@
       ]
     },
     {
+      "id": "192bf275da79bb0b",
+      "name": "prog_gear_event5_DragonHealth_1",
+      "stats": [
+        0.0285600000000001,
+        0.0306000000000001,
+        0.0326400000000001,
+        0.0346800000000001,
+        0.0367200000000001,
+        0.0408000000000001
+      ]
+    },
+    {
+      "id": "aaecdcef0734fce3",
+      "name": "prog_gear_event5_DragonHealth_5",
+      "stats": [
+        0.0542640000000001,
+        0.0581400000000001,
+        0.0620160000000001,
+        0.0658920000000001,
+        0.0697680000000001,
+        0.0775200000000001
+      ]
+    },
+    {
+      "id": "4949ed44af571829",
+      "name": "prog_gear_event5_DragonHealth_10",
+      "stats": [
+        0.0799680000000001,
+        0.0856800000000001,
+        0.0913920000000001,
+        0.0971040000000001,
+        0.102816,
+        0.11424
+      ]
+    },
+    {
+      "id": "d67f0878c5490e3b",
+      "name": "prog_gear_event5_DragonHealth_15",
+      "stats": [
+        0.105672,
+        0.11322,
+        0.120768,
+        0.128316,
+        0.135864,
+        0.15096
+      ]
+    },
+    {
+      "id": "462c598f0450c93c",
+      "name": "prog_gear_event5_DragonHealth_20",
+      "stats": [
+        0.131376,
+        0.14076,
+        0.150144,
+        0.159528,
+        0.168912,
+        0.18768
+      ]
+    },
+    {
+      "id": "d91abcb36e4edf2e",
+      "name": "prog_gear_event5_DragonHealth_25",
+      "stats": [
+        0.15708,
+        0.1683,
+        0.17952,
+        0.19074,
+        0.20196,
+        0.2244
+      ]
+    },
+    {
+      "id": "430f35c99d5279cf",
+      "name": "prog_gear_event5_DragonHealth_30",
+      "stats": [
+        0.182784,
+        0.19584,
+        0.208896,
+        0.221952,
+        0.235008,
+        0.26112
+      ]
+    },
+    {
+      "id": "dc39d0f5f74c6fdd",
+      "name": "prog_gear_event5_DragonHealth_35",
+      "stats": [
+        0.208488,
+        0.22338,
+        0.238272,
+        0.253164,
+        0.268056,
+        0.29784
+      ]
+    },
+    {
+      "id": "58e73018525f6b16",
+      "name": "prog_gear_event5_DragonHealth_40",
+      "stats": [
+        0.234192,
+        0.25092,
+        0.267648,
+        0.284376,
+        0.301104,
+        0.33456
+      ]
+    },
+    {
+      "id": "c7d1d52438417d04",
+      "name": "prog_gear_event5_DragonHealth_45",
+      "stats": [
+        0.259896,
+        0.27846,
+        0.297024,
+        0.315588,
+        0.334152,
+        0.37128
+      ]
+    },
+    {
+      "id": "5dc45c5ecb5ddbe5",
+      "name": "prog_gear_event5_DragonHealth_50",
+      "stats": [
+        0.2856,
+        0.306,
+        0.3264,
+        0.3468,
+        0.3672,
+        0.408
+      ]
+    },
+    {
+      "id": "211cc50c7f803e08",
+      "name": "prog_gear_event5_DragonAttack_1",
+      "stats": [
+        0.0285600000000001,
+        0.0306000000000001,
+        0.0326400000000001,
+        0.0346800000000001,
+        0.0367200000000001,
+        0.0408000000000001
+      ]
+    },
+    {
       "id": "92dbeb96a2cd79e0",
       "name": "prog_gear_event5_DragonAttack_5",
       "stats": [
@@ -59330,6 +59474,270 @@
       ]
     },
     {
+      "id": "c7a955b70b664b1d",
+      "name": "prog_gear_event5_DragonTroopAttackVsPlayer_1",
+      "stats": [
+        0.0214200000000001,
+        0.0229500000000001,
+        0.0244800000000001,
+        0.0260100000000001,
+        0.0275400000000001,
+        0.0306000000000001
+      ]
+    },
+    {
+      "id": "746e7b2dd62b0cf5",
+      "name": "prog_gear_event5_DragonTroopAttackVsPlayer_5",
+      "stats": [
+        0.040698,
+        0.0436050000000001,
+        0.0465120000000001,
+        0.0494190000000001,
+        0.0523260000000001,
+        0.0581400000000001
+      ]
+    },
+    {
+      "id": "eb61aac071a92d18",
+      "name": "prog_gear_event5_DragonTroopAttackVsPlayer_10",
+      "stats": [
+        0.059976,
+        0.0642600000000001,
+        0.0685440000000001,
+        0.0728280000000001,
+        0.0771120000000001,
+        0.0856800000000001
+      ]
+    },
+    {
+      "id": "74574ffc1bb73b0a",
+      "name": "prog_gear_event5_DragonTroopAttackVsPlayer_15",
+      "stats": [
+        0.079254,
+        0.0849150000000001,
+        0.0905760000000001,
+        0.0962370000000001,
+        0.101898,
+        0.11322
+      ]
+    },
+    {
+      "id": "e4041e0bdaaefc0d",
+      "name": "prog_gear_event5_DragonTroopAttackVsPlayer_20",
+      "stats": [
+        0.098532,
+        0.10557,
+        0.112608,
+        0.119646,
+        0.126684,
+        0.14076
+      ]
+    },
+    {
+      "id": "7b32fb37b0b0ea1f",
+      "name": "prog_gear_event5_DragonTroopAttackVsPlayer_25",
+      "stats": [
+        0.11781,
+        0.126225,
+        0.13464,
+        0.143055,
+        0.15147,
+        0.1683
+      ]
+    },
+    {
+      "id": "e127724d43ac4cfe",
+      "name": "prog_gear_event5_DragonTroopAttackVsPlayer_30",
+      "stats": [
+        0.137088,
+        0.14688,
+        0.156672,
+        0.166464,
+        0.176256,
+        0.19584
+      ]
+    },
+    {
+      "id": "7e11977129b25aec",
+      "name": "prog_gear_event5_DragonTroopAttackVsPlayer_35",
+      "stats": [
+        0.156366,
+        0.167535,
+        0.178704,
+        0.189873,
+        0.201042,
+        0.22338
+      ]
+    },
+    {
+      "id": "facf779c8ca15e27",
+      "name": "prog_gear_event5_DragonTroopAttackVsPlayer_40",
+      "stats": [
+        0.175644,
+        0.18819,
+        0.200736,
+        0.213282,
+        0.225828,
+        0.25092
+      ]
+    },
+    {
+      "id": "65f992a0e6bf4835",
+      "name": "prog_gear_event5_DragonTroopAttackVsPlayer_45",
+      "stats": [
+        0.194922,
+        0.208845,
+        0.222768,
+        0.236691,
+        0.250614,
+        0.27846
+      ]
+    },
+    {
+      "id": "ffec1bda15a3eed4",
+      "name": "prog_gear_event5_DragonTroopAttackVsPlayer_50",
+      "stats": [
+        0.2142,
+        0.2295,
+        0.2448,
+        0.2601,
+        0.2754,
+        0.306
+      ]
+    },
+    {
+      "id": "468308e6b44d2f03",
+      "name": "prog_gear_event5_DragonTroopAttackVsSeatOfPower_1",
+      "stats": [
+        0.0214200000000001,
+        0.0229500000000001,
+        0.0244800000000001,
+        0.0260100000000001,
+        0.0275400000000001,
+        0.0306000000000001
+      ]
+    },
+    {
+      "id": "f544267c690068eb",
+      "name": "prog_gear_event5_DragonTroopAttackVsSeatOfPower_5",
+      "stats": [
+        0.040698,
+        0.0436050000000001,
+        0.0465120000000001,
+        0.0494190000000001,
+        0.0523260000000001,
+        0.0581400000000001
+      ]
+    },
+    {
+      "id": "ac225afecf0cec46",
+      "name": "prog_gear_event5_DragonTroopAttackVsSeatOfPower_10",
+      "stats": [
+        0.059976,
+        0.0642600000000001,
+        0.0685440000000001,
+        0.0728280000000001,
+        0.0771120000000001,
+        0.0856800000000001
+      ]
+    },
+    {
+      "id": "3314bfc2a512fa54",
+      "name": "prog_gear_event5_DragonTroopAttackVsSeatOfPower_15",
+      "stats": [
+        0.079254,
+        0.0849150000000001,
+        0.0905760000000001,
+        0.0962370000000001,
+        0.101898,
+        0.11322
+      ]
+    },
+    {
+      "id": "a347ee35640b3d53",
+      "name": "prog_gear_event5_DragonTroopAttackVsSeatOfPower_20",
+      "stats": [
+        0.098532,
+        0.10557,
+        0.112608,
+        0.119646,
+        0.126684,
+        0.14076
+      ]
+    },
+    {
+      "id": "3c710b090e152b41",
+      "name": "prog_gear_event5_DragonTroopAttackVsSeatOfPower_25",
+      "stats": [
+        0.11781,
+        0.126225,
+        0.13464,
+        0.143055,
+        0.15147,
+        0.1683
+      ]
+    },
+    {
+      "id": "a6648273fd098da0",
+      "name": "prog_gear_event5_DragonTroopAttackVsSeatOfPower_30",
+      "stats": [
+        0.137088,
+        0.14688,
+        0.156672,
+        0.166464,
+        0.176256,
+        0.19584
+      ]
+    },
+    {
+      "id": "3952674f97179bb2",
+      "name": "prog_gear_event5_DragonTroopAttackVsSeatOfPower_35",
+      "stats": [
+        0.156366,
+        0.167535,
+        0.178704,
+        0.189873,
+        0.201042,
+        0.22338
+      ]
+    },
+    {
+      "id": "bd8c87a232049f79",
+      "name": "prog_gear_event5_DragonTroopAttackVsSeatOfPower_40",
+      "stats": [
+        0.175644,
+        0.18819,
+        0.200736,
+        0.213282,
+        0.225828,
+        0.25092
+      ]
+    },
+    {
+      "id": "22ba629e581a896b",
+      "name": "prog_gear_event5_DragonTroopAttackVsSeatOfPower_45",
+      "stats": [
+        0.194922,
+        0.208845,
+        0.222768,
+        0.236691,
+        0.250614,
+        0.27846
+      ]
+    },
+    {
+      "id": "b8afebe4ab062f8a",
+      "name": "prog_gear_event5_DragonTroopAttackVsSeatOfPower_50",
+      "stats": [
+        0.2142,
+        0.2295,
+        0.2448,
+        0.2601,
+        0.2754,
+        0.306
+      ]
+    },
+    {
       "id": "b5a2a80f41e15e05",
       "name": "prog_gear_event5_DragonMaxMarchSize_1",
       "stats": [
@@ -59459,6 +59867,138 @@
         3468.0,
         3672.0,
         4080.0
+      ]
+    },
+    {
+      "id": "d36c72ef1052c82b",
+      "name": "prog_gear_event5_DragonTroopHealthVsPlayer_1",
+      "stats": [
+        0.0214200000000001,
+        0.0229500000000001,
+        0.0244800000000001,
+        0.0260100000000001,
+        0.0275400000000001,
+        0.0306000000000001
+      ]
+    },
+    {
+      "id": "60ab5c75cd1f8fc3",
+      "name": "prog_gear_event5_DragonTroopHealthVsPlayer_5",
+      "stats": [
+        0.040698,
+        0.0436050000000001,
+        0.0465120000000001,
+        0.0494190000000001,
+        0.0523260000000001,
+        0.0581400000000001
+      ]
+    },
+    {
+      "id": "d827532d6a14aee0",
+      "name": "prog_gear_event5_DragonTroopHealthVsPlayer_10",
+      "stats": [
+        0.059976,
+        0.0642600000000001,
+        0.0685440000000001,
+        0.0728280000000001,
+        0.0771120000000001,
+        0.0856800000000001
+      ]
+    },
+    {
+      "id": "4711b611000ab8f2",
+      "name": "prog_gear_event5_DragonTroopHealthVsPlayer_15",
+      "stats": [
+        0.079254,
+        0.0849150000000001,
+        0.0905760000000001,
+        0.0962370000000001,
+        0.101898,
+        0.11322
+      ]
+    },
+    {
+      "id": "d742e7e6c1137ff5",
+      "name": "prog_gear_event5_DragonTroopHealthVsPlayer_20",
+      "stats": [
+        0.098532,
+        0.10557,
+        0.112608,
+        0.119646,
+        0.126684,
+        0.14076
+      ]
+    },
+    {
+      "id": "487402daab0d69e7",
+      "name": "prog_gear_event5_DragonTroopHealthVsPlayer_25",
+      "stats": [
+        0.11781,
+        0.126225,
+        0.13464,
+        0.143055,
+        0.15147,
+        0.1683
+      ]
+    },
+    {
+      "id": "d2618ba05811cf06",
+      "name": "prog_gear_event5_DragonTroopHealthVsPlayer_30",
+      "stats": [
+        0.137088,
+        0.14688,
+        0.156672,
+        0.166464,
+        0.176256,
+        0.19584
+      ]
+    },
+    {
+      "id": "4d576e9c320fd914",
+      "name": "prog_gear_event5_DragonTroopHealthVsPlayer_35",
+      "stats": [
+        0.156366,
+        0.167535,
+        0.178704,
+        0.189873,
+        0.201042,
+        0.22338
+      ]
+    },
+    {
+      "id": "c9898e71971cdddf",
+      "name": "prog_gear_event5_DragonTroopHealthVsPlayer_40",
+      "stats": [
+        0.175644,
+        0.18819,
+        0.200736,
+        0.213282,
+        0.225828,
+        0.25092
+      ]
+    },
+    {
+      "id": "56bf6b4dfd02cbcd",
+      "name": "prog_gear_event5_DragonTroopHealthVsPlayer_45",
+      "stats": [
+        0.194922,
+        0.208845,
+        0.222768,
+        0.236691,
+        0.250614,
+        0.27846
+      ]
+    },
+    {
+      "id": "ccaae2370e1e6d2c",
+      "name": "prog_gear_event5_DragonTroopHealthVsPlayer_50",
+      "stats": [
+        0.2142,
+        0.2295,
+        0.2448,
+        0.2601,
+        0.2754,
+        0.306
       ]
     },
     {
@@ -66026,6 +66566,138 @@
       ]
     },
     {
+      "id": "51936ff024ec5aed",
+      "name": "prog_gear_Event5.5_DragonHealth_1",
+      "stats": [
+        0.01428,
+        0.0153,
+        0.01632,
+        0.01734,
+        0.01836,
+        0.0204000000000001
+      ]
+    },
+    {
+      "id": "e254416af9a11d05",
+      "name": "prog_gear_Event5.5_DragonHealth_5",
+      "stats": [
+        0.027132,
+        0.02907,
+        0.031008,
+        0.0329460000000001,
+        0.0348840000000001,
+        0.0387600000000001
+      ]
+    },
+    {
+      "id": "522f857a94a027a4",
+      "name": "prog_gear_Event5.5_DragonHealth_10",
+      "stats": [
+        0.039984,
+        0.04284,
+        0.045696,
+        0.048552,
+        0.0514080000000001,
+        0.0571200000000001
+      ]
+    },
+    {
+      "id": "cd196046febe31b6",
+      "name": "prog_gear_Event5.5_DragonHealth_15",
+      "stats": [
+        0.052836,
+        0.05661,
+        0.060384,
+        0.064158,
+        0.0679320000000001,
+        0.0754800000000001
+      ]
+    },
+    {
+      "id": "5d4a31b13fa7f6b1",
+      "name": "prog_gear_Event5.5_DragonHealth_20",
+      "stats": [
+        0.065688,
+        0.07038,
+        0.075072,
+        0.079764,
+        0.084456,
+        0.09384
+      ]
+    },
+    {
+      "id": "c27cd48d55b9e0a3",
+      "name": "prog_gear_Event5.5_DragonHealth_25",
+      "stats": [
+        0.07854,
+        0.08415,
+        0.08976,
+        0.09537,
+        0.10098,
+        0.1122
+      ]
+    },
+    {
+      "id": "58695df7a6a54642",
+      "name": "prog_gear_Event5.5_DragonHealth_30",
+      "stats": [
+        0.091392,
+        0.09792,
+        0.104448,
+        0.110976,
+        0.117504,
+        0.13056
+      ]
+    },
+    {
+      "id": "c75fb8cbccbb5050",
+      "name": "prog_gear_Event5.5_DragonHealth_35",
+      "stats": [
+        0.104244,
+        0.11169,
+        0.119136,
+        0.126582,
+        0.134028,
+        0.14892
+      ]
+    },
+    {
+      "id": "4381582669a8549b",
+      "name": "prog_gear_Event5.5_DragonHealth_40",
+      "stats": [
+        0.117096,
+        0.12546,
+        0.133824,
+        0.142188,
+        0.150552,
+        0.16728
+      ]
+    },
+    {
+      "id": "dcb7bd1a03b64289",
+      "name": "prog_gear_Event5.5_DragonHealth_45",
+      "stats": [
+        0.129948,
+        0.13923,
+        0.148512,
+        0.157794,
+        0.167076,
+        0.18564
+      ]
+    },
+    {
+      "id": "46a23460f0aae468",
+      "name": "prog_gear_Event5.5_DragonHealth_50",
+      "stats": [
+        0.1428,
+        0.153,
+        0.1632,
+        0.1734,
+        0.1836,
+        0.204
+      ]
+    },
+    {
       "id": "1ef5c95bda0251d8",
       "name": "prog_gear_Event5.5_DragonDefense_30",
       "stats": [
@@ -66083,6 +66755,78 @@
         0.1734,
         0.1836,
         0.204
+      ]
+    },
+    {
+      "id": "69a458898115dfee",
+      "name": "prog_gear_Event5.5_DragonAttack_1",
+      "stats": [
+        0.01428,
+        0.0153,
+        0.01632,
+        0.01734,
+        0.01836,
+        0.0204000000000001
+      ]
+    },
+    {
+      "id": "da6376135c589806",
+      "name": "prog_gear_Event5.5_DragonAttack_5",
+      "stats": [
+        0.027132,
+        0.02907,
+        0.031008,
+        0.0329460000000001,
+        0.0348840000000001,
+        0.0387600000000001
+      ]
+    },
+    {
+      "id": "2705eea634f02c2f",
+      "name": "prog_gear_Event5.5_DragonAttack_10",
+      "stats": [
+        0.039984,
+        0.04284,
+        0.045696,
+        0.048552,
+        0.0514080000000001,
+        0.0571200000000001
+      ]
+    },
+    {
+      "id": "b8330b9a5eee3a3d",
+      "name": "prog_gear_Event5.5_DragonAttack_15",
+      "stats": [
+        0.052836,
+        0.05661,
+        0.060384,
+        0.064158,
+        0.0679320000000001,
+        0.0754800000000001
+      ]
+    },
+    {
+      "id": "28605a6d9ff7fd3a",
+      "name": "prog_gear_Event5.5_DragonAttack_20",
+      "stats": [
+        0.065688,
+        0.07038,
+        0.075072,
+        0.079764,
+        0.084456,
+        0.09384
+      ]
+    },
+    {
+      "id": "b756bf51f5e9eb28",
+      "name": "prog_gear_Event5.5_DragonAttack_25",
+      "stats": [
+        0.07854,
+        0.08415,
+        0.08976,
+        0.09537,
+        0.10098,
+        0.1122
       ]
     },
     {
@@ -66338,6 +67082,402 @@
       ]
     },
     {
+      "id": "c8e94a23c9e1fe00",
+      "name": "prog_gear_Event5.5_DragonTroopAttackVsPlayer_1",
+      "stats": [
+        0.01071,
+        0.011475,
+        0.01224,
+        0.013005,
+        0.01377,
+        0.0153
+      ]
+    },
+    {
+      "id": "7b2e64b914acb9e8",
+      "name": "prog_gear_Event5.5_DragonTroopAttackVsPlayer_5",
+      "stats": [
+        0.020349,
+        0.0218025,
+        0.023256,
+        0.0247095,
+        0.026163,
+        0.02907
+      ]
+    },
+    {
+      "id": "d9be6c57d384b299",
+      "name": "prog_gear_Event5.5_DragonTroopAttackVsPlayer_10",
+      "stats": [
+        0.029988,
+        0.03213,
+        0.034272,
+        0.036414,
+        0.038556,
+        0.04284
+      ]
+    },
+    {
+      "id": "4688896bb99aa48b",
+      "name": "prog_gear_Event5.5_DragonTroopAttackVsPlayer_15",
+      "stats": [
+        0.039627,
+        0.0424575,
+        0.045288,
+        0.0481185,
+        0.050949,
+        0.05661
+      ]
+    },
+    {
+      "id": "d6dbd89c7883638c",
+      "name": "prog_gear_Event5.5_DragonTroopAttackVsPlayer_20",
+      "stats": [
+        0.049266,
+        0.052785,
+        0.056304,
+        0.059823,
+        0.063342,
+        0.07038
+      ]
+    },
+    {
+      "id": "49ed3da0129d759e",
+      "name": "prog_gear_Event5.5_DragonTroopAttackVsPlayer_25",
+      "stats": [
+        0.058905,
+        0.0631125,
+        0.06732,
+        0.0715275,
+        0.075735,
+        0.08415
+      ]
+    },
+    {
+      "id": "d3f8b4dae181d37f",
+      "name": "prog_gear_Event5.5_DragonTroopAttackVsPlayer_30",
+      "stats": [
+        0.068544,
+        0.07344,
+        0.078336,
+        0.083232,
+        0.088128,
+        0.09792
+      ]
+    },
+    {
+      "id": "4cce51e68b9fc56d",
+      "name": "prog_gear_Event5.5_DragonTroopAttackVsPlayer_35",
+      "stats": [
+        0.078183,
+        0.0837675,
+        0.089352,
+        0.0949365,
+        0.100521,
+        0.11169
+      ]
+    },
+    {
+      "id": "c810b10b2e8cc1a6",
+      "name": "prog_gear_Event5.5_DragonTroopAttackVsPlayer_40",
+      "stats": [
+        0.087822,
+        0.094095,
+        0.100368,
+        0.106641,
+        0.112914,
+        0.12546
+      ]
+    },
+    {
+      "id": "572654374492d7b4",
+      "name": "prog_gear_Event5.5_DragonTroopAttackVsPlayer_45",
+      "stats": [
+        0.097461,
+        0.1044225,
+        0.111384,
+        0.1183455,
+        0.125307,
+        0.13923
+      ]
+    },
+    {
+      "id": "cd33dd4db78e7155",
+      "name": "prog_gear_Event5.5_DragonTroopAttackVsPlayer_50",
+      "stats": [
+        0.1071,
+        0.11475,
+        0.1224,
+        0.13005,
+        0.1377,
+        0.153
+      ]
+    },
+    {
+      "id": "deafa629983cc903",
+      "name": "prog_gear_Event5.5_DragonTroopAttackVsSeatOfPower_1",
+      "stats": [
+        0.01071,
+        0.011475,
+        0.01224,
+        0.013005,
+        0.01377,
+        0.0153
+      ]
+    },
+    {
+      "id": "6d6888b345718eeb",
+      "name": "prog_gear_Event5.5_DragonTroopAttackVsSeatOfPower_5",
+      "stats": [
+        0.020349,
+        0.0218025,
+        0.023256,
+        0.0247095,
+        0.026163,
+        0.02907
+      ]
+    },
+    {
+      "id": "acba765000209da0",
+      "name": "prog_gear_Event5.5_DragonTroopAttackVsSeatOfPower_10",
+      "stats": [
+        0.029988,
+        0.03213,
+        0.034272,
+        0.036414,
+        0.038556,
+        0.04284
+      ]
+    },
+    {
+      "id": "338c936c6a3e8bb2",
+      "name": "prog_gear_Event5.5_DragonTroopAttackVsSeatOfPower_15",
+      "stats": [
+        0.039627,
+        0.0424575,
+        0.045288,
+        0.0481185,
+        0.050949,
+        0.05661
+      ]
+    },
+    {
+      "id": "a3dfc29bab274cb5",
+      "name": "prog_gear_Event5.5_DragonTroopAttackVsSeatOfPower_20",
+      "stats": [
+        0.049266,
+        0.052785,
+        0.056304,
+        0.059823,
+        0.063342,
+        0.07038
+      ]
+    },
+    {
+      "id": "3ce927a7c1395aa7",
+      "name": "prog_gear_Event5.5_DragonTroopAttackVsSeatOfPower_25",
+      "stats": [
+        0.058905,
+        0.0631125,
+        0.06732,
+        0.0715275,
+        0.075735,
+        0.08415
+      ]
+    },
+    {
+      "id": "a6fcaedd3225fc46",
+      "name": "prog_gear_Event5.5_DragonTroopAttackVsSeatOfPower_30",
+      "stats": [
+        0.068544,
+        0.07344,
+        0.078336,
+        0.083232,
+        0.088128,
+        0.09792
+      ]
+    },
+    {
+      "id": "39ca4be1583bea54",
+      "name": "prog_gear_Event5.5_DragonTroopAttackVsSeatOfPower_35",
+      "stats": [
+        0.078183,
+        0.0837675,
+        0.089352,
+        0.0949365,
+        0.100521,
+        0.11169
+      ]
+    },
+    {
+      "id": "bd14ab0cfd28ee9f",
+      "name": "prog_gear_Event5.5_DragonTroopAttackVsSeatOfPower_40",
+      "stats": [
+        0.087822,
+        0.094095,
+        0.100368,
+        0.106641,
+        0.112914,
+        0.12546
+      ]
+    },
+    {
+      "id": "22224e309736f88d",
+      "name": "prog_gear_Event5.5_DragonTroopAttackVsSeatOfPower_45",
+      "stats": [
+        0.097461,
+        0.1044225,
+        0.111384,
+        0.1183455,
+        0.125307,
+        0.13923
+      ]
+    },
+    {
+      "id": "b837c74a642a5e6c",
+      "name": "prog_gear_Event5.5_DragonTroopAttackVsSeatOfPower_50",
+      "stats": [
+        0.1071,
+        0.11475,
+        0.1224,
+        0.13005,
+        0.1377,
+        0.153
+      ]
+    },
+    {
+      "id": "fd6811220dc0023a",
+      "name": "prog_gear_Event5.5_DragonMaxMarchSize_1",
+      "stats": [
+        142.0,
+        153.0,
+        163.0,
+        173.0,
+        183.0,
+        204.0
+      ]
+    },
+    {
+      "id": "4eaf3fb8d08d45d2",
+      "name": "prog_gear_Event5.5_DragonMaxMarchSize_5",
+      "stats": [
+        271.0,
+        290.0,
+        310.0,
+        329.0,
+        348.0,
+        387.0
+      ]
+    },
+    {
+      "id": "bc2ae01cbf9ea30d",
+      "name": "prog_gear_Event5.5_DragonMaxMarchSize_10",
+      "stats": [
+        399.0,
+        428.0,
+        456.0,
+        485.0,
+        514.0,
+        571.0
+      ]
+    },
+    {
+      "id": "231c0520d580b51f",
+      "name": "prog_gear_Event5.5_DragonMaxMarchSize_15",
+      "stats": [
+        528.0,
+        566.0,
+        603.0,
+        641.0,
+        679.0,
+        754.0
+      ]
+    },
+    {
+      "id": "b34f54d714997218",
+      "name": "prog_gear_Event5.5_DragonMaxMarchSize_20",
+      "stats": [
+        656.0,
+        703.0,
+        750.0,
+        797.0,
+        844.0,
+        938.0
+      ]
+    },
+    {
+      "id": "2c79b1eb7e87640a",
+      "name": "prog_gear_Event5.5_DragonMaxMarchSize_25",
+      "stats": [
+        785.0,
+        841.0,
+        897.0,
+        953.0,
+        1009.0,
+        1122.0
+      ]
+    },
+    {
+      "id": "b66c38918d9bc2eb",
+      "name": "prog_gear_Event5.5_DragonMaxMarchSize_30",
+      "stats": [
+        913.0,
+        979.0,
+        1044.0,
+        1109.0,
+        1175.0,
+        1305.0
+      ]
+    },
+    {
+      "id": "295addade785d4f9",
+      "name": "prog_gear_Event5.5_DragonMaxMarchSize_35",
+      "stats": [
+        1042.0,
+        1116.0,
+        1191.0,
+        1265.0,
+        1340.0,
+        1489.0
+      ]
+    },
+    {
+      "id": "ad843d404296d032",
+      "name": "prog_gear_Event5.5_DragonMaxMarchSize_40",
+      "stats": [
+        1170.0,
+        1254.0,
+        1338.0,
+        1421.0,
+        1505.0,
+        1672.0
+      ]
+    },
+    {
+      "id": "32b2d87c2888c620",
+      "name": "prog_gear_Event5.5_DragonMaxMarchSize_45",
+      "stats": [
+        1299.0,
+        1392.0,
+        1485.0,
+        1577.0,
+        1670.0,
+        1856.0
+      ]
+    },
+    {
+      "id": "a8a75106db9460c1",
+      "name": "prog_gear_Event5.5_DragonMaxMarchSize_50",
+      "stats": [
+        1428.0,
+        1530.0,
+        1632.0,
+        1734.0,
+        1836.0,
+        2040.0
+      ]
+    },
+    {
       "id": "dbe9b3e9e78d773a",
       "name": "prog_gear_Event5.5_DragonTroopHealth_1",
       "stats": [
@@ -66460,6 +67600,138 @@
     {
       "id": "a881d0a4107e2db4",
       "name": "prog_gear_Event5.5_DragonTroopHealth_50",
+      "stats": [
+        0.1071,
+        0.11475,
+        0.1224,
+        0.13005,
+        0.1377,
+        0.153
+      ]
+    },
+    {
+      "id": "dc2c6d7bd2d57d36",
+      "name": "prog_gear_Event5.5_DragonTroopHealthVsPlayer_1",
+      "stats": [
+        0.01071,
+        0.011475,
+        0.01224,
+        0.013005,
+        0.01377,
+        0.0153
+      ]
+    },
+    {
+      "id": "6feb43e10f983ade",
+      "name": "prog_gear_Event5.5_DragonTroopHealthVsPlayer_5",
+      "stats": [
+        0.020349,
+        0.0218025,
+        0.023256,
+        0.0247095,
+        0.026163,
+        0.02907
+      ]
+    },
+    {
+      "id": "eaf895bac8393161",
+      "name": "prog_gear_Event5.5_DragonTroopHealthVsPlayer_10",
+      "stats": [
+        0.029988,
+        0.03213,
+        0.034272,
+        0.036414,
+        0.038556,
+        0.04284
+      ]
+    },
+    {
+      "id": "75ce7086a2272773",
+      "name": "prog_gear_Event5.5_DragonTroopHealthVsPlayer_15",
+      "stats": [
+        0.039627,
+        0.0424575,
+        0.045288,
+        0.0481185,
+        0.050949,
+        0.05661
+      ]
+    },
+    {
+      "id": "e59d2171633ee074",
+      "name": "prog_gear_Event5.5_DragonTroopHealthVsPlayer_20",
+      "stats": [
+        0.049266,
+        0.052785,
+        0.056304,
+        0.059823,
+        0.063342,
+        0.07038
+      ]
+    },
+    {
+      "id": "7aabc44d0920f666",
+      "name": "prog_gear_Event5.5_DragonTroopHealthVsPlayer_25",
+      "stats": [
+        0.058905,
+        0.0631125,
+        0.06732,
+        0.0715275,
+        0.075735,
+        0.08415
+      ]
+    },
+    {
+      "id": "e0be4d37fa3c5087",
+      "name": "prog_gear_Event5.5_DragonTroopHealthVsPlayer_30",
+      "stats": [
+        0.068544,
+        0.07344,
+        0.078336,
+        0.083232,
+        0.088128,
+        0.09792
+      ]
+    },
+    {
+      "id": "7f88a80b90224695",
+      "name": "prog_gear_Event5.5_DragonTroopHealthVsPlayer_35",
+      "stats": [
+        0.078183,
+        0.0837675,
+        0.089352,
+        0.0949365,
+        0.100521,
+        0.11169
+      ]
+    },
+    {
+      "id": "fb5648e63531425e",
+      "name": "prog_gear_Event5.5_DragonTroopHealthVsPlayer_40",
+      "stats": [
+        0.087822,
+        0.094095,
+        0.100368,
+        0.106641,
+        0.112914,
+        0.12546
+      ]
+    },
+    {
+      "id": "6460adda5f2f544c",
+      "name": "prog_gear_Event5.5_DragonTroopHealthVsPlayer_45",
+      "stats": [
+        0.097461,
+        0.1044225,
+        0.111384,
+        0.1183455,
+        0.125307,
+        0.13923
+      ]
+    },
+    {
+      "id": "fe7524a0ac33f2ad",
+      "name": "prog_gear_Event5.5_DragonTroopHealthVsPlayer_50",
       "stats": [
         0.1071,
         0.11475,
