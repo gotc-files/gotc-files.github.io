@@ -25,5 +25,5 @@ class ItemsProcessor(ProtoProcessor):
     def description(self):
         return 'Items'
 
-    def key_name(self):
-        return 'name'
+    def key_names(self):
+        return ['id', 'name']

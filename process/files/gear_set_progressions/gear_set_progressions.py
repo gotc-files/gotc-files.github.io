@@ -34,5 +34,5 @@ class GearSetProgressionsProcessor(ProtoProcessor):
     def description(self):
         return 'Gear set to gear names with level'
 
-    def key_name(self):
-        return 'name'
+    def key_names(self):
+        return ['name']

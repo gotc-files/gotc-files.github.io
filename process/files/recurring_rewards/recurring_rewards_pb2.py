@@ -15,15 +15,15 @@ _sym_db = _symbol_database.Default()
 from files.common import common_pb2 as files_dot_common_dot_common__pb2
 
 
-DESCRIPTOR = _descriptor_pool.Default().AddSerializedFile(b'\n/files/recurring_rewards/recurring_rewards.proto\x1a\x19\x66iles/common/common.proto\"\xc5\x04\n\x15RecurringRewardsLists\x12L\n\x17recurring_rewards_lists\x18\x01 \x03(\x0b\x32+.RecurringRewardsLists.RecurringRewardsList\x1ak\n\x14RecurringRewardsList\x12!\n\x08identity\x18\x01 \x01(\x0b\x32\x0f.ObjectIdentity\x12\x30\n\x04info\x18\x02 \x01(\x0b\x32\".RecurringRewardsLists.RewardsInfo\x1a\xed\x01\n\x0bRewardsInfo\x12\x18\n\x10name_placeholder\x18\x01 \x01(\t\x12\x0c\n\x04tier\x18\x04 \x01(\x05\x12\r\n\x05limit\x18\x05 \x01(\x05\x12#\n\x1b\x63ollection_interval_seconds\x18\x06 \x01(\x05\x12\x17\n\x0fnum_collections\x18\x07 \x01(\x05\x12\x30\n\x05items\x18\t \x03(\x0b\x32!.RecurringRewardsLists.RewardItem\x12\x37\n\titems_alt\x18\r \x03(\x0b\x32$.RecurringRewardsLists.RewardItemAlt\x1a;\n\nRewardItem\x12\n\n\x02id\x18\x03 \x01(\x03\x12\x0f\n\x07quality\x18\x05 \x01(\x05\x12\x10\n\x08quantity\x18\x06 \x01(\x05\x1a\x44\n\rRewardItemAlt\x12!\n\x08identity\x18\x01 \x01(\x0b\x32\x0f.ObjectIdentity\x12\x10\n\x08quantity\x18\x02 \x01(\x05\x62\x06proto3')
+DESCRIPTOR = _descriptor_pool.Default().AddSerializedFile(b'\n/files/recurring_rewards/recurring_rewards.proto\x1a\x19\x66iles/common/common.proto\"\x8d\x05\n\x15RecurringRewardsLists\x12L\n\x17recurring_rewards_lists\x18\x01 \x03(\x0b\x32+.RecurringRewardsLists.RecurringRewardsList\x1ak\n\x14RecurringRewardsList\x12!\n\x08identity\x18\x01 \x01(\x0b\x32\x0f.ObjectIdentity\x12\x30\n\x04info\x18\x02 \x01(\x0b\x32\".RecurringRewardsLists.RewardsInfo\x1a\xb2\x02\n\x0bRewardsInfo\x12\x18\n\x10name_placeholder\x18\x01 \x01(\t\x12\x0c\n\x04tier\x18\x04 \x01(\x05\x12\x12\n\nitems_type\x18\x05 \x01(\x05\x12#\n\x1b\x63ollection_interval_seconds\x18\x06 \x01(\x05\x12\x17\n\x0fnum_collections\x18\x07 \x01(\x05\x12=\n\x0citems_legacy\x18\t \x03(\x0b\x32\'.RecurringRewardsLists.RewardItemLegacy\x12\x38\n\ritems_summary\x18\x0c \x03(\x0b\x32!.RecurringRewardsLists.RewardItem\x12\x30\n\x05items\x18\r \x03(\x0b\x32!.RecurringRewardsLists.RewardItem\x1a\x41\n\x10RewardItemLegacy\x12\n\n\x02id\x18\x03 \x01(\x03\x12\x10\n\x08quantity\x18\x05 \x01(\x05\x12\x0f\n\x07quality\x18\x06 \x01(\x05\x1a\x41\n\nRewardItem\x12!\n\x08identity\x18\x01 \x01(\x0b\x32\x0f.ObjectIdentity\x12\x10\n\x08quantity\x18\x02 \x01(\x05\x62\x06proto3')
 
 
 
 _RECURRINGREWARDSLISTS = DESCRIPTOR.message_types_by_name['RecurringRewardsLists']
 _RECURRINGREWARDSLISTS_RECURRINGREWARDSLIST = _RECURRINGREWARDSLISTS.nested_types_by_name['RecurringRewardsList']
 _RECURRINGREWARDSLISTS_REWARDSINFO = _RECURRINGREWARDSLISTS.nested_types_by_name['RewardsInfo']
+_RECURRINGREWARDSLISTS_REWARDITEMLEGACY = _RECURRINGREWARDSLISTS.nested_types_by_name['RewardItemLegacy']
 _RECURRINGREWARDSLISTS_REWARDITEM = _RECURRINGREWARDSLISTS.nested_types_by_name['RewardItem']
-_RECURRINGREWARDSLISTS_REWARDITEMALT = _RECURRINGREWARDSLISTS.nested_types_by_name['RewardItemAlt']
 RecurringRewardsLists = _reflection.GeneratedProtocolMessageType('RecurringRewardsLists', (_message.Message,), {
 
   'RecurringRewardsList' : _reflection.GeneratedProtocolMessageType('RecurringRewardsList', (_message.Message,), {
@@ -40,17 +40,17 @@ RecurringRewardsLists = _reflection.GeneratedProtocolMessageType('RecurringRewar
     })
   ,
 
+  'RewardItemLegacy' : _reflection.GeneratedProtocolMessageType('RewardItemLegacy', (_message.Message,), {
+    'DESCRIPTOR' : _RECURRINGREWARDSLISTS_REWARDITEMLEGACY,
+    '__module__' : 'files.recurring_rewards.recurring_rewards_pb2'
+    # @@protoc_insertion_point(class_scope:RecurringRewardsLists.RewardItemLegacy)
+    })
+  ,
+
   'RewardItem' : _reflection.GeneratedProtocolMessageType('RewardItem', (_message.Message,), {
     'DESCRIPTOR' : _RECURRINGREWARDSLISTS_REWARDITEM,
     '__module__' : 'files.recurring_rewards.recurring_rewards_pb2'
     # @@protoc_insertion_point(class_scope:RecurringRewardsLists.RewardItem)
-    })
-  ,
-
-  'RewardItemAlt' : _reflection.GeneratedProtocolMessageType('RewardItemAlt', (_message.Message,), {
-    'DESCRIPTOR' : _RECURRINGREWARDSLISTS_REWARDITEMALT,
-    '__module__' : 'files.recurring_rewards.recurring_rewards_pb2'
-    # @@protoc_insertion_point(class_scope:RecurringRewardsLists.RewardItemAlt)
     })
   ,
   'DESCRIPTOR' : _RECURRINGREWARDSLISTS,
@@ -60,20 +60,20 @@ RecurringRewardsLists = _reflection.GeneratedProtocolMessageType('RecurringRewar
 _sym_db.RegisterMessage(RecurringRewardsLists)
 _sym_db.RegisterMessage(RecurringRewardsLists.RecurringRewardsList)
 _sym_db.RegisterMessage(RecurringRewardsLists.RewardsInfo)
+_sym_db.RegisterMessage(RecurringRewardsLists.RewardItemLegacy)
 _sym_db.RegisterMessage(RecurringRewardsLists.RewardItem)
-_sym_db.RegisterMessage(RecurringRewardsLists.RewardItemAlt)
 
 if _descriptor._USE_C_DESCRIPTORS == False:
 
   DESCRIPTOR._options = None
   _RECURRINGREWARDSLISTS._serialized_start=79
-  _RECURRINGREWARDSLISTS._serialized_end=660
+  _RECURRINGREWARDSLISTS._serialized_end=732
   _RECURRINGREWARDSLISTS_RECURRINGREWARDSLIST._serialized_start=182
   _RECURRINGREWARDSLISTS_RECURRINGREWARDSLIST._serialized_end=289
   _RECURRINGREWARDSLISTS_REWARDSINFO._serialized_start=292
-  _RECURRINGREWARDSLISTS_REWARDSINFO._serialized_end=529
-  _RECURRINGREWARDSLISTS_REWARDITEM._serialized_start=531
-  _RECURRINGREWARDSLISTS_REWARDITEM._serialized_end=590
-  _RECURRINGREWARDSLISTS_REWARDITEMALT._serialized_start=592
-  _RECURRINGREWARDSLISTS_REWARDITEMALT._serialized_end=660
+  _RECURRINGREWARDSLISTS_REWARDSINFO._serialized_end=598
+  _RECURRINGREWARDSLISTS_REWARDITEMLEGACY._serialized_start=600
+  _RECURRINGREWARDSLISTS_REWARDITEMLEGACY._serialized_end=665
+  _RECURRINGREWARDSLISTS_REWARDITEM._serialized_start=667
+  _RECURRINGREWARDSLISTS_REWARDITEM._serialized_end=732
 # @@protoc_insertion_point(module_scope)

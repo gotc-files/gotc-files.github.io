@@ -1,0 +1,3614 @@
+{
+  "description": "Items",
+  "values": [
+    {
+      "description_placeholder": "ITEM_EVENT_SCRIP_1_DESC",
+      "id": "fd4f42e36696b5fb",
+      "image": "icon_alchemy_scrip.png",
+      "name": "item_event_scrip_1",
+      "name_placeholder": "ITEM_EVENT_SCRIP_1_NAME",
+      "priority": 1000900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_TROPHY_STRATEGICTERRAIN_DESC",
+      "id": "bfb3ed5c2f32ba60",
+      "image": "icon_alchemy_battlefiedSalvage.png",
+      "name": "item_event_trophy_strategicterrain",
+      "name_placeholder": "ITEM_EVENT_TROPHY_STRATEGICTERRAIN_NAME",
+      "priority": 1001100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_TROPHY_DRAGONPOWER_1_DESC",
+      "id": "e00909e418bae5b4",
+      "image": "icon_item_trophy_dragon.png",
+      "name": "item_event_trophy_dragonpower_1",
+      "name_placeholder": "ITEM_EVENT_TROPHY_DRAGONPOWER_1_NAME",
+      "priority": 1001200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_COIN_TIER1_DESC",
+      "id": "d5bff8541fc21a0c",
+      "image": "icon_alchemy_silver_volantis.png",
+      "name": "item_event_coin_tier1",
+      "name_placeholder": "ITEM_EVENT_COIN_TIER1_NAME",
+      "priority": 1001400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_COIN_TIER2_DESC",
+      "id": "a0ada4bfc637e802",
+      "image": "icon_alchemy_gold_meereen.png",
+      "name": "item_event_coin_tier2",
+      "name_placeholder": "ITEM_EVENT_COIN_TIER2_NAME",
+      "priority": 1001500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_COIN_TIER3_DESC",
+      "id": "8c5c6f197164b9f8",
+      "image": "icon_alchemy_iron_braavos.png",
+      "name": "item_event_coin_tier3",
+      "name_placeholder": "ITEM_EVENT_COIN_TIER3_NAME",
+      "priority": 1001600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_WIDGET_BRAAVOSI_1_DESC",
+      "id": "7eb36b108d9347ab",
+      "image": "icon_alchemy_event_corsair_token.png",
+      "name": "item_event_widget_braavosi_1",
+      "name_placeholder": "ITEM_EVENT_WIDGET_BRAAVOSI_1_NAME",
+      "priority": 1001800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_TROPHY_GREATHUNT_1_DESC",
+      "id": "e6bdf5fe261210d4",
+      "image": "icon_alchemy_event_great_hunt_token.png",
+      "name": "item_event_trophy_greathunt_1",
+      "name_placeholder": "ITEM_EVENT_TROPHY_GREATHUNT_1_NAME",
+      "priority": 1001900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_TROPHY_UNDYINGENVY_1_DESC",
+      "id": "e3656cd49a51f353",
+      "image": "icon_alchemy_event_UndyingEnvy_token.png",
+      "name": "item_event_trophy_undyingenvy_1",
+      "name_placeholder": "ITEM_EVENT_TROPHY_UNDYINGENVY_1_NAME",
+      "priority": 1002000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_TROPHY_CONQUEST_1_DESC",
+      "id": "3ae7593047e591a4",
+      "image": "icon_alchemy_event_Dorne_token.png",
+      "name": "item_event_trophy_conquest_1",
+      "name_placeholder": "ITEM_EVENT_TROPHY_CONQUEST_1_NAME",
+      "priority": 1002100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_TROPHY_MASTEROFWAR_1_DESC",
+      "id": "1e6435d8b9d2c611",
+      "image": "icon_alchemy_event_Siege_token.png",
+      "name": "item_event_trophy_masterofwar_1",
+      "name_placeholder": "ITEM_EVENT_TROPHY_MASTEROFWAR_1_NAME",
+      "priority": 1002200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_TROPHY_HARRENHAL_1_DESC",
+      "id": "ae2df1cecb9512eb",
+      "image": "icon_alchemy_event_Harrenhal_token.png",
+      "name": "item_event_trophy_harrenhal_1",
+      "name_placeholder": "ITEM_EVENT_TROPHY_HARRENHAL_1_NAME",
+      "priority": 1002300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_TROPHY_DTW_1_DESC",
+      "id": "7cfc12774eb28405",
+      "image": "icon_item_trophy_nightswatch.png",
+      "name": "item_event_trophy_dtw_1",
+      "name_placeholder": "ITEM_EVENT_TROPHY_DTW_1_NAME",
+      "priority": 1002400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_TROPHY_AFTERMATH_1_DESC",
+      "id": "b82c56408a938079",
+      "image": "icon_alchemy_aftermath_trophy.png",
+      "name": "item_event_trophy_aftermath_1",
+      "name_placeholder": "ITEM_EVENT_TROPHY_AFTERMATH_1_NAME",
+      "priority": 1002500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_TROPHY_FALCONKNIGHT_1_DESC",
+      "id": "4eb97c5a72073203",
+      "image": "icon_alchemy_FalconKnight_trophy.png",
+      "name": "item_event_trophy_falconknight_1",
+      "name_placeholder": "ITEM_EVENT_TROPHY_FALCONKNIGHT_1_NAME",
+      "priority": 1002600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_TROPHY_FOUNDATIONS_1_DESC",
+      "id": "3c838657d52c3007",
+      "image": "icon_alchemy_Foundations_trophy.png",
+      "name": "item_event_trophy_foundations_1",
+      "name_placeholder": "ITEM_EVENT_TROPHY_FOUNDATIONS_1_NAME",
+      "priority": 1002700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_TROPHY_KINGSGUARD_1_DESC",
+      "id": "8ecb50f3540a18a3",
+      "image": "icon_alchemy_kingsguard_trophy.png",
+      "name": "item_event_trophy_Kingsguard_1",
+      "name_placeholder": "ITEM_EVENT_TROPHY_KINGSGUARD_1_NAME",
+      "priority": 1002800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_TROPHY_CONQUEROR_1_DESC",
+      "id": "341c46f88d58aed3",
+      "image": "icon_alchemy_conqueror_trophy.png",
+      "name": "item_event_trophy_conqueror_1",
+      "name_placeholder": "ITEM_EVENT_TROPHY_CONQUEROR_1_NAME",
+      "priority": 1002900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_TROPHY_TYRELL_1_DESC",
+      "id": "974acc4d381b4fa5",
+      "image": "icon_alchemy_Tyrell_trophy.png",
+      "name": "item_event_trophy_Tyrell_1",
+      "name_placeholder": "ITEM_EVENT_TROPHY_TYRELL_1_NAME",
+      "priority": 1003000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_TROPHY_BAELISH_1_DESC",
+      "id": "3ae56407c8a088c3",
+      "image": "icon_alchemy_Baelish_trophy.png",
+      "name": "item_event_trophy_Baelish_1",
+      "name_placeholder": "ITEM_EVENT_TROPHY_BAELISH_1_NAME",
+      "priority": 1003100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_TROPHY_PURPLEWEDDING_1_DESC",
+      "id": "a23fd619b20a712e",
+      "image": "icon_alchemy_PurpleWedding_trophy.png",
+      "name": "item_event_trophy_PurpleWedding_1",
+      "name_placeholder": "ITEM_EVENT_TROPHY_PURPLEWEDDING_1_NAME",
+      "priority": 1003200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_TROPHY_FACELESS_1_DESC",
+      "id": "466b468572fef4b7",
+      "image": "icon_alchemy_faceless_trophy.png",
+      "name": "item_event_trophy_faceless_1",
+      "name_placeholder": "ITEM_EVENT_TROPHY_FACELESS_1_NAME",
+      "priority": 1003300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_TROPHY_DRAGONPAST_1_DESC",
+      "id": "35a281a167ec90",
+      "image": "icon_alchemy_dragonkeeper_trophy.png",
+      "name": "item_event_trophy_dragonpast_1",
+      "name_placeholder": "ITEM_EVENT_TROPHY_DRAGONPAST_1_NAME",
+      "priority": 1003400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_TROPHY_BROTHERS_1_DESC",
+      "id": "c16d82a076a7c843",
+      "image": "icon_alchemy_brothers_trophy.png",
+      "name": "item_event_trophy_brothers_1",
+      "name_placeholder": "ITEM_EVENT_TROPHY_BROTHERS_1_NAME",
+      "priority": 1003500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_TROPHY_TYRION_1_DESC",
+      "id": "f02f4c3b30260782",
+      "image": "icon_alchemy_tyrion_trophy.png",
+      "name": "item_event_trophy_tyrion_1",
+      "name_placeholder": "ITEM_EVENT_TROPHY_TYRION_1_NAME",
+      "priority": 1003600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_TROPHY_BARATHEON_1_DESC",
+      "id": "73f6ee80b4527945",
+      "image": "icon_alchemy_baratheon_trophy.png",
+      "name": "item_event_trophy_baratheon_1",
+      "name_placeholder": "ITEM_EVENT_TROPHY_BARATHEON_1_NAME",
+      "priority": 1003700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_TROPHY_MARTELL_1_DESC",
+      "id": "f912dc55a1d1ce46",
+      "image": "icon_alchemy_martell_trophy.png",
+      "name": "item_event_trophy_martell_1",
+      "name_placeholder": "ITEM_EVENT_TROPHY_MARTELL_1_NAME",
+      "priority": 1003800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_TROPHY_OLDNAN2_1_DESC",
+      "id": "94e0c66b34f55899",
+      "image": "icon_alchemy_oldnan_trophy.png",
+      "name": "item_event_trophy_oldnan_1",
+      "name_placeholder": "ITEM_EVENT_TROPHY_OLDNAN2_1_NAME",
+      "priority": 1003900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_TROPHY_WILDLING2_1_DESC",
+      "id": "915078a5a0db190",
+      "image": "icon_alchemy_rattleshirt_trophy.png",
+      "name": "item_event_trophy_wildling2_1",
+      "name_placeholder": "ITEM_EVENT_TROPHY_WILDLING2_1_NAME",
+      "priority": 1004000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_TROPHY_CONQUEST3_1_DESC",
+      "id": "44919458c2a2f0d1",
+      "image": "icon_alchemy_conquest2_trophy.png",
+      "name": "item_event_trophy_conquest3_1",
+      "name_placeholder": "ITEM_EVENT_TROPHY_CONQUEST3_1_NAME",
+      "priority": 1004100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_TROPHY_HOUND_1_DESC",
+      "id": "c2808010c130e334",
+      "image": "icon_alchemy_hound_trophy.png",
+      "name": "item_event_trophy_hound_1",
+      "name_placeholder": "ITEM_EVENT_TROPHY_HOUND_1_NAME",
+      "priority": 1004200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_TROPHY_QUEENLB_1_DESC",
+      "id": "f6fb90fa24356287",
+      "image": "icon_alchemy_queenlb_trophy.png",
+      "name": "item_event_trophy_queenlb_1",
+      "name_placeholder": "ITEM_EVENT_TROPHY_QUEENLB_1_NAME",
+      "priority": 1004300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_TROPHY_RHLLOR_1_DESC",
+      "id": "eabaa1a0bf1bbedb",
+      "image": "icon_alchemy_rhllor_trophy.png",
+      "name": "item_event_trophy_rhllor_1",
+      "name_placeholder": "ITEM_EVENT_TROPHY_RHLLOR_1_NAME",
+      "priority": 1004400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_TROPHY_IRONANN_1_DESC",
+      "id": "910c6a07ebb2a4c0",
+      "image": "icon_alchemy_ironann_trophy.png",
+      "name": "item_event_trophy_ironann_1",
+      "name_placeholder": "ITEM_EVENT_TROPHY_IRONANN_1_NAME",
+      "priority": 1004500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_TROPHY_CERSEI_1_DESC",
+      "id": "b1459692b19a2e2a",
+      "image": "icon_alchemy_cersei_trophy.png",
+      "name": "item_event_trophy_cersei_1",
+      "name_placeholder": "ITEM_EVENT_TROPHY_CERSEI_1_NAME",
+      "priority": 1004600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_TROPHY_KINGSMOOT_1_DESC",
+      "id": "743060f009e1164c",
+      "image": "icon_alchemy_kingsmoot_trophy.png",
+      "name": "item_event_trophy_kingsmoot_1",
+      "name_placeholder": "ITEM_EVENT_TROPHY_KINGSMOOT_1_NAME",
+      "priority": 1004700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_TROPHY_FREEDOM_1_DESC",
+      "id": "93d0b1a261fa9049",
+      "image": "icon_alchemy_freedom_trophy.png",
+      "name": "item_event_trophy_freedom_1",
+      "name_placeholder": "ITEM_EVENT_TROPHY_FREEDOM_1_NAME",
+      "priority": 1004800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_TROPHY_DAWN_1_DESC",
+      "id": "7e239b4e9c6f18b4",
+      "image": "icon_alchemy_dawn_trophy.png",
+      "name": "item_event_trophy_dawn_1",
+      "name_placeholder": "ITEM_EVENT_TROPHY_DAWN_1_NAME",
+      "priority": 1004900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_TROPHY_STARK_1_DESC",
+      "id": "4d7bf887e42fadc3",
+      "image": "icon_alchemy_stark_trophy.png",
+      "name": "item_event_trophy_stark_1",
+      "name_placeholder": "ITEM_EVENT_TROPHY_STARK_1_NAME",
+      "priority": 1005000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_TROPHY_OLDNAN3_1_DESC",
+      "id": "e74beca6f0b76596",
+      "image": "icon_alchemy_oldnan3_trophy.png",
+      "name": "item_event_trophy_oldnan3_1",
+      "name_placeholder": "ITEM_EVENT_TROPHY_OLDNAN3_1_NAME",
+      "priority": 1005100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_TROPHY_HARVEST_1_DESC",
+      "id": "b333d88f4b973be4",
+      "image": "icon_alchemy_harvest_trophy.png",
+      "name": "item_event_trophy_harvest_1",
+      "name_placeholder": "ITEM_EVENT_TROPHY_HARVEST_1_NAME",
+      "priority": 1005200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_TROPHY_YARA_1_DESC",
+      "id": "2c51dc9e43ef63dd",
+      "image": "icon_alchemy_yara_trophy.png",
+      "name": "item_event_trophy_yara_1",
+      "name_placeholder": "ITEM_EVENT_TROPHY_YARA_1_NAME",
+      "priority": 1005300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_TROPHY_HARRENHAL2_1_DESC",
+      "id": "ad8e8610055f103",
+      "image": "icon_alchemy_harrenhal2_trophy.png",
+      "name": "item_event_trophy_harrenhal2_1",
+      "name_placeholder": "ITEM_EVENT_TROPHY_HARRENHAL2_1_NAME",
+      "priority": 1005400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_TROPHY_OLDTOWN_1_DESC",
+      "id": "e244188745debeb4",
+      "image": "icon_alchemy_oldtown_trophy.png",
+      "name": "item_event_trophy_oldtown_1",
+      "name_placeholder": "ITEM_EVENT_TROPHY_OLDTOWN_1_NAME",
+      "priority": 1005500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_TROPHY_ARTOFCOMBAT_1_DESC",
+      "id": "b95e5035ed49a388",
+      "image": "icon_alchemy_artofcombat_trophy.png",
+      "name": "item_event_trophy_artofcombat_1",
+      "name_placeholder": "ITEM_EVENT_TROPHY_ARTOFCOMBAT_1_NAME",
+      "priority": 1005600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_TROPHY_DEADWALK_1_DESC",
+      "id": "1105dcda7a1e1239",
+      "image": "icon_alchemy_deadwalk_trophy.png",
+      "name": "item_event_trophy_deadwalk_1",
+      "name_placeholder": "ITEM_EVENT_TROPHY_DEADWALK_1_NAME",
+      "priority": 1005700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_TROPHY_BARATHEON2_1_DESC",
+      "id": "55ec4d3af5aa28a0",
+      "image": "icon_alchemy_baratheon2_trophy.png",
+      "name": "item_event_trophy_baratheon2_1",
+      "name_placeholder": "ITEM_EVENT_TROPHY_BARATHEON2_1_NAME",
+      "priority": 1005800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_FAVOR_FATHER_1_DESC",
+      "id": "410ccc7ba93a99c5",
+      "image": "icon_item_favor_father.png",
+      "name": "item_event_favor_father_1",
+      "name_placeholder": "ITEM_EVENT_FAVOR_FATHER_1_NAME",
+      "priority": 1006000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_FAVOR_STRANGER_1_DESC",
+      "id": "fd4cb66a8566012f",
+      "image": "icon_item_favor_stranger.png",
+      "name": "item_event_favor_stranger_1",
+      "name_placeholder": "ITEM_EVENT_FAVOR_STRANGER_1_NAME",
+      "priority": 1006100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_2018_12_FAVOR_FESTIVAL_1_DESC",
+      "id": "1540ef7f4900eaeb",
+      "image": "icon_resource_crate_001.png",
+      "name": "item_event_2018_12_favor_festival_1",
+      "name_placeholder": "ITEM_EVENT_2018_12_FAVOR_FESTIVAL_1_NAME",
+      "priority": 1006200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_SNOWY_STARK_1_DESC",
+      "id": "697d6295cf71bc7a",
+      "image": "icon_itm_event_lootbox_snowy_1.png",
+      "name": "item_event_rewardbox_snowy_stark_1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_SNOWY_STARK_1_NAME",
+      "priority": 1006500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_SNOWY_LANNISTER_1_DESC",
+      "id": "a684428e184061e",
+      "image": "icon_itm_event_lootbox_snowy_1.png",
+      "name": "item_event_rewardbox_snowy_lannister_1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_SNOWY_LANNISTER_1_NAME",
+      "priority": 1006600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_SNOWY_TARGARYEN_1_DESC",
+      "id": "e71e423d9cfb882",
+      "image": "icon_itm_event_lootbox_snowy_1.png",
+      "name": "item_event_rewardbox_snowy_targaryen_1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_SNOWY_TARGARYEN_1_NAME",
+      "priority": 1006700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_SNOWY_BARATHEON_1_DESC",
+      "id": "c4878524010f5d87",
+      "image": "icon_itm_event_lootbox_snowy_1.png",
+      "name": "item_event_rewardbox_snowy_baratheon_1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_SNOWY_BARATHEON_1_NAME",
+      "priority": 1006800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_SNOWY_GREYJOY_1_DESC",
+      "id": "be34eb38967bd619",
+      "image": "icon_itm_event_lootbox_snowy_1.png",
+      "name": "item_event_rewardbox_snowy_greyjoy_1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_SNOWY_GREYJOY_1_NAME",
+      "priority": 1006900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_SNOWY_TULLY_1_DESC",
+      "id": "9bfbd6d688343175",
+      "image": "icon_itm_event_lootbox_snowy_1.png",
+      "name": "item_event_rewardbox_snowy_tully_1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_SNOWY_TULLY_1_NAME",
+      "priority": 1007000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_SNOWY_MARTELL_1_DESC",
+      "id": "512ae81a9997f4f9",
+      "image": "icon_itm_event_lootbox_snowy_1.png",
+      "name": "item_event_rewardbox_snowy_martell_1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_SNOWY_MARTELL_1_NAME",
+      "priority": 1007100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_SNOWY_BOLTON_1_DESC",
+      "id": "ab4b98077c6f98dc",
+      "image": "icon_itm_event_lootbox_snowy_1.png",
+      "name": "item_event_rewardbox_snowy_bolton_1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_SNOWY_BOLTON_1_NAME",
+      "priority": 1007200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_SNOWY_NIGHTSWATCH_1_DESC",
+      "id": "68635ac8f90cb81b",
+      "image": "icon_itm_event_lootbox_snowy_1.png",
+      "name": "item_event_rewardbox_snowy_nightswatch_1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_SNOWY_NIGHTSWATCH_1_NAME",
+      "priority": 1007300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_SNOWY_TYRELL_1_DESC",
+      "id": "4680ba163acc7447",
+      "image": "icon_itm_event_lootbox_snowy_1.png",
+      "name": "item_event_rewardbox_snowy_tyrell_1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_SNOWY_TYRELL_1_NAME",
+      "priority": 1007400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_SNOWY_ARRYN_1_DESC",
+      "id": "49588ea7add6f03f",
+      "image": "icon_itm_event_lootbox_snowy_1.png",
+      "name": "item_event_rewardbox_snowy_arryn_1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_SNOWY_ARRYN_1_NAME",
+      "priority": 1007500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_SNOWY_FREY_1_DESC",
+      "id": "6ddd3cf0fa5e5cc4",
+      "image": "icon_itm_event_lootbox_snowy_1.png",
+      "name": "item_event_rewardbox_snowy_frey_1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_SNOWY_FREY_1_NAME",
+      "priority": 1007600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_Q1_DESC",
+      "id": "af923ea82f66331e",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_amount1_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_AMOUNT1_MINQUALITY1_NAME",
+      "priority": 1007900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_Q1_DESC",
+      "id": "5845b7847af839d6",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_amount10_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_AMOUNT10_MINQUALITY1_NAME",
+      "priority": 1008000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_Q1_DESC",
+      "id": "dd28efd0f7f3b4ed",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_amount100_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_AMOUNT100_MINQUALITY1_NAME",
+      "priority": 1008100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_Q1_DESC",
+      "id": "94fd443e79f3def2",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_amount1000_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_AMOUNT1000_MINQUALITY1_NAME",
+      "priority": 1008200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_Q1_DESC",
+      "id": "ff878050cf346558",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_amount10000_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_AMOUNT10000_MINQUALITY1_NAME",
+      "priority": 1008300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_Q1_DESC",
+      "id": "13c2aa4ac74ffbc3",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_amount100000_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_AMOUNT100000_MINQUALITY1_NAME",
+      "priority": 1008400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_Q1_DESC",
+      "id": "a87f105fc94dbe0",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_amount1000000_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_AMOUNT1000000_MINQUALITY1_NAME",
+      "priority": 1008500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_Q1_DESC",
+      "id": "ee28115c35d36f74",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_amount10000000_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_AMOUNT10000000_MINQUALITY1_NAME",
+      "priority": 1008600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_Q1_DESC",
+      "id": "d484cde8ba440660",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_amount100000000_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_AMOUNT100000000_MINQUALITY1_NAME",
+      "priority": 1008700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_Q1_DESC",
+      "id": "2fab335a7c42183c",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_amount1000000000_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_AMOUNT1000000000_MINQUALITY1_NAME",
+      "priority": 1008800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_Q2_DESC",
+      "id": "da806243f693c110",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_amount1_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_AMOUNT1_MINQUALITY2_NAME",
+      "priority": 1009000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_Q2_DESC",
+      "id": "2d57eb6fa30dcbd8",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_amount10_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_AMOUNT10_MINQUALITY2_NAME",
+      "priority": 1009100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_Q2_DESC",
+      "id": "a83ab33b2e0646e3",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_amount100_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_AMOUNT100_MINQUALITY2_NAME",
+      "priority": 1009200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_Q2_DESC",
+      "id": "e1ef18d5a0062cfc",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_amount1000_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_AMOUNT1000_MINQUALITY2_NAME",
+      "priority": 1009300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_Q2_DESC",
+      "id": "8a95dcbb16c19756",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_amount10000_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_AMOUNT10000_MINQUALITY2_NAME",
+      "priority": 1009400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_Q2_DESC",
+      "id": "66d0f6a11eba09cd",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_amount100000_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_AMOUNT100000_MINQUALITY2_NAME",
+      "priority": 1009500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_Q2_DESC",
+      "id": "7f95adee256129ee",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_amount1000000_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_AMOUNT1000000_MINQUALITY2_NAME",
+      "priority": 1009600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_Q2_DESC",
+      "id": "9b3a4db7ec269d7a",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_amount10000000_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_AMOUNT10000000_MINQUALITY2_NAME",
+      "priority": 1009700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_Q2_DESC",
+      "id": "a196910363b1f46e",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_amount100000000_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_AMOUNT100000000_MINQUALITY2_NAME",
+      "priority": 1009800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_Q2_DESC",
+      "id": "5ab96fb1a5b7ea32",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_amount1000000000_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_AMOUNT1000000000_MINQUALITY2_NAME",
+      "priority": 1009900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_Q3_DESC",
+      "id": "f671a9e541c090ea",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_amount1_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_AMOUNT1_MINQUALITY3_NAME",
+      "priority": 1010100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_Q3_DESC",
+      "id": "1a620c9145e9a22",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_amount10_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_AMOUNT10_MINQUALITY3_NAME",
+      "priority": 1010200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_Q3_DESC",
+      "id": "84cb789d99551719",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_amount100_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_AMOUNT100_MINQUALITY3_NAME",
+      "priority": 1010300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_Q3_DESC",
+      "id": "cd1ed37317557d06",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_amount1000_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_AMOUNT1000_MINQUALITY3_NAME",
+      "priority": 1010400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_Q3_DESC",
+      "id": "a664171da192c6ac",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_amount10000_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_AMOUNT10000_MINQUALITY3_NAME",
+      "priority": 1010500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_Q3_DESC",
+      "id": "4a213d07a9e95837",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_amount100000_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_AMOUNT100000_MINQUALITY3_NAME",
+      "priority": 1010600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_Q3_DESC",
+      "id": "5364664892327814",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_amount1000000_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_AMOUNT1000000_MINQUALITY3_NAME",
+      "priority": 1010700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_Q3_DESC",
+      "id": "b7cb86115b75cc80",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_amount10000000_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_AMOUNT10000000_MINQUALITY3_NAME",
+      "priority": 1010800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_Q3_DESC",
+      "id": "8d675aa5d4e2a594",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_amount100000000_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_AMOUNT100000000_MINQUALITY3_NAME",
+      "priority": 1010900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_Q3_DESC",
+      "id": "7648a41712e4bbc8",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_amount1000000000_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_AMOUNT1000000000_MINQUALITY3_NAME",
+      "priority": 1011000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S1_Q1_DESC",
+      "id": "f7eccb343e5ae0c2",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s1_amount1_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S1_AMOUNT1_MINQUALITY1_NAME",
+      "priority": 1011200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S1_Q1_DESC",
+      "id": "269214c2353e9f01",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s1_amount10_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S1_AMOUNT10_MINQUALITY1_NAME",
+      "priority": 1011300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S1_Q1_DESC",
+      "id": "33ffa66b48abdaba",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s1_amount100_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S1_AMOUNT100_MINQUALITY1_NAME",
+      "priority": 1011400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S1_Q1_DESC",
+      "id": "bbe72c559f8c89f8",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s1_amount1000_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S1_AMOUNT1000_MINQUALITY1_NAME",
+      "priority": 1011500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S1_Q1_DESC",
+      "id": "437f123539417900",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s1_amount10000_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S1_AMOUNT10000_MINQUALITY1_NAME",
+      "priority": 1011600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S1_Q1_DESC",
+      "id": "1f6b80cb08f4f4a6",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s1_amount100000_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S1_AMOUNT100000_MINQUALITY1_NAME",
+      "priority": 1011700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S1_Q1_DESC",
+      "id": "a5eaf55dbe709f18",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s1_amount1000000_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S1_AMOUNT1000000_MINQUALITY1_NAME",
+      "priority": 1011800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S1_Q1_DESC",
+      "id": "b26b76983c82cb66",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s1_amount10000000_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S1_AMOUNT10000000_MINQUALITY1_NAME",
+      "priority": 1011900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S1_Q1_DESC",
+      "id": "c5e96536bf2f3aed",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s1_amount100000000_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S1_AMOUNT100000000_MINQUALITY1_NAME",
+      "priority": 1012000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S1_Q1_DESC",
+      "id": "94e585b49fbb027c",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s1_amount1000000000_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S1_AMOUNT1000000000_MINQUALITY1_NAME",
+      "priority": 1012100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S1_Q2_DESC",
+      "id": "82fe97dfe7af12cc",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s1_amount1_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S1_AMOUNT1_MINQUALITY2_NAME",
+      "priority": 1012300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S1_Q2_DESC",
+      "id": "53804829eccb6d0f",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s1_amount10_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S1_AMOUNT10_MINQUALITY2_NAME",
+      "priority": 1012400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S1_Q2_DESC",
+      "id": "46edfa80915e28b4",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s1_amount100_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S1_AMOUNT100_MINQUALITY2_NAME",
+      "priority": 1012500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S1_Q2_DESC",
+      "id": "cef570be46797bf6",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s1_amount1000_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S1_AMOUNT1000_MINQUALITY2_NAME",
+      "priority": 1012600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S1_Q2_DESC",
+      "id": "366d4edee0b48b0e",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s1_amount10000_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S1_AMOUNT10000_MINQUALITY2_NAME",
+      "priority": 1012700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S1_Q2_DESC",
+      "id": "6a79dc20d10106a8",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s1_amount100000_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S1_AMOUNT100000_MINQUALITY2_NAME",
+      "priority": 1012800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S1_Q2_DESC",
+      "id": "d0f8a9b667856d16",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s1_amount1000000_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S1_AMOUNT1000000_MINQUALITY2_NAME",
+      "priority": 1012900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S1_Q2_DESC",
+      "id": "c7792a73e5773968",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s1_amount10000000_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S1_AMOUNT10000000_MINQUALITY2_NAME",
+      "priority": 1013000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S1_Q2_DESC",
+      "id": "b0fb39dd66dac8e3",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s1_amount100000000_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S1_AMOUNT100000000_MINQUALITY2_NAME",
+      "priority": 1013100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S1_Q2_DESC",
+      "id": "e1f7d95f464ef072",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s1_amount1000000000_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S1_AMOUNT1000000000_MINQUALITY2_NAME",
+      "priority": 1013200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S1_Q3_DESC",
+      "id": "ae0f5c7950fc4336",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s1_amount1_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S1_AMOUNT1_MINQUALITY3_NAME",
+      "priority": 1013400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S1_Q3_DESC",
+      "id": "7f71838f5b983cf5",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s1_amount10_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S1_AMOUNT10_MINQUALITY3_NAME",
+      "priority": 1013500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S1_Q3_DESC",
+      "id": "6a1c3126260d794e",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s1_amount100_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S1_AMOUNT100_MINQUALITY3_NAME",
+      "priority": 1013600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S1_Q3_DESC",
+      "id": "e204bb18f12a2a0c",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s1_amount1000_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S1_AMOUNT1000_MINQUALITY3_NAME",
+      "priority": 1013700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S1_Q3_DESC",
+      "id": "1a9c857857e7daf4",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s1_amount10000_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S1_AMOUNT10000_MINQUALITY3_NAME",
+      "priority": 1013800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S1_Q3_DESC",
+      "id": "4688178666525752",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s1_amount100000_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S1_AMOUNT100000_MINQUALITY3_NAME",
+      "priority": 1013900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S1_Q3_DESC",
+      "id": "fc096210d0d63cec",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s1_amount1000000_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S1_AMOUNT1000000_MINQUALITY3_NAME",
+      "priority": 1014000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S1_Q3_DESC",
+      "id": "eb88e1d552246892",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s1_amount10000000_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S1_AMOUNT10000000_MINQUALITY3_NAME",
+      "priority": 1014100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S1_Q3_DESC",
+      "id": "9c0af27bd1899919",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s1_amount100000000_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S1_AMOUNT100000000_MINQUALITY3_NAME",
+      "priority": 1014200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S1_Q3_DESC",
+      "id": "cd0612f9f11da188",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s1_amount1000000000_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S1_AMOUNT1000000000_MINQUALITY3_NAME",
+      "priority": 1014300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S2_Q1_DESC",
+      "id": "9f17b895c9a5cdfc",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s2_amount1_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S2_AMOUNT1_MINQUALITY1_NAME",
+      "priority": 1014500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S2_Q1_DESC",
+      "id": "f09ccc3b245a17ac",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s2_amount10_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S2_AMOUNT10_MINQUALITY1_NAME",
+      "priority": 1014600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S2_Q1_DESC",
+      "id": "19d28a1cd3cf52f4",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s2_amount100_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S2_AMOUNT100_MINQUALITY1_NAME",
+      "priority": 1014700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S2_Q1_DESC",
+      "id": "152e16495e75bdc8",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s2_amount1000_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S2_AMOUNT1000_MINQUALITY1_NAME",
+      "priority": 1014800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S2_Q1_DESC",
+      "id": "9aa75e12d5cdd353",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s2_amount10000_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S2_AMOUNT10000_MINQUALITY1_NAME",
+      "priority": 1014900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S2_Q1_DESC",
+      "id": "8381c93faf953080",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s2_amount100000_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S2_AMOUNT100000_MINQUALITY1_NAME",
+      "priority": 1015000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S2_Q1_DESC",
+      "id": "def65f2aa6b5877a",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s2_amount1000000_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S2_AMOUNT1000000_MINQUALITY1_NAME",
+      "priority": 1015100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S2_Q1_DESC",
+      "id": "dba4b5318c09446f",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s2_amount10000000_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S2_AMOUNT10000000_MINQUALITY1_NAME",
+      "priority": 1015200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S2_Q1_DESC",
+      "id": "c457e1352f92063",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s2_amount100000000_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S2_AMOUNT100000000_MINQUALITY1_NAME",
+      "priority": 1015300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S2_Q1_DESC",
+      "id": "5a61ae025e5f5714",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s2_amount1000000000_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S2_AMOUNT1000000000_MINQUALITY1_NAME",
+      "priority": 1015400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S2_Q2_DESC",
+      "id": "ea05e47e10503ff2",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s2_amount1_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S2_AMOUNT1_MINQUALITY2_NAME",
+      "priority": 1015600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S2_Q2_DESC",
+      "id": "858e90d0fdafe5a2",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s2_amount10_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S2_AMOUNT10_MINQUALITY2_NAME",
+      "priority": 1015700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S2_Q2_DESC",
+      "id": "6cc0d6f70a3aa0fa",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s2_amount100_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S2_AMOUNT100_MINQUALITY2_NAME",
+      "priority": 1015800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S2_Q2_DESC",
+      "id": "603c4aa287804fc6",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s2_amount1000_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S2_AMOUNT1000_MINQUALITY2_NAME",
+      "priority": 1015900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S2_Q2_DESC",
+      "id": "efb502f90c38215d",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s2_amount10000_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S2_AMOUNT10000_MINQUALITY2_NAME",
+      "priority": 1016000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S2_Q2_DESC",
+      "id": "f69395d47660c28e",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s2_amount100000_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S2_AMOUNT100000_MINQUALITY2_NAME",
+      "priority": 1016100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S2_Q2_DESC",
+      "id": "abe403c17f407574",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s2_amount1000000_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S2_AMOUNT1000000_MINQUALITY2_NAME",
+      "priority": 1016200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S2_Q2_DESC",
+      "id": "aeb6e9da55fcb661",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s2_amount10000000_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S2_AMOUNT10000000_MINQUALITY2_NAME",
+      "priority": 1016300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S2_Q2_DESC",
+      "id": "795722f88b0cd26d",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s2_amount100000000_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S2_AMOUNT100000000_MINQUALITY2_NAME",
+      "priority": 1016400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S2_Q2_DESC",
+      "id": "2f73f2e987aaa51a",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s2_amount1000000000_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S2_AMOUNT1000000000_MINQUALITY2_NAME",
+      "priority": 1016500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S2_Q3_DESC",
+      "id": "c6f42fd8a7036e08",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s2_amount1_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S2_AMOUNT1_MINQUALITY3_NAME",
+      "priority": 1016700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S2_Q3_DESC",
+      "id": "a97f5b764afcb458",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s2_amount10_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S2_AMOUNT10_MINQUALITY3_NAME",
+      "priority": 1016800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S2_Q3_DESC",
+      "id": "40311d51bd69f100",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s2_amount100_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S2_AMOUNT100_MINQUALITY3_NAME",
+      "priority": 1016900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S2_Q3_DESC",
+      "id": "4ccd810430d31e3c",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s2_amount1000_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S2_AMOUNT1000_MINQUALITY3_NAME",
+      "priority": 1017000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S2_Q3_DESC",
+      "id": "c344c95fbb6b70a7",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s2_amount10000_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S2_AMOUNT10000_MINQUALITY3_NAME",
+      "priority": 1017100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S2_Q3_DESC",
+      "id": "da625e72c1339374",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s2_amount100000_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S2_AMOUNT100000_MINQUALITY3_NAME",
+      "priority": 1017200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S2_Q3_DESC",
+      "id": "8715c867c813248e",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s2_amount1000000_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S2_AMOUNT1000000_MINQUALITY3_NAME",
+      "priority": 1017300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S2_Q3_DESC",
+      "id": "8247227ce2afe79b",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s2_amount10000000_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S2_AMOUNT10000000_MINQUALITY3_NAME",
+      "priority": 1017400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S2_Q3_DESC",
+      "id": "55a6e95e3c5f8397",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s2_amount100000000_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S2_AMOUNT100000000_MINQUALITY3_NAME",
+      "priority": 1017500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S2_Q3_DESC",
+      "id": "382394f30f9f4e0",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s2_amount1000000000_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S2_AMOUNT1000000000_MINQUALITY3_NAME",
+      "priority": 1017600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S3_Q1_DESC",
+      "id": "b8be960a9b0f2916",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s3_amount1_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S3_AMOUNT1_MINQUALITY1_NAME",
+      "priority": 1017800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S3_Q1_DESC",
+      "id": "bd66846c2b799037",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s3_amount10_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S3_AMOUNT10_MINQUALITY1_NAME",
+      "priority": 1017900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S3_Q1_DESC",
+      "id": "366e31a5132ace",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s3_amount100_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S3_AMOUNT100_MINQUALITY1_NAME",
+      "priority": 1018000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S3_Q1_DESC",
+      "id": "7096ffbd1edd51d8",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s3_amount1000_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S3_AMOUNT1000_MINQUALITY1_NAME",
+      "priority": 1018100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S3_Q1_DESC",
+      "id": "d2109a0f8e49b562",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s3_amount10000_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S3_AMOUNT10000_MINQUALITY1_NAME",
+      "priority": 1018200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S3_Q1_DESC",
+      "id": "764e3040f5d0b67b",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s3_amount100000_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S3_AMOUNT100000_MINQUALITY1_NAME",
+      "priority": 1018300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S3_Q1_DESC",
+      "id": "f7fdc6f8510970a4",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s3_amount1000000_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S3_AMOUNT1000000_MINQUALITY1_NAME",
+      "priority": 1018400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S3_Q1_DESC",
+      "id": "fce1f456e38fc168",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s3_amount10000000_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S3_AMOUNT10000000_MINQUALITY1_NAME",
+      "priority": 1018500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S3_Q1_DESC",
+      "id": "cab74923312e1300",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s3_amount100000000_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S3_AMOUNT100000000_MINQUALITY1_NAME",
+      "priority": 1018600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S3_Q1_DESC",
+      "id": "1fe248901efc9bcc",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s3_amount1000000000_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S3_AMOUNT1000000000_MINQUALITY1_NAME",
+      "priority": 1018700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S3_Q2_DESC",
+      "id": "cdaccae142fadb18",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s3_amount1_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S3_AMOUNT1_MINQUALITY2_NAME",
+      "priority": 1018900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S3_Q2_DESC",
+      "id": "c874d887f28c6239",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s3_amount10_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S3_AMOUNT10_MINQUALITY2_NAME",
+      "priority": 1019000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S3_Q2_DESC",
+      "id": "752432da7ce6d8c0",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s3_amount100_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S3_AMOUNT100_MINQUALITY2_NAME",
+      "priority": 1019100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S3_Q2_DESC",
+      "id": "584a356c728a3d6",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s3_amount1000_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S3_AMOUNT1000_MINQUALITY2_NAME",
+      "priority": 1019200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S3_Q2_DESC",
+      "id": "a702c6e457bc476c",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s3_amount10000_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S3_AMOUNT10000_MINQUALITY2_NAME",
+      "priority": 1019300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S3_Q2_DESC",
+      "id": "35c6cab2c254475",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s3_amount100000_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S3_AMOUNT100000_MINQUALITY2_NAME",
+      "priority": 1019400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S3_Q2_DESC",
+      "id": "82ef9a1388fc82aa",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s3_amount1000000_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S3_AMOUNT1000000_MINQUALITY2_NAME",
+      "priority": 1019500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S3_Q2_DESC",
+      "id": "89f3a8bd3a7a3366",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s3_amount10000000_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S3_AMOUNT10000000_MINQUALITY2_NAME",
+      "priority": 1019600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S3_Q2_DESC",
+      "id": "bfa515c8e8dbe10e",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s3_amount100000000_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S3_AMOUNT100000000_MINQUALITY2_NAME",
+      "priority": 1019700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S3_Q2_DESC",
+      "id": "6af0147bc70969c2",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s3_amount1000000000_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S3_AMOUNT1000000000_MINQUALITY2_NAME",
+      "priority": 1019800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S3_Q3_DESC",
+      "id": "e15d0147f5a98ae2",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s3_amount1_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S3_AMOUNT1_MINQUALITY3_NAME",
+      "priority": 1020000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S3_Q3_DESC",
+      "id": "e485132145df33c3",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s3_amount10_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S3_AMOUNT10_MINQUALITY3_NAME",
+      "priority": 1020100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S3_Q3_DESC",
+      "id": "59d5f97ccbb5893a",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s3_amount100_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S3_AMOUNT100_MINQUALITY3_NAME",
+      "priority": 1020200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S3_Q3_DESC",
+      "id": "297568f0707bf22c",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s3_amount1000_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S3_AMOUNT1000_MINQUALITY3_NAME",
+      "priority": 1020300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S3_Q3_DESC",
+      "id": "8bf30d42e0ef1696",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s3_amount10000_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S3_AMOUNT10000_MINQUALITY3_NAME",
+      "priority": 1020400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S3_Q3_DESC",
+      "id": "2fada70d9b76158f",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s3_amount100000_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S3_AMOUNT100000_MINQUALITY3_NAME",
+      "priority": 1020500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S3_Q3_DESC",
+      "id": "ae1e51b53fafd350",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s3_amount1000000_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S3_AMOUNT1000000_MINQUALITY3_NAME",
+      "priority": 1020600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S3_Q3_DESC",
+      "id": "a502631b8d29629c",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s3_amount10000000_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S3_AMOUNT10000000_MINQUALITY3_NAME",
+      "priority": 1020700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S3_Q3_DESC",
+      "id": "9354de6e5f88b0f4",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s3_amount100000000_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S3_AMOUNT100000000_MINQUALITY3_NAME",
+      "priority": 1020800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S3_Q3_DESC",
+      "id": "4601dfdd705a3838",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s3_amount1000000000_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S3_AMOUNT1000000000_MINQUALITY3_NAME",
+      "priority": 1020900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S4_Q1_DESC",
+      "id": "4ee15fd6265b9780",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s4_amount1_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S4_AMOUNT1_MINQUALITY1_NAME",
+      "priority": 1021100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S4_Q1_DESC",
+      "id": "de3b3fbc4f3c49dd",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s4_amount10_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S4_AMOUNT10_MINQUALITY1_NAME",
+      "priority": 1021200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S4_Q1_DESC",
+      "id": "4d88d2f3e5064268",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s4_amount100_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S4_AMOUNT100_MINQUALITY1_NAME",
+      "priority": 1021300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S4_Q1_DESC",
+      "id": "ca06200594289a83",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s4_amount1000_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S4_AMOUNT1000_MINQUALITY1_NAME",
+      "priority": 1021400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S4_Q1_DESC",
+      "id": "abad8428457bc8de",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s4_amount10000_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S4_AMOUNT10000_MINQUALITY1_NAME",
+      "priority": 1021500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S4_Q1_DESC",
+      "id": "38ef18a3a8f9f7e7",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s4_amount100000_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S4_AMOUNT100000_MINQUALITY1_NAME",
+      "priority": 1021600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S4_Q1_DESC",
+      "id": "28cf0bc4973fb7be",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s4_amount1000000_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S4_AMOUNT1000000_MINQUALITY1_NAME",
+      "priority": 1021700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S4_Q1_DESC",
+      "id": "83b3262ed1e5a7d",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s4_amount10000000_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S4_AMOUNT10000000_MINQUALITY1_NAME",
+      "priority": 1021800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S4_Q1_DESC",
+      "id": "1da70a2dc0fa5a54",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s4_amount100000000_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S4_AMOUNT100000000_MINQUALITY1_NAME",
+      "priority": 1021900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S4_Q1_DESC",
+      "id": "45d3bb1a9438b2ef",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s4_amount1000000000_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S4_AMOUNT1000000000_MINQUALITY1_NAME",
+      "priority": 1022000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S4_Q2_DESC",
+      "id": "3bf3033dffae658e",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s4_amount1_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S4_AMOUNT1_MINQUALITY2_NAME",
+      "priority": 1022200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S4_Q2_DESC",
+      "id": "ab29635796c9bbd3",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s4_amount10_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S4_AMOUNT10_MINQUALITY2_NAME",
+      "priority": 1022300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S4_Q2_DESC",
+      "id": "389a8e183cf3b066",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s4_amount100_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S4_AMOUNT100_MINQUALITY2_NAME",
+      "priority": 1022400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S4_Q2_DESC",
+      "id": "bf147cee4ddd688d",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s4_amount1000_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S4_AMOUNT1000_MINQUALITY2_NAME",
+      "priority": 1022500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S4_Q2_DESC",
+      "id": "debfd8c39c8e3ad0",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s4_amount10000_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S4_AMOUNT10000_MINQUALITY2_NAME",
+      "priority": 1022600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S4_Q2_DESC",
+      "id": "4dfd4448710c05e9",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s4_amount100000_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S4_AMOUNT100000_MINQUALITY2_NAME",
+      "priority": 1022700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S4_Q2_DESC",
+      "id": "5ddd572f4eca45b0",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s4_amount1000000_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S4_AMOUNT1000000_MINQUALITY2_NAME",
+      "priority": 1022800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S4_Q2_DESC",
+      "id": "7d296e8934eba873",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s4_amount10000000_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S4_AMOUNT10000000_MINQUALITY2_NAME",
+      "priority": 1022900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S4_Q2_DESC",
+      "id": "68b556c6190fa85a",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s4_amount100000000_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S4_AMOUNT100000000_MINQUALITY2_NAME",
+      "priority": 1023000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S4_Q2_DESC",
+      "id": "30c1e7f14dcd40e1",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s4_amount1000000000_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S4_AMOUNT1000000000_MINQUALITY2_NAME",
+      "priority": 1023100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S4_Q3_DESC",
+      "id": "1702c89b48fd3474",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s4_amount1_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S4_AMOUNT1_MINQUALITY3_NAME",
+      "priority": 1023300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S4_Q3_DESC",
+      "id": "87d8a8f1219aea29",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s4_amount10_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S4_AMOUNT10_MINQUALITY3_NAME",
+      "priority": 1023400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S4_Q3_DESC",
+      "id": "146b45be8ba0e19c",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s4_amount100_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S4_AMOUNT100_MINQUALITY3_NAME",
+      "priority": 1023500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S4_Q3_DESC",
+      "id": "93e5b748fa8e3977",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s4_amount1000_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S4_AMOUNT1000_MINQUALITY3_NAME",
+      "priority": 1023600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S4_Q3_DESC",
+      "id": "f24e13652bdd6b2a",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s4_amount10000_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S4_AMOUNT10000_MINQUALITY3_NAME",
+      "priority": 1023700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S4_Q3_DESC",
+      "id": "610c8feec65f5413",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s4_amount100000_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S4_AMOUNT100000_MINQUALITY3_NAME",
+      "priority": 1023800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S4_Q3_DESC",
+      "id": "712c9c89f999144a",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s4_amount1000000_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S4_AMOUNT1000000_MINQUALITY3_NAME",
+      "priority": 1023900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S4_Q3_DESC",
+      "id": "51d8a52f83b8f989",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s4_amount10000000_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S4_AMOUNT10000000_MINQUALITY3_NAME",
+      "priority": 1024000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S4_Q3_DESC",
+      "id": "44449d60ae5cf9a0",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s4_amount100000000_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S4_AMOUNT100000000_MINQUALITY3_NAME",
+      "priority": 1024100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S4_Q3_DESC",
+      "id": "1c302c57fa9e111b",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s4_amount1000000000_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S4_AMOUNT1000000000_MINQUALITY3_NAME",
+      "priority": 1024200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S5_Q1_DESC",
+      "id": "6948714974f1736a",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s5_amount1_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S5_AMOUNT1_MINQUALITY1_NAME",
+      "priority": 1024400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S5_Q1_DESC",
+      "id": "93c177eb401fce46",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s5_amount10_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S5_AMOUNT10_MINQUALITY1_NAME",
+      "priority": 1024500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S5_Q1_DESC",
+      "id": "546c36de93da3a52",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s5_amount100_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S5_AMOUNT100_MINQUALITY1_NAME",
+      "priority": 1024600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S5_Q1_DESC",
+      "id": "afbec9f1d4807693",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s5_amount1000_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S5_AMOUNT1000_MINQUALITY1_NAME",
+      "priority": 1024700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S5_Q1_DESC",
+      "id": "e31a40351effaeef",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s5_amount10000_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S5_AMOUNT10000_MINQUALITY1_NAME",
+      "priority": 1024800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S5_Q1_DESC",
+      "id": "cd20e1dcf2bc711c",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s5_amount100000_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S5_AMOUNT100000_MINQUALITY1_NAME",
+      "priority": 1024900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S5_Q1_DESC",
+      "id": "1c4921660834060",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s5_amount1000000_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S5_AMOUNT1000000_MINQUALITY1_NAME",
+      "priority": 1025000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S5_Q1_DESC",
+      "id": "2f7e73058298df7a",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s5_amount10000000_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S5_AMOUNT10000000_MINQUALITY1_NAME",
+      "priority": 1025100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S5_Q1_DESC",
+      "id": "db553d1da32d6937",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s5_amount100000000_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S5_AMOUNT100000000_MINQUALITY1_NAME",
+      "priority": 1025200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S5_Q1_DESC",
+      "id": "505d88d49b7e37",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s5_amount1000000000_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S5_AMOUNT1000000000_MINQUALITY1_NAME",
+      "priority": 1025300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S5_Q2_DESC",
+      "id": "1c5a2da2ad048164",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s5_amount1_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S5_AMOUNT1_MINQUALITY2_NAME",
+      "priority": 1025500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S5_Q2_DESC",
+      "id": "e6d32b0099ea3c48",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s5_amount10_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S5_AMOUNT10_MINQUALITY2_NAME",
+      "priority": 1025600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S5_Q2_DESC",
+      "id": "217e6a354a2fc85c",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s5_amount100_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S5_AMOUNT100_MINQUALITY2_NAME",
+      "priority": 1025700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S5_Q2_DESC",
+      "id": "daac951a0d75849d",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s5_amount1000_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S5_AMOUNT1000_MINQUALITY2_NAME",
+      "priority": 1025800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S5_Q2_DESC",
+      "id": "96081cdec70a5ce1",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s5_amount10000_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S5_AMOUNT10000_MINQUALITY2_NAME",
+      "priority": 1025900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S5_Q2_DESC",
+      "id": "b832bd372b498312",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s5_amount100000_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S5_AMOUNT100000_MINQUALITY2_NAME",
+      "priority": 1026000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S5_Q2_DESC",
+      "id": "74d6cefdb976b26e",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s5_amount1000000_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S5_AMOUNT1000000_MINQUALITY2_NAME",
+      "priority": 1026100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S5_Q2_DESC",
+      "id": "5a6c2fee5b6d2d74",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s5_amount10000000_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S5_AMOUNT10000000_MINQUALITY2_NAME",
+      "priority": 1026200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S5_Q2_DESC",
+      "id": "ae4761f67ad89b39",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s5_amount100000000_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S5_AMOUNT100000000_MINQUALITY2_NAME",
+      "priority": 1026300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S5_Q2_DESC",
+      "id": "754201630d6e8c39",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s5_amount1000000000_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S5_AMOUNT1000000000_MINQUALITY2_NAME",
+      "priority": 1026400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S5_Q3_DESC",
+      "id": "30abe6041a57d09e",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s5_amount1_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S5_AMOUNT1_MINQUALITY3_NAME",
+      "priority": 1026600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S5_Q3_DESC",
+      "id": "ca22e0a62eb96db2",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s5_amount10_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S5_AMOUNT10_MINQUALITY3_NAME",
+      "priority": 1026700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S5_Q3_DESC",
+      "id": "d8fa193fd7c99a6",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s5_amount100_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S5_AMOUNT100_MINQUALITY3_NAME",
+      "priority": 1026800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S5_Q3_DESC",
+      "id": "f65d5ebcba26d567",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s5_amount1000_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S5_AMOUNT1000_MINQUALITY3_NAME",
+      "priority": 1026900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S5_Q3_DESC",
+      "id": "baf9d77870590d1b",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s5_amount10000_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S5_AMOUNT10000_MINQUALITY3_NAME",
+      "priority": 1027000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S5_Q3_DESC",
+      "id": "94c376919c1ad2e8",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s5_amount100000_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S5_AMOUNT100000_MINQUALITY3_NAME",
+      "priority": 1027100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S5_Q3_DESC",
+      "id": "5827055b0e25e394",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s5_amount1000000_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S5_AMOUNT1000000_MINQUALITY3_NAME",
+      "priority": 1027200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S5_Q3_DESC",
+      "id": "769de448ec3e7c8e",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s5_amount10000000_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S5_AMOUNT10000000_MINQUALITY3_NAME",
+      "priority": 1027300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S5_Q3_DESC",
+      "id": "82b6aa50cd8bcac3",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s5_amount100000000_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S5_AMOUNT100000000_MINQUALITY3_NAME",
+      "priority": 1027400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S5_Q3_DESC",
+      "id": "59b3cac5ba3dddc3",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s5_amount1000000000_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S5_AMOUNT1000000000_MINQUALITY3_NAME",
+      "priority": 1027500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S6_Q1_DESC",
+      "id": "1b302e8830e5e54",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s6_amount1_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S6_AMOUNT1_MINQUALITY1_NAME",
+      "priority": 1027700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S6_Q1_DESC",
+      "id": "45cfaf12517b46eb",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s6_amount10_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S6_AMOUNT10_MINQUALITY1_NAME",
+      "priority": 1027800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S6_Q1_DESC",
+      "id": "7e411aa908beb21c",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s6_amount100_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S6_AMOUNT100_MINQUALITY1_NAME",
+      "priority": 1027900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S6_Q1_DESC",
+      "id": "177f3ed157942a3",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s6_amount1000_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S6_AMOUNT1000_MINQUALITY1_NAME",
+      "priority": 1028000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S6_Q1_DESC",
+      "id": "3ac20c12f27304bc",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s6_amount10000_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S6_AMOUNT10000_MINQUALITY1_NAME",
+      "priority": 1028100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S6_Q1_DESC",
+      "id": "51caa82855ddb53a",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s6_amount100000_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S6_AMOUNT100000_MINQUALITY1_NAME",
+      "priority": 1028200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S6_Q1_DESC",
+      "id": "7ad8386178465802",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s6_amount1000000_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S6_AMOUNT1000000_MINQUALITY1_NAME",
+      "priority": 1028300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S6_Q1_DESC",
+      "id": "46b1b0ac32135073",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s6_amount10000000_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S6_AMOUNT10000000_MINQUALITY1_NAME",
+      "priority": 1028400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S6_Q1_DESC",
+      "id": "12f926384efb73b9",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s6_amount100000000_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S6_AMOUNT100000000_MINQUALITY1_NAME",
+      "priority": 1028500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S6_Q1_DESC",
+      "id": "ced4763e157f2b5f",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s6_amount1000000000_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S6_AMOUNT1000000000_MINQUALITY1_NAME",
+      "priority": 1028600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S6_Q2_DESC",
+      "id": "74a15e035afbac5a",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s6_amount1_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S6_AMOUNT1_MINQUALITY2_NAME",
+      "priority": 1028800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S6_Q2_DESC",
+      "id": "30ddf3f9888eb4e5",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s6_amount10_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S6_AMOUNT10_MINQUALITY2_NAME",
+      "priority": 1028900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S6_Q2_DESC",
+      "id": "b534642d14b4012",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s6_amount100_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S6_AMOUNT100_MINQUALITY2_NAME",
+      "priority": 1029000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S6_Q2_DESC",
+      "id": "7465af06cc8cb0ad",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s6_amount1000_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S6_AMOUNT1000_MINQUALITY2_NAME",
+      "priority": 1029100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S6_Q2_DESC",
+      "id": "4fd050f92b86f6b2",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s6_amount10000_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S6_AMOUNT10000_MINQUALITY2_NAME",
+      "priority": 1029200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S6_Q2_DESC",
+      "id": "24d8f4c38c284734",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s6_amount100000_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S6_AMOUNT100000_MINQUALITY2_NAME",
+      "priority": 1029300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S6_Q2_DESC",
+      "id": "fca648aa1b3aa0c",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s6_amount1000000_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S6_AMOUNT1000000_MINQUALITY2_NAME",
+      "priority": 1029400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S6_Q2_DESC",
+      "id": "33a3ec47ebe6a27d",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s6_amount10000000_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S6_AMOUNT10000000_MINQUALITY2_NAME",
+      "priority": 1029500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S6_Q2_DESC",
+      "id": "67eb7ad3970e81b7",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s6_amount100000000_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S6_AMOUNT100000000_MINQUALITY2_NAME",
+      "priority": 1029600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S6_Q2_DESC",
+      "id": "bbc62ad5cc8ad951",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s6_amount1000000000_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S6_AMOUNT1000000000_MINQUALITY2_NAME",
+      "priority": 1029700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S6_Q3_DESC",
+      "id": "585095a5eda8fda0",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s6_amount1_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S6_AMOUNT1_MINQUALITY3_NAME",
+      "priority": 1029900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S6_Q3_DESC",
+      "id": "1c2c385f3fdde51f",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s6_amount10_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S6_AMOUNT10_MINQUALITY3_NAME",
+      "priority": 1030000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S6_Q3_DESC",
+      "id": "27a28de4661811e8",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s6_amount100_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S6_AMOUNT100_MINQUALITY3_NAME",
+      "priority": 1030100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S6_Q3_DESC",
+      "id": "589464a07bdfe157",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s6_amount1000_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S6_AMOUNT1000_MINQUALITY3_NAME",
+      "priority": 1030200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S6_Q3_DESC",
+      "id": "63219b5f9cd5a748",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s6_amount10000_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S6_AMOUNT10000_MINQUALITY3_NAME",
+      "priority": 1030300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S6_Q3_DESC",
+      "id": "8293f653b7b16ce",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s6_amount100000_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S6_AMOUNT100000_MINQUALITY3_NAME",
+      "priority": 1030400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S6_Q3_DESC",
+      "id": "233baf2c16e0fbf6",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s6_amount1000000_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S6_AMOUNT1000000_MINQUALITY3_NAME",
+      "priority": 1030500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S6_Q3_DESC",
+      "id": "1f5227e15cb5f387",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s6_amount10000000_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S6_AMOUNT10000000_MINQUALITY3_NAME",
+      "priority": 1030600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S6_Q3_DESC",
+      "id": "4b1ab175205dd04d",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s6_amount100000000_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S6_AMOUNT100000000_MINQUALITY3_NAME",
+      "priority": 1030700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S6_Q3_DESC",
+      "id": "9737e1737bd988ab",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s6_amount1000000000_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S6_AMOUNT1000000000_MINQUALITY3_NAME",
+      "priority": 1030800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA1_Q1_DESC",
+      "id": "f0a15388b59dbb0f",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta1_amount1_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA1_AMOUNT1_MINQUALITY1_NAME",
+      "priority": 1031000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA1_Q1_DESC",
+      "id": "3c3933bb42f55d79",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta1_amount10_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA1_AMOUNT10_MINQUALITY1_NAME",
+      "priority": 1031100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA1_Q1_DESC",
+      "id": "ae5426b6c418f6bb",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta1_amount100_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA1_AMOUNT100_MINQUALITY1_NAME",
+      "priority": 1031200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA1_Q1_DESC",
+      "id": "978b4c73f5536b2e",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta1_amount1000_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA1_AMOUNT1000_MINQUALITY1_NAME",
+      "priority": 1031300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA1_Q1_DESC",
+      "id": "810b2beb516f5fe9",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta1_amount10000_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA1_AMOUNT10000_MINQUALITY1_NAME",
+      "priority": 1031400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA1_Q1_DESC",
+      "id": "276649609f1805f1",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta1_amount100000_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA1_AMOUNT100000_MINQUALITY1_NAME",
+      "priority": 1031500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA1_Q2_DESC",
+      "id": "85b30f636c684901",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta1_amount1_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA1_AMOUNT1_MINQUALITY2_NAME",
+      "priority": 1031700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA1_Q2_DESC",
+      "id": "492b6f509b00af77",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta1_amount10_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA1_AMOUNT10_MINQUALITY2_NAME",
+      "priority": 1031800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA1_Q2_DESC",
+      "id": "db467a5d1ded04b5",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta1_amount100_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA1_AMOUNT100_MINQUALITY2_NAME",
+      "priority": 1031900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA1_Q2_DESC",
+      "id": "e29910982ca69920",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta1_amount1000_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA1_AMOUNT1000_MINQUALITY2_NAME",
+      "priority": 1032000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA1_Q2_DESC",
+      "id": "f4197700889aade7",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta1_amount10000_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA1_AMOUNT10000_MINQUALITY2_NAME",
+      "priority": 1032100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA1_Q2_DESC",
+      "id": "5274158b46edf7ff",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta1_amount100000_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA1_AMOUNT100000_MINQUALITY2_NAME",
+      "priority": 1032200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA1_Q3_DESC",
+      "id": "a942c4c5db3b18fb",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta1_amount1_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA1_AMOUNT1_MINQUALITY3_NAME",
+      "priority": 1032400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA1_Q3_DESC",
+      "id": "65daa4f62c53fe8d",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta1_amount10_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA1_AMOUNT10_MINQUALITY3_NAME",
+      "priority": 1032500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA1_Q3_DESC",
+      "id": "f7b7b1fbaabe554f",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta1_amount100_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA1_AMOUNT100_MINQUALITY3_NAME",
+      "priority": 1032600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA1_Q3_DESC",
+      "id": "ce68db3e9bf5c8da",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta1_amount1000_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA1_AMOUNT1000_MINQUALITY3_NAME",
+      "priority": 1032700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA1_Q3_DESC",
+      "id": "d8e8bca63fc9fc1d",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta1_amount10000_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA1_AMOUNT10000_MINQUALITY3_NAME",
+      "priority": 1032800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA1_Q3_DESC",
+      "id": "7e85de2df1bea605",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta1_amount100000_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA1_AMOUNT100000_MINQUALITY3_NAME",
+      "priority": 1032900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA2_Q1_DESC",
+      "id": "985a202942629631",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta2_amount1_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA2_AMOUNT1_MINQUALITY1_NAME",
+      "priority": 1033100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA2_Q1_DESC",
+      "id": "ea37eb425391d5d4",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta2_amount10_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA2_AMOUNT10_MINQUALITY1_NAME",
+      "priority": 1033200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA2_Q1_DESC",
+      "id": "84790ac15f7c7ef5",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta2_amount100_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA2_AMOUNT100_MINQUALITY1_NAME",
+      "priority": 1033300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA2_Q1_DESC",
+      "id": "3942766f34aa5f1e",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta2_amount1000_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA2_AMOUNT1000_MINQUALITY1_NAME",
+      "priority": 1033400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA2_Q1_DESC",
+      "id": "58d367ccbde3f5ba",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta2_amount10000_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA2_AMOUNT10000_MINQUALITY1_NAME",
+      "priority": 1033500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA2_Q1_DESC",
+      "id": "bb8c00943879c1d7",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta2_amount100000_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA2_AMOUNT100000_MINQUALITY1_NAME",
+      "priority": 1033600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA2_Q2_DESC",
+      "id": "ed487cc29b97643f",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta2_amount1_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA2_AMOUNT1_MINQUALITY2_NAME",
+      "priority": 1033800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA2_Q2_DESC",
+      "id": "9f25b7a98a6427da",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta2_amount10_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA2_AMOUNT10_MINQUALITY2_NAME",
+      "priority": 1033900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA2_Q2_DESC",
+      "id": "f16b562a86898cfb",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta2_amount100_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA2_AMOUNT100_MINQUALITY2_NAME",
+      "priority": 1034000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA2_Q2_DESC",
+      "id": "4c502a84ed5fad10",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta2_amount1000_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA2_AMOUNT1000_MINQUALITY2_NAME",
+      "priority": 1034100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA2_Q2_DESC",
+      "id": "2dc13b27641607b4",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta2_amount10000_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA2_AMOUNT10000_MINQUALITY2_NAME",
+      "priority": 1034200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA2_Q2_DESC",
+      "id": "ce9e5c7fe18c33d9",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta2_amount100000_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA2_AMOUNT100000_MINQUALITY2_NAME",
+      "priority": 1034300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA2_Q3_DESC",
+      "id": "c1b9b7642cc435c5",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta2_amount1_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA2_AMOUNT1_MINQUALITY3_NAME",
+      "priority": 1034500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA2_Q3_DESC",
+      "id": "b3d47c0f3d377620",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta2_amount10_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA2_AMOUNT10_MINQUALITY3_NAME",
+      "priority": 1034600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA2_Q3_DESC",
+      "id": "dd9a9d8c31dadd01",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta2_amount100_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA2_AMOUNT100_MINQUALITY3_NAME",
+      "priority": 1034700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA2_Q3_DESC",
+      "id": "60a1e1225a0cfcea",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta2_amount1000_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA2_AMOUNT1000_MINQUALITY3_NAME",
+      "priority": 1034800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA2_Q3_DESC",
+      "id": "130f081d345564e",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta2_amount10000_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA2_AMOUNT10000_MINQUALITY3_NAME",
+      "priority": 1034900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA2_Q3_DESC",
+      "id": "e26f97d956df6223",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta2_amount100000_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA2_AMOUNT100000_MINQUALITY3_NAME",
+      "priority": 1035000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA3_Q1_DESC",
+      "id": "bff30eb610c872db",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta3_amount1_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA3_AMOUNT1_MINQUALITY1_NAME",
+      "priority": 1035200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA3_Q1_DESC",
+      "id": "a7cda3155cb2524f",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta3_amount10_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA3_AMOUNT10_MINQUALITY1_NAME",
+      "priority": 1035300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA3_Q1_DESC",
+      "id": "9d9deeec29a006cf",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta3_amount100_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA3_AMOUNT100_MINQUALITY1_NAME",
+      "priority": 1035400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA3_Q1_DESC",
+      "id": "5cfa9f9b7402b30e",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta3_amount1000_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA3_AMOUNT1000_MINQUALITY1_NAME",
+      "priority": 1035500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA3_Q1_DESC",
+      "id": "1064a3d1e667938b",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta3_amount10000_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA3_AMOUNT10000_MINQUALITY1_NAME",
+      "priority": 1035600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA3_Q1_DESC",
+      "id": "4e43f9eb623c472c",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta3_amount100000_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA3_AMOUNT100000_MINQUALITY1_NAME",
+      "priority": 1035700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA3_Q2_DESC",
+      "id": "cae1525dc93d80d5",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta3_amount1_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA3_AMOUNT1_MINQUALITY2_NAME",
+      "priority": 1035900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA3_Q2_DESC",
+      "id": "d2dffffe8547a041",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta3_amount10_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA3_AMOUNT10_MINQUALITY2_NAME",
+      "priority": 1036000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA3_Q2_DESC",
+      "id": "e88fb207f055f4c1",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta3_amount100_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA3_AMOUNT100_MINQUALITY2_NAME",
+      "priority": 1036100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA3_Q2_DESC",
+      "id": "29e8c370adf74100",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta3_amount1000_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA3_AMOUNT1000_MINQUALITY2_NAME",
+      "priority": 1036200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA3_Q2_DESC",
+      "id": "6576ff3a3f926185",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta3_amount10000_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA3_AMOUNT10000_MINQUALITY2_NAME",
+      "priority": 1036300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA3_Q2_DESC",
+      "id": "3b51a500bbc9b522",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta3_amount100000_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA3_AMOUNT100000_MINQUALITY2_NAME",
+      "priority": 1036400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA3_Q3_DESC",
+      "id": "e61099fb7e6ed12f",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta3_amount1_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA3_AMOUNT1_MINQUALITY3_NAME",
+      "priority": 1036600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA3_Q3_DESC",
+      "id": "fe2e34583214f1bb",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta3_amount10_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA3_AMOUNT10_MINQUALITY3_NAME",
+      "priority": 1036700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA3_Q3_DESC",
+      "id": "c47e79a14706a53b",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta3_amount100_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA3_AMOUNT100_MINQUALITY3_NAME",
+      "priority": 1036800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA3_Q3_DESC",
+      "id": "51908d61aa410fa",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta3_amount1000_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA3_AMOUNT1000_MINQUALITY3_NAME",
+      "priority": 1036900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA3_Q3_DESC",
+      "id": "4987349c88c1307f",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta3_amount10000_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA3_AMOUNT10000_MINQUALITY3_NAME",
+      "priority": 1037000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA3_Q3_DESC",
+      "id": "17a06ea60c9ae4d8",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta3_amount100000_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA3_AMOUNT100000_MINQUALITY3_NAME",
+      "priority": 1037100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA4_Q1_DESC",
+      "id": "49acc76aad9ccc4d",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta4_amount1_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA4_AMOUNT1_MINQUALITY1_NAME",
+      "priority": 1037300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA4_Q1_DESC",
+      "id": "c49018c538f78ba5",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta4_amount10_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA4_AMOUNT10_MINQUALITY1_NAME",
+      "priority": 1037400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA4_Q1_DESC",
+      "id": "d023522e69b56e69",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta4_amount100_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA4_AMOUNT100_MINQUALITY1_NAME",
+      "priority": 1037500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA4_Q1_DESC",
+      "id": "e66a4023fef77855",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta4_amount1000_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA4_AMOUNT1000_MINQUALITY1_NAME",
+      "priority": 1037600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA4_Q1_DESC",
+      "id": "69d9bdf62d55ee37",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta4_amount10000_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA4_AMOUNT10000_MINQUALITY1_NAME",
+      "priority": 1037700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA4_Q1_DESC",
+      "id": "e2d1083f1506b0",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta4_amount100000_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA4_AMOUNT100000_MINQUALITY1_NAME",
+      "priority": 1037800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA4_Q2_DESC",
+      "id": "3cbe9b8174693e43",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta4_amount1_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA4_AMOUNT1_MINQUALITY2_NAME",
+      "priority": 1038000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA4_Q2_DESC",
+      "id": "b182442ee10279ab",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta4_amount10_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA4_AMOUNT10_MINQUALITY2_NAME",
+      "priority": 1038100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA4_Q2_DESC",
+      "id": "a5310ec5b0409c67",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta4_amount100_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA4_AMOUNT100_MINQUALITY2_NAME",
+      "priority": 1038200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA4_Q2_DESC",
+      "id": "93781cc827028a5b",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta4_amount1000_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA4_AMOUNT1000_MINQUALITY2_NAME",
+      "priority": 1038300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA4_Q2_DESC",
+      "id": "1ccbe11df4a01c39",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta4_amount10000_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA4_AMOUNT10000_MINQUALITY2_NAME",
+      "priority": 1038400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA4_Q2_DESC",
+      "id": "75f08de3e6e0f4be",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta4_amount100000_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA4_AMOUNT100000_MINQUALITY2_NAME",
+      "priority": 1038500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA4_Q3_DESC",
+      "id": "104f5027c33a6fb9",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta4_amount1_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA4_AMOUNT1_MINQUALITY3_NAME",
+      "priority": 1038700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA4_Q3_DESC",
+      "id": "9d738f8856512851",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta4_amount10_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA4_AMOUNT10_MINQUALITY3_NAME",
+      "priority": 1038800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA4_Q3_DESC",
+      "id": "89c0c5630713cd9d",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta4_amount100_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA4_AMOUNT100_MINQUALITY3_NAME",
+      "priority": 1038900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA4_Q3_DESC",
+      "id": "bf89d76e9051dba1",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta4_amount1000_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA4_AMOUNT1000_MINQUALITY3_NAME",
+      "priority": 1039000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA4_Q3_DESC",
+      "id": "303a2abb43f34dc3",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta4_amount10000_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA4_AMOUNT10000_MINQUALITY3_NAME",
+      "priority": 1039100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA4_Q3_DESC",
+      "id": "5901464551b3a544",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta4_amount100000_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA4_AMOUNT100000_MINQUALITY3_NAME",
+      "priority": 1039200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_BUILDINGENHANCEMENT_1_DESC",
+      "id": "1754ee770e690862",
+      "image": "icon_lootbox_alchemy_01.png",
+      "name": "item_event_rewardbox_buildingenhancement_1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_BUILDINGENHANCEMENT_1_NAME",
+      "priority": 1039400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_BUILDINGENHANCEMENT_2_DESC",
+      "id": "6246b29cd79cfa6c",
+      "image": "icon_lootbox_alchemy_01.png",
+      "name": "item_event_rewardbox_buildingenhancement_2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_BUILDINGENHANCEMENT_2_NAME",
+      "priority": 1039600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_BUILDINGENHANCEMENT_3_DESC",
+      "id": "4eb7793a60cfab96",
+      "image": "icon_lootbox_alchemy_01.png",
+      "name": "item_event_rewardbox_buildingenhancement_3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_BUILDINGENHANCEMENT_3_NAME",
+      "priority": 1039700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_CRAFTINGMATERIAL_1_DESC",
+      "id": "ee34b06eeb38b70",
+      "image": "icon_lootbox_alchemy_01.png",
+      "name": "item_event_rewardbox_craftingmaterial_1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_CRAFTINGMATERIAL_1_NAME",
+      "priority": 1039900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_CRAFTINGMATERIAL_2_DESC",
+      "id": "7bf117ed3746797e",
+      "image": "icon_lootbox_alchemy_01.png",
+      "name": "item_event_rewardbox_craftingmaterial_2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_CRAFTINGMATERIAL_2_NAME",
+      "priority": 1040000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_LIVESTOCK_1_DESC",
+      "id": "de9ec358193b2b54",
+      "image": "icon_lootbox_dragon_materials_01.png",
+      "name": "item_event_rewardbox_livestock_1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_LIVESTOCK_1_NAME",
+      "priority": 1040200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_LIVESTOCK_2_DESC",
+      "id": "ab8c9fb3c0ced95a",
+      "image": "icon_lootbox_dragon_materials_01.png",
+      "name": "item_event_rewardbox_livestock_2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_LIVESTOCK_2_NAME",
+      "priority": 1040300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_LIVESTOCK_3_DESC",
+      "id": "877d5415779d88a0",
+      "image": "icon_lootbox_dragon_materials_01.png",
+      "name": "item_event_rewardbox_livestock_3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_LIVESTOCK_3_NAME",
+      "priority": 1040400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_COMBATBOOST_1_DESC",
+      "id": "bc5f235cdd094624",
+      "image": "icon_lootbox_alchemy_01.png",
+      "name": "item_event_rewardbox_combatboost_1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_COMBATBOOST_1_NAME",
+      "priority": 1040600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_PLOTBOOST_1_DESC",
+      "id": "8e18951343bf571d",
+      "image": "icon_lootbox_alchemy_01.png",
+      "name": "item_event_rewardbox_plotboost_1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_PLOTBOOST_1_NAME",
+      "priority": 1040700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_FAVOR_TYRELL_1_DESC",
+      "id": "2caa2244704bb85f",
+      "image": "icon_item_favor_masquerade.png",
+      "name": "item_event_favor_tyrell_1",
+      "name_placeholder": "ITEM_EVENT_FAVOR_TYRELL_1_NAME",
+      "priority": 1040900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_FAVOR_NWM_1_DESC",
+      "id": "72f5172db74fe7f9",
+      "image": "icon_item_favor_battleplans.png",
+      "name": "item_event_favor_nwm_1",
+      "name_placeholder": "ITEM_EVENT_FAVOR_NWM_1_NAME",
+      "priority": 1041100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_EASTWATCH_XS_DESC",
+      "id": "40e87aa2f11d4a49",
+      "image": "icon_event_lootbox_nwm_boosts_eastwatch.png",
+      "name": "item_event_rewardbox_nwm_boosts_eastwatch_xs",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_EASTWATCH_XS_NAME",
+      "priority": 1041300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_EASTWATCH_S_DESC",
+      "id": "32d5c9154272321f",
+      "image": "icon_event_lootbox_nwm_boosts_eastwatch.png",
+      "name": "item_event_rewardbox_nwm_boosts_eastwatch_s",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_EASTWATCH_S_NAME",
+      "priority": 1041400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_EASTWATCH_M_DESC",
+      "id": "75171376ad68d825",
+      "image": "icon_event_lootbox_nwm_boosts_eastwatch.png",
+      "name": "item_event_rewardbox_nwm_boosts_eastwatch_m",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_EASTWATCH_M_NAME",
+      "priority": 1041500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_EASTWATCH_L_DESC",
+      "id": "59e6d8d01a3b89df",
+      "image": "icon_event_lootbox_nwm_boosts_eastwatch.png",
+      "name": "item_event_rewardbox_nwm_boosts_eastwatch_l",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_EASTWATCH_L_NAME",
+      "priority": 1041600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_EASTWATCH_XL_DESC",
+      "id": "2bdb6b67a954f189",
+      "image": "icon_event_lootbox_nwm_boosts_eastwatch.png",
+      "name": "item_event_rewardbox_nwm_boosts_eastwatch_xl",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_EASTWATCH_XL_NAME",
+      "priority": 1041700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_EASTWATCH_XXL_DESC",
+      "id": "28ac2250f474c06f",
+      "image": "icon_event_lootbox_nwm_boosts_eastwatch.png",
+      "name": "item_event_rewardbox_nwm_boosts_eastwatch_xxl",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_EASTWATCH_XXL_NAME",
+      "priority": 1041800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_SHADOWTOWER_XS_DESC",
+      "id": "547605c0e418b344",
+      "image": "icon_event_lootbox_nwm_boosts_shadowtower.png",
+      "name": "item_event_rewardbox_nwm_boosts_shadowtower_xs",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_SHADOWTOWER_XS_NAME",
+      "priority": 1041900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_SHADOWTOWER_S_DESC",
+      "id": "92dc9ffe9005b4f7",
+      "image": "icon_event_lootbox_nwm_boosts_shadowtower.png",
+      "name": "item_event_rewardbox_nwm_boosts_shadowtower_s",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_SHADOWTOWER_S_NAME",
+      "priority": 1042000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_SHADOWTOWER_M_DESC",
+      "id": "d51e459d7f1f5ecd",
+      "image": "icon_event_lootbox_nwm_boosts_shadowtower.png",
+      "name": "item_event_rewardbox_nwm_boosts_shadowtower_m",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_SHADOWTOWER_M_NAME",
+      "priority": 1042100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_SHADOWTOWER_L_DESC",
+      "id": "f9ef8e3bc84c0f37",
+      "image": "icon_event_lootbox_nwm_boosts_shadowtower.png",
+      "name": "item_event_rewardbox_nwm_boosts_shadowtower_l",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_SHADOWTOWER_L_NAME",
+      "priority": 1042200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_SHADOWTOWER_XL_DESC",
+      "id": "3f451405bc510884",
+      "image": "icon_event_lootbox_nwm_boosts_shadowtower.png",
+      "name": "item_event_rewardbox_nwm_boosts_shadowtower_xl",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_SHADOWTOWER_XL_NAME",
+      "priority": 1042300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_SHADOWTOWER_XXL_DESC",
+      "id": "52ba46530f4a137f",
+      "image": "icon_event_lootbox_nwm_boosts_shadowtower.png",
+      "name": "item_event_rewardbox_nwm_boosts_shadowtower_xxl",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_SHADOWTOWER_XXL_NAME",
+      "priority": 1042400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_NIGHTFORT_XS_DESC",
+      "id": "d6cb4b71c0094298",
+      "image": "icon_event_lootbox_nwm_boosts_nightfort.png",
+      "name": "item_event_rewardbox_nwm_boosts_nightfort_xs",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_NIGHTFORT_XS_NAME",
+      "priority": 1042500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_NIGHTFORT_S_DESC",
+      "id": "3d4eb8dbb0f52ab8",
+      "image": "icon_event_lootbox_nwm_boosts_nightfort.png",
+      "name": "item_event_rewardbox_nwm_boosts_nightfort_s",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_NIGHTFORT_S_NAME",
+      "priority": 1042600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_NIGHTFORT_M_DESC",
+      "id": "7a8c62b85fefc082",
+      "image": "icon_event_lootbox_nwm_boosts_nightfort.png",
+      "name": "item_event_rewardbox_nwm_boosts_nightfort_m",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_NIGHTFORT_M_NAME",
+      "priority": 1042700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_NIGHTFORT_L_DESC",
+      "id": "567da91ee8bc9178",
+      "image": "icon_event_lootbox_nwm_boosts_nightfort.png",
+      "name": "item_event_rewardbox_nwm_boosts_nightfort_l",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_NIGHTFORT_L_NAME",
+      "priority": 1042800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_NIGHTFORT_XL_DESC",
+      "id": "bdf85ab49840f958",
+      "image": "icon_event_lootbox_nwm_boosts_nightfort.png",
+      "name": "item_event_rewardbox_nwm_boosts_nightfort_xl",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_NIGHTFORT_XL_NAME",
+      "priority": 1042900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_NIGHTFORT_XXL_DESC",
+      "id": "2cb726ae6db9988a",
+      "image": "icon_event_lootbox_nwm_boosts_nightfort.png",
+      "name": "item_event_rewardbox_nwm_boosts_nightfort_xxl",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_NIGHTFORT_XXL_NAME",
+      "priority": 1043000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_CASTLEBLACK_XS_DESC",
+      "id": "3e761e1c6e85db0a",
+      "image": "icon_event_lootbox_nwm_boosts_castleblack.png",
+      "name": "item_event_rewardbox_nwm_boosts_castleblack_xs",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_CASTLEBLACK_XS_NAME",
+      "priority": 1043100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_CASTLEBLACK_S_DESC",
+      "id": "236cc4590d7975c3",
+      "image": "icon_event_lootbox_nwm_boosts_castleblack.png",
+      "name": "item_event_rewardbox_nwm_boosts_castleblack_s",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_CASTLEBLACK_S_NAME",
+      "priority": 1043200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_CASTLEBLACK_M_DESC",
+      "id": "64ae1e3ae2639ff9",
+      "image": "icon_event_lootbox_nwm_boosts_castleblack.png",
+      "name": "item_event_rewardbox_nwm_boosts_castleblack_m",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_CASTLEBLACK_M_NAME",
+      "priority": 1043300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_CASTLEBLACK_L_DESC",
+      "id": "485fd59c5530ce03",
+      "image": "icon_event_lootbox_nwm_boosts_castleblack.png",
+      "name": "item_event_rewardbox_nwm_boosts_castleblack_l",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_CASTLEBLACK_L_NAME",
+      "priority": 1043400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_CASTLEBLACK_XL_DESC",
+      "id": "55450fd936cc60ca",
+      "image": "icon_event_lootbox_nwm_boosts_castleblack.png",
+      "name": "item_event_rewardbox_nwm_boosts_castleblack_xl",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_CASTLEBLACK_XL_NAME",
+      "priority": 1043500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_CASTLEBLACK_XXL_DESC",
+      "id": "fc33517865a2deaf",
+      "image": "icon_event_lootbox_nwm_boosts_castleblack.png",
+      "name": "item_event_rewardbox_nwm_boosts_castleblack_xxl",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_CASTLEBLACK_XXL_NAME",
+      "priority": 1043600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_WALL_S_DESC",
+      "id": "d3ac172877f4705b",
+      "image": "icon_event_lootbox_nwm_boosts_wall.png",
+      "name": "item_event_rewardbox_nwm_boosts_wall_s",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_WALL_S_NAME",
+      "priority": 1043800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_WALL_M_DESC",
+      "id": "946ecd4b98ee9a61",
+      "image": "icon_event_lootbox_nwm_boosts_wall.png",
+      "name": "item_event_rewardbox_nwm_boosts_wall_m",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_WALL_M_NAME",
+      "priority": 1043900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_WALL_L_DESC",
+      "id": "b89f06ed2fbdcb9b",
+      "image": "icon_event_lootbox_nwm_boosts_wall.png",
+      "name": "item_event_rewardbox_nwm_boosts_wall_l",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_WALL_L_NAME",
+      "priority": 1044000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_WALL_S_A_DESC",
+      "id": "70aed5e46bb52b1f",
+      "image": "icon_event_lootbox_nwm_boosts_wall.png",
+      "name": "item_event_rewardbox_nwm_boosts_wall_s_a",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_WALL_S_A_NAME",
+      "priority": 1044200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_WALL_S_D_DESC",
+      "id": "ef9830d801ab3d0d",
+      "image": "icon_event_lootbox_nwm_boosts_wall.png",
+      "name": "item_event_rewardbox_nwm_boosts_wall_s_d",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_WALL_S_D_NAME",
+      "priority": 1044300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_WALL_S_H_DESC",
+      "id": "b96b01022fd3ba1e",
+      "image": "icon_event_lootbox_nwm_boosts_wall.png",
+      "name": "item_event_rewardbox_nwm_boosts_wall_s_h",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_WALL_S_H_NAME",
+      "priority": 1044400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_WALL_M_A_DESC",
+      "id": "e875855c6bca1e54",
+      "image": "icon_event_lootbox_nwm_boosts_wall.png",
+      "name": "item_event_rewardbox_nwm_boosts_wall_m_a",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_WALL_M_A_NAME",
+      "priority": 1044500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_WALL_M_D_DESC",
+      "id": "7743606001d40846",
+      "image": "icon_event_lootbox_nwm_boosts_wall.png",
+      "name": "item_event_rewardbox_nwm_boosts_wall_m_d",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_WALL_M_D_NAME",
+      "priority": 1044600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_WALL_M_H_DESC",
+      "id": "21b051ba2fac8f55",
+      "image": "icon_event_lootbox_nwm_boosts_wall.png",
+      "name": "item_event_rewardbox_nwm_boosts_wall_m_h",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_WALL_M_H_NAME",
+      "priority": 1044700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_WALL_L_A_DESC",
+      "id": "24baef5b56806e47",
+      "image": "icon_event_lootbox_nwm_boosts_wall.png",
+      "name": "item_event_rewardbox_nwm_boosts_wall_l_a",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_WALL_L_A_NAME",
+      "priority": 1044800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_WALL_L_D_DESC",
+      "id": "bb8c0a673c9e7855",
+      "image": "icon_event_lootbox_nwm_boosts_wall.png",
+      "name": "item_event_rewardbox_nwm_boosts_wall_l_d",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_WALL_L_D_NAME",
+      "priority": 1044900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_WALL_L_H_DESC",
+      "id": "ed7f3bbd12e6ff46",
+      "image": "icon_event_lootbox_nwm_boosts_wall.png",
+      "name": "item_event_rewardbox_nwm_boosts_wall_l_h",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_WALL_L_H_NAME",
+      "priority": 1045000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_FAVOR_TGH_1_DESC",
+      "id": "60cc7cea907a4ca6",
+      "image": "icon_item_favor_elkvenison.png",
+      "name": "item_event_favor_tgh_1",
+      "name_placeholder": "ITEM_EVENT_FAVOR_TGH_1_NAME",
+      "priority": 1022900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_FAVOR_LUNAR_1_DESC",
+      "id": "507d4126eacad82e",
+      "image": "icon_item_lunar_lantern_material.png",
+      "name": "item_event_favor_lunar_1",
+      "name_placeholder": "ITEM_EVENT_FAVOR_LUNAR_1_NAME",
+      "priority": 1045400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_HOTPIE_DIREWOLF_BREAD_BASIC_1_DESC",
+      "id": "cff2600b2d113990",
+      "image": "icon_alchemy_direwolf_bread_trophy.png",
+      "name": "item_event_rewardbox_hotpie_direwolf_bread_basic_1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_HOTPIE_DIREWOLF_BREAD_BASIC_1_NAME",
+      "priority": 1045600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_HOTPIE_DIREWOLF_BREAD_RARE_1_DESC",
+      "id": "d4d853a90c852a62",
+      "image": "icon_alchemy_direwolf_bread_frosted_trophy.png",
+      "name": "item_event_rewardbox_hotpie_direwolf_bread_rare_1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_HOTPIE_DIREWOLF_BREAD_RARE_1_NAME",
+      "priority": 1045700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_HOTPIE_DIREWOLF_BREAD_EPIC_1_DESC",
+      "id": "4b591187be64bd82",
+      "image": "icon_alchemy_direwolf_bread_jellyfilled_trophy.png",
+      "name": "item_event_rewardbox_hotpie_direwolf_bread_epic_1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_HOTPIE_DIREWOLF_BREAD_EPIC_1_NAME",
+      "priority": 1045800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_COIN_IRONANN_DESC",
+      "id": "4ff35bc3a5435e8e",
+      "image": "icon_coin_ironCrown.png",
+      "name": "item_event_favor_ironcrown_1",
+      "name_placeholder": "ITEM_EVENT_COIN_IRONANN_NAME",
+      "priority": 1046000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_COIN_FESTIVAL_1_DESC",
+      "id": "67c83e6deafc46c0",
+      "image": "icon_item_token_festival_common.png",
+      "name": "item_event_favor_festival_1",
+      "name_placeholder": "ITEM_EVENT_COIN_FESTIVAL_1_NAME",
+      "priority": 1046200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_COIN_FESTIVAL_2_DESC",
+      "id": "12da62863309b4ce",
+      "image": "icon_item_token_festival_fine.png",
+      "name": "item_event_favor_festival_2",
+      "name_placeholder": "ITEM_EVENT_COIN_FESTIVAL_2_NAME",
+      "priority": 1046300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_FAVOR_FEAST_CAKES_1_DESC",
+      "id": "756345fb724afe72",
+      "image": "icon_item_bakery_ingredients.png",
+      "name": "item_event_favor_feast_cakes_1",
+      "name_placeholder": "ITEM_EVENT_FAVOR_FEAST_CAKES_1_NAME",
+      "priority": 1046500,
+      "type": "item"
+    }
+  ]
+}

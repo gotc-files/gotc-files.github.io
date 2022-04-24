@@ -1,0 +1,869 @@
+{
+  "description": "Items",
+  "values": [
+    {
+      "description_placeholder": "ITEM_GIFT_SAMPLE_1_DESCRIPTION",
+      "id": "f10b2d71967ea306",
+      "image": "title_steward.png",
+      "name": "item_gift_sample_1",
+      "name_placeholder": "ITEM_GIFT_SAMPLE_1_NAME",
+      "priority": 3000500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_GIFT_SAMPLE_2_DESCRIPTION",
+      "id": "8419719a4f8b5108",
+      "image": "title_steward.png",
+      "name": "item_gift_sample_2",
+      "name_placeholder": "ITEM_GIFT_SAMPLE_2_NAME",
+      "priority": 3000600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_GIFT_SAMPLE_3_DESCRIPTION",
+      "id": "a8e8ba3cf8d800f2",
+      "image": "title_steward.png",
+      "name": "item_gift_sample_3",
+      "name_placeholder": "ITEM_GIFT_SAMPLE_3_NAME",
+      "priority": 3000700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_ALLEGIANCEGIFT_TEST_1_DESCRIPTION",
+      "id": "7bf37613ab35dfb1",
+      "image": "icon_give_to_allegiance.png",
+      "name": "item_allegiancegift_test_1",
+      "name_placeholder": "ITEM_ALLEGIANCEGIFT_TEST_1_NAME",
+      "priority": 3000800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_GIFT_UNKNOWN_DESCRIPTION",
+      "id": "c5abd48be6ac0c95",
+      "image": "icon_iap_allegiance_gift_02.png",
+      "name": "item_gift_unknown",
+      "name_placeholder": "ITEM_GIFT_UNKNOWN_NAME",
+      "priority": 3000900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_BULWARKBUNDLE_1_DESCRIPTION",
+      "id": "10d4094820eebcfd",
+      "image": "icon_mail_gift.png",
+      "name": "item_personalgift_BulwarkBundle_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_BULWARKBUNDLE_1_NAME",
+      "priority": 3001100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_GOLDBUNDLE_1_DESCRIPTION",
+      "id": "365fd4b1bf86d5f2",
+      "image": "icon_mail_gift.png",
+      "name": "item_personalgift_GoldBundle_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_GOLDBUNDLE_1_NAME",
+      "priority": 3001200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_MAPMARKER_1_DESC",
+      "id": "968ef0ae0c0ce8b5",
+      "image": "icon_mail_gift.png",
+      "name": "item_personalgift_MapMarker_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_MAPMARKER_1_NAME",
+      "priority": 3001400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_MAPMARKER_1_DESC",
+      "id": "e39cac45d5f91abb",
+      "image": "icon_mail_gift.png",
+      "name": "item_personalgift_MapMarker_2",
+      "name_placeholder": "ITEM_PERSONALGIFT_MAPMARKER_2_NAME",
+      "priority": 3001500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_ARC_HALLOWEEN_DESCRIPTION",
+      "id": "62fae2c904776a9d",
+      "image": "icon_item_mail_token_stranger.png",
+      "name": "item_personalgift_StrangerFigurine_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_ARC_HALLOWEEN_NAME",
+      "priority": 3002800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_ARC_HALLOWEEN_DESCRIPTION",
+      "id": "afbe489e4fb9ec4c",
+      "image": "icon_item_mail_token_stranger_rare.png",
+      "name": "item_personalgift_StrangerFigurine_Common_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_ARC_HALLOWEEN_COMMON_NAME",
+      "priority": 3002900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_ARC_HALLOWEEN_PREMIUM_DESCRIPTION",
+      "id": "3e7154478f95896d",
+      "image": "icon_item_mail_token_stranger_exquisite.png",
+      "name": "item_personalgift_StrangerFigurine_Premium_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_ARC_HALLOWEEN_PREMIUM_NAME",
+      "priority": 3003000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_CRUDE_ARC_FATHER_DESCRIPTION",
+      "id": "7d58c251d2bafbac",
+      "image": "icon_item_mail_token_father.png",
+      "name": "item_personalgift_FatherFigurine_Crude_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_CRUDE_ARC_FATHER_NAME",
+      "priority": 3003200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_ARC_FATHER_DESCRIPTION",
+      "id": "8e85a1b7dca7f852",
+      "image": "icon_item_mail_token_father_rare.png",
+      "name": "item_personalgift_FatherFigurine_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_ARC_FATHER_NAME",
+      "priority": 3003300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_PREMIUM_ARC_FATHER_DESCRIPTION",
+      "id": "15a504f906026ab3",
+      "image": "icon_item_mail_token_father_exquisite.png",
+      "name": "item_personalgift_FatherFigurine_Premium_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_PREMIUM_ARC_FATHER_NAME",
+      "priority": 3003400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_HARRENHAL_1_DESCRIPTION",
+      "id": "7a135c9aeb2ff69e",
+      "image": "icon_item_mail_token_blueRose.png",
+      "name": "item_personalgift_BlueRose_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_HARRENHAL_1_NAME",
+      "priority": 3003600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_PREMIUM_ARC_HARRENHAL_DESCRIPTION",
+      "id": "8ab88b2d7a70a69a",
+      "image": "icon_item_mail_token_blueRose.png",
+      "name": "item_personalgift_BlueRose_Premium_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_PREMIUM_ARC_HARRENHAL_NAME",
+      "priority": 3003700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_REDENVELOPE_BASIC_DESCRIPTION",
+      "id": "972e4c1b48276d38",
+      "image": "icon_item_mail_token_redEnvelope.png",
+      "name": "item_personalgift_RedEnvelope_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_REDENVELOPE_BASIC_NAME",
+      "priority": 3003900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_REDENVELOPE_PREMIUM_DESCRIPTION",
+      "id": "8f7bc88084bec592",
+      "image": "icon_item_mail_token_redEnvelope.png",
+      "name": "item_personalgift_RedEnvelope_Premium_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_REDENVELOPE_PREMIUM_NAME",
+      "priority": 3004000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_REMEMBRANCETOKEN_CRUDE_DESCRIPTION",
+      "id": "44f0f93d275b472c",
+      "image": "icon_item_mail_token_remembrance_common.png",
+      "name": "item_personalgift_RemembranceToken_Crude_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_REMEMBRANCETOKEN_CRUDE_NAME",
+      "priority": 3004300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_REMEMBRANCETOKEN_COMMON_DESCRIPTION",
+      "id": "c31292012c3bfde3",
+      "image": "icon_item_mail_token_remembrance_rare.png",
+      "name": "item_personalgift_RemembranceToken_Common_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_REMEMBRANCETOKEN_COMMON_NAME",
+      "priority": 3004400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_REMEMBRANCETOKEN_PREMIUM_DESCRIPTION",
+      "id": "4d054d7f1c25444e",
+      "image": "icon_item_mail_token_remembrance_exquisite.png",
+      "name": "item_personalgift_RemembranceToken_Premium_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_REMEMBRANCETOKEN_PREMIUM_NAME",
+      "priority": 3004500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_VALE_COMMON_DESCRIPTION",
+      "id": "f89ec51b3ba8b043",
+      "image": "icon_item_mail_token_FalconKnight_tier03.png",
+      "name": "item_personalgift_Vale_Common_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_VALE_COMMON_NAME",
+      "priority": 3004700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_VALE_RARE_DESCRIPTION",
+      "id": "9d4756a52239cf33",
+      "image": "icon_item_mail_token_FalconKnight_tier02.png",
+      "name": "item_personalgift_Vale_Rare_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_VALE_RARE_NAME",
+      "priority": 3004800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_VALE_PREMIUM_DESCRIPTION",
+      "id": "1dc719fbfd6ced2c",
+      "image": "icon_item_mail_token_FalconKnight_tier01.png",
+      "name": "item_personalgift_Vale_Premium_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_VALE_PREMIUM_NAME",
+      "priority": 3004900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_KINGSGUARD_COMMON_DESCRIPTION",
+      "id": "3afe807795e759e3",
+      "image": "icon_item_mail_token_kingsguard_tier03.png",
+      "name": "item_personalgift_kingsguard_Common_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_KINGSGUARD_COMMON_NAME",
+      "priority": 3005100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_KINGSGUARD_RARE_DESCRIPTION",
+      "id": "422824e7b64d68da",
+      "image": "icon_item_mail_token_kingsguard_tier02.png",
+      "name": "item_personalgift_kingsguard_Rare_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_KINGSGUARD_RARE_NAME",
+      "priority": 3005200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_KINGSGUARD_PREMIUM_DESCRIPTION",
+      "id": "4dfca16d6a9c98ea",
+      "image": "icon_item_mail_token_kingsguard_tier01.png",
+      "name": "item_personalgift_kingsguard_Premium_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_KINGSGUARD_PREMIUM_NAME",
+      "priority": 3005300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_ALLEGIANCEGIFT_LIMITED_1_DESCRIPTION",
+      "id": "cd811a6ce542e6ee",
+      "image": "icon_give_to_allegiance.png",
+      "name": "item_allegiancegift_limited_1",
+      "name_placeholder": "ITEM_ALLEGIANCEGIFT_LIMITED_1_NAME",
+      "priority": 3005500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_DAILYQUEST_ALLEGIANCEGIFT_1_DESCRIPTION",
+      "id": "c708968446d16308",
+      "image": "icon_give_to_allegiance.png",
+      "name": "item_dailyquest_allegiancegift_1",
+      "name_placeholder": "ITEM_DAILYQUEST_ALLEGIANCEGIFT_1_NAME",
+      "priority": 3005700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_DAILYQUEST_ALLEGIANCEGIFT_PVP_1_DESCRIPTION",
+      "id": "901202c77975f5e0",
+      "image": "icon_give_to_allegiance.png",
+      "name": "item_dailyquest_allegiancegift_pvp_1",
+      "name_placeholder": "ITEM_DAILYQUEST_ALLEGIANCEGIFT_PVP_1_NAME",
+      "priority": 3005700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_DAILYQUEST_ALLEGIANCEGIFT_DRAGON_1_DESCRIPTION",
+      "id": "f6a302f2d9a8f4ce",
+      "image": "icon_give_to_allegiance.png",
+      "name": "item_dailyquest_allegiancegift_dragon_1",
+      "name_placeholder": "ITEM_DAILYQUEST_ALLEGIANCEGIFT_DRAGON_1_NAME",
+      "priority": 3005700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_DAILYQUEST_ALLEGIANCEGIFT_GENERIC_1_DESCRIPTION",
+      "id": "421dbae3b9c100bf",
+      "image": "icon_give_to_allegiance.png",
+      "name": "item_dailyquest_allegiancegift_generic_1",
+      "name_placeholder": "ITEM_DAILYQUEST_ALLEGIANCEGIFT_GENERIC_1_NAME",
+      "priority": 3005700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_T1BONUS_ABTEST_DESCRIPTION",
+      "id": "1966793082df603f",
+      "image": "icon_mail_gift.png",
+      "name": "item_personalgift_t1bonus_abtest_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_T1BONUS_NAME",
+      "priority": 3006200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_T1BONUS_OLDNAN_DTW_DESCRIPTION",
+      "id": "6c1a7ef267151a45",
+      "image": "icon_mail_gift.png",
+      "name": "item_personalgift_t1bonus_oldnan_dtw_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_T1BONUS_NAME",
+      "priority": 3006400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_ALLEGIANCEGIFT_FESTIVALOFTHEFATHER_1_DESCRIPTION",
+      "id": "9c767431097f2b81",
+      "image": "icon_give_to_allegiance.png",
+      "name": "item_event_allegiancegift_festivalofthefather_1",
+      "name_placeholder": "ITEM_EVENT_ALLEGIANCEGIFT_FESTIVALOFTHEFATHER_1_NAME",
+      "priority": 3006700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_TYRELL_COMMON_DESCRIPTION",
+      "id": "17524b549ba2b966",
+      "image": "icon_item_mail_token_mask.png",
+      "name": "item_personalgift_Tyrell_Common_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_TYRELL_COMMON_NAME",
+      "priority": 3006900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_TYRELL_RARE_DESCRIPTION",
+      "id": "8483fc9dc3931946",
+      "image": "icon_item_mail_token_mask_rare.png",
+      "name": "item_personalgift_Tyrell_Rare_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_TYRELL_RARE_NAME",
+      "priority": 3007000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_TYRELL_PREMIUM_DESCRIPTION",
+      "id": "13bac9a0875b6c8d",
+      "image": "icon_item_mail_token_mask_exquisite.png",
+      "name": "item_personalgift_Tyrell_Premium_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_TYRELL_PREMIUM_NAME",
+      "priority": 3007100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_CONQUEST2_COMMON_DESCRIPTION",
+      "id": "a6f2a186c2c87877",
+      "image": "icon_item_mail_token_ironthrone_sword.png",
+      "name": "item_personalgift_Conquest2_Common_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_CONQUEST2_COMMON_NAME",
+      "priority": 3007300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_CONQUEST2_RARE_DESCRIPTION",
+      "id": "b58f2aac349839b4",
+      "image": "icon_item_mail_token_ironthrone_sword_fine.png",
+      "name": "item_personalgift_Conquest2_Rare_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_CONQUEST2_RARE_NAME",
+      "priority": 3007400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_CONQUEST2_PREMIUM_DESCRIPTION",
+      "id": "7728de184d95996b",
+      "image": "icon_item_mail_token_ironthrone_sword_exquisite.png",
+      "name": "item_personalgift_Conquest2_Premium_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_CONQUEST2_PREMIUM_NAME",
+      "priority": 3007500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_T1BONUS_CONQUEST2_FOTF_DESCRIPTION",
+      "id": "d9e653ee48cb2c2f",
+      "image": "icon_mail_gift.png",
+      "name": "item_personalgift_t1bonus_conquest2_fotf_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_T1BONUS_NAME",
+      "priority": 3007700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_WEDDINGS_COMMON_DESCRIPTION",
+      "id": "23c7c7bdd711139d",
+      "image": "icon_item_mail_token_garland.png",
+      "name": "item_personalgift_Weddings_Common_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_WEDDINGS_COMMON_NAME",
+      "priority": 3007900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_WEDDINGS_RARE_DESCRIPTION",
+      "id": "3dc4ece867bc06d1",
+      "image": "icon_item_mail_token_garland_fine.png",
+      "name": "item_personalgift_Weddings_Rare_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_WEDDINGS_RARE_NAME",
+      "priority": 3008000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_WEDDINGS_PREMIUM_DESCRIPTION",
+      "id": "3a700a07e6f16d7f",
+      "image": "icon_item_mail_token_garland_exquisite.png",
+      "name": "item_personalgift_Weddings_Premium_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_WEDDINGS_PREMIUM_NAME",
+      "priority": 3008100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_NWM_COMMON_DESCRIPTION",
+      "id": "486130195a069d1d",
+      "image": "icon_item_mail_token_fareyes.png",
+      "name": "item_personalgift_nwm_common_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_NWM_COMMON_NAME",
+      "priority": 3008300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_NWM_RARE_DESCRIPTION",
+      "id": "f27b1fa3272d4e20",
+      "image": "icon_item_mail_token_fareyes_fine.png",
+      "name": "item_personalgift_nwm_rare_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_NWM_RARE_NAME",
+      "priority": 3008400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_T1BONUS_NWM_KOTH_1_DESCRIPTION",
+      "id": "9c776b3536ad8223",
+      "image": "icon_event_lootbox_nwm_boosts_castleblack.png",
+      "name": "item_personalgift_t1bonus_nwm_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_T1BONUS_NAME",
+      "priority": 3008600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_T1BONUS_NWM_KOTH_2_DESCRIPTION",
+      "id": "e96537deef58702d",
+      "image": "icon_event_lootbox_nwm_boosts_eastwatch.png",
+      "name": "item_personalgift_t1bonus_nwm_2",
+      "name_placeholder": "ITEM_PERSONALGIFT_T1BONUS_NAME",
+      "priority": 3008700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_T1BONUS_NWM_KOTH_3_DESCRIPTION",
+      "id": "c594fc78580b21d7",
+      "image": "icon_event_lootbox_nwm_boosts_nightfort.png",
+      "name": "item_personalgift_t1bonus_nwm_3",
+      "name_placeholder": "ITEM_PERSONALGIFT_T1BONUS_NAME",
+      "priority": 3008800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_TGH_COMMON_DESCRIPTION",
+      "id": "4b7ad88a902d215",
+      "image": "icon_item_mail_token_elkantlers.png",
+      "name": "item_personalgift_tgh_common_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_TGH_COMMON_NAME",
+      "priority": 3009000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_TGH_RARE_DESCRIPTION",
+      "id": "bb8cc794f97cc7b0",
+      "image": "icon_item_mail_token_elkantlers_fine.png",
+      "name": "item_personalgift_tgh_rare_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_TGH_RARE_NAME",
+      "priority": 3009100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_TGH_PREMIUM_DESCRIPTION",
+      "id": "1e3e4417846d19d0",
+      "image": "icon_item_mail_token_elkantlers_exquisite.png",
+      "name": "item_personalgift_tgh_premium_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_TGH_PREMIUM_NAME",
+      "priority": 3009200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_T1BONUS_TGH_1_DESCRIPTION",
+      "id": "8e4e00f21198297c",
+      "image": "icon_mail_gift.png",
+      "name": "item_personalgift_t1bonus_tgh_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_T1BONUS_TGH_1_NAME",
+      "priority": 3009400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_SOP_PAYOUT_FEALTY_1_DESCRIPTION",
+      "id": "650403dd241110df",
+      "image": "icon_mail_gift.png",
+      "name": "item_personalgift_sop_payout_fealty_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_SOP_PAYOUT_FEALTY_1_NAME",
+      "priority": 3009600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_REPATRIATION_1_DESCRIPTION",
+      "id": "63583f82ea14f4aa",
+      "image": "icon_mail_gift.png",
+      "name": "item_personalgift_repatriation_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_REPATRIATION_1_NAME",
+      "priority": 3009800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_LUNAR_FOOD_BASIC_DESCRIPTION",
+      "id": "794c12991fa9d864",
+      "image": "icon_item_lunar_lantern_food.png",
+      "name": "item_personalgift_lunar_food_basic_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_LUNAR_FOOD_BASIC_NAME",
+      "priority": 3010000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_LUNAR_WOOD_BASIC_DESCRIPTION",
+      "id": "3987f38e4c156675",
+      "image": "icon_item_lunar_lantern_wood.png",
+      "name": "item_personalgift_lunar_wood_basic_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_LUNAR_WOOD_BASIC_NAME",
+      "priority": 3010100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_LUNAR_STONE_BASIC_DESCRIPTION",
+      "id": "5a3724b1c75e4ebf",
+      "image": "icon_item_lunar_lantern_stone.png",
+      "name": "item_personalgift_lunar_stone_basic_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_LUNAR_STONE_BASIC_NAME",
+      "priority": 3010200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_LUNAR_IRON_BASIC_DESCRIPTION",
+      "id": "85ac9b28aca3d75f",
+      "image": "icon_item_lunar_lantern_iron.png",
+      "name": "item_personalgift_lunar_iron_basic_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_LUNAR_IRON_BASIC_NAME",
+      "priority": 3010300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_LUNAR_FOOD_RARE_DESCRIPTION",
+      "id": "a219d6794cc0949c",
+      "image": "icon_item_lunar_lantern_food.png",
+      "name": "item_personalgift_lunar_food_rare_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_LUNAR_FOOD_RARE_NAME",
+      "priority": 3010400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_LUNAR_WOOD_RARE_DESCRIPTION",
+      "id": "2371e9658586cc05",
+      "image": "icon_item_lunar_lantern_wood.png",
+      "name": "item_personalgift_lunar_wood_rare_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_LUNAR_WOOD_RARE_NAME",
+      "priority": 3010500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_LUNAR_STONE_RARE_DESCRIPTION",
+      "id": "3842cf5636235293",
+      "image": "icon_item_lunar_lantern_stone.png",
+      "name": "item_personalgift_lunar_stone_rare_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_LUNAR_STONE_RARE_NAME",
+      "priority": 3010600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_LUNAR_IRON_RARE_DESCRIPTION",
+      "id": "df914218a054e90f",
+      "image": "icon_item_lunar_lantern_iron.png",
+      "name": "item_personalgift_lunar_iron_rare_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_LUNAR_IRON_RARE_NAME",
+      "priority": 3010700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_WFTT_GIFT_SOP_PAYOUT_KVK_3_0_1_DESCRIPTION",
+      "id": "2ffd0131aacae28a",
+      "image": "icon_mail_gift.png",
+      "name": "item_personalgift_WFTT_gift_sop_payout_kvk_3_0_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_WFTT_GIFT_SOP_PAYOUT_KVK_3_0_1_NAME",
+      "priority": 3010900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_WFTT_GIFT_SOP_PAYOUT_KVK_3_5_1_DESCRIPTION",
+      "id": "d57b47c0f1f7cc83",
+      "image": "icon_mail_gift.png",
+      "name": "item_personalgift_WFTT_gift_sop_payout_kvk_3_5_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_WFTT_GIFT_SOP_PAYOUT_KVK_3_5_1_NAME",
+      "priority": 3011000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_WFTT_GIFT_SOP_PAYOUT_KVK_4_0_1_DESCRIPTION",
+      "id": "d6dcbb150dcebf2f",
+      "image": "icon_mail_gift.png",
+      "name": "item_personalgift_WFTT_gift_sop_payout_kvk_4_0_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_WFTT_GIFT_SOP_PAYOUT_KVK_4_0_1_NAME",
+      "priority": 3011100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_WFTT_GIFT_SOP_PAYOUT_KVK_4_5_1_DESCRIPTION",
+      "id": "2c5afde456f39126",
+      "image": "icon_mail_gift.png",
+      "name": "item_personalgift_WFTT_gift_sop_payout_kvk_4_5_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_WFTT_GIFT_SOP_PAYOUT_KVK_4_5_1_NAME",
+      "priority": 3011200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_WFTT_GIFT_SOP_PAYOUT_KVK_5_0_1_DESCRIPTION",
+      "id": "f30a33c25a147b78",
+      "image": "icon_mail_gift.png",
+      "name": "item_personalgift_WFTT_gift_sop_payout_kvk_5_0_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_WFTT_GIFT_SOP_PAYOUT_KVK_5_0_1_NAME",
+      "priority": 3011300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_REDTEMPLE_LIGHT_LAUNCH_1_DESCRIPTION",
+      "id": "8aee180c60999109",
+      "image": "icon_mail_gift.png",
+      "name": "item_personalgift_RedTemple_Light_Launch_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_REDTEMPLE_LIGHT_LAUNCH_1_NAME",
+      "priority": 3011600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_REPEATABLE_FESTIVAL_DESCRIPTION",
+      "id": "91d4bf82b53e4b4c",
+      "image": "icon_mail_gift.png",
+      "name": "item_personalgift_repeatable_festival_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_REPEATABLE_FESTIVAL_NAME",
+      "priority": 3011800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_REDTEMPLE_LIGHT_LAUNCH_3_DESCRIPTION",
+      "id": "d30d8f410e3f32fd",
+      "image": "icon_mail_gift.png",
+      "name": "item_personalgift_RedTemple_Light_Launch_3",
+      "name_placeholder": "ITEM_PERSONALGIFT_REDTEMPLE_LIGHT_LAUNCH_3_NAME",
+      "priority": 3012000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_LEMONCAKE_PREMIUM_DESCRIPTION",
+      "id": "4ab528b1936d2f3a",
+      "image": "icon_item_mail_token_lemonCakes.png",
+      "name": "item_personalgift_lemoncake_premium_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_LEMONCAKE_PREMIUM_NAME",
+      "priority": 3012200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_EELPIE_FOOD_BASIC_DESCRIPTION",
+      "id": "46cd02f45d715798",
+      "image": "icon_item_bakery_eel_food.png",
+      "name": "item_personalgift_eelpie_food_basic_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_EELPIE_FOOD_BASIC_NAME",
+      "priority": 3012400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_EELPIE_WOOD_BASIC_DESCRIPTION",
+      "id": "606e3e30ecde989",
+      "image": "icon_item_bakery_eel_wood.png",
+      "name": "item_personalgift_eelpie_wood_basic_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_EELPIE_WOOD_BASIC_NAME",
+      "priority": 3012500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_EELPIE_STONE_BASIC_DESCRIPTION",
+      "id": "b52381fb2642918e",
+      "image": "icon_item_bakery_eel_stone.png",
+      "name": "item_personalgift_eelpie_stone_basic_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_EELPIE_STONE_BASIC_NAME",
+      "priority": 3012600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_EELPIE_IRON_BASIC_DESCRIPTION",
+      "id": "ba2d8b45ee7b58a3",
+      "image": "icon_item_bakery_eel_iron.png",
+      "name": "item_personalgift_eelpie_iron_basic_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_EELPIE_IRON_BASIC_NAME",
+      "priority": 3012700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_EELPIE_BRICK_BASIC_QLR__STAT_KEEP_13_21_DESCRIPTION",
+      "id": "7c18efdf38d991b4",
+      "image": "icon_item_bakery_eel_brick.png",
+      "name": "item_personalgift_eelpie_brick_basic_qlr__stat_keep_13_21_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_EELPIE_BRICK_BASIC_QLR__STAT_KEEP_13_21_NAME",
+      "priority": 3012800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_EELPIE_BRICK_BASIC_QLR__STAT_KEEP_22_29_DESCRIPTION",
+      "id": "ce21c5578cdd0e2e",
+      "image": "icon_item_bakery_eel_brick.png",
+      "name": "item_personalgift_eelpie_brick_basic_qlr__stat_keep_22_29_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_EELPIE_BRICK_BASIC_QLR__STAT_KEEP_22_29_NAME",
+      "priority": 3012900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_EELPIE_BRICK_BASIC_QLR__STAT_KEEP_30_DESCRIPTION",
+      "id": "7940a1a33db608f0",
+      "image": "icon_item_bakery_eel_brick.png",
+      "name": "item_personalgift_eelpie_brick_basic_qlr__stat_keep_30_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_EELPIE_BRICK_BASIC_QLR__STAT_KEEP_30_NAME",
+      "priority": 3013000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_EELPIE_SCHOLARLY_FRAGMENTS_BASIC_QLR__STAT_KEEP_13_21_DESCRIPTION",
+      "id": "572497bb810c91bc",
+      "image": "icon_item_bakery_eel_scholarlyFragments.png",
+      "name": "item_personalgift_eelpie_scholarly_fragments_basic_qlr__stat_keep_13_21_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_EELPIE_SCHOLARLY_FRAGMENTS_BASIC_QLR__STAT_KEEP_13_21_NAME",
+      "priority": 3013100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_EELPIE_SCHOLARLY_FRAGMENTS_BASIC_QLR__STAT_KEEP_22_29_DESCRIPTION",
+      "id": "e51dbd3335080e26",
+      "image": "icon_item_bakery_eel_scholarlyFragments.png",
+      "name": "item_personalgift_eelpie_scholarly_fragments_basic_qlr__stat_keep_22_29_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_EELPIE_SCHOLARLY_FRAGMENTS_BASIC_QLR__STAT_KEEP_22_29_NAME",
+      "priority": 3013200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_EELPIE_SCHOLARLY_FRAGMENTS_BASIC_QLR__STAT_KEEP_30_DESCRIPTION",
+      "id": "9add509ce7e3d961",
+      "image": "icon_item_bakery_eel_scholarlyFragments.png",
+      "name": "item_personalgift_eelpie_scholarly_fragments_basic_qlr__stat_keep_30_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_EELPIE_SCHOLARLY_FRAGMENTS_BASIC_QLR__STAT_KEEP_30_NAME",
+      "priority": 3013300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_EELPIE_FOOD_RARE_DESCRIPTION",
+      "id": "64e762d27f826af2",
+      "image": "icon_item_bakery_eel_food.png",
+      "name": "item_personalgift_eelpie_food_rare_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_EELPIE_FOOD_RARE_NAME",
+      "priority": 3013400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_EELPIE_WOOD_RARE_DESCRIPTION",
+      "id": "e58f5dceb6c4326b",
+      "image": "icon_item_bakery_eel_wood.png",
+      "name": "item_personalgift_eelpie_wood_rare_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_EELPIE_WOOD_RARE_NAME",
+      "priority": 3013500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_EELPIE_STONE_RARE_DESCRIPTION",
+      "id": "7c3df3b74fbdd6f",
+      "image": "icon_item_bakery_eel_stone.png",
+      "name": "item_personalgift_eelpie_stone_rare_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_EELPIE_STONE_RARE_NAME",
+      "priority": 3013600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_EELPIE_IRON_RARE_DESCRIPTION",
+      "id": "196ff6b393161761",
+      "image": "icon_item_bakery_eel_iron.png",
+      "name": "item_personalgift_eelpie_iron_rare_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_EELPIE_IRON_RARE_NAME",
+      "priority": 3013700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_EELPIE_BRICK_RARE_DESCRIPTION",
+      "id": "619a9d841280e7dd",
+      "image": "icon_item_bakery_eel_brick.png",
+      "name": "item_personalgift_eelpie_brick_rare_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_EELPIE_BRICK_RARE_NAME",
+      "priority": 3013800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_EELPIE_SCHOLARLY_FRAGMENTS_RARE_DESCRIPTION",
+      "id": "b6b8d1880d38de2d",
+      "image": "icon_item_bakery_eel_scholarlyFragments.png",
+      "name": "item_personalgift_eelpie_scholarly_fragments_rare_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_EELPIE_SCHOLARLY_FRAGMENTS_RARE_NAME",
+      "priority": 3013900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_EELPIE_PALESTEEL_RARE_DESCRIPTION",
+      "id": "17f3a533357ba036",
+      "image": "icon_item_bakery_eel_paleSteel.png",
+      "name": "item_personalgift_eelpie_palesteel_rare_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_EELPIE_PALESTEEL_RARE_NAME",
+      "priority": 3014000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_EELPIE_SOLDIERPINE_RARE_DESCRIPTION",
+      "id": "73ce1354886d9c1",
+      "image": "icon_item_bakery_eel_soldierPine.png",
+      "name": "item_personalgift_eelpie_soldierpine_rare_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_EELPIE_SOLDIERPINE_RARE_NAME",
+      "priority": 3014100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_EELPIE_ADVANCED_TELEPORT_RARE_DESCRIPTION",
+      "id": "4469dadd54d07cb1",
+      "image": "icon_item_bakery_eel_teleport.png",
+      "name": "item_personalgift_eelpie_advanced_teleport_rare_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_EELPIE_ADVANCED_TELEPORT_RARE_NAME",
+      "priority": 3014200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_EELPIE_PEACESHIELD_2_RARE_DESCRIPTION",
+      "id": "dd34bc0952d14207",
+      "image": "icon_item_bakery_eel_peaceShield.png",
+      "name": "item_personalgift_eelpie_peaceshield_2_rare_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_EELPIE_PEACESHIELD_2_RARE_NAME",
+      "priority": 3014300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_NWM_COMMON_ALLEGIANCE_DESCRIPTION",
+      "id": "42c85a0d0e201dd9",
+      "image": "icon_item_mail_token_fareyes.png",
+      "name": "item_personalgift_nwm_common_allegiance_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_NWM_COMMON_ALLEGIANCE_NAME",
+      "priority": 3014500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_NWM_RARE_ALLEGIANCE_DESCRIPTION",
+      "id": "fa7d3727034faf3b",
+      "image": "icon_item_mail_token_fareyes_fine.png",
+      "name": "item_personalgift_nwm_rare_allegiance_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_NWM_RARE_ALLEGIANCE_NAME",
+      "priority": 3014600,
+      "type": "item"
+    }
+  ]
+}

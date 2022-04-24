@@ -14,8 +14,8 @@ class FileProcessor:
     def description(self):
         raise NotImplementedError()
 
-    def key_name(self):
-        return None
+    def key_names(self):
+        return []
 
     def value_name(self):
         return None

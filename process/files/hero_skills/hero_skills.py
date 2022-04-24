@@ -24,5 +24,5 @@ class HeroSkillsProcessor(JsonProcessor):
     def description(self):
         return 'Hero skill definitions'
 
-    def key_name(self):
-        return 'name'
+    def key_names(self):
+        return ['name']

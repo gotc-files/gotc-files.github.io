@@ -8,6 +8,7 @@ import { Navigate, useParams } from "react-router-dom";
 import Page from "../common/Page";
 import SingleChoiceSelect from "../common/SingleChoiceSelect";
 import StatsCard from "../common/StatsCard";
+import { displayWithRegexFallback } from "../common/util";
 import trinketArmories from "../data/trinket_armory.json";
 
 const LEVELS = [1, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50];
@@ -49,7 +50,10 @@ function TrinketArmory() {
           name: "trinket-set",
           choices: trinketArmories.map((trinketArmory) => ({
             id: trinketArmory.id,
-            name: trinketArmory.name,
+            name: displayWithRegexFallback(
+              trinketArmory.name,
+              new RegExp(/n:EQ_TRINKET_(\w+)_1_SET_NAME/)
+            ),
             link: `/trinket-armory/${trinketArmory.id}`,
           })),
           currentChoiceId: urlParams.trinketArmoryId,
@@ -60,7 +64,10 @@ function TrinketArmory() {
         <Grid item xs={12} md={6} sx={{ p: 0 }}>
           <Card sx={{ color: "white" }}>
             <CardHeader
-              title={currentTrinktArmory.name}
+              title={displayWithRegexFallback(
+                currentTrinktArmory.name,
+                new RegExp(/n:EQ_TRINKET_(\w+)_1_SET_NAME/)
+              )}
               style={{ backgroundColor: currentTrinktArmory.color }}
             />
             <CardContent>
@@ -114,11 +121,14 @@ function TrinketArmory() {
         {currentTrinktArmory.trinkets.map((trinket, index) => (
           <Grid item xs={12} md={6} key={index}>
             <StatsCard
-              title={
+              title={displayWithRegexFallback(
                 trinket.gear_with_level.find(
                   (trinket) => trinket.level === currentTrinketLevel
-                ).name
-              }
+                ).name,
+                new RegExp(
+                  /n:EQ_EVENTS_(TRINKET_\w+_[0-9]+)_TRINKET_LORD40_NAME/
+                )
+              )}
               color={currentTrinktArmory.color}
               stats={trinket.gear_with_level
                 .find((trinket) => trinket.level === currentTrinketLevel)

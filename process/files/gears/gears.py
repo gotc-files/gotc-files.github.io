@@ -25,5 +25,5 @@ class GearsProcessor(ProtoProcessor):
     def description(self):
         return 'Gears (event and non event)'
 
-    def key_name(self):
-        return 'name'
+    def key_names(self):
+        return ['id', 'name']

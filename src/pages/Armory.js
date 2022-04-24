@@ -8,6 +8,7 @@ import { Navigate, useParams } from "react-router-dom";
 import Page from "../common/Page";
 import SingleChoiceSelect from "../common/SingleChoiceSelect";
 import StatsCard from "../common/StatsCard";
+import { displayWithRegexFallback } from "../common/util";
 import armories from "../data/armory.json";
 import GearStatsCard from "./GearStatsCard";
 
@@ -42,7 +43,10 @@ function Armory() {
           name: "gear-set",
           choices: armories.map((armory) => ({
             id: armory.id,
-            name: armory.name,
+            name: displayWithRegexFallback(
+              armory.name,
+              new RegExp(/^n:EQ_EVENTS_(\w+)_SET_NAME$/)
+            ),
             link: `/armory/${armory.id}`,
           })),
           currentChoiceId: urlParams.armoryId,
@@ -53,8 +57,14 @@ function Armory() {
         <Grid item xs={12} md={6} sx={{ p: 0 }}>
           <Card sx={{ color: "white" }}>
             <CardHeader
-              title={armory.name}
-              subheader={armory.description}
+              title={displayWithRegexFallback(
+                armory.name,
+                new RegExp(/^n:EQ_EVENTS_(\w+)_SET_NAME$/)
+              )}
+              subheader={displayWithRegexFallback(
+                armory.name,
+                new RegExp(/^n:EQ_EVENTS_(\w+)_SET_NAME$/)
+              )}
               sx={{ backgroundColor: armory.color }}
               subheaderTypographyProps={{ color: "inherit" }}
             />

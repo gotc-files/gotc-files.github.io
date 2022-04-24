@@ -23,5 +23,5 @@ class ArmoryCollectionsProcessor(ProtoProcessor):
     def description(self):
         return 'Armory collection information'
 
-    def key_name(self):
-        return 'gear_set_name'
+    def key_names(self):
+        return ['gear_set_name']

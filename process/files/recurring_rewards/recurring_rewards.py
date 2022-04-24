@@ -16,22 +16,22 @@ class RecurringRewardsProcessor(ProtoProcessor):
                 "name": raw_recurring_rewards_list.identity.name,
                 "name_placeholder": raw_recurring_rewards_list.info.name_placeholder,
                 "tier": raw_recurring_rewards_list.info.tier,
-                "limit": raw_recurring_rewards_list.info.limit,
                 "collection_interval_seconds": raw_recurring_rewards_list.info.collection_interval_seconds,
                 "num_collections": raw_recurring_rewards_list.info.num_collections,
-                "items": [self._process_item(item) for item in raw_recurring_rewards_list.info.items],
-                "items_alt": [self._process_item_alt(item) for item in raw_recurring_rewards_list.info.items_alt],
+                "items": [self._process_item_legacy(item) for item in raw_recurring_rewards_list.info.items_legacy]
+                if raw_recurring_rewards_list.info.items_type == 1
+                else [self._process_item(item) for item in raw_recurring_rewards_list.info.items],
+                "summary": [self._process_item(item) for item in raw_recurring_rewards_list.info.items_summary],
             })
         return recurring_rewards_output
 
-    def _process_item(self, item):
+    def _process_item_legacy(self, item):
         return {
             "id": id_int64_to_hex(item.id),
-            "quality": item.quality,
             "quantity": item.quantity,
         }
 
-    def _process_item_alt(self, item):
+    def _process_item(self, item):
         return {
             "id": id_int64_to_hex(item.identity.id),
             "quantity": item.quantity,

@@ -6,6 +6,8 @@ import {
 } from "@mui/material/styles";
 import { HashRouter, Route, Routes } from "react-router-dom";
 import Armory from "./pages/Armory";
+import DailyDeliveryDetails from "./pages/DailyDeliveryDetails";
+import DailyDeliveryTable from "./pages/DailyDeliveryTable";
 import Hero from "./pages/Hero";
 import Home from "./pages/Home";
 import Summon from "./pages/Summon";
@@ -53,6 +55,11 @@ function App() {
             <Route path="/hero" element={<Hero />} />
             <Route path="/summon" element={<Summon />} />
             <Route path="/summon/:timeStrName" element={<Summon />} />
+            <Route path="/daily-delivery" element={<DailyDeliveryTable />} />
+            <Route
+              path="/daily-delivery/:packId"
+              element={<DailyDeliveryDetails />}
+            />
           </Routes>
         </ThemeProvider>
       </StyledEngineProvider>

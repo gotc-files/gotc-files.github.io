@@ -13,20 +13,21 @@ message RecurringRewardsLists {
   message RewardsInfo {
     string name_placeholder = 1;
     int32 tier = 4;
-    int32 limit = 5;
+    int32 items_type = 5;
     int32 collection_interval_seconds = 6;
     int32 num_collections = 7;
-    repeated RewardItem items = 9;
-    repeated RewardItemAlt items_alt = 13;
+    repeated RewardItemLegacy items_legacy = 9;
+    repeated RewardItem items_summary = 12;
+    repeated RewardItem items = 13;
+  }
+
+  message RewardItemLegacy {
+    int64 id = 3;
+    int32 quantity = 5;
+    int32 quality = 6;
   }
 
   message RewardItem {
-    int64 id = 3;
-    int32 quality = 5;
-    int32 quantity = 6;
-  }
-
-  message RewardItemAlt {
     ObjectIdentity identity = 1;
     int32 quantity = 2;
   }

@@ -30,5 +30,5 @@ class HeroCollectionActionPropertiesProcessor(ProtoProcessor):
     def description(self):
         return 'Hero Collection Actions property progressions'
 
-    def key_name(self):
-        return 'name'
+    def key_names(self):
+        return ['name']

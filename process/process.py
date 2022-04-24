@@ -4,6 +4,7 @@ import sys
 
 from files.processor_mapping import find_processor
 from pages.processor_list import page_processor_list
+from data_manager import DataManager
 
 
 def main():
@@ -18,6 +19,7 @@ def main():
         "file_lookup_dict": {},
         "file_values_dict": {},
     }
+    data_manager = DataManager()
     for f in files:
         file_name_components = f.split('.')
         if len(file_name_components) != 3:
@@ -30,21 +32,14 @@ def main():
             processed_files_count += 1
             processor = processor_class(os.path.join(raw_data_dir, f))
             processed_result = processor.process()
-            if processor.key_name():
-                context["file_lookup_dict"][id] = dict(
-                    [(
-                        value[processor.key_name()],
-                        value[processor.value_name(
-                        )] if processor.value_name() else value
-                    )
-                        for value in processed_result["values"]])
-            context["file_values_dict"][id] = processed_result["values"]
+            data_manager.add_file_data(
+                id, processed_result["values"], processor.key_names(), processor.value_name())
             json.dump(processed_result,
                       open('./data/' + id + '.json', 'w'), indent=2, sort_keys=True)
         else:
             unrecognized_files_count += 1
     for id, processor_class in page_processor_list():
-        processor = processor_class(context)
+        processor = processor_class(data_manager)
         processed_result = processor.process()
         json.dump(processed_result,
                   open('../src/data/' + id + '.json', 'w'), indent=2, sort_keys=True)

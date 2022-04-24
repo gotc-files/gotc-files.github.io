@@ -16,13 +16,13 @@ class SummonOddsProcessor(ProtoProcessor):
             purchase_option = summon_odds_list.info.purchase_option
             if purchase_option.id not in summon_odds_by_option:
                 summon_odds_by_option[purchase_option.id] = {
-                    "id": purchase_option.id,
+                    "id": id_int64_to_hex(purchase_option.id),
                     "name": purchase_option.name,
                     "odds": []
                 }
             summon_odds_by_option[purchase_option.id]["odds"].append({
                 "name": summon_odds_list.id.name,
-                "item_id": summon_odds_list.info.item.id,
+                "item_id": id_int64_to_hex(summon_odds_list.info.item.id),
                 "item_name": summon_odds_list.info.item.name,
                 "quantity": summon_odds_list.info.quantity,
                 "probability": summon_odds_list.info.probability,
@@ -32,5 +32,5 @@ class SummonOddsProcessor(ProtoProcessor):
     def description(self):
         return 'Summon odds by purchase option'
 
-    def key_name(self):
-        return 'name'
+    def key_names(self):
+        return ['name']

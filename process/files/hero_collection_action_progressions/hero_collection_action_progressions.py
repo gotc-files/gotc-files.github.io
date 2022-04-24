@@ -16,5 +16,5 @@ class HeroCollectionActionProgressionsProcessor(JsonProcessor):
     def description(self):
         return 'Hero Collection Actions progression values'
 
-    def key_name(self):
-        return 'name'
+    def key_names(self):
+        return ['name']

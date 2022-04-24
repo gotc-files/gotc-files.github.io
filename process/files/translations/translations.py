@@ -21,8 +21,8 @@ class TranslationsProcessor(FileProcessor):
     def description(self):
         return 'Translations for a specific language'
 
-    def key_name(self):
-        return "name"
+    def key_names(self):
+        return ["name"]
 
     def value_name(self):
         return "value"

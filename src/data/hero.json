@@ -4702,7 +4702,7 @@
         "unlock_level": 10
       },
       {
-        "description": "PROPERTY_MARCH_SPEED_VS_SOP_DESC (Not Translated)",
+        "description": "n:PROPERTY_MARCH_SPEED_VS_SOP_DESC",
         "name": "March Speed vs. Seats of Power",
         "star_skill_value": 0.352512001991272,
         "type": "MARCH",
@@ -6864,7 +6864,7 @@
         "type": "MARCH"
       },
       {
-        "description": "PROPERTY_MARCH_SPEED_VS_SOP_DESC (Not Translated)",
+        "description": "n:PROPERTY_MARCH_SPEED_VS_SOP_DESC",
         "name": "March Speed vs. Seats of Power",
         "signature_skill_values": [
           0.00999999977648258,

@@ -25,5 +25,5 @@ class GearStatSetsProcessor(ProtoProcessor):
     def description(self):
         return 'Gear names to their stat lists'
 
-    def key_name(self):
-        return 'name'
+    def key_names(self):
+        return ['name']

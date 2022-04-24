@@ -205,10 +205,10 @@
   },
   {
     "category": "noble",
-    "description": "SUMMON_COMBOA_NOBLE_DESC (Not Translated)",
+    "description": "n:SUMMON_COMBOA_NOBLE_DESC",
     "heroes": "",
     "id": "c0e77ee557634b4",
-    "name": "SUMMON_COMBOA_NOBLE_NAME (Not Translated)",
+    "name": "n:SUMMON_COMBOA_NOBLE_NAME",
     "purchase_options": [
       {
         "name": "summon_purchase_ComboA_noble_1x_top",
@@ -279,10 +279,10 @@
   },
   {
     "category": "royal",
-    "description": "SUMMON_COMBOA_ROYAL_DESC (Not Translated)",
+    "description": "n:SUMMON_COMBOA_ROYAL_DESC",
     "heroes": "",
     "id": "7ed166517000a292",
-    "name": "SUMMON_COMBOA_ROYAL_NAME (Not Translated)",
+    "name": "n:SUMMON_COMBOA_ROYAL_NAME",
     "purchase_options": [
       {
         "name": "summon_purchase_ComboA_royal_1x_top",
@@ -335,7 +335,7 @@
   },
   {
     "category": "standard",
-    "description": "SUMMON_STANDARD_DEFAULTECHO_DESCRIPTION (Not Translated)",
+    "description": "n:SUMMON_STANDARD_DEFAULTECHO_DESCRIPTION",
     "heroes": "",
     "id": "e8d3d6fcb1f6a104",
     "name": "Standard Summon",
@@ -697,7 +697,7 @@
   },
   {
     "category": "noble",
-    "description": "SUMMON_NOBLE_DEFAULTFOXTROT_DESCRIPTION (Not Translated)",
+    "description": "n:SUMMON_NOBLE_DEFAULTFOXTROT_DESCRIPTION",
     "heroes": "",
     "id": "2b255e29b5a6cf5f",
     "name": "Noble Summon",
@@ -1047,7 +1047,7 @@
   },
   {
     "category": "royal",
-    "description": "SUMMON_ROYAL_DEFAULTGOLF_DESCRIPTION (Not Translated)",
+    "description": "n:SUMMON_ROYAL_DEFAULTGOLF_DESCRIPTION",
     "heroes": "",
     "id": "2d3d95a11259de16",
     "name": "Royal Summon",

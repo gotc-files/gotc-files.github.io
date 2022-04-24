@@ -33,9 +33,9 @@ class HeroProcessor(PageProcessor):
         return hero
 
     def _process_skill(self, skill_name):
-        raw_skill = self.lookup_file('hero_skills', skill_name)
+        raw_skill = self.lookup_file('hero_skills', 'name', skill_name)
         stat = self.lookup_file(
-            'properties', to_property_name(raw_skill["stat_name"]))
+            'properties', 'name', to_property_name(raw_skill["stat_name"]))
         skill = {
             "name": self.translate(stat["name_placeholder"]),
             "description": self.translate(stat["description_placeholder"]),
@@ -46,5 +46,5 @@ class HeroProcessor(PageProcessor):
             skill["unlock_level"] = raw_skill["unlock_level"]
         if "signature_skill_progression_name" in raw_skill:
             skill["signature_skill_values"] = self.lookup_file(
-                'hero_skill_progressions', raw_skill["signature_skill_progression_name"])["values"]
+                'hero_skill_progressions', 'name', raw_skill["signature_skill_progression_name"])["values"]
         return skill

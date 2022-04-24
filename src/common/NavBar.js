@@ -1,4 +1,5 @@
 import MenuIcon from "@mui/icons-material/Menu";
+import ArrowBackIcon from "@mui/icons-material/ArrowBack";
 import {
   Box,
   Divider,
@@ -12,7 +13,7 @@ import IconButton from "@mui/material/IconButton";
 import Toolbar from "@mui/material/Toolbar";
 import Typography from "@mui/material/Typography";
 import React, { useState } from "react";
-import { Link, useLocation } from "react-router-dom";
+import { Link, useLocation, useNavigate } from "react-router-dom";
 import NavBarSelect from "./NavBarSelect";
 
 const drawerWidth = 240;
@@ -20,6 +21,7 @@ const drawerWidth = 240;
 function NavBar(props) {
   const [mobileOpen, setMobileOpen] = useState(false);
   const location = useLocation();
+  const navigate = useNavigate();
 
   const handleDrawerToggle = () => {
     setMobileOpen(!mobileOpen);
@@ -40,6 +42,7 @@ function NavBar(props) {
           ["trinket-armory", "Trinket Armory"],
           ["hero", "Hero"],
           ["summon", "Summon"],
+          ["daily-delivery", "Daily Delivery"],
         ].map(([url, text]) => (
           <ListItemButton
             key={url}
@@ -73,6 +76,17 @@ function NavBar(props) {
           >
             <MenuIcon />
           </IconButton>
+          {props.backLink && (
+            <IconButton
+              size="large"
+              color="inherit"
+              onClick={() => {
+                navigate(props.backLink);
+              }}
+            >
+              <ArrowBackIcon />
+            </IconButton>
+          )}
           <Typography variant="h6" sx={{ ml: 1, mr: 5, my: 1, color: "white" }}>
             {props.title}
           </Typography>
@@ -98,7 +112,7 @@ function NavBar(props) {
             keepMounted: true,
           }}
           sx={{
-            display: { xs: "block", md: "none" },
+            display: { xs: "block", sm: "none" },
             "& .MuiDrawer-paper": {
               boxSizing: "border-box",
               width: drawerWidth,
@@ -111,7 +125,7 @@ function NavBar(props) {
         <Drawer
           variant="permanent"
           sx={{
-            display: { xs: "none", md: "block" },
+            display: { xs: "none", sm: "block" },
             "& .MuiDrawer-paper": {
               boxSizing: "border-box",
               width: drawerWidth,

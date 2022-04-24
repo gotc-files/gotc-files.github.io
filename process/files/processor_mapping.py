@@ -83,6 +83,8 @@ FILE_PROCESSOR_MAPPING_CONFIG = {
     ('ItemTable', 'pb', 'items', ItemsProcessor),
     ('ItemTable_Heroes', 'pb', 'hero_items', ItemsProcessor),
     ('ItemTable_Dragon_1', 'pb', 'dragon_items', ItemsProcessor),
+    ('ItemTable_Gift_1', 'pb', 'items_gift', ItemsProcessor),
+    ('ItemTable_Event_1', 'pb', 'items_event', ItemsProcessor),
     ('AnnuitiesTable', 'pb', 'recurring_rewards', RecurringRewardsProcessor),
     ('PropertyTable', 'pb', 'properties', PropertiesProcessor),
     ('enUS', 'txt', 'translations', TranslationsProcessor)

@@ -7,6 +7,7 @@ function Page(props) {
       <NavBar
         height={80}
         title={props.title}
+        backLink={props.backLink}
         selectArgsList={props.selectArgsList}
       />
       <Container maxWidth="lg" sx={{ mt: "80px" }}>

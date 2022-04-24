@@ -27,7 +27,8 @@ class SummonProcessor(PageProcessor):
         }
 
     def _process_purchase_option(self, purchase_option_name):
-        purchase_option = self.lookup_file("summon_odds", purchase_option_name)
+        purchase_option = self.lookup_file(
+            "summon_odds", 'name', purchase_option_name)
         if not purchase_option:
             raise InsufficientDataException(
                 'Cannot find summon purchase option %s' % purchase_option_name)
@@ -38,10 +39,12 @@ class SummonProcessor(PageProcessor):
 
     def _process_odds(self, odds):
         reward = self.lookup_files(
-            ["heroes", "hero_items", "items", "dragon_items", "gears_1"], odds["item_name"])
+            ["heroes", "hero_items", "items", "dragon_items"], 'name', odds["item_name"])
+        if not reward:
+            reward = self.lookup_file("gears_1", 'name', odds["item_name"])
         if not reward:
             raise InsufficientDataException(
-                "Cannot find item or hero with name: %s" % odds["item_name"])
+                "Cannot find item or hero with id: %s" % odds["item_name"])
         return {
             "name": self.translate(reward["name_placeholder"]),
             "description": self.translate(reward["description_placeholder"]) if "description_placeholder" in reward else "",
