@@ -14,11 +14,15 @@ _sym_db = _symbol_database.Default()
 
 
 
-DESCRIPTOR = _descriptor_pool.Default().AddSerializedFile(b'\n\x19\x66iles/common/common.proto\"*\n\x0eObjectIdentity\x12\n\n\x02id\x18\x01 \x01(\x06\x12\x0c\n\x04name\x18\x02 \x01(\tb\x06proto3')
+DESCRIPTOR = _descriptor_pool.Default().AddSerializedFile(b'\n\x19\x66iles/common/common.proto\"*\n\x0eObjectIdentity\x12\n\n\x02id\x18\x01 \x01(\x06\x12\x0c\n\x04name\x18\x02 \x01(\t\"\xcd\x02\n\x10ValueProgression\x12\n\n\x02id\x18\x01 \x01(\x06\x12/\n\x04info\x18\x02 \x01(\x0b\x32!.ValueProgression.ProgressionInfo\x1ay\n\x0fProgressionInfo\x12/\n\nint_values\x18\x01 \x01(\x0b\x32\x1b.ValueProgression.IntValues\x12\x35\n\rdouble_values\x18\x02 \x01(\x0b\x32\x1e.ValueProgression.DoubleValues\x1a>\n\tIntValues\x12!\n\x08identity\x18\x01 \x01(\x0b\x32\x0f.ObjectIdentity\x12\x0e\n\x06values\x18\x02 \x03(\x03\x1a\x41\n\x0c\x44oubleValues\x12!\n\x08identity\x18\x01 \x01(\x0b\x32\x0f.ObjectIdentity\x12\x0e\n\x06values\x18\x02 \x03(\x01\x62\x06proto3')
 
 
 
 _OBJECTIDENTITY = DESCRIPTOR.message_types_by_name['ObjectIdentity']
+_VALUEPROGRESSION = DESCRIPTOR.message_types_by_name['ValueProgression']
+_VALUEPROGRESSION_PROGRESSIONINFO = _VALUEPROGRESSION.nested_types_by_name['ProgressionInfo']
+_VALUEPROGRESSION_INTVALUES = _VALUEPROGRESSION.nested_types_by_name['IntValues']
+_VALUEPROGRESSION_DOUBLEVALUES = _VALUEPROGRESSION.nested_types_by_name['DoubleValues']
 ObjectIdentity = _reflection.GeneratedProtocolMessageType('ObjectIdentity', (_message.Message,), {
   'DESCRIPTOR' : _OBJECTIDENTITY,
   '__module__' : 'files.common.common_pb2'
@@ -26,9 +30,48 @@ ObjectIdentity = _reflection.GeneratedProtocolMessageType('ObjectIdentity', (_me
   })
 _sym_db.RegisterMessage(ObjectIdentity)
 
+ValueProgression = _reflection.GeneratedProtocolMessageType('ValueProgression', (_message.Message,), {
+
+  'ProgressionInfo' : _reflection.GeneratedProtocolMessageType('ProgressionInfo', (_message.Message,), {
+    'DESCRIPTOR' : _VALUEPROGRESSION_PROGRESSIONINFO,
+    '__module__' : 'files.common.common_pb2'
+    # @@protoc_insertion_point(class_scope:ValueProgression.ProgressionInfo)
+    })
+  ,
+
+  'IntValues' : _reflection.GeneratedProtocolMessageType('IntValues', (_message.Message,), {
+    'DESCRIPTOR' : _VALUEPROGRESSION_INTVALUES,
+    '__module__' : 'files.common.common_pb2'
+    # @@protoc_insertion_point(class_scope:ValueProgression.IntValues)
+    })
+  ,
+
+  'DoubleValues' : _reflection.GeneratedProtocolMessageType('DoubleValues', (_message.Message,), {
+    'DESCRIPTOR' : _VALUEPROGRESSION_DOUBLEVALUES,
+    '__module__' : 'files.common.common_pb2'
+    # @@protoc_insertion_point(class_scope:ValueProgression.DoubleValues)
+    })
+  ,
+  'DESCRIPTOR' : _VALUEPROGRESSION,
+  '__module__' : 'files.common.common_pb2'
+  # @@protoc_insertion_point(class_scope:ValueProgression)
+  })
+_sym_db.RegisterMessage(ValueProgression)
+_sym_db.RegisterMessage(ValueProgression.ProgressionInfo)
+_sym_db.RegisterMessage(ValueProgression.IntValues)
+_sym_db.RegisterMessage(ValueProgression.DoubleValues)
+
 if _descriptor._USE_C_DESCRIPTORS == False:
 
   DESCRIPTOR._options = None
   _OBJECTIDENTITY._serialized_start=29
   _OBJECTIDENTITY._serialized_end=71
+  _VALUEPROGRESSION._serialized_start=74
+  _VALUEPROGRESSION._serialized_end=407
+  _VALUEPROGRESSION_PROGRESSIONINFO._serialized_start=155
+  _VALUEPROGRESSION_PROGRESSIONINFO._serialized_end=276
+  _VALUEPROGRESSION_INTVALUES._serialized_start=278
+  _VALUEPROGRESSION_INTVALUES._serialized_end=340
+  _VALUEPROGRESSION_DOUBLEVALUES._serialized_start=342
+  _VALUEPROGRESSION_DOUBLEVALUES._serialized_end=407
 # @@protoc_insertion_point(module_scope)

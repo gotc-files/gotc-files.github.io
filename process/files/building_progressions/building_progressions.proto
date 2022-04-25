@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import 'files/common/common.proto';
+
+message BuildingProgressions {
+  repeated ValueProgression building_progressions = 1;
+}

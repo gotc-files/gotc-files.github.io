@@ -4,3 +4,23 @@ message ObjectIdentity {
   fixed64 id = 1;
   string name = 2;
 }
+
+message ValueProgression {
+  fixed64 id = 1;
+  ProgressionInfo info = 2;
+
+  message ProgressionInfo {
+    IntValues int_values = 1;
+    DoubleValues double_values = 2;
+  }
+
+  message IntValues {
+    ObjectIdentity identity = 1;
+    repeated int64 values = 2;
+  }
+
+  message DoubleValues {
+    ObjectIdentity identity = 1;
+    repeated double values = 2;
+  }
+}

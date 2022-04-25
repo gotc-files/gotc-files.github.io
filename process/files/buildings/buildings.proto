@@ -1,0 +1,73 @@
+syntax = "proto3";
+
+import 'files/common/common.proto';
+
+message Buildings {
+  repeated Building buildings = 1;
+  message Building {
+    ObjectIdentity identity = 1;
+    BuildingInfo info = 2;
+  }
+
+  message BuildingInfo {
+    string name_placeholder = 1;
+    string description_placeholder = 2;
+    ObjectIdentity preview_prefab_progression = 5;
+    ObjectIdentity upgrade_time_progression = 7;
+    repeated ItemProgression costs = 8;
+    repeated int32 unknown_1_int = 9;
+    int32 enhancement_maximum = 10;
+    ObjectIdentity prefab_progression = 11;
+    ItemProgression production = 12;
+    ObjectIdentity red_temple_regen_rate_modifier = 13;
+    ObjectIdentity red_temple_regen_rate_adder_modifier = 14;
+    ObjectIdentity red_temple_production_capacity_progression = 15;
+    ObjectIdentity red_temple_production_capacity_modifier = 16;
+    ObjectIdentity red_temple_production_capacity_adder_modifier = 17;
+    ObjectIdentity red_temple_light_maximum_progression = 18;
+    ObjectIdentity red_temple_light_maximum_modifier = 19;
+    ObjectIdentity red_temple_light_maximum_adder_modifier = 20;
+    string releated_troop_type = 21;
+    ObjectIdentity training_capacity_modifer = 22;
+    int32 minimum_keep_level = 23;
+    int32 unknown_2_int = 24;
+    int32 unknown_3_int = 25;
+    ObjectIdentity prestige_progression = 26;
+    ObjectIdentity power_progression = 27;
+    repeated BuildingRequirementSet requirement_sets = 28;
+    ObjectIdentity num_buildings_progression = 29;
+    ObjectIdentity destroy_time_progression = 30;
+    ObjectIdentity stat = 31;
+    string prefab = 32;
+    string vfx_prefab = 33;
+    ObjectIdentity watch_tower_unlock_progression = 34;
+    ObjectIdentity event_score_progression = 35;
+    ObjectIdentity ripcord = 36;
+    int32 unknown_4_int = 37;
+    ObjectIdentity enhancement_related_building = 38;
+    repeated ObjectIdentity building_related_enhancements = 39;
+    repeated ItemReduction reductions = 40;
+    ObjectIdentity num_buildings_modifier = 41;
+    ObjectIdentity num_buildings_unlocker = 42;
+    string description_prefab = 43;
+  }
+
+  message ItemProgression {
+    ObjectIdentity item = 1;
+    ObjectIdentity progression = 2;
+  }
+
+  message ItemReduction {
+    ObjectIdentity item = 1;
+    ObjectIdentity modiifer = 2;
+  }
+
+  message BuildingRequirementSet {
+    repeated BuildingRequirement requirements = 1;
+  }
+
+  message BuildingRequirement {
+    ObjectIdentity building = 1;
+    int32 level = 2;
+  }
+}

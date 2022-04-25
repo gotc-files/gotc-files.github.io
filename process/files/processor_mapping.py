@@ -31,6 +31,8 @@ from files.summons.summons import SummonsProcessor
 from files.translations.translations import TranslationsProcessor
 from files.trinket_gear_sets.trinket_gear_sets import TrinketGearSetsProcessor
 from files.recurring_rewards.recurring_rewards import RecurringRewardsProcessor
+from files.buildings.buildings import BuildingsProcessor
+from files.building_progressions.building_progressions import BuildingProgressionsProcessor
 
 FILE_PROCESSOR_MAPPING_CONFIG = {
     ('GearSetTable', 'json', 'gear_set_1', GearSetsProcessor),
@@ -86,6 +88,9 @@ FILE_PROCESSOR_MAPPING_CONFIG = {
     ('ItemTable_Gift_1', 'pb', 'items_gift', ItemsProcessor),
     ('ItemTable_Event_1', 'pb', 'items_event', ItemsProcessor),
     ('AnnuitiesTable', 'pb', 'recurring_rewards', RecurringRewardsProcessor),
+    ('BuildingTable', 'pb', 'buildings', BuildingsProcessor),
+    ('BuildingProgressions', 'pb', 'building_progressions',
+     BuildingProgressionsProcessor),
     ('PropertyTable', 'pb', 'properties', PropertiesProcessor),
     ('enUS', 'txt', 'translations', TranslationsProcessor)
 }
