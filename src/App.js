@@ -9,6 +9,7 @@ import Armory from "./pages/Armory";
 import Building from "./pages/Building";
 import DailyDeliveryDetails from "./pages/DailyDeliveryDetails";
 import DailyDeliveryTable from "./pages/DailyDeliveryTable";
+import Enhancement from "./pages/Enhancement";
 import Hero from "./pages/Hero";
 import Home from "./pages/Home";
 import Summon from "./pages/Summon";
@@ -62,6 +63,7 @@ function App() {
               element={<DailyDeliveryDetails />}
             />
             <Route path="/building" element={<Building />} />
+            <Route path="/enhancement" element={<Enhancement />} />
           </Routes>
         </ThemeProvider>
       </StyledEngineProvider>

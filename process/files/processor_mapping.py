@@ -91,6 +91,8 @@ FILE_PROCESSOR_MAPPING_CONFIG = {
     ('BuildingTable', 'pb', 'buildings', BuildingsProcessor),
     ('BuildingProgressions', 'pb', 'building_progressions',
      ProgressionsProcessor),
+    ('BuildingEnhancementProgressions', 'pb', 'enhancement_progressions',
+     ProgressionsProcessor),
     ('BuildingTable_PropertyModderTable', 'pb',
      'building_stat_sets', StatSetsProcessor),
     ('EventScoringProgressions', 'json',
