@@ -3408,6 +3408,126 @@
       "skill_type": "COUNCIL",
       "stat_name": "property_InfantryDefenseVsSeatOfPower_hero",
       "unlock_level": 0
+    },
+    {
+      "id": "99dfd0a4793dc3e8",
+      "name": "heroskill_visgen_hero_theongreyjoy_thebetrayed_3",
+      "skill_type": "MARCH",
+      "star_skill_value": 0.4406399726867676,
+      "stat_name": "driven_MarchingSpeedJoinRally",
+      "unlock_level": 10
+    },
+    {
+      "id": "5f0aa2d57d85760e",
+      "name": "heroskill_visgen_hero_theongreyjoy_thebetrayed_4",
+      "skill_type": "COUNCIL",
+      "star_skill_value": 0.4896000027656555,
+      "stat_name": "property_RangedAttackVsPlayersInfantry_hero",
+      "unlock_level": 20
+    },
+    {
+      "id": "73fb6973cad627f4",
+      "name": "heroskill_visgen_hero_theongreyjoy_thebetrayed_5",
+      "skill_type": "MARCH",
+      "star_skill_value": 0.36719998717308044,
+      "stat_name": "driven_RangedHealthVsPlayer",
+      "unlock_level": 30
+    },
+    {
+      "id": "6e935981323d5fa",
+      "name": "heroskill_visgen_hero_theongreyjoy_thebetrayed_6",
+      "skill_type": "MARCH",
+      "star_skill_value": 0.34272000193595886,
+      "stat_name": "driven_MarcherTroopHealthVsPlayer",
+      "unlock_level": 40
+    },
+    {
+      "id": "2a18fe3ea4708400",
+      "name": "heroskill_visgen_hero_theongreyjoy_thebetrayed_7",
+      "skill_type": "COUNCIL",
+      "star_skill_value": 0.36719998717308044,
+      "stat_name": "property_RangedHealthVsSeatOfPower_hero",
+      "unlock_level": 50
+    },
+    {
+      "id": "9f9930f53fdf11d",
+      "name": "heroskill_visgen_hero_theongreyjoy_thebetrayed_8",
+      "skill_type": "MARCH",
+      "star_skill_value": 0.2937600016593933,
+      "stat_name": "driven_TroopDefenseVsPlayer",
+      "unlock_level": 60
+    },
+    {
+      "id": "c03c47e9179b601c",
+      "name": "heroskill_visgen_hero_theongreyjoy_thebetrayed_1",
+      "signature_skill_progression_name": "heropropertyprog_visgen_hero_theongreyjoy_thebetrayed_1",
+      "skill_type": "MARCH",
+      "stat_name": "driven_MaxMarchSize",
+      "unlock_level": 0
+    },
+    {
+      "id": "b52e1b02ce6e9212",
+      "name": "heroskill_visgen_hero_theongreyjoy_thebetrayed_2",
+      "signature_skill_progression_name": "heropropertyprog_visgen_hero_theongreyjoy_thebetrayed_2",
+      "skill_type": "MARCH",
+      "stat_name": "driven_RangedDefenseVsSeatOfPower",
+      "unlock_level": 0
+    },
+    {
+      "id": "8b4da90496a931f1",
+      "name": "heroskill_visgen_hero_robbstark_youngwolf_3",
+      "skill_type": "COUNCIL",
+      "star_skill_value": 0.34272000193595886,
+      "stat_name": "property_CavalryDefenseVsSeatOfPower_hero",
+      "unlock_level": 10
+    },
+    {
+      "id": "4d98db7592118417",
+      "name": "heroskill_visgen_hero_robbstark_youngwolf_4",
+      "skill_type": "COUNCIL",
+      "star_skill_value": 0.3182399868965149,
+      "stat_name": "property_CavalryHealthVsPlayer_hero",
+      "unlock_level": 20
+    },
+    {
+      "id": "616910d32542d5ed",
+      "name": "heroskill_visgen_hero_robbstark_youngwolf_5",
+      "skill_type": "MARCH",
+      "star_skill_value": 0.5140799880027771,
+      "stat_name": "driven_MarcherCavalryHealthVsPlayer",
+      "unlock_level": 30
+    },
+    {
+      "id": "147b4c38fcb727e3",
+      "name": "heroskill_visgen_hero_robbstark_youngwolf_6",
+      "skill_type": "COUNCIL",
+      "star_skill_value": 0.4896000027656555,
+      "stat_name": "property_CavalryAttackVsPlayersCavalry_hero",
+      "unlock_level": 40
+    },
+    {
+      "id": "388a879e4be47619",
+      "name": "heroskill_visgen_hero_robbstark_youngwolf_7",
+      "skill_type": "COUNCIL",
+      "star_skill_value": 0.5426400303840637,
+      "stat_name": "property_MarcherCavalryDefenseVsPlayer_hero",
+      "unlock_level": 50
+    },
+    {
+      "id": "d2ae3e49f80f9205",
+      "name": "heroskill_visgen_hero_robbstark_youngwolf_1",
+      "signature_skill_progression_name": "heropropertyprog_visgen_hero_robbstark_youngwolf_1",
+      "skill_type": "MARCH",
+      "stat_name": "driven_MaxMarchSize",
+      "unlock_level": 0
+    },
+    {
+      "id": "a7bc62a221fa600b",
+      "name": "heroskill_visgen_hero_robbstark_youngwolf_2",
+      "signature_skill_progression_name": "heropropertyprog_visgen_hero_robbstark_youngwolf_2",
+      "skill_type": "COUNCIL",
+      "stat_name": "property_CavalryAttackVsSeatOfPower_hero",
+      "unlock_level": 0
     }
   ]
 }

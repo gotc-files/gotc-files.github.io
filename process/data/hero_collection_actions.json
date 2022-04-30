@@ -30,6 +30,19 @@
       "property_name": "driven_HealCost"
     },
     {
+      "buff_progression_name": "prog_hca_march_speed_npc_buff",
+      "cooldown_progression_name": "prog_hca_march_speed_npc_cooldown",
+      "description_placeholder": "HCA_MARCH_SPEED_NPC_DESC",
+      "duration_progression_name": "prog_hca_march_speed_npc_duration",
+      "id": "79785aa3c8302ac9",
+      "image": "icon_hero_action_quick_hunt.png",
+      "incluence_cost_progression_name": "prog_hca_march_speed_npc_influence",
+      "level_progression_name": "prog_hca_march_speed_npc_level",
+      "name": "hca_march_speed_npc",
+      "name_placeholder": "HCA_MARCH_SPEED_NPC_NAME",
+      "property_name": "property_MarchingSpeedVsNPC_action"
+    },
+    {
       "buff_progression_name": "prog_hca_march_speed_buff",
       "cooldown_progression_name": "prog_hca_march_speed_cooldown",
       "description_placeholder": "HCA_MARCH_SPEED_DESC",

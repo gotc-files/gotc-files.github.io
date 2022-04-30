@@ -1772,6 +1772,84 @@
         "summon_purchase_royal_ThorosAnguyAPR22_Gold_10x_top"
       ],
       "time_str": "APR22"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "TheonRobb",
+      "id": "43e6edfec60e055c",
+      "name": "summon_noble_TheonRobbMAY22_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_TheonRobbMAY22_Hero_1x_top",
+        "summon_purchase_noble_TheonRobbMAY22_Hero_10x_top"
+      ],
+      "time_str": "MAY22"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "PetyrWalderFrey",
+      "id": "23f674b4f2a8156e",
+      "name": "summon_noble_PetyrWalderFreyMAY22_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_PetyrWalderFreyMAY22_Hero_1x_top",
+        "summon_purchase_noble_PetyrWalderFreyMAY22_Hero_10x_top"
+      ],
+      "time_str": "MAY22"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "DoranLoras",
+      "id": "202c46a19f45600b",
+      "name": "summon_noble_DoranLorasMAY22_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_DoranLorasMAY22_Hero_1x_top",
+        "summon_purchase_noble_DoranLorasMAY22_Hero_10x_top"
+      ],
+      "time_str": "MAY22"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "TheonRobb",
+      "id": "d349b81b0f73e6e",
+      "name": "summon_royal_TheonRobbMAY22_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_TheonRobbMAY22_Gold_1x_top",
+        "summon_purchase_royal_TheonRobbMAY22_Gold_10x_top"
+      ],
+      "time_str": "MAY22"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "PetyrWalderFrey",
+      "id": "81b586a35dc99707",
+      "name": "summon_royal_PetyrWalderFreyMAY22_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_PetyrWalderFreyMAY22_Gold_1x_top",
+        "summon_purchase_royal_PetyrWalderFreyMAY22_Gold_10x_top"
+      ],
+      "time_str": "MAY22"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "DoranLoras",
+      "id": "34af7d23d19d32",
+      "name": "summon_royal_DoranLorasMAY22_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_DoranLorasMAY22_Gold_1x_top",
+        "summon_purchase_royal_DoranLorasMAY22_Gold_10x_top"
+      ],
+      "time_str": "MAY22"
     }
   ]
 }
