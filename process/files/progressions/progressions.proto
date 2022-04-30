@@ -1,0 +1,27 @@
+syntax = "proto3";
+
+import 'files/common/common.proto';
+
+message Progressions {
+  repeated Progression progressions = 1;
+
+  message Progression {
+    fixed64 id = 1;
+    ProgressionInfo info = 2;
+  }
+
+  message ProgressionInfo {
+    IntValues int_values = 1;
+    DoubleValues double_values = 2;
+  }
+
+  message IntValues {
+    ObjectIdentity identity = 1;
+    repeated int64 values = 2;
+  }
+
+  message DoubleValues {
+    ObjectIdentity identity = 1;
+    repeated double values = 2;
+  }
+}

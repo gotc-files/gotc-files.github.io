@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+import 'files/common/common.proto';
+
+message StatSets {
+  repeated StatSet stat_sets = 1;
+
+  message StatSet {
+    ObjectIdentity identity = 1;
+    StatList stat_list = 2;
+
+    message StatList { repeated Stat stats = 1; }
+
+    message Stat {
+      ObjectIdentity identity = 1;
+      ObjectIdentity progression = 2;
+    }
+  }
+}

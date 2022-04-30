@@ -1,0 +1,781 @@
+{
+  "description": "Sets of stats with names and progression",
+  "values": [
+    {
+      "id": "d3de573e74a14b04",
+      "name": "bldg_castle",
+      "stats": [
+        {
+          "name": "property_MaxMarchSize_city",
+          "progression": "prog_Castle_MaxMarchSize"
+        },
+        {
+          "name": "property_TroopAttack_city",
+          "progression": "prog_Castle_TroopAttack"
+        }
+      ]
+    },
+    {
+      "id": "496e89f5343d9c77",
+      "name": "bldg_watchtower",
+      "stats": [
+        {
+          "name": "property_ScoutSpeed_city",
+          "progression": "prog_Watchtower_ScoutSpeed"
+        }
+      ]
+    },
+    {
+      "id": "2361a97fce31b7a",
+      "name": "bldg_trainingyard",
+      "stats": [
+        {
+          "name": "property_MaxMarchSize_city",
+          "progression": "prog_TrainingYard_MaxMarchSize"
+        }
+      ]
+    },
+    {
+      "id": "184b3448a41bc3a1",
+      "name": "bldg_barracks",
+      "stats": [
+        {
+          "name": "property_BarracksTrainingCapacity_city",
+          "progression": "prog_TroopBuilding_TrainingCapacity"
+        }
+      ]
+    },
+    {
+      "id": "9ac64f6a05d11120",
+      "name": "bldg_stable",
+      "stats": [
+        {
+          "name": "property_StableTrainingCapacity_city",
+          "progression": "prog_TroopBuilding_TrainingCapacity"
+        }
+      ]
+    },
+    {
+      "id": "933ff246061cd38a",
+      "name": "bldg_range",
+      "stats": [
+        {
+          "name": "property_RangeTrainingCapacity_city",
+          "progression": "prog_TroopBuilding_TrainingCapacity"
+        }
+      ]
+    },
+    {
+      "id": "1a9637f7883333f9",
+      "name": "bldg_workshop",
+      "stats": [
+        {
+          "name": "property_WorkshopTrainingCapacity_city",
+          "progression": "prog_TroopBuilding_TrainingCapacity"
+        }
+      ]
+    },
+    {
+      "id": "9f987a9c6a0ee364",
+      "name": "bldg_storehouse",
+      "stats": [
+        {
+          "name": "property_FoodProtected_city",
+          "progression": "prog_Storehouse_FoodProtected"
+        },
+        {
+          "name": "property_WoodProtected_city",
+          "progression": "prog_Storehouse_WoodProtected"
+        },
+        {
+          "name": "property_StoneProtected_city",
+          "progression": "prog_Storehouse_StoneProtected"
+        },
+        {
+          "name": "property_IronProtected_city",
+          "progression": "prog_Storehouse_IronProtected"
+        }
+      ]
+    },
+    {
+      "id": "d72358d1bf0f649d",
+      "name": "bldg_trapmaker",
+      "stats": [
+        {
+          "name": "property_TrapmakerTrainingCapacity_city",
+          "progression": "prog_Warcamp_TrainingCapacity"
+        }
+      ]
+    },
+    {
+      "id": "e5eb039a1f91d085",
+      "name": "bldg_maesterstower",
+      "stats": [
+        {
+          "name": "property_ResearchSpeed_city",
+          "progression": "prog_MaestersTower_ResearchSpeed"
+        }
+      ]
+    },
+    {
+      "id": "5d804426eac4d5a7",
+      "name": "bldg_smithy",
+      "stats": [
+        {
+          "name": "property_ForgingSpeed_city",
+          "progression": "prog_Smithy_ForgingSpeed"
+        },
+        {
+          "name": "property_ForgingSteelCost_city",
+          "progression": "prog_Smithy_ForgingSteelCost"
+        }
+      ]
+    },
+    {
+      "id": "48992d6dce0fe9e1",
+      "name": "bldg_rookery",
+      "stats": [
+        {
+          "name": "property_ReinforcementCapacity_city",
+          "progression": "prog_Rookery_ReinforcementCapacity"
+        }
+      ]
+    },
+    {
+      "id": "868ab4b9c16ecd11",
+      "name": "bldg_greathall",
+      "stats": [
+        {
+          "name": "property_RalliedTroopCapacity_city",
+          "progression": "prog_GreatHall_RalliedTroopCapacity"
+        }
+      ]
+    },
+    {
+      "id": "58a41c2dea8994ad",
+      "name": "bldg_shrine",
+      "stats": [
+        {
+          "name": "property_ShrineDailyFree_city",
+          "progression": "prog_Shrine_DailyFree"
+        }
+      ]
+    },
+    {
+      "id": "ee3b38e4a9b0e7b9",
+      "name": "bldg_farm",
+      "stats": [
+        {
+          "name": "property_food_income",
+          "progression": "prog_Farm_CurrencyProductionRateProgression"
+        }
+      ]
+    },
+    {
+      "id": "14c2510baac585c7",
+      "name": "bldg_sawmill",
+      "stats": [
+        {
+          "name": "property_wood_income",
+          "progression": "prog_Sawmill_CurrencyProductionRateProgression"
+        }
+      ]
+    },
+    {
+      "id": "f4cbbc789f3c20ff",
+      "name": "bldg_warcamp",
+      "stats": [
+        {
+          "name": "property_TrainingCapacity_city",
+          "progression": "prog_Warcamp_TrainingCapacity"
+        },
+        {
+          "name": "property_TrainingSpeed_city",
+          "progression": "prog_Warcamp_TrainingSpeed"
+        }
+      ]
+    },
+    {
+      "id": "466cdc10f310bf99",
+      "name": "bldg_medictent",
+      "stats": [
+        {
+          "name": "property_WoundedCapacity_city",
+          "progression": "prog_MedicTent_WoundedCapacity"
+        },
+        {
+          "name": "property_DoomedCapacity_city",
+          "progression": "prog_MedicTent_DoomedCapacity"
+        },
+        {
+          "name": "property_RedTempleRegenRateAdder_city",
+          "progression": "prog_MedicTent_RedTempleRegenRateAdder"
+        },
+        {
+          "name": "property_RedTempleProductionCapacityAdder_city",
+          "progression": "prog_MedicTent_RedTempleProductionCapacityAdder"
+        },
+        {
+          "name": "property_RedTempleStorageCapacityAdder_city",
+          "progression": "prog_MedicTent_RedTempleStorageCapacityAdder"
+        }
+      ]
+    },
+    {
+      "id": "6899d56cf2288cb5",
+      "name": "bldg_stonequarry",
+      "stats": [
+        {
+          "name": "property_stone_income",
+          "progression": "prog_StoneQuarry_CurrencyProductionRateProgression"
+        }
+      ]
+    },
+    {
+      "id": "25f5614ef887b1c4",
+      "name": "bldg_mine",
+      "stats": [
+        {
+          "name": "property_iron_income",
+          "progression": "prog_Mine_CurrencyProductionRateProgression"
+        }
+      ]
+    },
+    {
+      "id": "34937d92d3aff0b7",
+      "name": "bldg_steel_plot",
+      "stats": [
+        {
+          "name": "property_steel_income",
+          "progression": "prog_SteelPlot_CurrencyProductionRateProgression"
+        }
+      ]
+    },
+    {
+      "id": "54593479ff3e600f",
+      "name": "bldg_dragonlore_plot",
+      "stats": [
+        {
+          "name": "property_dragonlore_income",
+          "progression": "prog_DragonLore_Plot_CurrencyProductionRateProgression"
+        }
+      ]
+    },
+    {
+      "id": "84331ab59157ce06",
+      "name": "bldg_slate_plot",
+      "stats": [
+        {
+          "name": "property_slate_income",
+          "progression": "prog_Slate_Plot_CurrencyProductionRateProgression"
+        }
+      ]
+    },
+    {
+      "id": "4f9aa040e2471e04",
+      "name": "bldg_wall",
+      "stats": [
+        {
+          "name": "property_TrapCapacity_city",
+          "progression": "prog_Wall_TrapCapacity"
+        },
+        {
+          "name": "property_CityDefense_city",
+          "progression": "prog_Wall_CityDefense"
+        }
+      ]
+    },
+    {
+      "id": "73b69333273c42b0",
+      "name": "bldg_turret",
+      "stats": [
+        {
+          "name": "property_food_income",
+          "progression": "prog_Farm_CurrencyProductionRateProgression"
+        }
+      ]
+    },
+    {
+      "id": "fcf92101eef68ca3",
+      "name": "bldg_dragonpit",
+      "stats": [
+        {
+          "name": "property_DragonFeedXPBonus_Alpha_city",
+          "progression": "prog_DragonPit_FeedXPBonus"
+        }
+      ]
+    },
+    {
+      "id": "8ce0e2ed7418ee3b",
+      "name": "bldg_redtemple",
+      "stats": [
+        {
+          "name": "property_DoomedCapacity_city",
+          "progression": "prog_RedTemple_DoomedCapacity"
+        },
+        {
+          "name": "property_RedTempleRegenRateAdder_city",
+          "progression": "prog_RedTemple_RedTempleRegenRateAdder"
+        },
+        {
+          "name": "property_RedTempleProductionCapacityAdder_city",
+          "progression": "prog_RedTemple_RedTempleProductionCapacityAdder"
+        },
+        {
+          "name": "property_RedTempleStorageCapacityAdder_city",
+          "progression": "prog_RedTemple_RedTempleStorageCapacityAdder"
+        }
+      ]
+    },
+    {
+      "id": "48bdb1153a408a25",
+      "name": "bldg_barracks_enhancement_1",
+      "stats": [
+        {
+          "name": "property_InfantryAttackVsPlayer_city",
+          "progression": "prog_Barracks_Enhancement_1_enhancement_stat"
+        }
+      ]
+    },
+    {
+      "id": "3dafedfee3b5782b",
+      "name": "bldg_barracks_enhancement_2",
+      "stats": [
+        {
+          "name": "property_InfantryDefenseVsPlayersRanged_city",
+          "progression": "prog_Barracks_Enhancement_2_enhancement_stat"
+        }
+      ]
+    },
+    {
+      "id": "115e265854e629d1",
+      "name": "bldg_barracks_enhancement_3",
+      "stats": [
+        {
+          "name": "property_InfantryDefenseVsPlayersCavalry_city",
+          "progression": "prog_Barracks_Enhancement_3_enhancement_stat"
+        }
+      ]
+    },
+    {
+      "id": "ee067bf5322284f3",
+      "name": "bldg_castle_enhancement_1",
+      "stats": [
+        {
+          "name": "property_TroopAttack_city",
+          "progression": "prog_Castle_Enhancement_1_enhancement_stat"
+        }
+      ]
+    },
+    {
+      "id": "9b14271eebd776fd",
+      "name": "bldg_castle_enhancement_2",
+      "stats": [
+        {
+          "name": "property_TroopDefense_city",
+          "progression": "prog_Castle_Enhancement_2_enhancement_stat"
+        }
+      ]
+    },
+    {
+      "id": "b7e5ecb85c842707",
+      "name": "bldg_castle_enhancement_3",
+      "stats": [
+        {
+          "name": "property_TroopHealth_city",
+          "progression": "prog_Castle_Enhancement_3_enhancement_stat"
+        }
+      ]
+    },
+    {
+      "id": "4d61ae26039a3f99",
+      "name": "bldg_range_enhancement_1",
+      "stats": [
+        {
+          "name": "property_RangedAttackVsPlayer_city",
+          "progression": "prog_Range_Enhancement_1_enhancement_stat"
+        }
+      ]
+    },
+    {
+      "id": "3873f2cdda6fcd97",
+      "name": "bldg_range_enhancement_2",
+      "stats": [
+        {
+          "name": "property_RangedDefenseVsPlayersInfantry_city",
+          "progression": "prog_Range_Enhancement_2_enhancement_stat"
+        }
+      ]
+    },
+    {
+      "id": "1482396b6d3c9c6d",
+      "name": "bldg_range_enhancement_3",
+      "stats": [
+        {
+          "name": "property_RangedDefenseVsPlayersCavalry_city",
+          "progression": "prog_Range_Enhancement_3_enhancement_stat"
+        }
+      ]
+    },
+    {
+      "id": "ad2e52ca7430456c",
+      "name": "bldg_stable_enhancement_1",
+      "stats": [
+        {
+          "name": "property_CavalryAttackVsPlayer_city",
+          "progression": "prog_Stable_Enhancement_1_enhancement_stat"
+        }
+      ]
+    },
+    {
+      "id": "d83c0e21adc5b762",
+      "name": "bldg_stable_enhancement_2",
+      "stats": [
+        {
+          "name": "property_CavalryDefenseVsPlayersInfantry_city",
+          "progression": "prog_Stable_Enhancement_2_enhancement_stat"
+        }
+      ]
+    },
+    {
+      "id": "f4cdc5871a96e698",
+      "name": "bldg_stable_enhancement_3",
+      "stats": [
+        {
+          "name": "property_CavalryDefenseVsPlayersRanged_city",
+          "progression": "prog_Stable_Enhancement_3_enhancement_stat"
+        }
+      ]
+    },
+    {
+      "id": "95765b9cbe180264",
+      "name": "bldg_workshop_enhancement_1",
+      "stats": [
+        {
+          "name": "property_SiegeAttackVsPlayer_city",
+          "progression": "prog_Workshop_Enhancement_1_enhancement_stat"
+        }
+      ]
+    },
+    {
+      "id": "e064077767edf06a",
+      "name": "bldg_workshop_enhancement_2",
+      "stats": [
+        {
+          "name": "property_SiegeDefenseVsPlayer_city",
+          "progression": "prog_Workshop_Enhancement_2_enhancement_stat"
+        }
+      ]
+    },
+    {
+      "id": "cc95ccd1d0bea190",
+      "name": "bldg_workshop_enhancement_3",
+      "stats": [
+        {
+          "name": "property_SiegeHealthVsPlayer_city",
+          "progression": "prog_Workshop_Enhancement_3_enhancement_stat"
+        }
+      ]
+    },
+    {
+      "id": "6435742f409b3cce",
+      "name": "bldg_watchtower_enhancement_1",
+      "stats": [
+        {
+          "name": "property_MarchingSpeed_city",
+          "progression": "prog_WatchTower_Enhancement_1_enhancement_stat"
+        }
+      ]
+    },
+    {
+      "id": "112728c4996ecec0",
+      "name": "bldg_watchtower_enhancement_2",
+      "stats": [
+        {
+          "name": "property_MarchingSpeedReinforce_city",
+          "progression": "prog_WatchTower_Enhancement_2_enhancement_stat"
+        }
+      ]
+    },
+    {
+      "id": "3dd6e3622e3d9f3a",
+      "name": "bldg_watchtower_enhancement_3",
+      "stats": [
+        {
+          "name": "property_MarchingSpeedVsNPC_city",
+          "progression": "prog_WatchTower_Enhancement_3_enhancement_stat"
+        }
+      ]
+    },
+    {
+      "id": "b59e83dee7b7e6f6",
+      "name": "bldg_storehouse_enhancement_1",
+      "stats": [
+        {
+          "name": "property_InfantryHealthVsPlayer_city",
+          "progression": "prog_Storehouse_Enhancement_1_enhancement_stat"
+        }
+      ]
+    },
+    {
+      "id": "c08cdf353e4214f8",
+      "name": "bldg_storehouse_enhancement_2",
+      "stats": [
+        {
+          "name": "property_RangedHealthVsPlayer_city",
+          "progression": "prog_Storehouse_Enhancement_2_enhancement_stat"
+        }
+      ]
+    },
+    {
+      "id": "ec7d149389114502",
+      "name": "bldg_storehouse_enhancement_3",
+      "stats": [
+        {
+          "name": "property_CavalryHealthVsPlayer_city",
+          "progression": "prog_Storehouse_Enhancement_3_enhancement_stat"
+        }
+      ]
+    },
+    {
+      "id": "c457aa24b0dde3d4",
+      "name": "bldg_trainingyard_enhancement_1",
+      "stats": [
+        {
+          "name": "property_InfantryDefenseVsPlayersInfantry_city",
+          "progression": "prog_TrainingYard_Enhancement_1_enhancement_stat"
+        }
+      ]
+    },
+    {
+      "id": "b145f6cf692811da",
+      "name": "bldg_trainingyard_enhancement_2",
+      "stats": [
+        {
+          "name": "property_RangedDefenseVsPlayersRanged_city",
+          "progression": "prog_TrainingYard_Enhancement_2_enhancement_stat"
+        }
+      ]
+    },
+    {
+      "id": "9db43d69de7b4020",
+      "name": "bldg_trainingyard_enhancement_3",
+      "stats": [
+        {
+          "name": "property_CavalryDefenseVsPlayersCavalry_city",
+          "progression": "prog_TrainingYard_Enhancement_3_enhancement_stat"
+        }
+      ]
+    },
+    {
+      "id": "4c0ad43c147bb61c",
+      "name": "bldg_shrine_enhancement_1",
+      "stats": [
+        {
+          "name": "property_TroopHealthVsPlayer_city",
+          "progression": "prog_Shrine_Enhancement_1_enhancement_stat"
+        }
+      ]
+    },
+    {
+      "id": "391888d7cd8e4412",
+      "name": "bldg_shrine_enhancement_2",
+      "stats": [
+        {
+          "name": "property_MarchingSpeedVsSeatOfPower_city",
+          "progression": "prog_Shrine_Enhancement_2_enhancement_stat"
+        }
+      ]
+    },
+    {
+      "id": "15e943717add15e8",
+      "name": "bldg_shrine_enhancement_3",
+      "stats": [
+        {
+          "name": "property_TroopDefenseVsPlayer_city",
+          "progression": "prog_Shrine_Enhancement_3_enhancement_stat"
+        }
+      ]
+    },
+    {
+      "id": "dd68fbc61527ceb4",
+      "name": "bldg_wall_enhancement_1",
+      "stats": [
+        {
+          "name": "property_InfantryDefenseVsPlayer_city",
+          "progression": "prog_Wall_Enhancement_1_enhancement_stat"
+        }
+      ]
+    },
+    {
+      "id": "a87aa72dccd23cba",
+      "name": "bldg_wall_enhancement_2",
+      "stats": [
+        {
+          "name": "property_RangedDefenseVsPlayer_city",
+          "progression": "prog_Wall_Enhancement_2_enhancement_stat"
+        }
+      ]
+    },
+    {
+      "id": "848b6c8b7b816d40",
+      "name": "bldg_wall_enhancement_3",
+      "stats": [
+        {
+          "name": "property_CavalryDefenseVsPlayer_city",
+          "progression": "prog_Wall_Enhancement_3_enhancement_stat"
+        }
+      ]
+    },
+    {
+      "id": "e48feca92bfa5768",
+      "name": "bldg_rookery_enhancement_1",
+      "stats": [
+        {
+          "name": "property_InfantryAttackVsPlayersRanged_city",
+          "progression": "prog_Rookery_Enhancement_1_enhancement_stat"
+        }
+      ]
+    },
+    {
+      "id": "919db042f20fa566",
+      "name": "bldg_rookery_enhancement_2",
+      "stats": [
+        {
+          "name": "property_RangedAttackVsPlayersCavalry_city",
+          "progression": "prog_Rookery_Enhancement_2_enhancement_stat"
+        }
+      ]
+    },
+    {
+      "id": "bd6c7be4455cf49c",
+      "name": "bldg_rookery_enhancement_3",
+      "stats": [
+        {
+          "name": "property_CavalryAttackVsPlayersInfantry_city",
+          "progression": "prog_Rookery_Enhancement_3_enhancement_stat"
+        }
+      ]
+    },
+    {
+      "id": "643929211feeba46",
+      "name": "bldg_greathall_enhancement_1",
+      "stats": [
+        {
+          "name": "property_InfantryAttackVsPlayersInfantry_city",
+          "progression": "prog_GreatHall_Enhancement_1_enhancement_stat"
+        }
+      ]
+    },
+    {
+      "id": "112b75cac61b4848",
+      "name": "bldg_greathall_enhancement_2",
+      "stats": [
+        {
+          "name": "property_RangedAttackVsPlayersRanged_city",
+          "progression": "prog_GreatHall_Enhancement_2_enhancement_stat"
+        }
+      ]
+    },
+    {
+      "id": "3ddabe6c714819b2",
+      "name": "bldg_greathall_enhancement_3",
+      "stats": [
+        {
+          "name": "property_CavalryAttackVsPlayersCavalry_city",
+          "progression": "prog_GreatHall_Enhancement_3_enhancement_stat"
+        }
+      ]
+    },
+    {
+      "id": "926a2787d7592f45",
+      "name": "bldg_smithy_enhancement_1",
+      "stats": [
+        {
+          "name": "property_InfantryAttackVsPlayersCavalry_city",
+          "progression": "prog_Smithy_Enhancement_1_enhancement_stat"
+        }
+      ]
+    },
+    {
+      "id": "e7787b6c0eacdd4b",
+      "name": "bldg_smithy_enhancement_2",
+      "stats": [
+        {
+          "name": "property_RangedAttackVsPlayersInfantry_city",
+          "progression": "prog_Smithy_Enhancement_2_enhancement_stat"
+        }
+      ]
+    },
+    {
+      "id": "cb89b0cab9ff8cb1",
+      "name": "bldg_smithy_enhancement_3",
+      "stats": [
+        {
+          "name": "property_CavalryAttackVsPlayersRanged_city",
+          "progression": "prog_Smithy_Enhancement_3_enhancement_stat"
+        }
+      ]
+    },
+    {
+      "id": "99e9b462e84a3c88",
+      "name": "bldg_maesterstower_enhancement_1",
+      "stats": [
+        {
+          "name": "property_TroopAttackVsPlayer_city",
+          "progression": "prog_MaestersTower_Enhancement_1_enhancement_stat"
+        }
+      ]
+    },
+    {
+      "id": "ecfbe88931bfce86",
+      "name": "bldg_maesterstower_enhancement_2",
+      "stats": [
+        {
+          "name": "property_WallDamageBonus_city",
+          "progression": "prog_MaestersTower_Enhancement_2_enhancement_stat"
+        }
+      ]
+    },
+    {
+      "id": "c00a232f86ec9f7c",
+      "name": "bldg_maesterstower_enhancement_3",
+      "stats": [
+        {
+          "name": "property_MarchingSpeedVsResource_city",
+          "progression": "prog_MaestersTower_Enhancement_3_enhancement_stat"
+        }
+      ]
+    },
+    {
+      "id": "3e4bdc0f36cd48d4",
+      "name": "bldg_dragonpit_enhancement_1",
+      "stats": [
+        {
+          "name": "property_DragonTroopAttackVsSeatOfPower_city",
+          "progression": "prog_DragonPit_Enhancement_1_enhancement_stat"
+        }
+      ]
+    },
+    {
+      "id": "4b5980e4ef38bada",
+      "name": "bldg_dragonpit_enhancement_2",
+      "stats": [
+        {
+          "name": "property_DragonTroopDefenseVsSeatOfPower_city",
+          "progression": "prog_DragonPit_Enhancement_2_enhancement_stat"
+        }
+      ]
+    },
+    {
+      "id": "67a84b42586beb20",
+      "name": "bldg_dragonpit_enhancement_3",
+      "stats": [
+        {
+          "name": "property_DragonTroopHealthVsSeatOfPower_city",
+          "progression": "prog_DragonPit_Enhancement_3_enhancement_stat"
+        }
+      ]
+    }
+  ]
+}

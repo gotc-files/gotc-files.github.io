@@ -24,6 +24,7 @@ class BuildingsProcessor(ProtoProcessor):
                                      for requirement_set in info.requirement_sets],
                 "num_buildings_progression": info.num_buildings_progression.name,
                 "stat": info.stat.name,
+                "event_score_progression": info.event_score_progression.name,
                 "enhancement_related_building": info.enhancement_related_building.name,
                 "building_related_enhancements": [enhancement.name for enhancement in info.building_related_enhancements],
             })

@@ -5,13 +5,11 @@ from files.armory_collections.armory_collections import \
 from files.armory_gears.armory_gears import ArmoryGearsProcessor
 from files.armory_stat_progressions.armory_stat_progressions import \
     ArmoryStatProgressionsProcessor
-from files.armory_stat_sets.armory_stat_sets import ArmoryStatSetsProcessor
 from files.gear_set_progressions.gear_set_progressions import \
     GearSetProgressionsProcessor
 from files.gear_sets.gear_sets import GearSetsProcessor
 from files.gear_stat_progressions.gear_stat_progressions import \
     GearStatProgressionsProcessor
-from files.gear_stat_sets.gear_stat_sets import GearStatSetsProcessor
 from files.gears.gears import GearsProcessor
 from files.hero_collection_action_progressions.hero_collection_action_progressions import \
     HeroCollectionActionProgressionsProcessor
@@ -32,7 +30,9 @@ from files.translations.translations import TranslationsProcessor
 from files.trinket_gear_sets.trinket_gear_sets import TrinketGearSetsProcessor
 from files.recurring_rewards.recurring_rewards import RecurringRewardsProcessor
 from files.buildings.buildings import BuildingsProcessor
-from files.building_progressions.building_progressions import BuildingProgressionsProcessor
+from files.event_scoring_progressions.event_scoring_progressions import EventScoringProgressionsProcessor
+from files.stat_sets.stat_sets import StatSetsProcessor
+from files.progressions.progressions import ProgressionsProcessor
 
 FILE_PROCESSOR_MAPPING_CONFIG = {
     ('GearSetTable', 'json', 'gear_set_1', GearSetsProcessor),
@@ -48,20 +48,20 @@ FILE_PROCESSOR_MAPPING_CONFIG = {
     ('ItemTable_GearGen_GearSets', 'pb', 'gears_2', GearsProcessor),
     ('ItemTable_GearGen_Trinkets', 'pb', 'trinket_gears', GearsProcessor),
     ('GearTable_PropertyModderTable', 'pb',
-     'gear_stat_sets_1', GearStatSetsProcessor),
+     'gear_stat_sets_1', StatSetsProcessor),
     ('ItemTable_GearGen_GearSets_PropertyModderTable',
-     'pb', 'gear_stat_sets_2', GearStatSetsProcessor),
+     'pb', 'gear_stat_sets_2', StatSetsProcessor),
     ('ItemTable_GearGen_Trinkets_PropertyModderTable',
-     'pb', 'trinket_gear_stat_sets', GearStatSetsProcessor),
+     'pb', 'trinket_gear_stat_sets', StatSetsProcessor),
     ('GearProgressions', 'pb', 'gear_stat_progressions', GearStatProgressionsProcessor),
     ('ArmoryCollectionsTable', 'pb',
      'armory_collections_1', ArmoryCollectionsProcessor),
     ('ArmoryCollectionTable_GearGen_GearSets', 'pb',
      'armory_collections_2', ArmoryCollectionsProcessor),
     ('ArmoryCollectionsTable_ArmoryPropertyModderTable', 'pb',
-     'armory_stat_sets_1', ArmoryStatSetsProcessor),
+     'armory_stat_sets_1', StatSetsProcessor),
     ('ArmoryCollectionTable_GearGen_GearSets_ArmoryPropertyModderTable', 'pb',
-     'armory_stat_sets_2', ArmoryStatSetsProcessor),
+     'armory_stat_sets_2', StatSetsProcessor),
     ('ArmoryPropertyProgressions', 'pb',
      'armory_stat_progressions', ArmoryStatProgressionsProcessor),
     ('GearTable_ArmoryGearTable', 'json', 'armory_gears_1', ArmoryGearsProcessor),
@@ -90,7 +90,12 @@ FILE_PROCESSOR_MAPPING_CONFIG = {
     ('AnnuitiesTable', 'pb', 'recurring_rewards', RecurringRewardsProcessor),
     ('BuildingTable', 'pb', 'buildings', BuildingsProcessor),
     ('BuildingProgressions', 'pb', 'building_progressions',
-     BuildingProgressionsProcessor),
+     ProgressionsProcessor),
+    ('BuildingTable_PropertyModderTable', 'pb',
+     'building_stat_sets', StatSetsProcessor),
+    ('EventScoringProgressions', 'json',
+     'event_scoring_progressions', EventScoringProgressionsProcessor),
+    ('GenerationProgressions', 'pb', 'generation_progressions', ProgressionsProcessor),
     ('PropertyTable', 'pb', 'properties', PropertiesProcessor),
     ('enUS', 'txt', 'translations', TranslationsProcessor)
 }

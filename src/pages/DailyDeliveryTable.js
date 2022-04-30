@@ -72,6 +72,7 @@ function DailyDeliveryTable() {
               jumpToPage: true,
               sort: false,
               selectableRows: "none",
+              storageKey: "daily-delivery-table-state",
             }}
           />
         </Grid>

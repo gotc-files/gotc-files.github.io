@@ -61,10 +61,10 @@ class TrinketArmoryProcessor(PageProcessor):
 
     def _process_bonus(self, bonus_name):
         armory_stat = self.lookup_files(
-            ['armory_stat_sets_1', 'armory_stat_sets_2'], 'name', bonus_name)
+            ['armory_stat_sets_1', 'armory_stat_sets_2'], 'name', bonus_name)['stats'][0]
         return {
-            "name": self.translate(self.lookup_file("properties", 'name', armory_stat["property"])["name_placeholder"]),
-            "description": self.translate(self.lookup_file("properties", 'name', armory_stat["property"])["description_placeholder"]),
+            "name": self.translate(self.lookup_file("properties", 'name', armory_stat["name"])["name_placeholder"]),
+            "description": self.translate(self.lookup_file("properties", 'name', armory_stat["name"])["description_placeholder"]),
             "progression": self.lookup_file('armory_stat_progressions', 'name', armory_stat['progression'])["stats"]
         }
 

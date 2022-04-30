@@ -1,21 +1,18 @@
-import { CardContent } from "@mui/material";
+import CardContent from "@mui/material/CardContent";
 import Card from "@mui/material/Card";
 import CardHeader from "@mui/material/CardHeader";
 import Grid from "@mui/material/Grid";
 import useLocalStorage from "@rehooks/local-storage";
 import React from "react";
 import { Navigate, useParams } from "react-router-dom";
+import DataCard from "../common/DataCard";
 import Page from "../common/Page";
 import SingleChoiceSelect from "../common/SingleChoiceSelect";
-import StatsCard from "../common/StatsCard";
 import { displayWithRegexFallback } from "../common/util";
 import trinketArmories from "../data/trinket_armory.json";
 
 const LEVELS = [1, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50];
 const QUALITIES = ["Poor", "Common", "Fine", "Exquisite", "Epic", "Legendary"];
-const TRINKET_ARMORY_COLLECTION_LEVELS = [...Array(150).keys()].map(
-  (i) => i + 1
-);
 
 function TrinketArmory() {
   const urlParams = useParams();
@@ -27,8 +24,8 @@ function TrinketArmory() {
     "quality-index",
     2
   );
-  const [currentTrinketArmoryLevelIndex, setCurrentTrinketArmoryLevelIndex] =
-    useLocalStorage("trinket-armory-collection-level", 104);
+  const [currentTrinketArmoryLevel, setCurrentTrinketArmoryLevel] =
+    useLocalStorage("trinket-armory-collection-level", 105);
 
   if (!urlParams.trinketArmoryId) {
     return (
@@ -87,40 +84,29 @@ function TrinketArmory() {
                   );
                 }}
               />
-              <SingleChoiceSelect
-                name="armory-level"
-                choices={TRINKET_ARMORY_COLLECTION_LEVELS}
-                currentChoice={
-                  TRINKET_ARMORY_COLLECTION_LEVELS[
-                    currentTrinketArmoryLevelIndex
-                  ]
-                }
-                handleChoiceChange={(currentTrinketArmoryLevel) => {
-                  setCurrentTrinketArmoryLevelIndex(
-                    TRINKET_ARMORY_COLLECTION_LEVELS.findIndex(
-                      (trinketArmoryLevel) =>
-                        trinketArmoryLevel === currentTrinketArmoryLevel
-                    )
-                  );
-                }}
-              />
             </CardContent>
           </Card>
         </Grid>
         <Grid item xs={12} md={6}>
-          <StatsCard
-            title="Trinket Armory Stats"
+          <DataCard
+            title={`Trinket Armory Stats (${currentTrinketArmoryLevel})`}
             color={currentTrinktArmory.color}
-            stats={currentTrinktArmory.bonuses.map((bonus) => ({
+            slider={{
+              min: 1,
+              max: 150,
+              value: currentTrinketArmoryLevel,
+              setValue: setCurrentTrinketArmoryLevel,
+            }}
+            data={currentTrinktArmory.bonuses.map((bonus) => ({
               name: bonus.name,
-              description: bonus.description,
-              value: bonus.progression[currentTrinketArmoryLevelIndex],
+              tooltip: bonus.description,
+              value: bonus.progression[currentTrinketArmoryLevel - 1],
             }))}
           />
         </Grid>
         {currentTrinktArmory.trinkets.map((trinket, index) => (
           <Grid item xs={12} md={6} key={index}>
-            <StatsCard
+            <DataCard
               title={displayWithRegexFallback(
                 trinket.gear_with_level.find(
                   (trinket) => trinket.level === currentTrinketLevel
@@ -130,11 +116,11 @@ function TrinketArmory() {
                 )
               )}
               color={currentTrinktArmory.color}
-              stats={trinket.gear_with_level
+              data={trinket.gear_with_level
                 .find((trinket) => trinket.level === currentTrinketLevel)
                 .stats.map((stat) => ({
                   name: stat.name,
-                  description: stat.description,
+                  tooltip: stat.description,
                   value: stat.progression[currentQualityIndex],
                 }))}
             />

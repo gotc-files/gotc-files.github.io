@@ -1,10 +1,61 @@
 import { Tooltip } from "@mui/material";
 
-function formatNumber(num) {
+const TIME_UNITS = [
+  { multiplier: 1, symbol: "s" },
+  { multiplier: 60, symbol: "m" },
+  { multiplier: 60, symbol: "h" },
+  { multiplier: 24, symbol: "d" },
+];
+
+function formatStat(num) {
   if (num === Math.floor(num) && num > 10) {
     return num;
   }
   return `${Math.floor(num * 10000) / 100}%`;
+}
+
+function formatNumber(num) {
+  if (num === 0) return "0";
+  const symbolIndex = Math.floor(Math.log(num) / Math.log(1000));
+  const symbol = ["", "K", "M", "B", "T"][symbolIndex];
+  return `${(num / Math.pow(1000, symbolIndex))
+    .toPrecision(3)
+    .replace(/0+$/, "")
+    .replace(/\.$/, "")}${symbol}`;
+}
+
+function formatTime(numSeconds) {
+  let timeUnitIndex = 0;
+  let numUnits = numSeconds;
+  let unitMultiplier = 1;
+  while (
+    timeUnitIndex + 1 < TIME_UNITS.length &&
+    numUnits >= TIME_UNITS[timeUnitIndex + 1].multiplier
+  ) {
+    timeUnitIndex += 1;
+    numUnits = Math.floor(numUnits / TIME_UNITS[timeUnitIndex].multiplier);
+    unitMultiplier *= TIME_UNITS[timeUnitIndex].multiplier;
+  }
+  const remainder = numSeconds - unitMultiplier * numUnits;
+  if (remainder === 0 || timeUnitIndex === 0) {
+    return `${numUnits}${TIME_UNITS[timeUnitIndex].symbol}`;
+  }
+  const secondaryMultiplier =
+    unitMultiplier / TIME_UNITS[timeUnitIndex].multiplier;
+  const numSecondaryUnits = Math.ceil(remainder / secondaryMultiplier);
+  return `${numUnits}${TIME_UNITS[timeUnitIndex].symbol}${numSecondaryUnits}${
+    TIME_UNITS[timeUnitIndex - 1].symbol
+  }`;
+}
+
+function formatData(data, type) {
+  if (type === "time") {
+    return formatTime(data);
+  }
+  if (type === "number") {
+    return formatNumber(data);
+  }
+  return formatStat(data);
 }
 
 function displayWithRegexFallback(text, regex, maxChars = 20) {
@@ -53,5 +104,6 @@ export {
   displayTruncated,
   displayWithRegexFallback,
   displayTextWithTooltipForTruncated,
-  formatNumber,
+  formatStat,
+  formatData,
 };

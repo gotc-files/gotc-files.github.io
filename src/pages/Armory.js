@@ -5,16 +5,14 @@ import Grid from "@mui/material/Grid";
 import useLocalStorage from "@rehooks/local-storage";
 import React from "react";
 import { Navigate, useParams } from "react-router-dom";
+import DataCard from "../common/DataCard";
 import Page from "../common/Page";
 import SingleChoiceSelect from "../common/SingleChoiceSelect";
-import StatsCard from "../common/StatsCard";
 import { displayWithRegexFallback } from "../common/util";
 import armories from "../data/armory.json";
-import GearStatsCard from "./GearStatsCard";
 
 const LEVELS = [5, 10, 15, 20, 25, 30, 35, 40, 45, 50];
 const QUALITIES = ["Poor", "Common", "Fine", "Exquisite", "Epic", "Legendary"];
-const ARMORY_COLLECTION_LEVELS = [...Array(236).keys()].map((i) => i + 1);
 
 function Armory() {
   const urlParams = useParams();
@@ -23,9 +21,9 @@ function Armory() {
     "quality-index",
     2
   );
-  const [currentArmoryLevelIndex, setCurrentArmoryLevelIndex] = useLocalStorage(
+  const [currentArmoryLevel, setCurrentArmoryLevel] = useLocalStorage(
     "armory-collection-level",
-    165
+    166
   );
 
   if (!urlParams.armoryId) {
@@ -85,45 +83,50 @@ function Armory() {
                   );
                 }}
               />
-              <SingleChoiceSelect
-                name="armory-level"
-                choices={ARMORY_COLLECTION_LEVELS}
-                currentChoice={
-                  ARMORY_COLLECTION_LEVELS[currentArmoryLevelIndex]
-                }
-                handleChoiceChange={(currentArmoryLevel) => {
-                  setCurrentArmoryLevelIndex(
-                    ARMORY_COLLECTION_LEVELS.findIndex(
-                      (armoryLevel) => armoryLevel === currentArmoryLevel
-                    )
-                  );
-                }}
-              />
             </CardContent>
           </Card>
         </Grid>
         <Grid item xs={12} md={6}>
-          <StatsCard
-            title="Armory Stats"
+          <DataCard
+            title={`Armory Stats (${currentArmoryLevel})`}
             color={armory.color}
-            stats={["bonus_1", "bonus_2", "bonus_3"].map((bonusName) => ({
+            slider={{
+              min: 1,
+              max: 236,
+              value: currentArmoryLevel,
+              setValue: setCurrentArmoryLevel,
+            }}
+            data={["bonus_1", "bonus_2", "bonus_3"].map((bonusName) => ({
               name: armory[bonusName].name,
-              description: armory[bonusName].description,
-              value: armory[bonusName].progression[currentArmoryLevelIndex],
+              tooltip: armory[bonusName].description,
+              value: armory[bonusName].progression[currentArmoryLevel - 1],
             }))}
           />
         </Grid>
         {["helmet", "weapon", "chest", "ring", "pants", "boots"].map(
-          (slot, index) => (
-            <Grid item xs={12} md={6} key={index}>
-              <GearStatsCard
-                armory={armory}
-                gear={armory[slot]}
-                currentLevel={currentLevel}
-                currentQualityIndex={currentQualityIndex}
-              />
-            </Grid>
-          )
+          (slot, index) => {
+            const gear = armory[slot];
+            return (
+              <Grid item xs={12} md={6} key={index}>
+                <DataCard
+                  title={displayWithRegexFallback(
+                    gear.gear_with_level.find(
+                      (gear) => gear.level === currentLevel
+                    ).name,
+                    new RegExp(/^n:EQ_EVENTS_(\w+_[0-9]+_\w+)_LORD[0-9]+_NAME$/)
+                  )}
+                  color={armory.color}
+                  data={gear.gear_with_level
+                    .find((gear) => gear.level === currentLevel)
+                    .stats.map((stat) => ({
+                      name: stat.name,
+                      tooltip: stat.description,
+                      value: stat.progression[currentQualityIndex],
+                    }))}
+                />
+              </Grid>
+            );
+          }
         )}
       </Grid>
     </Page>

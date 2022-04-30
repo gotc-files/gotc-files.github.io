@@ -1,7 +1,7 @@
 import Grid from "@mui/material/Grid";
 import { Navigate, useParams } from "react-router-dom";
+import DataCard from "../common/DataCard";
 import Page from "../common/Page";
-import StatsCard from "../common/StatsCard";
 import summons from "../data/summon.json";
 
 const getSummonTimeStrName = (summon) => {
@@ -65,14 +65,14 @@ function Summon() {
             md={selectedSummons.length === 6 ? 4 : 3}
             key={summon.id}
           >
-            <StatsCard
+            <DataCard
               title={summon.heroes}
               subtitle={summon.name}
               color={CATEGORY_TO_COLOR_NAME[summon.category]}
-              stats={summon.purchase_options[0].odds.map((odds) => ({
+              data={summon.purchase_options[0].odds.map((odds) => ({
                 name: `(${odds.quantity}x) ${odds.name}`,
+                tooltip: odds.description,
                 value: odds.probability,
-                description: odds.description,
               }))}
             />
           </Grid>
