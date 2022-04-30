@@ -28,16 +28,9 @@ function HeroCard(props) {
     props.hero.max_stars * 10
   );
 
-  const data = props.hero.skills
-    .filter((skill) => heroLevel >= (skill.unlock_level || 0))
-    .map((skill) => ({
-      name: `(${skill.type.charAt(0)}) ${skill.name}`,
-      tooltip: skill.description,
-      value: heroSkillValue(skill, heroLevel - 1),
-    }));
   return (
     <DataCard
-      title={props.hero.name}
+      title={`${props.hero.name} (${heroLevel})`}
       subtitle={props.hero.description}
       color={RARITY_TO_COLOR_NAME[props.hero.rarity]}
       slider={{
@@ -46,7 +39,13 @@ function HeroCard(props) {
         value: heroLevel,
         setValue: setHeroLevel,
       }}
-      data={data}
+      data={props.hero.skills
+        .filter((skill) => heroLevel >= (skill.unlock_level || 0))
+        .map((skill) => ({
+          name: `(${skill.type.charAt(0)}) ${skill.name}`,
+          tooltip: skill.description,
+          value: heroSkillValue(skill, heroLevel - 1),
+        }))}
     />
   );
 }
