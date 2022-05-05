@@ -1,0 +1,342 @@
+{
+  "description": "Researches basic information",
+  "values": [
+    {
+      "building_level_progression": "",
+      "category": "research_expedition_keystone_10",
+      "costs": [
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_expedition_keystone_10_1_item_buildreq_red_gold_1"
+        }
+      ],
+      "description_placeholder": "EXPEDITION_DESCRIPTION_KINGS_LANDING_RED_KEEP",
+      "event_score_progression": "prog_research_expedition_keystone_10_1",
+      "id": "5c467ed9bf2f9ca",
+      "name": "research_expedition_keystone_10_1",
+      "name_placeholder": "EXPEDITION_LOCATION_KINGS_LANDING_RED_KEEP",
+      "num_levels": 80,
+      "power_progression": "",
+      "requirements": [],
+      "time_progression": "prog_research_expedition_keystone_10_1_time_tier1"
+    },
+    {
+      "building_level_progression": "",
+      "category": "research_expedition_keystone_10",
+      "costs": [
+        {
+          "item_name": "item_buildreq_soldierpine_1",
+          "progression": "prog_research_expedition_keystone_10_2_item_buildreq_soldierpine_1"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_expedition_keystone_10_2_curr_wood"
+        }
+      ],
+      "description_placeholder": "EXPEDITION_DESCRIPTION_KINGS_LANDING_BLACKWATER_RUSH",
+      "event_score_progression": "prog_research_expedition_keystone_10_2",
+      "id": "70d63b0642070bc4",
+      "name": "research_expedition_keystone_10_2",
+      "name_placeholder": "EXPEDITION_LOCATION_KINGS_LANDING_BLACKWATER_RUSH",
+      "num_levels": 80,
+      "power_progression": "",
+      "requirements": [],
+      "time_progression": "prog_research_expedition_keystone_10_2_time_tier1"
+    },
+    {
+      "building_level_progression": "",
+      "category": "research_expedition_keystone_10",
+      "costs": [
+        {
+          "item_name": "item_buildreq_brick_1",
+          "progression": "prog_research_expedition_keystone_10_3_item_buildreq_brick_1"
+        },
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_expedition_keystone_10_3_curr_food"
+        }
+      ],
+      "description_placeholder": "EXPEDITION_DESCRIPTION_KINGS_LANDING_MUD_GATE",
+      "event_score_progression": "prog_research_expedition_keystone_10_3",
+      "id": "5c27f0a0f5545a3e",
+      "name": "research_expedition_keystone_10_3",
+      "name_placeholder": "EXPEDITION_LOCATION_KINGS_LANDING_MUD_GATE",
+      "num_levels": 80,
+      "power_progression": "",
+      "requirements": [],
+      "time_progression": "prog_research_expedition_keystone_10_3_time_tier1"
+    },
+    {
+      "building_level_progression": "",
+      "category": "research_expedition_keystone_10",
+      "costs": [
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_expedition_keystone_10_4_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_expedition_keystone_10_4_curr_iron"
+        }
+      ],
+      "description_placeholder": "EXPEDITION_DESCRIPTION_KINGS_LANDING_SEPT_OF_BAELOR",
+      "event_score_progression": "prog_research_expedition_keystone_10_4",
+      "id": "9af282d1f1ecefd8",
+      "name": "research_expedition_keystone_10_4",
+      "name_placeholder": "EXPEDITION_LOCATION_KINGS_LANDING_SEPT_OF_BAELOR",
+      "num_levels": 80,
+      "power_progression": "",
+      "requirements": [],
+      "time_progression": "prog_research_expedition_keystone_10_4_time_tier1"
+    },
+    {
+      "building_level_progression": "",
+      "category": "research_expedition_keystone_10",
+      "costs": [
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_expedition_keystone_10_5_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_expedition_keystone_10_5_curr_stone"
+        }
+      ],
+      "description_placeholder": "EXPEDITION_DESCRIPTION_KINGS_LANDING_DRAGON_PIT",
+      "event_score_progression": "prog_research_expedition_keystone_10_5",
+      "id": "b603497746bfbe22",
+      "name": "research_expedition_keystone_10_5",
+      "name_placeholder": "BUILDING_DRAGONPIT",
+      "num_levels": 80,
+      "power_progression": "",
+      "requirements": [],
+      "time_progression": "prog_research_expedition_keystone_10_5_time_tier1"
+    },
+    {
+      "building_level_progression": "",
+      "category": "research_exepedition_red_gold_10",
+      "costs": [
+        {
+          "item_name": "item_buildreq_keystone_1",
+          "progression": "prog_research_exepedition_red_gold_10_6_item_buildreq_keystone_1"
+        }
+      ],
+      "description_placeholder": "EXPEDITION_DESCRIPTION_KINGS_LANDING_RED_KEEP",
+      "event_score_progression": "prog_research_exepedition_red_gold_10_6",
+      "id": "68035f442fd853ff",
+      "name": "research_exepedition_red_gold_10_6",
+      "name_placeholder": "EXPEDITION_LOCATION_KINGS_LANDING_RED_KEEP",
+      "num_levels": 120,
+      "power_progression": "",
+      "requirements": [],
+      "time_progression": "prog_research_exepedition_red_gold_10_6_time_tier1"
+    },
+    {
+      "building_level_progression": "",
+      "category": "research_exepedition_red_gold_10",
+      "costs": [
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_exepedition_red_gold_10_7_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_exepedition_red_gold_10_7_curr_wood"
+        }
+      ],
+      "description_placeholder": "EXPEDITION_DESCRIPTION_KINGS_LANDING_STREET_OF_STEEL",
+      "event_score_progression": "prog_research_exepedition_red_gold_10_7",
+      "id": "44f294e2988b0205",
+      "name": "research_exepedition_red_gold_10_7",
+      "name_placeholder": "EXPEDITION_LOCATION_KINGS_LANDING_STREET_OF_STEEL",
+      "num_levels": 120,
+      "power_progression": "",
+      "requirements": [],
+      "time_progression": "prog_research_exepedition_red_gold_10_7_time_tier1"
+    },
+    {
+      "building_level_progression": "",
+      "category": "research_exepedition_red_gold_10",
+      "costs": [
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_exepedition_red_gold_10_8_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_exepedition_red_gold_10_8_curr_food"
+        }
+      ],
+      "description_placeholder": "EXPEDITION_DESCRIPTION_KINGS_LANDING_SEPT_OF_BAELOR",
+      "event_score_progression": "prog_research_exepedition_red_gold_10_8",
+      "id": "6713f9d36f067718",
+      "name": "research_exepedition_red_gold_10_8",
+      "name_placeholder": "EXPEDITION_LOCATION_KINGS_LANDING_SEPT_OF_BAELOR",
+      "num_levels": 120,
+      "power_progression": "",
+      "requirements": [],
+      "time_progression": "prog_research_exepedition_red_gold_10_8_time_tier1"
+    },
+    {
+      "building_level_progression": "",
+      "category": "research_exepedition_red_gold_10",
+      "costs": [
+        {
+          "item_name": "item_buildreq_brick_1",
+          "progression": "prog_research_exepedition_red_gold_10_9_item_buildreq_brick_1"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_exepedition_red_gold_10_9_curr_iron"
+        }
+      ],
+      "description_placeholder": "EXPEDITION_DESCRIPTION_KINGS_LANDING_FLEA_BOTTOM",
+      "event_score_progression": "prog_research_exepedition_red_gold_10_9",
+      "id": "4be23275d85526e2",
+      "name": "research_exepedition_red_gold_10_9",
+      "name_placeholder": "EXPEDITION_LOCATION_KINGS_LANDING_FLEA_BOTTOM",
+      "num_levels": 120,
+      "power_progression": "",
+      "requirements": [],
+      "time_progression": "prog_research_exepedition_red_gold_10_9_time_tier1"
+    },
+    {
+      "building_level_progression": "",
+      "category": "research_exepedition_red_gold_10",
+      "costs": [
+        {
+          "item_name": "item_buildreq_soldierpine_1",
+          "progression": "prog_research_exepedition_red_gold_10_10_item_buildreq_soldierpine_1"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_exepedition_red_gold_10_10_curr_stone"
+        }
+      ],
+      "description_placeholder": "EXPEDITION_DESCRIPTION_KINGS_LANDING_KINGS_GATE",
+      "event_score_progression": "prog_research_exepedition_red_gold_10_10",
+      "id": "58cffb222ec46c5d",
+      "name": "research_exepedition_red_gold_10_10",
+      "name_placeholder": "EXPEDITION_LOCATION_KINGS_LANDING_KINGS_GATE",
+      "num_levels": 120,
+      "power_progression": "",
+      "requirements": [],
+      "time_progression": "prog_research_exepedition_red_gold_10_10_time_tier1"
+    },
+    {
+      "building_level_progression": "",
+      "category": "research_expedition_dragonlore_10000",
+      "costs": [
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_expedition_dragonlore_10000_11_curr_stone"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_expedition_dragonlore_10000_11_curr_wood"
+        }
+      ],
+      "description_placeholder": "EXPEDITION_DESCRIPTION_MASTEROFWAR_HELLHOLT",
+      "event_score_progression": "prog_research_expedition_dragonlore_10000_11",
+      "id": "5950d0b707d6509c",
+      "name": "research_expedition_dragonlore_10000_11",
+      "name_placeholder": "EXPEDITION_NAME_MASTEROFWAR_HELLHOLT",
+      "num_levels": 400,
+      "power_progression": "",
+      "requirements": [],
+      "time_progression": "prog_research_expedition_dragonlore_10000_11_time_tier1"
+    },
+    {
+      "building_level_progression": "",
+      "category": "research_expedition_dragonlore_10000",
+      "costs": [
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_expedition_dragonlore_10000_12_curr_iron"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_expedition_dragonlore_10000_12_curr_wood"
+        }
+      ],
+      "description_placeholder": "EXPEDITION_DESCRIPTION_MASTEROFWAR_HARRENHAL",
+      "event_score_progression": "prog_research_expedition_dragonlore_10000_12",
+      "id": "2c428c5cde23a292",
+      "name": "research_expedition_dragonlore_10000_12",
+      "name_placeholder": "EXPEDITION_NAME_MASTEROFWAR_HARRENHAL",
+      "num_levels": 400,
+      "power_progression": "",
+      "requirements": [],
+      "time_progression": "prog_research_expedition_dragonlore_10000_12_time_tier1"
+    },
+    {
+      "building_level_progression": "",
+      "category": "research_expedition_dragonlore_10000",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_expedition_dragonlore_10000_13_curr_food"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_expedition_dragonlore_10000_13_curr_iron"
+        }
+      ],
+      "description_placeholder": "EXPEDITION_DESCRIPTION_MASTEROFWAR_FIELDOFFIRE",
+      "event_score_progression": "prog_research_expedition_dragonlore_10000_13",
+      "id": "b347fa6970f368",
+      "name": "research_expedition_dragonlore_10000_13",
+      "name_placeholder": "EXPEDITION_NAME_MASTEROFWAR_FIELDOFFIRE",
+      "num_levels": 400,
+      "power_progression": "",
+      "requirements": [],
+      "time_progression": "prog_research_expedition_dragonlore_10000_13_time_tier1"
+    },
+    {
+      "building_level_progression": "",
+      "category": "research_expedition_dragonlore_10000",
+      "costs": [
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_expedition_dragonlore_10000_14_curr_stone"
+        },
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_expedition_dragonlore_10000_14_curr_food"
+        }
+      ],
+      "description_placeholder": "EXPEDITION_DESCRIPTION_MASTEROFWAR_GODSEYE",
+      "event_score_progression": "prog_research_expedition_dragonlore_10000_14",
+      "id": "c666358b6dc8468e",
+      "name": "research_expedition_dragonlore_10000_14",
+      "name_placeholder": "EXPEDITION_NAME_MASTEROFWAR_GODSEYE",
+      "num_levels": 400,
+      "power_progression": "",
+      "requirements": [],
+      "time_progression": "prog_research_expedition_dragonlore_10000_14_time_tier1"
+    },
+    {
+      "building_level_progression": "",
+      "category": "research_expedition_dragonlore_10000",
+      "costs": [
+        {
+          "item_name": "item_buildreq_brick_1",
+          "progression": "prog_research_expedition_dragonlore_10000_15_item_buildreq_brick_1"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_expedition_dragonlore_10000_15_item_buildreq_scholarly_fragment_1"
+        }
+      ],
+      "description_placeholder": "EXPEDITION_DESCRIPTION_MASTEROFWAR_DRAGONPIT",
+      "event_score_progression": "prog_research_expedition_dragonlore_10000_15",
+      "id": "ea97fe2dda9b1774",
+      "name": "research_expedition_dragonlore_10000_15",
+      "name_placeholder": "EXPEDITION_NAME_MASTEROFWAR_DRAGONPIT",
+      "num_levels": 400,
+      "power_progression": "",
+      "requirements": [],
+      "time_progression": "prog_research_expedition_dragonlore_10000_15_time_tier1"
+    }
+  ]
+}

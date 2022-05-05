@@ -1,0 +1,3545 @@
+{
+  "description": "Event scoring progression values",
+  "values": [
+    {
+      "id": "d78feec3949a677d",
+      "name": "Test",
+      "values": [
+        1
+      ]
+    },
+    {
+      "id": "a3ffa782a400a20c",
+      "name": "prog__research_dragon_hatchling_1__eventscore_tier1",
+      "values": [
+        30300
+      ]
+    },
+    {
+      "id": "8b2a53a8d38c17fe",
+      "name": "prog__research_dragon_defender_combat_1__eventscore_tier1",
+      "values": [
+        34000
+      ]
+    },
+    {
+      "id": "ac6ba3f146ada9c4",
+      "name": "prog__research_dragon_whelp_1__eventscore_tier1",
+      "values": [
+        52800
+      ]
+    },
+    {
+      "id": "8e3c6dd2c529d735",
+      "name": "prog__research_dragon_pve_attack_solo_1__eventscore_tier1",
+      "values": [
+        62200
+      ]
+    },
+    {
+      "id": "8449ae06a1e199b4",
+      "name": "prog__research_dragon_gather_food_1__eventscore_tier1",
+      "values": [
+        66500
+      ]
+    },
+    {
+      "id": "b096d163cd7a8808",
+      "name": "prog__research_dragon_gather_wood_1__eventscore_tier1",
+      "values": [
+        71900
+      ]
+    },
+    {
+      "id": "3125757ba77941be",
+      "name": "prog__research_dragon_gather_stone_1__eventscore_tier1",
+      "values": [
+        104000
+      ]
+    },
+    {
+      "id": "4b6f8416fb86981f",
+      "name": "prog__research_dragon_gather_iron_1__eventscore_tier1",
+      "values": [
+        138000
+      ]
+    },
+    {
+      "id": "37ff9f0bf02dfd09",
+      "name": "prog__research_dragon_gather_gold_1__eventscore_tier1",
+      "values": [
+        179000
+      ]
+    },
+    {
+      "id": "4289c549afd910b7",
+      "name": "prog__research_dragon_adolescent_1__eventscore_tier1",
+      "values": [
+        151000
+      ]
+    },
+    {
+      "id": "be7c745c838f9c18",
+      "name": "prog__research_dragon_repel_strike_1__eventscore_tier1",
+      "values": [
+        490000
+      ]
+    },
+    {
+      "id": "bfb64fe975a6edb1",
+      "name": "prog__research_dragon_pvp_attack_solo_1__eventscore_tier1",
+      "values": [
+        1070000
+      ]
+    },
+    {
+      "id": "cbc968bd8d5c1c90",
+      "name": "prog__research_dragon_dragon_defense_1__eventscore_tier1",
+      "values": [
+        3850,
+        3890,
+        3920,
+        4890,
+        4940,
+        4990,
+        6250,
+        6310,
+        6370,
+        7980
+      ]
+    },
+    {
+      "id": "aa76f486b271ad33",
+      "name": "prog__research_dragon_health_1__eventscore_tier1",
+      "values": [
+        4760,
+        4800,
+        6020,
+        6080,
+        7610,
+        7690,
+        9690,
+        9790,
+        12200,
+        12300
+      ]
+    },
+    {
+      "id": "eefa247e560f5e6b",
+      "name": "prog__research_dragon_health_Regen_1__eventscore_tier1",
+      "values": [
+        4760,
+        4800,
+        6020,
+        6080,
+        7610,
+        7690,
+        9690,
+        9790,
+        12200,
+        12300
+      ]
+    },
+    {
+      "id": "b34561fd374c4d52",
+      "name": "prog__research_dragon_defender_health_1__eventscore_tier1",
+      "values": [
+        5910,
+        7400,
+        7470,
+        7550,
+        9510,
+        9610,
+        9690,
+        12100,
+        12200,
+        12300
+      ]
+    },
+    {
+      "id": "b6b5ea9ce859e15f",
+      "name": "prog__research_dragon_defender_defense_1__eventscore_tier1",
+      "values": [
+        5910,
+        7400,
+        7470,
+        7550,
+        9510,
+        9610,
+        9690,
+        12100,
+        12200,
+        12300
+      ]
+    },
+    {
+      "id": "e6b91f236eaeb066",
+      "name": "prog__research_dragon_defender_attack_1__eventscore_tier1",
+      "values": [
+        7330,
+        7400,
+        9330,
+        9420,
+        9510,
+        11900,
+        12000,
+        12100,
+        12200,
+        12300
+      ]
+    },
+    {
+      "id": "95da0496dfe1b948",
+      "name": "prog__research_dragon_dragon_defense_2__eventscore_tier1",
+      "values": [
+        14400,
+        14500,
+        18300,
+        18500,
+        23200,
+        23400,
+        29400,
+        29700,
+        37300,
+        37700
+      ]
+    },
+    {
+      "id": "f46598ade0cc08eb",
+      "name": "prog__research_dragon_health_2__eventscore_tier1",
+      "values": [
+        22300,
+        28100,
+        28300,
+        35500,
+        35900,
+        45200,
+        45600,
+        57300,
+        58000,
+        72700
+      ]
+    },
+    {
+      "id": "b0e9485504b2fbb3",
+      "name": "prog__research_dragon_health_Regen_2__eventscore_tier1",
+      "values": [
+        22300,
+        28100,
+        28300,
+        35500,
+        35900,
+        45200,
+        45600,
+        57300,
+        58000,
+        72700
+      ]
+    },
+    {
+      "id": "ed560dd665f1e88a",
+      "name": "prog__research_dragon_defender_health_2__eventscore_tier1",
+      "values": [
+        22300,
+        28100,
+        28300,
+        35500,
+        35900,
+        45200,
+        45600,
+        57300,
+        58000,
+        72700
+      ]
+    },
+    {
+      "id": "e8a686b7bae44487",
+      "name": "prog__research_dragon_defender_defense_2__eventscore_tier1",
+      "values": [
+        22300,
+        28100,
+        28300,
+        35500,
+        35900,
+        45200,
+        45600,
+        57300,
+        58000,
+        72700
+      ]
+    },
+    {
+      "id": "b8aa73083c1315be",
+      "name": "prog__research_dragon_defender_attack_2__eventscore_tier1",
+      "values": [
+        22300,
+        28100,
+        28300,
+        35500,
+        35900,
+        45200,
+        45600,
+        57300,
+        58000,
+        72700
+      ]
+    },
+    {
+      "id": "21bd1ea329101f19",
+      "name": "prog__research_dragon_dragon_defense_3__eventscore_tier1",
+      "values": [
+        66800,
+        67400,
+        85000,
+        85800,
+        111000,
+        112000,
+        141000,
+        142000,
+        179000,
+        180000
+      ]
+    },
+    {
+      "id": "40028298163daeba",
+      "name": "prog__research_dragon_health_3__eventscore_tier1",
+      "values": [
+        107000,
+        134000,
+        136000,
+        171000,
+        172000,
+        217000,
+        219000,
+        275000,
+        278000,
+        350000
+      ]
+    },
+    {
+      "id": "48e5260f2435de2",
+      "name": "prog__research_dragon_health_Regen_3__eventscore_tier1",
+      "values": [
+        107000,
+        134000,
+        136000,
+        171000,
+        172000,
+        217000,
+        219000,
+        275000,
+        278000,
+        350000
+      ]
+    },
+    {
+      "id": "593117e393004edb",
+      "name": "prog__research_dragon_defender_health_3__eventscore_tier1",
+      "values": [
+        133000,
+        134000,
+        169000,
+        171000,
+        215000,
+        217000,
+        273000,
+        275000,
+        347000,
+        350000
+      ]
+    },
+    {
+      "id": "5cc19c824c15e2d6",
+      "name": "prog__research_dragon_defender_defense_3__eventscore_tier1",
+      "values": [
+        133000,
+        134000,
+        169000,
+        171000,
+        215000,
+        217000,
+        273000,
+        275000,
+        347000,
+        350000
+      ]
+    },
+    {
+      "id": "ccd693dcae2b3ef",
+      "name": "prog__research_dragon_defender_attack_3__eventscore_tier1",
+      "values": [
+        321000,
+        324000,
+        409000,
+        413000,
+        520000,
+        525000,
+        661000,
+        667000,
+        840000,
+        848000
+      ]
+    },
+    {
+      "id": "131ca5837539a647",
+      "name": "prog__research_dragon_troop_attack_npc_1__eventscore_tier1",
+      "values": [
+        14400,
+        14500,
+        14700,
+        18500,
+        18700,
+        18800,
+        23600,
+        23900,
+        24100,
+        30200,
+        30500,
+        30800,
+        38700,
+        39000,
+        39400
+      ]
+    },
+    {
+      "id": "ba340644bcb8ef1e",
+      "name": "prog__research_dragon_march_size_npc_1__eventscore_tier1",
+      "values": [
+        14400,
+        14500,
+        14700,
+        18500,
+        18700,
+        18800,
+        23600,
+        23900,
+        24100,
+        30200
+      ]
+    },
+    {
+      "id": "3cf6d8d2acb9cd9",
+      "name": "prog__research_dragon_troop_defense_npc_1__eventscore_tier1",
+      "values": [
+        18000,
+        18100,
+        18300,
+        18500,
+        23200,
+        23400,
+        23600,
+        23900,
+        30000,
+        30200,
+        30500,
+        30800,
+        38700,
+        39000,
+        39400
+      ]
+    },
+    {
+      "id": "946464991c700b33",
+      "name": "prog__research_dragon_troop_health_npc_1__eventscore_tier1",
+      "values": [
+        14400,
+        14500,
+        14700,
+        18500,
+        18700,
+        18800,
+        23600,
+        23900,
+        24100,
+        30200,
+        30500,
+        30800,
+        38700,
+        39000,
+        39400
+      ]
+    },
+    {
+      "id": "568970cf2ecf8a51",
+      "name": "prog__research_dragon_gather_speed_food_1__eventscore_tier1",
+      "values": [
+        14400,
+        14500,
+        14700,
+        18500,
+        18700,
+        18800,
+        23600,
+        23900,
+        24100,
+        30200,
+        30500,
+        30800,
+        38700,
+        39000,
+        39400,
+        39400,
+        39400,
+        39400,
+        39400,
+        39400
+      ]
+    },
+    {
+      "id": "62560faa42549bed",
+      "name": "prog__research_dragon_gather_speed_wood_1__eventscore_tier1",
+      "values": [
+        22300,
+        22500,
+        22800,
+        23000,
+        28900,
+        29200,
+        29400,
+        29700,
+        37300,
+        37700,
+        38000,
+        38300,
+        38700,
+        39000,
+        39400,
+        49500,
+        49900,
+        50300,
+        50700,
+        51100
+      ]
+    },
+    {
+      "id": "5fcb39ed090a37cf",
+      "name": "prog__research_dragon_gather_speed_stone_1__eventscore_tier1",
+      "values": [
+        34500,
+        34900,
+        35200,
+        35500,
+        44700,
+        45200,
+        45600,
+        46000,
+        58000,
+        58500,
+        59000,
+        59500,
+        74800,
+        75500,
+        76100,
+        76800,
+        96600,
+        97400,
+        98200,
+        99000
+      ]
+    },
+    {
+      "id": "99af5adf74a88bfa",
+      "name": "prog__research_dragon_gather_speed_iron_1__eventscore_tier1",
+      "values": [
+        34500,
+        34900,
+        35200,
+        35500,
+        44700,
+        45200,
+        45600,
+        46000,
+        58000,
+        58500,
+        59000,
+        59500,
+        74800,
+        75500,
+        76100,
+        76800,
+        96600,
+        97400,
+        98200,
+        99000
+      ]
+    },
+    {
+      "id": "e53f41c27f03eeec",
+      "name": "prog__research_dragon_gather_speed_gold_1__eventscore_tier1",
+      "values": [
+        66800,
+        67400,
+        68100,
+        68800,
+        69500,
+        87400,
+        88200,
+        89100,
+        90000,
+        90800,
+        117000,
+        118000,
+        119000,
+        121000,
+        122000,
+        153000,
+        154000,
+        156000,
+        157000,
+        158000
+      ]
+    },
+    {
+      "id": "89a1ce47c722f89",
+      "name": "prog__research_dragon_gather_speed_food_2__eventscore_tier1",
+      "values": [
+        107000,
+        108000,
+        109000,
+        110000,
+        111000,
+        140000,
+        141000,
+        142000,
+        144000,
+        180000,
+        182000,
+        184000,
+        185000,
+        233000,
+        235000,
+        237000,
+        239000,
+        301000,
+        304000,
+        306000
+      ]
+    },
+    {
+      "id": "3c45638110e93e35",
+      "name": "prog__research_dragon_gather_speed_wood_2__eventscore_tier1",
+      "values": [
+        107000,
+        108000,
+        109000,
+        110000,
+        111000,
+        140000,
+        141000,
+        142000,
+        144000,
+        180000,
+        182000,
+        184000,
+        185000,
+        233000,
+        235000,
+        237000,
+        239000,
+        301000,
+        304000,
+        306000
+      ]
+    },
+    {
+      "id": "1d855c65bb79217",
+      "name": "prog__research_dragon_gather_speed_stone_2__eventscore_tier1",
+      "values": [
+        107000,
+        108000,
+        109000,
+        110000,
+        111000,
+        140000,
+        141000,
+        142000,
+        144000,
+        180000,
+        182000,
+        184000,
+        185000,
+        233000,
+        235000,
+        237000,
+        239000,
+        301000,
+        304000,
+        306000
+      ]
+    },
+    {
+      "id": "c7bc36f426152e22",
+      "name": "prog__research_dragon_gather_speed_iron_2__eventscore_tier1",
+      "values": [
+        206000,
+        209000,
+        211000,
+        212000,
+        268000,
+        270000,
+        273000,
+        275000,
+        347000,
+        350000,
+        353000,
+        356000,
+        448000,
+        453000,
+        457000,
+        461000,
+        579000,
+        584000,
+        589000,
+        742000
+      ]
+    },
+    {
+      "id": "bb2c2de92dbe4b34",
+      "name": "prog__research_dragon_gather_speed_gold_2__eventscore_tier1",
+      "values": [
+        401000,
+        405000,
+        409000,
+        413000,
+        520000,
+        525000,
+        529000,
+        534000,
+        674000,
+        680000,
+        686000,
+        692000,
+        871000,
+        879000,
+        887000,
+        894000,
+        1140000,
+        1150000,
+        1160000,
+        1170000
+      ]
+    },
+    {
+      "id": "ac03967fd0353a1d",
+      "name": "prog__research_dragon_march_speed_npc_1__eventscore_tier1",
+      "values": [
+        14400,
+        14500,
+        14700,
+        18500,
+        18700,
+        18800,
+        23600,
+        23900,
+        24100,
+        30200
+      ]
+    },
+    {
+      "id": "735122c7bbccf429",
+      "name": "prog__research_dragon_march_speed_resource_1__eventscore_tier1",
+      "values": [
+        34500,
+        34900,
+        43900,
+        44300,
+        55800,
+        56300,
+        70800,
+        71400,
+        90000,
+        90800
+      ]
+    },
+    {
+      "id": "e4276a6fee054ac6",
+      "name": "prog__research_dragon_march_size_npc_2__eventscore_tier1",
+      "values": [
+        105000,
+        106000,
+        133000,
+        135000,
+        169000,
+        171000,
+        215000,
+        217000,
+        274000,
+        276000
+      ]
+    },
+    {
+      "id": "f210fa5482889fc5",
+      "name": "prog__research_dragon_march_speed_npc_2__eventscore_tier1",
+      "values": [
+        316000,
+        319000,
+        402000,
+        406000,
+        511000,
+        516000,
+        650000,
+        656000,
+        826000,
+        834000
+      ]
+    },
+    {
+      "id": "2d424eece97151f1",
+      "name": "prog__research_dragon_march_speed_resource_2__eventscore_tier1",
+      "values": [
+        959000,
+        968000,
+        1230000,
+        1240000,
+        1560000,
+        1570000,
+        1980000,
+        2000000,
+        2520000,
+        2550000
+      ]
+    },
+    {
+      "id": "4d0fc9a82784039f",
+      "name": "prog__research_dragon_troop_attack_npc_2__eventscore_tier1",
+      "values": [
+        43100,
+        43500,
+        43900,
+        55200,
+        55800,
+        56300,
+        70800,
+        71400,
+        72100,
+        90800,
+        91600,
+        92400,
+        119000,
+        121000,
+        122000
+      ]
+    },
+    {
+      "id": "5ddc01a678763901",
+      "name": "prog__research_dragon_troop_defense_npc_2__eventscore_tier1",
+      "values": [
+        107000,
+        108000,
+        109000,
+        137000,
+        138000,
+        140000,
+        176000,
+        177000,
+        179000,
+        225000,
+        227000,
+        229000,
+        288000,
+        291000,
+        293000
+      ]
+    },
+    {
+      "id": "ca7708b24ecdaeeb",
+      "name": "prog__research_dragon_troop_health_npc_2__eventscore_tier1",
+      "values": [
+        257000,
+        260000,
+        263000,
+        330000,
+        334000,
+        337000,
+        425000,
+        429000,
+        433000,
+        545000,
+        549000,
+        554000,
+        698000,
+        705000,
+        711000
+      ]
+    },
+    {
+      "id": "15e0ae254c1da07c",
+      "name": "prog__research_dragon_repelstrike_max_1__eventscore_tier1",
+      "values": [
+        83300,
+        134000,
+        211000,
+        330000,
+        520000,
+        817000,
+        1310000,
+        2050000,
+        4010000,
+        6420000,
+        6910000,
+        7710000,
+        9040000,
+        11400000,
+        15500000,
+        22900000,
+        29000000,
+        33900000,
+        37000000,
+        39400000
+      ]
+    },
+    {
+      "id": "ead1a2309c68f53f",
+      "name": "prog__research_dragon_march_size_1__eventscore_tier1",
+      "values": [
+        83300,
+        84100,
+        85000,
+        110000,
+        111000,
+        112000,
+        141000,
+        142000,
+        144000,
+        180000
+      ]
+    },
+    {
+      "id": "e6ab6b0b2ebf20eb",
+      "name": "prog__research_dragon_wall_damage_1__eventscore_tier1",
+      "values": [
+        83300,
+        84100,
+        85000,
+        110000,
+        111000,
+        112000,
+        141000,
+        142000,
+        144000,
+        180000
+      ]
+    },
+    {
+      "id": "8fe4e3919bacd909",
+      "name": "prog__research_dragon_march_speed_1__eventscore_tier1",
+      "values": [
+        165000,
+        167000,
+        169000,
+        212000,
+        215000,
+        217000,
+        273000,
+        275000,
+        278000,
+        350000
+      ]
+    },
+    {
+      "id": "908a401518b1cb48",
+      "name": "prog__research_dragon_march_speed_pvp_1__eventscore_tier1",
+      "values": [
+        401000,
+        405000,
+        409000,
+        413000,
+        416000,
+        525000,
+        529000,
+        534000,
+        539000,
+        545000
+      ]
+    },
+    {
+      "id": "86bdd02e743c1e4b",
+      "name": "prog__research_dragon_march_size_pvp_1__eventscore_tier1",
+      "values": [
+        401000,
+        405000,
+        409000,
+        413000,
+        416000,
+        525000,
+        529000,
+        534000,
+        539000,
+        545000
+      ]
+    },
+    {
+      "id": "19fc7b1b4d14b3e7",
+      "name": "prog__research_dragon_repel_strike_damage_1__eventscore_tier1",
+      "values": [
+        401000,
+        405000,
+        409000,
+        413000,
+        416000,
+        525000,
+        529000,
+        534000,
+        539000,
+        545000
+      ]
+    },
+    {
+      "id": "b4c2ce1bced550e7",
+      "name": "prog__research_dragon_march_size_2__eventscore_tier1",
+      "values": [
+        500000,
+        504000,
+        509000,
+        514000,
+        649000,
+        655000,
+        661000,
+        667000,
+        840000,
+        848000
+      ]
+    },
+    {
+      "id": "d1f78fbac9117cd1",
+      "name": "prog__research_dragon_march_speed_2__eventscore_tier1",
+      "values": [
+        778000,
+        786000,
+        1000000,
+        1010000,
+        1020000,
+        1030000,
+        1310000,
+        1320000,
+        1330000,
+        1340000
+      ]
+    },
+    {
+      "id": "ce992c3e4a0c6e90",
+      "name": "prog__research_dragon_march_speed_pvp_2__eventscore_tier1",
+      "values": [
+        1530000,
+        1550000,
+        1560000,
+        1580000,
+        1990000,
+        2010000,
+        2030000,
+        2050000,
+        2580000,
+        2600000
+      ]
+    },
+    {
+      "id": "d8aebc052681bb93",
+      "name": "prog__research_dragon_march_size_pvp_2__eventscore_tier1",
+      "values": [
+        1530000,
+        1550000,
+        1560000,
+        1580000,
+        1990000,
+        2010000,
+        2030000,
+        2050000,
+        2580000,
+        2600000
+      ]
+    },
+    {
+      "id": "47ef17301fa9163f",
+      "name": "prog__research_dragon_repel_strike_damage_2__eventscore_tier1",
+      "values": [
+        2390000,
+        2410000,
+        3040000,
+        3070000,
+        3860000,
+        3900000,
+        4910000,
+        4960000,
+        6250000,
+        6310000
+      ]
+    },
+    {
+      "id": "ff8a8a58eb935007",
+      "name": "prog__research_dragon_attack_1__eventscore_tier1",
+      "values": [
+        83300,
+        84100,
+        85000,
+        110000,
+        111000,
+        112000,
+        141000,
+        142000,
+        144000,
+        180000
+      ]
+    },
+    {
+      "id": "cdbaabb0dc3d059a",
+      "name": "prog__research_dragon_infantry_attack_1__eventscore_tier1",
+      "values": [
+        206000,
+        209000,
+        211000,
+        265000,
+        268000,
+        270000,
+        340000,
+        344000,
+        347000,
+        437000
+      ]
+    },
+    {
+      "id": "a829d56c7d3ab61c",
+      "name": "prog__research_dragon_ranged_attack_1__eventscore_tier1",
+      "values": [
+        206000,
+        209000,
+        211000,
+        265000,
+        268000,
+        270000,
+        340000,
+        344000,
+        347000,
+        437000
+      ]
+    },
+    {
+      "id": "5b1806b67121d8c7",
+      "name": "prog__research_dragon_siege_attack_1__eventscore_tier1",
+      "values": [
+        206000,
+        209000,
+        211000,
+        265000,
+        268000,
+        270000,
+        340000,
+        344000,
+        347000,
+        437000
+      ]
+    },
+    {
+      "id": "6ed13be9c057d390",
+      "name": "prog__research_dragon_cavalry_attack_1__eventscore_tier1",
+      "values": [
+        206000,
+        209000,
+        211000,
+        265000,
+        268000,
+        270000,
+        340000,
+        344000,
+        347000,
+        437000
+      ]
+    },
+    {
+      "id": "8e3f15232bce93dd",
+      "name": "prog__research_dragon_troop_attack_1__eventscore_tier1",
+      "values": [
+        206000,
+        209000,
+        211000,
+        265000,
+        268000,
+        270000,
+        340000,
+        344000,
+        347000,
+        437000
+      ]
+    },
+    {
+      "id": "9846d56e85dff8ae",
+      "name": "prog__research_dragon_infantry_health_1__eventscore_tier1",
+      "values": [
+        401000,
+        405000,
+        509000,
+        514000,
+        649000,
+        655000,
+        825000,
+        832000,
+        1060000,
+        1070000
+      ]
+    },
+    {
+      "id": "fdd5abb224d84b28",
+      "name": "prog__research_dragon_ranged_health_1__eventscore_tier1",
+      "values": [
+        401000,
+        405000,
+        509000,
+        514000,
+        649000,
+        655000,
+        825000,
+        832000,
+        1060000,
+        1070000
+      ]
+    },
+    {
+      "id": "ee4786828c325f3",
+      "name": "prog__research_dragon_siege_health_1__eventscore_tier1",
+      "values": [
+        401000,
+        405000,
+        509000,
+        514000,
+        649000,
+        655000,
+        825000,
+        832000,
+        1060000,
+        1070000
+      ]
+    },
+    {
+      "id": "3b2d453799b52ea4",
+      "name": "prog__research_dragon_cavalry_health_1__eventscore_tier1",
+      "values": [
+        401000,
+        405000,
+        509000,
+        514000,
+        649000,
+        655000,
+        825000,
+        832000,
+        1060000,
+        1070000
+      ]
+    },
+    {
+      "id": "dbc36bfd722c6ee9",
+      "name": "prog__research_dragon_troop_health_1__eventscore_tier1",
+      "values": [
+        401000,
+        405000,
+        509000,
+        514000,
+        649000,
+        655000,
+        825000,
+        832000,
+        1060000,
+        1070000
+      ]
+    },
+    {
+      "id": "59b5cd72f7b57554",
+      "name": "prog__research_dragon_infantry_defense_1__eventscore_tier1",
+      "values": [
+        401000,
+        405000,
+        509000,
+        514000,
+        649000,
+        655000,
+        825000,
+        832000,
+        1060000,
+        1070000
+      ]
+    },
+    {
+      "id": "72a9c6e13c28316e",
+      "name": "prog__research_dragon_ranged_defense_1__eventscore_tier1",
+      "values": [
+        401000,
+        405000,
+        509000,
+        514000,
+        649000,
+        655000,
+        825000,
+        832000,
+        1060000,
+        1070000
+      ]
+    },
+    {
+      "id": "ca0058f0314b05e2",
+      "name": "prog__research_dragon_siege_defense_1__eventscore_tier1",
+      "values": [
+        401000,
+        405000,
+        509000,
+        514000,
+        649000,
+        655000,
+        825000,
+        832000,
+        1060000,
+        1070000
+      ]
+    },
+    {
+      "id": "e5c12eef333a7c8d",
+      "name": "prog__research_dragon_cavalry_defense_1__eventscore_tier1",
+      "values": [
+        401000,
+        405000,
+        509000,
+        514000,
+        649000,
+        655000,
+        825000,
+        832000,
+        1060000,
+        1070000
+      ]
+    },
+    {
+      "id": "3ed08b1a9646477b",
+      "name": "prog__research_dragon_troop_defense_1__eventscore_tier1",
+      "values": [
+        401000,
+        405000,
+        509000,
+        514000,
+        649000,
+        655000,
+        825000,
+        832000,
+        1060000,
+        1070000
+      ]
+    },
+    {
+      "id": "a199e673b92ef5df",
+      "name": "prog__research_dragon_attack_2__eventscore_tier1",
+      "values": [
+        1230000,
+        1250000,
+        1260000,
+        1580000,
+        1590000,
+        1610000,
+        2030000,
+        2050000,
+        2070000,
+        2600000
+      ]
+    },
+    {
+      "id": "93a9c79b8e80a042",
+      "name": "prog__research_dragon_infantry_attack_2__eventscore_tier1",
+      "values": [
+        1230000,
+        1250000,
+        1260000,
+        1580000,
+        1590000,
+        1610000,
+        2030000,
+        2050000,
+        2070000,
+        2600000
+      ]
+    },
+    {
+      "id": "f63ab9472f8713c4",
+      "name": "prog__research_dragon_ranged_attack_2__eventscore_tier1",
+      "values": [
+        1230000,
+        1250000,
+        1260000,
+        1580000,
+        1590000,
+        1610000,
+        2030000,
+        2050000,
+        2070000,
+        2600000
+      ]
+    },
+    {
+      "id": "50b6a9d239c7d1f",
+      "name": "prog__research_dragon_siege_attack_2__eventscore_tier1",
+      "values": [
+        1230000,
+        1250000,
+        1260000,
+        1580000,
+        1590000,
+        1610000,
+        2030000,
+        2050000,
+        2070000,
+        2600000
+      ]
+    },
+    {
+      "id": "30c257c292ea7648",
+      "name": "prog__research_dragon_cavalry_attack_2__eventscore_tier1",
+      "values": [
+        1230000,
+        1250000,
+        1260000,
+        1580000,
+        1590000,
+        1610000,
+        2030000,
+        2050000,
+        2070000,
+        2600000
+      ]
+    },
+    {
+      "id": "d02c790879733605",
+      "name": "prog__research_dragon_troop_attack_2__eventscore_tier1",
+      "values": [
+        1230000,
+        1250000,
+        1260000,
+        1580000,
+        1590000,
+        1610000,
+        2030000,
+        2050000,
+        2070000,
+        2600000
+      ]
+    },
+    {
+      "id": "c655b945d7625d76",
+      "name": "prog__research_dragon_infantry_health_2__eventscore_tier1",
+      "values": [
+        2390000,
+        2410000,
+        2440000,
+        3070000,
+        3100000,
+        3130000,
+        3940000,
+        3970000,
+        4010000,
+        5050000
+      ]
+    },
+    {
+      "id": "a3c6c7997665eef0",
+      "name": "prog__research_dragon_ranged_health_2__eventscore_tier1",
+      "values": [
+        2390000,
+        2410000,
+        2440000,
+        3070000,
+        3100000,
+        3130000,
+        3940000,
+        3970000,
+        4010000,
+        5050000
+      ]
+    },
+    {
+      "id": "50f714437a7e802b",
+      "name": "prog__research_dragon_siege_health_2__eventscore_tier1",
+      "values": [
+        2390000,
+        2410000,
+        2440000,
+        3070000,
+        3100000,
+        3130000,
+        3940000,
+        3970000,
+        4010000,
+        5050000
+      ]
+    },
+    {
+      "id": "653e291ccb088b7c",
+      "name": "prog__research_dragon_cavalry_health_2__eventscore_tier1",
+      "values": [
+        2390000,
+        2410000,
+        2440000,
+        3070000,
+        3100000,
+        3130000,
+        3940000,
+        3970000,
+        4010000,
+        5050000
+      ]
+    },
+    {
+      "id": "85d007d62091cb31",
+      "name": "prog__research_dragon_troop_health_2__eventscore_tier1",
+      "values": [
+        2390000,
+        2410000,
+        2440000,
+        3070000,
+        3100000,
+        3130000,
+        3940000,
+        3970000,
+        4010000,
+        5050000
+      ]
+    },
+    {
+      "id": "7a6a159a508d08c",
+      "name": "prog__research_dragon_infantry_defense_2__eventscore_tier1",
+      "values": [
+        2390000,
+        2410000,
+        2440000,
+        3070000,
+        3100000,
+        3130000,
+        3940000,
+        3970000,
+        4010000,
+        5050000
+      ]
+    },
+    {
+      "id": "2cbaaaca6e9594b6",
+      "name": "prog__research_dragon_ranged_defense_2__eventscore_tier1",
+      "values": [
+        2390000,
+        2410000,
+        2440000,
+        3070000,
+        3100000,
+        3130000,
+        3940000,
+        3970000,
+        4010000,
+        5050000
+      ]
+    },
+    {
+      "id": "941334db63f6a03a",
+      "name": "prog__research_dragon_siege_defense_2__eventscore_tier1",
+      "values": [
+        2390000,
+        2410000,
+        2440000,
+        3070000,
+        3100000,
+        3130000,
+        3940000,
+        3970000,
+        4010000,
+        5050000
+      ]
+    },
+    {
+      "id": "bbd242c46187d955",
+      "name": "prog__research_dragon_cavalry_defense_2__eventscore_tier1",
+      "values": [
+        2390000,
+        2410000,
+        2440000,
+        3070000,
+        3100000,
+        3130000,
+        3940000,
+        3970000,
+        4010000,
+        5050000
+      ]
+    },
+    {
+      "id": "60c3e731c4fbe2a3",
+      "name": "prog__research_dragon_troop_defense_2__eventscore_tier1",
+      "values": [
+        3720000,
+        3750000,
+        3790000,
+        4770000,
+        4820000,
+        4860000,
+        6130000,
+        6190000,
+        6250000,
+        6310000
+      ]
+    },
+    {
+      "id": "159c65ef42086a38",
+      "name": "prog_event_score_upgrade_dragonAlpha",
+      "values": [
+        0,
+        110,
+        120,
+        140,
+        160,
+        180,
+        210,
+        240,
+        280,
+        320,
+        370,
+        420,
+        480,
+        550,
+        640,
+        730,
+        840,
+        970,
+        1100,
+        1300,
+        1500,
+        1700,
+        1900,
+        2200,
+        2500,
+        2900,
+        3400,
+        3900,
+        4400,
+        5100,
+        5800,
+        6700,
+        7700,
+        8900,
+        10000,
+        12000,
+        13000,
+        15000,
+        18000,
+        20000,
+        23000,
+        27000,
+        31000,
+        35000,
+        41000,
+        47000,
+        54000,
+        62000,
+        71000,
+        81000,
+        93000,
+        110000,
+        120000,
+        140000,
+        160000,
+        190000,
+        210000,
+        250000,
+        280000,
+        320000,
+        370000,
+        430000,
+        490000,
+        560000,
+        650000,
+        740000,
+        860000,
+        980000,
+        1100000,
+        0
+      ]
+    },
+    {
+      "id": "67ef5bf791bfd73a",
+      "name": "prog_event_score_upgrade_dragonadvance",
+      "values": [
+        0,
+        200000,
+        4730,
+        5910,
+        7350,
+        9130,
+        11400,
+        14200,
+        17700,
+        22000,
+        29600,
+        36600,
+        45000,
+        55700,
+        69200,
+        85700,
+        107000,
+        132000,
+        165000,
+        205000,
+        274000,
+        338000,
+        418000,
+        518000,
+        641000,
+        795000,
+        988000,
+        1230000,
+        1530000,
+        1910000,
+        2380000,
+        2960000,
+        3710000,
+        4640000,
+        5760000,
+        7200000,
+        9000000,
+        11200000,
+        14000000,
+        17500000,
+        23100000,
+        23400000,
+        23800000,
+        24200000,
+        24700000,
+        25300000,
+        26000000,
+        26800000,
+        27700000,
+        28800000,
+        30100000,
+        31700000,
+        33500000,
+        35600000,
+        38100000,
+        41200000,
+        44800000,
+        49100000,
+        54300000,
+        60500000,
+        61400000,
+        62300000,
+        63100000,
+        64000000,
+        64900000,
+        65900000,
+        66800000,
+        67800000,
+        68800000,
+        0
+      ]
+    },
+    {
+      "id": "297cbeca50ac503e",
+      "name": "prog__research_dragon_firebreath_damage_1__eventscore_tier1",
+      "values": [
+        6050000,
+        6110000,
+        6170000,
+        6380000,
+        6440000
+      ]
+    },
+    {
+      "id": "8053bd1e8f34a0ed",
+      "name": "prog__research_dragon_adult_march_size_1__eventscore_tier1",
+      "values": [
+        7090000,
+        7510000,
+        8000000,
+        8580000,
+        9270000,
+        10100000,
+        11100000,
+        12300000,
+        13800000,
+        15500000
+      ]
+    },
+    {
+      "id": "fe111aaa26b63bbf",
+      "name": "prog__research_dragon_adult_march_speed_1__eventscore_tier1",
+      "values": [
+        7090000,
+        7510000,
+        8000000,
+        8580000,
+        9270000,
+        10100000,
+        11100000,
+        12300000,
+        13800000,
+        15500000
+      ]
+    },
+    {
+      "id": "bbbee65a5ecf1cb2",
+      "name": "prog__research_dragon_firebreath_charges_1__eventscore_tier1",
+      "values": [
+        7090000
+      ]
+    },
+    {
+      "id": "9c7d5edd3357f3bd",
+      "name": "prog__research_dragon_adult_attack_1__eventscore_tier1",
+      "values": [
+        6050000,
+        6110000,
+        6170000,
+        6380000,
+        6440000
+      ]
+    },
+    {
+      "id": "e95811fc16b37fe",
+      "name": "prog__research_dragon_adult_defense_1__eventscore_tier1",
+      "values": [
+        6050000,
+        6110000,
+        6170000,
+        6380000,
+        6440000
+      ]
+    },
+    {
+      "id": "c98120036ab50e89",
+      "name": "prog__research_dragon_adult_health_1__eventscore_tier1",
+      "values": [
+        6050000,
+        6110000,
+        6170000,
+        6380000,
+        6440000
+      ]
+    },
+    {
+      "id": "776fd2e10211f5e6",
+      "name": "prog__research_dragon_firebreath_damage_2__eventscore_tier1",
+      "values": [
+        6360000,
+        6430000,
+        6490000,
+        6760000,
+        6830000
+      ]
+    },
+    {
+      "id": "e5ad8a710c72b96a",
+      "name": "prog__research_dragon_firebreath_charges_2__eventscore_tier1",
+      "values": [
+        9630000
+      ]
+    },
+    {
+      "id": "c26e32f661ea5665",
+      "name": "prog__research_dragon_adult_attack_2__eventscore_tier1",
+      "values": [
+        6360000,
+        6430000,
+        6490000,
+        6760000,
+        6830000
+      ]
+    },
+    {
+      "id": "5086ed3493d69226",
+      "name": "prog__research_dragon_adult_defense_2__eventscore_tier1",
+      "values": [
+        6360000,
+        6430000,
+        6490000,
+        6760000,
+        6830000
+      ]
+    },
+    {
+      "id": "97924c283808ab51",
+      "name": "prog__research_dragon_adult_health_2__eventscore_tier1",
+      "values": [
+        6360000,
+        6430000,
+        6490000,
+        6760000,
+        6830000
+      ]
+    },
+    {
+      "id": "760928c3971bf034",
+      "name": "prog__research_dragon_adult_attack_3__eventscore_tier1",
+      "values": [
+        6810000,
+        7160000,
+        7580000,
+        8080000,
+        8660000
+      ]
+    },
+    {
+      "id": "e4e1f70165273477",
+      "name": "prog__research_dragon_adult_defense_3__eventscore_tier1",
+      "values": [
+        8920000,
+        10600000,
+        11700000,
+        13100000,
+        14800000
+      ]
+    },
+    {
+      "id": "23f5561dcef90d00",
+      "name": "prog__research_dragon_adult_health_3__eventscore_tier1",
+      "values": [
+        16100000,
+        18500000,
+        21400000,
+        25000000,
+        29400000
+      ]
+    },
+    {
+      "id": "c308c8d4f4e053b7",
+      "name": "prog__research_dragon_firebreath_damage_3__eventscore_tier1",
+      "values": [
+        29400000,
+        30800000,
+        32400000,
+        34200000,
+        36200000,
+        37500000,
+        38800000,
+        40200000,
+        41600000,
+        43100000
+      ]
+    },
+    {
+      "id": "7e0255f599ff6929",
+      "name": "prog__research_dragon_cavalry_attack_vs_player_1__eventscore_tier1",
+      "values": [
+        9630000,
+        10600000,
+        11700000,
+        13100000,
+        14800000
+      ]
+    },
+    {
+      "id": "96d26670e93c9263",
+      "name": "prog__research_dragon_cavalry_attack_vs_players_cavalry_1__eventscore_tier1",
+      "values": [
+        9630000,
+        10600000,
+        11700000,
+        13100000,
+        14800000
+      ]
+    },
+    {
+      "id": "4747e5cf17e6c45a",
+      "name": "prog__research_dragon_cavalry_attack_vs_players_infantry_1__eventscore_tier1",
+      "values": [
+        9630000,
+        10600000,
+        11700000,
+        13100000,
+        14800000
+      ]
+    },
+    {
+      "id": "cc3407a9c24f94c3",
+      "name": "prog__research_dragon_cavalry_attack_vs_players_ranged_1__eventscore_tier1",
+      "values": [
+        9630000,
+        10600000,
+        11700000,
+        13100000,
+        14800000
+      ]
+    },
+    {
+      "id": "e33384ac5412ecc6",
+      "name": "prog__research_dragon_cavalry_attack_vs_players_siege_1__eventscore_tier1",
+      "values": [
+        9630000,
+        10600000,
+        11700000,
+        13100000,
+        14800000
+      ]
+    },
+    {
+      "id": "930eae83436df352",
+      "name": "prog__research_dragon_ranged_attack_vs_player_1__eventscore_tier1",
+      "values": [
+        9630000,
+        10600000,
+        11700000,
+        13100000,
+        14800000
+      ]
+    },
+    {
+      "id": "adbf20aecdb5fe17",
+      "name": "prog__research_dragon_ranged_attack_vs_players_cavalry_1__eventscore_tier1",
+      "values": [
+        9630000,
+        10600000,
+        11700000,
+        13100000,
+        14800000
+      ]
+    },
+    {
+      "id": "8c3e92a9127e2de6",
+      "name": "prog__research_dragon_ranged_attack_vs_players_infantry_1__eventscore_tier1",
+      "values": [
+        9630000,
+        10600000,
+        11700000,
+        13100000,
+        14800000
+      ]
+    },
+    {
+      "id": "6bbbcf2e5ca20f7c",
+      "name": "prog__research_dragon_ranged_attack_vs_players_ranged_1__eventscore_tier1",
+      "values": [
+        9630000,
+        10600000,
+        11700000,
+        13100000,
+        14800000
+      ]
+    },
+    {
+      "id": "95a3ad112340302a",
+      "name": "prog__research_dragon_ranged_attack_vs_players_siege_1__eventscore_tier1",
+      "values": [
+        9630000,
+        10600000,
+        11700000,
+        13100000,
+        14800000
+      ]
+    },
+    {
+      "id": "35364515a9a9fc1f",
+      "name": "prog__research_dragon_infantry_attack_vs_player_1__eventscore_tier1",
+      "values": [
+        9630000,
+        10600000,
+        11700000,
+        13100000,
+        14800000
+      ]
+    },
+    {
+      "id": "fccfc80b1a63f971",
+      "name": "prog__research_dragon_infantry_attack_vs_players_cavalry_1__eventscore_tier1",
+      "values": [
+        9630000,
+        10600000,
+        11700000,
+        13100000,
+        14800000
+      ]
+    },
+    {
+      "id": "561c13d8ad77f618",
+      "name": "prog__research_dragon_infantry_attack_vs_players_infantry_1__eventscore_tier1",
+      "values": [
+        9630000,
+        10600000,
+        11700000,
+        13100000,
+        14800000
+      ]
+    },
+    {
+      "id": "6031fb779d3009f7",
+      "name": "prog__research_dragon_infantry_attack_vs_players_ranged_1__eventscore_tier1",
+      "values": [
+        9630000,
+        10600000,
+        11700000,
+        13100000,
+        14800000
+      ]
+    },
+    {
+      "id": "8216acda932eb1f5",
+      "name": "prog__research_dragon_infantry_attack_vs_players_siege_1__eventscore_tier1",
+      "values": [
+        9630000,
+        10600000,
+        11700000,
+        13100000,
+        14800000
+      ]
+    },
+    {
+      "id": "c91b4d7f1f285c3a",
+      "name": "prog__research_dragon_siege_attack_vs_player_1__eventscore_tier1",
+      "values": [
+        9630000,
+        10600000,
+        11700000,
+        13100000,
+        14800000
+      ]
+    },
+    {
+      "id": "bdc9cf592f09a425",
+      "name": "prog__research_dragon_siege_attack_vs_players_cavalry_1__eventscore_tier1",
+      "values": [
+        9630000,
+        10600000,
+        11700000,
+        13100000,
+        14800000
+      ]
+    },
+    {
+      "id": "cbbf6167b77612f",
+      "name": "prog__research_dragon_siege_attack_vs_players_infantry_1__eventscore_tier1",
+      "values": [
+        9630000,
+        10600000,
+        11700000,
+        13100000,
+        14800000
+      ]
+    },
+    {
+      "id": "ae05c378cb3a5b45",
+      "name": "prog__research_dragon_siege_attack_vs_players_ranged_1__eventscore_tier1",
+      "values": [
+        9630000,
+        10600000,
+        11700000,
+        13100000,
+        14800000
+      ]
+    },
+    {
+      "id": "fba90e6890ff717b",
+      "name": "prog__research_dragon_siege_attack_vs_players_siege_1__eventscore_tier1",
+      "values": [
+        9630000,
+        10600000,
+        11700000,
+        13100000,
+        14800000
+      ]
+    },
+    {
+      "id": "93675b7301c1cbfb",
+      "name": "prog__research_dragon_cavalry_defense_vs_player_1__eventscore_tier1",
+      "values": [
+        16100000,
+        18500000,
+        21400000,
+        25000000,
+        29400000
+      ]
+    },
+    {
+      "id": "7c41a0a31712e974",
+      "name": "prog__research_dragon_cavalry_defense_vs_players_cavalry_1__eventscore_tier1",
+      "values": [
+        16100000,
+        18500000,
+        21400000,
+        25000000,
+        29400000
+      ]
+    },
+    {
+      "id": "c9aa788c6f64911a",
+      "name": "prog__research_dragon_cavalry_defense_vs_players_infantry_1__eventscore_tier1",
+      "values": [
+        16100000,
+        18500000,
+        21400000,
+        25000000,
+        29400000
+      ]
+    },
+    {
+      "id": "7b4b03e407d09fc5",
+      "name": "prog__research_dragon_cavalry_defense_vs_players_ranged_1__eventscore_tier1",
+      "values": [
+        16100000,
+        18500000,
+        21400000,
+        25000000,
+        29400000
+      ]
+    },
+    {
+      "id": "d63e9cfe7a12ef13",
+      "name": "prog__research_dragon_cavalry_defense_vs_players_siege_1__eventscore_tier1",
+      "values": [
+        16100000,
+        18500000,
+        21400000,
+        25000000,
+        29400000
+      ]
+    },
+    {
+      "id": "7b2920995b2a4cac",
+      "name": "prog__research_dragon_ranged_defense_vs_player_1__eventscore_tier1",
+      "values": [
+        16100000,
+        18500000,
+        21400000,
+        25000000,
+        29400000
+      ]
+    },
+    {
+      "id": "b738d7c5128a00c8",
+      "name": "prog__research_dragon_ranged_defense_vs_players_cavalry_1__eventscore_tier1",
+      "values": [
+        16100000,
+        18500000,
+        21400000,
+        25000000,
+        29400000
+      ]
+    },
+    {
+      "id": "87b9940673837a12",
+      "name": "prog__research_dragon_ranged_defense_vs_players_infantry_1__eventscore_tier1",
+      "values": [
+        16100000,
+        18500000,
+        21400000,
+        25000000,
+        29400000
+      ]
+    },
+    {
+      "id": "4026453a2359f3b1",
+      "name": "prog__research_dragon_ranged_defense_vs_players_ranged_1__eventscore_tier1",
+      "values": [
+        16100000,
+        18500000,
+        21400000,
+        25000000,
+        29400000
+      ]
+    },
+    {
+      "id": "71b15479e4ff74ac",
+      "name": "prog__research_dragon_ranged_defense_vs_players_siege_1__eventscore_tier1",
+      "values": [
+        16100000,
+        18500000,
+        21400000,
+        25000000,
+        29400000
+      ]
+    },
+    {
+      "id": "a07e53a9a2572a15",
+      "name": "prog__research_dragon_infantry_defense_vs_player_1__eventscore_tier1",
+      "values": [
+        16100000,
+        18500000,
+        21400000,
+        25000000,
+        29400000
+      ]
+    },
+    {
+      "id": "6d1a56b4ad83db36",
+      "name": "prog__research_dragon_infantry_defense_vs_players_cavalry_1__eventscore_tier1",
+      "values": [
+        16100000,
+        18500000,
+        21400000,
+        25000000,
+        29400000
+      ]
+    },
+    {
+      "id": "31ab0590e0c4d783",
+      "name": "prog__research_dragon_infantry_defense_vs_players_infantry_1__eventscore_tier1",
+      "values": [
+        16100000,
+        18500000,
+        21400000,
+        25000000,
+        29400000
+      ]
+    },
+    {
+      "id": "1156ad9ff48ff4d7",
+      "name": "prog__research_dragon_infantry_defense_vs_players_ranged_1__eventscore_tier1",
+      "values": [
+        16100000,
+        18500000,
+        21400000,
+        25000000,
+        29400000
+      ]
+    },
+    {
+      "id": "7a3b6020256d7227",
+      "name": "prog__research_dragon_infantry_defense_vs_players_siege_1__eventscore_tier1",
+      "values": [
+        16100000,
+        18500000,
+        21400000,
+        25000000,
+        29400000
+      ]
+    },
+    {
+      "id": "ae106274fd76201d",
+      "name": "prog__research_dragon_siege_defense_vs_player_1__eventscore_tier1",
+      "values": [
+        16100000,
+        18500000,
+        21400000,
+        25000000,
+        29400000
+      ]
+    },
+    {
+      "id": "37bdb37a7b834c01",
+      "name": "prog__research_dragon_siege_defense_vs_players_cavalry_1__eventscore_tier1",
+      "values": [
+        16100000,
+        18500000,
+        21400000,
+        25000000,
+        29400000
+      ]
+    },
+    {
+      "id": "2e525519dae73195",
+      "name": "prog__research_dragon_siege_defense_vs_players_infantry_1__eventscore_tier1",
+      "values": [
+        16100000,
+        18500000,
+        21400000,
+        25000000,
+        29400000
+      ]
+    },
+    {
+      "id": "5050aacdc1e5a983",
+      "name": "prog__research_dragon_siege_defense_vs_players_ranged_1__eventscore_tier1",
+      "values": [
+        16100000,
+        18500000,
+        21400000,
+        25000000,
+        29400000
+      ]
+    },
+    {
+      "id": "b40f582f73672095",
+      "name": "prog__research_dragon_siege_defense_vs_players_siege_1__eventscore_tier1",
+      "values": [
+        16100000,
+        18500000,
+        21400000,
+        25000000,
+        29400000
+      ]
+    },
+    {
+      "id": "201139decb42ccf1",
+      "name": "prog__research_dragon_cavalry_attack_vs_player_2__eventscore_tier1",
+      "values": [
+        16100000,
+        18500000,
+        21400000,
+        25000000,
+        29400000
+      ]
+    },
+    {
+      "id": "c8c10a5bbb8137bb",
+      "name": "prog__research_dragon_cavalry_attack_vs_players_cavalry_2__eventscore_tier1",
+      "values": [
+        16100000,
+        18500000,
+        21400000,
+        25000000,
+        29400000
+      ]
+    },
+    {
+      "id": "195489e4455b6182",
+      "name": "prog__research_dragon_cavalry_attack_vs_players_infantry_2__eventscore_tier1",
+      "values": [
+        16100000,
+        18500000,
+        21400000,
+        25000000,
+        29400000
+      ]
+    },
+    {
+      "id": "92276b8290f2311b",
+      "name": "prog__research_dragon_cavalry_attack_vs_players_ranged_2__eventscore_tier1",
+      "values": [
+        16100000,
+        18500000,
+        21400000,
+        25000000,
+        29400000
+      ]
+    },
+    {
+      "id": "bd20e88706af491e",
+      "name": "prog__research_dragon_cavalry_attack_vs_players_siege_2__eventscore_tier1",
+      "values": [
+        16100000,
+        18500000,
+        21400000,
+        25000000,
+        29400000
+      ]
+    },
+    {
+      "id": "cd1dc2a811d0568a",
+      "name": "prog__research_dragon_ranged_attack_vs_player_2__eventscore_tier1",
+      "values": [
+        16100000,
+        18500000,
+        21400000,
+        25000000,
+        29400000
+      ]
+    },
+    {
+      "id": "f3ac4c859f085bcf",
+      "name": "prog__research_dragon_ranged_attack_vs_players_cavalry_2__eventscore_tier1",
+      "values": [
+        16100000,
+        18500000,
+        21400000,
+        25000000,
+        29400000
+      ]
+    },
+    {
+      "id": "d22dfe8240c3883e",
+      "name": "prog__research_dragon_ranged_attack_vs_players_infantry_2__eventscore_tier1",
+      "values": [
+        16100000,
+        18500000,
+        21400000,
+        25000000,
+        29400000
+      ]
+    },
+    {
+      "id": "35a8a3050e1faaa4",
+      "name": "prog__research_dragon_ranged_attack_vs_players_ranged_2__eventscore_tier1",
+      "values": [
+        16100000,
+        18500000,
+        21400000,
+        25000000,
+        29400000
+      ]
+    },
+    {
+      "id": "cbb0c13a71fd95f2",
+      "name": "prog__research_dragon_ranged_attack_vs_players_siege_2__eventscore_tier1",
+      "values": [
+        16100000,
+        18500000,
+        21400000,
+        25000000,
+        29400000
+      ]
+    },
+    {
+      "id": "6b25293efb1459c7",
+      "name": "prog__research_dragon_infantry_attack_vs_player_2__eventscore_tier1",
+      "values": [
+        16100000,
+        18500000,
+        21400000,
+        25000000,
+        29400000
+      ]
+    },
+    {
+      "id": "a2dca42048de5ca9",
+      "name": "prog__research_dragon_infantry_attack_vs_players_cavalry_2__eventscore_tier1",
+      "values": [
+        16100000,
+        18500000,
+        21400000,
+        25000000,
+        29400000
+      ]
+    },
+    {
+      "id": "80f7ff3ffca53c0",
+      "name": "prog__research_dragon_infantry_attack_vs_players_infantry_2__eventscore_tier1",
+      "values": [
+        16100000,
+        18500000,
+        21400000,
+        25000000,
+        29400000
+      ]
+    },
+    {
+      "id": "3e22975ccf8dac2f",
+      "name": "prog__research_dragon_infantry_attack_vs_players_ranged_2__eventscore_tier1",
+      "values": [
+        16100000,
+        18500000,
+        21400000,
+        25000000,
+        29400000
+      ]
+    },
+    {
+      "id": "dc05c0f1c193142d",
+      "name": "prog__research_dragon_infantry_attack_vs_players_siege_2__eventscore_tier1",
+      "values": [
+        16100000,
+        18500000,
+        21400000,
+        25000000,
+        29400000
+      ]
+    },
+    {
+      "id": "970821544d95f9e2",
+      "name": "prog__research_dragon_siege_attack_vs_player_2__eventscore_tier1",
+      "values": [
+        16100000,
+        18500000,
+        21400000,
+        25000000,
+        29400000
+      ]
+    },
+    {
+      "id": "e3daa3727db401fd",
+      "name": "prog__research_dragon_siege_attack_vs_players_cavalry_2__eventscore_tier1",
+      "values": [
+        16100000,
+        18500000,
+        21400000,
+        25000000,
+        29400000
+      ]
+    },
+    {
+      "id": "52a89a3d29cac4f7",
+      "name": "prog__research_dragon_siege_attack_vs_players_infantry_2__eventscore_tier1",
+      "values": [
+        16100000,
+        18500000,
+        21400000,
+        25000000,
+        29400000
+      ]
+    },
+    {
+      "id": "f016af539987fe9d",
+      "name": "prog__research_dragon_siege_attack_vs_players_ranged_2__eventscore_tier1",
+      "values": [
+        16100000,
+        18500000,
+        21400000,
+        25000000,
+        29400000
+      ]
+    },
+    {
+      "id": "a5ba6243c242d4a3",
+      "name": "prog__research_dragon_siege_attack_vs_players_siege_2__eventscore_tier1",
+      "values": [
+        16100000,
+        18500000,
+        21400000,
+        25000000,
+        29400000
+      ]
+    },
+    {
+      "id": "cd743758537c6e23",
+      "name": "prog__research_dragon_cavalry_defense_vs_player_2__eventscore_tier1",
+      "values": [
+        29400000,
+        30800000,
+        32400000,
+        34200000,
+        36200000
+      ]
+    },
+    {
+      "id": "2252cc8845af4cac",
+      "name": "prog__research_dragon_cavalry_defense_vs_players_cavalry_2__eventscore_tier1",
+      "values": [
+        29400000,
+        30800000,
+        32400000,
+        34200000,
+        36200000
+      ]
+    },
+    {
+      "id": "97b914a73dd934c2",
+      "name": "prog__research_dragon_cavalry_defense_vs_players_infantry_2__eventscore_tier1",
+      "values": [
+        29400000,
+        30800000,
+        32400000,
+        34200000,
+        36200000
+      ]
+    },
+    {
+      "id": "25586fcf556d3a1d",
+      "name": "prog__research_dragon_cavalry_defense_vs_players_ranged_2__eventscore_tier1",
+      "values": [
+        29400000,
+        30800000,
+        32400000,
+        34200000,
+        36200000
+      ]
+    },
+    {
+      "id": "882df0d528af4acb",
+      "name": "prog__research_dragon_cavalry_defense_vs_players_siege_2__eventscore_tier1",
+      "values": [
+        29400000,
+        30800000,
+        32400000,
+        34200000,
+        36200000
+      ]
+    },
+    {
+      "id": "253a4cb20997e974",
+      "name": "prog__research_dragon_ranged_defense_vs_player_2__eventscore_tier1",
+      "values": [
+        29400000,
+        30800000,
+        32400000,
+        34200000,
+        36200000
+      ]
+    },
+    {
+      "id": "e92bbbee4037a510",
+      "name": "prog__research_dragon_ranged_defense_vs_players_cavalry_2__eventscore_tier1",
+      "values": [
+        29400000,
+        30800000,
+        32400000,
+        34200000,
+        36200000
+      ]
+    },
+    {
+      "id": "d9aaf82d213edfca",
+      "name": "prog__research_dragon_ranged_defense_vs_players_infantry_2__eventscore_tier1",
+      "values": [
+        29400000,
+        30800000,
+        32400000,
+        34200000,
+        36200000
+      ]
+    },
+    {
+      "id": "1e35291171e45669",
+      "name": "prog__research_dragon_ranged_defense_vs_players_ranged_2__eventscore_tier1",
+      "values": [
+        29400000,
+        30800000,
+        32400000,
+        34200000,
+        36200000
+      ]
+    },
+    {
+      "id": "2fa23852b642d174",
+      "name": "prog__research_dragon_ranged_defense_vs_players_siege_2__eventscore_tier1",
+      "values": [
+        29400000,
+        30800000,
+        32400000,
+        34200000,
+        36200000
+      ]
+    },
+    {
+      "id": "fe6d3f82f0ea8fcd",
+      "name": "prog__research_dragon_infantry_defense_vs_player_2__eventscore_tier1",
+      "values": [
+        29400000,
+        30800000,
+        32400000,
+        34200000,
+        36200000
+      ]
+    },
+    {
+      "id": "33093a9fff3e7eee",
+      "name": "prog__research_dragon_infantry_defense_vs_players_cavalry_2__eventscore_tier1",
+      "values": [
+        29400000,
+        30800000,
+        32400000,
+        34200000,
+        36200000
+      ]
+    },
+    {
+      "id": "6fb869bbb279725b",
+      "name": "prog__research_dragon_infantry_defense_vs_players_infantry_2__eventscore_tier1",
+      "values": [
+        29400000,
+        30800000,
+        32400000,
+        34200000,
+        36200000
+      ]
+    },
+    {
+      "id": "4f45c1b4a632510f",
+      "name": "prog__research_dragon_infantry_defense_vs_players_ranged_2__eventscore_tier1",
+      "values": [
+        29400000,
+        30800000,
+        32400000,
+        34200000,
+        36200000
+      ]
+    },
+    {
+      "id": "24280c0b77d0d7ff",
+      "name": "prog__research_dragon_infantry_defense_vs_players_siege_2__eventscore_tier1",
+      "values": [
+        29400000,
+        30800000,
+        32400000,
+        34200000,
+        36200000
+      ]
+    },
+    {
+      "id": "f0030e5fafcb85c5",
+      "name": "prog__research_dragon_siege_defense_vs_player_2__eventscore_tier1",
+      "values": [
+        29400000,
+        30800000,
+        32400000,
+        34200000,
+        36200000
+      ]
+    },
+    {
+      "id": "69aedf51293ee9d9",
+      "name": "prog__research_dragon_siege_defense_vs_players_cavalry_2__eventscore_tier1",
+      "values": [
+        29400000,
+        30800000,
+        32400000,
+        34200000,
+        36200000
+      ]
+    },
+    {
+      "id": "70413932885a944d",
+      "name": "prog__research_dragon_siege_defense_vs_players_infantry_2__eventscore_tier1",
+      "values": [
+        29400000,
+        30800000,
+        32400000,
+        34200000,
+        36200000
+      ]
+    },
+    {
+      "id": "e43c6e693580c5b",
+      "name": "prog__research_dragon_siege_defense_vs_players_ranged_2__eventscore_tier1",
+      "values": [
+        29400000,
+        30800000,
+        32400000,
+        34200000,
+        36200000
+      ]
+    },
+    {
+      "id": "ea1c340421da854d",
+      "name": "prog__research_dragon_siege_defense_vs_players_siege_2__eventscore_tier1",
+      "values": [
+        29400000,
+        30800000,
+        32400000,
+        34200000,
+        36200000
+      ]
+    },
+    {
+      "id": "947623eb3db36aa0",
+      "name": "prog__research_dragon_cavalry_attack_vs_player_3__eventscore_tier1",
+      "values": [
+        29400000,
+        30800000,
+        32400000,
+        34200000,
+        36200000,
+        37500000,
+        38800000,
+        40200000,
+        41600000,
+        43100000
+      ]
+    },
+    {
+      "id": "7ca6106e4d7091ea",
+      "name": "prog__research_dragon_cavalry_attack_vs_players_cavalry_3__eventscore_tier1",
+      "values": [
+        29400000,
+        30800000,
+        32400000,
+        34200000,
+        36200000,
+        37500000,
+        38800000,
+        40200000,
+        41600000,
+        43100000
+      ]
+    },
+    {
+      "id": "ad3393d1b3aac7d3",
+      "name": "prog__research_dragon_cavalry_attack_vs_players_infantry_3__eventscore_tier1",
+      "values": [
+        29400000,
+        30800000,
+        32400000,
+        34200000,
+        36200000,
+        37500000,
+        38800000,
+        40200000,
+        41600000,
+        43100000
+      ]
+    },
+    {
+      "id": "264071b76603974a",
+      "name": "prog__research_dragon_cavalry_attack_vs_players_ranged_3__eventscore_tier1",
+      "values": [
+        29400000,
+        30800000,
+        32400000,
+        34200000,
+        36200000,
+        37500000,
+        38800000,
+        40200000,
+        41600000,
+        43100000
+      ]
+    },
+    {
+      "id": "947f2b2f05eef4f",
+      "name": "prog__research_dragon_cavalry_attack_vs_players_siege_3__eventscore_tier1",
+      "values": [
+        29400000,
+        30800000,
+        32400000,
+        34200000,
+        36200000,
+        37500000,
+        38800000,
+        40200000,
+        41600000,
+        43100000
+      ]
+    },
+    {
+      "id": "797ad89de721f0db",
+      "name": "prog__research_dragon_ranged_attack_vs_player_3__eventscore_tier1",
+      "values": [
+        29400000,
+        30800000,
+        32400000,
+        34200000,
+        36200000,
+        37500000,
+        38800000,
+        40200000,
+        41600000,
+        43100000
+      ]
+    },
+    {
+      "id": "47cb56b069f9fd9e",
+      "name": "prog__research_dragon_ranged_attack_vs_players_cavalry_3__eventscore_tier1",
+      "values": [
+        29400000,
+        30800000,
+        32400000,
+        34200000,
+        36200000,
+        37500000,
+        38800000,
+        40200000,
+        41600000,
+        43100000
+      ]
+    },
+    {
+      "id": "664ae4b7b6322e6f",
+      "name": "prog__research_dragon_ranged_attack_vs_players_infantry_3__eventscore_tier1",
+      "values": [
+        29400000,
+        30800000,
+        32400000,
+        34200000,
+        36200000,
+        37500000,
+        38800000,
+        40200000,
+        41600000,
+        43100000
+      ]
+    },
+    {
+      "id": "81cfb930f8ee0cf5",
+      "name": "prog__research_dragon_ranged_attack_vs_players_ranged_3__eventscore_tier1",
+      "values": [
+        29400000,
+        30800000,
+        32400000,
+        34200000,
+        36200000,
+        37500000,
+        38800000,
+        40200000,
+        41600000,
+        43100000
+      ]
+    },
+    {
+      "id": "7fd7db0f870c33a3",
+      "name": "prog__research_dragon_ranged_attack_vs_players_siege_3__eventscore_tier1",
+      "values": [
+        29400000,
+        30800000,
+        32400000,
+        34200000,
+        36200000,
+        37500000,
+        38800000,
+        40200000,
+        41600000,
+        43100000
+      ]
+    },
+    {
+      "id": "df42330b0de5ff96",
+      "name": "prog__research_dragon_infantry_attack_vs_player_3__eventscore_tier1",
+      "values": [
+        29400000,
+        30800000,
+        32400000,
+        34200000,
+        36200000,
+        37500000,
+        38800000,
+        40200000,
+        41600000,
+        43100000
+      ]
+    },
+    {
+      "id": "16bbbe15be2ffaf8",
+      "name": "prog__research_dragon_infantry_attack_vs_players_cavalry_3__eventscore_tier1",
+      "values": [
+        29400000,
+        30800000,
+        32400000,
+        34200000,
+        36200000,
+        37500000,
+        38800000,
+        40200000,
+        41600000,
+        43100000
+      ]
+    },
+    {
+      "id": "bc6865c6093bf591",
+      "name": "prog__research_dragon_infantry_attack_vs_players_infantry_3__eventscore_tier1",
+      "values": [
+        29400000,
+        30800000,
+        32400000,
+        34200000,
+        36200000,
+        37500000,
+        38800000,
+        40200000,
+        41600000,
+        43100000
+      ]
+    },
+    {
+      "id": "8a458d69397c0a7e",
+      "name": "prog__research_dragon_infantry_attack_vs_players_ranged_3__eventscore_tier1",
+      "values": [
+        29400000,
+        30800000,
+        32400000,
+        34200000,
+        36200000,
+        37500000,
+        38800000,
+        40200000,
+        41600000,
+        43100000
+      ]
+    },
+    {
+      "id": "6862dac43762b27c",
+      "name": "prog__research_dragon_infantry_attack_vs_players_siege_3__eventscore_tier1",
+      "values": [
+        29400000,
+        30800000,
+        32400000,
+        34200000,
+        36200000,
+        37500000,
+        38800000,
+        40200000,
+        41600000,
+        43100000
+      ]
+    },
+    {
+      "id": "236f3b61bb645fb3",
+      "name": "prog__research_dragon_siege_attack_vs_player_3__eventscore_tier1",
+      "values": [
+        29400000,
+        30800000,
+        32400000,
+        34200000,
+        36200000,
+        37500000,
+        38800000,
+        40200000,
+        41600000,
+        43100000
+      ]
+    },
+    {
+      "id": "57bdb9478b45a7ac",
+      "name": "prog__research_dragon_siege_attack_vs_players_cavalry_3__eventscore_tier1",
+      "values": [
+        29400000,
+        30800000,
+        32400000,
+        34200000,
+        36200000,
+        37500000,
+        38800000,
+        40200000,
+        41600000,
+        43100000
+      ]
+    },
+    {
+      "id": "e6cf8008df3b62a6",
+      "name": "prog__research_dragon_siege_attack_vs_players_infantry_3__eventscore_tier1",
+      "values": [
+        29400000,
+        30800000,
+        32400000,
+        34200000,
+        36200000,
+        37500000,
+        38800000,
+        40200000,
+        41600000,
+        43100000
+      ]
+    },
+    {
+      "id": "4471b5666f7658cc",
+      "name": "prog__research_dragon_siege_attack_vs_players_ranged_3__eventscore_tier1",
+      "values": [
+        29400000,
+        30800000,
+        32400000,
+        34200000,
+        36200000,
+        37500000,
+        38800000,
+        40200000,
+        41600000,
+        43100000
+      ]
+    },
+    {
+      "id": "11dd787634b372f2",
+      "name": "prog__research_dragon_siege_attack_vs_players_siege_3__eventscore_tier1",
+      "values": [
+        29400000,
+        30800000,
+        32400000,
+        34200000,
+        36200000,
+        37500000,
+        38800000,
+        40200000,
+        41600000,
+        43100000
+      ]
+    },
+    {
+      "id": "79132d6da58dc872",
+      "name": "prog__research_dragon_cavalry_defense_vs_player_3__eventscore_tier1",
+      "values": [
+        35800000,
+        36100000,
+        37400000,
+        37700000,
+        39100000,
+        39400000,
+        40800000,
+        41200000,
+        42700000,
+        43100000
+      ]
+    },
+    {
+      "id": "9635d6bdb35eeafd",
+      "name": "prog__research_dragon_cavalry_defense_vs_players_cavalry_3__eventscore_tier1",
+      "values": [
+        35800000,
+        36100000,
+        37400000,
+        37700000,
+        39100000,
+        39400000,
+        40800000,
+        41200000,
+        42700000,
+        43100000
+      ]
+    },
+    {
+      "id": "23de0e92cb289293",
+      "name": "prog__research_dragon_cavalry_defense_vs_players_infantry_3__eventscore_tier1",
+      "values": [
+        35800000,
+        36100000,
+        37400000,
+        37700000,
+        39100000,
+        39400000,
+        40800000,
+        41200000,
+        42700000,
+        43100000
+      ]
+    },
+    {
+      "id": "913f75faa39c9c4c",
+      "name": "prog__research_dragon_cavalry_defense_vs_players_ranged_3__eventscore_tier1",
+      "values": [
+        35800000,
+        36100000,
+        37400000,
+        37700000,
+        39100000,
+        39400000,
+        40800000,
+        41200000,
+        42700000,
+        43100000
+      ]
+    },
+    {
+      "id": "3c4aeae0de5eec9a",
+      "name": "prog__research_dragon_cavalry_defense_vs_players_siege_3__eventscore_tier1",
+      "values": [
+        35800000,
+        36100000,
+        37400000,
+        37700000,
+        39100000,
+        39400000,
+        40800000,
+        41200000,
+        42700000,
+        43100000
+      ]
+    },
+    {
+      "id": "915d5687ff664f25",
+      "name": "prog__research_dragon_ranged_defense_vs_player_3__eventscore_tier1",
+      "values": [
+        35800000,
+        36100000,
+        37400000,
+        37700000,
+        39100000,
+        39400000,
+        40800000,
+        41200000,
+        42700000,
+        43100000
+      ]
+    },
+    {
+      "id": "5d4ca1dbb6c60341",
+      "name": "prog__research_dragon_ranged_defense_vs_players_cavalry_3__eventscore_tier1",
+      "values": [
+        35800000,
+        36100000,
+        37400000,
+        37700000,
+        39100000,
+        39400000,
+        40800000,
+        41200000,
+        42700000,
+        43100000
+      ]
+    },
+    {
+      "id": "6dcde218d7cf799b",
+      "name": "prog__research_dragon_ranged_defense_vs_players_infantry_3__eventscore_tier1",
+      "values": [
+        35800000,
+        36100000,
+        37400000,
+        37700000,
+        39100000,
+        39400000,
+        40800000,
+        41200000,
+        42700000,
+        43100000
+      ]
+    },
+    {
+      "id": "aa5233248715f038",
+      "name": "prog__research_dragon_ranged_defense_vs_players_ranged_3__eventscore_tier1",
+      "values": [
+        35800000,
+        36100000,
+        37400000,
+        37700000,
+        39100000,
+        39400000,
+        40800000,
+        41200000,
+        42700000,
+        43100000
+      ]
+    },
+    {
+      "id": "9bc5226740b37725",
+      "name": "prog__research_dragon_ranged_defense_vs_players_siege_3__eventscore_tier1",
+      "values": [
+        35800000,
+        36100000,
+        37400000,
+        37700000,
+        39100000,
+        39400000,
+        40800000,
+        41200000,
+        42700000,
+        43100000
+      ]
+    },
+    {
+      "id": "4a0a25b7061b299c",
+      "name": "prog__research_dragon_infantry_defense_vs_player_3__eventscore_tier1",
+      "values": [
+        35800000,
+        36100000,
+        37400000,
+        37700000,
+        39100000,
+        39400000,
+        40800000,
+        41200000,
+        42700000,
+        43100000
+      ]
+    },
+    {
+      "id": "876e20aa09cfd8bf",
+      "name": "prog__research_dragon_infantry_defense_vs_players_cavalry_3__eventscore_tier1",
+      "values": [
+        35800000,
+        36100000,
+        37400000,
+        37700000,
+        39100000,
+        39400000,
+        40800000,
+        41200000,
+        42700000,
+        43100000
+      ]
+    },
+    {
+      "id": "dbdf738e4488d40a",
+      "name": "prog__research_dragon_infantry_defense_vs_players_infantry_3__eventscore_tier1",
+      "values": [
+        35800000,
+        36100000,
+        37400000,
+        37700000,
+        39100000,
+        39400000,
+        40800000,
+        41200000,
+        42700000,
+        43100000
+      ]
+    },
+    {
+      "id": "fb22db8150c3f75e",
+      "name": "prog__research_dragon_infantry_defense_vs_players_ranged_3__eventscore_tier1",
+      "values": [
+        35800000,
+        36100000,
+        37400000,
+        37700000,
+        39100000,
+        39400000,
+        40800000,
+        41200000,
+        42700000,
+        43100000
+      ]
+    },
+    {
+      "id": "904f163e812171ae",
+      "name": "prog__research_dragon_infantry_defense_vs_players_siege_3__eventscore_tier1",
+      "values": [
+        35800000,
+        36100000,
+        37400000,
+        37700000,
+        39100000,
+        39400000,
+        40800000,
+        41200000,
+        42700000,
+        43100000
+      ]
+    },
+    {
+      "id": "4464146a593a2394",
+      "name": "prog__research_dragon_siege_defense_vs_player_3__eventscore_tier1",
+      "values": [
+        35800000,
+        36100000,
+        37400000,
+        37700000,
+        39100000,
+        39400000,
+        40800000,
+        41200000,
+        42700000,
+        43100000
+      ]
+    },
+    {
+      "id": "ddc9c564dfcf4f88",
+      "name": "prog__research_dragon_siege_defense_vs_players_cavalry_3__eventscore_tier1",
+      "values": [
+        35800000,
+        36100000,
+        37400000,
+        37700000,
+        39100000,
+        39400000,
+        40800000,
+        41200000,
+        42700000,
+        43100000
+      ]
+    },
+    {
+      "id": "c42623077eab321c",
+      "name": "prog__research_dragon_siege_defense_vs_players_infantry_3__eventscore_tier1",
+      "values": [
+        35800000,
+        36100000,
+        37400000,
+        37700000,
+        39100000,
+        39400000,
+        40800000,
+        41200000,
+        42700000,
+        43100000
+      ]
+    },
+    {
+      "id": "ba24dcd365a9aa0a",
+      "name": "prog__research_dragon_siege_defense_vs_players_ranged_3__eventscore_tier1",
+      "values": [
+        35800000,
+        36100000,
+        37400000,
+        37700000,
+        39100000,
+        39400000,
+        40800000,
+        41200000,
+        42700000,
+        43100000
+      ]
+    },
+    {
+      "id": "5e7b2e31d72b231c",
+      "name": "prog__research_dragon_siege_defense_vs_players_siege_3__eventscore_tier1",
+      "values": [
+        35800000,
+        36100000,
+        37400000,
+        37700000,
+        39100000,
+        39400000,
+        40800000,
+        41200000,
+        42700000,
+        43100000
+      ]
+    },
+    {
+      "id": "2580636721c76216",
+      "name": "prog__research_dragon_adult_1__eventscore_tier1",
+      "values": [
+        5860000
+      ]
+    },
+    {
+      "id": "acf496cf65f57d6b",
+      "name": "prog__research_dragon_firebreath_1__eventscore_tier1",
+      "values": [
+        6150000
+      ]
+    },
+    {
+      "id": "14ceb1ef6ed996ef",
+      "name": "prog__research_dragon_sop_march_solo_1__eventscore_tier1",
+      "values": [
+        6270000
+      ]
+    },
+    {
+      "id": "b7e7552ab3ef480f",
+      "name": "prog__research_dragon_sop_march_rally_1__eventscore_tier1",
+      "values": [
+        6280000
+      ]
+    },
+    {
+      "id": "23d6c392ee78c656",
+      "name": "prog__research_dragon_pve_attack_rally_1__eventscore_tier1",
+      "values": [
+        9680000
+      ]
+    },
+    {
+      "id": "517d4610ac52a911",
+      "name": "prog__research_dragon_pvp_attack_rally_1__eventscore_tier1",
+      "values": [
+        16100000
+      ]
+    },
+    {
+      "id": "4c3a49899d716350",
+      "name": "prog__research_dragon_reinforce_keep_1__eventscore_tier1",
+      "values": [
+        30400000
+      ]
+    },
+    {
+      "id": "4c6b83cd8da09ec0",
+      "name": "prog__research_dragon_sop_reinforce_self_1__eventscore_tier1",
+      "values": [
+        30400000
+      ]
+    },
+    {
+      "id": "f2e21693605ab1da",
+      "name": "prog__research_dragon_sop_reinforce_1__eventscore_tier1",
+      "values": [
+        49300000
+      ]
+    },
+    {
+      "id": "d2763d5ecd57f8e6",
+      "name": "prog__research_dragon_sop_occupy_1__eventscore_tier1",
+      "values": [
+        79700000
+      ]
+    },
+    {
+      "id": "a269b6750a3d04af",
+      "name": "prog__research_dragon_adult_tenacity_max_1__eventscore_tier1",
+      "values": [
+        6050000,
+        6050000,
+        6050000,
+        6050000,
+        6050000,
+        6050000,
+        6050000,
+        6050000,
+        6050000,
+        6050000,
+        6050000,
+        6050000,
+        6050000,
+        6050000,
+        6050000,
+        6050000,
+        6050000,
+        6050000,
+        6050000,
+        6050000
+      ]
+    },
+    {
+      "id": "51ca9044fa831f3b",
+      "name": "prog__research_dragon_firebreath_charges_3__eventscore_tier1",
+      "values": [
+        29400000
+      ]
+    },
+    {
+      "id": "2b44000f2eb87042",
+      "name": "prog__research_dragon_strategic_terrain_combat_1__eventscore_tier1",
+      "values": [
+        62200
+      ]
+    }
+  ]
+}

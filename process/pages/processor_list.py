@@ -1,10 +1,11 @@
 from pages.armory import ArmoryProcessor
+from pages.building import BuildingProcessor
+from pages.daily_delivery import DailyDeliveryProcessor
+from pages.enhancement import EnhancementProcessor
 from pages.hero import HeroProcessor
+from pages.research import ResearchProcessor
 from pages.summon import SummonProcessor
 from pages.trinket_armory import TrinketArmoryProcessor
-from pages.daily_delivery import DailyDeliveryProcessor
-from pages.building import BuildingProcessor
-from pages.enhancement import EnhancementProcessor
 
 
 def page_processor_list():
@@ -16,4 +17,5 @@ def page_processor_list():
         ('daily_delivery', DailyDeliveryProcessor),
         ('building', BuildingProcessor),
         ('enhancement', EnhancementProcessor),
+        ('research', ResearchProcessor),
     )

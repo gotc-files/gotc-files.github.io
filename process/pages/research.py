@@ -1,0 +1,85 @@
+from pages.page_processor import PageProcessor
+from pages.page_processor import InsufficientDataException
+
+
+class ResearchProcessor(PageProcessor):
+    def process(self):
+        researches = []
+        for raw_research in self.iterate_files(["researches_1", "researches_2"]):
+            if "Expeditions" in raw_research["category"]:
+                continue
+            try:
+                researches.append(self._process_research(raw_research))
+            except InsufficientDataException as e:
+                print(e)
+        return researches
+
+    def _process_research(self, raw_research):
+        research_stats = self.lookup_files(
+            ["research_stat_sets_1", "research_stat_sets_2"], "name", raw_research["name"].lower())
+        research_stat_with_values = [
+            self._process_research_stat(stat) for stat in research_stats["stats"]]
+        power_progression = self.lookup_files(
+            ["research_progressions_1", "research_progressions_2"], "name", raw_research["power_progression"])["values"]
+        event_score_progression = self.lookup_files(
+            ["event_scoring_progressions",
+             "event_scoring_progressions_dragon",
+             "event_scoring_progressions_research"],
+            "name", raw_research["event_score_progression"])["values"]
+        time_progression = self.lookup_files(
+            ["research_progressions_1", "research_progressions_2"], "name", raw_research["time_progression"])["values"]
+        cost_progressions = [(cost_entry["item_name"], self.lookup_files(
+            ["research_progressions_1", "research_progressions_2"], "name", cost_entry["progression"])["values"]) for cost_entry in raw_research["costs"]]
+        return {
+            "id": raw_research["id"],
+            "name": self.translate(raw_research["name_placeholder"]),
+            "description": self.translate(raw_research["description_placeholder"]),
+            "levels": [self._process_research_level(
+                i,
+                power_progression[i],
+                event_score_progression[i] if i < len(
+                    event_score_progression) else event_score_progression[0],
+                time_progression[i],
+                [{"name": stat["name"], "description": stat["description"],
+                    "value": stat["values"][i]} for stat in research_stat_with_values],
+                [self._process_item_cost(item_name, cost_values[i])
+                    for item_name, cost_values in cost_progressions],
+            ) for i in range(raw_research["num_levels"])],
+            "requirements": [self._process_requirement(requirement) for requirement in raw_research["requirements"]],
+        }
+
+    def _process_research_level(self, index, power, event_score, time, stats, costs):
+        return {
+            "level": index + 1,
+            "power": power,
+            "event_score": event_score,
+            "upgrade_time_seconds": time,
+            "stats": stats,
+            "costs": costs,
+        }
+
+    def _process_research_stat(self, stat):
+        stat_info = self.lookup_file("properties", "name", stat["name"])
+        return {
+            "name": self.translate(stat_info["name_placeholder"]),
+            "description": self.translate(stat_info["description_placeholder"]),
+            "values": self.lookup_files(
+                ["research_progressions_1", "research_progressions_2"], "name", stat["progression"])["values"]
+        }
+
+    def _process_item_cost(self, item_name, cost):
+        item = self.lookup_files(["items", "dragon_items"], "name", item_name)
+        return {
+            "name": self.translate(item["name_placeholder"]),
+            "description": self.translate(item["description_placeholder"]),
+            "cost": cost,
+        }
+
+    def _process_requirement(self, requirement):
+        research = self.lookup_files(
+            ["researches_1", "researches_2"], "name", requirement["research"])
+        return {
+            "id": research["id"],
+            "name": self.translate(research["name_placeholder"]),
+            "level": requirement["level"],
+        }

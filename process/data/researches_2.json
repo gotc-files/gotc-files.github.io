@@ -1,0 +1,4008 @@
+{
+  "description": "Researches basic information",
+  "values": [
+    {
+      "building_level_progression": "prog_research_military2_troop_attack_1_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_troop_attack_1_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_troop_attack_1_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_troop_attack_1_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_troop_attack_1_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_troop_attack_1_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_troop_attack_1_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_troop_attack_1_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_troop_attack_1_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_TROOP_ATTACK_1_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_troop_attack_1_Eventscore",
+      "id": "88032379fc6fe755",
+      "name": "research_military2_troop_attack_1",
+      "name_placeholder": "RESEARCH_MILITARY2_TROOP_ATTACK_1_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_troop_attack_1_Power",
+      "requirements": [],
+      "time_progression": "prog_research_military2_troop_attack_1_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_troop_health_1_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_troop_health_1_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_troop_health_1_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_troop_health_1_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_troop_health_1_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_troop_health_1_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_troop_health_1_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_troop_health_1_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_troop_health_1_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_TROOP_HEALTH_1_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_troop_health_1_Eventscore",
+      "id": "b034140059966256",
+      "name": "research_military2_troop_health_1",
+      "name_placeholder": "RESEARCH_MILITARY2_TROOP_HEALTH_1_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_troop_health_1_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_troop_attack_1"
+        }
+      ],
+      "time_progression": "prog_research_military2_troop_health_1_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_troop_defense_1_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_troop_defense_1_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_troop_defense_1_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_troop_defense_1_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_troop_defense_1_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_troop_defense_1_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_troop_defense_1_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_troop_defense_1_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_troop_defense_1_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_TROOP_DEFENSE_1_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_troop_defense_1_Eventscore",
+      "id": "58ba2e15e9909e7",
+      "name": "research_military2_troop_defense_1",
+      "name_placeholder": "RESEARCH_MILITARY2_TROOP_DEFENSE_1_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_troop_defense_1_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_troop_attack_1"
+        }
+      ],
+      "time_progression": "prog_research_military2_troop_defense_1_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_infantry_attack_1_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_infantry_attack_1_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_infantry_attack_1_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_infantry_attack_1_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_infantry_attack_1_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_infantry_attack_1_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_infantry_attack_1_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_infantry_attack_1_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_infantry_attack_1_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_INFANTRY_ATTACK_1_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_infantry_attack_1_Eventscore",
+      "id": "48525b0818bcc9ca",
+      "name": "research_military2_infantry_attack_1",
+      "name_placeholder": "RESEARCH_MILITARY2_INFANTRY_ATTACK_1_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_infantry_attack_1_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_defender_health_1"
+        },
+        {
+          "level": 1,
+          "research": "research_military2_defender_defense_1"
+        }
+      ],
+      "time_progression": "prog_research_military2_infantry_attack_1_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_infantry_defense_1_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_infantry_defense_1_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_infantry_defense_1_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_infantry_defense_1_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_infantry_defense_1_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_infantry_defense_1_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_infantry_defense_1_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_infantry_defense_1_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_infantry_defense_1_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_INFANTRY_DEFENSE_1_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_infantry_defense_1_Eventscore",
+      "id": "af25c366d3e3c69c",
+      "name": "research_military2_infantry_defense_1",
+      "name_placeholder": "RESEARCH_MILITARY2_INFANTRY_DEFENSE_1_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_infantry_defense_1_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_infantry_attack_1"
+        }
+      ],
+      "time_progression": "prog_research_military2_infantry_defense_1_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_infantry_health_1_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_infantry_health_1_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_infantry_health_1_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_infantry_health_1_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_infantry_health_1_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_infantry_health_1_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_infantry_health_1_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_infantry_health_1_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_infantry_health_1_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_INFANTRY_HEALTH_1_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_infantry_health_1_Eventscore",
+      "id": "70656c71bd454cc9",
+      "name": "research_military2_infantry_health_1",
+      "name_placeholder": "RESEARCH_MILITARY2_INFANTRY_HEALTH_1_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_infantry_health_1_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_infantry_attack_1"
+        }
+      ],
+      "time_progression": "prog_research_military2_infantry_health_1_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_cavalry_attack_1_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_cavalry_attack_1_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_cavalry_attack_1_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_cavalry_attack_1_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_cavalry_attack_1_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_cavalry_attack_1_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_cavalry_attack_1_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_cavalry_attack_1_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_cavalry_attack_1_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_CAVALRY_ATTACK_1_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_cavalry_attack_1_Eventscore",
+      "id": "94747d4fd2dd7736",
+      "name": "research_military2_cavalry_attack_1",
+      "name_placeholder": "RESEARCH_MILITARY2_CAVALRY_ATTACK_1_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_cavalry_attack_1_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_infantry_defense_1"
+        },
+        {
+          "level": 1,
+          "research": "research_military2_infantry_health_1"
+        }
+      ],
+      "time_progression": "prog_research_military2_cavalry_attack_1_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_cavalry_defense_1_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_cavalry_defense_1_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_cavalry_defense_1_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_cavalry_defense_1_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_cavalry_defense_1_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_cavalry_defense_1_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_cavalry_defense_1_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_cavalry_defense_1_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_cavalry_defense_1_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_CAVALRY_DEFENSE_1_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_cavalry_defense_1_Eventscore",
+      "id": "40d2c11a1877a09c",
+      "name": "research_military2_cavalry_defense_1",
+      "name_placeholder": "RESEARCH_MILITARY2_CAVALRY_DEFENSE_1_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_cavalry_defense_1_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_cavalry_attack_1"
+        }
+      ],
+      "time_progression": "prog_research_military2_cavalry_defense_1_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_training_speed_1_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_training_speed_1_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_training_speed_1_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_training_speed_1_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_training_speed_1_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_training_speed_1_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_training_speed_1_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_training_speed_1_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_training_speed_1_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_TRAINING_SPEED_1_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_training_speed_1_Eventscore",
+      "id": "be15957f002c0a32",
+      "name": "research_military2_training_speed_1",
+      "name_placeholder": "RESEARCH_MILITARY2_TRAINING_SPEED_1_NAME",
+      "num_levels": 3,
+      "power_progression": "prog_research_military2_training_speed_1_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_marcher_troop_defense_vs_player_1"
+        },
+        {
+          "level": 1,
+          "research": "research_military2_marcher_troop_health_vs_player_1"
+        }
+      ],
+      "time_progression": "prog_research_military2_training_speed_1_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_cavalry_health_1_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_cavalry_health_1_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_cavalry_health_1_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_cavalry_health_1_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_cavalry_health_1_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_cavalry_health_1_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_cavalry_health_1_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_cavalry_health_1_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_cavalry_health_1_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_CAVALRY_HEALTH_1_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_cavalry_health_1_Eventscore",
+      "id": "ac434a367724f235",
+      "name": "research_military2_cavalry_health_1",
+      "name_placeholder": "RESEARCH_MILITARY2_CAVALRY_HEALTH_1_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_cavalry_health_1_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_cavalry_attack_1"
+        }
+      ],
+      "time_progression": "prog_research_military2_cavalry_health_1_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_range_attack_1_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_range_attack_1_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_range_attack_1_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_range_attack_1_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_range_attack_1_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_range_attack_1_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_range_attack_1_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_range_attack_1_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_range_attack_1_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_RANGE_ATTACK_1_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_range_attack_1_Eventscore",
+      "id": "59089aca5127280f",
+      "name": "research_military2_range_attack_1",
+      "name_placeholder": "RESEARCH_MILITARY2_RANGE_ATTACK_1_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_range_attack_1_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_cavalry_health_1"
+        },
+        {
+          "level": 1,
+          "research": "research_military2_cavalry_defense_1"
+        }
+      ],
+      "time_progression": "prog_research_military2_range_attack_1_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_range_defense_1_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_range_defense_1_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_range_defense_1_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_range_defense_1_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_range_defense_1_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_range_defense_1_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_range_defense_1_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_range_defense_1_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_range_defense_1_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_RANGE_DEFENSE_1_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_range_defense_1_Eventscore",
+      "id": "50acec0629df98a5",
+      "name": "research_military2_range_defense_1",
+      "name_placeholder": "RESEARCH_MILITARY2_RANGE_DEFENSE_1_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_range_defense_1_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_range_attack_1"
+        }
+      ],
+      "time_progression": "prog_research_military2_range_defense_1_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_range_health_1_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_range_health_1_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_range_health_1_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_range_health_1_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_range_health_1_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_range_health_1_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_range_health_1_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_range_health_1_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_range_health_1_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_RANGE_HEALTH_1_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_range_health_1_Eventscore",
+      "id": "613fadb3f4dead0c",
+      "name": "research_military2_range_health_1",
+      "name_placeholder": "RESEARCH_MILITARY2_RANGE_HEALTH_1_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_range_health_1_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_range_attack_1"
+        }
+      ],
+      "time_progression": "prog_research_military2_range_health_1_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_siege_attack_1_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_siege_attack_1_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_siege_attack_1_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_siege_attack_1_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_siege_attack_1_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_siege_attack_1_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_siege_attack_1_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_siege_attack_1_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_siege_attack_1_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_SIEGE_ATTACK_1_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_siege_attack_1_Eventscore",
+      "id": "3d8627e66ade2e71",
+      "name": "research_military2_siege_attack_1",
+      "name_placeholder": "RESEARCH_MILITARY2_SIEGE_ATTACK_1_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_siege_attack_1_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_range_defense_1"
+        },
+        {
+          "level": 1,
+          "research": "research_military2_range_health_1"
+        }
+      ],
+      "time_progression": "prog_research_military2_siege_attack_1_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_siege_defense_1_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_siege_defense_1_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_siege_defense_1_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_siege_defense_1_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_siege_defense_1_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_siege_defense_1_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_siege_defense_1_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_siege_defense_1_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_siege_defense_1_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_SIEGE_DEFENSE_1_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_siege_defense_1_Eventscore",
+      "id": "275df09643cb627c",
+      "name": "research_military2_siege_defense_1",
+      "name_placeholder": "RESEARCH_MILITARY2_SIEGE_DEFENSE_1_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_siege_defense_1_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_siege_attack_1"
+        }
+      ],
+      "time_progression": "prog_research_military2_siege_defense_1_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_siege_health_1_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_siege_health_1_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_siege_health_1_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_siege_health_1_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_siege_health_1_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_siege_health_1_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_siege_health_1_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_siege_health_1_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_siege_health_1_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_SIEGE_HEALTH_1_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_siege_health_1_Eventscore",
+      "id": "5b1109fcf27ab72",
+      "name": "research_military2_siege_health_1",
+      "name_placeholder": "RESEARCH_MILITARY2_SIEGE_HEALTH_1_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_siege_health_1_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_siege_attack_1"
+        }
+      ],
+      "time_progression": "prog_research_military2_siege_health_1_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_march_size_1_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_march_size_1_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_march_size_1_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_march_size_1_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_march_size_1_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_march_size_1_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_march_size_1_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_march_size_1_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_march_size_1_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_MARCH_SIZE_1_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_march_size_1_Eventscore",
+      "id": "a154859a6d36e186",
+      "name": "research_military2_march_size_1",
+      "name_placeholder": "RESEARCH_MILITARY2_MARCH_SIZE_1_NAME",
+      "num_levels": 4,
+      "power_progression": "prog_research_military2_march_size_1_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_training_speed_1"
+        }
+      ],
+      "time_progression": "prog_research_military2_march_size_1_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_infantry_attack_vs_sop_1_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_infantry_attack_vs_sop_1_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_infantry_attack_vs_sop_1_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_infantry_attack_vs_sop_1_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_infantry_attack_vs_sop_1_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_infantry_attack_vs_sop_1_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_infantry_attack_vs_sop_1_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_infantry_attack_vs_sop_1_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_infantry_attack_vs_sop_1_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_INFANTRY_ATTACK_VS_SOP_1_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_infantry_attack_vs_sop_1_Eventscore",
+      "id": "8b8762d1d9322724",
+      "name": "research_military2_infantry_attack_vs_sop_1",
+      "name_placeholder": "RESEARCH_MILITARY2_INFANTRY_ATTACK_VS_SOP_1_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_infantry_attack_vs_sop_1_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_troop_attack_vs_sop_1"
+        }
+      ],
+      "time_progression": "prog_research_military2_infantry_attack_vs_sop_1_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_troop_attack_vs_sop_1_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_troop_attack_vs_sop_1_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_troop_attack_vs_sop_1_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_troop_attack_vs_sop_1_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_troop_attack_vs_sop_1_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_troop_attack_vs_sop_1_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_troop_attack_vs_sop_1_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_troop_attack_vs_sop_1_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_troop_attack_vs_sop_1_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_TROOP_ATTACK_VS_SOP_1_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_troop_attack_vs_sop_1_Eventscore",
+      "id": "ffacd2a08c38e859",
+      "name": "research_military2_troop_attack_vs_sop_1",
+      "name_placeholder": "RESEARCH_MILITARY2_TROOP_ATTACK_VS_SOP_1_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_troop_attack_vs_sop_1_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_march_size_1"
+        }
+      ],
+      "time_progression": "prog_research_military2_troop_attack_vs_sop_1_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_troop_health_vs_sop_1_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_troop_health_vs_sop_1_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_troop_health_vs_sop_1_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_troop_health_vs_sop_1_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_troop_health_vs_sop_1_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_troop_health_vs_sop_1_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_troop_health_vs_sop_1_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_troop_health_vs_sop_1_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_troop_health_vs_sop_1_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_TROOP_HEALTH_VS_SOP_1_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_troop_health_vs_sop_1_Eventscore",
+      "id": "4fdbe456f3555b1",
+      "name": "research_military2_troop_health_vs_sop_1",
+      "name_placeholder": "RESEARCH_MILITARY2_TROOP_HEALTH_VS_SOP_1_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_troop_health_vs_sop_1_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_troop_attack_vs_sop_1"
+        }
+      ],
+      "time_progression": "prog_research_military2_troop_health_vs_sop_1_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_troop_defense_vs_sop_1_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_troop_defense_vs_sop_1_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_troop_defense_vs_sop_1_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_troop_defense_vs_sop_1_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_troop_defense_vs_sop_1_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_troop_defense_vs_sop_1_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_troop_defense_vs_sop_1_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_troop_defense_vs_sop_1_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_troop_defense_vs_sop_1_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_TROOP_DEFENSE_VS_SOP_1_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_troop_defense_vs_sop_1_Eventscore",
+      "id": "29d0af8022cad9eb",
+      "name": "research_military2_troop_defense_vs_sop_1",
+      "name_placeholder": "RESEARCH_MILITARY2_TROOP_DEFENSE_VS_SOP_1_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_troop_defense_vs_sop_1_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_troop_attack_vs_sop_1"
+        }
+      ],
+      "time_progression": "prog_research_military2_troop_defense_vs_sop_1_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_infantry_health_vs_sop_1_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_infantry_health_vs_sop_1_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_infantry_health_vs_sop_1_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_infantry_health_vs_sop_1_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_infantry_health_vs_sop_1_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_infantry_health_vs_sop_1_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_infantry_health_vs_sop_1_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_infantry_health_vs_sop_1_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_infantry_health_vs_sop_1_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_INFANTRY_HEALTH_VS_SOP_1_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_infantry_health_vs_sop_1_Eventscore",
+      "id": "70d60e343a3f9acc",
+      "name": "research_military2_infantry_health_vs_sop_1",
+      "name_placeholder": "RESEARCH_MILITARY2_INFANTRY_HEALTH_VS_SOP_1_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_infantry_health_vs_sop_1_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_infantry_attack_vs_sop_1"
+        }
+      ],
+      "time_progression": "prog_research_military2_infantry_health_vs_sop_1_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_infantry_defense_vs_sop_1_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_infantry_defense_vs_sop_1_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_infantry_defense_vs_sop_1_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_infantry_defense_vs_sop_1_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_infantry_defense_vs_sop_1_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_infantry_defense_vs_sop_1_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_infantry_defense_vs_sop_1_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_infantry_defense_vs_sop_1_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_infantry_defense_vs_sop_1_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_INFANTRY_DEFENSE_VS_SOP_1_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_infantry_defense_vs_sop_1_Eventscore",
+      "id": "2b234af6cc4522f5",
+      "name": "research_military2_infantry_defense_vs_sop_1",
+      "name_placeholder": "RESEARCH_MILITARY2_INFANTRY_DEFENSE_VS_SOP_1_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_infantry_defense_vs_sop_1_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_infantry_attack_vs_sop_1"
+        }
+      ],
+      "time_progression": "prog_research_military2_infantry_defense_vs_sop_1_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_cavalry_attack_vs_sop_1_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_cavalry_attack_vs_sop_1_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_cavalry_attack_vs_sop_1_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_cavalry_attack_vs_sop_1_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_cavalry_attack_vs_sop_1_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_cavalry_attack_vs_sop_1_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_cavalry_attack_vs_sop_1_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_cavalry_attack_vs_sop_1_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_cavalry_attack_vs_sop_1_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_CAVALRY_ATTACK_VS_SOP_1_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_cavalry_attack_vs_sop_1_Eventscore",
+      "id": "c8c4569cf82f2f2f",
+      "name": "research_military2_cavalry_attack_vs_sop_1",
+      "name_placeholder": "RESEARCH_MILITARY2_CAVALRY_ATTACK_VS_SOP_1_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_cavalry_attack_vs_sop_1_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_infantry_attack_vs_sop_1"
+        }
+      ],
+      "time_progression": "prog_research_military2_cavalry_attack_vs_sop_1_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_cavalry_health_vs_sop_1_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_cavalry_health_vs_sop_1_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_cavalry_health_vs_sop_1_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_cavalry_health_vs_sop_1_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_cavalry_health_vs_sop_1_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_cavalry_health_vs_sop_1_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_cavalry_health_vs_sop_1_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_cavalry_health_vs_sop_1_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_cavalry_health_vs_sop_1_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_CAVALRY_HEALTH_VS_SOP_1_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_cavalry_health_vs_sop_1_Eventscore",
+      "id": "33953a791b2292c7",
+      "name": "research_military2_cavalry_health_vs_sop_1",
+      "name_placeholder": "RESEARCH_MILITARY2_CAVALRY_HEALTH_VS_SOP_1_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_cavalry_health_vs_sop_1_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_cavalry_attack_vs_sop_1"
+        }
+      ],
+      "time_progression": "prog_research_military2_cavalry_health_vs_sop_1_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_cavalry_defense_vs_sop_1_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_cavalry_defense_vs_sop_1_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_cavalry_defense_vs_sop_1_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_cavalry_defense_vs_sop_1_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_cavalry_defense_vs_sop_1_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_cavalry_defense_vs_sop_1_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_cavalry_defense_vs_sop_1_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_cavalry_defense_vs_sop_1_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_cavalry_defense_vs_sop_1_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_CAVALRY_DEFENSE_VS_SOP_1_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_cavalry_defense_vs_sop_1_Eventscore",
+      "id": "bb464a69aba40d08",
+      "name": "research_military2_cavalry_defense_vs_sop_1",
+      "name_placeholder": "RESEARCH_MILITARY2_CAVALRY_DEFENSE_VS_SOP_1_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_cavalry_defense_vs_sop_1_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_cavalry_attack_vs_sop_1"
+        }
+      ],
+      "time_progression": "prog_research_military2_cavalry_defense_vs_sop_1_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_marchsize_vs_sop_1_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_marchsize_vs_sop_1_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_marchsize_vs_sop_1_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_marchsize_vs_sop_1_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_marchsize_vs_sop_1_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_marchsize_vs_sop_1_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_marchsize_vs_sop_1_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_marchsize_vs_sop_1_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_marchsize_vs_sop_1_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_MARCHSIZE_VS_SOP_1_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_marchsize_vs_sop_1_Eventscore",
+      "id": "72016570376dad85",
+      "name": "research_military2_marchsize_vs_sop_1",
+      "name_placeholder": "RESEARCH_MILITARY2_MARCHSIZE_VS_SOP_1_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_marchsize_vs_sop_1_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_ranged_attack_vs_sop_1"
+        }
+      ],
+      "time_progression": "prog_research_military2_marchsize_vs_sop_1_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_marchspeed_vs_sop_1_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_marchspeed_vs_sop_1_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_marchspeed_vs_sop_1_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_marchspeed_vs_sop_1_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_marchspeed_vs_sop_1_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_marchspeed_vs_sop_1_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_marchspeed_vs_sop_1_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_marchspeed_vs_sop_1_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_marchspeed_vs_sop_1_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_MARCHSPEED_VS_SOP_1_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_marchspeed_vs_sop_1_Eventscore",
+      "id": "c8910f3cbd8cd92d",
+      "name": "research_military2_marchspeed_vs_sop_1",
+      "name_placeholder": "RESEARCH_MILITARY2_MARCHSPEED_VS_SOP_1_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_marchspeed_vs_sop_1_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_marchsize_vs_sop_1"
+        }
+      ],
+      "time_progression": "prog_research_military2_marchspeed_vs_sop_1_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_defender_attack_1_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_defender_attack_1_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_defender_attack_1_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_defender_attack_1_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_defender_attack_1_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_defender_attack_1_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_defender_attack_1_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_defender_attack_1_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_defender_attack_1_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_DEFENDER_ATTACK_1_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_defender_attack_1_Eventscore",
+      "id": "5f8aa4a5a1d8ac80",
+      "name": "research_military2_defender_attack_1",
+      "name_placeholder": "RESEARCH_MILITARY2_DEFENDER_ATTACK_1_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_defender_attack_1_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_troop_defense_1"
+        },
+        {
+          "level": 1,
+          "research": "research_military2_troop_health_1"
+        }
+      ],
+      "time_progression": "prog_research_military2_defender_attack_1_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_defender_health_1_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_defender_health_1_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_defender_health_1_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_defender_health_1_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_defender_health_1_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_defender_health_1_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_defender_health_1_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_defender_health_1_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_defender_health_1_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_DEFENDER_HEALTH_1_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_defender_health_1_Eventscore",
+      "id": "67bd93dc04212983",
+      "name": "research_military2_defender_health_1",
+      "name_placeholder": "RESEARCH_MILITARY2_DEFENDER_HEALTH_1_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_defender_health_1_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_defender_attack_1"
+        }
+      ],
+      "time_progression": "prog_research_military2_defender_health_1_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_defender_defense_1_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_defender_defense_1_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_defender_defense_1_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_defender_defense_1_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_defender_defense_1_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_defender_defense_1_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_defender_defense_1_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_defender_defense_1_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_defender_defense_1_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_DEFENDER_DEFENSE_1_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_defender_defense_1_Eventscore",
+      "id": "b21622331575b5a9",
+      "name": "research_military2_defender_defense_1",
+      "name_placeholder": "RESEARCH_MILITARY2_DEFENDER_DEFENSE_1_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_defender_defense_1_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_defender_attack_1"
+        }
+      ],
+      "time_progression": "prog_research_military2_defender_defense_1_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_marchspeed_vs_joinrally_1_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_marchspeed_vs_joinrally_1_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_marchspeed_vs_joinrally_1_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_marchspeed_vs_joinrally_1_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_marchspeed_vs_joinrally_1_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_marchspeed_vs_joinrally_1_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_marchspeed_vs_joinrally_1_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_marchspeed_vs_joinrally_1_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_marchspeed_vs_joinrally_1_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_MARCHSPEED_VS_JOINRALLY_1_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_marchspeed_vs_joinrally_1_Eventscore",
+      "id": "4335bc2df9087dda",
+      "name": "research_military2_marchspeed_vs_joinrally_1",
+      "name_placeholder": "RESEARCH_MILITARY2_MARCHSPEED_VS_JOINRALLY_1_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_marchspeed_vs_joinrally_1_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_marchspeed_vs_sop_1"
+        }
+      ],
+      "time_progression": "prog_research_military2_marchspeed_vs_joinrally_1_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_marcher_troop_attack_vs_player_1_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_marcher_troop_attack_vs_player_1_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_marcher_troop_attack_vs_player_1_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_marcher_troop_attack_vs_player_1_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_marcher_troop_attack_vs_player_1_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_marcher_troop_attack_vs_player_1_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_marcher_troop_attack_vs_player_1_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_marcher_troop_attack_vs_player_1_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_marcher_troop_attack_vs_player_1_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_MARCHER_TROOP_ATTACK_VS_PLAYER_1_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_marcher_troop_attack_vs_player_1_Eventscore",
+      "id": "3b2e025951264822",
+      "name": "research_military2_marcher_troop_attack_vs_player_1",
+      "name_placeholder": "RESEARCH_MILITARY2_MARCHER_TROOP_ATTACK_VS_PLAYER_1_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_marcher_troop_attack_vs_player_1_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_siege_defense_1"
+        },
+        {
+          "level": 1,
+          "research": "research_military2_siege_health_1"
+        }
+      ],
+      "time_progression": "prog_research_military2_marcher_troop_attack_vs_player_1_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_marcher_troop_health_vs_player_1_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_marcher_troop_health_vs_player_1_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_marcher_troop_health_vs_player_1_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_marcher_troop_health_vs_player_1_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_marcher_troop_health_vs_player_1_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_marcher_troop_health_vs_player_1_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_marcher_troop_health_vs_player_1_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_marcher_troop_health_vs_player_1_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_marcher_troop_health_vs_player_1_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_MARCHER_TROOP_HEALTH_VS_PLAYER_1_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_marcher_troop_health_vs_player_1_Eventscore",
+      "id": "67f14e60ed2eb5f7",
+      "name": "research_military2_marcher_troop_health_vs_player_1",
+      "name_placeholder": "RESEARCH_MILITARY2_MARCHER_TROOP_HEALTH_VS_PLAYER_1_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_marcher_troop_health_vs_player_1_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_marcher_troop_attack_vs_player_1"
+        }
+      ],
+      "time_progression": "prog_research_military2_marcher_troop_health_vs_player_1_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_marcher_troop_defense_vs_player_1_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_marcher_troop_defense_vs_player_1_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_marcher_troop_defense_vs_player_1_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_marcher_troop_defense_vs_player_1_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_marcher_troop_defense_vs_player_1_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_marcher_troop_defense_vs_player_1_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_marcher_troop_defense_vs_player_1_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_marcher_troop_defense_vs_player_1_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_marcher_troop_defense_vs_player_1_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_MARCHER_TROOP_DEFENSE_VS_PLAYER_1_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_marcher_troop_defense_vs_player_1_Eventscore",
+      "id": "1b8ae426825825ec",
+      "name": "research_military2_marcher_troop_defense_vs_player_1",
+      "name_placeholder": "RESEARCH_MILITARY2_MARCHER_TROOP_DEFENSE_VS_PLAYER_1_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_marcher_troop_defense_vs_player_1_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_marcher_troop_attack_vs_player_1"
+        }
+      ],
+      "time_progression": "prog_research_military2_marcher_troop_defense_vs_player_1_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_troop_defense_2_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_troop_defense_2_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_troop_defense_2_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_troop_defense_2_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_troop_defense_2_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_troop_defense_2_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_troop_defense_2_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_troop_defense_2_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_troop_defense_2_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_TROOP_DEFENSE_2_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_troop_defense_2_Eventscore",
+      "id": "7099fe0a876cfbe9",
+      "name": "research_military2_troop_defense_2",
+      "name_placeholder": "RESEARCH_MILITARY2_TROOP_DEFENSE_2_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_troop_defense_2_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_troop_attack_2"
+        }
+      ],
+      "time_progression": "prog_research_military2_troop_defense_2_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_troop_attack_2_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_troop_attack_2_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_troop_attack_2_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_troop_attack_2_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_troop_attack_2_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_troop_attack_2_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_troop_attack_2_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_troop_attack_2_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_troop_attack_2_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_TROOP_ATTACK_2_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_troop_attack_2_Eventscore",
+      "id": "fd117f92259a155b",
+      "name": "research_military2_troop_attack_2",
+      "name_placeholder": "RESEARCH_MILITARY2_TROOP_ATTACK_2_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_troop_attack_2_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_marchspeed_vs_sop_1"
+        }
+      ],
+      "time_progression": "prog_research_military2_troop_attack_2_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_troop_health_2_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_troop_health_2_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_troop_health_2_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_troop_health_2_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_troop_health_2_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_troop_health_2_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_troop_health_2_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_troop_health_2_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_troop_health_2_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_TROOP_HEALTH_2_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_troop_health_2_Eventscore",
+      "id": "c52648eb80639058",
+      "name": "research_military2_troop_health_2",
+      "name_placeholder": "RESEARCH_MILITARY2_TROOP_HEALTH_2_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_troop_health_2_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_troop_attack_2"
+        }
+      ],
+      "time_progression": "prog_research_military2_troop_health_2_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_defender_attack_2_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_defender_attack_2_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_defender_attack_2_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_defender_attack_2_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_defender_attack_2_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_defender_attack_2_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_defender_attack_2_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_defender_attack_2_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_defender_attack_2_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_DEFENDER_ATTACK_2_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_defender_attack_2_Eventscore",
+      "id": "2a98f84e782d5e8e",
+      "name": "research_military2_defender_attack_2",
+      "name_placeholder": "RESEARCH_MILITARY2_DEFENDER_ATTACK_2_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_defender_attack_2_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_troop_defense_2"
+        },
+        {
+          "level": 1,
+          "research": "research_military2_troop_health_2"
+        }
+      ],
+      "time_progression": "prog_research_military2_defender_attack_2_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_defender_defense_2_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_defender_defense_2_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_defender_defense_2_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_defender_defense_2_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_defender_defense_2_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_defender_defense_2_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_defender_defense_2_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_defender_defense_2_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_defender_defense_2_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_DEFENDER_DEFENSE_2_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_defender_defense_2_Eventscore",
+      "id": "c7047ed8cc8047a7",
+      "name": "research_military2_defender_defense_2",
+      "name_placeholder": "RESEARCH_MILITARY2_DEFENDER_DEFENSE_2_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_defender_defense_2_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_defender_attack_2"
+        }
+      ],
+      "time_progression": "prog_research_military2_defender_defense_2_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_infantry_attack_2_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_infantry_attack_2_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_infantry_attack_2_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_infantry_attack_2_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_infantry_attack_2_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_infantry_attack_2_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_infantry_attack_2_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_infantry_attack_2_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_infantry_attack_2_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_INFANTRY_ATTACK_2_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_infantry_attack_2_Eventscore",
+      "id": "3d4007e3c1493bc4",
+      "name": "research_military2_infantry_attack_2",
+      "name_placeholder": "RESEARCH_MILITARY2_INFANTRY_ATTACK_2_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_infantry_attack_2_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_defender_defense_2"
+        },
+        {
+          "level": 1,
+          "research": "research_military2_defender_health_2"
+        }
+      ],
+      "time_progression": "prog_research_military2_infantry_attack_2_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_defender_health_2_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_defender_health_2_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_defender_health_2_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_defender_health_2_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_defender_health_2_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_defender_health_2_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_defender_health_2_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_defender_health_2_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_defender_health_2_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_DEFENDER_HEALTH_2_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_defender_health_2_Eventscore",
+      "id": "12afcf37ddd4db8d",
+      "name": "research_military2_defender_health_2",
+      "name_placeholder": "RESEARCH_MILITARY2_DEFENDER_HEALTH_2_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_defender_health_2_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_defender_attack_2"
+        }
+      ],
+      "time_progression": "prog_research_military2_defender_health_2_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_infantry_defense_2_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_infantry_defense_2_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_infantry_defense_2_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_infantry_defense_2_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_infantry_defense_2_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_infantry_defense_2_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_infantry_defense_2_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_infantry_defense_2_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_infantry_defense_2_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_INFANTRY_DEFENSE_2_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_infantry_defense_2_Eventscore",
+      "id": "da379f8d0a163492",
+      "name": "research_military2_infantry_defense_2",
+      "name_placeholder": "RESEARCH_MILITARY2_INFANTRY_DEFENSE_2_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_infantry_defense_2_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_infantry_attack_2"
+        }
+      ],
+      "time_progression": "prog_research_military2_infantry_defense_2_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_infantry_health_2_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_infantry_health_2_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_infantry_health_2_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_infantry_health_2_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_infantry_health_2_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_infantry_health_2_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_infantry_health_2_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_infantry_health_2_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_infantry_health_2_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_INFANTRY_HEALTH_2_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_infantry_health_2_Eventscore",
+      "id": "577309a64b0bec7",
+      "name": "research_military2_infantry_health_2",
+      "name_placeholder": "RESEARCH_MILITARY2_INFANTRY_HEALTH_2_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_infantry_health_2_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_infantry_attack_2"
+        }
+      ],
+      "time_progression": "prog_research_military2_infantry_health_2_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_cavalry_attack_2_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_cavalry_attack_2_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_cavalry_attack_2_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_cavalry_attack_2_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_cavalry_attack_2_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_cavalry_attack_2_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_cavalry_attack_2_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_cavalry_attack_2_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_cavalry_attack_2_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_CAVALRY_ATTACK_2_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_cavalry_attack_2_Eventscore",
+      "id": "e16621a40b288538",
+      "name": "research_military2_cavalry_attack_2",
+      "name_placeholder": "RESEARCH_MILITARY2_CAVALRY_ATTACK_2_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_cavalry_attack_2_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_infantry_defense_2"
+        },
+        {
+          "level": 1,
+          "research": "research_military2_infantry_health_2"
+        }
+      ],
+      "time_progression": "prog_research_military2_cavalry_attack_2_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_cavalry_defense_2_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_cavalry_defense_2_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_cavalry_defense_2_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_cavalry_defense_2_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_cavalry_defense_2_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_cavalry_defense_2_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_cavalry_defense_2_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_cavalry_defense_2_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_cavalry_defense_2_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_CAVALRY_DEFENSE_2_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_cavalry_defense_2_Eventscore",
+      "id": "35c09df1c1825292",
+      "name": "research_military2_cavalry_defense_2",
+      "name_placeholder": "RESEARCH_MILITARY2_CAVALRY_DEFENSE_2_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_cavalry_defense_2_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_cavalry_attack_2"
+        }
+      ],
+      "time_progression": "prog_research_military2_cavalry_defense_2_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_cavalry_health_2_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_cavalry_health_2_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_cavalry_health_2_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_cavalry_health_2_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_cavalry_health_2_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_cavalry_health_2_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_cavalry_health_2_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_cavalry_health_2_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_cavalry_health_2_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_CAVALRY_HEALTH_2_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_cavalry_health_2_Eventscore",
+      "id": "d95116ddaed1003b",
+      "name": "research_military2_cavalry_health_2",
+      "name_placeholder": "RESEARCH_MILITARY2_CAVALRY_HEALTH_2_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_cavalry_health_2_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_cavalry_attack_2"
+        }
+      ],
+      "time_progression": "prog_research_military2_cavalry_health_2_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_range_attack_2_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_range_attack_2_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_range_attack_2_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_range_attack_2_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_range_attack_2_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_range_attack_2_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_range_attack_2_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_range_attack_2_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_range_attack_2_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_RANGE_ATTACK_2_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_range_attack_2_Eventscore",
+      "id": "2c1ac62188d2da01",
+      "name": "research_military2_range_attack_2",
+      "name_placeholder": "RESEARCH_MILITARY2_RANGE_ATTACK_2_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_range_attack_2_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_cavalry_defense_2"
+        },
+        {
+          "level": 1,
+          "research": "research_military2_cavalry_health_2"
+        }
+      ],
+      "time_progression": "prog_research_military2_range_attack_2_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_range_defense_2_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_range_defense_2_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_range_defense_2_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_range_defense_2_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_range_defense_2_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_range_defense_2_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_range_defense_2_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_range_defense_2_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_range_defense_2_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_RANGE_DEFENSE_2_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_range_defense_2_Eventscore",
+      "id": "25beb0edf02a6aab",
+      "name": "research_military2_range_defense_2",
+      "name_placeholder": "RESEARCH_MILITARY2_RANGE_DEFENSE_2_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_range_defense_2_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_range_attack_2"
+        }
+      ],
+      "time_progression": "prog_research_military2_range_defense_2_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_range_health_2_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_range_health_2_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_range_health_2_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_range_health_2_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_range_health_2_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_range_health_2_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_range_health_2_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_range_health_2_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_range_health_2_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_RANGE_HEALTH_2_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_range_health_2_Eventscore",
+      "id": "142df1582d2b5f02",
+      "name": "research_military2_range_health_2",
+      "name_placeholder": "RESEARCH_MILITARY2_RANGE_HEALTH_2_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_range_health_2_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_range_attack_2"
+        }
+      ],
+      "time_progression": "prog_research_military2_range_health_2_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_siege_attack_2_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_siege_attack_2_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_siege_attack_2_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_siege_attack_2_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_siege_attack_2_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_siege_attack_2_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_siege_attack_2_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_siege_attack_2_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_siege_attack_2_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_SIEGE_ATTACK_2_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_siege_attack_2_Eventscore",
+      "id": "48947b0db32bdc7f",
+      "name": "research_military2_siege_attack_2",
+      "name_placeholder": "RESEARCH_MILITARY2_SIEGE_ATTACK_2_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_siege_attack_2_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_range_defense_2"
+        },
+        {
+          "level": 1,
+          "research": "research_military2_range_health_2"
+        }
+      ],
+      "time_progression": "prog_research_military2_siege_attack_2_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_siege_defense_2_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_siege_defense_2_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_siege_defense_2_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_siege_defense_2_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_siege_defense_2_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_siege_defense_2_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_siege_defense_2_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_siege_defense_2_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_siege_defense_2_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_SIEGE_DEFENSE_2_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_siege_defense_2_Eventscore",
+      "id": "524fac7d9a3e9072",
+      "name": "research_military2_siege_defense_2",
+      "name_placeholder": "RESEARCH_MILITARY2_SIEGE_DEFENSE_2_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_siege_defense_2_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_siege_attack_2"
+        }
+      ],
+      "time_progression": "prog_research_military2_siege_defense_2_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_siege_health_2_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_siege_health_2_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_siege_health_2_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_siege_health_2_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_siege_health_2_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_siege_health_2_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_siege_health_2_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_siege_health_2_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_siege_health_2_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_SIEGE_HEALTH_2_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_siege_health_2_Eventscore",
+      "id": "70a34c7416d2597c",
+      "name": "research_military2_siege_health_2",
+      "name_placeholder": "RESEARCH_MILITARY2_SIEGE_HEALTH_2_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_siege_health_2_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_siege_attack_2"
+        }
+      ],
+      "time_progression": "prog_research_military2_siege_health_2_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_marcher_troop_attack_vs_player_2_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_marcher_troop_attack_vs_player_2_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_marcher_troop_attack_vs_player_2_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_marcher_troop_attack_vs_player_2_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_marcher_troop_attack_vs_player_2_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_marcher_troop_attack_vs_player_2_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_marcher_troop_attack_vs_player_2_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_marcher_troop_attack_vs_player_2_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_marcher_troop_attack_vs_player_2_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_MARCHER_TROOP_ATTACK_VS_PLAYER_2_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_marcher_troop_attack_vs_player_2_Eventscore",
+      "id": "4e3c5eb288d3ba2c",
+      "name": "research_military2_marcher_troop_attack_vs_player_2",
+      "name_placeholder": "RESEARCH_MILITARY2_MARCHER_TROOP_ATTACK_VS_PLAYER_2_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_marcher_troop_attack_vs_player_2_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_siege_defense_2"
+        },
+        {
+          "level": 1,
+          "research": "research_military2_siege_health_2"
+        }
+      ],
+      "time_progression": "prog_research_military2_marcher_troop_attack_vs_player_2_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_marcher_troop_defense_vs_player_2_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_marcher_troop_defense_vs_player_2_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_marcher_troop_defense_vs_player_2_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_marcher_troop_defense_vs_player_2_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_marcher_troop_defense_vs_player_2_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_marcher_troop_defense_vs_player_2_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_marcher_troop_defense_vs_player_2_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_marcher_troop_defense_vs_player_2_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_marcher_troop_defense_vs_player_2_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_MARCHER_TROOP_DEFENSE_VS_PLAYER_2_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_marcher_troop_defense_vs_player_2_Eventscore",
+      "id": "6e98b8cd5badd7e2",
+      "name": "research_military2_marcher_troop_defense_vs_player_2",
+      "name_placeholder": "RESEARCH_MILITARY2_MARCHER_TROOP_DEFENSE_VS_PLAYER_2_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_marcher_troop_defense_vs_player_2_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_marcher_troop_attack_vs_player_2"
+        }
+      ],
+      "time_progression": "prog_research_military2_marcher_troop_defense_vs_player_2_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_marcher_troop_health_vs_player_2_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_marcher_troop_health_vs_player_2_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_marcher_troop_health_vs_player_2_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_marcher_troop_health_vs_player_2_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_marcher_troop_health_vs_player_2_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_marcher_troop_health_vs_player_2_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_marcher_troop_health_vs_player_2_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_marcher_troop_health_vs_player_2_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_marcher_troop_health_vs_player_2_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_MARCHER_TROOP_HEALTH_VS_PLAYER_2_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_marcher_troop_health_vs_player_2_Eventscore",
+      "id": "12e3128b34db47f9",
+      "name": "research_military2_marcher_troop_health_vs_player_2",
+      "name_placeholder": "RESEARCH_MILITARY2_MARCHER_TROOP_HEALTH_VS_PLAYER_2_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_marcher_troop_health_vs_player_2_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_marcher_troop_attack_vs_player_2"
+        }
+      ],
+      "time_progression": "prog_research_military2_marcher_troop_health_vs_player_2_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_training_speed_2_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_training_speed_2_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_training_speed_2_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_training_speed_2_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_training_speed_2_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_training_speed_2_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_training_speed_2_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_training_speed_2_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_training_speed_2_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_TRAINING_SPEED_2_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_training_speed_2_Eventscore",
+      "id": "cb07c994d9d9f83c",
+      "name": "research_military2_training_speed_2",
+      "name_placeholder": "RESEARCH_MILITARY2_TRAINING_SPEED_2_NAME",
+      "num_levels": 3,
+      "power_progression": "prog_research_military2_training_speed_2_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_marcher_troop_defense_vs_player_2"
+        },
+        {
+          "level": 1,
+          "research": "research_military2_marcher_troop_health_vs_player_2"
+        }
+      ],
+      "time_progression": "prog_research_military2_training_speed_2_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_march_size_2_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_march_size_2_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_march_size_2_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_march_size_2_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_march_size_2_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_march_size_2_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_march_size_2_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_march_size_2_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_march_size_2_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_MARCH_SIZE_2_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_march_size_2_Eventscore",
+      "id": "d446d971b4c31388",
+      "name": "research_military2_march_size_2",
+      "name_placeholder": "RESEARCH_MILITARY2_MARCH_SIZE_2_NAME",
+      "num_levels": 4,
+      "power_progression": "prog_research_military2_march_size_2_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_training_speed_2"
+        }
+      ],
+      "time_progression": "prog_research_military2_march_size_2_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_troop_attack_vs_sop_2_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_troop_attack_vs_sop_2_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_troop_attack_vs_sop_2_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_troop_attack_vs_sop_2_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_troop_attack_vs_sop_2_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_troop_attack_vs_sop_2_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_troop_attack_vs_sop_2_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_troop_attack_vs_sop_2_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_troop_attack_vs_sop_2_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_TROOP_ATTACK_VS_SOP_2_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_troop_attack_vs_sop_2_Eventscore",
+      "id": "8abe8e4b55cd1a57",
+      "name": "research_military2_troop_attack_vs_sop_2",
+      "name_placeholder": "RESEARCH_MILITARY2_TROOP_ATTACK_VS_SOP_2_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_troop_attack_vs_sop_2_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_march_size_2"
+        }
+      ],
+      "time_progression": "prog_research_military2_troop_attack_vs_sop_2_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_troop_defense_vs_sop_2_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_troop_defense_vs_sop_2_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_troop_defense_vs_sop_2_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_troop_defense_vs_sop_2_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_troop_defense_vs_sop_2_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_troop_defense_vs_sop_2_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_troop_defense_vs_sop_2_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_troop_defense_vs_sop_2_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_troop_defense_vs_sop_2_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_TROOP_DEFENSE_VS_SOP_2_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_troop_defense_vs_sop_2_Eventscore",
+      "id": "5cc2f36bfb3f2be5",
+      "name": "research_military2_troop_defense_vs_sop_2",
+      "name_placeholder": "RESEARCH_MILITARY2_TROOP_DEFENSE_VS_SOP_2_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_troop_defense_vs_sop_2_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_troop_attack_vs_sop_2"
+        }
+      ],
+      "time_progression": "prog_research_military2_troop_defense_vs_sop_2_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_troop_health_vs_sop_2_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_troop_health_vs_sop_2_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_troop_health_vs_sop_2_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_troop_health_vs_sop_2_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_troop_health_vs_sop_2_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_troop_health_vs_sop_2_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_troop_health_vs_sop_2_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_troop_health_vs_sop_2_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_troop_health_vs_sop_2_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_TROOP_HEALTH_VS_SOP_2_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_troop_health_vs_sop_2_Eventscore",
+      "id": "71efe2aeb6c0a7bf",
+      "name": "research_military2_troop_health_vs_sop_2",
+      "name_placeholder": "RESEARCH_MILITARY2_TROOP_HEALTH_VS_SOP_2_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_troop_health_vs_sop_2_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_troop_attack_vs_sop_2"
+        }
+      ],
+      "time_progression": "prog_research_military2_troop_health_vs_sop_2_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_infantry_defense_vs_sop_2_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_infantry_defense_vs_sop_2_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_infantry_defense_vs_sop_2_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_infantry_defense_vs_sop_2_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_infantry_defense_vs_sop_2_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_infantry_defense_vs_sop_2_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_infantry_defense_vs_sop_2_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_infantry_defense_vs_sop_2_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_infantry_defense_vs_sop_2_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_INFANTRY_DEFENSE_VS_SOP_2_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_infantry_defense_vs_sop_2_Eventscore",
+      "id": "5e31161d15b0d0fb",
+      "name": "research_military2_infantry_defense_vs_sop_2",
+      "name_placeholder": "RESEARCH_MILITARY2_INFANTRY_DEFENSE_VS_SOP_2_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_infantry_defense_vs_sop_2_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_infantry_attack_vs_sop_2"
+        }
+      ],
+      "time_progression": "prog_research_military2_infantry_defense_vs_sop_2_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_infantry_attack_vs_sop_2_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_infantry_attack_vs_sop_2_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_infantry_attack_vs_sop_2_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_infantry_attack_vs_sop_2_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_infantry_attack_vs_sop_2_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_infantry_attack_vs_sop_2_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_infantry_attack_vs_sop_2_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_infantry_attack_vs_sop_2_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_infantry_attack_vs_sop_2_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_INFANTRY_ATTACK_VS_SOP_2_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_infantry_attack_vs_sop_2_Eventscore",
+      "id": "fe953e3a00c7d52a",
+      "name": "research_military2_infantry_attack_vs_sop_2",
+      "name_placeholder": "RESEARCH_MILITARY2_INFANTRY_ATTACK_VS_SOP_2_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_infantry_attack_vs_sop_2_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_troop_attack_vs_sop_2"
+        }
+      ],
+      "time_progression": "prog_research_military2_infantry_attack_vs_sop_2_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_infantry_health_vs_sop_2_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_infantry_health_vs_sop_2_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_infantry_health_vs_sop_2_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_infantry_health_vs_sop_2_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_infantry_health_vs_sop_2_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_infantry_health_vs_sop_2_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_infantry_health_vs_sop_2_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_infantry_health_vs_sop_2_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_infantry_health_vs_sop_2_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_INFANTRY_HEALTH_VS_SOP_2_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_infantry_health_vs_sop_2_Eventscore",
+      "id": "5c452dfe3ca68c2",
+      "name": "research_military2_infantry_health_vs_sop_2",
+      "name_placeholder": "RESEARCH_MILITARY2_INFANTRY_HEALTH_VS_SOP_2_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_infantry_health_vs_sop_2_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_infantry_attack_vs_sop_2"
+        }
+      ],
+      "time_progression": "prog_research_military2_infantry_health_vs_sop_2_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_cavalry_defense_vs_sop_2_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_cavalry_defense_vs_sop_2_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_cavalry_defense_vs_sop_2_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_cavalry_defense_vs_sop_2_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_cavalry_defense_vs_sop_2_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_cavalry_defense_vs_sop_2_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_cavalry_defense_vs_sop_2_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_cavalry_defense_vs_sop_2_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_cavalry_defense_vs_sop_2_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_CAVALRY_DEFENSE_VS_SOP_2_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_cavalry_defense_vs_sop_2_Eventscore",
+      "id": "ce5416827251ff06",
+      "name": "research_military2_cavalry_defense_vs_sop_2",
+      "name_placeholder": "RESEARCH_MILITARY2_CAVALRY_DEFENSE_VS_SOP_2_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_cavalry_defense_vs_sop_2_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_cavalry_attack_vs_sop_2"
+        }
+      ],
+      "time_progression": "prog_research_military2_cavalry_defense_vs_sop_2_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_cavalry_attack_vs_sop_2_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_cavalry_attack_vs_sop_2_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_cavalry_attack_vs_sop_2_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_cavalry_attack_vs_sop_2_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_cavalry_attack_vs_sop_2_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_cavalry_attack_vs_sop_2_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_cavalry_attack_vs_sop_2_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_cavalry_attack_vs_sop_2_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_cavalry_attack_vs_sop_2_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_CAVALRY_ATTACK_VS_SOP_2_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_cavalry_attack_vs_sop_2_Eventscore",
+      "id": "bdd60a7721dadd21",
+      "name": "research_military2_cavalry_attack_vs_sop_2",
+      "name_placeholder": "RESEARCH_MILITARY2_CAVALRY_ATTACK_VS_SOP_2_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_cavalry_attack_vs_sop_2_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_infantry_attack_vs_sop_2"
+        }
+      ],
+      "time_progression": "prog_research_military2_cavalry_attack_vs_sop_2_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_cavalry_health_vs_sop_2_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_cavalry_health_vs_sop_2_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_cavalry_health_vs_sop_2_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_cavalry_health_vs_sop_2_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_cavalry_health_vs_sop_2_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_cavalry_health_vs_sop_2_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_cavalry_health_vs_sop_2_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_cavalry_health_vs_sop_2_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_cavalry_health_vs_sop_2_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_CAVALRY_HEALTH_VS_SOP_2_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_cavalry_health_vs_sop_2_Eventscore",
+      "id": "46876692c2d760c9",
+      "name": "research_military2_cavalry_health_vs_sop_2",
+      "name_placeholder": "RESEARCH_MILITARY2_CAVALRY_HEALTH_VS_SOP_2_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_cavalry_health_vs_sop_2_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_cavalry_attack_vs_sop_2"
+        }
+      ],
+      "time_progression": "prog_research_military2_cavalry_health_vs_sop_2_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_marchsize_vs_sop_2_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_marchsize_vs_sop_2_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_marchsize_vs_sop_2_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_marchsize_vs_sop_2_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_marchsize_vs_sop_2_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_marchsize_vs_sop_2_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_marchsize_vs_sop_2_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_marchsize_vs_sop_2_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_marchsize_vs_sop_2_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_MARCHSIZE_VS_SOP_2_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_marchsize_vs_sop_2_Eventscore",
+      "id": "713399bee985f8b",
+      "name": "research_military2_marchsize_vs_sop_2",
+      "name_placeholder": "RESEARCH_MILITARY2_MARCHSIZE_VS_SOP_2_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_marchsize_vs_sop_2_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_ranged_attack_vs_sop_2"
+        }
+      ],
+      "time_progression": "prog_research_military2_marchsize_vs_sop_2_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_marchspeed_vs_sop_2_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_marchspeed_vs_sop_2_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_marchspeed_vs_sop_2_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_marchspeed_vs_sop_2_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_marchspeed_vs_sop_2_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_marchspeed_vs_sop_2_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_marchspeed_vs_sop_2_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_marchspeed_vs_sop_2_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_marchspeed_vs_sop_2_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_MARCHSPEED_VS_SOP_2_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_marchspeed_vs_sop_2_Eventscore",
+      "id": "bd8353d764792b23",
+      "name": "research_military2_marchspeed_vs_sop_2",
+      "name_placeholder": "RESEARCH_MILITARY2_MARCHSPEED_VS_SOP_2_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_marchspeed_vs_sop_2_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_marchsize_vs_sop_2"
+        }
+      ],
+      "time_progression": "prog_research_military2_marchspeed_vs_sop_2_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_marchspeed_vs_joinrally_2_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_marchspeed_vs_joinrally_2_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_marchspeed_vs_joinrally_2_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_marchspeed_vs_joinrally_2_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_marchspeed_vs_joinrally_2_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_marchspeed_vs_joinrally_2_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_marchspeed_vs_joinrally_2_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_marchspeed_vs_joinrally_2_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_marchspeed_vs_joinrally_2_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_MARCHSPEED_VS_JOINRALLY_2_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_marchspeed_vs_joinrally_2_Eventscore",
+      "id": "3627e0c620fd8fd4",
+      "name": "research_military2_marchspeed_vs_joinrally_2",
+      "name_placeholder": "RESEARCH_MILITARY2_MARCHSPEED_VS_JOINRALLY_2_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_marchspeed_vs_joinrally_2_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_marchspeed_vs_sop_2"
+        }
+      ],
+      "time_progression": "prog_research_military2_marchspeed_vs_joinrally_2_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_ranged_defense_vs_sop_1_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_ranged_defense_vs_sop_1_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_ranged_defense_vs_sop_1_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_ranged_defense_vs_sop_1_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_ranged_defense_vs_sop_1_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_ranged_defense_vs_sop_1_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_ranged_defense_vs_sop_1_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_ranged_defense_vs_sop_1_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_ranged_defense_vs_sop_1_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_RANGED_DEFENSE_VS_SOP_1_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_ranged_defense_vs_sop_1_Eventscore",
+      "id": "71ae4f76196e57b9",
+      "name": "research_military2_ranged_defense_vs_sop_1",
+      "name_placeholder": "RESEARCH_MILITARY2_RANGED_DEFENSE_VS_SOP_1_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_ranged_defense_vs_sop_1_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_ranged_attack_vs_sop_1"
+        }
+      ],
+      "time_progression": "prog_research_military2_ranged_defense_vs_sop_1_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_ranged_attack_vs_sop_1_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_ranged_attack_vs_sop_1_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_ranged_attack_vs_sop_1_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_ranged_attack_vs_sop_1_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_ranged_attack_vs_sop_1_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_ranged_attack_vs_sop_1_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_ranged_attack_vs_sop_1_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_ranged_attack_vs_sop_1_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_ranged_attack_vs_sop_1_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_RANGED_ATTACK_VS_SOP_1_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_ranged_attack_vs_sop_1_Eventscore",
+      "id": "e0612b80c7ba0170",
+      "name": "research_military2_ranged_attack_vs_sop_1",
+      "name_placeholder": "RESEARCH_MILITARY2_RANGED_ATTACK_VS_SOP_1_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_ranged_attack_vs_sop_1_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_cavalry_attack_vs_sop_1"
+        }
+      ],
+      "time_progression": "prog_research_military2_ranged_attack_vs_sop_1_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_ranged_health_vs_sop_1_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_ranged_health_vs_sop_1_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_ranged_health_vs_sop_1_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_ranged_health_vs_sop_1_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_ranged_health_vs_sop_1_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_ranged_health_vs_sop_1_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_ranged_health_vs_sop_1_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_ranged_health_vs_sop_1_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_ranged_health_vs_sop_1_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_RANGED_HEALTH_VS_SOP_1_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_ranged_health_vs_sop_1_Eventscore",
+      "id": "1b30476524b7bc98",
+      "name": "research_military2_ranged_health_vs_sop_1",
+      "name_placeholder": "RESEARCH_MILITARY2_RANGED_HEALTH_VS_SOP_1_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_ranged_health_vs_sop_1_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_ranged_attack_vs_sop_1"
+        }
+      ],
+      "time_progression": "prog_research_military2_ranged_health_vs_sop_1_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_ranged_defense_vs_sop_2_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_ranged_defense_vs_sop_2_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_ranged_defense_vs_sop_2_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_ranged_defense_vs_sop_2_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_ranged_defense_vs_sop_2_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_ranged_defense_vs_sop_2_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_ranged_defense_vs_sop_2_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_ranged_defense_vs_sop_2_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_ranged_defense_vs_sop_2_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_RANGED_DEFENSE_VS_SOP_2_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_ranged_defense_vs_sop_2_Eventscore",
+      "id": "4bc139dc09ba5b7",
+      "name": "research_military2_ranged_defense_vs_sop_2",
+      "name_placeholder": "RESEARCH_MILITARY2_RANGED_DEFENSE_VS_SOP_2_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_ranged_defense_vs_sop_2_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_ranged_attack_vs_sop_2"
+        }
+      ],
+      "time_progression": "prog_research_military2_ranged_defense_vs_sop_2_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_ranged_attack_vs_sop_2_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_ranged_attack_vs_sop_2_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_ranged_attack_vs_sop_2_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_ranged_attack_vs_sop_2_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_ranged_attack_vs_sop_2_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_ranged_attack_vs_sop_2_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_ranged_attack_vs_sop_2_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_ranged_attack_vs_sop_2_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_ranged_attack_vs_sop_2_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_RANGED_ATTACK_VS_SOP_2_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_ranged_attack_vs_sop_2_Eventscore",
+      "id": "9573776b1e4ff37e",
+      "name": "research_military2_ranged_attack_vs_sop_2",
+      "name_placeholder": "RESEARCH_MILITARY2_RANGED_ATTACK_VS_SOP_2_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_ranged_attack_vs_sop_2_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_cavalry_attack_vs_sop_2"
+        }
+      ],
+      "time_progression": "prog_research_military2_ranged_attack_vs_sop_2_Time"
+    },
+    {
+      "building_level_progression": "prog_research_military2_ranged_health_vs_sop_2_Power",
+      "category": "cat_research_military2",
+      "costs": [
+        {
+          "item_name": "curr_food",
+          "progression": "prog_research_military2_ranged_health_vs_sop_2_curr_food"
+        },
+        {
+          "item_name": "curr_wood",
+          "progression": "prog_research_military2_ranged_health_vs_sop_2_curr_wood"
+        },
+        {
+          "item_name": "curr_stone",
+          "progression": "prog_research_military2_ranged_health_vs_sop_2_curr_stone"
+        },
+        {
+          "item_name": "curr_iron",
+          "progression": "prog_research_military2_ranged_health_vs_sop_2_curr_iron"
+        },
+        {
+          "item_name": "item_buildreq_scholarly_fragment_1",
+          "progression": "prog_research_military2_ranged_health_vs_sop_2_item_buildreq_scholarly_fragment_1"
+        },
+        {
+          "item_name": "item_buildreq_pale_steel_1",
+          "progression": "prog_research_military2_ranged_health_vs_sop_2_item_buildreq_pale_steel_1"
+        },
+        {
+          "item_name": "item_buildreq_red_gold_1",
+          "progression": "prog_research_military2_ranged_health_vs_sop_2_item_buildreq_red_gold_1"
+        },
+        {
+          "item_name": "item_buildreq_levelcap_1",
+          "progression": "prog_research_military2_ranged_health_vs_sop_2_item_buildreq_levelcap_1"
+        }
+      ],
+      "description_placeholder": "RESEARCH_MILITARY2_RANGED_HEALTH_VS_SOP_2_DESCRIPTION",
+      "event_score_progression": "prog_research_military2_ranged_health_vs_sop_2_Eventscore",
+      "id": "6e221b8efd424e96",
+      "name": "research_military2_ranged_health_vs_sop_2",
+      "name_placeholder": "RESEARCH_MILITARY2_RANGED_HEALTH_VS_SOP_2_NAME",
+      "num_levels": 5,
+      "power_progression": "prog_research_military2_ranged_health_vs_sop_2_Power",
+      "requirements": [
+        {
+          "level": 1,
+          "research": "research_military2_ranged_attack_vs_sop_2"
+        }
+      ],
+      "time_progression": "prog_research_military2_ranged_health_vs_sop_2_Time"
+    }
+  ]
+}

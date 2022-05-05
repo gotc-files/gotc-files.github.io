@@ -5,6 +5,9 @@ from files.armory_collections.armory_collections import \
 from files.armory_gears.armory_gears import ArmoryGearsProcessor
 from files.armory_stat_progressions.armory_stat_progressions import \
     ArmoryStatProgressionsProcessor
+from files.buildings.buildings import BuildingsProcessor
+from files.event_scoring_progressions.event_scoring_progressions import \
+    EventScoringProgressionsProcessor
 from files.gear_set_progressions.gear_set_progressions import \
     GearSetProgressionsProcessor
 from files.gear_sets.gear_sets import GearSetsProcessor
@@ -23,16 +26,15 @@ from files.hero_skill_progressions.hero_skill_progressions import \
 from files.hero_skills.hero_skills import HeroSkillsProcessor
 from files.heroes.heroes import HeroesProcessor
 from files.items.items import ItemsProcessor
+from files.progressions.progressions import ProgressionsProcessor
 from files.properties.properties import PropertiesProcessor
+from files.recurring_rewards.recurring_rewards import RecurringRewardsProcessor
+from files.researches.researches import ResearchesProcessor
+from files.stat_sets.stat_sets import StatSetsProcessor
 from files.summon_odds.summon_odds import SummonOddsProcessor
 from files.summons.summons import SummonsProcessor
 from files.translations.translations import TranslationsProcessor
 from files.trinket_gear_sets.trinket_gear_sets import TrinketGearSetsProcessor
-from files.recurring_rewards.recurring_rewards import RecurringRewardsProcessor
-from files.buildings.buildings import BuildingsProcessor
-from files.event_scoring_progressions.event_scoring_progressions import EventScoringProgressionsProcessor
-from files.stat_sets.stat_sets import StatSetsProcessor
-from files.progressions.progressions import ProgressionsProcessor
 
 FILE_PROCESSOR_MAPPING_CONFIG = {
     ('GearSetTable', 'json', 'gear_set_1', GearSetsProcessor),
@@ -97,7 +99,21 @@ FILE_PROCESSOR_MAPPING_CONFIG = {
      'building_stat_sets', StatSetsProcessor),
     ('EventScoringProgressions', 'json',
      'event_scoring_progressions', EventScoringProgressionsProcessor),
+    ('EventScoringProgressions_Dragon', 'json',
+     'event_scoring_progressions_dragon', EventScoringProgressionsProcessor),
+    ('EventScoreProgressionTable_ResearchGen_military2', 'json',
+     'event_scoring_progressions_research', EventScoringProgressionsProcessor),
     ('GenerationProgressions', 'pb', 'generation_progressions', ProgressionsProcessor),
+    ('TechTable', 'pb', 'researches_1', ResearchesProcessor),
+    ('TechTable_ResearchGen_military2', 'pb', 'researches_2', ResearchesProcessor),
+    ('TechTable_ExpeditionGen_1', 'pb', 'expeditions', ResearchesProcessor),
+    ('ResearchProgressions', 'pb', 'research_progressions_1', ProgressionsProcessor),
+    ('ProgressionTable_ResearchGen_military2', 'pb',
+     'research_progressions_2', ProgressionsProcessor),
+    ('TechTable_PropertyModderTable', 'pb',
+     'research_stat_sets_1', StatSetsProcessor),
+    ('TechTable_ResearchGen_military2_PropertyModderTable',
+     'pb', 'research_stat_sets_2', StatSetsProcessor),
     ('PropertyTable', 'pb', 'properties', PropertiesProcessor),
     ('enUS', 'txt', 'translations', TranslationsProcessor)
 }

@@ -1,0 +1,44 @@
+syntax = "proto3";
+
+import 'files/common/common.proto';
+
+message Researches {
+  repeated Research researches = 1;
+
+  message Research {
+    ObjectIdentity identity = 1;
+    ResearchInfo info = 2;
+  }
+
+  message ResearchInfo {
+    int32 position_y = 1;
+    int32 position_x = 2;
+    string name_placeholder = 3;
+    string description_placeholder = 4;
+    string image = 5;
+    ObjectIdentity category = 6;
+    int32 num_levels = 7;
+    ObjectIdentity time_progression = 8;
+    ObjectIdentity power_progression = 9;
+    ObjectIdentity building_level_progression = 11;
+    repeated Requirement requirements = 12;
+    repeated ObjectIdentity required_researches = 13;
+    ObjectIdentity event_score_progression = 14;
+    repeated ItemProgression costs = 15;
+  }
+
+  message Requirement {
+    ObjectIdentity research = 1;
+    int32 level = 2;
+  }
+
+  message ItemProgression {
+    ObjectIdentity item = 1;
+    ObjectIdentity progression = 2;
+  }
+
+  message DragonRequirement {
+    string id = 1;
+    ObjectIdentity progression = 2;
+  }
+}
