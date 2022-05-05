@@ -20,7 +20,8 @@ function formatNumber(num) {
   const symbol = ["", "K", "M", "B", "T"][symbolIndex];
   return `${(num / Math.pow(1000, symbolIndex))
     .toPrecision(3)
-    .replace(/\.([^0]+)0+$/, ".$1")}${symbol}`;
+    .replace(/\.([^0]+)0+$/, ".$1")
+    .replace(/\.0+$/, "")}${symbol}`;
 }
 
 function formatTime(numSeconds) {
