@@ -864,6 +864,33 @@
       "name_placeholder": "ITEM_PERSONALGIFT_NWM_RARE_ALLEGIANCE_NAME",
       "priority": 3014600,
       "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_T1BONUS_FESTIVAL_1_DESCRIPTION",
+      "id": "6ed7a59daa6b25e8",
+      "image": "icon_mail_gift.png",
+      "name": "item_personalgift_t1bonus_festival_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_T1BONUS_FESTIVAL_1_NAME",
+      "priority": 3014800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_T1BONUS_FESTIVAL_2_DESCRIPTION",
+      "id": "1bc5f976739ed7e6",
+      "image": "icon_mail_gift.png",
+      "name": "item_personalgift_t1bonus_festival_2",
+      "name_placeholder": "ITEM_PERSONALGIFT_T1BONUS_FESTIVAL_2_NAME",
+      "priority": 3014800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_T1BONUS_FESTIVAL_3_DESCRIPTION",
+      "id": "373432d0c4cd861c",
+      "image": "icon_mail_gift.png",
+      "name": "item_personalgift_t1bonus_festival_3",
+      "name_placeholder": "ITEM_PERSONALGIFT_T1BONUS_FESTIVAL_3_NAME",
+      "priority": 3014800,
+      "type": "item"
     }
   ]
 }
