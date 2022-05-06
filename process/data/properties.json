@@ -76408,6 +76408,150 @@
       "name": "property_HeroEventBonus_Baelish_Tier_3_activity",
       "name_placeholder": "PROPERTY_HEROEVENTBONUS_BAELISH_TIER_1_NAME",
       "type": 9
+    },
+    {
+      "description_placeholder": "PROPERTY_HEROEVENTBONUS_CLEGANE_TIER_1_DESC",
+      "id": "d215f24376965fa8",
+      "image": "icon_hero_small_council_clegane.png",
+      "name": "property_HeroEventBonus_Clegane_Tier_1_activity",
+      "name_placeholder": "PROPERTY_HEROEVENTBONUS_CLEGANE_TIER_1_NAME",
+      "type": 9
+    },
+    {
+      "description_placeholder": "PROPERTY_HEROEVENTBONUS_CLEGANE_TIER_1_DESC",
+      "id": "a5e44c38be2c45c4",
+      "image": "icon_hero_small_council_clegane.png",
+      "name": "property_HeroEventBonus_Clegane_Tier_2_activity",
+      "name_placeholder": "PROPERTY_HEROEVENTBONUS_CLEGANE_TIER_1_NAME",
+      "type": 9
+    },
+    {
+      "description_placeholder": "PROPERTY_HEROEVENTBONUS_CLEGANE_TIER_1_DESC",
+      "id": "88b4d9ee0645b3e0",
+      "image": "icon_hero_small_council_clegane.png",
+      "name": "property_HeroEventBonus_Clegane_Tier_3_activity",
+      "name_placeholder": "PROPERTY_HEROEVENTBONUS_CLEGANE_TIER_1_NAME",
+      "type": 9
+    },
+    {
+      "description_placeholder": "PROPERTY_HEROEVENTBONUS_MARTELL_TIER_1_DESC",
+      "id": "198ebb39ab80cf48",
+      "image": "icon_hero_small_council_martell.png",
+      "name": "property_HeroEventBonus_Martell_Tier_1_activity",
+      "name_placeholder": "PROPERTY_HEROEVENTBONUS_MARTELL_TIER_1_NAME",
+      "type": 9
+    },
+    {
+      "description_placeholder": "PROPERTY_HEROEVENTBONUS_MARTELL_TIER_1_DESC",
+      "id": "6e7f0542633ad524",
+      "image": "icon_hero_small_council_martell.png",
+      "name": "property_HeroEventBonus_Martell_Tier_2_activity",
+      "name_placeholder": "PROPERTY_HEROEVENTBONUS_MARTELL_TIER_1_NAME",
+      "type": 9
+    },
+    {
+      "description_placeholder": "PROPERTY_HEROEVENTBONUS_MARTELL_TIER_1_DESC",
+      "id": "432f9094db532300",
+      "image": "icon_hero_small_council_martell.png",
+      "name": "property_HeroEventBonus_Martell_Tier_3_activity",
+      "name_placeholder": "PROPERTY_HEROEVENTBONUS_MARTELL_TIER_1_NAME",
+      "type": 9
+    },
+    {
+      "description_placeholder": "PROPERTY_HEROEVENTBONUS_WILDLING_TIER_1_DESC",
+      "id": "d2bf783e76514023",
+      "image": "icon_hero_small_council_wildling.png",
+      "name": "property_HeroEventBonus_Wildling_Tier_1_activity",
+      "name_placeholder": "PROPERTY_HEROEVENTBONUS_WILDLING_TIER_1_NAME",
+      "type": 9
+    },
+    {
+      "description_placeholder": "PROPERTY_HEROEVENTBONUS_WILDLING_TIER_1_DESC",
+      "id": "a54ec645beeb5a4f",
+      "image": "icon_hero_small_council_wildling.png",
+      "name": "property_HeroEventBonus_Wildling_Tier_2_activity",
+      "name_placeholder": "PROPERTY_HEROEVENTBONUS_WILDLING_TIER_1_NAME",
+      "type": 9
+    },
+    {
+      "description_placeholder": "PROPERTY_HEROEVENTBONUS_WILDLING_TIER_1_DESC",
+      "id": "881e53930682ac6b",
+      "image": "icon_hero_small_council_wildling.png",
+      "name": "property_HeroEventBonus_Wildling_Tier_3_activity",
+      "name_placeholder": "PROPERTY_HEROEVENTBONUS_WILDLING_TIER_1_NAME",
+      "type": 9
+    },
+    {
+      "description_placeholder": "PROPERTY_HEROEVENTBONUS_FREY_TIER_1_DESC",
+      "id": "249e60f4a3e07ca5",
+      "image": "icon_hero_small_council_frey.png",
+      "name": "property_HeroEventBonus_Frey_Tier_1_activity",
+      "name_placeholder": "PROPERTY_HEROEVENTBONUS_FREY_TIER_1_NAME",
+      "type": 9
+    },
+    {
+      "description_placeholder": "PROPERTY_HEROEVENTBONUS_FREY_TIER_1_DESC",
+      "id": "536fde8f6b5a66c9",
+      "image": "icon_hero_small_council_frey.png",
+      "name": "property_HeroEventBonus_Frey_Tier_2_activity",
+      "name_placeholder": "PROPERTY_HEROEVENTBONUS_FREY_TIER_1_NAME",
+      "type": 9
+    },
+    {
+      "description_placeholder": "PROPERTY_HEROEVENTBONUS_FREY_TIER_1_DESC",
+      "id": "7e3f4b59d33390ed",
+      "image": "icon_hero_small_council_frey.png",
+      "name": "property_HeroEventBonus_Frey_Tier_3_activity",
+      "name_placeholder": "PROPERTY_HEROEVENTBONUS_FREY_TIER_1_NAME",
+      "type": 9
+    },
+    {
+      "description_placeholder": "PROPERTY_HEROEVENTBONUS_DEAD_TIER_1_DESC",
+      "id": "c39a51324121cd2b",
+      "image": "icon_hero_small_council_dead.png",
+      "name": "property_HeroEventBonus_Dead_Tier_1_activity",
+      "name_placeholder": "PROPERTY_HEROEVENTBONUS_DEAD_TIER_1_NAME",
+      "type": 9
+    },
+    {
+      "description_placeholder": "PROPERTY_HEROEVENTBONUS_DEAD_TIER_1_DESC",
+      "id": "b46bef49899bd747",
+      "image": "icon_hero_small_council_dead.png",
+      "name": "property_HeroEventBonus_Dead_Tier_2_activity",
+      "name_placeholder": "PROPERTY_HEROEVENTBONUS_DEAD_TIER_1_NAME",
+      "type": 9
+    },
+    {
+      "description_placeholder": "PROPERTY_HEROEVENTBONUS_DEAD_TIER_1_DESC",
+      "id": "993b7a9f31f22163",
+      "image": "icon_hero_small_council_dead.png",
+      "name": "property_HeroEventBonus_Dead_Tier_3_activity",
+      "name_placeholder": "PROPERTY_HEROEVENTBONUS_DEAD_TIER_1_NAME",
+      "type": 9
+    },
+    {
+      "description_placeholder": "PROPERTY_HEROEVENTBONUS_GREENSEER_TIER_1_DESC",
+      "id": "b8d0a514c5f80cf8",
+      "image": "icon_hero_small_council_greenseer.png",
+      "name": "property_HeroEventBonus_GreenSeer_Tier_1_activity",
+      "name_placeholder": "PROPERTY_HEROEVENTBONUS_GREENSEER_TIER_1_NAME",
+      "type": 9
+    },
+    {
+      "description_placeholder": "PROPERTY_HEROEVENTBONUS_GREENSEER_TIER_1_DESC",
+      "id": "cf211b6f0d421694",
+      "image": "icon_hero_small_council_greenseer.png",
+      "name": "property_HeroEventBonus_GreenSeer_Tier_2_activity",
+      "name_placeholder": "PROPERTY_HEROEVENTBONUS_GREENSEER_TIER_1_NAME",
+      "type": 9
+    },
+    {
+      "description_placeholder": "PROPERTY_HEROEVENTBONUS_GREENSEER_TIER_1_DESC",
+      "id": "e2718eb9b52be0b0",
+      "image": "icon_hero_small_council_greenseer.png",
+      "name": "property_HeroEventBonus_GreenSeer_Tier_3_activity",
+      "name_placeholder": "PROPERTY_HEROEVENTBONUS_GREENSEER_TIER_1_NAME",
+      "type": 9
     }
   ]
 }

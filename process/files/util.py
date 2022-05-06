@@ -1,4 +1,4 @@
-from argparse import ArgumentError
+from hashlib import md5
 
 
 def id_int64_str_to_hex(id_int64_str):
@@ -12,3 +12,9 @@ def id_int64_to_hex(id_int64):
         raise ValueError('Given input is not int64 format: %s' % id_int64)
 
     return hex(id_int64)[2:]
+
+
+def hash_to_hex(data):
+    h = md5()
+    h.update(data.encode('ascii'))
+    return h.hexdigest()[:16]

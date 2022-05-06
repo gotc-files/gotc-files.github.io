@@ -41,7 +41,7 @@ function getTableCellMaybeWithLink(row) {
 function getValueTableCell(row) {
   if (row.valueType) {
     return (
-      <Tooltip title={row.value}>
+      <Tooltip title={row.value.toLocaleString()}>
         <TableCell size="small" align="right">
           {formatData(row.value, row.valueType)}
         </TableCell>

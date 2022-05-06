@@ -2,7 +2,7 @@ import re
 
 from pages.page_processor import PageProcessor
 from pages.page_processor import InsufficientDataException
-from files.util import id_int64_to_hex
+from files.util import hash_to_hex
 
 
 def parse_pack_name(name):
@@ -22,7 +22,7 @@ class DailyDeliveryProcessor(PageProcessor):
             if pack_name not in packs_by_name:
                 packs_by_name[pack_name] = {
                     "packs": [],
-                    "id": id_int64_to_hex(hash(pack_name)),
+                    "id": hash_to_hex(pack_name),
                     "name": self.translate(raw_pack["name_placeholder"])
                 }
                 pack_names.append(pack_name)
