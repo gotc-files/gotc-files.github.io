@@ -15,7 +15,7 @@ _sym_db = _symbol_database.Default()
 from files.common import common_pb2 as files_dot_common_dot_common__pb2
 
 
-DESCRIPTOR = _descriptor_pool.Default().AddSerializedFile(b'\n!files/researches/researches.proto\x1a\x19\x66iles/common/common.proto\"\xee\x06\n\nResearches\x12(\n\nresearches\x18\x01 \x03(\x0b\x32\x14.Researches.Research\x1aU\n\x08Research\x12!\n\x08identity\x18\x01 \x01(\x0b\x32\x0f.ObjectIdentity\x12&\n\x04info\x18\x02 \x01(\x0b\x32\x18.Researches.ResearchInfo\x1a\xfe\x03\n\x0cResearchInfo\x12\x12\n\nposition_y\x18\x01 \x01(\x05\x12\x12\n\nposition_x\x18\x02 \x01(\x05\x12\x18\n\x10name_placeholder\x18\x03 \x01(\t\x12\x1f\n\x17\x64\x65scription_placeholder\x18\x04 \x01(\t\x12\r\n\x05image\x18\x05 \x01(\t\x12!\n\x08\x63\x61tegory\x18\x06 \x01(\x0b\x32\x0f.ObjectIdentity\x12\x12\n\nnum_levels\x18\x07 \x01(\x05\x12)\n\x10time_progression\x18\x08 \x01(\x0b\x32\x0f.ObjectIdentity\x12*\n\x11power_progression\x18\t \x01(\x0b\x32\x0f.ObjectIdentity\x12\x33\n\x1a\x62uilding_level_progression\x18\x0b \x01(\x0b\x32\x0f.ObjectIdentity\x12-\n\x0crequirements\x18\x0c \x03(\x0b\x32\x17.Researches.Requirement\x12,\n\x13required_researches\x18\r \x03(\x0b\x32\x0f.ObjectIdentity\x12\x30\n\x17\x65vent_score_progression\x18\x0e \x01(\x0b\x32\x0f.ObjectIdentity\x12*\n\x05\x63osts\x18\x0f \x03(\x0b\x32\x1b.Researches.ItemProgression\x1a?\n\x0bRequirement\x12!\n\x08research\x18\x01 \x01(\x0b\x32\x0f.ObjectIdentity\x12\r\n\x05level\x18\x02 \x01(\x05\x1aV\n\x0fItemProgression\x12\x1d\n\x04item\x18\x01 \x01(\x0b\x32\x0f.ObjectIdentity\x12$\n\x0bprogression\x18\x02 \x01(\x0b\x32\x0f.ObjectIdentity\x1a\x45\n\x11\x44ragonRequirement\x12\n\n\x02id\x18\x01 \x01(\t\x12$\n\x0bprogression\x18\x02 \x01(\x0b\x32\x0f.ObjectIdentityb\x06proto3')
+DESCRIPTOR = _descriptor_pool.Default().AddSerializedFile(b'\n!files/researches/researches.proto\x1a\x19\x66iles/common/common.proto\"\xaa\x07\n\nResearches\x12(\n\nresearches\x18\x01 \x03(\x0b\x32\x14.Researches.Research\x1aU\n\x08Research\x12!\n\x08identity\x18\x01 \x01(\x0b\x32\x0f.ObjectIdentity\x12&\n\x04info\x18\x02 \x01(\x0b\x32\x18.Researches.ResearchInfo\x1a\xba\x04\n\x0cResearchInfo\x12\x12\n\nposition_y\x18\x01 \x01(\x05\x12\x12\n\nposition_x\x18\x02 \x01(\x05\x12\x18\n\x10name_placeholder\x18\x03 \x01(\t\x12\x1f\n\x17\x64\x65scription_placeholder\x18\x04 \x01(\t\x12\r\n\x05image\x18\x05 \x01(\t\x12!\n\x08\x63\x61tegory\x18\x06 \x01(\x0b\x32\x0f.ObjectIdentity\x12\x12\n\nnum_levels\x18\x07 \x01(\x05\x12)\n\x10time_progression\x18\x08 \x01(\x0b\x32\x0f.ObjectIdentity\x12*\n\x11power_progression\x18\t \x01(\x0b\x32\x0f.ObjectIdentity\x12\x33\n\x1a\x62uilding_level_progression\x18\x0b \x01(\x0b\x32\x0f.ObjectIdentity\x12-\n\x0crequirements\x18\x0c \x03(\x0b\x32\x17.Researches.Requirement\x12,\n\x13required_researches\x18\r \x03(\x0b\x32\x0f.ObjectIdentity\x12\x30\n\x17\x65vent_score_progression\x18\x0e \x01(\x0b\x32\x0f.ObjectIdentity\x12*\n\x05\x63osts\x18\x0f \x03(\x0b\x32\x1b.Researches.ItemProgression\x12:\n\x13\x64ragon_requirements\x18\x10 \x03(\x0b\x32\x1d.Researches.DragonRequirement\x1a?\n\x0bRequirement\x12!\n\x08research\x18\x01 \x01(\x0b\x32\x0f.ObjectIdentity\x12\r\n\x05level\x18\x02 \x01(\x05\x1aV\n\x0fItemProgression\x12\x1d\n\x04item\x18\x01 \x01(\x0b\x32\x0f.ObjectIdentity\x12$\n\x0bprogression\x18\x02 \x01(\x0b\x32\x0f.ObjectIdentity\x1a\x45\n\x11\x44ragonRequirement\x12\n\n\x02id\x18\x01 \x01(\t\x12$\n\x0bprogression\x18\x02 \x01(\x0b\x32\x0f.ObjectIdentityb\x06proto3')
 
 
 
@@ -76,15 +76,15 @@ if _descriptor._USE_C_DESCRIPTORS == False:
 
   DESCRIPTOR._options = None
   _RESEARCHES._serialized_start=65
-  _RESEARCHES._serialized_end=943
+  _RESEARCHES._serialized_end=1003
   _RESEARCHES_RESEARCH._serialized_start=121
   _RESEARCHES_RESEARCH._serialized_end=206
   _RESEARCHES_RESEARCHINFO._serialized_start=209
-  _RESEARCHES_RESEARCHINFO._serialized_end=719
-  _RESEARCHES_REQUIREMENT._serialized_start=721
-  _RESEARCHES_REQUIREMENT._serialized_end=784
-  _RESEARCHES_ITEMPROGRESSION._serialized_start=786
-  _RESEARCHES_ITEMPROGRESSION._serialized_end=872
-  _RESEARCHES_DRAGONREQUIREMENT._serialized_start=874
-  _RESEARCHES_DRAGONREQUIREMENT._serialized_end=943
+  _RESEARCHES_RESEARCHINFO._serialized_end=779
+  _RESEARCHES_REQUIREMENT._serialized_start=781
+  _RESEARCHES_REQUIREMENT._serialized_end=844
+  _RESEARCHES_ITEMPROGRESSION._serialized_start=846
+  _RESEARCHES_ITEMPROGRESSION._serialized_end=932
+  _RESEARCHES_DRAGONREQUIREMENT._serialized_start=934
+  _RESEARCHES_DRAGONREQUIREMENT._serialized_end=1003
 # @@protoc_insertion_point(module_scope)

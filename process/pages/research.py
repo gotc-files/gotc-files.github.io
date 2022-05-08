@@ -30,10 +30,19 @@ class ResearchProcessor(PageProcessor):
             ["research_progressions_1", "research_progressions_2"], "name", raw_research["time_progression"])["values"]
         cost_progressions = [(cost_entry["item_name"], self.lookup_files(
             ["research_progressions_1", "research_progressions_2"], "name", cost_entry["progression"])["values"]) for cost_entry in raw_research["costs"]]
+        building_level_progression = self.lookup_files(
+            ["research_progressions_1", "research_progressions_2"], "name", raw_research["building_level_progression"])["values"]
+        dragon_pit_requirement_progression = self.lookup_file(
+            "research_progressions_1", "name", raw_research["dragon_pit_requirement_progression"])["values"] if "dragon_pit_requirement_progression" in raw_research else None
+        dragon_requirement_progression = self.lookup_file(
+            "research_progressions_1", "name", raw_research["dragon_requirement_progression"])["values"] if "dragon_requirement_progression" in raw_research else None
+        category = self.lookup_files(
+            ["research_categories_1", "research_categories_2"], "name", raw_research["category"])
         return {
             "id": raw_research["id"],
             "name": self.translate(raw_research["name_placeholder"]),
             "description": self.translate(raw_research["description_placeholder"]),
+            "category_name": self.translate(category["name_placeholder"]),
             "levels": [self._process_research_level(
                 i,
                 power_progression[i],
@@ -44,19 +53,47 @@ class ResearchProcessor(PageProcessor):
                     "value": stat["values"][i]} for stat in research_stat_with_values],
                 [self._process_item_cost(item_name, cost_values[i])
                     for item_name, cost_values in cost_progressions],
+                building_level_progression[i],
+                self._get_dragon_requirement(
+                    dragon_pit_requirement_progression, i),
+                self._get_dragon_requirement(dragon_requirement_progression, i)
             ) for i in range(raw_research["num_levels"])],
             "requirements": [self._process_requirement(requirement) for requirement in raw_research["requirements"]],
         }
 
-    def _process_research_level(self, index, power, event_score, time, stats, costs):
-        return {
+    def _get_dragon_requirement(self, progression, level):
+        if not progression:
+            return None
+        if level >= len(progression):
+            return progression[0]
+        return progression[level]
+
+    def _process_research_level(self,
+                                index,
+                                power,
+                                event_score,
+                                time,
+                                stats,
+                                costs,
+                                building_level_requirement,
+                                dragon_pit_requirement,
+                                dragon_requirement):
+        research_level = {
             "level": index + 1,
             "power": power,
             "event_score": event_score,
             "upgrade_time_seconds": time,
             "stats": stats,
             "costs": costs,
+            "building_level_requirement": building_level_requirement,
+            "dragon_pit_requirement": dragon_pit_requirement,
+            "dragon_requirement": dragon_requirement,
         }
+        if dragon_pit_requirement:
+            research_level["dragon_pit_requirement"] = dragon_pit_requirement
+        if dragon_requirement:
+            research_level["dragon_requirement"] = dragon_requirement
+        return research_level
 
     def _process_research_stat(self, stat):
         stat_info = self.lookup_file("properties", "name", stat["name"])

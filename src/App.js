@@ -12,6 +12,8 @@ import DailyDeliveryTable from "./pages/DailyDeliveryTable";
 import Enhancement from "./pages/Enhancement";
 import Hero from "./pages/Hero";
 import Home from "./pages/Home";
+import ResearchDetails from "./pages/ResearchDetails";
+import ResearchTable from "./pages/ResearchTable";
 import Summon from "./pages/Summon";
 import TrinketArmory from "./pages/TrinketArmory";
 
@@ -64,6 +66,8 @@ function App() {
             />
             <Route path="/building" element={<Building />} />
             <Route path="/enhancement" element={<Enhancement />} />
+            <Route path="/research" element={<ResearchTable />} />
+            <Route path="/research/:researchId" element={<ResearchDetails />} />
           </Routes>
         </ThemeProvider>
       </StyledEngineProvider>

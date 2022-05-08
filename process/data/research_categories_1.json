@@ -1,0 +1,239 @@
+{
+  "description": "Research and expedition categories",
+  "values": [
+    {
+      "description_placeholder": "RESEARCH_CATEGORY_MILITARY_DESCRIPTION",
+      "id": "ccf8118578147aba",
+      "name": "research_Military",
+      "name_placeholder": "RESEARCH_CATEGORY_MILITARY_NAME"
+    },
+    {
+      "description_placeholder": "RESEARCH_CATEGORY_CITY_DEFENSE_DESCRIPTION",
+      "id": "a29078ed7146166e",
+      "name": "research_CityDefense",
+      "name_placeholder": "RESEARCH_CATEGORY_CITY_DEFENSE_NAME"
+    },
+    {
+      "description_placeholder": "RESEARCH_CATEGORY_LOGISTICS_DESCRIPTION",
+      "id": "93165528fad5cafa",
+      "name": "research_Logistics",
+      "name_placeholder": "RESEARCH_CATEGORY_LOGISTICS_NAME"
+    },
+    {
+      "description_placeholder": "RESEARCH_CATEGORY_ECONOMY_DESCRIPTION",
+      "id": "82052ac5e9b58e3f",
+      "name": "research_Economy",
+      "name_placeholder": "RESEARCH_CATEGORY_ECONOMY_NAME"
+    },
+    {
+      "description_placeholder": "RESEARCH_CATEGORY_MAESTER_CHAINS_DESCRIPTION",
+      "id": "55b96a3535110b4d",
+      "name": "research_MaesterChain",
+      "name_placeholder": "RESEARCH_CATEGORY_MAESTER_CHAINS_NAME"
+    },
+    {
+      "description_placeholder": "RESEARCH_CATEGORY_ADVMILITARY_DESCRIPTION",
+      "id": "d38aa5694d64a55c",
+      "name": "research_AdvancedMilitary",
+      "name_placeholder": "RESEARCH_CATEGORY_ADVMILITARY_NAME"
+    },
+    {
+      "description_placeholder": "RESEARCH_CATEGORY_DRAGON_01_DESCRIPTION",
+      "id": "922dd9baf4aed4d6",
+      "name": "research_Dragon_01",
+      "name_placeholder": "RESEARCH_CATEGORY_DRAGON_01_NAME"
+    },
+    {
+      "description_placeholder": "RESEARCH_CATEGORY_DRAGON_01_DESCRIPTION",
+      "id": "e73f85512d5b26d8",
+      "name": "research_Dragon_02",
+      "name_placeholder": "RESEARCH_CATEGORY_DRAGON_02_NAME"
+    },
+    {
+      "description_placeholder": "RESEARCH_CATEGORY_DRAGON_01_DESCRIPTION",
+      "id": "cbce4ef79a087722",
+      "name": "research_Dragon_03",
+      "name_placeholder": "RESEARCH_CATEGORY_DRAGON_03_NAME"
+    },
+    {
+      "description_placeholder": "RESEARCH_CATEGORY_DRAGON_01_DESCRIPTION",
+      "id": "d1b3c869eb0c2c4",
+      "name": "research_Dragon_04",
+      "name_placeholder": "RESEARCH_CATEGORY_DRAGON_04_NAME"
+    },
+    {
+      "description_placeholder": "RESEARCH_CATEGORY_DRAGON_01_DESCRIPTION",
+      "id": "21eaf72029e3933e",
+      "name": "research_Dragon_05",
+      "name_placeholder": "RESEARCH_CATEGORY_DRAGON_05_NAME"
+    },
+    {
+      "description_placeholder": "RESEARCH_CATEGORY_EXPEDITIONS_TEST_DESCRIPTION",
+      "id": "f130f77b91abf3a3",
+      "name": "research_Expeditions_Test",
+      "name_placeholder": "RESEARCH_CATEGORY_EXPEDITIONS_TEST"
+    },
+    {
+      "description_placeholder": "RESEARCH_CATEGORY_EXPEDITIONS_TEST_DESCRIPTION_1",
+      "id": "2e99df74857e6f87",
+      "name": "research_Expeditions_Test_1",
+      "name_placeholder": "RESEARCH_CATEGORY_EXPEDITIONS_TEST_1"
+    },
+    {
+      "description_placeholder": "RESEARCH_CATEGORY_LOGISTICS_DESCRIPTION",
+      "id": "5d1e33c3671b52e9",
+      "name": "research_QATesting",
+      "name_placeholder": "RESEARCH_CATEGORY_TESTING_NAME"
+    },
+    {
+      "description_placeholder": "RESEARCH_CATEGORY_EXPEDITIONS_TEST_DESCRIPTION",
+      "id": "7f26dc1f20ed280e",
+      "name": "research_Expeditions_BoxedFood_10k_1",
+      "name_placeholder": "RESEARCH_CATEGORY_EXPEDITIONS_BOXEDFOOD_10K_1"
+    },
+    {
+      "description_placeholder": "RESEARCH_CATEGORY_EXPEDITIONS_TEST_DESCRIPTION",
+      "id": "d745955a6668c09c",
+      "name": "research_Expeditions_BoxedFood_100k_1",
+      "name_placeholder": "RESEARCH_CATEGORY_EXPEDITIONS_BOXEDFOOD_100K_1"
+    },
+    {
+      "description_placeholder": "RESEARCH_CATEGORY_EXPEDITIONS_TEST_DESCRIPTION",
+      "id": "d8fc1ab7b4a4cffb",
+      "name": "research_Expeditions_BoxedFood_1m_1",
+      "name_placeholder": "RESEARCH_CATEGORY_EXPEDITIONS_BOXEDFOOD_1M_1"
+    },
+    {
+      "description_placeholder": "RESEARCH_CATEGORY_EXPEDITIONS_TEST_DESCRIPTION",
+      "id": "f50fad4b38f339cf",
+      "name": "research_Expeditions_BoxedFood_25m_1",
+      "name_placeholder": "RESEARCH_CATEGORY_EXPEDITIONS_BOXEDFOOD_25M_1"
+    },
+    {
+      "description_placeholder": "RESEARCH_CATEGORY_EXPEDITIONS_TEST_DESCRIPTION",
+      "id": "6fdc08a45563c2ad",
+      "name": "research_Expeditions_Trinket_1_10k_1",
+      "name_placeholder": "RESEARCH_CATEGORY_EXPEDITIONS_TRINKET_1_10K_1"
+    },
+    {
+      "description_placeholder": "RESEARCH_CATEGORY_EXPEDITIONS_TEST_DESCRIPTION",
+      "id": "4032403cf707535c",
+      "name": "research_Expeditions_Trinket_1_150k_1",
+      "name_placeholder": "RESEARCH_CATEGORY_EXPEDITIONS_TRINKET_1_150K_1"
+    },
+    {
+      "description_placeholder": "RESEARCH_CATEGORY_EXPEDITIONS_TEST_DESCRIPTION",
+      "id": "3d88f7e34a51ae37",
+      "name": "research_Expeditions_Trinket_1_600k_1",
+      "name_placeholder": "RESEARCH_CATEGORY_EXPEDITIONS_TRINKET_1_600K_1"
+    },
+    {
+      "description_placeholder": "RESEARCH_CATEGORY_EXPEDITIONS_TEST_DESCRIPTION",
+      "id": "91795a76118c0ac2",
+      "name": "research_Expeditions_Trinket_1_1m_1",
+      "name_placeholder": "RESEARCH_CATEGORY_EXPEDITIONS_TRINKET_1_1M_1"
+    },
+    {
+      "description_placeholder": "RESEARCH_CATEGORY_EXPEDITIONS_TEST_DESCRIPTION",
+      "id": "e46b069dc879f8cc",
+      "name": "research_Expeditions_Trinket_1_1m_2",
+      "name_placeholder": "RESEARCH_CATEGORY_EXPEDITIONS_TRINKET_1_1M_2"
+    },
+    {
+      "description_placeholder": "RESEARCH_CATEGORY_EXPEDITIONS_TEST_DESCRIPTION",
+      "id": "c89acd3b7f2aa936",
+      "name": "research_Expeditions_Trinket_1_1m_3",
+      "name_placeholder": "RESEARCH_CATEGORY_EXPEDITIONS_TRINKET_1_1M_3"
+    },
+    {
+      "description_placeholder": "RESEARCH_CATEGORY_EXPEDITIONS_TEST_DESCRIPTION",
+      "id": "e4fbf4a7b921cd0",
+      "name": "research_Expeditions_Trinket_1_1m_4",
+      "name_placeholder": "RESEARCH_CATEGORY_EXPEDITIONS_TRINKET_1_1M_4"
+    },
+    {
+      "description_placeholder": "RESEARCH_CATEGORY_EXPEDITIONS_TEST_DESCRIPTION",
+      "id": "22be74ecccc14d2a",
+      "name": "research_Expeditions_Trinket_1_1m_5",
+      "name_placeholder": "RESEARCH_CATEGORY_EXPEDITIONS_TRINKET_1_1M_5"
+    },
+    {
+      "description_placeholder": "RESEARCH_CATEGORY_EXPEDITIONS_TEST_DESCRIPTION",
+      "id": "88a4c7a845df5fb7",
+      "name": "research_Expeditions_Brick_5_1",
+      "name_placeholder": "RESEARCH_CATEGORY_EXPEDITIONS_BRICK_5_1"
+    },
+    {
+      "description_placeholder": "RESEARCH_CATEGORY_EXPEDITIONS_TEST_DESCRIPTION",
+      "id": "ae080ba522e029d2",
+      "name": "research_Expeditions_Brick_50_1",
+      "name_placeholder": "RESEARCH_CATEGORY_EXPEDITIONS_BRICK_50_1"
+    },
+    {
+      "description_placeholder": "RESEARCH_CATEGORY_EXPEDITIONS_TEST_DESCRIPTION",
+      "id": "f86eb03f4ba8b4f6",
+      "name": "research_Expeditions_Brick_200_1",
+      "name_placeholder": "RESEARCH_CATEGORY_EXPEDITIONS_BRICK_200_1"
+    },
+    {
+      "description_placeholder": "RESEARCH_CATEGORY_EXPEDITIONS_TEST_DESCRIPTION",
+      "id": "3f37c7f5acb4ba9f",
+      "name": "research_Expeditions_ScholarlyFragment_5_1",
+      "name_placeholder": "RESEARCH_CATEGORY_EXPEDITIONS_SCHOLARLYFRAGMENT_5_1"
+    },
+    {
+      "description_placeholder": "RESEARCH_CATEGORY_EXPEDITIONS_TEST_DESCRIPTION",
+      "id": "da2f7e0cd3b51f76",
+      "name": "research_Expeditions_ScholarlyFragment_50_1",
+      "name_placeholder": "RESEARCH_CATEGORY_EXPEDITIONS_SCHOLARLYFRAGMENT_50_1"
+    },
+    {
+      "description_placeholder": "RESEARCH_CATEGORY_EXPEDITIONS_TEST_DESCRIPTION",
+      "id": "1b246103c44a9c07",
+      "name": "research_Expeditions_ScholarlyFragment_200_1",
+      "name_placeholder": "RESEARCH_CATEGORY_EXPEDITIONS_SCHOLARLYFRAGMENT_200_1"
+    },
+    {
+      "description_placeholder": "RESEARCH_CATEGORY_EXPEDITIONS_TEST_DESCRIPTION",
+      "id": "9ca6d1332d80846e",
+      "name": "research_Expeditions_SoldierPine_2_1",
+      "name_placeholder": "RESEARCH_CATEGORY_EXPEDITIONS_SOLDIERPINE_2_1"
+    },
+    {
+      "description_placeholder": "RESEARCH_CATEGORY_EXPEDITIONS_TEST_DESCRIPTION",
+      "id": "8b000a3935561fa",
+      "name": "research_Expeditions_SoldierPine_10_1",
+      "name_placeholder": "RESEARCH_CATEGORY_EXPEDITIONS_SOLDIERPINE_10_1"
+    },
+    {
+      "description_placeholder": "RESEARCH_CATEGORY_EXPEDITIONS_TEST_DESCRIPTION",
+      "id": "72a9de49714d8cbc",
+      "name": "research_Expeditions_SoldierPine_30_1",
+      "name_placeholder": "RESEARCH_CATEGORY_EXPEDITIONS_SOLDIERPINE_30_1"
+    },
+    {
+      "description_placeholder": "RESEARCH_CATEGORY_EXPEDITIONS_TEST_DESCRIPTION",
+      "id": "73b534dda8cdd5ca",
+      "name": "research_Expeditions_PaleSteel_2_1",
+      "name_placeholder": "RESEARCH_CATEGORY_EXPEDITIONS_PALESTEEL_2_1"
+    },
+    {
+      "description_placeholder": "RESEARCH_CATEGORY_EXPEDITIONS_TEST_DESCRIPTION",
+      "id": "eb61e50f5bc3516c",
+      "name": "research_Expeditions_PaleSteel_10_1",
+      "name_placeholder": "RESEARCH_CATEGORY_EXPEDITIONS_PALESTEEL_10_1"
+    },
+    {
+      "description_placeholder": "RESEARCH_CATEGORY_EXPEDITIONS_TEST_DESCRIPTION",
+      "id": "91783be5b9dbbc2a",
+      "name": "research_Expeditions_PaleSteel_30_1",
+      "name_placeholder": "RESEARCH_CATEGORY_EXPEDITIONS_PALESTEEL_30_1"
+    },
+    {
+      "description_placeholder": "RESEARCH_CATEGORY_EXPEDITIONS_TEST_DESCRIPTION",
+      "id": "8493e60c2c441b10",
+      "name": "research_Expeditions_Livestock_Blue3300_1",
+      "name_placeholder": "RESEARCH_CATEGORY_EXPEDITIONS_LIVESTOCKBLUE_3300_1"
+    }
+  ]
+}

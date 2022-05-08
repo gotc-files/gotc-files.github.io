@@ -25,6 +25,7 @@ message Researches {
     repeated ObjectIdentity required_researches = 13;
     ObjectIdentity event_score_progression = 14;
     repeated ItemProgression costs = 15;
+    repeated DragonRequirement dragon_requirements = 16;
   }
 
   message Requirement {

@@ -29,6 +29,8 @@ from files.items.items import ItemsProcessor
 from files.progressions.progressions import ProgressionsProcessor
 from files.properties.properties import PropertiesProcessor
 from files.recurring_rewards.recurring_rewards import RecurringRewardsProcessor
+from files.research_categories.research_categories import \
+    ResearchCategoriesProcessor
 from files.researches.researches import ResearchesProcessor
 from files.stat_sets.stat_sets import StatSetsProcessor
 from files.summon_odds.summon_odds import SummonOddsProcessor
@@ -107,6 +109,11 @@ FILE_PROCESSOR_MAPPING_CONFIG = {
     ('TechTable', 'pb', 'researches_1', ResearchesProcessor),
     ('TechTable_ResearchGen_military2', 'pb', 'researches_2', ResearchesProcessor),
     ('TechTable_ExpeditionGen_1', 'pb', 'expeditions', ResearchesProcessor),
+    ('TechCategoryTable', 'pb', 'research_categories_1', ResearchCategoriesProcessor),
+    ('TechCategoryTable_ResearchGen_military2', 'pb',
+     'research_categories_2', ResearchCategoriesProcessor),
+    ('TechCategoryTable_ExpeditionGen_1', 'pb',
+     'expedition_categories', ResearchCategoriesProcessor),
     ('ResearchProgressions', 'pb', 'research_progressions_1', ProgressionsProcessor),
     ('ProgressionTable_ResearchGen_military2', 'pb',
      'research_progressions_2', ProgressionsProcessor),

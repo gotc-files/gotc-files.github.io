@@ -29,7 +29,7 @@ function getTableCellMaybeWithLink(row) {
     return (
       <TableCell size="small">
         <Link component={RouterLink} to={row.link}>
-          {row.value}
+          {row.name}
         </Link>
       </TableCell>
     );

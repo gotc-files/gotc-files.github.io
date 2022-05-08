@@ -1,0 +1,41 @@
+syntax = "proto3";
+
+import 'files/common/common.proto';
+
+message ResearchCategories {
+  repeated ResearchCategory research_categories = 1;
+
+  message ResearchCategory {
+    ObjectIdentity identity = 1;
+    ResearchCategoryInfo info = 2;
+  }
+
+  message ResearchCategoryInfo {
+    string expedition_reward_tag = 1;
+    string expedition_reward_type_tag = 2;
+    int32 unknown_1_int = 3;
+    string expedition_image = 4;
+    string expedition_name_placeholder = 5;
+    ObjectIdentity expedition_category = 6;
+    string name_placeholder = 7;
+    string description_placeholder = 8;
+    string image = 9;
+    int32 unknown_2_int = 10;
+    int32 sort_priority = 11;
+    int32 unknown_3_int = 12;
+    float unknown_4_int = 13;
+    string button_image = 14;
+    float unknown_5_float = 15;
+    string background_image = 16;
+    string background_button_image = 17;
+    string ripcord = 18;
+    ObjectIdentity category_group = 19;
+    ObjectIdentity speed_modifier = 20;
+    repeated CostModifier modifiers = 21;
+
+    message CostModifier {
+      ObjectIdentity item = 1;
+      ObjectIdentity modifier = 2;
+    }
+  }
+}

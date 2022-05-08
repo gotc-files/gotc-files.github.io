@@ -34,7 +34,7 @@ function HeroCard(props) {
       subtitle={props.hero.description}
       color={RARITY_TO_COLOR_NAME[props.hero.rarity]}
       slider={{
-        min: Math.min(1),
+        min: 1,
         max: Math.max(props.hero.max_stars * 10),
         value: heroLevel,
         setValue: setHeroLevel,
