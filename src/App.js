@@ -11,6 +11,7 @@ import DailyDeliveryDetails from "./pages/DailyDeliveryDetails";
 import DailyDeliveryTable from "./pages/DailyDeliveryTable";
 import Enhancement from "./pages/Enhancement";
 import Hero from "./pages/Hero";
+import HeroCollectionAction from "./pages/HeroCollectionAction";
 import Home from "./pages/Home";
 import ResearchDetails from "./pages/ResearchDetails";
 import ResearchTable from "./pages/ResearchTable";
@@ -57,6 +58,10 @@ function App() {
               element={<TrinketArmory />}
             />
             <Route path="/hero" element={<Hero />} />
+            <Route
+              path="/hero-collection-action"
+              element={<HeroCollectionAction />}
+            />
             <Route path="/summon" element={<Summon />} />
             <Route path="/summon/:timeStrName" element={<Summon />} />
             <Route path="/daily-delivery" element={<DailyDeliveryTable />} />

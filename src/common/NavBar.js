@@ -41,6 +41,7 @@ function NavBar(props) {
           ["armory", "Armory"],
           ["trinket-armory", "Trinket Armory"],
           ["hero", "Hero"],
+          ["hero-collection-action", "Hero Collection Action"],
           ["summon", "Summon"],
           ["daily-delivery", "Daily Delivery"],
           ["building", "Building"],

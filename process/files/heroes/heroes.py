@@ -16,6 +16,7 @@ class HeroesProcessor(JsonProcessor):
                 "xp_progression_name": hero_obj["XPProg"]["Name"],
                 "event_score_progression_name": hero_obj["EventScoreProgression"]["Name"],
                 "skills": sorted([skill["Name"] for skill in hero_obj["Skills"]]),
+                "traits": [trait["Name"] for trait in hero_obj["Traits"]]
             }
             for requirement in hero_obj["LevelupReqs"]:
                 if requirement["CostProg"]["Name"].startswith("prog_shardcost"):

@@ -45,18 +45,7 @@ function DataTable(props) {
     options: {
       customBodyRenderLite: (dataIndex) =>
         getDataDisplay(props.data[dataIndex], columnConfig),
-      setCellProps:
-        columnConfig.valueType === "text"
-          ? null
-          : () => ({
-              align: "right",
-            }),
-      setCellHeaderProps:
-        columnConfig.valueType === "text"
-          ? null
-          : () => ({
-              align: "right",
-            }),
+      filter: columnConfig.filter,
     },
   }));
   const data = props.data.map((entry) =>
@@ -77,6 +66,7 @@ function DataTable(props) {
         sort: false,
         selectableRows: "none",
         storageKey: props.storageKey,
+        ...props.options,
       }}
     ></MUIDataTable>
   );

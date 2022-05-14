@@ -1,0 +1,155 @@
+{
+  "description": "Hero traits information",
+  "values": [
+    {
+      "description_placeholder": "HEROTRAIT_COUNCILSEAT_DESC",
+      "id": "8b622c4e7662a0dd",
+      "name": "herotrait_hand",
+      "name_placeholder": "HEROTRAIT_HAND_NAME"
+    },
+    {
+      "description_placeholder": "HEROTRAIT_COUNCILSEAT_DESC",
+      "id": "c0d0ded52473877f",
+      "name": "herotrait_masterofwar",
+      "name_placeholder": "HEROTRAIT_MASTEROFWAR_NAME"
+    },
+    {
+      "description_placeholder": "HEROTRAIT_COUNCILSEAT_DESC",
+      "id": "965c77faec060f1f",
+      "name": "herotrait_masterofcoins",
+      "name_placeholder": "HEROTRAIT_MASTEROFCOINS_NAME"
+    },
+    {
+      "description_placeholder": "HEROTRAIT_COUNCILSEAT_DESC",
+      "id": "7a10838e3f0e11ea",
+      "name": "herotrait_masterofwhisperers",
+      "name_placeholder": "HEROTRAIT_MASTEROFWHISPERERS_NAME"
+    },
+    {
+      "description_placeholder": "HEROTRAIT_COUNCILSEAT_DESC",
+      "id": "bfef47a4d715121b",
+      "name": "herotrait_masteroflaws",
+      "name_placeholder": "HEROTRAIT_MASTEROFLAWS_NAME"
+    },
+    {
+      "description_placeholder": "HEROTRAIT_COUNCILSEAT_DESC",
+      "id": "9a3a7f90124ff0f9",
+      "name": "herotrait_masterofships",
+      "name_placeholder": "HEROTRAIT_MASTEROFSHIPS_NAME"
+    },
+    {
+      "description_placeholder": "HEROTRAIT_COUNCILSEAT_DESC",
+      "id": "10e7c24db22f6f0a",
+      "name": "herotrait_lordcommander",
+      "name_placeholder": "HEROTRAIT_LORDCOMMANDER_NAME"
+    },
+    {
+      "description_placeholder": "HEROTRAIT_COUNCILSEAT_DESC",
+      "id": "da1c829c7ee4efff",
+      "name": "herotrait_grandmaester",
+      "name_placeholder": "HEROTRAIT_GRANDMAESTER_NAME"
+    },
+    {
+      "description_placeholder": "HEROTRAIT_STARK_DESC",
+      "id": "371fac0555240f4a",
+      "name": "herotrait_stark",
+      "name_placeholder": "HEROTRAIT_STARK_NAME"
+    },
+    {
+      "description_placeholder": "HEROTRAIT_LANNISTER_DESC",
+      "id": "c945af3cb9aa2db4",
+      "name": "herotrait_lannister",
+      "name_placeholder": "HEROTRAIT_LANNISTER_NAME"
+    },
+    {
+      "description_placeholder": "HEROTRAIT_BARATHEON_DESC",
+      "id": "792188a24e6b62a2",
+      "name": "herotrait_baratheon",
+      "name_placeholder": "HEROTRAIT_BARATHEON_NAME"
+    },
+    {
+      "description_placeholder": "HEROTRAIT_GREYJOY_DESC",
+      "id": "72c7a91f6d9c839f",
+      "name": "herotrait_greyjoy",
+      "name_placeholder": "HEROTRAIT_GREYJOY_NAME"
+    },
+    {
+      "description_placeholder": "HEROTRAIT_TARGARYEN_DESC",
+      "id": "e5e5b9eb77a5e46e",
+      "name": "herotrait_targaryen",
+      "name_placeholder": "HEROTRAIT_TARGARYEN_NAME"
+    },
+    {
+      "description_placeholder": "HEROTRAIT_NIGHTSWATCH_DESC",
+      "id": "838f3d7d68769084",
+      "name": "herotrait_nightswatch",
+      "name_placeholder": "HEROTRAIT_NIGHTSWATCH_NAME"
+    },
+    {
+      "description_placeholder": "HEROTRAIT_BROTHERSWITHOUTBANNERS_DESC",
+      "id": "ba70464deba5e0e4",
+      "name": "herotrait_brotherswithoutbanners",
+      "name_placeholder": "HEROTRAIT_BROTHERSWITHOUTBANNERS_NAME"
+    },
+    {
+      "description_placeholder": "HEROTRAIT_FACELESSMEN_DESC",
+      "id": "62e436c67adde428",
+      "name": "herotrait_facelessmen",
+      "name_placeholder": "HEROTRAIT_FACELESSMEN_NAME"
+    },
+    {
+      "description_placeholder": "HEROTRAIT_QUARTH_DESC",
+      "id": "d2c18906e1bcef27",
+      "name": "herotrait_quarth",
+      "name_placeholder": "HEROTRAIT_QUARTH_NAME"
+    },
+    {
+      "description_placeholder": "HEROTRAIT_TYRELL_DESC",
+      "id": "1bc2c8228d434967",
+      "name": "herotrait_tyrell",
+      "name_placeholder": "HEROTRAIT_TYRELL_NAME"
+    },
+    {
+      "description_placeholder": "HEROTRAIT_BAELISH_DESC",
+      "id": "29b55f85c2f7702f",
+      "name": "herotrait_baelish",
+      "name_placeholder": "HEROTRAIT_BAELISH_NAME"
+    },
+    {
+      "description_placeholder": "HEROTRAIT_CLEGANE_DESC",
+      "id": "441d46ce8cd14c42",
+      "name": "herotrait_clegane",
+      "name_placeholder": "HEROTRAIT_CLEGANE_NAME"
+    },
+    {
+      "description_placeholder": "HEROTRAIT_MARTELL_DESC",
+      "id": "d6ae93bc8c83805",
+      "name": "herotrait_martell",
+      "name_placeholder": "HEROTRAIT_MARTELL_NAME"
+    },
+    {
+      "description_placeholder": "HEROTRAIT_WILDLING_DESC",
+      "id": "6ce6816fded59f6",
+      "name": "herotrait_wildling",
+      "name_placeholder": "HEROTRAIT_WILDLING_NAME"
+    },
+    {
+      "description_placeholder": "HEROTRAIT_FREY_DESC",
+      "id": "75f4697d53d684eb",
+      "name": "herotrait_frey",
+      "name_placeholder": "HEROTRAIT_FREY_NAME"
+    },
+    {
+      "description_placeholder": "HEROTRAIT_DEAD_DESC",
+      "id": "1136e35612f04b39",
+      "name": "herotrait_dead",
+      "name_placeholder": "HEROTRAIT_DEAD_NAME"
+    },
+    {
+      "description_placeholder": "HEROTRAIT_GREENSEER_DESC",
+      "id": "fa6b0b760a24f0e6",
+      "name": "herotrait_greenseer",
+      "name_placeholder": "HEROTRAIT_GREENSEER_NAME"
+    }
+  ]
+}

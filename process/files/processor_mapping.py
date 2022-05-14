@@ -24,6 +24,7 @@ from files.hero_progressions.hero_progressions import HeroProgressionsProcessor
 from files.hero_skill_progressions.hero_skill_progressions import \
     HeroSkillProgressionsProcessor
 from files.hero_skills.hero_skills import HeroSkillsProcessor
+from files.hero_traits.hero_traits import HeroTraitsProcessor
 from files.heroes.heroes import HeroesProcessor
 from files.items.items import ItemsProcessor
 from files.progressions.progressions import ProgressionsProcessor
@@ -76,6 +77,7 @@ FILE_PROCESSOR_MAPPING_CONFIG = {
     ('HeroTable_VisGen_Launch', 'json', 'heroes', HeroesProcessor),
     ('HeroProgressions', 'json', 'hero_progressions', HeroProgressionsProcessor),
     ('HeroSkillsTable_VisGen_Launch', 'json', 'hero_skills', HeroSkillsProcessor),
+    ('HeroTraitsTable', 'json', 'hero_traits', HeroTraitsProcessor),
     ('HeroPropertyProgressions_VisGen_Launch', 'pb',
      'hero_skill_progressions', HeroSkillProgressionsProcessor),
     ('HeroCollectionActionTable', 'json',

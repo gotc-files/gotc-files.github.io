@@ -28,6 +28,7 @@ class HeroProcessor(PageProcessor):
             "skills": [self._process_skill(skill_name) for skill_name in raw_hero["skills"]],
             "rarity": raw_hero["rarity"],
             "max_stars": raw_hero["max_stars"],
+            "traits": [self._process_trait(trait_name) for trait_name in raw_hero["traits"]]
         }
 
         return hero
@@ -48,3 +49,7 @@ class HeroProcessor(PageProcessor):
             skill["signature_skill_values"] = self.lookup_file(
                 'hero_skill_progressions', 'name', raw_skill["signature_skill_progression_name"])["values"]
         return skill
+
+    def _process_trait(self, trait_name):
+        raw_trait = self.lookup_file('hero_traits', 'name', trait_name)
+        return self.translate(raw_trait["name_placeholder"])

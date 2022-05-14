@@ -13,7 +13,8 @@
       "name": "hca_march_maxsize",
       "name_placeholder": "HCA_MARCH_MAXSIZE_NAME",
       "num_uses_progression_name": "prog_hca_march_maxsize_num_uses",
-      "property_name": "driven_MaxMarchSize"
+      "property_name": "driven_MaxMarchSize",
+      "tag": "COMBAT"
     },
     {
       "buff_progression_name": "prog_hca_healing_cost_buff",
@@ -27,7 +28,8 @@
       "name": "hca_healing_cost",
       "name_placeholder": "HCA_HEALING_COST_NAME",
       "num_uses_progression_name": "prog_hca_healing_cost_num_uses",
-      "property_name": "driven_HealCost"
+      "property_name": "driven_HealCost",
+      "tag": "COMBAT"
     },
     {
       "buff_progression_name": "prog_hca_march_speed_npc_buff",
@@ -40,7 +42,8 @@
       "level_progression_name": "prog_hca_march_speed_npc_level",
       "name": "hca_march_speed_npc",
       "name_placeholder": "HCA_MARCH_SPEED_NPC_NAME",
-      "property_name": "property_MarchingSpeedVsNPC_action"
+      "property_name": "property_MarchingSpeedVsNPC_action",
+      "tag": "COMBAT"
     },
     {
       "buff_progression_name": "prog_hca_march_speed_buff",
@@ -54,7 +57,8 @@
       "name": "hca_march_speed",
       "name_placeholder": "HCA_MARCH_SPEED_NAME",
       "num_uses_progression_name": "prog_hca_march_speed_num_uses",
-      "property_name": "driven_MarchSpeedVsPlayer"
+      "property_name": "driven_MarchSpeedVsPlayer",
+      "tag": "COMBAT"
     },
     {
       "buff_progression_name": "prog_hca_gathering_basicrss_speed_buff",
@@ -67,7 +71,8 @@
       "level_progression_name": "prog_hca_gathering_basicrss_speed_level",
       "name": "hca_gathering_basicrss_speed",
       "name_placeholder": "HCA_GATHERING_BASICRSS_SPEED_NAME",
-      "property_name": "property_BasicResourceGathering_action"
+      "property_name": "property_BasicResourceGathering_action",
+      "tag": "UTILITY"
     },
     {
       "buff_progression_name": "prog_hca_march_rally_capacity_buff",
@@ -80,7 +85,8 @@
       "level_progression_name": "prog_hca_march_rally_capacity_level",
       "name": "hca_march_rally_capacity",
       "name_placeholder": "HCA_MARCH_RALLY_CAPACITY_NAME",
-      "property_name": "property_RalliedTroopCapacity_action"
+      "property_name": "property_RalliedTroopCapacity_action",
+      "tag": "COMBAT"
     },
     {
       "buff_progression_name": "prog_hca_harvest_genrate_buff",
@@ -93,7 +99,8 @@
       "level_progression_name": "prog_hca_harvest_genrate_level",
       "name": "hca_harvest_genrate",
       "name_placeholder": "HCA_HARVEST_GENRATE_NAME",
-      "property_name": "property_FoodGeneration_action"
+      "property_name": "property_FoodGeneration_action",
+      "tag": "UTILITY"
     },
     {
       "buff_progression_name": "prog_hca_crafting_steel_cost_buff",
@@ -107,7 +114,8 @@
       "name": "hca_crafting_steel_cost",
       "name_placeholder": "HCA_CRAFTING_STEEL_COST_NAME",
       "num_uses_progression_name": "prog_hca_crafting_steel_cost_num_uses",
-      "property_name": "driven_ForgingSteelCost"
+      "property_name": "driven_ForgingSteelCost",
+      "tag": "UTILITY"
     },
     {
       "buff_progression_name": "prog_hca_combat_troop_health_buff",
@@ -120,7 +128,8 @@
       "level_progression_name": "prog_hca_combat_troop_health_level",
       "name": "hca_combat_troop_health",
       "name_placeholder": "HCA_COMBAT_TROOP_HEALTH_NAME",
-      "property_name": "property_TroopHealth_action"
+      "property_name": "property_TroopHealth_action",
+      "tag": "COMBAT"
     },
     {
       "buff_progression_name": "prog_hca_combat_troop_health_vs_sop_buff",
@@ -133,7 +142,8 @@
       "level_progression_name": "prog_hca_combat_troop_health_vs_sop_level",
       "name": "hca_combat_troop_health_vs_sop",
       "name_placeholder": "HCA_COMBAT_TROOP_HEALTH_VS_SOP_NAME",
-      "property_name": "property_TroopHealthVsSeatOfPower_action"
+      "property_name": "property_TroopHealthVsSeatOfPower_action",
+      "tag": "COMBAT"
     },
     {
       "buff_progression_name": "prog_hca_research_speed_buff",
@@ -147,7 +157,8 @@
       "name": "hca_research_speed",
       "name_placeholder": "HCA_RESEARCH_SPEED_NAME",
       "num_uses_progression_name": "prog_hca_research_speed_num_uses",
-      "property_name": "driven_ResearchSpeed"
+      "property_name": "driven_ResearchSpeed",
+      "tag": "UTILITY"
     },
     {
       "buff_progression_name": "prog_hca_training_speed_buff",
@@ -161,7 +172,8 @@
       "name": "hca_training_speed",
       "name_placeholder": "HCA_TRAINING_SPEED_NAME",
       "num_uses_progression_name": "prog_hca_training_speed_num_uses",
-      "property_name": "driven_TrainingSpeed"
+      "property_name": "driven_TrainingSpeed",
+      "tag": "UTILITY"
     },
     {
       "buff_progression_name": "prog_hca_building_construction_speed_buff",
@@ -175,7 +187,8 @@
       "name": "hca_building_construction_speed",
       "name_placeholder": "HCA_BUILDING_CONSTRUCTION_SPEED_NAME",
       "num_uses_progression_name": "prog_hca_building_construction_speed_num_uses",
-      "property_name": "driven_ConstructionSpeed"
+      "property_name": "driven_ConstructionSpeed",
+      "tag": "UTILITY"
     },
     {
       "buff_progression_name": "prog_hca_combat_troop_attack_buff",
@@ -188,7 +201,8 @@
       "level_progression_name": "prog_hca_combat_troop_attack_level",
       "name": "hca_combat_troop_attack",
       "name_placeholder": "HCA_COMBAT_TROOP_ATTACK_NAME",
-      "property_name": "property_TroopAttack_action"
+      "property_name": "property_TroopAttack_action",
+      "tag": "COMBAT"
     },
     {
       "buff_progression_name": "prog_hca_combat_troop_attack_vs_sop_buff",
@@ -201,7 +215,8 @@
       "level_progression_name": "prog_hca_combat_troop_attack_vs_sop_level",
       "name": "hca_combat_troop_attack_vs_sop",
       "name_placeholder": "HCA_COMBAT_TROOP_ATTACK_VS_SOP_NAME",
-      "property_name": "property_TroopAttackVsSeatOfPower_action"
+      "property_name": "property_TroopAttackVsSeatOfPower_action",
+      "tag": "COMBAT"
     },
     {
       "buff_progression_name": "prog_hca_combat_dead_to_wounded_buff",
@@ -214,7 +229,8 @@
       "level_progression_name": "prog_hca_combat_dead_to_wounded_level",
       "name": "hca_combat_dead_to_wounded",
       "name_placeholder": "HCA_COMBAT_DEAD_TO_WOUNDED_NAME",
-      "property_name": "property_TroopsDeadtoWounded_action"
+      "property_name": "property_TroopsDeadtoWounded_action",
+      "tag": "COMBAT"
     },
     {
       "buff_progression_name": "prog_hca_combat_dragon_troop_attack_buff",
@@ -227,7 +243,8 @@
       "level_progression_name": "prog_hca_combat_dragon_troop_attack_level",
       "name": "hca_combat_dragon_troop_attack",
       "name_placeholder": "HCA_COMBAT_DRAGON_TROOP_ATTACK_NAME",
-      "property_name": "property_DragonTroopAttack_action"
+      "property_name": "property_DragonTroopAttack_action",
+      "tag": "COMBAT"
     }
   ]
 }

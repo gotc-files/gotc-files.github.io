@@ -5,10 +5,9 @@ import DataCard from "../common/DataCard";
 import Page from "../common/Page";
 import researches from "../data/research.json";
 
-function ResearchDetails() {
-  const urlParams = useParams();
+function ResearchCard(props) {
   const research = researches.find(
-    (research) => research.id === urlParams.researchId
+    (research) => research.id === props.researchId
   );
   const [currentLevel, setCurrentLevel] = useState(research.levels.length);
 
@@ -76,6 +75,28 @@ function ResearchDetails() {
       value: stat.value,
     }))
   );
+  return (
+    <DataCard
+      title={`${research.name} (${currentLevel})`}
+      subtitle={research.description}
+      color="primary.main"
+      slider={
+        research.levels.length > 1
+          ? {
+              min: 1,
+              max: research.levels.length,
+              value: currentLevel,
+              setValue: setCurrentLevel,
+            }
+          : null
+      }
+      data={data}
+    />
+  );
+}
+
+function ResearchDetails() {
+  const { researchId } = useParams();
 
   return (
     <Page title="Research" backLink="/research">
@@ -87,22 +108,7 @@ function ResearchDetails() {
         justifyContent="center"
       >
         <Grid item xs={12} md={8} sx={{ p: 0 }}>
-          <DataCard
-            title={`${research.name} (${currentLevel})`}
-            subtitle={research.description}
-            color="primary.main"
-            slider={
-              research.levels.length > 1
-                ? {
-                    min: 1,
-                    max: research.levels.length,
-                    value: currentLevel,
-                    setValue: setCurrentLevel,
-                  }
-                : null
-            }
-            data={data}
-          />
+          <ResearchCard key={researchId} researchId={researchId} />
         </Grid>
       </Grid>
     </Page>

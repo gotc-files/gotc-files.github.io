@@ -11,6 +11,7 @@ class HeroCollectionActionsProcessor(JsonProcessor):
                 "name": hca["DID"]["Name"],
                 "name_placeholder": hca["Name"],
                 "description_placeholder": hca["Description"],
+                "tag": hca["Tag"],
                 "image": hca["Icon"],
                 "property_name": hca["PropMods"][0]["Property"]["Name"],
                 "buff_progression_name": hca["PropMods"][0]["Progression"]["Name"],

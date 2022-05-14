@@ -76552,6 +76552,366 @@
       "name": "property_HeroEventBonus_GreenSeer_Tier_3_activity",
       "name_placeholder": "PROPERTY_HEROEVENTBONUS_GREENSEER_TIER_1_NAME",
       "type": 9
+    },
+    {
+      "description_placeholder": "",
+      "id": "a9cd929b9e8c3f99",
+      "image": "",
+      "name": "property_MaxMarchSizeVsBattlegroundMonster_seatofpower",
+      "name_placeholder": "",
+      "type": 6
+    },
+    {
+      "description_placeholder": "",
+      "id": "4c4b148a5903b1b5",
+      "image": "",
+      "name": "property_MaxMarchSizeVsBattlegroundMonster_activity",
+      "name_placeholder": "",
+      "type": 9
+    },
+    {
+      "description_placeholder": "",
+      "id": "3f689271422f9c08",
+      "image": "",
+      "name": "property_MaxMarchSizeVsBattlegroundMonster_consumable",
+      "name_placeholder": "",
+      "type": 3
+    },
+    {
+      "description_placeholder": "",
+      "id": "aae787c1f93146a5",
+      "image": "",
+      "name": "property_MaxMarchSizeVsBattlegroundMonster_gear",
+      "name_placeholder": "",
+      "type": 4
+    },
+    {
+      "description_placeholder": "",
+      "id": "1c9fc47f621b3bee",
+      "image": "",
+      "name": "property_MaxMarchSizeVsBattlegroundMonster_hero",
+      "name_placeholder": "",
+      "type": 11
+    },
+    {
+      "description_placeholder": "",
+      "id": "1d6b7799c0ac0e43",
+      "image": "",
+      "name": "property_RalliedTroopCapacityVsBattlegroundMonster_seatofpower",
+      "name_placeholder": "",
+      "type": 6
+    },
+    {
+      "description_placeholder": "",
+      "id": "8a2ecf3484824c45",
+      "image": "",
+      "name": "property_RalliedTroopCapacityVsBattlegroundMonster_activity",
+      "name_placeholder": "",
+      "type": 9
+    },
+    {
+      "description_placeholder": "",
+      "id": "d6f04152404bdd8b",
+      "image": "",
+      "name": "property_RalliedTroopCapacityVsBattlegroundMonster_consumable",
+      "name_placeholder": "",
+      "type": 3
+    },
+    {
+      "description_placeholder": "",
+      "id": "7cea5d1e0c57562",
+      "image": "",
+      "name": "property_RalliedTroopCapacityVsBattlegroundMonster_gear",
+      "name_placeholder": "",
+      "type": 4
+    },
+    {
+      "description_placeholder": "",
+      "id": "b1b6e66f7bef0829",
+      "image": "",
+      "name": "property_RalliedTroopCapacityVsBattlegroundMonster_hero",
+      "name_placeholder": "",
+      "type": 11
+    },
+    {
+      "description_placeholder": "",
+      "id": "accefd8b4fd2917e",
+      "image": "",
+      "name": "property_RallySlotVsBattlegroundMonster_seatofpower",
+      "name_placeholder": "",
+      "type": 6
+    },
+    {
+      "description_placeholder": "",
+      "id": "b067d3e689b1c3c0",
+      "image": "",
+      "name": "property_RallySlotVsBattlegroundMonster_activity",
+      "name_placeholder": "",
+      "type": 9
+    },
+    {
+      "description_placeholder": "",
+      "id": "339a0f9fa962d9f2",
+      "image": "",
+      "name": "property_RallySlotVsBattlegroundMonster_consumable",
+      "name_placeholder": "",
+      "type": 3
+    },
+    {
+      "description_placeholder": "",
+      "id": "5209f5f50db30169",
+      "image": "",
+      "name": "property_RallySlotVsBattlegroundMonster_gear",
+      "name_placeholder": "",
+      "type": 4
+    },
+    {
+      "description_placeholder": "",
+      "id": "e471b64b96997c22",
+      "image": "",
+      "name": "property_RallySlotVsBattlegroundMonster_hero",
+      "name_placeholder": "",
+      "type": 11
+    },
+    {
+      "description_placeholder": "",
+      "id": "cc56931abde61e98",
+      "image": "",
+      "name": "property_MarchingSpeedJoinRallyvsBattlegroundMonster_seatofpower",
+      "name_placeholder": "",
+      "type": 6
+    },
+    {
+      "description_placeholder": "",
+      "id": "69ff91c0972d81fd",
+      "image": "",
+      "name": "property_MarchingSpeedJoinRallyvsBattlegroundMonster_activity",
+      "name_placeholder": "",
+      "type": 9
+    },
+    {
+      "description_placeholder": "",
+      "id": "564033ff63ef532",
+      "image": "",
+      "name": "property_MarchingSpeedJoinRallyvsBattlegroundMonster_consumable",
+      "name_placeholder": "",
+      "type": 3
+    },
+    {
+      "description_placeholder": "",
+      "id": "1465a144acadcac0",
+      "image": "",
+      "name": "property_MarchingSpeedJoinRallyvsBattlegroundMonster_gear",
+      "name_placeholder": "",
+      "type": 4
+    },
+    {
+      "description_placeholder": "",
+      "id": "a21de2fa3787b78b",
+      "image": "",
+      "name": "property_MarchingSpeedJoinRallyvsBattlegroundMonster_hero",
+      "name_placeholder": "",
+      "type": 11
+    },
+    {
+      "description_placeholder": "",
+      "id": "355697d173692a79",
+      "image": "",
+      "name": "property_TroopAttackVsBattlegroundMonster_seatofpower",
+      "name_placeholder": "",
+      "type": 6
+    },
+    {
+      "description_placeholder": "",
+      "id": "cab628aa9c10c93f",
+      "image": "",
+      "name": "property_TroopAttackVsBattlegroundMonster_activity",
+      "name_placeholder": "",
+      "type": 9
+    },
+    {
+      "description_placeholder": "",
+      "id": "97fc601c2a72f05b",
+      "image": "",
+      "name": "property_TroopAttackVsBattlegroundMonster_consumable",
+      "name_placeholder": "",
+      "type": 3
+    },
+    {
+      "description_placeholder": "",
+      "id": "e6e27f7aa806aab2",
+      "image": "",
+      "name": "property_TroopAttackVsBattlegroundMonster_gear",
+      "name_placeholder": "",
+      "type": 4
+    },
+    {
+      "description_placeholder": "",
+      "id": "509a3cc4332cd7f9",
+      "image": "",
+      "name": "property_TroopAttackVsBattlegroundMonster_hero",
+      "name_placeholder": "",
+      "type": 11
+    },
+    {
+      "description_placeholder": "",
+      "id": "afbeed6fae56b0c1",
+      "image": "",
+      "name": "property_TroopDefenseVsBattlegroundMonster_seatofpower",
+      "name_placeholder": "",
+      "type": 6
+    },
+    {
+      "description_placeholder": "",
+      "id": "9baf725f3c455095",
+      "image": "",
+      "name": "property_TroopDefenseVsBattlegroundMonster_activity",
+      "name_placeholder": "",
+      "type": 9
+    },
+    {
+      "description_placeholder": "",
+      "id": "46fe6f94be1df8a4",
+      "image": "",
+      "name": "property_TroopDefenseVsBattlegroundMonster_consumable",
+      "name_placeholder": "",
+      "type": 3
+    },
+    {
+      "description_placeholder": "",
+      "id": "e5555bfa77fab26d",
+      "image": "",
+      "name": "property_TroopDefenseVsBattlegroundMonster_gear",
+      "name_placeholder": "",
+      "type": 4
+    },
+    {
+      "description_placeholder": "",
+      "id": "532d1844ecd0cf26",
+      "image": "",
+      "name": "property_TroopDefenseVsBattlegroundMonster_hero",
+      "name_placeholder": "",
+      "type": 11
+    },
+    {
+      "description_placeholder": "",
+      "id": "22030ff1a41e93e7",
+      "image": "",
+      "name": "property_TroopHealthVsBattlegroundMonster_seatofpower",
+      "name_placeholder": "",
+      "type": 6
+    },
+    {
+      "description_placeholder": "",
+      "id": "addf90699caa00f8",
+      "image": "",
+      "name": "property_TroopHealthVsBattlegroundMonster_activity",
+      "name_placeholder": "",
+      "type": 9
+    },
+    {
+      "description_placeholder": "",
+      "id": "f966f0df191b7be5",
+      "image": "",
+      "name": "property_TroopHealthVsBattlegroundMonster_consumable",
+      "name_placeholder": "",
+      "type": 3
+    },
+    {
+      "description_placeholder": "",
+      "id": "e4ae74ded61d8e4a",
+      "image": "",
+      "name": "property_TroopHealthVsBattlegroundMonster_gear",
+      "name_placeholder": "",
+      "type": 4
+    },
+    {
+      "description_placeholder": "",
+      "id": "52d637604d37f301",
+      "image": "",
+      "name": "property_TroopHealthVsBattlegroundMonster_hero",
+      "name_placeholder": "",
+      "type": 11
+    },
+    {
+      "description_placeholder": "",
+      "id": "8022ff7c50982030",
+      "image": "",
+      "name": "property_MarchSpeedVsBattlegroundMonster_seatofpower",
+      "name_placeholder": "",
+      "type": 6
+    },
+    {
+      "description_placeholder": "",
+      "id": "748f3d3aae16e641",
+      "image": "",
+      "name": "property_MarchSpeedVsBattlegroundMonster_activity",
+      "name_placeholder": "",
+      "type": 9
+    },
+    {
+      "description_placeholder": "",
+      "id": "2e535e37b0826df3",
+      "image": "",
+      "name": "property_MarchSpeedVsBattlegroundMonster_consumable",
+      "name_placeholder": "",
+      "type": 3
+    },
+    {
+      "description_placeholder": "",
+      "id": "dbf73876a5b54955",
+      "image": "",
+      "name": "property_MarchSpeedVsBattlegroundMonster_gear",
+      "name_placeholder": "",
+      "type": 4
+    },
+    {
+      "description_placeholder": "",
+      "id": "6d8f7bc83e9f341e",
+      "image": "",
+      "name": "property_MarchSpeedVsBattlegroundMonster_hero",
+      "name_placeholder": "",
+      "type": 11
+    },
+    {
+      "description_placeholder": "",
+      "id": "32e6d2ac93d4e40d",
+      "image": "",
+      "name": "property_AttackerHeroAttackvsBattlegroundMonster_seatofpower",
+      "name_placeholder": "",
+      "type": 6
+    },
+    {
+      "description_placeholder": "",
+      "id": "37e1ae0209b5470f",
+      "image": "",
+      "name": "property_AttackerHeroAttackvsBattlegroundMonster_activity",
+      "name_placeholder": "",
+      "type": 9
+    },
+    {
+      "description_placeholder": "",
+      "id": "afea565cf8aef7dc",
+      "image": "",
+      "name": "property_AttackerHeroAttackvsBattlegroundMonster_consumable",
+      "name_placeholder": "",
+      "type": 3
+    },
+    {
+      "description_placeholder": "",
+      "id": "baabfa19bbac3730",
+      "image": "",
+      "name": "property_AttackerHeroAttackvsBattlegroundMonster_gear",
+      "name_placeholder": "",
+      "type": 4
+    },
+    {
+      "description_placeholder": "",
+      "id": "cd3b9a720864a7b",
+      "image": "",
+      "name": "property_AttackerHeroAttackvsBattlegroundMonster_hero",
+      "name_placeholder": "",
+      "type": 11
     }
   ]
 }
