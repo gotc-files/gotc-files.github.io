@@ -1020,6 +1020,36 @@
           "progression": "prog_armory_bonus_MarchSize_1"
         }
       ]
+    },
+    {
+      "id": "7d5c093285a2eea5",
+      "name": "armcol_events_baratheon2_1",
+      "stats": [
+        {
+          "name": "property_CavalryAttackVsPlayersCavalry_armory",
+          "progression": "prog_armory_bonus_SpecificTroop_1"
+        }
+      ]
+    },
+    {
+      "id": "84e55d95c571cab",
+      "name": "armcol_events_baratheon2_2",
+      "stats": [
+        {
+          "name": "property_MarcherCavalryHealthVsPlayer_armory",
+          "progression": "prog_armory_bouns_MarcherTroop_1"
+        }
+      ]
+    },
+    {
+      "id": "24bf9e7feb044d51",
+      "name": "armcol_events_baratheon2_3",
+      "stats": [
+        {
+          "name": "property_CavalryAttackVsPlayer_armory",
+          "progression": "prog_armory_bonus_SpecificTroop_1"
+        }
+      ]
     }
   ]
 }

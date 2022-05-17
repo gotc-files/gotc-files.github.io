@@ -408,6 +408,18 @@
       "name": "armcol_events_deadwalk",
       "name_placeholder": "EQ_EVENTS_DEADWALK_SET_NAME",
       "priority": 20100
+    },
+    {
+      "bonuses": [
+        "armcol_events_baratheon2_1",
+        "armcol_events_baratheon2_2",
+        "armcol_events_baratheon2_3"
+      ],
+      "gear_set_name": "gearset_events_baratheon2",
+      "id": "c6263656b9483b61",
+      "name": "armcol_events_baratheon2",
+      "name_placeholder": "EQ_EVENTS_BARATHEON2_SET_NAME",
+      "priority": 20700
     }
   ]
 }

@@ -72146,6 +72146,222 @@
       "type": 11
     },
     {
+      "description_placeholder": "PROPERTY_TRUEDAMAGEADDMOD_ALLTHREECORE_ALLTIERS_DESC",
+      "id": "77d3e64df3fbf0f8",
+      "image": "icon_damage.png",
+      "name": "property_TrueDamageAddMod_AllThreeCore_AllTiers_hero",
+      "name_placeholder": "PROPERTY_TRUEDAMAGEADDMOD_ALLTHREECORE_ALLTIERS_NAME",
+      "type": 11
+    },
+    {
+      "description_placeholder": "PROPERTY_TRUEDAMAGEADDMOD_ALLTHREECORE_ALLTIERS_DESC",
+      "id": "c1aba5f368d18db3",
+      "image": "icon_damage.png",
+      "name": "property_TrueDamageAddMod_AllThreeCore_AllTiers_gear",
+      "name_placeholder": "PROPERTY_TRUEDAMAGEADDMOD_ALLTHREECORE_ALLTIERS_NAME",
+      "type": 4
+    },
+    {
+      "description_placeholder": "PROPERTY_TRUEDAMAGEADDMOD_ALLTHREECORE_ALLTIERS_DESC",
+      "id": "d382d5b687a14edf",
+      "image": "icon_damage.png",
+      "name": "property_TrueDamageAddMod_AllThreeCore_AllTiers_activity",
+      "name_placeholder": "PROPERTY_TRUEDAMAGEADDMOD_ALLTHREECORE_ALLTIERS_NAME",
+      "type": 9
+    },
+    {
+      "description_placeholder": "PROPERTY_TRUEDAMAGEADDMOD_ALLTHREECORE_TIER05_DESC",
+      "id": "7afd61ea7d3c22f7",
+      "image": "icon_damage.png",
+      "name": "property_TrueDamageAddMod_AllThreeCore_Tier05_gear",
+      "name_placeholder": "PROPERTY_TRUEDAMAGEADDMOD_ALLTHREECORE_TIER05_NAME",
+      "type": 4
+    },
+    {
+      "description_placeholder": "PROPERTY_TRUEDAMAGEADDMOD_ALLTHREECORE_TIER05_DESC",
+      "id": "9d0601b5d16f8bbd",
+      "image": "icon_damage.png",
+      "name": "property_TrueDamageAddMod_AllThreeCore_Tier05_activity",
+      "name_placeholder": "PROPERTY_TRUEDAMAGEADDMOD_ALLTHREECORE_TIER05_NAME",
+      "type": 9
+    },
+    {
+      "description_placeholder": "PROPERTY_TRUEDAMAGEADDMOD_ALLTHREECORE_TIER05_DESC",
+      "id": "cc852254e6165fbc",
+      "image": "icon_damage.png",
+      "name": "property_TrueDamageAddMod_AllThreeCore_Tier05_hero",
+      "name_placeholder": "PROPERTY_TRUEDAMAGEADDMOD_ALLTHREECORE_TIER05_NAME",
+      "type": 11
+    },
+    {
+      "description_placeholder": "PROPERTY_TRUEDAMAGEADDMOD_ALLTHREECORE_TIER06_DESC",
+      "id": "a8edb15e2845c17",
+      "image": "icon_damage.png",
+      "name": "property_TrueDamageAddMod_AllThreeCore_Tier06_gear",
+      "name_placeholder": "PROPERTY_TRUEDAMAGEADDMOD_ALLTHREECORE_TIER06_NAME",
+      "type": 4
+    },
+    {
+      "description_placeholder": "PROPERTY_TRUEDAMAGEADDMOD_ALLTHREECORE_TIER06_DESC",
+      "id": "eaf7bfce19d591d1",
+      "image": "icon_damage.png",
+      "name": "property_TrueDamageAddMod_AllThreeCore_Tier06_activity",
+      "name_placeholder": "PROPERTY_TRUEDAMAGEADDMOD_ALLTHREECORE_TIER06_NAME",
+      "type": 9
+    },
+    {
+      "description_placeholder": "PROPERTY_TRUEDAMAGEADDMOD_ALLTHREECORE_TIER06_DESC",
+      "id": "bcf698ab79ae215c",
+      "image": "icon_damage.png",
+      "name": "property_TrueDamageAddMod_AllThreeCore_Tier06_hero",
+      "name_placeholder": "PROPERTY_TRUEDAMAGEADDMOD_ALLTHREECORE_TIER06_NAME",
+      "type": 11
+    },
+    {
+      "description_placeholder": "PROPERTY_TRUEDAMAGEADDMOD_ALLTHREECORE_TIER07_DESC",
+      "id": "255fb2bf681389b7",
+      "image": "icon_damage.png",
+      "name": "property_TrueDamageAddMod_AllThreeCore_Tier07_gear",
+      "name_placeholder": "PROPERTY_TRUEDAMAGEADDMOD_ALLTHREECORE_TIER07_NAME",
+      "type": 4
+    },
+    {
+      "description_placeholder": "PROPERTY_TRUEDAMAGEADDMOD_ALLTHREECORE_TIER07_DESC",
+      "id": "c7a72a18a1bc67f5",
+      "image": "icon_damage.png",
+      "name": "property_TrueDamageAddMod_AllThreeCore_Tier07_activity",
+      "name_placeholder": "PROPERTY_TRUEDAMAGEADDMOD_ALLTHREECORE_TIER07_NAME",
+      "type": 9
+    },
+    {
+      "description_placeholder": "PROPERTY_TRUEDAMAGEADDMOD_ALLTHREECORE_TIER07_DESC",
+      "id": "9327f101f339f4fc",
+      "image": "icon_damage.png",
+      "name": "property_TrueDamageAddMod_AllThreeCore_Tier07_hero",
+      "name_placeholder": "PROPERTY_TRUEDAMAGEADDMOD_ALLTHREECORE_TIER07_NAME",
+      "type": 11
+    },
+    {
+      "description_placeholder": "PROPERTY_TRUEDAMAGEADDMOD_ALLTHREECORE_TIER08_DESC",
+      "id": "1658a1cbc0e543fc",
+      "image": "icon_damage.png",
+      "name": "property_TrueDamageAddMod_AllThreeCore_Tier08_gear",
+      "name_placeholder": "PROPERTY_TRUEDAMAGEADDMOD_ALLTHREECORE_TIER08_NAME",
+      "type": 4
+    },
+    {
+      "description_placeholder": "PROPERTY_TRUEDAMAGEADDMOD_ALLTHREECORE_TIER08_DESC",
+      "id": "ed2a2ff902415b02",
+      "image": "icon_damage.png",
+      "name": "property_TrueDamageAddMod_AllThreeCore_Tier08_activity",
+      "name_placeholder": "PROPERTY_TRUEDAMAGEADDMOD_ALLTHREECORE_TIER08_NAME",
+      "type": 9
+    },
+    {
+      "description_placeholder": "PROPERTY_TRUEDAMAGEADDMOD_ALLTHREECORE_TIER08_DESC",
+      "id": "a020e2755bcf3eb7",
+      "image": "icon_damage.png",
+      "name": "property_TrueDamageAddMod_AllThreeCore_Tier08_hero",
+      "name_placeholder": "PROPERTY_TRUEDAMAGEADDMOD_ALLTHREECORE_TIER08_NAME",
+      "type": 11
+    },
+    {
+      "description_placeholder": "PROPERTY_TRUEDAMAGEADDMOD_ALLTHREECORE_TIER09_DESC",
+      "id": "3989c8614a72965c",
+      "image": "icon_damage.png",
+      "name": "property_TrueDamageAddMod_AllThreeCore_Tier09_gear",
+      "name_placeholder": "PROPERTY_TRUEDAMAGEADDMOD_ALLTHREECORE_TIER09_NAME",
+      "type": 4
+    },
+    {
+      "description_placeholder": "PROPERTY_TRUEDAMAGEADDMOD_ALLTHREECORE_TIER09_DESC",
+      "id": "c07aba2fba28ad26",
+      "image": "icon_damage.png",
+      "name": "property_TrueDamageAddMod_AllThreeCore_Tier09_activity",
+      "name_placeholder": "PROPERTY_TRUEDAMAGEADDMOD_ALLTHREECORE_TIER09_NAME",
+      "type": 9
+    },
+    {
+      "description_placeholder": "PROPERTY_TRUEDAMAGEADDMOD_ALLTHREECORE_TIER09_DESC",
+      "id": "8ff18bdfd158eb17",
+      "image": "icon_damage.png",
+      "name": "property_TrueDamageAddMod_AllThreeCore_Tier09_hero",
+      "name_placeholder": "PROPERTY_TRUEDAMAGEADDMOD_ALLTHREECORE_TIER09_NAME",
+      "type": 11
+    },
+    {
+      "description_placeholder": "PROPERTY_TRUEDAMAGEADDMOD_ALLTHREECORE_TIER10_DESC",
+      "id": "babfa7508c200c2d",
+      "image": "icon_damage.png",
+      "name": "property_TrueDamageAddMod_AllThreeCore_Tier10_gear",
+      "name_placeholder": "PROPERTY_TRUEDAMAGEADDMOD_ALLTHREECORE_TIER10_NAME",
+      "type": 4
+    },
+    {
+      "description_placeholder": "PROPERTY_TRUEDAMAGEADDMOD_ALLTHREECORE_TIER10_DESC",
+      "id": "275a44dfdcdd16ad",
+      "image": "icon_damage.png",
+      "name": "property_TrueDamageAddMod_AllThreeCore_Tier10_activity",
+      "name_placeholder": "PROPERTY_TRUEDAMAGEADDMOD_ALLTHREECORE_TIER10_NAME",
+      "type": 9
+    },
+    {
+      "description_placeholder": "PROPERTY_TRUEDAMAGEADDMOD_ALLTHREECORE_TIER10_DESC",
+      "id": "cc7e4ee170a7166",
+      "image": "icon_damage.png",
+      "name": "property_TrueDamageAddMod_AllThreeCore_Tier10_hero",
+      "name_placeholder": "PROPERTY_TRUEDAMAGEADDMOD_ALLTHREECORE_TIER10_NAME",
+      "type": 11
+    },
+    {
+      "description_placeholder": "PROPERTY_TRUEDAMAGEADDMOD_ALLTHREECORE_TIER11_DESC",
+      "id": "956ecefa06b7d98d",
+      "image": "icon_damage.png",
+      "name": "property_TrueDamageAddMod_AllThreeCore_Tier11_gear",
+      "name_placeholder": "PROPERTY_TRUEDAMAGEADDMOD_ALLTHREECORE_TIER11_NAME",
+      "type": 4
+    },
+    {
+      "description_placeholder": "PROPERTY_TRUEDAMAGEADDMOD_ALLTHREECORE_TIER11_DESC",
+      "id": "a0ad10964b4e089",
+      "image": "icon_damage.png",
+      "name": "property_TrueDamageAddMod_AllThreeCore_Tier11_activity",
+      "name_placeholder": "PROPERTY_TRUEDAMAGEADDMOD_ALLTHREECORE_TIER11_NAME",
+      "type": 9
+    },
+    {
+      "description_placeholder": "PROPERTY_TRUEDAMAGEADDMOD_ALLTHREECORE_TIER11_DESC",
+      "id": "23168d449d9da4c6",
+      "image": "icon_damage.png",
+      "name": "property_TrueDamageAddMod_AllThreeCore_Tier11_hero",
+      "name_placeholder": "PROPERTY_TRUEDAMAGEADDMOD_ALLTHREECORE_TIER11_NAME",
+      "type": 11
+    },
+    {
+      "description_placeholder": "PROPERTY_TRUEDAMAGEADDMOD_ALLTHREECORE_TIER12_DESC",
+      "id": "e51d7405990fa76d",
+      "image": "icon_damage.png",
+      "name": "property_TrueDamageAddMod_AllThreeCore_Tier12_gear",
+      "name_placeholder": "PROPERTY_TRUEDAMAGEADDMOD_ALLTHREECORE_TIER12_NAME",
+      "type": 4
+    },
+    {
+      "description_placeholder": "PROPERTY_TRUEDAMAGEADDMOD_ALLTHREECORE_TIER12_DESC",
+      "id": "7dfb6f72ac0efae5",
+      "image": "icon_damage.png",
+      "name": "property_TrueDamageAddMod_AllThreeCore_Tier12_activity",
+      "name_placeholder": "PROPERTY_TRUEDAMAGEADDMOD_ALLTHREECORE_TIER12_NAME",
+      "type": 9
+    },
+    {
+      "description_placeholder": "PROPERTY_TRUEDAMAGEADDMOD_ALLTHREECORE_TIER12_DESC",
+      "id": "536537bb0225da26",
+      "image": "icon_damage.png",
+      "name": "property_TrueDamageAddMod_AllThreeCore_Tier12_hero",
+      "name_placeholder": "PROPERTY_TRUEDAMAGEADDMOD_ALLTHREECORE_TIER12_NAME",
+      "type": 11
+    },
+    {
       "description_placeholder": "PROPERTY_DEFENDERTROOPATTACKVSPLAYERSTRATEGICTERRAIN_DESC",
       "id": "9ca804719bc3d7e0",
       "image": "dragon_talent_hatchling_troop_attack.png",

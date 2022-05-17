@@ -18360,6 +18360,546 @@
       "name_placeholder": "EQ_EVENTS_DEADWALK_50_WEAPON_LORD50_NAME",
       "priority": 302040,
       "slot_name": "slot_Weapon"
+    },
+    {
+      "id": "4d390b6d01a7e23c",
+      "image": "icon_eq_events_baratheon2_boots_1.png",
+      "level": 5,
+      "name": "eq_events_baratheon2_5_boots_lord5",
+      "name_placeholder": "EQ_EVENTS_BARATHEON2_5_BOOTS_LORD5_NAME",
+      "priority": 302041,
+      "slot_name": "slot_Boots"
+    },
+    {
+      "id": "5d935c352e00fcab",
+      "image": "icon_eq_events_baratheon2_chest_1.png",
+      "level": 5,
+      "name": "eq_events_baratheon2_5_chest_lord5",
+      "name_placeholder": "EQ_EVENTS_BARATHEON2_5_CHEST_LORD5_NAME",
+      "priority": 302042,
+      "slot_name": "slot_Chest"
+    },
+    {
+      "id": "88210d96320f00d2",
+      "image": "icon_eq_events_baratheon2_helmet_1.png",
+      "level": 5,
+      "name": "eq_events_baratheon2_5_helmet_lord5",
+      "name_placeholder": "EQ_EVENTS_BARATHEON2_5_HELMET_LORD5_NAME",
+      "priority": 302043,
+      "slot_name": "slot_Helmet"
+    },
+    {
+      "id": "8ebb1e165cf835b0",
+      "image": "icon_eq_events_baratheon2_pants_1.png",
+      "level": 5,
+      "name": "eq_events_baratheon2_5_pants_lord5",
+      "name_placeholder": "EQ_EVENTS_BARATHEON2_5_PANTS_LORD5_NAME",
+      "priority": 302044,
+      "slot_name": "slot_Pants"
+    },
+    {
+      "id": "3c4a452e42c60003",
+      "image": "icon_eq_events_baratheon2_ring_1.png",
+      "level": 5,
+      "name": "eq_events_baratheon2_5_ring_lord5",
+      "name_placeholder": "EQ_EVENTS_BARATHEON2_5_RING_LORD5_NAME",
+      "priority": 302045,
+      "slot_name": "slot_Ring"
+    },
+    {
+      "id": "effc95a17bd05e5f",
+      "image": "icon_eq_events_baratheon2_weapon_1.png",
+      "level": 5,
+      "name": "eq_events_baratheon2_5_weapon_lord5",
+      "name_placeholder": "EQ_EVENTS_BARATHEON2_5_WEAPON_LORD5_NAME",
+      "priority": 302046,
+      "slot_name": "slot_Weapon"
+    },
+    {
+      "id": "f9086866dec4f5f1",
+      "image": "icon_eq_events_baratheon2_boots_1.png",
+      "level": 10,
+      "name": "eq_events_baratheon2_10_boots_lord10",
+      "name_placeholder": "EQ_EVENTS_BARATHEON2_10_BOOTS_LORD10_NAME",
+      "priority": 302047,
+      "slot_name": "slot_Boots"
+    },
+    {
+      "id": "b642ed8e89408e41",
+      "image": "icon_eq_events_baratheon2_chest_1.png",
+      "level": 10,
+      "name": "eq_events_baratheon2_10_chest_lord10",
+      "name_placeholder": "EQ_EVENTS_BARATHEON2_10_CHEST_LORD10_NAME",
+      "priority": 302048,
+      "slot_name": "slot_Chest"
+    },
+    {
+      "id": "8a0af4b84096c287",
+      "image": "icon_eq_events_baratheon2_helmet_1.png",
+      "level": 10,
+      "name": "eq_events_baratheon2_10_helmet_lord10",
+      "name_placeholder": "EQ_EVENTS_BARATHEON2_10_HELMET_LORD10_NAME",
+      "priority": 302049,
+      "slot_name": "slot_Helmet"
+    },
+    {
+      "id": "6e65fa932f368aa0",
+      "image": "icon_eq_events_baratheon2_pants_1.png",
+      "level": 10,
+      "name": "eq_events_baratheon2_10_pants_lord10",
+      "name_placeholder": "EQ_EVENTS_BARATHEON2_10_PANTS_LORD10_NAME",
+      "priority": 302050,
+      "slot_name": "slot_Pants"
+    },
+    {
+      "id": "dcdfc96d28971428",
+      "image": "icon_eq_events_baratheon2_ring_1.png",
+      "level": 10,
+      "name": "eq_events_baratheon2_10_ring_lord10",
+      "name_placeholder": "EQ_EVENTS_BARATHEON2_10_RING_LORD10_NAME",
+      "priority": 302051,
+      "slot_name": "slot_Ring"
+    },
+    {
+      "id": "3132f2664a236ca5",
+      "image": "icon_eq_events_baratheon2_weapon_1.png",
+      "level": 10,
+      "name": "eq_events_baratheon2_10_weapon_lord10",
+      "name_placeholder": "EQ_EVENTS_BARATHEON2_10_WEAPON_LORD10_NAME",
+      "priority": 302052,
+      "slot_name": "slot_Weapon"
+    },
+    {
+      "id": "736210b42d971001",
+      "image": "icon_eq_events_baratheon2_boots_1.png",
+      "level": 15,
+      "name": "eq_events_baratheon2_15_boots_lord15",
+      "name_placeholder": "EQ_EVENTS_BARATHEON2_15_BOOTS_LORD15_NAME",
+      "priority": 302053,
+      "slot_name": "slot_Boots"
+    },
+    {
+      "id": "3c28955c7a136bb1",
+      "image": "icon_eq_events_baratheon2_chest_1.png",
+      "level": 15,
+      "name": "eq_events_baratheon2_15_chest_lord15",
+      "name_placeholder": "EQ_EVENTS_BARATHEON2_15_CHEST_LORD15_NAME",
+      "priority": 302054,
+      "slot_name": "slot_Chest"
+    },
+    {
+      "id": "bdc0b320a75574e2",
+      "image": "icon_eq_events_baratheon2_helmet_1.png",
+      "level": 15,
+      "name": "eq_events_baratheon2_15_helmet_lord15",
+      "name_placeholder": "EQ_EVENTS_BARATHEON2_15_HELMET_LORD15_NAME",
+      "priority": 302055,
+      "slot_name": "slot_Helmet"
+    },
+    {
+      "id": "e40f8241dc656f50",
+      "image": "icon_eq_events_baratheon2_pants_1.png",
+      "level": 15,
+      "name": "eq_events_baratheon2_15_pants_lord15",
+      "name_placeholder": "EQ_EVENTS_BARATHEON2_15_PANTS_LORD15_NAME",
+      "priority": 302056,
+      "slot_name": "slot_Pants"
+    },
+    {
+      "id": "a3b8b443915b24f9",
+      "image": "icon_eq_events_baratheon2_ring_1.png",
+      "level": 15,
+      "name": "eq_events_baratheon2_15_ring_lord15",
+      "name_placeholder": "EQ_EVENTS_BARATHEON2_15_RING_LORD15_NAME",
+      "priority": 302057,
+      "slot_name": "slot_Ring"
+    },
+    {
+      "id": "6f8b5feade0dac0",
+      "image": "icon_eq_events_baratheon2_weapon_1.png",
+      "level": 15,
+      "name": "eq_events_baratheon2_15_weapon_lord15",
+      "name_placeholder": "EQ_EVENTS_BARATHEON2_15_WEAPON_LORD15_NAME",
+      "priority": 302058,
+      "slot_name": "slot_Weapon"
+    },
+    {
+      "id": "10507ce2361281d0",
+      "image": "icon_eq_events_baratheon2_boots_1.png",
+      "level": 20,
+      "name": "eq_events_baratheon2_20_boots_lord20",
+      "name_placeholder": "EQ_EVENTS_BARATHEON2_20_BOOTS_LORD20_NAME",
+      "priority": 302059,
+      "slot_name": "slot_Boots"
+    },
+    {
+      "id": "5f1af90a6196fa60",
+      "image": "icon_eq_events_baratheon2_chest_1.png",
+      "level": 20,
+      "name": "eq_events_baratheon2_20_chest_lord20",
+      "name_placeholder": "EQ_EVENTS_BARATHEON2_20_CHEST_LORD20_NAME",
+      "priority": 302060,
+      "slot_name": "slot_Chest"
+    },
+    {
+      "id": "ef38d65489d2d6b8",
+      "image": "icon_eq_events_baratheon2_helmet_1.png",
+      "level": 20,
+      "name": "eq_events_baratheon2_20_helmet_lord20",
+      "name_placeholder": "EQ_EVENTS_BARATHEON2_20_HELMET_LORD20_NAME",
+      "priority": 302061,
+      "slot_name": "slot_Helmet"
+    },
+    {
+      "id": "873dee17c7e0fe81",
+      "image": "icon_eq_events_baratheon2_pants_1.png",
+      "level": 20,
+      "name": "eq_events_baratheon2_20_pants_lord20",
+      "name_placeholder": "EQ_EVENTS_BARATHEON2_20_PANTS_LORD20_NAME",
+      "priority": 302062,
+      "slot_name": "slot_Pants"
+    },
+    {
+      "id": "df71f6fcf4ab9463",
+      "image": "icon_eq_events_baratheon2_ring_1.png",
+      "level": 20,
+      "name": "eq_events_baratheon2_20_ring_lord20",
+      "name_placeholder": "EQ_EVENTS_BARATHEON2_20_RING_LORD20_NAME",
+      "priority": 302063,
+      "slot_name": "slot_Ring"
+    },
+    {
+      "id": "5400d08a8367789a",
+      "image": "icon_eq_events_baratheon2_weapon_1.png",
+      "level": 20,
+      "name": "eq_events_baratheon2_20_weapon_lord20",
+      "name_placeholder": "EQ_EVENTS_BARATHEON2_20_WEAPON_LORD20_NAME",
+      "priority": 302064,
+      "slot_name": "slot_Weapon"
+    },
+    {
+      "id": "9a3a0430c5416420",
+      "image": "icon_eq_events_baratheon2_boots_1.png",
+      "level": 25,
+      "name": "eq_events_baratheon2_25_boots_lord25",
+      "name_placeholder": "EQ_EVENTS_BARATHEON2_25_BOOTS_LORD25_NAME",
+      "priority": 302065,
+      "slot_name": "slot_Boots"
+    },
+    {
+      "id": "d57081d892c51f90",
+      "image": "icon_eq_events_baratheon2_chest_1.png",
+      "level": 25,
+      "name": "eq_events_baratheon2_25_chest_lord25",
+      "name_placeholder": "EQ_EVENTS_BARATHEON2_25_CHEST_LORD25_NAME",
+      "priority": 302066,
+      "slot_name": "slot_Chest"
+    },
+    {
+      "id": "d8f291cc6e1160dd",
+      "image": "icon_eq_events_baratheon2_helmet_1.png",
+      "level": 25,
+      "name": "eq_events_baratheon2_25_helmet_lord25",
+      "name_placeholder": "EQ_EVENTS_BARATHEON2_25_HELMET_LORD25_NAME",
+      "priority": 302067,
+      "slot_name": "slot_Helmet"
+    },
+    {
+      "id": "d5796c534b31b71",
+      "image": "icon_eq_events_baratheon2_pants_1.png",
+      "level": 25,
+      "name": "eq_events_baratheon2_25_pants_lord25",
+      "name_placeholder": "EQ_EVENTS_BARATHEON2_25_PANTS_LORD25_NAME",
+      "priority": 302068,
+      "slot_name": "slot_Pants"
+    },
+    {
+      "id": "a0168bd24d67a4b2",
+      "image": "icon_eq_events_baratheon2_ring_1.png",
+      "level": 25,
+      "name": "eq_events_baratheon2_25_ring_lord25",
+      "name_placeholder": "EQ_EVENTS_BARATHEON2_25_RING_LORD25_NAME",
+      "priority": 302069,
+      "slot_name": "slot_Ring"
+    },
+    {
+      "id": "63ca971264a4ceff",
+      "image": "icon_eq_events_baratheon2_weapon_1.png",
+      "level": 25,
+      "name": "eq_events_baratheon2_25_weapon_lord25",
+      "name_placeholder": "EQ_EVENTS_BARATHEON2_25_WEAPON_LORD25_NAME",
+      "priority": 302070,
+      "slot_name": "slot_Weapon"
+    },
+    {
+      "id": "c90e4eb2a93a68d6",
+      "image": "icon_eq_events_baratheon2_boots_1.png",
+      "level": 30,
+      "name": "eq_events_baratheon2_30_boots_lord30",
+      "name_placeholder": "EQ_EVENTS_BARATHEON2_30_BOOTS_LORD30_NAME",
+      "priority": 302071,
+      "slot_name": "slot_Boots"
+    },
+    {
+      "id": "8644cb5afebe1366",
+      "image": "icon_eq_events_baratheon2_chest_1.png",
+      "level": 30,
+      "name": "eq_events_baratheon2_30_chest_lord30",
+      "name_placeholder": "EQ_EVENTS_BARATHEON2_30_CHEST_LORD30_NAME",
+      "priority": 302072,
+      "slot_name": "slot_Chest"
+    },
+    {
+      "id": "cc2937f0ceeedaad",
+      "image": "icon_eq_events_baratheon2_helmet_1.png",
+      "level": 30,
+      "name": "eq_events_baratheon2_30_helmet_lord30",
+      "name_placeholder": "EQ_EVENTS_BARATHEON2_30_HELMET_LORD30_NAME",
+      "priority": 302073,
+      "slot_name": "slot_Helmet"
+    },
+    {
+      "id": "5e63dc4758c81787",
+      "image": "icon_eq_events_baratheon2_pants_1.png",
+      "level": 30,
+      "name": "eq_events_baratheon2_30_pants_lord30",
+      "name_placeholder": "EQ_EVENTS_BARATHEON2_30_PANTS_LORD30_NAME",
+      "priority": 302074,
+      "slot_name": "slot_Pants"
+    },
+    {
+      "id": "de141c73bf40145a",
+      "image": "icon_eq_events_baratheon2_ring_1.png",
+      "level": 30,
+      "name": "eq_events_baratheon2_30_ring_lord30",
+      "name_placeholder": "EQ_EVENTS_BARATHEON2_30_RING_LORD30_NAME",
+      "priority": 302075,
+      "slot_name": "slot_Ring"
+    },
+    {
+      "id": "7711312ec45b748f",
+      "image": "icon_eq_events_baratheon2_weapon_1.png",
+      "level": 30,
+      "name": "eq_events_baratheon2_30_weapon_lord30",
+      "name_placeholder": "EQ_EVENTS_BARATHEON2_30_WEAPON_LORD30_NAME",
+      "priority": 302076,
+      "slot_name": "slot_Weapon"
+    },
+    {
+      "id": "436436605a698d26",
+      "image": "icon_eq_events_baratheon2_boots_1.png",
+      "level": 35,
+      "name": "eq_events_baratheon2_35_boots_lord35",
+      "name_placeholder": "EQ_EVENTS_BARATHEON2_35_BOOTS_LORD35_NAME",
+      "priority": 302077,
+      "slot_name": "slot_Boots"
+    },
+    {
+      "id": "c2eb3880dedf696",
+      "image": "icon_eq_events_baratheon2_chest_1.png",
+      "level": 35,
+      "name": "eq_events_baratheon2_35_chest_lord35",
+      "name_placeholder": "EQ_EVENTS_BARATHEON2_35_CHEST_LORD35_NAME",
+      "priority": 302078,
+      "slot_name": "slot_Chest"
+    },
+    {
+      "id": "fbe37068292d6cc8",
+      "image": "icon_eq_events_baratheon2_helmet_1.png",
+      "level": 35,
+      "name": "eq_events_baratheon2_35_helmet_lord35",
+      "name_placeholder": "EQ_EVENTS_BARATHEON2_35_HELMET_LORD35_NAME",
+      "priority": 302079,
+      "slot_name": "slot_Helmet"
+    },
+    {
+      "id": "d409a495ab9bf277",
+      "image": "icon_eq_events_baratheon2_pants_1.png",
+      "level": 35,
+      "name": "eq_events_baratheon2_35_pants_lord35",
+      "name_placeholder": "EQ_EVENTS_BARATHEON2_35_PANTS_LORD35_NAME",
+      "priority": 302080,
+      "slot_name": "slot_Pants"
+    },
+    {
+      "id": "a173615d068c248b",
+      "image": "icon_eq_events_baratheon2_ring_1.png",
+      "level": 35,
+      "name": "eq_events_baratheon2_35_ring_lord35",
+      "name_placeholder": "EQ_EVENTS_BARATHEON2_35_RING_LORD35_NAME",
+      "priority": 302081,
+      "slot_name": "slot_Ring"
+    },
+    {
+      "id": "40db76b62398c2ea",
+      "image": "icon_eq_events_baratheon2_weapon_1.png",
+      "level": 35,
+      "name": "eq_events_baratheon2_35_weapon_lord35",
+      "name_placeholder": "EQ_EVENTS_BARATHEON2_35_WEAPON_LORD35_NAME",
+      "priority": 302082,
+      "slot_name": "slot_Weapon"
+    },
+    {
+      "id": "405a179eae1126b9",
+      "image": "icon_eq_events_baratheon2_boots_1.png",
+      "level": 40,
+      "name": "eq_events_baratheon2_40_boots_lord40",
+      "name_placeholder": "EQ_EVENTS_BARATHEON2_40_BOOTS_LORD40_NAME",
+      "priority": 302083,
+      "slot_name": "slot_Boots"
+    },
+    {
+      "id": "f109276f9955d09",
+      "image": "icon_eq_events_baratheon2_chest_1.png",
+      "level": 40,
+      "name": "eq_events_baratheon2_40_chest_lord40",
+      "name_placeholder": "EQ_EVENTS_BARATHEON2_40_CHEST_LORD40_NAME",
+      "priority": 302084,
+      "slot_name": "slot_Chest"
+    },
+    {
+      "id": "255c938d1b5afec6",
+      "image": "icon_eq_events_baratheon2_helmet_1.png",
+      "level": 40,
+      "name": "eq_events_baratheon2_40_helmet_lord40",
+      "name_placeholder": "EQ_EVENTS_BARATHEON2_40_HELMET_LORD40_NAME",
+      "priority": 302085,
+      "slot_name": "slot_Helmet"
+    },
+    {
+      "id": "d737856b5fe359e8",
+      "image": "icon_eq_events_baratheon2_pants_1.png",
+      "level": 40,
+      "name": "eq_events_baratheon2_40_pants_lord40",
+      "name_placeholder": "EQ_EVENTS_BARATHEON2_40_PANTS_LORD40_NAME",
+      "priority": 302086,
+      "slot_name": "slot_Pants"
+    },
+    {
+      "id": "d82d89df4cd294f5",
+      "image": "icon_eq_events_baratheon2_ring_1.png",
+      "level": 40,
+      "name": "eq_events_baratheon2_40_ring_lord40",
+      "name_placeholder": "EQ_EVENTS_BARATHEON2_40_RING_LORD40_NAME",
+      "priority": 302087,
+      "slot_name": "slot_Ring"
+    },
+    {
+      "id": "9e64955311ef50e4",
+      "image": "icon_eq_events_baratheon2_weapon_1.png",
+      "level": 40,
+      "name": "eq_events_baratheon2_40_weapon_lord40",
+      "name_placeholder": "EQ_EVENTS_BARATHEON2_40_WEAPON_LORD40_NAME",
+      "priority": 302088,
+      "slot_name": "slot_Weapon"
+    },
+    {
+      "id": "ca306f4c5d42c349",
+      "image": "icon_eq_events_baratheon2_boots_1.png",
+      "level": 45,
+      "name": "eq_events_baratheon2_45_boots_lord45",
+      "name_placeholder": "EQ_EVENTS_BARATHEON2_45_BOOTS_LORD45_NAME",
+      "priority": 302089,
+      "slot_name": "slot_Boots"
+    },
+    {
+      "id": "857aeaa40ac6b8f9",
+      "image": "icon_eq_events_baratheon2_chest_1.png",
+      "level": 45,
+      "name": "eq_events_baratheon2_45_chest_lord45",
+      "name_placeholder": "EQ_EVENTS_BARATHEON2_45_CHEST_LORD45_NAME",
+      "priority": 302090,
+      "slot_name": "slot_Chest"
+    },
+    {
+      "id": "1296d415fc9948a3",
+      "image": "icon_eq_events_baratheon2_helmet_1.png",
+      "level": 45,
+      "name": "eq_events_baratheon2_45_helmet_lord45",
+      "name_placeholder": "EQ_EVENTS_BARATHEON2_45_HELMET_LORD45_NAME",
+      "priority": 302091,
+      "slot_name": "slot_Helmet"
+    },
+    {
+      "id": "5d5dfdb9acb0bc18",
+      "image": "icon_eq_events_baratheon2_pants_1.png",
+      "level": 45,
+      "name": "eq_events_baratheon2_45_pants_lord45",
+      "name_placeholder": "EQ_EVENTS_BARATHEON2_45_PANTS_LORD45_NAME",
+      "priority": 302092,
+      "slot_name": "slot_Pants"
+    },
+    {
+      "id": "a74af4f1f51ea424",
+      "image": "icon_eq_events_baratheon2_ring_1.png",
+      "level": 45,
+      "name": "eq_events_baratheon2_45_ring_lord45",
+      "name_placeholder": "EQ_EVENTS_BARATHEON2_45_RING_LORD45_NAME",
+      "priority": 302093,
+      "slot_name": "slot_Ring"
+    },
+    {
+      "id": "a9aed2cbf62ce681",
+      "image": "icon_eq_events_baratheon2_weapon_1.png",
+      "level": 45,
+      "name": "eq_events_baratheon2_45_weapon_lord45",
+      "name_placeholder": "EQ_EVENTS_BARATHEON2_45_WEAPON_LORD45_NAME",
+      "priority": 302094,
+      "slot_name": "slot_Weapon"
+    },
+    {
+      "id": "990425ce3139cfbf",
+      "image": "icon_eq_events_baratheon2_boots_1.png",
+      "level": 50,
+      "name": "eq_events_baratheon2_50_boots_lord50",
+      "name_placeholder": "EQ_EVENTS_BARATHEON2_50_BOOTS_LORD50_NAME",
+      "priority": 302095,
+      "slot_name": "slot_Boots"
+    },
+    {
+      "id": "d64ea02666bdb40f",
+      "image": "icon_eq_events_baratheon2_chest_1.png",
+      "level": 50,
+      "name": "eq_events_baratheon2_50_chest_lord50",
+      "name_placeholder": "EQ_EVENTS_BARATHEON2_50_CHEST_LORD50_NAME",
+      "priority": 302096,
+      "slot_name": "slot_Chest"
+    },
+    {
+      "id": "64d72295c66f2d3",
+      "image": "icon_eq_events_baratheon2_helmet_1.png",
+      "level": 50,
+      "name": "eq_events_baratheon2_50_helmet_lord50",
+      "name_placeholder": "EQ_EVENTS_BARATHEON2_50_HELMET_LORD50_NAME",
+      "priority": 302097,
+      "slot_name": "slot_Helmet"
+    },
+    {
+      "id": "e69b73bc0cbb0ee",
+      "image": "icon_eq_events_baratheon2_pants_1.png",
+      "level": 50,
+      "name": "eq_events_baratheon2_50_pants_lord50",
+      "name_placeholder": "EQ_EVENTS_BARATHEON2_50_PANTS_LORD50_NAME",
+      "priority": 302098,
+      "slot_name": "slot_Pants"
+    },
+    {
+      "id": "d9486350073914cc",
+      "image": "icon_eq_events_baratheon2_ring_1.png",
+      "level": 50,
+      "name": "eq_events_baratheon2_50_ring_lord50",
+      "name_placeholder": "EQ_EVENTS_BARATHEON2_50_RING_LORD50_NAME",
+      "priority": 302099,
+      "slot_name": "slot_Ring"
+    },
+    {
+      "id": "bd7574f756d35cf1",
+      "image": "icon_eq_events_baratheon2_weapon_1.png",
+      "level": 50,
+      "name": "eq_events_baratheon2_50_weapon_lord50",
+      "name_placeholder": "EQ_EVENTS_BARATHEON2_50_WEAPON_LORD50_NAME",
+      "priority": 302100,
+      "slot_name": "slot_Weapon"
     }
   ]
 }

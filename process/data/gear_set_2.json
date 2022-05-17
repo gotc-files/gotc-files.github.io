@@ -915,6 +915,33 @@
       "ring_name": "prog_gearset_events_deadwalk_ring",
       "weapon_id": "3582ae8fd90573ed",
       "weapon_name": "prog_gearset_events_deadwalk_weapon"
+    },
+    {
+      "boots_id": "8fbfba1bc9c71981",
+      "boots_name": "prog_gearset_events_baratheon2_boots",
+      "chest_id": "b3c406b1fd5828b9",
+      "chest_name": "prog_gearset_events_baratheon2_chest",
+      "color": {
+        "alpha": 255,
+        "blue": 19,
+        "green": 185,
+        "red": 253
+      },
+      "description_placeholder": "EQ_EVENTS_BARATHEON2_SET_DESCRIPTION",
+      "helmet_id": "10c09a40be4a7f40",
+      "helmet_name": "prog_gearset_events_baratheon2_helmet",
+      "id": "256b0bee47db69f5",
+      "material_id": "5e434725489b63a7",
+      "material_name": "mat_event_baratheon2_1",
+      "name": "gearset_events_baratheon2",
+      "name_placeholder": "EQ_EVENTS_BARATHEON2_SET_NAME",
+      "pants_id": "368cd0b91b80b8c8",
+      "pants_name": "prog_gearset_events_baratheon2_pants",
+      "priority": 20700,
+      "ring_id": "fa3a597ecb2b7c1e",
+      "ring_name": "prog_gearset_events_baratheon2_ring",
+      "weapon_id": "62955cf9d788c993",
+      "weapon_name": "prog_gearset_events_baratheon2_weapon"
     }
   ]
 }
