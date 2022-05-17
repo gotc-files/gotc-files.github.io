@@ -1,0 +1,731 @@
+{
+  "description": "Recipe ingredients",
+  "values": [
+    {
+      "id": "cc676e7e74f875ca",
+      "ingredients": [
+        {
+          "id": 15981053744082417809,
+          "name": "curr_food",
+          "quantity": 24000,
+          "type": "wallet"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_2021_02_lunar_item_personalgift_lunar_food_basic_1_1"
+    },
+    {
+      "id": "8c49842a888249a0",
+      "ingredients": [
+        {
+          "id": 3854667303943731796,
+          "name": "curr_wood",
+          "quantity": 24000,
+          "type": "wallet"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_2021_02_lunar_item_personalgift_lunar_wood_basic_1_1"
+    },
+    {
+      "id": "607b4df3e72b7c28",
+      "ingredients": [
+        {
+          "id": 13386899470757036277,
+          "name": "curr_stone",
+          "quantity": 12000,
+          "type": "wallet"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_2021_02_lunar_item_personalgift_lunar_stone_basic_1_1"
+    },
+    {
+      "id": "3fa365ead9abf400",
+      "ingredients": [
+        {
+          "id": 17858051153699359377,
+          "name": "curr_iron",
+          "quantity": 4800,
+          "type": "wallet"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_2021_02_lunar_item_personalgift_lunar_iron_basic_1_1"
+    },
+    {
+      "id": "f8bd0296d601cb76",
+      "ingredients": [
+        {
+          "id": 5799863530526791726,
+          "name": "item_event_favor_lunar_1",
+          "quantity": 1,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_2021_02_lunar_item_personalgift_lunar_food_rare_1_1"
+    },
+    {
+      "id": "9cde7e25d9c5e8ef",
+      "ingredients": [
+        {
+          "id": 5799863530526791726,
+          "name": "item_event_favor_lunar_1",
+          "quantity": 1,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_2021_02_lunar_item_personalgift_lunar_wood_rare_1_1"
+    },
+    {
+      "id": "8047792cbda94045",
+      "ingredients": [
+        {
+          "id": 5799863530526791726,
+          "name": "item_event_favor_lunar_1",
+          "quantity": 1,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_2021_02_lunar_item_personalgift_lunar_stone_rare_1_1"
+    },
+    {
+      "id": "b11124a9bd3fa0eb",
+      "ingredients": [
+        {
+          "id": 5799863530526791726,
+          "name": "item_event_favor_lunar_1",
+          "quantity": 1,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_2021_02_lunar_item_personalgift_lunar_iron_rare_1_1"
+    },
+    {
+      "id": "e45e94b3bc7cbb00",
+      "ingredients": [
+        {
+          "id": 7478295823063467712,
+          "name": "item_event_favor_festival_1",
+          "quantity": 750,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_A_festival_item_hero_adv_eddisontollett_nightswatchrecruit_1_1"
+    },
+    {
+      "id": "7406b50584e59630",
+      "ingredients": [
+        {
+          "id": 7478295823063467712,
+          "name": "item_event_favor_festival_1",
+          "quantity": 750,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_A_festival_item_hero_adv_hodor_gentlegiant_1_1"
+    },
+    {
+      "id": "bf392e920ee86365",
+      "ingredients": [
+        {
+          "id": 7478295823063467712,
+          "name": "item_event_favor_festival_1",
+          "quantity": 750,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_B_festival_item_hero_adv_hotpie_nightswatchrecruit_1_1"
+    },
+    {
+      "id": "3075436e28c44431",
+      "ingredients": [
+        {
+          "id": 7478295823063467712,
+          "name": "item_event_favor_festival_1",
+          "quantity": 750,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_B_festival_item_hero_adv_lancellannister_kingssquire_1_1"
+    },
+    {
+      "id": "6906db305c55dc0b",
+      "ingredients": [
+        {
+          "id": 7478295823063467712,
+          "name": "item_event_favor_festival_1",
+          "quantity": 750,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_C_festival_item_hero_adv_podrickpayne_youngsquire_1_1"
+    },
+    {
+      "id": "4a9e1328a1b86167",
+      "ingredients": [
+        {
+          "id": 7478295823063467712,
+          "name": "item_event_favor_festival_1",
+          "quantity": 750,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_C_festival_item_hero_adv_pyatpree_warlockofqarth_1_1"
+    },
+    {
+      "id": "89fc4a36e5557efb",
+      "ingredients": [
+        {
+          "id": 7478295823063467712,
+          "name": "item_event_favor_festival_1",
+          "quantity": 750,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_C_festival_item_hero_adv_shae_handmaiden_1_1"
+    },
+    {
+      "id": "15ab064654a865aa",
+      "ingredients": [
+        {
+          "id": 7478295823063467712,
+          "name": "item_event_favor_festival_1",
+          "quantity": 1870,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_A_festival_item_hero_adv_benjenstark_firstranger_1_1"
+    },
+    {
+      "id": "c7f5f4cffb8a5323",
+      "ingredients": [
+        {
+          "id": 7478295823063467712,
+          "name": "item_event_favor_festival_1",
+          "quantity": 1870,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_A_festival_item_hero_adv_gendry_apprenticeblacksmith_1_1"
+    },
+    {
+      "id": "7d2ecf0869cef308",
+      "ingredients": [
+        {
+          "id": 7478295823063467712,
+          "name": "item_event_favor_festival_1",
+          "quantity": 1870,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_C_festival_item_hero_adv_jonsnow_bastardofwinterfell_1_1"
+    },
+    {
+      "id": "2ca72749a8b4b45a",
+      "ingredients": [
+        {
+          "id": 7478295823063467712,
+          "name": "item_event_favor_festival_1",
+          "quantity": 1870,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_B_festival_item_hero_adv_maesterluwin_maesterofwinterfell_1_1"
+    },
+    {
+      "id": "19583333ad5dcc7d",
+      "ingredients": [
+        {
+          "id": 7478295823063467712,
+          "name": "item_event_favor_festival_1",
+          "quantity": 1870,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_B_festival_item_hero_adv_robbstark_heirtowinterfell_1_1"
+    },
+    {
+      "id": "7885b5fd6c8443d6",
+      "ingredients": [
+        {
+          "id": 7478295823063467712,
+          "name": "item_event_favor_festival_1",
+          "quantity": 1870,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_C_festival_item_hero_adv_sansastark_littlebird_1_1"
+    },
+    {
+      "id": "d8a8e34e25009eaf",
+      "ingredients": [
+        {
+          "id": 7478295823063467712,
+          "name": "item_event_favor_festival_1",
+          "quantity": 1870,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_C_festival_item_hero_adv_theongreyjoy_wardofwinterfell_1_1"
+    },
+    {
+      "id": "8986a9b8092517",
+      "ingredients": [
+        {
+          "id": 7478295823063467712,
+          "name": "item_event_favor_festival_1",
+          "quantity": 3750,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_A_festival_item_hero_adv_eddardstark_youngwarrior_1_1"
+    },
+    {
+      "id": "4929a1071baa84a2",
+      "ingredients": [
+        {
+          "id": 7478295823063467712,
+          "name": "item_event_favor_festival_1",
+          "quantity": 3750,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_A_festival_item_hero_adv_margaerytyrell_kingsbetrothed_1_1"
+    },
+    {
+      "id": "4d0a52b14980e78b",
+      "ingredients": [
+        {
+          "id": 7478295823063467712,
+          "name": "item_event_favor_festival_1",
+          "quantity": 3750,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_A_festival_item_hero_adv_missandei_heraldofthedragon_1_1"
+    },
+    {
+      "id": "52d48a2687f8132e",
+      "ingredients": [
+        {
+          "id": 7478295823063467712,
+          "name": "item_event_favor_festival_1",
+          "quantity": 3750,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_B_festival_item_hero_adv_petyrbaelish_littlefinger_1_1"
+    },
+    {
+      "id": "df9dc9b6fe94eb38",
+      "ingredients": [
+        {
+          "id": 7478295823063467712,
+          "name": "item_event_favor_festival_1",
+          "quantity": 3750,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_B_festival_item_hero_adv_qyburn_fallenmaester_1_1"
+    },
+    {
+      "id": "61d1dd66cf3040b8",
+      "ingredients": [
+        {
+          "id": 7478295823063467712,
+          "name": "item_event_favor_festival_1",
+          "quantity": 3750,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_B_festival_item_hero_adv_tyrionlannister_theimp_1_1"
+    },
+    {
+      "id": "314dfc3f8726e101",
+      "ingredients": [
+        {
+          "id": 7478295823063467712,
+          "name": "item_event_favor_festival_1",
+          "quantity": 3750,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_C_festival_item_hero_adv_varys_thespider_1_1"
+    },
+    {
+      "id": "fd5782878bcab5a",
+      "ingredients": [
+        {
+          "id": 7478295823063467712,
+          "name": "item_event_favor_festival_1",
+          "quantity": 3750,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_C_festival_item_hero_adv_yaragreyjoy_ironbornraider_1_1"
+    },
+    {
+      "id": "56cbf0bb002e0d28",
+      "ingredients": [
+        {
+          "id": 1358506566127039694,
+          "name": "item_event_favor_festival_2",
+          "quantity": 10,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_Z_festival_curr_Food_1"
+    },
+    {
+      "id": "3c2c526f93553f5",
+      "ingredients": [
+        {
+          "id": 1358506566127039694,
+          "name": "item_event_favor_festival_2",
+          "quantity": 10,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_Z_festival_curr_Wood_1"
+    },
+    {
+      "id": "336b9fa8de81c5e2",
+      "ingredients": [
+        {
+          "id": 1358506566127039694,
+          "name": "item_event_favor_festival_2",
+          "quantity": 10,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_Z_festival_curr_Stone_1"
+    },
+    {
+      "id": "d65ec8f70f98f8cf",
+      "ingredients": [
+        {
+          "id": 1358506566127039694,
+          "name": "item_event_favor_festival_2",
+          "quantity": 10,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_Z_festival_curr_Iron_1"
+    },
+    {
+      "id": "595db16325318d2e",
+      "ingredients": [
+        {
+          "id": 1358506566127039694,
+          "name": "item_event_favor_festival_2",
+          "quantity": 10,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_Z_festival_curr_Steel_1"
+    },
+    {
+      "id": "235a6e142afc66f8",
+      "ingredients": [
+        {
+          "id": 1358506566127039694,
+          "name": "item_event_favor_festival_2",
+          "quantity": 100,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_A_festival_item_buildreq_scholarly_fragment_1_1"
+    },
+    {
+      "id": "117fbc0a7050ede6",
+      "ingredients": [
+        {
+          "id": 1358506566127039694,
+          "name": "item_event_favor_festival_2",
+          "quantity": 100,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_A_festival_item_buildreq_pale_steel_1_1"
+    },
+    {
+      "id": "4f01382e22043ed2",
+      "ingredients": [
+        {
+          "id": 1358506566127039694,
+          "name": "item_event_favor_festival_2",
+          "quantity": 100,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_A_festival_item_buildreq_red_gold_1_1"
+    },
+    {
+      "id": "e5862abc4b342a5",
+      "ingredients": [
+        {
+          "id": 1358506566127039694,
+          "name": "item_event_favor_festival_2",
+          "quantity": 100,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_B_festival_item_buildreq_brick_1_1"
+    },
+    {
+      "id": "e979048e8e62fcd",
+      "ingredients": [
+        {
+          "id": 1358506566127039694,
+          "name": "item_event_favor_festival_2",
+          "quantity": 100,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_B_festival_item_buildreq_soldierpine_1_1"
+    },
+    {
+      "id": "dc75cbbc8ae8af2d",
+      "ingredients": [
+        {
+          "id": 1358506566127039694,
+          "name": "item_event_favor_festival_2",
+          "quantity": 100,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_B_festival_item_buildreq_keystone_1_1"
+    },
+    {
+      "id": "4d0b96265eabe461",
+      "ingredients": [
+        {
+          "id": 1358506566127039694,
+          "name": "item_event_favor_festival_2",
+          "quantity": 100,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_B_festival_item_buildreq_levelcap_1_1"
+    },
+    {
+      "id": "eed7688e22b4cb02",
+      "ingredients": [
+        {
+          "id": 1358506566127039694,
+          "name": "item_event_favor_festival_2",
+          "quantity": 100,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_C_festival_item_hero_adv_stones_1_1"
+    },
+    {
+      "id": "d51c21cc364909f6",
+      "ingredients": [
+        {
+          "id": 1358506566127039694,
+          "name": "item_event_favor_festival_2",
+          "quantity": 100,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_C_festival_item_hero_adv_xp_10000_1"
+    },
+    {
+      "id": "9d3bca07b50aa80c",
+      "ingredients": [
+        {
+          "id": 1358506566127039694,
+          "name": "item_event_favor_festival_2",
+          "quantity": 100,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_D_festival_item_buildreq_dragon_research_1_1"
+    },
+    {
+      "id": "4ad0367bbb7b7712",
+      "ingredients": [
+        {
+          "id": 1358506566127039694,
+          "name": "item_event_favor_festival_2",
+          "quantity": 100,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_D_festival_item_buildreq_dragon_research_2_1"
+    },
+    {
+      "id": "a640ce2e64c30ea8",
+      "ingredients": [
+        {
+          "id": 1358506566127039694,
+          "name": "item_event_favor_festival_2",
+          "quantity": 100,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_E_festival_mat_blackiron_1"
+    },
+    {
+      "id": "198782b0cac315e8",
+      "ingredients": [
+        {
+          "id": 1358506566127039694,
+          "name": "item_event_favor_festival_2",
+          "quantity": 100,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_E_festival_mat_copperbar_1"
+    },
+    {
+      "id": "50e80f88e472a2b9",
+      "ingredients": [
+        {
+          "id": 1358506566127039694,
+          "name": "item_event_favor_festival_2",
+          "quantity": 100,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_E_festival_mat_dragonglass_1"
+    },
+    {
+      "id": "835b5abd002c6a74",
+      "ingredients": [
+        {
+          "id": 1358506566127039694,
+          "name": "item_event_favor_festival_2",
+          "quantity": 100,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_E_festival_mat_goldenheartwood_1"
+    },
+    {
+      "id": "97ef8e195a46e148",
+      "ingredients": [
+        {
+          "id": 1358506566127039694,
+          "name": "item_event_favor_festival_2",
+          "quantity": 100,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_E_festival_mat_hide_1"
+    },
+    {
+      "id": "99bba673ae9e9d0",
+      "ingredients": [
+        {
+          "id": 1358506566127039694,
+          "name": "item_event_favor_festival_2",
+          "quantity": 100,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_E_festival_mat_ironwood_1"
+    },
+    {
+      "id": "8c71f813d0963e6",
+      "ingredients": [
+        {
+          "id": 1358506566127039694,
+          "name": "item_event_favor_festival_2",
+          "quantity": 100,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_E_festival_mat_kingswoodoak_1"
+    },
+    {
+      "id": "507ce771aec57097",
+      "ingredients": [
+        {
+          "id": 1358506566127039694,
+          "name": "item_event_favor_festival_2",
+          "quantity": 100,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_E_festival_mat_leatherstrap_1"
+    },
+    {
+      "id": "e51ab13b5e26958",
+      "ingredients": [
+        {
+          "id": 1358506566127039694,
+          "name": "item_event_favor_festival_2",
+          "quantity": 100,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_E_festival_mat_milkofthepoppy_1"
+    },
+    {
+      "id": "4a57bd4ff30d41ee",
+      "ingredients": [
+        {
+          "id": 1358506566127039694,
+          "name": "item_event_favor_festival_2",
+          "quantity": 100,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_E_festival_mat_silk_1"
+    },
+    {
+      "id": "d3128fab20082d23",
+      "ingredients": [
+        {
+          "id": 1358506566127039694,
+          "name": "item_event_favor_festival_2",
+          "quantity": 100,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_E_festival_mat_weirwood_1"
+    },
+    {
+      "id": "80e1e6aa69af8fe8",
+      "ingredients": [
+        {
+          "id": 1358506566127039694,
+          "name": "item_event_favor_festival_2",
+          "quantity": 100,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_E_festival_mat_wildfire_1"
+    },
+    {
+      "id": "8245391f2c349286",
+      "ingredients": [
+        {
+          "id": 18252163958446620975,
+          "name": "item_event_favor_stranger_1",
+          "quantity": 100,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_stranger_festival_item_event_favor_festival_1_1"
+    },
+    {
+      "id": "7264dc298ecf9ce",
+      "ingredients": [
+        {
+          "id": 18252163958446620975,
+          "name": "item_event_favor_stranger_1",
+          "quantity": 1,
+          "type": "item"
+        },
+        {
+          "id": 15402302290824141324,
+          "name": "item_event_coin_tier1",
+          "quantity": 490,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_stranger_festival_item_hero_adv_xp_10_1"
+    }
+  ]
+}

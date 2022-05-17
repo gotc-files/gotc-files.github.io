@@ -1,0 +1,245 @@
+{
+  "description": "Recipe ingredients",
+  "values": [
+    {
+      "id": "b0f6f5c9fcd15bac",
+      "ingredients": [
+        {
+          "id": 15981053744082417809,
+          "name": "curr_food",
+          "quantity": 24000,
+          "type": "wallet"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_feast_cakes_item_personalgift_eelpie_food_basic_1_1"
+    },
+    {
+      "id": "f0d81f9d00ab67c6",
+      "ingredients": [
+        {
+          "id": 3854667303943731796,
+          "name": "curr_wood",
+          "quantity": 24000,
+          "type": "wallet"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_feast_cakes_item_personalgift_eelpie_wood_basic_1_1"
+    },
+    {
+      "id": "ba742df14a7d58ff",
+      "ingredients": [
+        {
+          "id": 13386899470757036277,
+          "name": "curr_stone",
+          "quantity": 3600,
+          "type": "wallet"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_feast_cakes_item_personalgift_eelpie_stone_basic_1_1"
+    },
+    {
+      "id": "4332fe5d5182da66",
+      "ingredients": [
+        {
+          "id": 17858051153699359377,
+          "name": "curr_iron",
+          "quantity": 1200,
+          "type": "wallet"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_feast_cakes_item_personalgift_eelpie_iron_basic_1_1"
+    },
+    {
+      "id": "42baba76ca92dd29",
+      "ingredients": [
+        {
+          "id": 679696727262731355,
+          "name": "item_buildreq_brick_1",
+          "quantity": 60,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_feast_cakes_item_personalgift_eelpie_brick_basic_qlr__stat_keep_13_21_1_1"
+    },
+    {
+      "id": "8fc7a3b32d1634cb",
+      "ingredients": [
+        {
+          "id": 679696727262731355,
+          "name": "item_buildreq_brick_1",
+          "quantity": 60,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_feast_cakes_item_personalgift_eelpie_brick_basic_qlr__stat_keep_22_29_1_1"
+    },
+    {
+      "id": "bcfbb263d57ac2e4",
+      "ingredients": [
+        {
+          "id": 679696727262731355,
+          "name": "item_buildreq_brick_1",
+          "quantity": 60,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_feast_cakes_item_personalgift_eelpie_brick_basic_qlr__stat_keep_30_1_1"
+    },
+    {
+      "id": "604bcb1de70b5378",
+      "ingredients": [
+        {
+          "id": 5757253826192098018,
+          "name": "item_buildreq_scholarly_fragment_1",
+          "quantity": 60,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_feast_cakes_item_personalgift_eelpie_scholarly_fragments_basic_qlr__stat_keep_13_21_1_1"
+    },
+    {
+      "id": "ad36d2d8008fba9a",
+      "ingredients": [
+        {
+          "id": 5757253826192098018,
+          "name": "item_buildreq_scholarly_fragment_1",
+          "quantity": 60,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_feast_cakes_item_personalgift_eelpie_scholarly_fragments_basic_qlr__stat_keep_22_29_1_1"
+    },
+    {
+      "id": "a16a118d7a68c763",
+      "ingredients": [
+        {
+          "id": 5757253826192098018,
+          "name": "item_buildreq_scholarly_fragment_1",
+          "quantity": 60,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_feast_cakes_item_personalgift_eelpie_scholarly_fragments_basic_qlr__stat_keep_30_1_1"
+    },
+    {
+      "id": "6135c052f24478d7",
+      "ingredients": [
+        {
+          "id": 8458681471388548722,
+          "name": "item_event_favor_feast_cakes_1",
+          "quantity": 1,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_feast_cakes_item_personalgift_eelpie_food_rare_1_1"
+    },
+    {
+      "id": "556bce1fd805b4e",
+      "ingredients": [
+        {
+          "id": 8458681471388548722,
+          "name": "item_event_favor_feast_cakes_1",
+          "quantity": 1,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_feast_cakes_item_personalgift_eelpie_wood_rare_1_1"
+    },
+    {
+      "id": "fcd6e29b35806e23",
+      "ingredients": [
+        {
+          "id": 8458681471388548722,
+          "name": "item_event_favor_feast_cakes_1",
+          "quantity": 1,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_feast_cakes_item_personalgift_eelpie_stone_rare_1_1"
+    },
+    {
+      "id": "2899e66d997a134a",
+      "ingredients": [
+        {
+          "id": 8458681471388548722,
+          "name": "item_event_favor_feast_cakes_1",
+          "quantity": 1,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_feast_cakes_item_personalgift_eelpie_iron_rare_1_1"
+    },
+    {
+      "id": "7312f836c330e07b",
+      "ingredients": [
+        {
+          "id": 8458681471388548722,
+          "name": "item_event_favor_feast_cakes_1",
+          "quantity": 1,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_feast_cakes_item_personalgift_eelpie_brick_rare_1_1"
+    },
+    {
+      "id": "a4250131ecbf0b97",
+      "ingredients": [
+        {
+          "id": 8458681471388548722,
+          "name": "item_event_favor_feast_cakes_1",
+          "quantity": 1,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_feast_cakes_item_personalgift_eelpie_scholarly_fragments_rare_1_1"
+    },
+    {
+      "id": "ba64c9a52fac11a7",
+      "ingredients": [
+        {
+          "id": 8458681471388548722,
+          "name": "item_event_favor_feast_cakes_1",
+          "quantity": 1,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_feast_cakes_item_personalgift_eelpie_palesteel_rare_1_1"
+    },
+    {
+      "id": "ddfe03f57d217e3",
+      "ingredients": [
+        {
+          "id": 8458681471388548722,
+          "name": "item_event_favor_feast_cakes_1",
+          "quantity": 1,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_feast_cakes_item_personalgift_eelpie_soldierpine_rare_1_1"
+    },
+    {
+      "id": "7973d30c85ad24e0",
+      "ingredients": [
+        {
+          "id": 8458681471388548722,
+          "name": "item_event_favor_feast_cakes_1",
+          "quantity": 2,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_feast_cakes_item_personalgift_eelpie_advanced_teleport_rare_1_1"
+    },
+    {
+      "id": "6185f6d05b133ebe",
+      "ingredients": [
+        {
+          "id": 8458681471388548722,
+          "name": "item_event_favor_feast_cakes_1",
+          "quantity": 1,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_feast_cakes_item_personalgift_eelpie_peaceshield_2_rare_1_1"
+    }
+  ]
+}

@@ -1,0 +1,5903 @@
+{
+  "description": "Recipe ingredients",
+  "values": [
+    {
+      "id": "d52596e6fa3b64b8",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 125,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_buildingpowerenh_item_enhancereq_basic_1_100"
+    },
+    {
+      "id": "6585b10b816f2834",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 12500,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_buildingpowerenh_item_enhancereq_basic_1_10000"
+    },
+    {
+      "id": "b96bb72b89f04c85",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 1250000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_buildingpowerenh_item_enhancereq_basic_1_1000000"
+    },
+    {
+      "id": "27099a6838312d17",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 2500,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_buildingpowerenh_item_enhancereq_advanced_1_100"
+    },
+    {
+      "id": "8d552c8343dc2cbc",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 250000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_buildingpowerenh_item_enhancereq_advanced_1_10000"
+    },
+    {
+      "id": "2fb90190f4c6eb1f",
+      "ingredients": [
+        {
+          "id": 15981053744082417809,
+          "name": "curr_food",
+          "quantity": 6370,
+          "type": "wallet"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_rssexchange_curr_Food_to_curr_Wood_1"
+    },
+    {
+      "id": "2ec46f4df1b15005",
+      "ingredients": [
+        {
+          "id": 15981053744082417809,
+          "name": "curr_food",
+          "quantity": 637000,
+          "type": "wallet"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_rssexchange_curr_Food_to_curr_Wood_100"
+    },
+    {
+      "id": "d7a2f76c8b0d7a3b",
+      "ingredients": [
+        {
+          "id": 15981053744082417809,
+          "name": "curr_food",
+          "quantity": 63700000,
+          "type": "wallet"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_rssexchange_curr_Food_to_curr_Wood_10000"
+    },
+    {
+      "id": "7e9a0515f8fd1b25",
+      "ingredients": [
+        {
+          "id": 15981053744082417809,
+          "name": "curr_food",
+          "quantity": 3830,
+          "type": "wallet"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_rssexchange_curr_Food_to_curr_Stone_1"
+    },
+    {
+      "id": "421added1d7f2bbd",
+      "ingredients": [
+        {
+          "id": 15981053744082417809,
+          "name": "curr_food",
+          "quantity": 383000,
+          "type": "wallet"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_rssexchange_curr_Food_to_curr_Stone_100"
+    },
+    {
+      "id": "f63927fe365dbd0d",
+      "ingredients": [
+        {
+          "id": 15981053744082417809,
+          "name": "curr_food",
+          "quantity": 38300000,
+          "type": "wallet"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_rssexchange_curr_Food_to_curr_Stone_10000"
+    },
+    {
+      "id": "fa250c41026b4025",
+      "ingredients": [
+        {
+          "id": 15981053744082417809,
+          "name": "curr_food",
+          "quantity": 3920,
+          "type": "wallet"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_rssexchange_curr_Food_to_curr_Iron_1"
+    },
+    {
+      "id": "3b1dd7aa6793595c",
+      "ingredients": [
+        {
+          "id": 15981053744082417809,
+          "name": "curr_food",
+          "quantity": 392000,
+          "type": "wallet"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_rssexchange_curr_Food_to_curr_Iron_100"
+    },
+    {
+      "id": "aa08af9bbfb336a8",
+      "ingredients": [
+        {
+          "id": 15981053744082417809,
+          "name": "curr_food",
+          "quantity": 39200000,
+          "type": "wallet"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_rssexchange_curr_Food_to_curr_Iron_10000"
+    },
+    {
+      "id": "1527d56db65e7c5c",
+      "ingredients": [
+        {
+          "id": 3854667303943731796,
+          "name": "curr_wood",
+          "quantity": 6370,
+          "type": "wallet"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_rssexchange_curr_Wood_to_curr_Food_1"
+    },
+    {
+      "id": "a49a9d7488e36ccd",
+      "ingredients": [
+        {
+          "id": 3854667303943731796,
+          "name": "curr_wood",
+          "quantity": 637000,
+          "type": "wallet"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_rssexchange_curr_Wood_to_curr_Food_100"
+    },
+    {
+      "id": "ad251dc13dbe8b93",
+      "ingredients": [
+        {
+          "id": 3854667303943731796,
+          "name": "curr_wood",
+          "quantity": 63700000,
+          "type": "wallet"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_rssexchange_curr_Wood_to_curr_Food_10000"
+    },
+    {
+      "id": "f86a69add38bd543",
+      "ingredients": [
+        {
+          "id": 3854667303943731796,
+          "name": "curr_wood",
+          "quantity": 3830,
+          "type": "wallet"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_rssexchange_curr_Wood_to_curr_Stone_1"
+    },
+    {
+      "id": "5d63df801c283847",
+      "ingredients": [
+        {
+          "id": 3854667303943731796,
+          "name": "curr_wood",
+          "quantity": 383000,
+          "type": "wallet"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_rssexchange_curr_Wood_to_curr_Stone_100"
+    },
+    {
+      "id": "c2e6589b5ac6acb1",
+      "ingredients": [
+        {
+          "id": 3854667303943731796,
+          "name": "curr_wood",
+          "quantity": 38300000,
+          "type": "wallet"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_rssexchange_curr_Wood_to_curr_Stone_10000"
+    },
+    {
+      "id": "95b2ed21b9e889bb",
+      "ingredients": [
+        {
+          "id": 3854667303943731796,
+          "name": "curr_wood",
+          "quantity": 3920,
+          "type": "wallet"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_rssexchange_curr_Wood_to_curr_Iron_1"
+    },
+    {
+      "id": "e1e8d65fc566226b",
+      "ingredients": [
+        {
+          "id": 3854667303943731796,
+          "name": "curr_wood",
+          "quantity": 392000,
+          "type": "wallet"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_rssexchange_curr_Wood_to_curr_Iron_100"
+    },
+    {
+      "id": "af184b14ed078219",
+      "ingredients": [
+        {
+          "id": 3854667303943731796,
+          "name": "curr_wood",
+          "quantity": 39200000,
+          "type": "wallet"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_rssexchange_curr_Wood_to_curr_Iron_10000"
+    },
+    {
+      "id": "9ac58ea834c61318",
+      "ingredients": [
+        {
+          "id": 13386899470757036277,
+          "name": "curr_stone",
+          "quantity": 1050,
+          "type": "wallet"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_rssexchange_curr_Stone_to_curr_Food_1"
+    },
+    {
+      "id": "69c0d520e097c28a",
+      "ingredients": [
+        {
+          "id": 13386899470757036277,
+          "name": "curr_stone",
+          "quantity": 105000,
+          "type": "wallet"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_rssexchange_curr_Stone_to_curr_Food_100"
+    },
+    {
+      "id": "2345f8dd08649c1d",
+      "ingredients": [
+        {
+          "id": 13386899470757036277,
+          "name": "curr_stone",
+          "quantity": 10500000,
+          "type": "wallet"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_rssexchange_curr_Stone_to_curr_Food_10000"
+    },
+    {
+      "id": "cfccbb35cddd4dc5",
+      "ingredients": [
+        {
+          "id": 13386899470757036277,
+          "name": "curr_stone",
+          "quantity": 1050,
+          "type": "wallet"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_rssexchange_curr_Stone_to_curr_Wood_1"
+    },
+    {
+      "id": "396b26ec3b308575",
+      "ingredients": [
+        {
+          "id": 13386899470757036277,
+          "name": "curr_stone",
+          "quantity": 105000,
+          "type": "wallet"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_rssexchange_curr_Stone_to_curr_Wood_100"
+    },
+    {
+      "id": "5cd2f6ffec63d904",
+      "ingredients": [
+        {
+          "id": 13386899470757036277,
+          "name": "curr_stone",
+          "quantity": 10500000,
+          "type": "wallet"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_rssexchange_curr_Stone_to_curr_Wood_10000"
+    },
+    {
+      "id": "1a50b6e43b70e6ff",
+      "ingredients": [
+        {
+          "id": 13386899470757036277,
+          "name": "curr_stone",
+          "quantity": 652,
+          "type": "wallet"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_rssexchange_curr_Stone_to_curr_Iron_1"
+    },
+    {
+      "id": "2cb29e0bad128c2c",
+      "ingredients": [
+        {
+          "id": 13386899470757036277,
+          "name": "curr_stone",
+          "quantity": 65200,
+          "type": "wallet"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_rssexchange_curr_Stone_to_curr_Iron_100"
+    },
+    {
+      "id": "2178ae08d8dd9597",
+      "ingredients": [
+        {
+          "id": 13386899470757036277,
+          "name": "curr_stone",
+          "quantity": 6520000,
+          "type": "wallet"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_rssexchange_curr_Stone_to_curr_Iron_10000"
+    },
+    {
+      "id": "68d202f5f7de9b77",
+      "ingredients": [
+        {
+          "id": 17858051153699359377,
+          "name": "curr_iron",
+          "quantity": 214,
+          "type": "wallet"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_rssexchange_curr_Iron_to_curr_Food_1"
+    },
+    {
+      "id": "1156a5a815659e36",
+      "ingredients": [
+        {
+          "id": 17858051153699359377,
+          "name": "curr_iron",
+          "quantity": 21400,
+          "type": "wallet"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_rssexchange_curr_Iron_to_curr_Food_100"
+    },
+    {
+      "id": "412206854827a987",
+      "ingredients": [
+        {
+          "id": 17858051153699359377,
+          "name": "curr_iron",
+          "quantity": 2140000,
+          "type": "wallet"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_rssexchange_curr_Iron_to_curr_Food_10000"
+    },
+    {
+      "id": "3ddb37680ec5c5aa",
+      "ingredients": [
+        {
+          "id": 17858051153699359377,
+          "name": "curr_iron",
+          "quantity": 214,
+          "type": "wallet"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_rssexchange_curr_Iron_to_curr_Wood_1"
+    },
+    {
+      "id": "41fd5664cec2d9c9",
+      "ingredients": [
+        {
+          "id": 17858051153699359377,
+          "name": "curr_iron",
+          "quantity": 21400,
+          "type": "wallet"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_rssexchange_curr_Iron_to_curr_Wood_100"
+    },
+    {
+      "id": "3eb508a7ac20ec9e",
+      "ingredients": [
+        {
+          "id": 17858051153699359377,
+          "name": "curr_iron",
+          "quantity": 2140000,
+          "type": "wallet"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_rssexchange_curr_Iron_to_curr_Wood_10000"
+    },
+    {
+      "id": "f99526383e83faeb",
+      "ingredients": [
+        {
+          "id": 17858051153699359377,
+          "name": "curr_iron",
+          "quantity": 125,
+          "type": "wallet"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_rssexchange_curr_Iron_to_curr_Stone_1"
+    },
+    {
+      "id": "7428459348530ced",
+      "ingredients": [
+        {
+          "id": 17858051153699359377,
+          "name": "curr_iron",
+          "quantity": 12500,
+          "type": "wallet"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_rssexchange_curr_Iron_to_curr_Stone_100"
+    },
+    {
+      "id": "391f0dee6c3abca6",
+      "ingredients": [
+        {
+          "id": 17858051153699359377,
+          "name": "curr_iron",
+          "quantity": 1250000,
+          "type": "wallet"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_rssexchange_curr_Iron_to_curr_Stone_10000"
+    },
+    {
+      "id": "9cf85c95f0fc2f72",
+      "ingredients": [
+        {
+          "id": 15981053744082417809,
+          "name": "curr_food",
+          "quantity": 321000,
+          "type": "wallet"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_rssexchange_curr_Food_to_curr_Iron_2_1"
+    },
+    {
+      "id": "460d5d6052095445",
+      "ingredients": [
+        {
+          "id": 3854667303943731796,
+          "name": "curr_wood",
+          "quantity": 321000,
+          "type": "wallet"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_rssexchange_curr_Wood_to_curr_Iron_2_1"
+    },
+    {
+      "id": "8b5715343a7dfa02",
+      "ingredients": [
+        {
+          "id": 13386899470757036277,
+          "name": "curr_stone",
+          "quantity": 53300,
+          "type": "wallet"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_rssexchange_curr_Stone_to_curr_Iron_2_1"
+    },
+    {
+      "id": "b6b32e97820ae818",
+      "ingredients": [
+        {
+          "id": 17858051153699359377,
+          "name": "curr_iron",
+          "quantity": 26300,
+          "type": "wallet"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_rssexchange_curr_Iron_to_curr_Food_2_1"
+    },
+    {
+      "id": "e618dd5b59adafe7",
+      "ingredients": [
+        {
+          "id": 17858051153699359377,
+          "name": "curr_iron",
+          "quantity": 26300,
+          "type": "wallet"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_rssexchange_curr_Iron_to_curr_Wood_2_1"
+    },
+    {
+      "id": "d3cdceacdf3c7ac3",
+      "ingredients": [
+        {
+          "id": 17858051153699359377,
+          "name": "curr_iron",
+          "quantity": 15500,
+          "type": "wallet"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_rssexchange_curr_Iron_to_curr_Stone_2_1"
+    },
+    {
+      "id": "9756e15e85693ca6",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 4,
+          "type": "item"
+        },
+        {
+          "id": 4343394898047153950,
+          "name": "item_flux_3",
+          "quantity": 100,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_3__mat_event_nightwatch_1"
+    },
+    {
+      "id": "633cb2f8e67de468",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 40,
+          "type": "item"
+        },
+        {
+          "id": 4343394898047153950,
+          "name": "item_flux_3",
+          "quantity": 1000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_3__mat_event_nightwatch_10"
+    },
+    {
+      "id": "c76eea152ab079d",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 400,
+          "type": "item"
+        },
+        {
+          "id": 4343394898047153950,
+          "name": "item_flux_3",
+          "quantity": 10000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_3__mat_event_nightwatch_100"
+    },
+    {
+      "id": "2af75441c32747c1",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 4000,
+          "type": "item"
+        },
+        {
+          "id": 4343394898047153950,
+          "name": "item_flux_3",
+          "quantity": 100000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_3__mat_event_nightwatch_1000"
+    },
+    {
+      "id": "9503297254b6f610",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 40000,
+          "type": "item"
+        },
+        {
+          "id": 4343394898047153950,
+          "name": "item_flux_3",
+          "quantity": 1000000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_3__mat_event_nightwatch_10000"
+    },
+    {
+      "id": "9aaa2a97620a3b55",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 4,
+          "type": "item"
+        },
+        {
+          "id": 4343394898047153950,
+          "name": "item_flux_3",
+          "quantity": 100,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_3__mat_event_Aftermath_1"
+    },
+    {
+      "id": "affb07585449f5cc",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 40,
+          "type": "item"
+        },
+        {
+          "id": 4343394898047153950,
+          "name": "item_flux_3",
+          "quantity": 1000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_3__mat_event_Aftermath_10"
+    },
+    {
+      "id": "ef84df5dd40a4e4b",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 400,
+          "type": "item"
+        },
+        {
+          "id": 4343394898047153950,
+          "name": "item_flux_3",
+          "quantity": 10000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_3__mat_event_Aftermath_100"
+    },
+    {
+      "id": "e84cf3ce71e51f83",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 4000,
+          "type": "item"
+        },
+        {
+          "id": 4343394898047153950,
+          "name": "item_flux_3",
+          "quantity": 100000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_3__mat_event_Aftermath_1000"
+    },
+    {
+      "id": "6dd1b43f431ee3e3",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 40000,
+          "type": "item"
+        },
+        {
+          "id": 4343394898047153950,
+          "name": "item_flux_3",
+          "quantity": 1000000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_3__mat_event_Aftermath_10000"
+    },
+    {
+      "id": "a286da1ae344af57",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 4,
+          "type": "item"
+        },
+        {
+          "id": 4343394898047153950,
+          "name": "item_flux_3",
+          "quantity": 100,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_3__mat_event_falconknight_1"
+    },
+    {
+      "id": "f620bce5b76e18ac",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 40,
+          "type": "item"
+        },
+        {
+          "id": 4343394898047153950,
+          "name": "item_flux_3",
+          "quantity": 1000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_3__mat_event_falconknight_10"
+    },
+    {
+      "id": "df8a4ca8c0dc8043",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 400,
+          "type": "item"
+        },
+        {
+          "id": 4343394898047153950,
+          "name": "item_flux_3",
+          "quantity": 10000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_3__mat_event_falconknight_100"
+    },
+    {
+      "id": "d48e21d77c409b6",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 4000,
+          "type": "item"
+        },
+        {
+          "id": 4343394898047153950,
+          "name": "item_flux_3",
+          "quantity": 100000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_3__mat_event_falconknight_1000"
+    },
+    {
+      "id": "2b74d00f0a4b8780",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 40000,
+          "type": "item"
+        },
+        {
+          "id": 4343394898047153950,
+          "name": "item_flux_3",
+          "quantity": 1000000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_3__mat_event_falconknight_10000"
+    },
+    {
+      "id": "2d7518a05be844ad",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 4,
+          "type": "item"
+        },
+        {
+          "id": 4343394898047153950,
+          "name": "item_flux_3",
+          "quantity": 100,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_3__mat_event_foundations_1"
+    },
+    {
+      "id": "f3a0d2aa326357e5",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 40,
+          "type": "item"
+        },
+        {
+          "id": 4343394898047153950,
+          "name": "item_flux_3",
+          "quantity": 1000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_3__mat_event_foundations_10"
+    },
+    {
+      "id": "b7b9a9873d836852",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 400,
+          "type": "item"
+        },
+        {
+          "id": 4343394898047153950,
+          "name": "item_flux_3",
+          "quantity": 10000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_3__mat_event_foundations_100"
+    },
+    {
+      "id": "690366aa40aec979",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 4000,
+          "type": "item"
+        },
+        {
+          "id": 4343394898047153950,
+          "name": "item_flux_3",
+          "quantity": 100000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_3__mat_event_foundations_1000"
+    },
+    {
+      "id": "685f6627189a4b97",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 40000,
+          "type": "item"
+        },
+        {
+          "id": 4343394898047153950,
+          "name": "item_flux_3",
+          "quantity": 1000000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_3__mat_event_foundations_10000"
+    },
+    {
+      "id": "49be1ebcf2139bb1",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 4,
+          "type": "item"
+        },
+        {
+          "id": 4343394898047153950,
+          "name": "item_flux_3",
+          "quantity": 100,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_3__mat_event_Kingsguard_1"
+    },
+    {
+      "id": "ede55482af76e5f4",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 40,
+          "type": "item"
+        },
+        {
+          "id": 4343394898047153950,
+          "name": "item_flux_3",
+          "quantity": 1000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_3__mat_event_Kingsguard_10"
+    },
+    {
+      "id": "d3845b530d89e2c7",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 400,
+          "type": "item"
+        },
+        {
+          "id": 4343394898047153950,
+          "name": "item_flux_3",
+          "quantity": 10000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_3__mat_event_Kingsguard_100"
+    },
+    {
+      "id": "7fdee3aaf593bca9",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 4000,
+          "type": "item"
+        },
+        {
+          "id": 4343394898047153950,
+          "name": "item_flux_3",
+          "quantity": 100000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_3__mat_event_Kingsguard_1000"
+    },
+    {
+      "id": "403557cbe5806bf5",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 40000,
+          "type": "item"
+        },
+        {
+          "id": 4343394898047153950,
+          "name": "item_flux_3",
+          "quantity": 1000000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_3__mat_event_Kingsguard_10000"
+    },
+    {
+      "id": "169a3a2f65c115ff",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 4,
+          "type": "item"
+        },
+        {
+          "id": 4343394898047153950,
+          "name": "item_flux_3",
+          "quantity": 100,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_3__mat_event_Conqueror_1"
+    },
+    {
+      "id": "435967968a8367c2",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 40,
+          "type": "item"
+        },
+        {
+          "id": 4343394898047153950,
+          "name": "item_flux_3",
+          "quantity": 1000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_3__mat_event_Conqueror_10"
+    },
+    {
+      "id": "e078dbaa5a0aa03e",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 400,
+          "type": "item"
+        },
+        {
+          "id": 4343394898047153950,
+          "name": "item_flux_3",
+          "quantity": 10000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_3__mat_event_Conqueror_100"
+    },
+    {
+      "id": "ff0de4cea842e47",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 4000,
+          "type": "item"
+        },
+        {
+          "id": 4343394898047153950,
+          "name": "item_flux_3",
+          "quantity": 100000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_3__mat_event_Conqueror_1000"
+    },
+    {
+      "id": "be5fb6154ea316f0",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 40000,
+          "type": "item"
+        },
+        {
+          "id": 4343394898047153950,
+          "name": "item_flux_3",
+          "quantity": 1000000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_3__mat_event_Conqueror_10000"
+    },
+    {
+      "id": "1a855e7398d255a0",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 4,
+          "type": "item"
+        },
+        {
+          "id": 4343394898047153950,
+          "name": "item_flux_3",
+          "quantity": 100,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_3__mat_event_Tyrell_1"
+    },
+    {
+      "id": "8995d890788bbb1d",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 40,
+          "type": "item"
+        },
+        {
+          "id": 4343394898047153950,
+          "name": "item_flux_3",
+          "quantity": 1000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_3__mat_event_Tyrell_10"
+    },
+    {
+      "id": "eb2f964d56dac0e8",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 400,
+          "type": "item"
+        },
+        {
+          "id": 4343394898047153950,
+          "name": "item_flux_3",
+          "quantity": 10000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_3__mat_event_Tyrell_100"
+    },
+    {
+      "id": "cda3dcbf43cc072c",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 4000,
+          "type": "item"
+        },
+        {
+          "id": 4343394898047153950,
+          "name": "item_flux_3",
+          "quantity": 100000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_3__mat_event_Tyrell_1000"
+    },
+    {
+      "id": "1eeceef23eff85c9",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 40000,
+          "type": "item"
+        },
+        {
+          "id": 4343394898047153950,
+          "name": "item_flux_3",
+          "quantity": 1000000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_3__mat_event_Tyrell_10000"
+    },
+    {
+      "id": "8cab8d19230ca9c7",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 4,
+          "type": "item"
+        },
+        {
+          "id": 4343394898047153950,
+          "name": "item_flux_3",
+          "quantity": 100,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_3__mat_event_harrenhal_1"
+    },
+    {
+      "id": "7f81cc7cbfbd39e2",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 40,
+          "type": "item"
+        },
+        {
+          "id": 4343394898047153950,
+          "name": "item_flux_3",
+          "quantity": 1000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_3__mat_event_harrenhal_10"
+    },
+    {
+      "id": "71e0fae8efb603da",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 400,
+          "type": "item"
+        },
+        {
+          "id": 4343394898047153950,
+          "name": "item_flux_3",
+          "quantity": 10000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_3__mat_event_harrenhal_100"
+    },
+    {
+      "id": "4dac0183789e9b7c",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 4000,
+          "type": "item"
+        },
+        {
+          "id": 4343394898047153950,
+          "name": "item_flux_3",
+          "quantity": 100000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_3__mat_event_harrenhal_1000"
+    },
+    {
+      "id": "f74d2c7c5bbc6dd7",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 40000,
+          "type": "item"
+        },
+        {
+          "id": 4343394898047153950,
+          "name": "item_flux_3",
+          "quantity": 1000000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_3__mat_event_harrenhal_10000"
+    },
+    {
+      "id": "c603f579f85b8e21",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 4,
+          "type": "item"
+        },
+        {
+          "id": 18055956564818297592,
+          "name": "item_flux_4",
+          "quantity": 100,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_4__mat_event_Baelish_1"
+    },
+    {
+      "id": "402e6c9ce814978d",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 400,
+          "type": "item"
+        },
+        {
+          "id": 18055956564818297592,
+          "name": "item_flux_4",
+          "quantity": 10000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_4__mat_event_Baelish_100"
+    },
+    {
+      "id": "4ebafc8d4db32ad7",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 40000,
+          "type": "item"
+        },
+        {
+          "id": 18055956564818297592,
+          "name": "item_flux_4",
+          "quantity": 1000000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_4__mat_event_Baelish_10000"
+    },
+    {
+      "id": "cefcc42783f54cc",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 4,
+          "type": "item"
+        },
+        {
+          "id": 18055956564818297592,
+          "name": "item_flux_4",
+          "quantity": 100,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_4__mat_event_PurpleWedding_1"
+    },
+    {
+      "id": "944443aff6f25820",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 400,
+          "type": "item"
+        },
+        {
+          "id": 18055956564818297592,
+          "name": "item_flux_4",
+          "quantity": 10000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_4__mat_event_PurpleWedding_100"
+    },
+    {
+      "id": "875507238984d0dc",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 40000,
+          "type": "item"
+        },
+        {
+          "id": 18055956564818297592,
+          "name": "item_flux_4",
+          "quantity": 1000000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_4__mat_event_PurpleWedding_10000"
+    },
+    {
+      "id": "ee7e5e2d6f8ae235",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 4,
+          "type": "item"
+        },
+        {
+          "id": 18055956564818297592,
+          "name": "item_flux_4",
+          "quantity": 100,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_4__mat_event_faceless_1"
+    },
+    {
+      "id": "60314806302ca256",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 400,
+          "type": "item"
+        },
+        {
+          "id": 18055956564818297592,
+          "name": "item_flux_4",
+          "quantity": 10000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_4__mat_event_faceless_100"
+    },
+    {
+      "id": "a0ab182552e93531",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 40000,
+          "type": "item"
+        },
+        {
+          "id": 18055956564818297592,
+          "name": "item_flux_4",
+          "quantity": 1000000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_4__mat_event_faceless_10000"
+    },
+    {
+      "id": "694c7c26326d9427",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 4,
+          "type": "item"
+        },
+        {
+          "id": 18055956564818297592,
+          "name": "item_flux_4",
+          "quantity": 100,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_4__mat_event_dragonkeeper_1"
+    },
+    {
+      "id": "aae05ebd05135243",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 400,
+          "type": "item"
+        },
+        {
+          "id": 18055956564818297592,
+          "name": "item_flux_4",
+          "quantity": 10000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_4__mat_event_dragonkeeper_100"
+    },
+    {
+      "id": "5aebde418b57fcac",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 40000,
+          "type": "item"
+        },
+        {
+          "id": 18055956564818297592,
+          "name": "item_flux_4",
+          "quantity": 1000000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_4__mat_event_dragonkeeper_10000"
+    },
+    {
+      "id": "69789a086bd3dec1",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 4,
+          "type": "item"
+        },
+        {
+          "id": 18055956564818297592,
+          "name": "item_flux_4",
+          "quantity": 100,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_4__mat_event_brothers_1"
+    },
+    {
+      "id": "d17b3067ace17bf1",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 400,
+          "type": "item"
+        },
+        {
+          "id": 18055956564818297592,
+          "name": "item_flux_4",
+          "quantity": 10000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_4__mat_event_brothers_100"
+    },
+    {
+      "id": "e8eff93127b381ae",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 40000,
+          "type": "item"
+        },
+        {
+          "id": 18055956564818297592,
+          "name": "item_flux_4",
+          "quantity": 1000000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_4__mat_event_brothers_10000"
+    },
+    {
+      "id": "8bbf17d92dbba311",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 4,
+          "type": "item"
+        },
+        {
+          "id": 18055956564818297592,
+          "name": "item_flux_4",
+          "quantity": 100,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_4__mat_event_tyrion_1"
+    },
+    {
+      "id": "5dd36e0f7c6b186e",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 400,
+          "type": "item"
+        },
+        {
+          "id": 18055956564818297592,
+          "name": "item_flux_4",
+          "quantity": 10000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_4__mat_event_tyrion_100"
+    },
+    {
+      "id": "db172763c5817843",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 40000,
+          "type": "item"
+        },
+        {
+          "id": 18055956564818297592,
+          "name": "item_flux_4",
+          "quantity": 1000000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_4__mat_event_tyrion_10000"
+    },
+    {
+      "id": "ebe04defd63e0932",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 4,
+          "type": "item"
+        },
+        {
+          "id": 18055956564818297592,
+          "name": "item_flux_4",
+          "quantity": 100,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_4__mat_event_baratheon_1"
+    },
+    {
+      "id": "1af56296cbc175be",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 400,
+          "type": "item"
+        },
+        {
+          "id": 18055956564818297592,
+          "name": "item_flux_4",
+          "quantity": 10000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_4__mat_event_baratheon_100"
+    },
+    {
+      "id": "1f6da01e3b8724c3",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 40000,
+          "type": "item"
+        },
+        {
+          "id": 18055956564818297592,
+          "name": "item_flux_4",
+          "quantity": 1000000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_4__mat_event_baratheon_10000"
+    },
+    {
+      "id": "480e057c9e094f3f",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 4,
+          "type": "item"
+        },
+        {
+          "id": 15448032209175565058,
+          "name": "item_flux_5",
+          "quantity": 100,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_5__mat_event_martell_1"
+    },
+    {
+      "id": "69977660f318596d",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 400,
+          "type": "item"
+        },
+        {
+          "id": 15448032209175565058,
+          "name": "item_flux_5",
+          "quantity": 10000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_5__mat_event_martell_100"
+    },
+    {
+      "id": "5970dded37060380",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 40000,
+          "type": "item"
+        },
+        {
+          "id": 15448032209175565058,
+          "name": "item_flux_5",
+          "quantity": 1000000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_5__mat_event_martell_10000"
+    },
+    {
+      "id": "c8d9b3167bc218e0",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 4,
+          "type": "item"
+        },
+        {
+          "id": 15448032209175565058,
+          "name": "item_flux_5",
+          "quantity": 100,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_5__mat_event_oldnan_1"
+    },
+    {
+      "id": "fabf5c19dd2bf2a5",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 400,
+          "type": "item"
+        },
+        {
+          "id": 15448032209175565058,
+          "name": "item_flux_5",
+          "quantity": 10000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_5__mat_event_oldnan_100"
+    },
+    {
+      "id": "6cad0189565e79e7",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 40000,
+          "type": "item"
+        },
+        {
+          "id": 15448032209175565058,
+          "name": "item_flux_5",
+          "quantity": 1000000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_5__mat_event_oldnan_10000"
+    },
+    {
+      "id": "6ca2d28eea2a372d",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 4,
+          "type": "item"
+        },
+        {
+          "id": 15448032209175565058,
+          "name": "item_flux_5",
+          "quantity": 100,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_5__mat_event_rattleshirt_1"
+    },
+    {
+      "id": "ac5665d27300a45b",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 400,
+          "type": "item"
+        },
+        {
+          "id": 15448032209175565058,
+          "name": "item_flux_5",
+          "quantity": 10000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_5__mat_event_rattleshirt_100"
+    },
+    {
+      "id": "723ad2fdf9cb66a6",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 40000,
+          "type": "item"
+        },
+        {
+          "id": 15448032209175565058,
+          "name": "item_flux_5",
+          "quantity": 1000000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_5__mat_event_rattleshirt_10000"
+    },
+    {
+      "id": "75f0b4c4dd2c1ca5",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 4,
+          "type": "item"
+        },
+        {
+          "id": 15448032209175565058,
+          "name": "item_flux_5",
+          "quantity": 100,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_5__mat_event_conquest2_1"
+    },
+    {
+      "id": "92b74125f3bf1377",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 400,
+          "type": "item"
+        },
+        {
+          "id": 15448032209175565058,
+          "name": "item_flux_5",
+          "quantity": 10000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_5__mat_event_conquest2_100"
+    },
+    {
+      "id": "353f61b70157fd39",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 40000,
+          "type": "item"
+        },
+        {
+          "id": 15448032209175565058,
+          "name": "item_flux_5",
+          "quantity": 1000000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_5__mat_event_conquest2_10000"
+    },
+    {
+      "id": "17ff3d0ee530cccc",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 4,
+          "type": "item"
+        },
+        {
+          "id": 15448032209175565058,
+          "name": "item_flux_5",
+          "quantity": 100,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_5__mat_event_hound_1"
+    },
+    {
+      "id": "f8ff1a31ff986c9c",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 400,
+          "type": "item"
+        },
+        {
+          "id": 15448032209175565058,
+          "name": "item_flux_5",
+          "quantity": 10000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_5__mat_event_hound_100"
+    },
+    {
+      "id": "3051ba58bad130c0",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 40000,
+          "type": "item"
+        },
+        {
+          "id": 15448032209175565058,
+          "name": "item_flux_5",
+          "quantity": 1000000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_5__mat_event_hound_10000"
+    },
+    {
+      "id": "47e749d31bede3fe",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 4,
+          "type": "item"
+        },
+        {
+          "id": 15448032209175565058,
+          "name": "item_flux_5",
+          "quantity": 100,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_5__mat_event_queenlb_1"
+    },
+    {
+      "id": "b6a74ac6a1390a50",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 400,
+          "type": "item"
+        },
+        {
+          "id": 15448032209175565058,
+          "name": "item_flux_5",
+          "quantity": 10000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_5__mat_event_queenlb_100"
+    },
+    {
+      "id": "bad60b70e4dfcda",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 40000,
+          "type": "item"
+        },
+        {
+          "id": 15448032209175565058,
+          "name": "item_flux_5",
+          "quantity": 1000000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_5__mat_event_queenlb_10000"
+    },
+    {
+      "id": "b683d4ddf02cfea2",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 4,
+          "type": "item"
+        },
+        {
+          "id": 15448032209175565058,
+          "name": "item_flux_5",
+          "quantity": 100,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_5__mat_event_rhllor_1"
+    },
+    {
+      "id": "21b679be3fefc12a",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 400,
+          "type": "item"
+        },
+        {
+          "id": 15448032209175565058,
+          "name": "item_flux_5",
+          "quantity": 10000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_5__mat_event_rhllor_100"
+    },
+    {
+      "id": "e442814006f007f6",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 40000,
+          "type": "item"
+        },
+        {
+          "id": 15448032209175565058,
+          "name": "item_flux_5",
+          "quantity": 1000000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_5__mat_event_rhllor_10000"
+    },
+    {
+      "id": "8587904e0952436d",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 4,
+          "type": "item"
+        },
+        {
+          "id": 11776969760670359820,
+          "name": "item_flux_6",
+          "quantity": 100,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_6__mat_event_cersei_1"
+    },
+    {
+      "id": "ad75c504e37f5418",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 400,
+          "type": "item"
+        },
+        {
+          "id": 11776969760670359820,
+          "name": "item_flux_6",
+          "quantity": 10000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_6__mat_event_cersei_100"
+    },
+    {
+      "id": "ee62146593fd48a",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 40000,
+          "type": "item"
+        },
+        {
+          "id": 11776969760670359820,
+          "name": "item_flux_6",
+          "quantity": 1000000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_6__mat_event_cersei_10000"
+    },
+    {
+      "id": "27571077eadcbe1b",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 4,
+          "type": "item"
+        },
+        {
+          "id": 11776969760670359820,
+          "name": "item_flux_6",
+          "quantity": 100,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_6__mat_event_kingsmoot_1"
+    },
+    {
+      "id": "4c5efed6b73a2143",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 400,
+          "type": "item"
+        },
+        {
+          "id": 11776969760670359820,
+          "name": "item_flux_6",
+          "quantity": 10000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_6__mat_event_kingsmoot_100"
+    },
+    {
+      "id": "577c50aef4389bb3",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 40000,
+          "type": "item"
+        },
+        {
+          "id": 11776969760670359820,
+          "name": "item_flux_6",
+          "quantity": 1000000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_6__mat_event_kingsmoot_10000"
+    },
+    {
+      "id": "f4c2b0724f46999d",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 4,
+          "type": "item"
+        },
+        {
+          "id": 11776969760670359820,
+          "name": "item_flux_6",
+          "quantity": 100,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_6__mat_event_freedom_1"
+    },
+    {
+      "id": "139c2a9f41a8a652",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 400,
+          "type": "item"
+        },
+        {
+          "id": 11776969760670359820,
+          "name": "item_flux_6",
+          "quantity": 10000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_6__mat_event_freedom_100"
+    },
+    {
+      "id": "7e1f4088937c091",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 40000,
+          "type": "item"
+        },
+        {
+          "id": 11776969760670359820,
+          "name": "item_flux_6",
+          "quantity": 1000000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_6__mat_event_freedom_10000"
+    },
+    {
+      "id": "3cdae71bced45b04",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 4,
+          "type": "item"
+        },
+        {
+          "id": 11776969760670359820,
+          "name": "item_flux_6",
+          "quantity": 100,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_6__mat_event_dawn_1"
+    },
+    {
+      "id": "42a7ca9fb099c758",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 400,
+          "type": "item"
+        },
+        {
+          "id": 11776969760670359820,
+          "name": "item_flux_6",
+          "quantity": 10000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_6__mat_event_dawn_100"
+    },
+    {
+      "id": "381a9c628d416fc1",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 40000,
+          "type": "item"
+        },
+        {
+          "id": 11776969760670359820,
+          "name": "item_flux_6",
+          "quantity": 1000000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_6__mat_event_dawn_10000"
+    },
+    {
+      "id": "5512a5dce5e7e272",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 4,
+          "type": "item"
+        },
+        {
+          "id": 11776969760670359820,
+          "name": "item_flux_6",
+          "quantity": 100,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_6__mat_event_stark_1"
+    },
+    {
+      "id": "b1b8a5680dd34909",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 400,
+          "type": "item"
+        },
+        {
+          "id": 11776969760670359820,
+          "name": "item_flux_6",
+          "quantity": 10000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_6__mat_event_stark_100"
+    },
+    {
+      "id": "6b23132c06959dd1",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 40000,
+          "type": "item"
+        },
+        {
+          "id": 11776969760670359820,
+          "name": "item_flux_6",
+          "quantity": 1000000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_6__mat_event_stark_10000"
+    },
+    {
+      "id": "8059ed76de0b6c42",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 4,
+          "type": "item"
+        },
+        {
+          "id": 11776969760670359820,
+          "name": "item_flux_6",
+          "quantity": 100,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_6__mat_event_oldnan3_1"
+    },
+    {
+      "id": "89aebb34110de0c7",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 400,
+          "type": "item"
+        },
+        {
+          "id": 11776969760670359820,
+          "name": "item_flux_6",
+          "quantity": 10000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_6__mat_event_oldnan3_100"
+    },
+    {
+      "id": "19d69aac6b41d485",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 40000,
+          "type": "item"
+        },
+        {
+          "id": 11776969760670359820,
+          "name": "item_flux_6",
+          "quantity": 1000000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_6__mat_event_oldnan3_10000"
+    },
+    {
+      "id": "d421d95f652b3230",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 4,
+          "type": "item"
+        },
+        {
+          "id": 11776969760670359820,
+          "name": "item_flux_6",
+          "quantity": 100,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_6__mat_event_harvest_1"
+    },
+    {
+      "id": "59e3436cb7f9c6df",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 400,
+          "type": "item"
+        },
+        {
+          "id": 11776969760670359820,
+          "name": "item_flux_6",
+          "quantity": 10000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_6__mat_event_harvest_100"
+    },
+    {
+      "id": "197bac822745837f",
+      "ingredients": [
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 40000,
+          "type": "item"
+        },
+        {
+          "id": 11776969760670359820,
+          "name": "item_flux_6",
+          "quantity": 1000000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_entry__item_flux_6__mat_event_harvest_10000"
+    },
+    {
+      "id": "d27caecaf493797c",
+      "ingredients": [
+        {
+          "id": 3854667303943731796,
+          "name": "curr_wood",
+          "quantity": 1320000,
+          "type": "wallet"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_curr_Wood_into__curr_food_1"
+    },
+    {
+      "id": "8a4b389931225323",
+      "ingredients": [
+        {
+          "id": 13386899470757036277,
+          "name": "curr_stone",
+          "quantity": 221000,
+          "type": "wallet"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_curr_Stone_into__curr_food_1"
+    },
+    {
+      "id": "fb3734d9a0e84dd6",
+      "ingredients": [
+        {
+          "id": 17858051153699359377,
+          "name": "curr_iron",
+          "quantity": 56900,
+          "type": "wallet"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_curr_Iron_into__curr_food_1"
+    },
+    {
+      "id": "3c4ce3d8dc96b803",
+      "ingredients": [
+        {
+          "id": 679696727262731355,
+          "name": "item_buildreq_brick_1",
+          "quantity": 206,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_item_buildreq_brick_1_into__curr_food_1"
+    },
+    {
+      "id": "9436647caba46b1c",
+      "ingredients": [
+        {
+          "id": 6892516585401871799,
+          "name": "item_buildreq_soldierpine_1",
+          "quantity": 41,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_item_buildreq_soldierpine_1_into__curr_food_1"
+    },
+    {
+      "id": "5f8b9e3484140a61",
+      "ingredients": [
+        {
+          "id": 13209342921655804662,
+          "name": "item_buildreq_keystone_1",
+          "quantity": 8,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_item_buildreq_keystone_1_into__curr_food_1"
+    },
+    {
+      "id": "c15574c0dc09cfc9",
+      "ingredients": [
+        {
+          "id": 5757253826192098018,
+          "name": "item_buildreq_scholarly_fragment_1",
+          "quantity": 206,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_item_buildreq_scholarly_fragment_1_into__curr_food_1"
+    },
+    {
+      "id": "6f4aa147cff013d7",
+      "ingredients": [
+        {
+          "id": 17538230295669517782,
+          "name": "item_buildreq_pale_steel_1",
+          "quantity": 41,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_item_buildreq_pale_steel_1_into__curr_food_1"
+    },
+    {
+      "id": "5364e5849381ae00",
+      "ingredients": [
+        {
+          "id": 3949640101439549005,
+          "name": "item_buildreq_red_gold_1",
+          "quantity": 8,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_item_buildreq_red_gold_1_into__curr_food_1"
+    },
+    {
+      "id": "980c993a0cdf345b",
+      "ingredients": [
+        {
+          "id": 15981053744082417809,
+          "name": "curr_food",
+          "quantity": 1320000,
+          "type": "wallet"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_curr_Food_into__curr_Wood_1"
+    },
+    {
+      "id": "df420d04c8390dfe",
+      "ingredients": [
+        {
+          "id": 13386899470757036277,
+          "name": "curr_stone",
+          "quantity": 221000,
+          "type": "wallet"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_curr_Stone_into__curr_Wood_1"
+    },
+    {
+      "id": "ae3e014459f3130b",
+      "ingredients": [
+        {
+          "id": 17858051153699359377,
+          "name": "curr_iron",
+          "quantity": 56900,
+          "type": "wallet"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_curr_Iron_into__curr_Wood_1"
+    },
+    {
+      "id": "6945d645258de6de",
+      "ingredients": [
+        {
+          "id": 679696727262731355,
+          "name": "item_buildreq_brick_1",
+          "quantity": 206,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_item_buildreq_brick_1_into__curr_Wood_1"
+    },
+    {
+      "id": "c13f51e152bf35c1",
+      "ingredients": [
+        {
+          "id": 6892516585401871799,
+          "name": "item_buildreq_soldierpine_1",
+          "quantity": 41,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_item_buildreq_soldierpine_1_into__curr_Wood_1"
+    },
+    {
+      "id": "a82aba97d0f54bc",
+      "ingredients": [
+        {
+          "id": 13209342921655804662,
+          "name": "item_buildreq_keystone_1",
+          "quantity": 8,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_item_buildreq_keystone_1_into__curr_Wood_1"
+    },
+    {
+      "id": "945c415d25129114",
+      "ingredients": [
+        {
+          "id": 5757253826192098018,
+          "name": "item_buildreq_scholarly_fragment_1",
+          "quantity": 206,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_item_buildreq_scholarly_fragment_1_into__curr_Wood_1"
+    },
+    {
+      "id": "3a4394da36eb4d0a",
+      "ingredients": [
+        {
+          "id": 17538230295669517782,
+          "name": "item_buildreq_pale_steel_1",
+          "quantity": 41,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_item_buildreq_pale_steel_1_into__curr_Wood_1"
+    },
+    {
+      "id": "66dd0196a9af0dd",
+      "ingredients": [
+        {
+          "id": 3949640101439549005,
+          "name": "item_buildreq_red_gold_1",
+          "quantity": 8,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_item_buildreq_red_gold_1_into__curr_Wood_1"
+    },
+    {
+      "id": "6c192fb079f4314d",
+      "ingredients": [
+        {
+          "id": 15981053744082417809,
+          "name": "curr_food",
+          "quantity": 1590000,
+          "type": "wallet"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_curr_Food_into__curr_Stone_1"
+    },
+    {
+      "id": "6909cb3f2b4085fc",
+      "ingredients": [
+        {
+          "id": 3854667303943731796,
+          "name": "curr_wood",
+          "quantity": 1590000,
+          "type": "wallet"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_curr_Wood_into__curr_Stone_1"
+    },
+    {
+      "id": "850ed07b5ed9a7e8",
+      "ingredients": [
+        {
+          "id": 17858051153699359377,
+          "name": "curr_iron",
+          "quantity": 69000,
+          "type": "wallet"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_curr_Iron_into__curr_Stone_1"
+    },
+    {
+      "id": "3283a2f9c814d218",
+      "ingredients": [
+        {
+          "id": 679696727262731355,
+          "name": "item_buildreq_brick_1",
+          "quantity": 244,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_item_buildreq_brick_1_into__curr_Stone_1"
+    },
+    {
+      "id": "5918c9bb342a5b0b",
+      "ingredients": [
+        {
+          "id": 6892516585401871799,
+          "name": "item_buildreq_soldierpine_1",
+          "quantity": 48,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_item_buildreq_soldierpine_1_into__curr_Stone_1"
+    },
+    {
+      "id": "5b54ba87e3df1abb",
+      "ingredients": [
+        {
+          "id": 13209342921655804662,
+          "name": "item_buildreq_keystone_1",
+          "quantity": 9,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_item_buildreq_keystone_1_into__curr_Stone_1"
+    },
+    {
+      "id": "ee07a3fe1fecfdaa",
+      "ingredients": [
+        {
+          "id": 5757253826192098018,
+          "name": "item_buildreq_scholarly_fragment_1",
+          "quantity": 244,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_item_buildreq_scholarly_fragment_1_into__curr_Stone_1"
+    },
+    {
+      "id": "a96b664877e5ee4c",
+      "ingredients": [
+        {
+          "id": 17538230295669517782,
+          "name": "item_buildreq_pale_steel_1",
+          "quantity": 48,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_item_buildreq_pale_steel_1_into__curr_Stone_1"
+    },
+    {
+      "id": "47fed6144dae3700",
+      "ingredients": [
+        {
+          "id": 3949640101439549005,
+          "name": "item_buildreq_red_gold_1",
+          "quantity": 9,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_item_buildreq_red_gold_1_into__curr_Stone_1"
+    },
+    {
+      "id": "4d9094ebfa729f61",
+      "ingredients": [
+        {
+          "id": 15981053744082417809,
+          "name": "curr_food",
+          "quantity": 3030000,
+          "type": "wallet"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_curr_Food_into__curr_Iron_1"
+    },
+    {
+      "id": "52e99686fb258c9b",
+      "ingredients": [
+        {
+          "id": 3854667303943731796,
+          "name": "curr_wood",
+          "quantity": 3030000,
+          "type": "wallet"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_curr_Wood_into__curr_Iron_1"
+    },
+    {
+      "id": "ade00d53e94a6c4",
+      "ingredients": [
+        {
+          "id": 13386899470757036277,
+          "name": "curr_stone",
+          "quantity": 504000,
+          "type": "wallet"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_curr_Stone_into__curr_Iron_1"
+    },
+    {
+      "id": "bcd9db94d3204de4",
+      "ingredients": [
+        {
+          "id": 679696727262731355,
+          "name": "item_buildreq_brick_1",
+          "quantity": 440,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_item_buildreq_brick_1_into__curr_Iron_1"
+    },
+    {
+      "id": "14a35c30a4129efb",
+      "ingredients": [
+        {
+          "id": 6892516585401871799,
+          "name": "item_buildreq_soldierpine_1",
+          "quantity": 88,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_item_buildreq_soldierpine_1_into__curr_Iron_1"
+    },
+    {
+      "id": "df1ea6788ba2ff86",
+      "ingredients": [
+        {
+          "id": 13209342921655804662,
+          "name": "item_buildreq_keystone_1",
+          "quantity": 17,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_item_buildreq_keystone_1_into__curr_Iron_1"
+    },
+    {
+      "id": "41c04c8cd3bf3a2e",
+      "ingredients": [
+        {
+          "id": 5757253826192098018,
+          "name": "item_buildreq_scholarly_fragment_1",
+          "quantity": 440,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_item_buildreq_scholarly_fragment_1_into__curr_Iron_1"
+    },
+    {
+      "id": "efdf990bc046e630",
+      "ingredients": [
+        {
+          "id": 17538230295669517782,
+          "name": "item_buildreq_pale_steel_1",
+          "quantity": 88,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_item_buildreq_pale_steel_1_into__curr_Iron_1"
+    },
+    {
+      "id": "d3f1ddc89c375be7",
+      "ingredients": [
+        {
+          "id": 3949640101439549005,
+          "name": "item_buildreq_red_gold_1",
+          "quantity": 17,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_item_buildreq_red_gold_1_into__curr_Iron_1"
+    },
+    {
+      "id": "7a43b49eacfe09e9",
+      "ingredients": [
+        {
+          "id": 15981053744082417809,
+          "name": "curr_food",
+          "quantity": 9810000,
+          "type": "wallet"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_curr_Food_into__item_buildreq_brick_1_1"
+    },
+    {
+      "id": "31efa117f4d0920b",
+      "ingredients": [
+        {
+          "id": 3854667303943731796,
+          "name": "curr_wood",
+          "quantity": 9810000,
+          "type": "wallet"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_curr_Wood_into__item_buildreq_brick_1_1"
+    },
+    {
+      "id": "52886aa2a5154d40",
+      "ingredients": [
+        {
+          "id": 13386899470757036277,
+          "name": "curr_stone",
+          "quantity": 1630000,
+          "type": "wallet"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_curr_Stone_into__item_buildreq_brick_1_1"
+    },
+    {
+      "id": "9da0002c08e8f370",
+      "ingredients": [
+        {
+          "id": 17858051153699359377,
+          "name": "curr_iron",
+          "quantity": 460000,
+          "type": "wallet"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_curr_Iron_into__item_buildreq_brick_1_1"
+    },
+    {
+      "id": "8c529a515171cbbe",
+      "ingredients": [
+        {
+          "id": 6892516585401871799,
+          "name": "item_buildreq_soldierpine_1",
+          "quantity": 260,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_item_buildreq_soldierpine_1_into__item_buildreq_brick_1_1"
+    },
+    {
+      "id": "921cb88f8a95bbf6",
+      "ingredients": [
+        {
+          "id": 13209342921655804662,
+          "name": "item_buildreq_keystone_1",
+          "quantity": 52,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_item_buildreq_keystone_1_into__item_buildreq_brick_1_1"
+    },
+    {
+      "id": "1a5f7615a05b050",
+      "ingredients": [
+        {
+          "id": 5757253826192098018,
+          "name": "item_buildreq_scholarly_fragment_1",
+          "quantity": 1300,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_item_buildreq_scholarly_fragment_1_into__item_buildreq_brick_1_1"
+    },
+    {
+      "id": "3970dd6e5711c42",
+      "ingredients": [
+        {
+          "id": 17538230295669517782,
+          "name": "item_buildreq_pale_steel_1",
+          "quantity": 260,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_item_buildreq_pale_steel_1_into__item_buildreq_brick_1_1"
+    },
+    {
+      "id": "3fbefa418ec1099",
+      "ingredients": [
+        {
+          "id": 3949640101439549005,
+          "name": "item_buildreq_red_gold_1",
+          "quantity": 52,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_item_buildreq_red_gold_1_into__item_buildreq_brick_1_1"
+    },
+    {
+      "id": "61f5ef01f1229c25",
+      "ingredients": [
+        {
+          "id": 15981053744082417809,
+          "name": "curr_food",
+          "quantity": 15200000,
+          "type": "wallet"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_curr_Food_into__item_buildreq_soldierpine_1_1"
+    },
+    {
+      "id": "424f7f20f8ac721c",
+      "ingredients": [
+        {
+          "id": 3854667303943731796,
+          "name": "curr_wood",
+          "quantity": 15200000,
+          "type": "wallet"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_curr_Wood_into__item_buildreq_soldierpine_1_1"
+    },
+    {
+      "id": "d0f94943347c39af",
+      "ingredients": [
+        {
+          "id": 13386899470757036277,
+          "name": "curr_stone",
+          "quantity": 2530000,
+          "type": "wallet"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_curr_Stone_into__item_buildreq_soldierpine_1_1"
+    },
+    {
+      "id": "7ed1b3f5f16cf0d9",
+      "ingredients": [
+        {
+          "id": 17858051153699359377,
+          "name": "curr_iron",
+          "quantity": 729000,
+          "type": "wallet"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_curr_Iron_into__item_buildreq_soldierpine_1_1"
+    },
+    {
+      "id": "499d7b92fbb63d65",
+      "ingredients": [
+        {
+          "id": 679696727262731355,
+          "name": "item_buildreq_brick_1",
+          "quantity": 1950,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_item_buildreq_brick_1_into__item_buildreq_soldierpine_1_1"
+    },
+    {
+      "id": "1aef98cbb0802dd9",
+      "ingredients": [
+        {
+          "id": 13209342921655804662,
+          "name": "item_buildreq_keystone_1",
+          "quantity": 78,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_item_buildreq_keystone_1_into__item_buildreq_soldierpine_1_1"
+    },
+    {
+      "id": "da43cc93b959c380",
+      "ingredients": [
+        {
+          "id": 5757253826192098018,
+          "name": "item_buildreq_scholarly_fragment_1",
+          "quantity": 1950,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_item_buildreq_scholarly_fragment_1_into__item_buildreq_soldierpine_1_1"
+    },
+    {
+      "id": "2e757f6c4cbaedef",
+      "ingredients": [
+        {
+          "id": 17538230295669517782,
+          "name": "item_buildreq_pale_steel_1",
+          "quantity": 390,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_item_buildreq_pale_steel_1_into__item_buildreq_soldierpine_1_1"
+    },
+    {
+      "id": "cbc8065ed0692710",
+      "ingredients": [
+        {
+          "id": 3949640101439549005,
+          "name": "item_buildreq_red_gold_1",
+          "quantity": 78,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_item_buildreq_red_gold_1_into__item_buildreq_soldierpine_1_1"
+    },
+    {
+      "id": "d0a63ba9ca0a804d",
+      "ingredients": [
+        {
+          "id": 15981053744082417809,
+          "name": "curr_food",
+          "quantity": 26500000,
+          "type": "wallet"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_curr_Food_into__item_buildreq_keystone_1_1"
+    },
+    {
+      "id": "a5dffcf1848bd1e4",
+      "ingredients": [
+        {
+          "id": 3854667303943731796,
+          "name": "curr_wood",
+          "quantity": 26500000,
+          "type": "wallet"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_curr_Wood_into__item_buildreq_keystone_1_1"
+    },
+    {
+      "id": "3c0472a32818fcd6",
+      "ingredients": [
+        {
+          "id": 13386899470757036277,
+          "name": "curr_stone",
+          "quantity": 4420000,
+          "type": "wallet"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_curr_Stone_into__item_buildreq_keystone_1_1"
+    },
+    {
+      "id": "c1faa945ad797fb3",
+      "ingredients": [
+        {
+          "id": 17858051153699359377,
+          "name": "curr_iron",
+          "quantity": 1300000,
+          "type": "wallet"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_curr_Iron_into__item_buildreq_keystone_1_1"
+    },
+    {
+      "id": "1c05df5840141d78",
+      "ingredients": [
+        {
+          "id": 679696727262731355,
+          "name": "item_buildreq_brick_1",
+          "quantity": 3240,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_item_buildreq_brick_1_into__item_buildreq_keystone_1_1"
+    },
+    {
+      "id": "bd253106ed21a152",
+      "ingredients": [
+        {
+          "id": 6892516585401871799,
+          "name": "item_buildreq_soldierpine_1",
+          "quantity": 649,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_item_buildreq_soldierpine_1_into__item_buildreq_keystone_1_1"
+    },
+    {
+      "id": "bf05f80fe456b77d",
+      "ingredients": [
+        {
+          "id": 5757253826192098018,
+          "name": "item_buildreq_scholarly_fragment_1",
+          "quantity": 3240,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_item_buildreq_scholarly_fragment_1_into__item_buildreq_keystone_1_1"
+    },
+    {
+      "id": "39c479a1701645be",
+      "ingredients": [
+        {
+          "id": 17538230295669517782,
+          "name": "item_buildreq_pale_steel_1",
+          "quantity": 649,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_item_buildreq_pale_steel_1_into__item_buildreq_keystone_1_1"
+    },
+    {
+      "id": "37a8c7e165ec57ee",
+      "ingredients": [
+        {
+          "id": 3949640101439549005,
+          "name": "item_buildreq_red_gold_1",
+          "quantity": 129,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_item_buildreq_red_gold_1_into__item_buildreq_keystone_1_1"
+    },
+    {
+      "id": "7b9627b9594e440",
+      "ingredients": [
+        {
+          "id": 15981053744082417809,
+          "name": "curr_food",
+          "quantity": 9810000,
+          "type": "wallet"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_curr_Food_into__item_buildreq_scholarly_fragment_1_1"
+    },
+    {
+      "id": "e660ba2ccad2c547",
+      "ingredients": [
+        {
+          "id": 3854667303943731796,
+          "name": "curr_wood",
+          "quantity": 9810000,
+          "type": "wallet"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_curr_Wood_into__item_buildreq_scholarly_fragment_1_1"
+    },
+    {
+      "id": "7ed4ee0117f52a30",
+      "ingredients": [
+        {
+          "id": 13386899470757036277,
+          "name": "curr_stone",
+          "quantity": 1630000,
+          "type": "wallet"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_curr_Stone_into__item_buildreq_scholarly_fragment_1_1"
+    },
+    {
+      "id": "e6231310a15c3ba4",
+      "ingredients": [
+        {
+          "id": 17858051153699359377,
+          "name": "curr_iron",
+          "quantity": 460000,
+          "type": "wallet"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_curr_Iron_into__item_buildreq_scholarly_fragment_1_1"
+    },
+    {
+      "id": "cfda4a9518440c81",
+      "ingredients": [
+        {
+          "id": 679696727262731355,
+          "name": "item_buildreq_brick_1",
+          "quantity": 1300,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_item_buildreq_brick_1_into__item_buildreq_scholarly_fragment_1_1"
+    },
+    {
+      "id": "c3aae2959c9a6cba",
+      "ingredients": [
+        {
+          "id": 6892516585401871799,
+          "name": "item_buildreq_soldierpine_1",
+          "quantity": 260,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_item_buildreq_soldierpine_1_into__item_buildreq_scholarly_fragment_1_1"
+    },
+    {
+      "id": "646b7abc3f59b33f",
+      "ingredients": [
+        {
+          "id": 13209342921655804662,
+          "name": "item_buildreq_keystone_1",
+          "quantity": 52,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_item_buildreq_keystone_1_into__item_buildreq_scholarly_fragment_1_1"
+    },
+    {
+      "id": "61d8ea20a5539925",
+      "ingredients": [
+        {
+          "id": 17538230295669517782,
+          "name": "item_buildreq_pale_steel_1",
+          "quantity": 260,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_item_buildreq_pale_steel_1_into__item_buildreq_scholarly_fragment_1_1"
+    },
+    {
+      "id": "3a86425a977d81be",
+      "ingredients": [
+        {
+          "id": 3949640101439549005,
+          "name": "item_buildreq_red_gold_1",
+          "quantity": 52,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_item_buildreq_red_gold_1_into__item_buildreq_scholarly_fragment_1_1"
+    },
+    {
+      "id": "e9c55a2a6a44ef84",
+      "ingredients": [
+        {
+          "id": 15981053744082417809,
+          "name": "curr_food",
+          "quantity": 15200000,
+          "type": "wallet"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_curr_Food_into__item_buildreq_pale_steel_1_1"
+    },
+    {
+      "id": "b2384ad469dfcb8b",
+      "ingredients": [
+        {
+          "id": 3854667303943731796,
+          "name": "curr_wood",
+          "quantity": 15200000,
+          "type": "wallet"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_curr_Wood_into__item_buildreq_pale_steel_1_1"
+    },
+    {
+      "id": "a58344ada3575cfd",
+      "ingredients": [
+        {
+          "id": 13386899470757036277,
+          "name": "curr_stone",
+          "quantity": 2530000,
+          "type": "wallet"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_curr_Stone_into__item_buildreq_pale_steel_1_1"
+    },
+    {
+      "id": "6e6ec2ded1ce92b3",
+      "ingredients": [
+        {
+          "id": 17858051153699359377,
+          "name": "curr_iron",
+          "quantity": 729000,
+          "type": "wallet"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_curr_Iron_into__item_buildreq_pale_steel_1_1"
+    },
+    {
+      "id": "fdbda0dd51f8b854",
+      "ingredients": [
+        {
+          "id": 679696727262731355,
+          "name": "item_buildreq_brick_1",
+          "quantity": 1950,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_item_buildreq_brick_1_into__item_buildreq_pale_steel_1_1"
+    },
+    {
+      "id": "3455a66a1f029e9e",
+      "ingredients": [
+        {
+          "id": 6892516585401871799,
+          "name": "item_buildreq_soldierpine_1",
+          "quantity": 390,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_item_buildreq_soldierpine_1_into__item_buildreq_pale_steel_1_1"
+    },
+    {
+      "id": "73f2ae87aa8cb5a2",
+      "ingredients": [
+        {
+          "id": 13209342921655804662,
+          "name": "item_buildreq_keystone_1",
+          "quantity": 78,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_item_buildreq_keystone_1_into__item_buildreq_pale_steel_1_1"
+    },
+    {
+      "id": "3d8e5fed6a3609",
+      "ingredients": [
+        {
+          "id": 5757253826192098018,
+          "name": "item_buildreq_scholarly_fragment_1",
+          "quantity": 1950,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_item_buildreq_scholarly_fragment_1_into__item_buildreq_pale_steel_1_1"
+    },
+    {
+      "id": "ba1cfaf7bfe38f1b",
+      "ingredients": [
+        {
+          "id": 3949640101439549005,
+          "name": "item_buildreq_red_gold_1",
+          "quantity": 78,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_item_buildreq_red_gold_1_into__item_buildreq_pale_steel_1_1"
+    },
+    {
+      "id": "e1fb45dc69d1294d",
+      "ingredients": [
+        {
+          "id": 15981053744082417809,
+          "name": "curr_food",
+          "quantity": 26500000,
+          "type": "wallet"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_curr_Food_into__item_buildreq_red_gold_1_1"
+    },
+    {
+      "id": "94828284275078e4",
+      "ingredients": [
+        {
+          "id": 3854667303943731796,
+          "name": "curr_wood",
+          "quantity": 26500000,
+          "type": "wallet"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_curr_Wood_into__item_buildreq_red_gold_1_1"
+    },
+    {
+      "id": "d590cd68bc355d6",
+      "ingredients": [
+        {
+          "id": 13386899470757036277,
+          "name": "curr_stone",
+          "quantity": 4420000,
+          "type": "wallet"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_curr_Stone_into__item_buildreq_red_gold_1_1"
+    },
+    {
+      "id": "f0a7d7300ea2d6b3",
+      "ingredients": [
+        {
+          "id": 17858051153699359377,
+          "name": "curr_iron",
+          "quantity": 1300000,
+          "type": "wallet"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_curr_Iron_into__item_buildreq_red_gold_1_1"
+    },
+    {
+      "id": "2d58a12de3cfb478",
+      "ingredients": [
+        {
+          "id": 679696727262731355,
+          "name": "item_buildreq_brick_1",
+          "quantity": 3240,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_item_buildreq_brick_1_into__item_buildreq_red_gold_1_1"
+    },
+    {
+      "id": "8c784f734efa0852",
+      "ingredients": [
+        {
+          "id": 6892516585401871799,
+          "name": "item_buildreq_soldierpine_1",
+          "quantity": 649,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_item_buildreq_soldierpine_1_into__item_buildreq_red_gold_1_1"
+    },
+    {
+      "id": "fffb058a51cc7e68",
+      "ingredients": [
+        {
+          "id": 13209342921655804662,
+          "name": "item_buildreq_keystone_1",
+          "quantity": 129,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_item_buildreq_keystone_1_into__item_buildreq_red_gold_1_1"
+    },
+    {
+      "id": "8e58867a478d1e7d",
+      "ingredients": [
+        {
+          "id": 5757253826192098018,
+          "name": "item_buildreq_scholarly_fragment_1",
+          "quantity": 3240,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_item_buildreq_scholarly_fragment_1_into__item_buildreq_red_gold_1_1"
+    },
+    {
+      "id": "89907d4d3cdecbe",
+      "ingredients": [
+        {
+          "id": 17538230295669517782,
+          "name": "item_buildreq_pale_steel_1",
+          "quantity": 649,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 30,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_writexchange_item_buildreq_pale_steel_1_into__item_buildreq_red_gold_1_1"
+    },
+    {
+      "id": "80ff10a445158d2a",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 300,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_FoodGathering_bounty_10_1d0h0m_1"
+    },
+    {
+      "id": "18edd2281cdba39e",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 3000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_FoodGathering_bounty_15_1d0h0m_1"
+    },
+    {
+      "id": "e62c988eb99059c6",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 10000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_FoodGathering_bounty_20_1d0h0m_1"
+    },
+    {
+      "id": "1d4633312ccd6d0c",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 300,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_WoodGathering_bounty_10_1d0h0m_1"
+    },
+    {
+      "id": "8554f1bd750343b8",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 3000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_WoodGathering_bounty_15_1d0h0m_1"
+    },
+    {
+      "id": "7b95bb1bd048b9e0",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 10000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_WoodGathering_bounty_20_1d0h0m_1"
+    },
+    {
+      "id": "65f373e128853d52",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 300,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_StoneGathering_bounty_10_1d0h0m_1"
+    },
+    {
+      "id": "fde1b16d714b13e6",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 3000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_StoneGathering_bounty_15_1d0h0m_1"
+    },
+    {
+      "id": "320fbcbd400e9be",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 10000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_StoneGathering_bounty_20_1d0h0m_1"
+    },
+    {
+      "id": "1c130ba6d09cd78a",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 300,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_IronGathering_bounty_10_1d0h0m_1"
+    },
+    {
+      "id": "8401c92a8952f93e",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 3000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_IronGathering_bounty_15_1d0h0m_1"
+    },
+    {
+      "id": "7ac0838c2c190366",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 10000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_IronGathering_bounty_20_1d0h0m_1"
+    },
+    {
+      "id": "74c18f2900659801",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 300,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_FoodGeneration_bounty_10_1d0h0m_1"
+    },
+    {
+      "id": "ecd34da559abb6b5",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 3000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_FoodGeneration_bounty_15_1d0h0m_1"
+    },
+    {
+      "id": "12120703fce04ced",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 10000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_FoodGeneration_bounty_20_1d0h0m_1"
+    },
+    {
+      "id": "fdc7634796e3947",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 300,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_WoodGeneration_bounty_10_1d0h0m_1"
+    },
+    {
+      "id": "97ceb4b820a017f3",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 3000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_WoodGeneration_bounty_15_1d0h0m_1"
+    },
+    {
+      "id": "690ffe1e85ebedab",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 10000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_WoodGeneration_bounty_20_1d0h0m_1"
+    },
+    {
+      "id": "e995a8b0b0ccef72",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 300,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_StoneGeneration_bounty_10_1d0h0m_1"
+    },
+    {
+      "id": "71876a3ce902c1c6",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 3000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_StoneGeneration_bounty_15_1d0h0m_1"
+    },
+    {
+      "id": "8f46209a4c493b9e",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 10000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_StoneGeneration_bounty_20_1d0h0m_1"
+    },
+    {
+      "id": "24a4bbe1f9ae2b74",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 300,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_IronGeneration_bounty_10_1d0h0m_1"
+    },
+    {
+      "id": "bcb6796da06005c0",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 3000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_IronGeneration_bounty_15_1d0h0m_1"
+    },
+    {
+      "id": "427733cb052bff98",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 10000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_IronGeneration_bounty_20_1d0h0m_1"
+    },
+    {
+      "id": "21c7e2e0b7b5f5",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 300,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_TroopUpkeepInfantry_bounty_25_7d0h0m_1"
+    },
+    {
+      "id": "77da92dd140e813d",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 3000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_TroopUpkeepInfantry_bounty_50_7d0h0m_1"
+    },
+    {
+      "id": "ab555f9de539c8c1",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 10000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_TroopUpkeepInfantry_bounty_75_7d0h0m_1"
+    },
+    {
+      "id": "fb2ea60c1a28c2a5",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 300,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_TroopUpkeepMounted_bounty_25_7d0h0m_1"
+    },
+    {
+      "id": "8cd5f333ee91f66d",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 3000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_TroopUpkeepMounted_bounty_50_7d0h0m_1"
+    },
+    {
+      "id": "505a3e731fa6bf91",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 10000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_TroopUpkeepMounted_bounty_75_7d0h0m_1"
+    },
+    {
+      "id": "3aaf5be1e4e42716",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 300,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_TroopUpkeepRanged_bounty_25_7d0h0m_1"
+    },
+    {
+      "id": "4d540ede105d13de",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 3000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_TroopUpkeepRanged_bounty_50_7d0h0m_1"
+    },
+    {
+      "id": "91dbc39ee16a5a22",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 10000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_TroopUpkeepRanged_bounty_75_7d0h0m_1"
+    },
+    {
+      "id": "7b7a32e7b2c30d89",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 3000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_TroopUpkeepSiege_bounty_25_7d0h0m_1"
+    },
+    {
+      "id": "c8167d8467a3941",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 10000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_TroopUpkeepSiege_bounty_50_7d0h0m_1"
+    },
+    {
+      "id": "d00eaa98b74d70bd",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 30000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_TroopUpkeepSiege_bounty_75_7d0h0m_1"
+    },
+    {
+      "id": "6a241b848c6c0978",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 300,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_TrainingSpeed_bounty_5_0d1h0m_1"
+    },
+    {
+      "id": "1b2fb7663e2f604a",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 3000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_TrainingSpeed_bounty_10_0d1h0m_1"
+    },
+    {
+      "id": "833d75ea67e14efe",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 10000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_TrainingSpeed_bounty_15_0d1h0m_1"
+    },
+    {
+      "id": "2ec88ceae900f7ea",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 300,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_ForgingSteelCost_bounty_5_0d1h0m_1"
+    },
+    {
+      "id": "cb07917235ffc608",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 3000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_ForgingSteelCost_bounty_10_0d1h0m_1"
+    },
+    {
+      "id": "531553fe6c31e8bc",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 10000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_ForgingSteelCost_bounty_15_0d1h0m_1"
+    },
+    {
+      "id": "23ec117f1486dfa9",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 300,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_TroopLoad_bounty_5_0d8h0m_1"
+    },
+    {
+      "id": "9da3bcdf1d4de2ad",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 3000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_TroopLoad_bounty_10_0d8h0m_1"
+    },
+    {
+      "id": "5b17e534483cc19",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 10000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_TroopLoad_bounty_15_0d8h0m_1"
+    },
+    {
+      "id": "2d57e0249b2fbe53",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 300,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_HealCost_bounty_5_0d1h0m_1"
+    },
+    {
+      "id": "1aea7edfeb718cb2",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 3000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_HealCost_bounty_10_0d1h0m_1"
+    },
+    {
+      "id": "82f8bc53b2bfa206",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 10000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_HealCost_bounty_15_0d1h0m_1"
+    },
+    {
+      "id": "d8219eeeafa2d167",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 300,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_HealTime_bounty_5_0d1h0m_1"
+    },
+    {
+      "id": "70aea3260c451552",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 3000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_HealTime_bounty_10_0d1h0m_1"
+    },
+    {
+      "id": "e8bc61aa558b3be6",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 10000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_HealTime_bounty_15_0d1h0m_1"
+    },
+    {
+      "id": "c70d466921249a9d",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 300,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_ResearchSpeed_bounty_5_0d1h0m_1"
+    },
+    {
+      "id": "75be1273b47e70bb",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 3000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_ResearchSpeed_bounty_10_0d1h0m_1"
+    },
+    {
+      "id": "edacd0ffedb05e0f",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 10000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_ResearchSpeed_bounty_15_0d1h0m_1"
+    },
+    {
+      "id": "4473f017d5a4caf3",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 300,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_FoodProtected_bounty_500k_1d0h0m_1"
+    },
+    {
+      "id": "4ecd671ede6ca4ed",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 3000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_FoodProtected_bounty_500k_3d0h0m_1"
+    },
+    {
+      "id": "5bb0490cc9fc78d1",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 10000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_FoodProtected_bounty_500k_7d0h0m_1"
+    },
+    {
+      "id": "fdfe59e8d8a5111",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 300,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_WoodProtected_bounty_500k_1d0h0m_1"
+    },
+    {
+      "id": "561729786423f0f",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 3000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_WoodProtected_bounty_500k_3d0h0m_1"
+    },
+    {
+      "id": "101c5c8591d2e333",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 10000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_WoodProtected_bounty_500k_7d0h0m_1"
+    },
+    {
+      "id": "679771b87bb3018f",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 300,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_IronProtected_bounty_125k_1d0h0m_1"
+    },
+    {
+      "id": "6d29e6b1707b6f91",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 3000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_IronProtected_bounty_125k_3d0h0m_1"
+    },
+    {
+      "id": "7854c8a367ebb3ad",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 10000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_IronProtected_bounty_125k_7d0h0m_1"
+    },
+    {
+      "id": "d6cac42971900a0a",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 300,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_StoneProtected_bounty_250k_1d0h0m_1"
+    },
+    {
+      "id": "dc7453207a586414",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 3000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_StoneProtected_bounty_250k_3d0h0m_1"
+    },
+    {
+      "id": "c9097d326dc8b828",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 10000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_StoneProtected_bounty_250k_7d0h0m_1"
+    },
+    {
+      "id": "3fad4043ad8c1447",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 3000,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 150,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_MarcherCavalryAttackVsPlayer_bounty_5_0d1h0m_1"
+    },
+    {
+      "id": "e1edd611fecea62d",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 10000,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 300,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_MarcherCavalryAttackVsPlayer_bounty_10_0d1h0m_1"
+    },
+    {
+      "id": "79ff149da7008899",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 30000,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 450,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_MarcherCavalryAttackVsPlayer_bounty_15_0d1h0m_1"
+    },
+    {
+      "id": "8a1193aaa8ff1aa3",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 3000,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 150,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_MarcherInfantryAttackVsPlayer_bounty_5_0d1h0m_1"
+    },
+    {
+      "id": "a3952d2cc764dcbb",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 10000,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 300,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_MarcherInfantryAttackVsPlayer_bounty_10_0d1h0m_1"
+    },
+    {
+      "id": "3b87efa09eaaf20f",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 30000,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 450,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_MarcherInfantryAttackVsPlayer_bounty_15_0d1h0m_1"
+    },
+    {
+      "id": "4d714bdc6c229ac3",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 3000,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 150,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_MarcherRangedAttackVsPlayer_bounty_5_0d1h0m_1"
+    },
+    {
+      "id": "930505ba1895e8de",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 10000,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 300,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_MarcherRangedAttackVsPlayer_bounty_10_0d1h0m_1"
+    },
+    {
+      "id": "b17c736415bc66a",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 30000,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 450,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_MarcherRangedAttackVsPlayer_bounty_15_0d1h0m_1"
+    },
+    {
+      "id": "508349b2bc21b51e",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 3000,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 150,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_MarcherSiegeAttackVsPlayer_bounty_5_0d1h0m_1"
+    },
+    {
+      "id": "c166e1ad12c1200f",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 10000,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 300,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_MarcherSiegeAttackVsPlayer_bounty_10_0d1h0m_1"
+    },
+    {
+      "id": "597423214b0f0ebb",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 30000,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 450,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_MarcherSiegeAttackVsPlayer_bounty_15_0d1h0m_1"
+    },
+    {
+      "id": "b5031c973ad29ab9",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 3000,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 150,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_MarcherCavalryDefenseVsPlayer_bounty_5_0d1h0m_1"
+    },
+    {
+      "id": "57afcb5ac8a15ce9",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 10000,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 300,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_MarcherCavalryDefenseVsPlayer_bounty_10_0d1h0m_1"
+    },
+    {
+      "id": "cfbd09d6916f725d",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 30000,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 450,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_MarcherCavalryDefenseVsPlayer_bounty_15_0d1h0m_1"
+    },
+    {
+      "id": "f77be7aa0378e02f",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 3000,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 150,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_MarcherInfantryDefenseVsPlayer_bounty_5_0d1h0m_1"
+    },
+    {
+      "id": "344657b84d607bc7",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 10000,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 300,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_MarcherInfantryDefenseVsPlayer_bounty_10_0d1h0m_1"
+    },
+    {
+      "id": "ac54953414ae5573",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 30000,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 450,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_MarcherInfantryDefenseVsPlayer_bounty_15_0d1h0m_1"
+    },
+    {
+      "id": "c7ebcf3cdc89d44a",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 3000,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 150,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_MarcherRangedDefenseVsPlayer_bounty_5_0d1h0m_1"
+    },
+    {
+      "id": "9b176ae218947504",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 10000,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 300,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_MarcherRangedDefenseVsPlayer_bounty_10_0d1h0m_1"
+    },
+    {
+      "id": "305a86e415a5bb0",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 30000,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 450,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_MarcherRangedDefenseVsPlayer_bounty_15_0d1h0m_1"
+    },
+    {
+      "id": "95882b2bd6dd1c9b",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 3000,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 150,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_MarcherSiegeDefenseVsPlayer_bounty_5_0d1h0m_1"
+    },
+    {
+      "id": "9fc82ec945626d21",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 10000,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 300,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_MarcherSiegeDefenseVsPlayer_bounty_10_0d1h0m_1"
+    },
+    {
+      "id": "7daec451cac4395",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 30000,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 450,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_MarcherSiegeDefenseVsPlayer_bounty_15_0d1h0m_1"
+    },
+    {
+      "id": "3de14be7d39730bf",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 3000,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 150,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_MarcherCavalryHealthVsPlayer_bounty_5_0d1h0m_1"
+    },
+    {
+      "id": "bd0390da0ba3fd5f",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 10000,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 300,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_MarcherCavalryHealthVsPlayer_bounty_10_0d1h0m_1"
+    },
+    {
+      "id": "25115256526dd3eb",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 30000,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 450,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_MarcherCavalryHealthVsPlayer_bounty_15_0d1h0m_1"
+    },
+    {
+      "id": "885d980ed6e43e5b",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 3000,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 150,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_MarcherInfantryHealthVsPlayer_bounty_5_0d1h0m_1"
+    },
+    {
+      "id": "ff7b6be7320987c9",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 10000,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 300,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_MarcherInfantryHealthVsPlayer_bounty_10_0d1h0m_1"
+    },
+    {
+      "id": "6769a96b6bc7a97d",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 30000,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 450,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_MarcherInfantryHealthVsPlayer_bounty_15_0d1h0m_1"
+    },
+    {
+      "id": "4f3d40781239be3b",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 3000,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 150,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_MarcherRangedHealthVsPlayer_bounty_5_0d1h0m_1"
+    },
+    {
+      "id": "cfeb4371edf8b3ac",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 10000,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 300,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_MarcherRangedHealthVsPlayer_bounty_10_0d1h0m_1"
+    },
+    {
+      "id": "57f981fdb4369d18",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 30000,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 450,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_MarcherRangedHealthVsPlayer_bounty_15_0d1h0m_1"
+    },
+    {
+      "id": "52cf4216c23a91e6",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 3000,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 150,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_MarcherSiegeHealthVsPlayer_bounty_5_0d1h0m_1"
+    },
+    {
+      "id": "9d88a766e7ac7b7d",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 10000,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 300,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_MarcherSiegeHealthVsPlayer_bounty_10_0d1h0m_1"
+    },
+    {
+      "id": "59a65eabe6255c9",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 30000,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 450,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_MarcherSiegeHealthVsPlayer_bounty_15_0d1h0m_1"
+    },
+    {
+      "id": "277a8c2ae9d99b8d",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 300,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 50,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_BarracksTrainingCapacity_bounty_5_0d1h0m_1"
+    },
+    {
+      "id": "3d8c194d58724367",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 3000,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 150,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_BarracksTrainingCapacity_bounty_10_0d1h0m_1"
+    },
+    {
+      "id": "a59edbc101bc6dd3",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 10000,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 300,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_BarracksTrainingCapacity_bounty_15_0d1h0m_1"
+    },
+    {
+      "id": "8cf00464abcb7ddc",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 300,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 50,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_RangeTrainingCapacity_bounty_5_0d1h0m_1"
+    },
+    {
+      "id": "f8f79530f81bbaf9",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 3000,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 150,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_RangeTrainingCapacity_bounty_10_0d1h0m_1"
+    },
+    {
+      "id": "60e557bca1d5944d",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 10000,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 300,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_RangeTrainingCapacity_bounty_15_0d1h0m_1"
+    },
+    {
+      "id": "3019b0922358139a",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 300,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 50,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_StableTrainingCapacity_bounty_5_0d1h0m_1"
+    },
+    {
+      "id": "b39c74f44bc4b9d4",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 3000,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 150,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_StableTrainingCapacity_bounty_10_0d1h0m_1"
+    },
+    {
+      "id": "2b8eb678120a9760",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 10000,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 300,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_StableTrainingCapacity_bounty_15_0d1h0m_1"
+    },
+    {
+      "id": "6c88c2cf017a0b04",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 300,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 50,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_WorkshopTrainingCapacity_bounty_5_0d1h0m_1"
+    },
+    {
+      "id": "355f1edf5d2bd663",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 3000,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 150,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_WorkshopTrainingCapacity_bounty_10_0d1h0m_1"
+    },
+    {
+      "id": "ad4ddc5304e5f8d7",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 10000,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 300,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_WorkshopTrainingCapacity_bounty_15_0d1h0m_1"
+    },
+    {
+      "id": "b50e075070d6a507",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 300,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 50,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_TrapmakerTrainingCapacity_bounty_5_0d1h0m_1"
+    },
+    {
+      "id": "4094c4f11baf88c3",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 3000,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 150,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_TrapmakerTrainingCapacity_bounty_10_0d1h0m_1"
+    },
+    {
+      "id": "d886067d4261a677",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 10000,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 300,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_TrapmakerTrainingCapacity_bounty_15_0d1h0m_1"
+    },
+    {
+      "id": "156d8f477a1924b2",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 300,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 50,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_TrainingCapacity_bounty_5_0d1h0m_1"
+    },
+    {
+      "id": "c729e6623221a5a2",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 3000,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 150,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_TrainingCapacity_bounty_10_0d1h0m_1"
+    },
+    {
+      "id": "5f3b24ee6bef8b16",
+      "ingredients": [
+        {
+          "id": 14162054185399994905,
+          "name": "item_elite_monster_bounty",
+          "quantity": 10000,
+          "type": "item"
+        },
+        {
+          "id": 4382949061901541779,
+          "name": "item_elite_monster_writ",
+          "quantity": 300,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_bounty_into__boost_TrainingCapacity_bounty_15_0d1h0m_1"
+    },
+    {
+      "id": "8b64208848b6201a",
+      "ingredients": [
+        {
+          "id": 15981053744082417809,
+          "name": "curr_food",
+          "quantity": 5550000,
+          "type": "wallet"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_rssexchange_curr_Food_to_boost_peaceshield_7day_1"
+    },
+    {
+      "id": "16dd031d216ec03c",
+      "ingredients": [
+        {
+          "id": 3854667303943731796,
+          "name": "curr_wood",
+          "quantity": 5550000,
+          "type": "wallet"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_rssexchange_curr_Wood_to_boost_peaceshield_7day_1"
+    },
+    {
+      "id": "eb523f056fa3ce72",
+      "ingredients": [
+        {
+          "id": 13386899470757036277,
+          "name": "curr_stone",
+          "quantity": 924000,
+          "type": "wallet"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_rssexchange_curr_Stone_to_boost_peaceshield_7day_1"
+    },
+    {
+      "id": "17883b8add3f7aba",
+      "ingredients": [
+        {
+          "id": 17858051153699359377,
+          "name": "curr_iron",
+          "quantity": 253000,
+          "type": "wallet"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_rssexchange_curr_Iron_to_boost_peaceshield_7day_1"
+    },
+    {
+      "id": "2504dccaff408305",
+      "ingredients": [
+        {
+          "id": 15981053744082417809,
+          "name": "curr_food",
+          "quantity": 27000000,
+          "type": "wallet"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_rssexchange_curr_Food_to_boost_peaceshield_30day_1"
+    },
+    {
+      "id": "5e1925d7864b2243",
+      "ingredients": [
+        {
+          "id": 3854667303943731796,
+          "name": "curr_wood",
+          "quantity": 27000000,
+          "type": "wallet"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_rssexchange_curr_Wood_to_boost_peaceshield_30day_1"
+    },
+    {
+      "id": "f007bddb2867bff5",
+      "ingredients": [
+        {
+          "id": 13386899470757036277,
+          "name": "curr_stone",
+          "quantity": 4490000,
+          "type": "wallet"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_rssexchange_curr_Stone_to_boost_peaceshield_30day_1"
+    },
+    {
+      "id": "7561e802068b3070",
+      "ingredients": [
+        {
+          "id": 17858051153699359377,
+          "name": "curr_iron",
+          "quantity": 1320000,
+          "type": "wallet"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_rssexchange_curr_Iron_to_boost_peaceshield_30day_1"
+    }
+  ]
+}

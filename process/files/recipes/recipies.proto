@@ -1,0 +1,30 @@
+syntax = "proto3";
+
+import 'files/common/common.proto';
+
+message Recipes {
+  repeated Recipe recipes = 1;
+
+  message Recipe {
+    ObjectIdentity identity = 1;
+    RecipeInfo info = 2;
+  }
+
+  message RecipeInfo {
+    ObjectIdentity ingredients = 1;
+    string image = 2;
+    string overlay_image = 3;
+    int32 target_quality = 4;
+    int32 unknown_1_int = 5;
+    int32 limit = 6;
+    string name_placeholder = 7;
+    string description_placeholder = 8;
+    int32 unknown_2_int = 9;
+    int32 event_points = 10;
+    string event_name = 11;
+    ObjectIdentity display_group = 12;
+    int32 target_quantity = 13;
+    int32 sort_priority = 14;
+    int32 unknown_3_int = 15;
+  }
+}

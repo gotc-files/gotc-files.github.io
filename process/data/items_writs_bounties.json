@@ -1,0 +1,212 @@
+{
+  "description": "Items",
+  "values": [
+    {
+      "description_placeholder": "ITEM_ELITE_MONSTER_WRIT_DESC",
+      "id": "3cd35cf32f45e193",
+      "image": "icon_elite_writ.png",
+      "name": "item_elite_monster_writ",
+      "name_placeholder": "ITEM_ELITE_MONSTER_WRIT",
+      "priority": 57500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_ELITE_MONSTER_BOUNTY_DESC",
+      "id": "ff3cc29e9375b66a",
+      "image": "icon_elite_bounty.png",
+      "name": "item_elite_monster_bounty_31",
+      "name_placeholder": "ITEM_ELITE_MONSTER_BOUNTY_31",
+      "priority": 57600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_ELITE_MONSTER_BOUNTY_DESC",
+      "id": "8a2e9e754a804464",
+      "image": "icon_elite_bounty.png",
+      "name": "item_elite_monster_bounty_32",
+      "name_placeholder": "ITEM_ELITE_MONSTER_BOUNTY_32",
+      "priority": 57700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_ELITE_MONSTER_BOUNTY_DESC",
+      "id": "a6df55d3fdd3159e",
+      "image": "icon_elite_bounty.png",
+      "name": "item_elite_monster_bounty_33",
+      "name_placeholder": "ITEM_ELITE_MONSTER_BOUNTY_33",
+      "priority": 57800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_ELITE_MONSTER_BOUNTY_DESC",
+      "id": "600a27a2f96ba078",
+      "image": "icon_elite_bounty.png",
+      "name": "item_elite_monster_bounty_34",
+      "name_placeholder": "ITEM_ELITE_MONSTER_BOUNTY_34",
+      "priority": 57900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_ELITE_MONSTER_BOUNTY_DESC",
+      "id": "4cfbec044e38f182",
+      "image": "icon_elite_bounty.png",
+      "name": "item_elite_monster_bounty_35",
+      "name_placeholder": "ITEM_ELITE_MONSTER_BOUNTY_35",
+      "priority": 58000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_ELITE_MONSTER_BOUNTY_DESC",
+      "id": "39e9b0ef97cd038c",
+      "image": "icon_elite_bounty.png",
+      "name": "item_elite_monster_bounty_36",
+      "name_placeholder": "ITEM_ELITE_MONSTER_BOUNTY_36",
+      "priority": 58100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_ELITE_MONSTER_BOUNTY_DESC",
+      "id": "15187b49209e5276",
+      "image": "icon_elite_bounty.png",
+      "name": "item_elite_monster_bounty_37",
+      "name_placeholder": "ITEM_ELITE_MONSTER_BOUNTY_37",
+      "priority": 58200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_ELITE_MONSTER_BOUNTY_DESC",
+      "id": "36f91678d713276b",
+      "image": "icon_elite_bounty.png",
+      "name": "item_elite_monster_bounty_38",
+      "name_placeholder": "ITEM_ELITE_MONSTER_BOUNTY_38",
+      "priority": 58300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_ELITE_MONSTER_BOUNTY_DESC",
+      "id": "1a08ddde60407691",
+      "image": "icon_elite_bounty.png",
+      "name": "item_elite_monster_bounty_39",
+      "name_placeholder": "ITEM_ELITE_MONSTER_BOUNTY_39",
+      "priority": 58400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_ELITE_MONSTER_BOUNTY_DESC",
+      "id": "c8250ce9eb2bf549",
+      "image": "icon_elite_bounty.png",
+      "name": "item_elite_monster_bounty_40",
+      "name_placeholder": "ITEM_ELITE_MONSTER_BOUNTY_40",
+      "priority": 58500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_ELITE_MONSTER_BOUNTY_REWARD_DESC",
+      "id": "339a4688cdd53e03",
+      "image": "icon_elite_lootbox_reward_01.png",
+      "name": "item_elite_monster_bounty_reward_31",
+      "name_placeholder": "ITEM_ELITE_MONSTER_BOUNTY_REWARD_31",
+      "priority": 58600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_ELITE_MONSTER_BOUNTY_REWARD_DESC",
+      "id": "46881a631420cc0d",
+      "image": "icon_elite_lootbox_reward_01.png",
+      "name": "item_elite_monster_bounty_reward_32",
+      "name_placeholder": "ITEM_ELITE_MONSTER_BOUNTY_REWARD_32",
+      "priority": 58700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_ELITE_MONSTER_BOUNTY_REWARD_DESC",
+      "id": "6a79d1c5a3739df7",
+      "image": "icon_elite_lootbox_reward_01.png",
+      "name": "item_elite_monster_bounty_reward_33",
+      "name_placeholder": "ITEM_ELITE_MONSTER_BOUNTY_REWARD_33",
+      "priority": 58800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_ELITE_MONSTER_BOUNTY_REWARD_DESC",
+      "id": "acaca3b4a7cb2811",
+      "image": "icon_elite_lootbox_reward_01.png",
+      "name": "item_elite_monster_bounty_reward_34",
+      "name_placeholder": "ITEM_ELITE_MONSTER_BOUNTY_REWARD_34",
+      "priority": 58900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_ELITE_MONSTER_BOUNTY_REWARD_DESC",
+      "id": "805d6812109879eb",
+      "image": "icon_elite_lootbox_reward_01.png",
+      "name": "item_elite_monster_bounty_reward_35",
+      "name_placeholder": "ITEM_ELITE_MONSTER_BOUNTY_REWARD_35",
+      "priority": 59000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_ELITE_MONSTER_BOUNTY_REWARD_DESC",
+      "id": "f54f34f9c96d8be5",
+      "image": "icon_elite_lootbox_reward_01.png",
+      "name": "item_elite_monster_bounty_reward_36",
+      "name_placeholder": "ITEM_ELITE_MONSTER_BOUNTY_REWARD_36",
+      "priority": 59100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_ELITE_MONSTER_BOUNTY_REWARD_DESC",
+      "id": "d9beff5f7e3eda1f",
+      "image": "icon_elite_lootbox_reward_01.png",
+      "name": "item_elite_monster_bounty_reward_37",
+      "name_placeholder": "ITEM_ELITE_MONSTER_BOUNTY_REWARD_37",
+      "priority": 59200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_ELITE_MONSTER_BOUNTY_REWARD_DESC",
+      "id": "fa5f926e89b3af02",
+      "image": "icon_elite_lootbox_reward_01.png",
+      "name": "item_elite_monster_bounty_reward_38",
+      "name_placeholder": "ITEM_ELITE_MONSTER_BOUNTY_REWARD_38",
+      "priority": 59300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_ELITE_MONSTER_BOUNTY_REWARD_DESC",
+      "id": "d6ae59c83ee0fef8",
+      "image": "icon_elite_lootbox_reward_01.png",
+      "name": "item_elite_monster_bounty_reward_39",
+      "name_placeholder": "ITEM_ELITE_MONSTER_BOUNTY_REWARD_39",
+      "priority": 59400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_ELITE_MONSTER_BOUNTY_REWARD_DESC",
+      "id": "48388ffb58b7d20",
+      "image": "icon_elite_lootbox_reward_01.png",
+      "name": "item_elite_monster_bounty_reward_40",
+      "name_placeholder": "ITEM_ELITE_MONSTER_BOUNTY_REWARD_40",
+      "priority": 59500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_ELITE_MONSTER_BOUNTY_DESC",
+      "id": "c489b93f7299ca19",
+      "image": "icon_elite_bounty.png",
+      "name": "item_elite_monster_bounty",
+      "name_placeholder": "ITEM_ELITE_MONSTER_BOUNTY",
+      "priority": 57600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_ELITE_MONSTER_BOUNTY_REWARD_DESC",
+      "id": "ec0a5dd07775c24c",
+      "image": "icon_elite_lootbox_reward_01.png",
+      "name": "item_elite_monster_bounty_reward",
+      "name_placeholder": "ITEM_ELITE_MONSTER_BOUNTY_REWARD",
+      "priority": 58600,
+      "type": "item"
+    }
+  ]
+}

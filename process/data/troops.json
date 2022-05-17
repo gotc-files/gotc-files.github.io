@@ -1,0 +1,533 @@
+{
+  "description": "Basic information about troops",
+  "values": [
+    {
+      "description_placeholder": "MILITIA_DESC",
+      "id": "2cc0546133265994",
+      "name": "Footman",
+      "name_placeholder": "MILITIA"
+    },
+    {
+      "description_placeholder": "FOOTMAN_DESC",
+      "id": "ecd8f77ada873f1c",
+      "name": "Sell-sword",
+      "name_placeholder": "FOOTMAN"
+    },
+    {
+      "description_placeholder": "SELL-SWORD_DESC",
+      "id": "51d1fba8124914af",
+      "name": "Man-At-Arms",
+      "name_placeholder": "SELL-SWORD"
+    },
+    {
+      "description_placeholder": "MAN-AT-ARMS_DESC",
+      "id": "619548fab34b3000",
+      "name": "Cut-purse",
+      "name_placeholder": "MAN-AT-ARMS"
+    },
+    {
+      "description_placeholder": "AXEMAN_DESC",
+      "id": "aae4f306d0891dd4",
+      "name": "Axeman",
+      "name_placeholder": "AXEMAN"
+    },
+    {
+      "description_placeholder": "CAPTAIN_DESC",
+      "id": "5d6ba1b6dbc2d2cb",
+      "name": "Captain",
+      "name_placeholder": "CAPTAIN"
+    },
+    {
+      "description_placeholder": "SWORN_SWORD_DESC",
+      "id": "a3e3e9de73f82d6d",
+      "name": "Ranger",
+      "name_placeholder": "SWORN_SWORD"
+    },
+    {
+      "description_placeholder": "UNSULLIED_DESC",
+      "id": "decd9aad8fed766a",
+      "name": "Unsullied",
+      "name_placeholder": "UNSULLIED"
+    },
+    {
+      "description_placeholder": "VETERAN_DESC",
+      "id": "ca3ef99679b806de",
+      "name": "Night\u2019s Watchman",
+      "name_placeholder": "VETERAN"
+    },
+    {
+      "description_placeholder": "HOUSE_GUARD_DESC",
+      "id": "e0b3e86f0384c5bd",
+      "name": "Gold Cloak",
+      "name_placeholder": "HOUSE_GUARD"
+    },
+    {
+      "description_placeholder": "INFANTRY_11_DESC",
+      "id": "69c406acefaf96a8",
+      "name": "Stormcrow Footman",
+      "name_placeholder": "INFANTRY_11"
+    },
+    {
+      "description_placeholder": "INFANTRY_12_DESC",
+      "id": "d39abfded5b6b1e7",
+      "name": "Golden Company Footman",
+      "name_placeholder": "INFANTRY_12"
+    },
+    {
+      "description_placeholder": "SLINGER_DESC",
+      "id": "abe900fb11eeeccd",
+      "name": "Slinger",
+      "name_placeholder": "SLINGER"
+    },
+    {
+      "description_placeholder": "ARCHER_DESC",
+      "id": "33473f9d10e76b28",
+      "name": "Archer",
+      "name_placeholder": "ARCHER"
+    },
+    {
+      "description_placeholder": "LONGBOW_ARCHER_DESC",
+      "id": "1dc0bfc40e509af2",
+      "name": "Longbow Archer",
+      "name_placeholder": "LONGBOW_ARCHER"
+    },
+    {
+      "description_placeholder": "CROSSBOWMAN_DESC",
+      "id": "a223963f5f586d0d",
+      "name": "Crossbowman",
+      "name_placeholder": "CROSSBOWMAN"
+    },
+    {
+      "description_placeholder": "SPEARMAN_DESC",
+      "id": "dc3e8b408defa33c",
+      "name": "Spearman",
+      "name_placeholder": "SPEARMAN"
+    },
+    {
+      "description_placeholder": "SKILLED_ARCHER_DESC",
+      "id": "12a2b3da3c5155ad",
+      "name": "Skilled Archer",
+      "name_placeholder": "SKILLED_ARCHER"
+    },
+    {
+      "description_placeholder": "MARKSMAN_DESC",
+      "id": "d3581b4609e79d95",
+      "name": "Kingswood Archer",
+      "name_placeholder": "MARKSMAN"
+    },
+    {
+      "description_placeholder": "CHAMPION_CROSSBOWMAN_DESC",
+      "id": "446d69db01f94a93",
+      "name": "Ironman Archer",
+      "name_placeholder": "CHAMPION_CROSSBOWMAN"
+    },
+    {
+      "description_placeholder": "ARCHER_CAPTAIN_DESC",
+      "id": "33d5bbcc915f71d9",
+      "name": "Archer Captain",
+      "name_placeholder": "ARCHER_CAPTAIN"
+    },
+    {
+      "description_placeholder": "EXPERT_MARKSMAN",
+      "id": "9e8a4c7f32b9bdbe",
+      "name": "Golden Archer",
+      "name_placeholder": "EXPERT_MARKSMAN"
+    },
+    {
+      "description_placeholder": "RANGED_11_DESC",
+      "id": "720157315933bc4b",
+      "name": "Stormcrow Archer",
+      "name_placeholder": "RANGED_11"
+    },
+    {
+      "description_placeholder": "RANGED_12_DESC",
+      "id": "f1d92143f5cac0ed",
+      "name": "Golden Company Archer",
+      "name_placeholder": "RANGED_12"
+    },
+    {
+      "description_placeholder": "SQUIRE_DESC",
+      "id": "28c09c3ee28bd281",
+      "name": "Squire",
+      "name_placeholder": "SQUIRE"
+    },
+    {
+      "description_placeholder": "OUTRIDER_DESC",
+      "id": "38c52896ac994bbc",
+      "name": "Scout",
+      "name_placeholder": "OUTRIDER"
+    },
+    {
+      "description_placeholder": "LIGHT_CALVARY_DESC",
+      "id": "29aaa11bfb70a49",
+      "name": "Mounted Archer",
+      "name_placeholder": "LIGHT_CALVARY"
+    },
+    {
+      "description_placeholder": "LANCER_DESC",
+      "id": "3e1f1ac7374a62c5",
+      "name": "Light Calvary",
+      "name_placeholder": "LANCER"
+    },
+    {
+      "description_placeholder": "MOUNTED_ARCHER_DESC",
+      "id": "f3a4e3c14462e7e1",
+      "name": "Lancer",
+      "name_placeholder": "MOUNTED_ARCHER"
+    },
+    {
+      "description_placeholder": "MOUNTED_CHAMPION_DESC",
+      "id": "a50d5fe9debc43b9",
+      "name": "Heavy Calvary",
+      "name_placeholder": "MOUNTED_CHAMPION"
+    },
+    {
+      "description_placeholder": "MOUNTED_SPEARMAN_DESC",
+      "id": "abb78e33b652690b",
+      "name": "Mounted Spearman",
+      "name_placeholder": "MOUNTED_SPEARMAN"
+    },
+    {
+      "description_placeholder": "HEAVY_LANCER_DESC",
+      "id": "cdefa104369c01de",
+      "name": "Mounted Pikeman",
+      "name_placeholder": "HEAVY_LANCER"
+    },
+    {
+      "description_placeholder": "BLOODRIDER_DESC",
+      "id": "e3def187677ea638",
+      "name": "Warlord",
+      "name_placeholder": "BLOODRIDER"
+    },
+    {
+      "description_placeholder": "ANOINTED_KNIGHT_DESC",
+      "id": "f9e72f0b90c911e",
+      "name": "Mounted Knight",
+      "name_placeholder": "ANOINTED_KNIGHT"
+    },
+    {
+      "description_placeholder": "MOUNTED_11_DESC",
+      "id": "b2e28b6d0db63082",
+      "name": "Stormcrow Lancer",
+      "name_placeholder": "MOUNTED_11"
+    },
+    {
+      "description_placeholder": "MOUNTED_12_DESC",
+      "id": "313afd1fa14f4c24",
+      "name": "Golden Company Lancer",
+      "name_placeholder": "MOUNTED_12"
+    },
+    {
+      "description_placeholder": "CATAPULT_DESC",
+      "id": "8df766fb63ab2dde",
+      "name": "Catapult",
+      "name_placeholder": "CATAPULT"
+    },
+    {
+      "description_placeholder": "BATTERING_RAM_DESC",
+      "id": "ec61152e6e9701a4",
+      "name": "Battering Ram",
+      "name_placeholder": "BATTERING_RAM"
+    },
+    {
+      "description_placeholder": "SIEGE_TOWER_DESC",
+      "id": "19758485c90d41a",
+      "name": "Siege Tower",
+      "name_placeholder": "SIEGE_TOWER"
+    },
+    {
+      "description_placeholder": "WAR_WAGON_DESC",
+      "id": "1f669430f8f7853a",
+      "name": "War Wagon",
+      "name_placeholder": "WAR_WAGON"
+    },
+    {
+      "description_placeholder": "TREBUCHET_DESC",
+      "id": "4e9f272c5a18b6d9",
+      "name": "Trebuchet",
+      "name_placeholder": "TREBUCHET"
+    },
+    {
+      "description_placeholder": "ARCHER_TOWER_DESC",
+      "id": "d6403a52b2e2be99",
+      "name": "Archer Tower",
+      "name_placeholder": "ARCHER_TOWER"
+    },
+    {
+      "description_placeholder": "REINFORCED_BATTERING_RAM_DESC",
+      "id": "5cf3430f1d1150de",
+      "name": "Reinforced Battering Ram",
+      "name_placeholder": "REINFORCED_BATTERING_RAM"
+    },
+    {
+      "description_placeholder": "REINFORCED_TREBUCHET_DESC",
+      "id": "3917eb564ef64d19",
+      "name": "Reinforced Trebuchet",
+      "name_placeholder": "REINFORCED_TREBUCHET"
+    },
+    {
+      "description_placeholder": "TURRETS_DESC",
+      "id": "10e900daa0a7e7c",
+      "name": "Turrets",
+      "name_placeholder": "TURRETS"
+    },
+    {
+      "description_placeholder": "WILDFIRE_CATAPULT_DESC",
+      "id": "6a88285c7f9ba124",
+      "name": "Wildfire Catapult",
+      "name_placeholder": "WILDFIRE_CATAPULT"
+    },
+    {
+      "description_placeholder": "SIEGE_11_DESC",
+      "id": "68ee584aec197efa",
+      "name": "Reinforced War Wagon",
+      "name_placeholder": "SIEGE_11"
+    },
+    {
+      "description_placeholder": "SIEGE_12_DESC",
+      "id": "130cf1228ceb1299",
+      "name": "Ballista",
+      "name_placeholder": "SIEGE_12"
+    },
+    {
+      "description_placeholder": "HERO_ATTACK_TROOP_DRAGON_DESC",
+      "id": "dfd4dc8c9372aff1",
+      "name": "Hero Attack Troop 1",
+      "name_placeholder": "HERO_ATTACK_TROOP_DRAGON"
+    },
+    {
+      "description_placeholder": "HERO_ATTACK_TROOP_DRAGON_DESC",
+      "id": "aac680674a875dff",
+      "name": "Hero Attack Troop 2",
+      "name_placeholder": "HERO_ATTACK_TROOP_DRAGON"
+    },
+    {
+      "description_placeholder": "HERO_ATTACK_TROOP_DRAGON_DESC",
+      "id": "86374bc1fdd40c05",
+      "name": "Hero Attack Troop 3",
+      "name_placeholder": "HERO_ATTACK_TROOP_DRAGON"
+    },
+    {
+      "description_placeholder": "HERO_ATTACK_TROOP_DRAGON_DESC",
+      "id": "40e239b0f96cb9e3",
+      "name": "Hero Attack Troop 4",
+      "name_placeholder": "HERO_ATTACK_TROOP_DRAGON"
+    },
+    {
+      "description_placeholder": "HERO_ATTACK_TROOP_DRAGON_DESC",
+      "id": "6c13f2164e3fe819",
+      "name": "Hero Attack Troop 5",
+      "name_placeholder": "HERO_ATTACK_TROOP_DRAGON"
+    },
+    {
+      "description_placeholder": "HERO_ATTACK_TROOP_DRAGON_DESC",
+      "id": "1901aefd97ca1a17",
+      "name": "Hero Attack Troop 6",
+      "name_placeholder": "HERO_ATTACK_TROOP_DRAGON"
+    },
+    {
+      "description_placeholder": "HERO_ATTACK_TROOP_DRAGON_DESC",
+      "id": "35f0655b20994bed",
+      "name": "Hero Attack Troop 7",
+      "name_placeholder": "HERO_ATTACK_TROOP_DRAGON"
+    },
+    {
+      "description_placeholder": "HERO_ATTACK_TROOP_DRAGON_DESC",
+      "id": "1611086ad7143ef0",
+      "name": "Hero Attack Troop 8",
+      "name_placeholder": "HERO_ATTACK_TROOP_DRAGON"
+    },
+    {
+      "description_placeholder": "HERO_ATTACK_TROOP_DRAGON_DESC",
+      "id": "3ae0c3cc60476f0a",
+      "name": "Hero Attack Troop 9",
+      "name_placeholder": "HERO_ATTACK_TROOP_DRAGON"
+    },
+    {
+      "description_placeholder": "HERO_ATTACK_TROOP_DRAGON_DESC",
+      "id": "4c808fe769abf09f",
+      "name": "Hero Attack Troop 10",
+      "name_placeholder": "HERO_ATTACK_TROOP_DRAGON"
+    },
+    {
+      "description_placeholder": "HERO_ATTACK_TROOP_DRAGON_DESC",
+      "id": "60714441def8a165",
+      "name": "Hero Attack Troop 11",
+      "name_placeholder": "HERO_ATTACK_TROOP_DRAGON"
+    },
+    {
+      "description_placeholder": "HERO_ATTACK_TROOP_DRAGON_DESC",
+      "id": "156318aa070d536b",
+      "name": "Hero Attack Troop 12",
+      "name_placeholder": "HERO_ATTACK_TROOP_DRAGON"
+    },
+    {
+      "description_placeholder": "HERO_ATTACK_TROOP_DRAGON_DESC",
+      "id": "3992d30cb05e0291",
+      "name": "Hero Attack Troop 13",
+      "name_placeholder": "HERO_ATTACK_TROOP_DRAGON"
+    },
+    {
+      "description_placeholder": "HERO_ATTACK_TROOP_DRAGON_DESC",
+      "id": "ff47a17db4e6b777",
+      "name": "Hero Attack Troop 14",
+      "name_placeholder": "HERO_ATTACK_TROOP_DRAGON"
+    },
+    {
+      "description_placeholder": "HERO_ATTACK_TROOP_DRAGON_DESC",
+      "id": "d3b66adb03b5e68d",
+      "name": "Hero Attack Troop 15",
+      "name_placeholder": "HERO_ATTACK_TROOP_DRAGON"
+    },
+    {
+      "description_placeholder": "HERO_ATTACK_TROOP_DRAGON_DESC",
+      "id": "a6a43630da401483",
+      "name": "Hero Attack Troop 16",
+      "name_placeholder": "HERO_ATTACK_TROOP_DRAGON"
+    },
+    {
+      "description_placeholder": "HERO_ATTACK_TROOP_DRAGON_DESC",
+      "id": "8a55fd966d134579",
+      "name": "Hero Attack Troop 17",
+      "name_placeholder": "HERO_ATTACK_TROOP_DRAGON"
+    },
+    {
+      "description_placeholder": "HERO_ATTACK_TROOP_DRAGON_DESC",
+      "id": "a9b490a79a9e3064",
+      "name": "Hero Attack Troop 18",
+      "name_placeholder": "HERO_ATTACK_TROOP_DRAGON"
+    },
+    {
+      "description_placeholder": "HERO_ATTACK_TROOP_DRAGON_DESC",
+      "id": "85455b012dcd619e",
+      "name": "Hero Attack Troop 19",
+      "name_placeholder": "HERO_ATTACK_TROOP_DRAGON"
+    },
+    {
+      "description_placeholder": "HERO_ATTACK_TROOP_DRAGON_DESC",
+      "id": "43e53b2cc2ac218a",
+      "name": "Hero Attack Troop 20",
+      "name_placeholder": "HERO_ATTACK_TROOP_DRAGON"
+    },
+    {
+      "description_placeholder": "HERO_ATTACK_TROOP_DRAGON_DESC",
+      "id": "6f14f08a75ff7070",
+      "name": "Hero Attack Troop 21",
+      "name_placeholder": "HERO_ATTACK_TROOP_DRAGON"
+    },
+    {
+      "description_placeholder": "HERO_ATTACK_TROOP_DRAGON_DESC",
+      "id": "1a06ac61ac0a827e",
+      "name": "Hero Attack Troop 22",
+      "name_placeholder": "HERO_ATTACK_TROOP_DRAGON"
+    },
+    {
+      "description_placeholder": "HERO_ATTACK_TROOP_DRAGON_DESC",
+      "id": "36f767c71b59d384",
+      "name": "Hero Attack Troop 23",
+      "name_placeholder": "HERO_ATTACK_TROOP_DRAGON"
+    },
+    {
+      "description_placeholder": "HERO_ATTACK_TROOP_DRAGON_DESC",
+      "id": "f02215b61fe16662",
+      "name": "Hero Attack Troop 24",
+      "name_placeholder": "HERO_ATTACK_TROOP_DRAGON"
+    },
+    {
+      "description_placeholder": "HERO_ATTACK_TROOP_DRAGON_DESC",
+      "id": "dcd3de10a8b23798",
+      "name": "Hero Attack Troop 25",
+      "name_placeholder": "HERO_ATTACK_TROOP_DRAGON"
+    },
+    {
+      "description_placeholder": "HERO_ATTACK_TROOP_DRAGON_DESC",
+      "id": "a9c182fb7147c596",
+      "name": "Hero Attack Troop 26",
+      "name_placeholder": "HERO_ATTACK_TROOP_DRAGON"
+    },
+    {
+      "description_placeholder": "HERO_ATTACK_TROOP_DRAGON_DESC",
+      "id": "8530495dc614946c",
+      "name": "Hero Attack Troop 27",
+      "name_placeholder": "HERO_ATTACK_TROOP_DRAGON"
+    },
+    {
+      "description_placeholder": "HERO_ATTACK_TROOP_DRAGON_DESC",
+      "id": "a6d1246c3199e171",
+      "name": "Hero Attack Troop 28",
+      "name_placeholder": "HERO_ATTACK_TROOP_DRAGON"
+    },
+    {
+      "description_placeholder": "HERO_ATTACK_TROOP_DRAGON_DESC",
+      "id": "8a20efca86cab08b",
+      "name": "Hero Attack Troop 29",
+      "name_placeholder": "HERO_ATTACK_TROOP_DRAGON"
+    },
+    {
+      "description_placeholder": "HERO_ATTACK_TROOP_DRAGON_DESC",
+      "id": "46c6576a5bae9179",
+      "name": "Hero Attack Troop 30",
+      "name_placeholder": "HERO_ATTACK_TROOP_DRAGON"
+    },
+    {
+      "description_placeholder": "HERO_ATTACK_TROOP_DRAGON_DESC",
+      "id": "6a379cccecfdc083",
+      "name": "Hero Attack Troop 31",
+      "name_placeholder": "HERO_ATTACK_TROOP_DRAGON"
+    },
+    {
+      "description_placeholder": "HERO_ATTACK_TROOP_DRAGON_DESC",
+      "id": "1f25c0273508328d",
+      "name": "Hero Attack Troop 32",
+      "name_placeholder": "HERO_ATTACK_TROOP_DRAGON"
+    },
+    {
+      "description_placeholder": "HERO_ATTACK_TROOP_DRAGON_DESC",
+      "id": "33d40b81825b6377",
+      "name": "Hero Attack Troop 33",
+      "name_placeholder": "HERO_ATTACK_TROOP_DRAGON"
+    },
+    {
+      "description_placeholder": "HERO_ATTACK_TROOP_DRAGON_DESC",
+      "id": "f50179f086e3d691",
+      "name": "Hero Attack Troop 34",
+      "name_placeholder": "HERO_ATTACK_TROOP_DRAGON"
+    },
+    {
+      "description_placeholder": "HERO_ATTACK_TROOP_DRAGON_DESC",
+      "id": "d9f0b25631b0876b",
+      "name": "Hero Attack Troop 35",
+      "name_placeholder": "HERO_ATTACK_TROOP_DRAGON"
+    },
+    {
+      "description_placeholder": "HERO_ATTACK_TROOP_DRAGON_DESC",
+      "id": "ace2eebde8457565",
+      "name": "Hero Attack Troop 36",
+      "name_placeholder": "HERO_ATTACK_TROOP_DRAGON"
+    },
+    {
+      "description_placeholder": "HERO_ATTACK_TROOP_DRAGON_DESC",
+      "id": "8013251b5f16249f",
+      "name": "Hero Attack Troop 37",
+      "name_placeholder": "HERO_ATTACK_TROOP_DRAGON"
+    },
+    {
+      "description_placeholder": "HERO_ATTACK_TROOP_DRAGON_DESC",
+      "id": "a3f2482aa89b5182",
+      "name": "Hero Attack Troop 38",
+      "name_placeholder": "HERO_ATTACK_TROOP_DRAGON"
+    },
+    {
+      "description_placeholder": "HERO_ATTACK_TROOP_DRAGON_DESC",
+      "id": "8f03838c1fc80078",
+      "name": "Hero Attack Troop 39",
+      "name_placeholder": "HERO_ATTACK_TROOP_DRAGON"
+    },
+    {
+      "description_placeholder": "HERO_ATTACK_TROOP_DRAGON_DESC",
+      "id": "5d2e52bb94a383a0",
+      "name": "Hero Attack Troop 40",
+      "name_placeholder": "HERO_ATTACK_TROOP_DRAGON"
+    }
+  ]
+}

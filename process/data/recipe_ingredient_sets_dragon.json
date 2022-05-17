@@ -1,0 +1,593 @@
+{
+  "description": "Recipe ingredients",
+  "values": [
+    {
+      "id": "9f4b186e4fe5b543",
+      "ingredients": [
+        {
+          "id": 12241080834681212568,
+          "name": "item_dragon_livestock_1",
+          "quantity": 40000,
+          "type": "item"
+        },
+        {
+          "id": 15402302290824141324,
+          "name": "item_event_coin_tier1",
+          "quantity": 4000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_dragon__item_dragon_livestock_1_into_item_dragon_livestock_2_1"
+    },
+    {
+      "id": "62842db68b3f4237",
+      "ingredients": [
+        {
+          "id": 15921160101330812054,
+          "name": "item_dragon_livestock_2",
+          "quantity": 40000,
+          "type": "item"
+        },
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 800,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_dragon__item_dragon_livestock_2_into_item_dragon_livestock_3_1"
+    },
+    {
+      "id": "124f09a5732c84f7",
+      "ingredients": [
+        {
+          "id": 17294554176728247660,
+          "name": "item_dragon_livestock_3",
+          "quantity": 40000,
+          "type": "item"
+        },
+        {
+          "id": 10114081018234583544,
+          "name": "item_event_coin_tier3",
+          "quantity": 320,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_dragon__item_dragon_livestock_3_into_item_dragon_livestock_4_1"
+    },
+    {
+      "id": "68bb36386a8697a3",
+      "ingredients": [
+        {
+          "id": 12241080834681212568,
+          "name": "item_dragon_livestock_1",
+          "quantity": 160000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_dragon__item_dragon_livestock_1_into_item_dragon_livestock_2_qlr_1"
+    },
+    {
+      "id": "e725fb952340044f",
+      "ingredients": [
+        {
+          "id": 15921160101330812054,
+          "name": "item_dragon_livestock_2",
+          "quantity": 80000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_dragon__item_dragon_livestock_2_into_item_dragon_livestock_3_qlr_1"
+    },
+    {
+      "id": "9d7a39cad7ce1f70",
+      "ingredients": [
+        {
+          "id": 17294554176728247660,
+          "name": "item_dragon_livestock_3",
+          "quantity": 40000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_dragon__item_dragon_livestock_3_into_item_dragon_livestock_4_qlr_1"
+    },
+    {
+      "id": "bb404626f79f947f",
+      "ingredients": [
+        {
+          "id": 3951885676288022666,
+          "name": "item_dragon_livestock_4",
+          "quantity": 20000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_dragon__item_dragon_livestock_4_into_item_dragon_livestock_5_qlr_1"
+    },
+    {
+      "id": "b15329269c88d087",
+      "ingredients": [
+        {
+          "id": 12241080834681212568,
+          "name": "item_dragon_livestock_1",
+          "quantity": 200000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_dragon__item_dragon_livestock_1_into_item_event_trophy_dragonpower_1_qlr_1"
+    },
+    {
+      "id": "d49990138d6da6f4",
+      "ingredients": [
+        {
+          "id": 15921160101330812054,
+          "name": "item_dragon_livestock_2",
+          "quantity": 100000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_dragon__item_dragon_livestock_2_into_item_event_trophy_dragonpower_1_qlr_1"
+    },
+    {
+      "id": "f7dff8ff7dce8b25",
+      "ingredients": [
+        {
+          "id": 17294554176728247660,
+          "name": "item_dragon_livestock_3",
+          "quantity": 50000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_dragon__item_dragon_livestock_3_into_item_event_trophy_dragonpower_1_qlr_1"
+    },
+    {
+      "id": "1f0ce279aea74a12",
+      "ingredients": [
+        {
+          "id": 3951885676288022666,
+          "name": "item_dragon_livestock_4",
+          "quantity": 30000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_dragon__item_dragon_livestock_4_into_item_event_trophy_dragonpower_1_qlr_1"
+    },
+    {
+      "id": "3c4a8a955e0467c3",
+      "ingredients": [
+        {
+          "id": 1884229447797262704,
+          "name": "item_dragon_livestock_5",
+          "quantity": 20000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_dragon__item_dragon_livestock_5_into_item_event_trophy_dragonpower_1_qlr_1"
+    },
+    {
+      "id": "598033a04fe111b0",
+      "ingredients": [
+        {
+          "id": 8013166357732178814,
+          "name": "item_dragon_livestock_6",
+          "quantity": 10000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_dragon__item_dragon_livestock_6_into_item_event_trophy_dragonpower_1_qlr_1"
+    },
+    {
+      "id": "337915538e908dc",
+      "ingredients": [
+        {
+          "id": 12241080834681212568,
+          "name": "item_dragon_livestock_1",
+          "quantity": 200000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_dragon__item_dragon_livestock_1_into_item_event_trophy_dragonpower_1_qlr__stat_dragon_0_68_1"
+    },
+    {
+      "id": "147267e43b4533f2",
+      "ingredients": [
+        {
+          "id": 15921160101330812054,
+          "name": "item_dragon_livestock_2",
+          "quantity": 100000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_dragon__item_dragon_livestock_2_into_item_event_trophy_dragonpower_1_qlr__stat_dragon_0_68_1"
+    },
+    {
+      "id": "194eca74c5dedae8",
+      "ingredients": [
+        {
+          "id": 17294554176728247660,
+          "name": "item_dragon_livestock_3",
+          "quantity": 50000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_dragon__item_dragon_livestock_3_into_item_event_trophy_dragonpower_1_qlr__stat_dragon_0_68_1"
+    },
+    {
+      "id": "3af98a863c1d45ae",
+      "ingredients": [
+        {
+          "id": 3951885676288022666,
+          "name": "item_dragon_livestock_4",
+          "quantity": 30000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_dragon__item_dragon_livestock_4_into_item_event_trophy_dragonpower_1_qlr__stat_dragon_0_68_1"
+    },
+    {
+      "id": "37c52716c286acb4",
+      "ingredients": [
+        {
+          "id": 1884229447797262704,
+          "name": "item_dragon_livestock_5",
+          "quantity": 20000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_dragon__item_dragon_livestock_5_into_item_event_trophy_dragonpower_1_qlr__stat_dragon_0_68_1"
+    },
+    {
+      "id": "2080d1a7c12a979a",
+      "ingredients": [
+        {
+          "id": 8013166357732178814,
+          "name": "item_dragon_livestock_6",
+          "quantity": 10000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_dragon__item_dragon_livestock_6_into_item_event_trophy_dragonpower_1_qlr__stat_dragon_0_68_1"
+    },
+    {
+      "id": "4cf4ec2078259e73",
+      "ingredients": [
+        {
+          "id": 12241080834681212568,
+          "name": "item_dragon_livestock_1",
+          "quantity": 200000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_dragon__item_dragon_livestock_1_into_item_event_trophy_dragonpower_1_qlr__stat_dragon_69_1"
+    },
+    {
+      "id": "3728481b448424af",
+      "ingredients": [
+        {
+          "id": 15921160101330812054,
+          "name": "item_dragon_livestock_2",
+          "quantity": 100000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_dragon__item_dragon_livestock_2_into_item_event_trophy_dragonpower_1_qlr__stat_dragon_69_1"
+    },
+    {
+      "id": "1e63d40daf1b4d1b",
+      "ingredients": [
+        {
+          "id": 17294554176728247660,
+          "name": "item_dragon_livestock_3",
+          "quantity": 50000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_dragon__item_dragon_livestock_3_into_item_event_trophy_dragonpower_1_qlr__stat_dragon_69_1"
+    },
+    {
+      "id": "c091006d3dc75117",
+      "ingredients": [
+        {
+          "id": 3951885676288022666,
+          "name": "item_dragon_livestock_4",
+          "quantity": 30000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_dragon__item_dragon_livestock_4_into_item_event_trophy_dragonpower_1_qlr__stat_dragon_69_1"
+    },
+    {
+      "id": "e9da9c7bd65838a3",
+      "ingredients": [
+        {
+          "id": 1884229447797262704,
+          "name": "item_dragon_livestock_5",
+          "quantity": 20000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_dragon__item_dragon_livestock_5_into_item_event_trophy_dragonpower_1_qlr__stat_dragon_69_1"
+    },
+    {
+      "id": "92063840eaf9827f",
+      "ingredients": [
+        {
+          "id": 8013166357732178814,
+          "name": "item_dragon_livestock_6",
+          "quantity": 10000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_dragon__item_dragon_livestock_6_into_item_event_trophy_dragonpower_1_qlr__stat_dragon_69_1"
+    },
+    {
+      "id": "44b8e6f68aa1354a",
+      "ingredients": [
+        {
+          "id": 16143445214558348724,
+          "name": "item_event_trophy_dragonpower_1",
+          "quantity": 10000,
+          "type": "item"
+        },
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 16000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_dragon__trophy_dragon_into_item_buildreq_dragon_research_1_qlr_1"
+    },
+    {
+      "id": "b5c2fc3878dcc344",
+      "ingredients": [
+        {
+          "id": 16143445214558348724,
+          "name": "item_event_trophy_dragonpower_1",
+          "quantity": 10000,
+          "type": "item"
+        },
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 16000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_dragon__trophy_dragon_into_item_buildreq_dragon_research_2_qlr_1"
+    },
+    {
+      "id": "a98a56feea50cc6b",
+      "ingredients": [
+        {
+          "id": 16143445214558348724,
+          "name": "item_event_trophy_dragonpower_1",
+          "quantity": 500,
+          "type": "item"
+        },
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 600,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_dragon__trophy_dragon_into_item_dragon_hunger_1_qlr_1"
+    },
+    {
+      "id": "4272947425b51d28",
+      "ingredients": [
+        {
+          "id": 16143445214558348724,
+          "name": "item_event_trophy_dragonpower_1",
+          "quantity": 1000,
+          "type": "item"
+        },
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 1200,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_dragon__trophy_dragon_into_item_dragon_firestone_1_qlr_1"
+    },
+    {
+      "id": "42c80e7ca2911cb1",
+      "ingredients": [
+        {
+          "id": 16143445214558348724,
+          "name": "item_event_trophy_dragonpower_1",
+          "quantity": 100,
+          "type": "item"
+        },
+        {
+          "id": 15402302290824141324,
+          "name": "item_event_coin_tier1",
+          "quantity": 1000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_dragon__trophy_dragon_into_mat_trinket_dragon1_alpha_1_qlr_1"
+    },
+    {
+      "id": "e9f0347da1b8f763",
+      "ingredients": [
+        {
+          "id": 16143445214558348724,
+          "name": "item_event_trophy_dragonpower_1",
+          "quantity": 100,
+          "type": "item"
+        },
+        {
+          "id": 15402302290824141324,
+          "name": "item_event_coin_tier1",
+          "quantity": 1000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_dragon__trophy_dragon_into_mat_trinket_events_DragonFeeder_1_qlr_1"
+    },
+    {
+      "id": "256660cb910f7bb4",
+      "ingredients": [
+        {
+          "id": 16143445214558348724,
+          "name": "item_event_trophy_dragonpower_1",
+          "quantity": 12500,
+          "type": "item"
+        },
+        {
+          "id": 15402302290824141324,
+          "name": "item_event_coin_tier1",
+          "quantity": 200000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_dragon__trophy_dragon_into_item_buildreq_brick_1_qlr_1"
+    },
+    {
+      "id": "102ba14c13fadd6e",
+      "ingredients": [
+        {
+          "id": 16143445214558348724,
+          "name": "item_event_trophy_dragonpower_1",
+          "quantity": 12500,
+          "type": "item"
+        },
+        {
+          "id": 15402302290824141324,
+          "name": "item_event_coin_tier1",
+          "quantity": 200000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_dragon__trophy_dragon_into_item_buildreq_soldierpine_1_qlr_1"
+    },
+    {
+      "id": "f082046e9564f950",
+      "ingredients": [
+        {
+          "id": 16143445214558348724,
+          "name": "item_event_trophy_dragonpower_1",
+          "quantity": 12500,
+          "type": "item"
+        },
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 22500,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_dragon__trophy_dragon_into_item_buildreq_keystone_1_qlr_1"
+    },
+    {
+      "id": "b9d1018e288c2f66",
+      "ingredients": [
+        {
+          "id": 16143445214558348724,
+          "name": "item_event_trophy_dragonpower_1",
+          "quantity": 12500,
+          "type": "item"
+        },
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 22500,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_dragon__trophy_dragon_into_item_buildreq_levelcap_1_qlr_1"
+    },
+    {
+      "id": "3a1f0d59d50c9aa5",
+      "ingredients": [
+        {
+          "id": 16143445214558348724,
+          "name": "item_event_trophy_dragonpower_1",
+          "quantity": 12500,
+          "type": "item"
+        },
+        {
+          "id": 15402302290824141324,
+          "name": "item_event_coin_tier1",
+          "quantity": 200000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_dragon__trophy_dragon_into_item_buildreq_scholarly_fragment_1_qlr_1"
+    },
+    {
+      "id": "1e1f300d6655394e",
+      "ingredients": [
+        {
+          "id": 16143445214558348724,
+          "name": "item_event_trophy_dragonpower_1",
+          "quantity": 12500,
+          "type": "item"
+        },
+        {
+          "id": 15402302290824141324,
+          "name": "item_event_coin_tier1",
+          "quantity": 200000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_dragon__trophy_dragon_into_item_buildreq_pale_steel_1_qlr_1"
+    },
+    {
+      "id": "2e5aa5f444e6419f",
+      "ingredients": [
+        {
+          "id": 16143445214558348724,
+          "name": "item_event_trophy_dragonpower_1",
+          "quantity": 12500,
+          "type": "item"
+        },
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 22500,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_dragon__trophy_dragon_into_item_buildreq_red_gold_1_qlr_1"
+    },
+    {
+      "id": "c4e67a18bfa1bd2f",
+      "ingredients": [
+        {
+          "id": 16143445214558348724,
+          "name": "item_event_trophy_dragonpower_1",
+          "quantity": 500,
+          "type": "item"
+        },
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 900,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_dragon__trophy_dragon_into_item_peaceshield_2_qlr_1"
+    },
+    {
+      "id": "f7f74c909cd1e4a9",
+      "ingredients": [
+        {
+          "id": 16143445214558348724,
+          "name": "item_event_trophy_dragonpower_1",
+          "quantity": 1000,
+          "type": "item"
+        },
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 1800,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_dragon__trophy_dragon_into_item_Advanced_Teleport_qlr_1"
+    }
+  ]
+}

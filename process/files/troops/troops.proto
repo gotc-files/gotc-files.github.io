@@ -1,0 +1,47 @@
+syntax = "proto3";
+
+import 'files/common/common.proto';
+
+message Troops {
+  repeated Troop troops = 1;
+  message Troop {
+    ObjectIdentity identity = 1;
+    TroopInfo info = 2;
+  }
+
+  message TroopInfo {
+    string name_placeholder = 1;
+    string description_placeholder = 2;
+    string icon_image = 3;
+    string portrait_image = 4;
+    int32 unknown_1_int = 5;
+    int32 tier = 6;
+    double power = 8;
+    int32 attack = 9;
+    double wall_damage = 10;
+    float attack_float = 11;
+    int32 defense = 12;
+    float defense_float = 13;
+    int32 range = 14;
+    int32 health = 15;
+    float health_float = 16;
+    int32 speed = 17;
+    int32 troop_load = 18;
+    int32 unknown_2_int = 19;
+    float upkeep = 20;
+    double unknown_3_double = 21;
+    repeated ItemWithQuantity training_costs = 24;
+    repeated ItemWithQuantity healing_costs = 25;
+    repeated ItemWithQuantity resurecting_costs = 26;
+    repeated ObjectIdentity traits = 27;
+    float unknown_4_float = 28;
+    int32 unlock_level = 29;
+    int32 unknown_5_int = 30;
+    int32 unknown_6_int = 31;
+  }
+
+  message ItemWithQuantity {
+    ObjectIdentity item = 1;
+    int32 quantity = 2;
+  }
+}
