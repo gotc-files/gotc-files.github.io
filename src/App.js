@@ -13,6 +13,7 @@ import Enhancement from "./pages/Enhancement";
 import Hero from "./pages/Hero";
 import HeroCollectionAction from "./pages/HeroCollectionAction";
 import Home from "./pages/Home";
+import Recipe from "./pages/Recipe";
 import ResearchDetails from "./pages/ResearchDetails";
 import ResearchTable from "./pages/ResearchTable";
 import Summon from "./pages/Summon";
@@ -73,6 +74,7 @@ function App() {
             <Route path="/enhancement" element={<Enhancement />} />
             <Route path="/research" element={<ResearchTable />} />
             <Route path="/research/:researchId" element={<ResearchDetails />} />
+            <Route path="/recipe" element={<Recipe />} />
           </Routes>
         </ThemeProvider>
       </StyledEngineProvider>

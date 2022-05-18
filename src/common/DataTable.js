@@ -45,7 +45,7 @@ function DataTable(props) {
     options: {
       customBodyRenderLite: (dataIndex) =>
         getDataDisplay(props.data[dataIndex], columnConfig),
-      filter: columnConfig.filter,
+      ...columnConfig.options,
     },
   }));
   const data = props.data.map((entry) =>

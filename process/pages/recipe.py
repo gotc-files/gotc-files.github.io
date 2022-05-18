@@ -3,7 +3,6 @@ from pages.page_processor import InsufficientDataException
 from files.util import id_int64_to_hex
 
 RECIPE_FILES = (
-    ("general", "General"),
     ("monthly_trade_1", "Monthly Trade 1"),
     ("monthly_trade_2", "Monthly Trade 2"),
     ("feast_cakes", "Feast Cakes"),
@@ -33,9 +32,10 @@ class RecipeProcessor(PageProcessor):
     def process(self):
         recipes = []
         for recipe_file_suffix, recipe_category in RECIPE_FILES:
+            recipes_from_file = []
             for raw_recipe in self.iterate_file("recipes_%s" % recipe_file_suffix):
                 try:
-                    recipes.append(
+                    recipes_from_file.append(
                         self._process_recipe(
                             raw_recipe,
                             "recipe_ingredient_sets_%s" % recipe_file_suffix,
@@ -45,6 +45,7 @@ class RecipeProcessor(PageProcessor):
                 except InsufficientDataException as e:
                     print(e)
                     continue
+            recipes.extend(recipes_from_file[::-1])
         return recipes
 
     def _process_recipe(self, raw_recipe, recipe_ingredient_sets_file, recipe_category):

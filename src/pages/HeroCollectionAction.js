@@ -52,50 +52,58 @@ function HeroCollectionAction() {
                   action.num_uses
                     ? action.description.replace("{0}", action.num_uses[index])
                     : action.description,
+                options: { filter: false },
               },
               {
                 name: "Level",
                 valueType: "number",
                 valueAccessor: (action) => action.level[index],
+                options: { filter: false },
               },
               {
                 name: "Type",
                 valueType: "text",
                 valueAccessor: (action) => action.tag,
-                filter: true,
+                options: { filter: true },
               },
               {
                 name: "Stat Name",
                 valueType: "text",
                 valueAccessor: (action) => action.stat.name,
                 tooltipAccessor: (action) => action.stat.description,
+                options: { filter: false },
               },
               {
                 name: "Stat Value",
                 valueType: "stats",
                 valueAccessor: (action) => action.buff[index],
+                options: { filter: false },
               },
 
               {
                 name: "Cooldown",
                 valueType: "time",
                 valueAccessor: (action) => action.cooldown[index],
+                options: { filter: false },
               },
               {
                 name: "Duration",
                 valueType: "time",
                 valueAccessor: (action) => action.duration[index],
+                options: { filter: false },
               },
               {
                 name: "Influence Cost",
                 valueType: "number",
                 valueAccessor: (action) => action.influence_cost[index],
+                options: { filter: false },
               },
               {
                 name: "Num Uses",
                 valueType: "text",
                 valueAccessor: (action) =>
                   action.num_uses ? action.num_uses[index] : "N/A",
+                options: { filter: false },
               },
             ]}
             options={{

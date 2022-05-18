@@ -47,6 +47,7 @@ function NavBar(props) {
           ["building", "Building"],
           ["enhancement", "Enhancement"],
           ["research", "Research"],
+          ["recipe", "Recipe"],
         ].map(([url, text]) => (
           <ListItemButton
             key={url}
