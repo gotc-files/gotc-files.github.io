@@ -1,0 +1,30 @@
+syntax = "proto3";
+
+import 'files/common/common.proto';
+
+message HeroCollectionActions {
+  repeated HeroCollectionAction hero_collection_actions = 1;
+  message HeroCollectionAction {
+    ObjectIdentity identity = 1;
+    HeroCollectionActionInfo info = 2;
+  }
+
+  message HeroCollectionActionInfo {
+    string name_placeholder = 1;
+    string description_placeholder = 2;
+    int32 is_utility = 3;
+    int32 unknown_1_int32 = 4;
+    string image = 5;
+    ObjectIdentity duration_progression = 6;
+    ObjectIdentity cooldown_progression = 7;
+    ObjectIdentity influence_progression = 8;
+    ObjectIdentity level_progression = 9;
+    ObjectIdentity num_uses_progression = 10;
+    HeroCollectionActionStat stat = 11;
+  }
+
+  message HeroCollectionActionStat {
+    ObjectIdentity property = 1;
+    ObjectIdentity progression = 2;
+  }
+}

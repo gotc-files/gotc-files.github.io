@@ -1,34 +1,38 @@
-from files.json_processor import JsonProcessor
-from files.util import id_int64_str_to_hex
+from files.util import id_int64_to_hex
+from files.proto_processor import ProtoProcessor
+from files.heroes.heroes_pb2 import Heroes
 
 
-class HeroesProcessor(JsonProcessor):
-    def process_json(self, obj):
-        heroes = []
-        for hero_obj in obj["Objects"].values():
-            hero = {
-                "id": id_int64_str_to_hex(hero_obj["DID"]["ID"]),
-                "name": hero_obj["DID"]["Name"],
-                "name_placeholder": hero_obj["Name"],
-                "description_placeholder": hero_obj["Description"],
-                "rarity": hero_obj["Rarity"],
-                "max_stars": hero_obj["MaxStars"],
-                "xp_progression_name": hero_obj["XPProg"]["Name"],
-                "event_score_progression_name": hero_obj["EventScoreProgression"]["Name"],
-                "skills": sorted([skill["Name"] for skill in hero_obj["Skills"]]),
-                "traits": [trait["Name"] for trait in hero_obj["Traits"]]
+class HeroesProcessor(ProtoProcessor):
+    def proto_template(self):
+        return Heroes()
+
+    def process_proto(self, heroes):
+        heroes_output = []
+        for hero in heroes.heroes:
+            hero_output = {
+                "id": id_int64_to_hex(hero.identity.id),
+                "name": hero.identity.name,
+                "name_placeholder": hero.info.name_placeholder,
+                "description_placeholder": hero.info.description_placeholder,
+                "rarity": hero.info.rarity,
+                "max_stars": hero.info.max_stars,
+                "xp_progression_name": hero.info.xp_progression.name,
+                "event_score_progression_name": hero.info.event_score_progression.name,
+                "skills": [skill.name for skill in hero.info.skills],
+                "traits": [trait.name for trait in hero.info.traits],
             }
-            for requirement in hero_obj["LevelupReqs"]:
-                if requirement["CostProg"]["Name"].startswith("prog_shardcost"):
-                    hero["relic_name"] = requirement["Item"]["Name"]
-                    hero["relic_progression_name"] = requirement["CostProg"]["Name"]
-                if requirement["CostProg"]["Name"].startswith("prog_hero_adv_stones_cost"):
-                    hero["oath_progression_name"] = requirement["CostProg"]["Name"]
-            heroes.append(hero)
-        return heroes
+            for requirement in hero.info.requirements:
+                if requirement.progression.name.startswith("prog_shardcost"):
+                    hero_output["relic_name"] = requirement.item.name
+                    hero_output["relic_progression_name"] = requirement.progression.name
+                if requirement.progression.name.startswith("prog_hero_adv_stones_cost"):
+                    hero_output["oath_progression_name"] = requirement.progression.name
+            heroes_output.append(hero_output)
+        return heroes_output
 
     def description(self):
-        return 'Basic information about all heroes'
+        return "Basic information about all heroes"
 
     def key_names(self):
-        return ['id', 'name']
+        return ["id", "name"]

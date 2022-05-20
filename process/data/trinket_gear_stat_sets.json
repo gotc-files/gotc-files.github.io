@@ -8488,6 +8488,268 @@
           "progression": "prog_gear_Event5.5_DragonTroopHealthVsPlayer_50"
         }
       ]
+    },
+    {
+      "id": "b7037d3e45cd91ef",
+      "name": "eq_events_trinket_baratheon2_1_trinket_lord1",
+      "stats": [
+        {
+          "name": "property_RangedAttack_gear",
+          "progression": "prog_gear_event5_RangedAttack_1"
+        },
+        {
+          "name": "property_RangedAttackVsPlayer_gear",
+          "progression": "prog_gear_event5_RangedAttackVsPlayer_1"
+        },
+        {
+          "name": "property_MarcherRangedHealthVsPlayer_gear",
+          "progression": "prog_gear_event5_MarcherRangedHealthVsPlayer_1"
+        },
+        {
+          "name": "property_RangedDefenseVsPlayer_gear",
+          "progression": "prog_gear_event5.5_RangedDefenseVsPlayer_1"
+        }
+      ]
+    },
+    {
+      "id": "7045af1613772f85",
+      "name": "eq_events_trinket_baratheon2_5_trinket_lord5",
+      "stats": [
+        {
+          "name": "property_RangedAttack_gear",
+          "progression": "prog_gear_event5_RangedAttack_5"
+        },
+        {
+          "name": "property_RangedAttackVsPlayer_gear",
+          "progression": "prog_gear_event5_RangedAttackVsPlayer_5"
+        },
+        {
+          "name": "property_MarcherRangedHealthVsPlayer_gear",
+          "progression": "prog_gear_event5_MarcherRangedHealthVsPlayer_5"
+        },
+        {
+          "name": "property_RangedDefenseVsPlayer_gear",
+          "progression": "prog_gear_event5.5_RangedDefenseVsPlayer_5"
+        }
+      ]
+    },
+    {
+      "id": "523f2904a95aeee",
+      "name": "eq_events_trinket_baratheon2_10_trinket_lord10",
+      "stats": [
+        {
+          "name": "property_RangedAttack_gear",
+          "progression": "prog_gear_event5_RangedAttack_10"
+        },
+        {
+          "name": "property_RangedAttackVsPlayer_gear",
+          "progression": "prog_gear_event5_RangedAttackVsPlayer_10"
+        },
+        {
+          "name": "property_MarcherRangedHealthVsPlayer_gear",
+          "progression": "prog_gear_event5_MarcherRangedHealthVsPlayer_10"
+        },
+        {
+          "name": "property_RangedDefenseVsPlayer_gear",
+          "progression": "prog_gear_event5.5_RangedDefenseVsPlayer_10"
+        }
+      ]
+    },
+    {
+      "id": "24edadc5864ff782",
+      "name": "eq_events_trinket_baratheon2_15_trinket_lord15",
+      "stats": [
+        {
+          "name": "property_RangedAttack_gear",
+          "progression": "prog_gear_event5_RangedAttack_15"
+        },
+        {
+          "name": "property_RangedAttackVsPlayer_gear",
+          "progression": "prog_gear_event5_RangedAttackVsPlayer_15"
+        },
+        {
+          "name": "property_MarcherRangedHealthVsPlayer_gear",
+          "progression": "prog_gear_event5_MarcherRangedHealthVsPlayer_15"
+        },
+        {
+          "name": "property_RangedDefenseVsPlayer_gear",
+          "progression": "prog_gear_event5.5_RangedDefenseVsPlayer_15"
+        }
+      ]
+    },
+    {
+      "id": "275f602904eac28b",
+      "name": "eq_events_trinket_baratheon2_20_trinket_lord20",
+      "stats": [
+        {
+          "name": "property_RangedAttack_gear",
+          "progression": "prog_gear_event5_RangedAttack_20"
+        },
+        {
+          "name": "property_RangedAttackVsPlayer_gear",
+          "progression": "prog_gear_event5_RangedAttackVsPlayer_20"
+        },
+        {
+          "name": "property_MarcherRangedHealthVsPlayer_gear",
+          "progression": "prog_gear_event5_MarcherRangedHealthVsPlayer_20"
+        },
+        {
+          "name": "property_RangedDefenseVsPlayer_gear",
+          "progression": "prog_gear_event5.5_RangedDefenseVsPlayer_20"
+        }
+      ]
+    },
+    {
+      "id": "6913f7cc8309be7",
+      "name": "eq_events_trinket_baratheon2_25_trinket_lord25",
+      "stats": [
+        {
+          "name": "property_RangedAttack_gear",
+          "progression": "prog_gear_event5_RangedAttack_25"
+        },
+        {
+          "name": "property_RangedAttackVsPlayer_gear",
+          "progression": "prog_gear_event5_RangedAttackVsPlayer_25"
+        },
+        {
+          "name": "property_MarcherRangedHealthVsPlayer_gear",
+          "progression": "prog_gear_event5_MarcherRangedHealthVsPlayer_25"
+        },
+        {
+          "name": "property_RangedDefenseVsPlayer_gear",
+          "progression": "prog_gear_event5.5_RangedDefenseVsPlayer_25"
+        }
+      ]
+    },
+    {
+      "id": "3974ee41c13fe6a8",
+      "name": "eq_events_trinket_baratheon2_30_trinket_lord30",
+      "stats": [
+        {
+          "name": "property_RangedAttack_gear",
+          "progression": "prog_gear_event5_RangedAttack_30"
+        },
+        {
+          "name": "property_RangedAttackVsPlayer_gear",
+          "progression": "prog_gear_event5_RangedAttackVsPlayer_30"
+        },
+        {
+          "name": "property_MarcherRangedHealthVsPlayer_gear",
+          "progression": "prog_gear_event5_MarcherRangedHealthVsPlayer_30"
+        },
+        {
+          "name": "property_RangedDefenseVsPlayer_gear",
+          "progression": "prog_gear_event5.5_RangedDefenseVsPlayer_30"
+        },
+        {
+          "name": "property_RangedAttackVsPlayersRanged_gear",
+          "progression": "prog_gear_event5.5_RangedAttackVsPlayersRanged_30"
+        }
+      ]
+    },
+    {
+      "id": "18bab1140de5bfc4",
+      "name": "eq_events_trinket_baratheon2_35_trinket_lord35",
+      "stats": [
+        {
+          "name": "property_RangedAttack_gear",
+          "progression": "prog_gear_event5_RangedAttack_35"
+        },
+        {
+          "name": "property_RangedAttackVsPlayer_gear",
+          "progression": "prog_gear_event5_RangedAttackVsPlayer_35"
+        },
+        {
+          "name": "property_MarcherRangedHealthVsPlayer_gear",
+          "progression": "prog_gear_event5_MarcherRangedHealthVsPlayer_35"
+        },
+        {
+          "name": "property_RangedDefenseVsPlayer_gear",
+          "progression": "prog_gear_event5.5_RangedDefenseVsPlayer_35"
+        },
+        {
+          "name": "property_RangedAttackVsPlayersRanged_gear",
+          "progression": "prog_gear_event5.5_RangedAttackVsPlayersRanged_35"
+        }
+      ]
+    },
+    {
+      "id": "63a6455b98141a41",
+      "name": "eq_events_trinket_baratheon2_40_trinket_lord40",
+      "stats": [
+        {
+          "name": "property_RangedAttack_gear",
+          "progression": "prog_gear_event5_RangedAttack_40"
+        },
+        {
+          "name": "property_RangedAttackVsPlayer_gear",
+          "progression": "prog_gear_event5_RangedAttackVsPlayer_40"
+        },
+        {
+          "name": "property_MarcherRangedHealthVsPlayer_gear",
+          "progression": "prog_gear_event5_MarcherRangedHealthVsPlayer_40"
+        },
+        {
+          "name": "property_RangedDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event5.5_RangedDefenseVsPlayer_40"
+        },
+        {
+          "name": "property_RangedAttackVsPlayersRanged_gear",
+          "progression": "prog_gear_event5.5_RangedAttackVsPlayersRanged_40"
+        }
+      ]
+    },
+    {
+      "id": "42681a0e54ce432d",
+      "name": "eq_events_trinket_baratheon2_45_trinket_lord45",
+      "stats": [
+        {
+          "name": "property_RangedAttack_gear",
+          "progression": "prog_gear_event5_RangedAttack_45"
+        },
+        {
+          "name": "property_RangedAttackVsPlayer_gear",
+          "progression": "prog_gear_event5_RangedAttackVsPlayer_45"
+        },
+        {
+          "name": "property_MarcherRangedHealthVsPlayer_gear",
+          "progression": "prog_gear_event5_MarcherRangedHealthVsPlayer_45"
+        },
+        {
+          "name": "property_RangedDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event5.5_RangedDefenseVsPlayer_45"
+        },
+        {
+          "name": "property_RangedAttackVsPlayersRanged_gear",
+          "progression": "prog_gear_event5.5_RangedAttackVsPlayersRanged_45"
+        }
+      ]
+    },
+    {
+      "id": "7d8dcb335dc13e62",
+      "name": "eq_events_trinket_baratheon2_50_trinket_lord50",
+      "stats": [
+        {
+          "name": "property_RangedAttack_gear",
+          "progression": "prog_gear_event5_RangedAttack_50"
+        },
+        {
+          "name": "property_RangedAttackVsPlayer_gear",
+          "progression": "prog_gear_event5_RangedAttackVsPlayer_50"
+        },
+        {
+          "name": "property_MarcherRangedHealthVsPlayer_gear",
+          "progression": "prog_gear_event5_MarcherRangedHealthVsPlayer_50"
+        },
+        {
+          "name": "property_RangedDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event5.5_RangedDefenseVsPlayer_50"
+        },
+        {
+          "name": "property_RangedAttackVsPlayersRanged_gear",
+          "progression": "prog_gear_event5.5_RangedAttackVsPlayersRanged_50"
+        }
+      ]
     }
   ]
 }

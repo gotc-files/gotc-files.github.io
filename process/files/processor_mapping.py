@@ -126,10 +126,10 @@ FILE_PROCESSOR_MAPPING_CONFIG = {
         "armory_gears_3",
         ArmoryGearsProcessor,
     ),
-    ("HeroTable_VisGen_Launch", "json", "heroes", HeroesProcessor),
+    ("HeroTable_VisGen_Launch", "pb", "heroes", HeroesProcessor),
     ("HeroProgressions", "json", "hero_progressions", HeroProgressionsProcessor),
-    ("HeroSkillsTable_VisGen_Launch", "json", "hero_skills", HeroSkillsProcessor),
-    ("HeroTraitsTable", "json", "hero_traits", HeroTraitsProcessor),
+    ("HeroSkillsTable_VisGen_Launch", "pb", "hero_skills", HeroSkillsProcessor),
+    ("HeroTraitsTable", "pb", "hero_traits", HeroTraitsProcessor),
     (
         "HeroPropertyProgressions_VisGen_Launch",
         "pb",
@@ -138,7 +138,7 @@ FILE_PROCESSOR_MAPPING_CONFIG = {
     ),
     (
         "HeroCollectionActionTable",
-        "json",
+        "pb",
         "hero_collection_actions",
         HeroCollectionActionsProcessor,
     ),

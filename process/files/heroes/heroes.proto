@@ -1,0 +1,30 @@
+syntax = "proto3";
+
+import 'files/common/common.proto';
+
+message Heroes {
+  repeated Hero heroes = 1;
+  message Hero {
+    ObjectIdentity identity = 1;
+    HeroInfo info = 2;
+  }
+
+  message HeroInfo {
+    ObjectIdentity xp_progression = 1;
+    ObjectIdentity event_score_progression = 2;
+    ObjectIdentity power_progression = 3;
+    string ripcord = 5;
+    string name_placeholder = 6;
+    string description_placeholder = 7;
+    int32 rarity = 8;
+    int32 max_stars = 9;
+    repeated Requirement requirements = 19;
+    repeated ObjectIdentity skills = 20;
+    repeated ObjectIdentity traits = 21;
+  }
+
+  message Requirement {
+    ObjectIdentity item = 1;
+    ObjectIdentity progression = 2;
+  }
+}

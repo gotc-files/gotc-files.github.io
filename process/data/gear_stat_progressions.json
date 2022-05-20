@@ -57290,6 +57290,18 @@
       ]
     },
     {
+      "id": "524abd923ebeaeb8",
+      "name": "prog_gear_event5_RangedAttackVsPlayer_1",
+      "stats": [
+        0.0285600000000001,
+        0.0306000000000001,
+        0.0326400000000001,
+        0.0346800000000001,
+        0.0367200000000001,
+        0.0408000000000001
+      ]
+    },
+    {
       "id": "e18d9308e3f3e950",
       "name": "prog_gear_event5_RangedAttackVsPlayer_5",
       "stats": [
@@ -60875,6 +60887,18 @@
         0.4046,
         0.4284,
         0.476
+      ]
+    },
+    {
+      "id": "8d584c62377b3c5",
+      "name": "prog_gear_event5_MarcherRangedHealthVsPlayer_1",
+      "stats": [
+        0.0333200000000001,
+        0.0357000000000001,
+        0.0380800000000001,
+        0.0404600000000001,
+        0.0428400000000001,
+        0.0476000000000001
       ]
     },
     {
@@ -66122,6 +66146,102 @@
       ]
     },
     {
+      "id": "33eafa30d26b641",
+      "name": "prog_gear_Event5.5_RangedDefenseVsPlayer_1",
+      "stats": [
+        0.01428,
+        0.0153,
+        0.01632,
+        0.01734,
+        0.01836,
+        0.0204000000000001
+      ]
+    },
+    {
+      "id": "b0f98139d06bf1a9",
+      "name": "prog_gear_Event5.5_RangedDefenseVsPlayer_5",
+      "stats": [
+        0.027132,
+        0.02907,
+        0.031008,
+        0.0329460000000001,
+        0.0348840000000001,
+        0.0387600000000001
+      ]
+    },
+    {
+      "id": "5477c1b312af5074",
+      "name": "prog_gear_Event5.5_RangedDefenseVsPlayer_10",
+      "stats": [
+        0.039984,
+        0.04284,
+        0.045696,
+        0.048552,
+        0.0514080000000001,
+        0.0571200000000001
+      ]
+    },
+    {
+      "id": "cb41248f78b14666",
+      "name": "prog_gear_Event5.5_RangedDefenseVsPlayer_15",
+      "stats": [
+        0.052836,
+        0.05661,
+        0.060384,
+        0.064158,
+        0.0679320000000001,
+        0.0754800000000001
+      ]
+    },
+    {
+      "id": "5b127578b9a88161",
+      "name": "prog_gear_Event5.5_RangedDefenseVsPlayer_20",
+      "stats": [
+        0.065688,
+        0.07038,
+        0.075072,
+        0.079764,
+        0.084456,
+        0.09384
+      ]
+    },
+    {
+      "id": "c4249044d3b69773",
+      "name": "prog_gear_Event5.5_RangedDefenseVsPlayer_25",
+      "stats": [
+        0.07854,
+        0.08415,
+        0.08976,
+        0.09537,
+        0.10098,
+        0.1122
+      ]
+    },
+    {
+      "id": "5e31193e20aa3192",
+      "name": "prog_gear_Event5.5_RangedDefenseVsPlayer_30",
+      "stats": [
+        0.091392,
+        0.09792,
+        0.104448,
+        0.110976,
+        0.117504,
+        0.13056
+      ]
+    },
+    {
+      "id": "c107fc024ab42780",
+      "name": "prog_gear_Event5.5_RangedDefenseVsPlayer_35",
+      "stats": [
+        0.104244,
+        0.11169,
+        0.119136,
+        0.126582,
+        0.134028,
+        0.14892
+      ]
+    },
+    {
       "id": "45d91cefefa7234b",
       "name": "prog_gear_Event5.5_RangedDefenseVsPlayer_40",
       "stats": [
@@ -66244,6 +66364,138 @@
     {
       "id": "4cc5ac37f1a2392c",
       "name": "prog_gear_Event5.5_RangedAttackVsPlayer_50",
+      "stats": [
+        0.1428,
+        0.153,
+        0.1632,
+        0.1734,
+        0.1836,
+        0.204
+      ]
+    },
+    {
+      "id": "953f9579e791201c",
+      "name": "prog_gear_Event5.5_RangedAttackVsPlayersRanged_1",
+      "stats": [
+        0.01428,
+        0.0153,
+        0.01632,
+        0.01734,
+        0.01836,
+        0.0204000000000001
+      ]
+    },
+    {
+      "id": "26f8bbe33adc67f4",
+      "name": "prog_gear_Event5.5_RangedAttackVsPlayersRanged_5",
+      "stats": [
+        0.027132,
+        0.02907,
+        0.031008,
+        0.0329460000000001,
+        0.0348840000000001,
+        0.0387600000000001
+      ]
+    },
+    {
+      "id": "c7c2f7a608168b89",
+      "name": "prog_gear_Event5.5_RangedAttackVsPlayersRanged_10",
+      "stats": [
+        0.039984,
+        0.04284,
+        0.045696,
+        0.048552,
+        0.0514080000000001,
+        0.0571200000000001
+      ]
+    },
+    {
+      "id": "58f4129a62089d9b",
+      "name": "prog_gear_Event5.5_RangedAttackVsPlayersRanged_15",
+      "stats": [
+        0.052836,
+        0.05661,
+        0.060384,
+        0.064158,
+        0.0679320000000001,
+        0.0754800000000001
+      ]
+    },
+    {
+      "id": "c8a7436da3115a9c",
+      "name": "prog_gear_Event5.5_RangedAttackVsPlayersRanged_20",
+      "stats": [
+        0.065688,
+        0.07038,
+        0.075072,
+        0.079764,
+        0.084456,
+        0.09384
+      ]
+    },
+    {
+      "id": "5791a651c90f4c8e",
+      "name": "prog_gear_Event5.5_RangedAttackVsPlayersRanged_25",
+      "stats": [
+        0.07854,
+        0.08415,
+        0.08976,
+        0.09537,
+        0.10098,
+        0.1122
+      ]
+    },
+    {
+      "id": "cd842f2b3a13ea6f",
+      "name": "prog_gear_Event5.5_RangedAttackVsPlayersRanged_30",
+      "stats": [
+        0.091392,
+        0.09792,
+        0.104448,
+        0.110976,
+        0.117504,
+        0.13056
+      ]
+    },
+    {
+      "id": "52b2ca17500dfc7d",
+      "name": "prog_gear_Event5.5_RangedAttackVsPlayersRanged_35",
+      "stats": [
+        0.104244,
+        0.11169,
+        0.119136,
+        0.126582,
+        0.134028,
+        0.14892
+      ]
+    },
+    {
+      "id": "d66c2afaf51ef8b6",
+      "name": "prog_gear_Event5.5_RangedAttackVsPlayersRanged_40",
+      "stats": [
+        0.117096,
+        0.12546,
+        0.133824,
+        0.142188,
+        0.150552,
+        0.16728
+      ]
+    },
+    {
+      "id": "495acfc69f00eea4",
+      "name": "prog_gear_Event5.5_RangedAttackVsPlayersRanged_45",
+      "stats": [
+        0.129948,
+        0.13923,
+        0.148512,
+        0.157794,
+        0.167076,
+        0.18564
+      ]
+    },
+    {
+      "id": "d34f46bc6c1c4845",
+      "name": "prog_gear_Event5.5_RangedAttackVsPlayersRanged_50",
       "stats": [
         0.1428,
         0.153,

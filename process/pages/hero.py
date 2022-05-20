@@ -9,10 +9,9 @@ def to_property_name(stat_name):
 
 
 class HeroProcessor(PageProcessor):
-
     def process(self):
         heroes = []
-        for raw_hero in self.iterate_files(['heroes']):
+        for raw_hero in self.iterate_files(["heroes"]):
             try:
                 heroes.append(self._process_hero(raw_hero))
             except InsufficientDataException as e:
@@ -25,18 +24,23 @@ class HeroProcessor(PageProcessor):
             "id": raw_hero["id"],
             "name": self.translate(raw_hero["name_placeholder"]),
             "description": self.translate(raw_hero["description_placeholder"]),
-            "skills": [self._process_skill(skill_name) for skill_name in raw_hero["skills"]],
+            "skills": [
+                self._process_skill(skill_name) for skill_name in raw_hero["skills"]
+            ],
             "rarity": raw_hero["rarity"],
             "max_stars": raw_hero["max_stars"],
-            "traits": [self._process_trait(trait_name) for trait_name in raw_hero["traits"]]
+            "traits": [
+                self._process_trait(trait_name) for trait_name in raw_hero["traits"]
+            ],
         }
 
         return hero
 
     def _process_skill(self, skill_name):
-        raw_skill = self.lookup_file('hero_skills', 'name', skill_name)
+        raw_skill = self.lookup_file("hero_skills", "name", skill_name)
         stat = self.lookup_file(
-            'properties', 'name', to_property_name(raw_skill["stat_name"]))
+            "properties", "name", to_property_name(raw_skill["stat_name"])
+        )
         skill = {
             "name": self.translate(stat["name_placeholder"]),
             "description": self.translate(stat["description_placeholder"]),
@@ -47,9 +51,13 @@ class HeroProcessor(PageProcessor):
             skill["unlock_level"] = raw_skill["unlock_level"]
         if "signature_skill_progression_name" in raw_skill:
             skill["signature_skill_values"] = self.lookup_file(
-                'hero_skill_progressions', 'name', raw_skill["signature_skill_progression_name"])["values"]
+                "hero_skill_progressions",
+                "name",
+                raw_skill["signature_skill_progression_name"],
+            )["values"]
         return skill
 
     def _process_trait(self, trait_name):
-        raw_trait = self.lookup_file('hero_traits', 'name', trait_name)
+        raw_trait = self.lookup_file("hero_traits", "name", trait_name)
+        print(raw_trait, trait_name)
         return self.translate(raw_trait["name_placeholder"])

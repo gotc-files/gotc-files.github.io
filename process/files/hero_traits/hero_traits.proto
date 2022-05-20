@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+import 'files/common/common.proto';
+
+message HeroTraits {
+  repeated HeroTrait hero_traits = 1;
+  message HeroTrait {
+    ObjectIdentity identity = 1;
+    HeroTraitInfo info = 2;
+  }
+
+  message HeroTraitInfo {
+    string name_placeholder = 1;
+    string description_placeholder = 2;
+    string image = 3;
+    ObjectIdentity event_bonus_modifier = 4;
+  }
+}
