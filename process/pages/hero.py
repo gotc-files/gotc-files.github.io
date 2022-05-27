@@ -59,5 +59,4 @@ class HeroProcessor(PageProcessor):
 
     def _process_trait(self, trait_name):
         raw_trait = self.lookup_file("hero_traits", "name", trait_name)
-        print(raw_trait, trait_name)
         return self.translate(raw_trait["name_placeholder"])
