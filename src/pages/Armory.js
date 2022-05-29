@@ -60,8 +60,8 @@ function Armory() {
                 new RegExp(/^n:EQ_EVENTS_(\w+)_SET_NAME$/)
               )}
               subheader={displayWithRegexFallback(
-                armory.name,
-                new RegExp(/^n:EQ_EVENTS_(\w+)_SET_NAME$/)
+                armory.description,
+                new RegExp(/^n:EQ_EVENTS_(\w+)_SET_DESCRIPTION$/)
               )}
               sx={{ backgroundColor: armory.color }}
               subheaderTypographyProps={{ color: "inherit" }}
