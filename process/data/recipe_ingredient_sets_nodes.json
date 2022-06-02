@@ -1938,6 +1938,36 @@
         }
       ],
       "name": "recipe_alchemy_recipe_event_nwm_item_Advanced_Teleport_1"
+    },
+    {
+      "id": "b2d3631c0044aef8",
+      "ingredients": [
+        {
+          "id": 8283552574734329849,
+          "name": "item_event_favor_nwm_1",
+          "quantity": 10000,
+          "type": "item"
+        },
+        {
+          "id": 11578091360610674690,
+          "name": "item_event_coin_tier2",
+          "quantity": 1700,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_nwm_item_Advanced_Teleport_2_1"
+    },
+    {
+      "id": "84461dbc8aeb4a95",
+      "ingredients": [
+        {
+          "id": 8283552574734329849,
+          "name": "item_event_favor_nwm_1",
+          "quantity": 25000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_nwm_item_Random_Teleport_1"
     }
   ]
 }

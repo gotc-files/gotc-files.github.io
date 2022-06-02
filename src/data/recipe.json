@@ -46259,7 +46259,51 @@
     "category": "Nodes",
     "description": "Gather Battlefield Salvage during the Strategic Terrain event! This limited-time recipe will disappear when the event is over.",
     "event_name": "nwm",
+    "event_points": 2500,
+    "id": "9a9925aab984fbe",
+    "ingredients": [
+      {
+        "description": "Your ally's troops have seized the high ground and cut off all escape routes. The enemy is right where you want them.\n\nCan be used in Recipes while the War for the Wall event is active. Earn powerful boosts against event-limited Seats of Power! \nPart of the 'Night's Watch Mutiny' Event",
+        "name": "Strategic Advantage",
+        "quantity": 25000,
+        "type": "item"
+      }
+    ],
+    "limit": 10,
+    "name": "n:ALCHEMY_RECIPE_EVENT_NWM_ITEM_RANDOM_TELEPORT_1_NAME",
+    "target_quality": 4,
+    "target_quantity": 1
+  },
+  {
+    "category": "Nodes",
+    "description": "Gather Battlefield Salvage during the Strategic Terrain event! This limited-time recipe will disappear when the event is over.",
+    "event_name": "nwm",
     "event_points": 10000,
+    "id": "c259114f3071b6c8",
+    "ingredients": [
+      {
+        "description": "Your ally's troops have seized the high ground and cut off all escape routes. The enemy is right where you want them.\n\nCan be used in Recipes while the War for the Wall event is active. Earn powerful boosts against event-limited Seats of Power! \nPart of the 'Night's Watch Mutiny' Event",
+        "name": "Strategic Advantage",
+        "quantity": 10000,
+        "type": "item"
+      },
+      {
+        "description": "A high-value currency from across the Narrow Sea. Most Westerosi will not accept these coins, but merchants will exchange them for goods in the Recipes tab of your Inventory.",
+        "name": "Meereenese Honor",
+        "quantity": 1700,
+        "type": "item"
+      }
+    ],
+    "limit": 4,
+    "name": "n:ALCHEMY_RECIPE_EVENT_NWM_ITEM_ADVANCED_TELEPORT_2_1_NAME",
+    "target_quality": 5,
+    "target_quantity": 1
+  },
+  {
+    "category": "Nodes",
+    "description": "Gather Battlefield Salvage during the Strategic Terrain event! This limited-time recipe will disappear when the event is over.",
+    "event_name": "nwm",
+    "event_points": 100000,
     "id": "b35960abdf995a7a",
     "ingredients": [
       {
@@ -46269,9 +46313,9 @@
         "type": "item"
       }
     ],
-    "limit": 0,
+    "limit": 2,
     "name": "n:ALCHEMY_RECIPE_EVENT_NWM_ITEM_ADVANCED_TELEPORT_1_NAME",
-    "target_quality": 1,
+    "target_quality": 5,
     "target_quantity": 1
   },
   {
@@ -46290,7 +46334,7 @@
     ],
     "limit": 0,
     "name": "n:ALCHEMY_RECIPE_EVENT_NWM_BOOST_RALLYSLOTVSSOPWALL_ALCHEMY_1_NAME",
-    "target_quality": 1,
+    "target_quality": 6,
     "target_quantity": 1800
   },
   {
@@ -46309,7 +46353,7 @@
     ],
     "limit": 0,
     "name": "n:ALCHEMY_RECIPE_EVENT_NWM_BOOST_TROOPSDEADTOWOUNDEDVSSOPWALL_ALCHEMY_1_NAME",
-    "target_quality": 1,
+    "target_quality": 5,
     "target_quantity": 1800
   },
   {
@@ -46328,7 +46372,7 @@
     ],
     "limit": 0,
     "name": "n:ALCHEMY_RECIPE_EVENT_NWM_BOOST_RALLIEDTROOPCAPACITYVSSOPWALL_ALCHEMY_1_NAME",
-    "target_quality": 1,
+    "target_quality": 5,
     "target_quantity": 1800
   },
   {
@@ -46347,7 +46391,7 @@
     ],
     "limit": 0,
     "name": "n:ALCHEMY_RECIPE_EVENT_NWM_BOOST_MAXMARCHSIZEVSSOPWALL_ALCHEMY_1_NAME",
-    "target_quality": 1,
+    "target_quality": 5,
     "target_quantity": 1800
   },
   {
@@ -46366,7 +46410,7 @@
     ],
     "limit": 0,
     "name": "n:ALCHEMY_RECIPE_EVENT_NWM_BOOST_TROOPHEALTHVSSOPWALL_ALCHEMY_1_NAME",
-    "target_quality": 1,
+    "target_quality": 4,
     "target_quantity": 1800
   },
   {
@@ -46385,7 +46429,7 @@
     ],
     "limit": 0,
     "name": "n:ALCHEMY_RECIPE_EVENT_NWM_BOOST_TROOPDEFENSEVSSOPWALL_ALCHEMY_1_NAME",
-    "target_quality": 1,
+    "target_quality": 4,
     "target_quantity": 1800
   },
   {
@@ -46404,7 +46448,7 @@
     ],
     "limit": 0,
     "name": "n:ALCHEMY_RECIPE_EVENT_NWM_BOOST_TROOPATTACKVSSOPWALL_ALCHEMY_1_NAME",
-    "target_quality": 1,
+    "target_quality": 4,
     "target_quantity": 1800
   },
   {
@@ -46423,7 +46467,7 @@
     ],
     "limit": 0,
     "name": "n:ALCHEMY_RECIPE_EVENT_NWM_BOOST_MAXMARCHSIZEVSSTRATEGICTERRAIN_ALCHEMY_1_NAME",
-    "target_quality": 1,
+    "target_quality": 3,
     "target_quantity": 1800
   },
   {
@@ -46442,7 +46486,7 @@
     ],
     "limit": 0,
     "name": "n:ALCHEMY_RECIPE_EVENT_NWM_BOOST_DEFENDERTROOPHEALTHVSPLAYERSTRATEGICTERRAIN_ALCHEMY_1_NAME",
-    "target_quality": 1,
+    "target_quality": 2,
     "target_quantity": 1800
   },
   {
@@ -46461,7 +46505,7 @@
     ],
     "limit": 0,
     "name": "n:ALCHEMY_RECIPE_EVENT_NWM_BOOST_DEFENDERTROOPDEFENSEVSPLAYERSTRATEGICTERRAIN_ALCHEMY_1_NAME",
-    "target_quality": 1,
+    "target_quality": 2,
     "target_quantity": 1800
   },
   {
@@ -46480,7 +46524,7 @@
     ],
     "limit": 0,
     "name": "n:ALCHEMY_RECIPE_EVENT_NWM_BOOST_DEFENDERTROOPATTACKVSPLAYERSTRATEGICTERRAIN_ALCHEMY_1_NAME",
-    "target_quality": 1,
+    "target_quality": 2,
     "target_quantity": 1800
   },
   {
