@@ -1850,6 +1850,110 @@
         "summon_purchase_royal_DoranLorasMAY22_Gold_10x_top"
       ],
       "time_str": "MAY22"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "BarristanLeaf",
+      "id": "47263adc4a93778b",
+      "name": "summon_noble_BarristanLeafJUN22_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_BarristanLeafJUN22_Hero_1x_top",
+        "summon_purchase_noble_BarristanLeafJUN22_Hero_10x_top"
+      ],
+      "time_str": "JUN22"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "EuronArya",
+      "id": "f8838a71ea93034",
+      "name": "summon_noble_EuronAryaJUN22_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_EuronAryaJUN22_Hero_1x_top",
+        "summon_purchase_noble_EuronAryaJUN22_Hero_10x_top"
+      ],
+      "time_str": "JUN22"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "GreyWormCersei",
+      "id": "75cac199ac458849",
+      "name": "summon_noble_GreyWormCerseiJUN22_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_GreyWormCerseiJUN22_Hero_1x_top",
+        "summon_purchase_noble_GreyWormCerseiJUN22_Hero_10x_top"
+      ],
+      "time_str": "JUN22"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "TyrionMargaery",
+      "id": "d7264bce447f24e1",
+      "name": "summon_noble_TyrionMargaeryJUN22_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_TyrionMargaeryJUN22_Hero_1x_top",
+        "summon_purchase_noble_TyrionMargaeryJUN22_Hero_10x_top"
+      ],
+      "time_str": "JUN22"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "BarristanLeaf",
+      "id": "687c03105e87f867",
+      "name": "summon_royal_BarristanLeafJUN22_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_BarristanLeafJUN22_Gold_1x_top",
+        "summon_purchase_royal_BarristanLeafJUN22_Gold_10x_top"
+      ],
+      "time_str": "JUN22"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "EuronArya",
+      "id": "415a4ed868500b06",
+      "name": "summon_royal_EuronAryaJUN22_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_EuronAryaJUN22_Gold_1x_top",
+        "summon_purchase_royal_EuronAryaJUN22_Gold_10x_top"
+      ],
+      "time_str": "JUN22"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "GreyWormCersei",
+      "id": "72dfeaf41ec2a134",
+      "name": "summon_royal_GreyWormCerseiJUN22_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_GreyWormCerseiJUN22_Gold_1x_top",
+        "summon_purchase_royal_GreyWormCerseiJUN22_Gold_10x_top"
+      ],
+      "time_str": "JUN22"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "TyrionMargaery",
+      "id": "d03360a3f6f80d9c",
+      "name": "summon_royal_TyrionMargaeryJUN22_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_TyrionMargaeryJUN22_Gold_1x_top",
+        "summon_purchase_royal_TyrionMargaeryJUN22_Gold_10x_top"
+      ],
+      "time_str": "JUN22"
     }
   ]
 }

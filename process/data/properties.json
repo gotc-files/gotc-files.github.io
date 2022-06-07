@@ -72362,6 +72362,1206 @@
       "type": 11
     },
     {
+      "description_placeholder": "PROPERTY_TROOPTRUEDAMAGEPERCENTVSPLAYER_DESC",
+      "id": "eac132ced217ed3b",
+      "image": "icon_damage.png",
+      "name": "property_TroopTrueDamagePercentVsPlayer_city",
+      "name_placeholder": "PROPERTY_TROOPTRUEDAMAGEPERCENTVSPLAYER_NAME",
+      "type": 2
+    },
+    {
+      "description_placeholder": "PROPERTY_TROOPTRUEDAMAGEPERCENTVSPLAYER_DESC",
+      "id": "33839d5a2d0dd31e",
+      "image": "icon_damage.png",
+      "name": "property_TroopTrueDamagePercentVsPlayer_research",
+      "name_placeholder": "PROPERTY_TROOPTRUEDAMAGEPERCENTVSPLAYER_NAME",
+      "type": 5
+    },
+    {
+      "description_placeholder": "PROPERTY_TROOPTRUEDAMAGEPERCENTVSPLAYER_DESC",
+      "id": "9797a09ffb5c9b63",
+      "image": "icon_damage.png",
+      "name": "property_TroopTrueDamagePercentVsPlayer_gear",
+      "name_placeholder": "PROPERTY_TROOPTRUEDAMAGEPERCENTVSPLAYER_NAME",
+      "type": 4
+    },
+    {
+      "description_placeholder": "PROPERTY_TROOPTRUEDAMAGEPERCENTVSPLAYER_DESC",
+      "id": "d4862ae4858c21e4",
+      "image": "icon_damage.png",
+      "name": "property_TroopTrueDamagePercentVsPlayer_activity",
+      "name_placeholder": "PROPERTY_TROOPTRUEDAMAGEPERCENTVSPLAYER_NAME",
+      "type": 9
+    },
+    {
+      "description_placeholder": "PROPERTY_TROOPTRUEDAMAGEPERCENTVSPLAYER_DESC",
+      "id": "21efe3216076e628",
+      "image": "icon_damage.png",
+      "name": "property_TroopTrueDamagePercentVsPlayer_hero",
+      "name_placeholder": "PROPERTY_TROOPTRUEDAMAGEPERCENTVSPLAYER_NAME",
+      "type": 11
+    },
+    {
+      "description_placeholder": "PROPERTY_INFANTRYTRUEDAMAGEPERCENTVSPLAYER_DESC",
+      "id": "8052bc91f4074e8d",
+      "image": "icon_damage.png",
+      "name": "property_InfantryTrueDamagePercentVsPlayer_city",
+      "name_placeholder": "PROPERTY_INFANTRYTRUEDAMAGEPERCENTVSPLAYER_NAME",
+      "type": 2
+    },
+    {
+      "description_placeholder": "PROPERTY_INFANTRYTRUEDAMAGEPERCENTVSPLAYER_DESC",
+      "id": "eb85761b76bb4f09",
+      "image": "icon_damage.png",
+      "name": "property_InfantryTrueDamagePercentVsPlayer_research",
+      "name_placeholder": "PROPERTY_INFANTRYTRUEDAMAGEPERCENTVSPLAYER_NAME",
+      "type": 5
+    },
+    {
+      "description_placeholder": "PROPERTY_INFANTRYTRUEDAMAGEPERCENTVSPLAYER_DESC",
+      "id": "fd042ec0dd4c38d5",
+      "image": "icon_damage.png",
+      "name": "property_InfantryTrueDamagePercentVsPlayer_gear",
+      "name_placeholder": "PROPERTY_INFANTRYTRUEDAMAGEPERCENTVSPLAYER_NAME",
+      "type": 4
+    },
+    {
+      "description_placeholder": "PROPERTY_INFANTRYTRUEDAMAGEPERCENTVSPLAYER_DESC",
+      "id": "c80c1a5de3abdf3",
+      "image": "icon_damage.png",
+      "name": "property_InfantryTrueDamagePercentVsPlayer_activity",
+      "name_placeholder": "PROPERTY_INFANTRYTRUEDAMAGEPERCENTVSPLAYER_NAME",
+      "type": 9
+    },
+    {
+      "description_placeholder": "PROPERTY_INFANTRYTRUEDAMAGEPERCENTVSPLAYER_DESC",
+      "id": "4b7c6d7e4666459e",
+      "image": "icon_damage.png",
+      "name": "property_InfantryTrueDamagePercentVsPlayer_hero",
+      "name_placeholder": "PROPERTY_INFANTRYTRUEDAMAGEPERCENTVSPLAYER_NAME",
+      "type": 11
+    },
+    {
+      "description_placeholder": "PROPERTY_RANGEDTRUEDAMAGEPERCENTVSPLAYER_DESC",
+      "id": "3701d7d01cca5487",
+      "image": "icon_damage.png",
+      "name": "property_RangedTrueDamagePercentVsPlayer_city",
+      "name_placeholder": "PROPERTY_RANGEDTRUEDAMAGEPERCENTVSPLAYER_NAME",
+      "type": 2
+    },
+    {
+      "description_placeholder": "PROPERTY_RANGEDTRUEDAMAGEPERCENTVSPLAYER_DESC",
+      "id": "a541923d1d54f956",
+      "image": "icon_damage.png",
+      "name": "property_RangedTrueDamagePercentVsPlayer_research",
+      "name_placeholder": "PROPERTY_RANGEDTRUEDAMAGEPERCENTVSPLAYER_NAME",
+      "type": 5
+    },
+    {
+      "description_placeholder": "PROPERTY_RANGEDTRUEDAMAGEPERCENTVSPLAYER_DESC",
+      "id": "4a574581358122df",
+      "image": "icon_damage.png",
+      "name": "property_RangedTrueDamagePercentVsPlayer_gear",
+      "name_placeholder": "PROPERTY_RANGEDTRUEDAMAGEPERCENTVSPLAYER_NAME",
+      "type": 4
+    },
+    {
+      "description_placeholder": "PROPERTY_RANGEDTRUEDAMAGEPERCENTVSPLAYER_DESC",
+      "id": "42442583b5d50bac",
+      "image": "icon_damage.png",
+      "name": "property_RangedTrueDamagePercentVsPlayer_activity",
+      "name_placeholder": "PROPERTY_RANGEDTRUEDAMAGEPERCENTVSPLAYER_NAME",
+      "type": 9
+    },
+    {
+      "description_placeholder": "PROPERTY_RANGEDTRUEDAMAGEPERCENTVSPLAYER_DESC",
+      "id": "fc2f063faeab5f94",
+      "image": "icon_damage.png",
+      "name": "property_RangedTrueDamagePercentVsPlayer_hero",
+      "name_placeholder": "PROPERTY_RANGEDTRUEDAMAGEPERCENTVSPLAYER_NAME",
+      "type": 11
+    },
+    {
+      "description_placeholder": "PROPERTY_MOUNTEDTRUEDAMAGEPERCENTVSPLAYER_DESC",
+      "id": "df6cc0cb500dfa17",
+      "image": "icon_damage.png",
+      "name": "property_MountedTrueDamagePercentVsPlayer_city",
+      "name_placeholder": "PROPERTY_MOUNTEDTRUEDAMAGEPERCENTVSPLAYER_NAME",
+      "type": 2
+    },
+    {
+      "description_placeholder": "PROPERTY_MOUNTEDTRUEDAMAGEPERCENTVSPLAYER_DESC",
+      "id": "55f017ab0250b200",
+      "image": "icon_damage.png",
+      "name": "property_MountedTrueDamagePercentVsPlayer_research",
+      "name_placeholder": "PROPERTY_MOUNTEDTRUEDAMAGEPERCENTVSPLAYER_NAME",
+      "type": 5
+    },
+    {
+      "description_placeholder": "PROPERTY_MOUNTEDTRUEDAMAGEPERCENTVSPLAYER_DESC",
+      "id": "a23a529a79468c4f",
+      "image": "icon_damage.png",
+      "name": "property_MountedTrueDamagePercentVsPlayer_gear",
+      "name_placeholder": "PROPERTY_MOUNTEDTRUEDAMAGEPERCENTVSPLAYER_NAME",
+      "type": 4
+    },
+    {
+      "description_placeholder": "PROPERTY_MOUNTEDTRUEDAMAGEPERCENTVSPLAYER_DESC",
+      "id": "b2f5a015aad140fa",
+      "image": "icon_damage.png",
+      "name": "property_MountedTrueDamagePercentVsPlayer_activity",
+      "name_placeholder": "PROPERTY_MOUNTEDTRUEDAMAGEPERCENTVSPLAYER_NAME",
+      "type": 9
+    },
+    {
+      "description_placeholder": "PROPERTY_MOUNTEDTRUEDAMAGEPERCENTVSPLAYER_DESC",
+      "id": "14421124e26cf104",
+      "image": "icon_damage.png",
+      "name": "property_MountedTrueDamagePercentVsPlayer_hero",
+      "name_placeholder": "PROPERTY_MOUNTEDTRUEDAMAGEPERCENTVSPLAYER_NAME",
+      "type": 11
+    },
+    {
+      "description_placeholder": "PROPERTY_SIEGETRUEDAMAGEPERCENTVSPLAYER_DESC",
+      "id": "7aa7cf3c03720d3b",
+      "image": "icon_damage.png",
+      "name": "property_SiegeTrueDamagePercentVsPlayer_city",
+      "name_placeholder": "PROPERTY_SIEGETRUEDAMAGEPERCENTVSPLAYER_NAME",
+      "type": 2
+    },
+    {
+      "description_placeholder": "PROPERTY_SIEGETRUEDAMAGEPERCENTVSPLAYER_DESC",
+      "id": "da75459a45a24354",
+      "image": "icon_damage.png",
+      "name": "property_SiegeTrueDamagePercentVsPlayer_research",
+      "name_placeholder": "PROPERTY_SIEGETRUEDAMAGEPERCENTVSPLAYER_NAME",
+      "type": 5
+    },
+    {
+      "description_placeholder": "PROPERTY_SIEGETRUEDAMAGEPERCENTVSPLAYER_DESC",
+      "id": "7f15d6d2a397b63",
+      "image": "icon_damage.png",
+      "name": "property_SiegeTrueDamagePercentVsPlayer_gear",
+      "name_placeholder": "PROPERTY_SIEGETRUEDAMAGEPERCENTVSPLAYER_NAME",
+      "type": 4
+    },
+    {
+      "description_placeholder": "PROPERTY_SIEGETRUEDAMAGEPERCENTVSPLAYER_DESC",
+      "id": "3d70f224ed23b1ae",
+      "image": "icon_damage.png",
+      "name": "property_SiegeTrueDamagePercentVsPlayer_activity",
+      "name_placeholder": "PROPERTY_SIEGETRUEDAMAGEPERCENTVSPLAYER_NAME",
+      "type": 9
+    },
+    {
+      "description_placeholder": "PROPERTY_SIEGETRUEDAMAGEPERCENTVSPLAYER_DESC",
+      "id": "b1891ed3b1130628",
+      "image": "icon_damage.png",
+      "name": "property_SiegeTrueDamagePercentVsPlayer_hero",
+      "name_placeholder": "PROPERTY_SIEGETRUEDAMAGEPERCENTVSPLAYER_NAME",
+      "type": 11
+    },
+    {
+      "description_placeholder": "PROPERTY_TROOPTRUEDAMAGEPERCENTVSPLAYERATSOP_DESC",
+      "id": "c16fafd5d77104c6",
+      "image": "icon_damage.png",
+      "name": "property_TroopTrueDamagePercentVsPlayerAtSop_city",
+      "name_placeholder": "PROPERTY_TROOPTRUEDAMAGEPERCENTVSPLAYERATSOP_NAME",
+      "type": 2
+    },
+    {
+      "description_placeholder": "PROPERTY_TROOPTRUEDAMAGEPERCENTVSPLAYERATSOP_DESC",
+      "id": "45c763a19a94b1bf",
+      "image": "icon_damage.png",
+      "name": "property_TroopTrueDamagePercentVsPlayerAtSop_research",
+      "name_placeholder": "PROPERTY_TROOPTRUEDAMAGEPERCENTVSPLAYERATSOP_NAME",
+      "type": 5
+    },
+    {
+      "description_placeholder": "PROPERTY_TROOPTRUEDAMAGEPERCENTVSPLAYERATSOP_DESC",
+      "id": "bc393d84fe3a729e",
+      "image": "icon_damage.png",
+      "name": "property_TroopTrueDamagePercentVsPlayerAtSop_gear",
+      "name_placeholder": "PROPERTY_TROOPTRUEDAMAGEPERCENTVSPLAYERATSOP_NAME",
+      "type": 4
+    },
+    {
+      "description_placeholder": "PROPERTY_TROOPTRUEDAMAGEPERCENTVSPLAYERATSOP_DESC",
+      "id": "a2c2d41f32154345",
+      "image": "icon_damage.png",
+      "name": "property_TroopTrueDamagePercentVsPlayerAtSop_activity",
+      "name_placeholder": "PROPERTY_TROOPTRUEDAMAGEPERCENTVSPLAYERATSOP_NAME",
+      "type": 9
+    },
+    {
+      "description_placeholder": "PROPERTY_TROOPTRUEDAMAGEPERCENTVSPLAYERATSOP_DESC",
+      "id": "a417e3a65100fd5",
+      "image": "icon_damage.png",
+      "name": "property_TroopTrueDamagePercentVsPlayerAtSop_hero",
+      "name_placeholder": "PROPERTY_TROOPTRUEDAMAGEPERCENTVSPLAYERATSOP_NAME",
+      "type": 11
+    },
+    {
+      "description_placeholder": "PROPERTY_INFANTRYTRUEDAMAGEPERCENTVSPLAYERATSOP_DESC",
+      "id": "4fb0a7bb3d56c961",
+      "image": "icon_damage.png",
+      "name": "property_InfantryTrueDamagePercentVsPlayerAtSop_city",
+      "name_placeholder": "PROPERTY_INFANTRYTRUEDAMAGEPERCENTVSPLAYERATSOP_NAME",
+      "type": 2
+    },
+    {
+      "description_placeholder": "PROPERTY_INFANTRYTRUEDAMAGEPERCENTVSPLAYERATSOP_DESC",
+      "id": "be73712fc304f322",
+      "image": "icon_damage.png",
+      "name": "property_InfantryTrueDamagePercentVsPlayerAtSop_research",
+      "name_placeholder": "PROPERTY_INFANTRYTRUEDAMAGEPERCENTVSPLAYERATSOP_NAME",
+      "type": 5
+    },
+    {
+      "description_placeholder": "PROPERTY_INFANTRYTRUEDAMAGEPERCENTVSPLAYERATSOP_DESC",
+      "id": "32e635ea141dbf39",
+      "image": "icon_damage.png",
+      "name": "property_InfantryTrueDamagePercentVsPlayerAtSop_gear",
+      "name_placeholder": "PROPERTY_INFANTRYTRUEDAMAGEPERCENTVSPLAYERATSOP_NAME",
+      "type": 4
+    },
+    {
+      "description_placeholder": "PROPERTY_INFANTRYTRUEDAMAGEPERCENTVSPLAYERATSOP_DESC",
+      "id": "5976c6916b8501d8",
+      "image": "icon_damage.png",
+      "name": "property_InfantryTrueDamagePercentVsPlayerAtSop_activity",
+      "name_placeholder": "PROPERTY_INFANTRYTRUEDAMAGEPERCENTVSPLAYERATSOP_NAME",
+      "type": 9
+    },
+    {
+      "description_placeholder": "PROPERTY_INFANTRYTRUEDAMAGEPERCENTVSPLAYERATSOP_DESC",
+      "id": "849e76548f37c272",
+      "image": "icon_damage.png",
+      "name": "property_InfantryTrueDamagePercentVsPlayerAtSop_hero",
+      "name_placeholder": "PROPERTY_INFANTRYTRUEDAMAGEPERCENTVSPLAYERATSOP_NAME",
+      "type": 11
+    },
+    {
+      "description_placeholder": "PROPERTY_RANGEDTRUEDAMAGEPERCENTVSPLAYERATSOP_DESC",
+      "id": "853ec33db5c8e948",
+      "image": "icon_damage.png",
+      "name": "property_RangedTrueDamagePercentVsPlayerAtSop_city",
+      "name_placeholder": "PROPERTY_RANGEDTRUEDAMAGEPERCENTVSPLAYERATSOP_NAME",
+      "type": 2
+    },
+    {
+      "description_placeholder": "PROPERTY_RANGEDTRUEDAMAGEPERCENTVSPLAYERATSOP_DESC",
+      "id": "a768332f8fb9e639",
+      "image": "icon_damage.png",
+      "name": "property_RangedTrueDamagePercentVsPlayerAtSop_research",
+      "name_placeholder": "PROPERTY_RANGEDTRUEDAMAGEPERCENTVSPLAYERATSOP_NAME",
+      "type": 5
+    },
+    {
+      "description_placeholder": "PROPERTY_RANGEDTRUEDAMAGEPERCENTVSPLAYERATSOP_DESC",
+      "id": "f868516c9c839f10",
+      "image": "icon_damage.png",
+      "name": "property_RangedTrueDamagePercentVsPlayerAtSop_gear",
+      "name_placeholder": "PROPERTY_RANGEDTRUEDAMAGEPERCENTVSPLAYERATSOP_NAME",
+      "type": 4
+    },
+    {
+      "description_placeholder": "PROPERTY_RANGEDTRUEDAMAGEPERCENTVSPLAYERATSOP_DESC",
+      "id": "406d8491273814c3",
+      "image": "icon_damage.png",
+      "name": "property_RangedTrueDamagePercentVsPlayerAtSop_activity",
+      "name_placeholder": "PROPERTY_RANGEDTRUEDAMAGEPERCENTVSPLAYERATSOP_NAME",
+      "type": 9
+    },
+    {
+      "description_placeholder": "PROPERTY_RANGEDTRUEDAMAGEPERCENTVSPLAYERATSOP_DESC",
+      "id": "4e1012d207a9e25b",
+      "image": "icon_damage.png",
+      "name": "property_RangedTrueDamagePercentVsPlayerAtSop_hero",
+      "name_placeholder": "PROPERTY_RANGEDTRUEDAMAGEPERCENTVSPLAYERATSOP_NAME",
+      "type": 11
+    },
+    {
+      "description_placeholder": "PROPERTY_MOUNTEDTRUEDAMAGEPERCENTVSPLAYERATSOP_DESC",
+      "id": "86cb063cc944b39d",
+      "image": "icon_damage.png",
+      "name": "property_MountedTrueDamagePercentVsPlayerAtSop_city",
+      "name_placeholder": "PROPERTY_MOUNTEDTRUEDAMAGEPERCENTVSPLAYERATSOP_NAME",
+      "type": 2
+    },
+    {
+      "description_placeholder": "PROPERTY_MOUNTEDTRUEDAMAGEPERCENTVSPLAYERATSOP_DESC",
+      "id": "85a6c84850bff306",
+      "image": "icon_damage.png",
+      "name": "property_MountedTrueDamagePercentVsPlayerAtSop_research",
+      "name_placeholder": "PROPERTY_MOUNTEDTRUEDAMAGEPERCENTVSPLAYERATSOP_NAME",
+      "type": 5
+    },
+    {
+      "description_placeholder": "PROPERTY_MOUNTEDTRUEDAMAGEPERCENTVSPLAYERATSOP_DESC",
+      "id": "fb9d946de00fc5c5",
+      "image": "icon_damage.png",
+      "name": "property_MountedTrueDamagePercentVsPlayerAtSop_gear",
+      "name_placeholder": "PROPERTY_MOUNTEDTRUEDAMAGEPERCENTVSPLAYERATSOP_NAME",
+      "type": 4
+    },
+    {
+      "description_placeholder": "PROPERTY_MOUNTEDTRUEDAMAGEPERCENTVSPLAYERATSOP_DESC",
+      "id": "62a37ff6f83e01fc",
+      "image": "icon_damage.png",
+      "name": "property_MountedTrueDamagePercentVsPlayerAtSop_activity",
+      "name_placeholder": "PROPERTY_MOUNTEDTRUEDAMAGEPERCENTVSPLAYERATSOP_NAME",
+      "type": 9
+    },
+    {
+      "description_placeholder": "PROPERTY_MOUNTEDTRUEDAMAGEPERCENTVSPLAYERATSOP_DESC",
+      "id": "4de5d7d37b25b88e",
+      "image": "icon_damage.png",
+      "name": "property_MountedTrueDamagePercentVsPlayerAtSop_hero",
+      "name_placeholder": "PROPERTY_MOUNTEDTRUEDAMAGEPERCENTVSPLAYERATSOP_NAME",
+      "type": 11
+    },
+    {
+      "description_placeholder": "PROPERTY_SIEGETRUEDAMAGEPERCENTVSPLAYERATSOP_DESC",
+      "id": "dca260a77c36bc06",
+      "image": "icon_damage.png",
+      "name": "property_SiegeTrueDamagePercentVsPlayerAtSop_city",
+      "name_placeholder": "PROPERTY_SIEGETRUEDAMAGEPERCENTVSPLAYERATSOP_NAME",
+      "type": 2
+    },
+    {
+      "description_placeholder": "PROPERTY_SIEGETRUEDAMAGEPERCENTVSPLAYERATSOP_DESC",
+      "id": "e6bf2814f0f2433c",
+      "image": "icon_damage.png",
+      "name": "property_SiegeTrueDamagePercentVsPlayerAtSop_research",
+      "name_placeholder": "PROPERTY_SIEGETRUEDAMAGEPERCENTVSPLAYERATSOP_NAME",
+      "type": 5
+    },
+    {
+      "description_placeholder": "PROPERTY_SIEGETRUEDAMAGEPERCENTVSPLAYERATSOP_DESC",
+      "id": "a1f4f2f6557dca5e",
+      "image": "icon_damage.png",
+      "name": "property_SiegeTrueDamagePercentVsPlayerAtSop_gear",
+      "name_placeholder": "PROPERTY_SIEGETRUEDAMAGEPERCENTVSPLAYERATSOP_NAME",
+      "type": 4
+    },
+    {
+      "description_placeholder": "PROPERTY_SIEGETRUEDAMAGEPERCENTVSPLAYERATSOP_DESC",
+      "id": "1ba9faa5873b1c6",
+      "image": "icon_damage.png",
+      "name": "property_SiegeTrueDamagePercentVsPlayerAtSop_activity",
+      "name_placeholder": "PROPERTY_SIEGETRUEDAMAGEPERCENTVSPLAYERATSOP_NAME",
+      "type": 9
+    },
+    {
+      "description_placeholder": "PROPERTY_SIEGETRUEDAMAGEPERCENTVSPLAYERATSOP_DESC",
+      "id": "178cb148ce57b715",
+      "image": "icon_damage.png",
+      "name": "property_SiegeTrueDamagePercentVsPlayerAtSop_hero",
+      "name_placeholder": "PROPERTY_SIEGETRUEDAMAGEPERCENTVSPLAYERATSOP_NAME",
+      "type": 11
+    },
+    {
+      "description_placeholder": "PROPERTY_TROOPTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_DESC",
+      "id": "22d590b619c7f705",
+      "image": "icon_damage.png",
+      "name": "property_TroopTrueDamagePercentVsPlayerStrategicTerrain_city",
+      "name_placeholder": "PROPERTY_TROOPTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_NAME",
+      "type": 2
+    },
+    {
+      "description_placeholder": "PROPERTY_TROOPTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_DESC",
+      "id": "fb35cc1913dbb156",
+      "image": "icon_damage.png",
+      "name": "property_TroopTrueDamagePercentVsPlayerStrategicTerrain_research",
+      "name_placeholder": "PROPERTY_TROOPTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_NAME",
+      "type": 5
+    },
+    {
+      "description_placeholder": "PROPERTY_TROOPTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_DESC",
+      "id": "5f8302e7308c815d",
+      "image": "icon_damage.png",
+      "name": "property_TroopTrueDamagePercentVsPlayerStrategicTerrain_gear",
+      "name_placeholder": "PROPERTY_TROOPTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_NAME",
+      "type": 4
+    },
+    {
+      "description_placeholder": "PROPERTY_TROOPTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_DESC",
+      "id": "1c307ba7bb5a43ac",
+      "image": "icon_damage.png",
+      "name": "property_TroopTrueDamagePercentVsPlayerStrategicTerrain_activity",
+      "name_placeholder": "PROPERTY_TROOPTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_NAME",
+      "type": 9
+    },
+    {
+      "description_placeholder": "PROPERTY_TROOPTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_DESC",
+      "id": "e9fb4159aba6fc16",
+      "image": "icon_damage.png",
+      "name": "property_TroopTrueDamagePercentVsPlayerStrategicTerrain_hero",
+      "name_placeholder": "PROPERTY_TROOPTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_NAME",
+      "type": 11
+    },
+    {
+      "description_placeholder": "PROPERTY_INFANTRYTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_DESC",
+      "id": "34d7252e228b128d",
+      "image": "icon_damage.png",
+      "name": "property_InfantryTrueDamagePercentVsPlayerStrategicTerrain_city",
+      "name_placeholder": "PROPERTY_INFANTRYTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_NAME",
+      "type": 2
+    },
+    {
+      "description_placeholder": "PROPERTY_INFANTRYTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_DESC",
+      "id": "e02a9817bca326a4",
+      "image": "icon_damage.png",
+      "name": "property_InfantryTrueDamagePercentVsPlayerStrategicTerrain_research",
+      "name_placeholder": "PROPERTY_INFANTRYTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_NAME",
+      "type": 5
+    },
+    {
+      "description_placeholder": "PROPERTY_INFANTRYTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_DESC",
+      "id": "4981b77f0bc064d5",
+      "image": "icon_damage.png",
+      "name": "property_InfantryTrueDamagePercentVsPlayerStrategicTerrain_gear",
+      "name_placeholder": "PROPERTY_INFANTRYTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_NAME",
+      "type": 4
+    },
+    {
+      "description_placeholder": "PROPERTY_INFANTRYTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_DESC",
+      "id": "72f2fa91422d45e",
+      "image": "icon_damage.png",
+      "name": "property_InfantryTrueDamagePercentVsPlayerStrategicTerrain_activity",
+      "name_placeholder": "PROPERTY_INFANTRYTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_NAME",
+      "type": 9
+    },
+    {
+      "description_placeholder": "PROPERTY_INFANTRYTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_DESC",
+      "id": "fff9f4c190ea199e",
+      "image": "icon_damage.png",
+      "name": "property_InfantryTrueDamagePercentVsPlayerStrategicTerrain_hero",
+      "name_placeholder": "PROPERTY_INFANTRYTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_NAME",
+      "type": 11
+    },
+    {
+      "description_placeholder": "PROPERTY_RANGEDTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_DESC",
+      "id": "d5cb2c999a597904",
+      "image": "icon_damage.png",
+      "name": "property_RangedTrueDamagePercentVsPlayerStrategicTerrain_city",
+      "name_placeholder": "PROPERTY_RANGEDTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_NAME",
+      "type": 2
+    },
+    {
+      "description_placeholder": "PROPERTY_RANGEDTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_DESC",
+      "id": "83db00dccc871ef1",
+      "image": "icon_damage.png",
+      "name": "property_RangedTrueDamagePercentVsPlayerStrategicTerrain_research",
+      "name_placeholder": "PROPERTY_RANGEDTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_NAME",
+      "type": 5
+    },
+    {
+      "description_placeholder": "PROPERTY_RANGEDTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_DESC",
+      "id": "a89dbec8b3120f5c",
+      "image": "icon_damage.png",
+      "name": "property_RangedTrueDamagePercentVsPlayerStrategicTerrain_gear",
+      "name_placeholder": "PROPERTY_RANGEDTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_NAME",
+      "type": 4
+    },
+    {
+      "description_placeholder": "PROPERTY_RANGEDTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_DESC",
+      "id": "64deb7626406ec0b",
+      "image": "icon_damage.png",
+      "name": "property_RangedTrueDamagePercentVsPlayerStrategicTerrain_activity",
+      "name_placeholder": "PROPERTY_RANGEDTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_NAME",
+      "type": 9
+    },
+    {
+      "description_placeholder": "PROPERTY_RANGEDTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_DESC",
+      "id": "1ee5fd7628387217",
+      "image": "icon_damage.png",
+      "name": "property_RangedTrueDamagePercentVsPlayerStrategicTerrain_hero",
+      "name_placeholder": "PROPERTY_RANGEDTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_NAME",
+      "type": 11
+    },
+    {
+      "description_placeholder": "PROPERTY_MOUNTEDTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_DESC",
+      "id": "fe42ff6e2f9f6a86",
+      "image": "icon_damage.png",
+      "name": "property_MountedTrueDamagePercentVsPlayerStrategicTerrain_city",
+      "name_placeholder": "PROPERTY_MOUNTEDTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_NAME",
+      "type": 2
+    },
+    {
+      "description_placeholder": "PROPERTY_MOUNTEDTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_DESC",
+      "id": "15f89b2692e98376",
+      "image": "icon_damage.png",
+      "name": "property_MountedTrueDamagePercentVsPlayerStrategicTerrain_research",
+      "name_placeholder": "PROPERTY_MOUNTEDTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_NAME",
+      "type": 5
+    },
+    {
+      "description_placeholder": "PROPERTY_MOUNTEDTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_DESC",
+      "id": "83146d3f06d41cde",
+      "image": "icon_damage.png",
+      "name": "property_MountedTrueDamagePercentVsPlayerStrategicTerrain_gear",
+      "name_placeholder": "PROPERTY_MOUNTEDTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_NAME",
+      "type": 4
+    },
+    {
+      "description_placeholder": "PROPERTY_MOUNTEDTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_DESC",
+      "id": "f2fd2c983a68718c",
+      "image": "icon_damage.png",
+      "name": "property_MountedTrueDamagePercentVsPlayerStrategicTerrain_activity",
+      "name_placeholder": "PROPERTY_MOUNTEDTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_NAME",
+      "type": 9
+    },
+    {
+      "description_placeholder": "PROPERTY_MOUNTEDTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_DESC",
+      "id": "356c2e819dfe6195",
+      "image": "icon_damage.png",
+      "name": "property_MountedTrueDamagePercentVsPlayerStrategicTerrain_hero",
+      "name_placeholder": "PROPERTY_MOUNTEDTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_NAME",
+      "type": 11
+    },
+    {
+      "description_placeholder": "PROPERTY_SIEGETRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_DESC",
+      "id": "e1a8f34c610961f0",
+      "image": "icon_damage.png",
+      "name": "property_SiegeTrueDamagePercentVsPlayerStrategicTerrain_city",
+      "name_placeholder": "PROPERTY_SIEGETRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_NAME",
+      "type": 2
+    },
+    {
+      "description_placeholder": "PROPERTY_SIEGETRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_DESC",
+      "id": "7b249e3b126692a4",
+      "image": "icon_damage.png",
+      "name": "property_SiegeTrueDamagePercentVsPlayerStrategicTerrain_research",
+      "name_placeholder": "PROPERTY_SIEGETRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_NAME",
+      "type": 5
+    },
+    {
+      "description_placeholder": "PROPERTY_SIEGETRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_DESC",
+      "id": "9cfe611d484217a8",
+      "image": "icon_damage.png",
+      "name": "property_SiegeTrueDamagePercentVsPlayerStrategicTerrain_gear",
+      "name_placeholder": "PROPERTY_SIEGETRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_NAME",
+      "type": 4
+    },
+    {
+      "description_placeholder": "PROPERTY_SIEGETRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_DESC",
+      "id": "9c212985bae7605e",
+      "image": "icon_damage.png",
+      "name": "property_SiegeTrueDamagePercentVsPlayerStrategicTerrain_activity",
+      "name_placeholder": "PROPERTY_SIEGETRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_NAME",
+      "type": 9
+    },
+    {
+      "description_placeholder": "PROPERTY_SIEGETRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_DESC",
+      "id": "2a8622a3d3686ae3",
+      "image": "icon_damage.png",
+      "name": "property_SiegeTrueDamagePercentVsPlayerStrategicTerrain_hero",
+      "name_placeholder": "PROPERTY_SIEGETRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_NAME",
+      "type": 11
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERTROOPTRUEDAMAGEPERCENTVSPLAYER_DESC",
+      "id": "f941dcdb162907f7",
+      "image": "icon_damage.png",
+      "name": "property_MarcherTroopTrueDamagePercentVsPlayer_city",
+      "name_placeholder": "PROPERTY_MARCHERTROOPTRUEDAMAGEPERCENTVSPLAYER_NAME",
+      "type": 2
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERTROOPTRUEDAMAGEPERCENTVSPLAYER_DESC",
+      "id": "ae4708aea4c741fe",
+      "image": "icon_damage.png",
+      "name": "property_MarcherTroopTrueDamagePercentVsPlayer_research",
+      "name_placeholder": "PROPERTY_MARCHERTROOPTRUEDAMAGEPERCENTVSPLAYER_NAME",
+      "type": 5
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERTROOPTRUEDAMAGEPERCENTVSPLAYER_DESC",
+      "id": "84174e8a3f6271af",
+      "image": "icon_damage.png",
+      "name": "property_MarcherTroopTrueDamagePercentVsPlayer_gear",
+      "name_placeholder": "PROPERTY_MARCHERTROOPTRUEDAMAGEPERCENTVSPLAYER_NAME",
+      "type": 4
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERTROOPTRUEDAMAGEPERCENTVSPLAYER_DESC",
+      "id": "4942bf100c46b304",
+      "image": "icon_damage.png",
+      "name": "property_MarcherTroopTrueDamagePercentVsPlayer_activity",
+      "name_placeholder": "PROPERTY_MARCHERTROOPTRUEDAMAGEPERCENTVSPLAYER_NAME",
+      "type": 9
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERTROOPTRUEDAMAGEPERCENTVSPLAYER_DESC",
+      "id": "326f0d34a4480ce4",
+      "image": "icon_damage.png",
+      "name": "property_MarcherTroopTrueDamagePercentVsPlayer_hero",
+      "name_placeholder": "PROPERTY_MARCHERTROOPTRUEDAMAGEPERCENTVSPLAYER_NAME",
+      "type": 11
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERINFANTRYTRUEDAMAGEPERCENTVSPLAYER_DESC",
+      "id": "f5ecb2edfa726df5",
+      "image": "icon_damage.png",
+      "name": "property_MarcherInfantryTrueDamagePercentVsPlayer_city",
+      "name_placeholder": "PROPERTY_MARCHERINFANTRYTRUEDAMAGEPERCENTVSPLAYER_NAME",
+      "type": 2
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERINFANTRYTRUEDAMAGEPERCENTVSPLAYER_DESC",
+      "id": "eb2d6e72e239f28f",
+      "image": "icon_damage.png",
+      "name": "property_MarcherInfantryTrueDamagePercentVsPlayer_research",
+      "name_placeholder": "PROPERTY_MARCHERINFANTRYTRUEDAMAGEPERCENTVSPLAYER_NAME",
+      "type": 5
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERINFANTRYTRUEDAMAGEPERCENTVSPLAYER_DESC",
+      "id": "88ba20bcd3391bad",
+      "image": "icon_damage.png",
+      "name": "property_MarcherInfantryTrueDamagePercentVsPlayer_gear",
+      "name_placeholder": "PROPERTY_MARCHERINFANTRYTRUEDAMAGEPERCENTVSPLAYER_NAME",
+      "type": 4
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERINFANTRYTRUEDAMAGEPERCENTVSPLAYER_DESC",
+      "id": "c28d9cc4ab80075",
+      "image": "icon_damage.png",
+      "name": "property_MarcherInfantryTrueDamagePercentVsPlayer_activity",
+      "name_placeholder": "PROPERTY_MARCHERINFANTRYTRUEDAMAGEPERCENTVSPLAYER_NAME",
+      "type": 9
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERINFANTRYTRUEDAMAGEPERCENTVSPLAYER_DESC",
+      "id": "3ec26302481366e6",
+      "image": "icon_damage.png",
+      "name": "property_MarcherInfantryTrueDamagePercentVsPlayer_hero",
+      "name_placeholder": "PROPERTY_MARCHERINFANTRYTRUEDAMAGEPERCENTVSPLAYER_NAME",
+      "type": 11
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERRANGEDTRUEDAMAGEPERCENTVSPLAYER_DESC",
+      "id": "14ff679751d3eb4",
+      "image": "icon_damage.png",
+      "name": "property_MarcherRangedTrueDamagePercentVsPlayer_city",
+      "name_placeholder": "PROPERTY_MARCHERRANGEDTRUEDAMAGEPERCENTVSPLAYER_NAME",
+      "type": 2
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERRANGEDTRUEDAMAGEPERCENTVSPLAYER_DESC",
+      "id": "54d63fdce43f7db4",
+      "image": "icon_damage.png",
+      "name": "property_MarcherRangedTrueDamagePercentVsPlayer_research",
+      "name_placeholder": "PROPERTY_MARCHERRANGEDTRUEDAMAGEPERCENTVSPLAYER_NAME",
+      "type": 5
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERRANGEDTRUEDAMAGEPERCENTVSPLAYER_DESC",
+      "id": "7c1964285c5648ec",
+      "image": "icon_damage.png",
+      "name": "property_MarcherRangedTrueDamagePercentVsPlayer_gear",
+      "name_placeholder": "PROPERTY_MARCHERRANGEDTRUEDAMAGEPERCENTVSPLAYER_NAME",
+      "type": 4
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERRANGEDTRUEDAMAGEPERCENTVSPLAYER_DESC",
+      "id": "b3d388624cbe8f4e",
+      "image": "icon_damage.png",
+      "name": "property_MarcherRangedTrueDamagePercentVsPlayer_activity",
+      "name_placeholder": "PROPERTY_MARCHERRANGEDTRUEDAMAGEPERCENTVSPLAYER_NAME",
+      "type": 9
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERRANGEDTRUEDAMAGEPERCENTVSPLAYER_DESC",
+      "id": "ca612796c77c35a7",
+      "image": "icon_damage.png",
+      "name": "property_MarcherRangedTrueDamagePercentVsPlayer_hero",
+      "name_placeholder": "PROPERTY_MARCHERRANGEDTRUEDAMAGEPERCENTVSPLAYER_NAME",
+      "type": 11
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERMOUNTEDTRUEDAMAGEPERCENTVSPLAYER_DESC",
+      "id": "733e571cd0dc8c14",
+      "image": "icon_damage.png",
+      "name": "property_MarcherMountedTrueDamagePercentVsPlayer_city",
+      "name_placeholder": "PROPERTY_MARCHERMOUNTEDTRUEDAMAGEPERCENTVSPLAYER_NAME",
+      "type": 2
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERMOUNTEDTRUEDAMAGEPERCENTVSPLAYER_DESC",
+      "id": "fde87e3f80ed3400",
+      "image": "icon_damage.png",
+      "name": "property_MarcherMountedTrueDamagePercentVsPlayer_research",
+      "name_placeholder": "PROPERTY_MARCHERMOUNTEDTRUEDAMAGEPERCENTVSPLAYER_NAME",
+      "type": 5
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERMOUNTEDTRUEDAMAGEPERCENTVSPLAYER_DESC",
+      "id": "e68c54df997fa4c",
+      "image": "icon_damage.png",
+      "name": "property_MarcherMountedTrueDamagePercentVsPlayer_gear",
+      "name_placeholder": "PROPERTY_MARCHERMOUNTEDTRUEDAMAGEPERCENTVSPLAYER_NAME",
+      "type": 4
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERMOUNTEDTRUEDAMAGEPERCENTVSPLAYER_DESC",
+      "id": "1aedc981286cc6fa",
+      "image": "icon_damage.png",
+      "name": "property_MarcherMountedTrueDamagePercentVsPlayer_activity",
+      "name_placeholder": "PROPERTY_MARCHERMOUNTEDTRUEDAMAGEPERCENTVSPLAYER_NAME",
+      "type": 9
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERMOUNTEDTRUEDAMAGEPERCENTVSPLAYER_DESC",
+      "id": "b81086f362bd8707",
+      "image": "icon_damage.png",
+      "name": "property_MarcherMountedTrueDamagePercentVsPlayer_hero",
+      "name_placeholder": "PROPERTY_MARCHERMOUNTEDTRUEDAMAGEPERCENTVSPLAYER_NAME",
+      "type": 11
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERSIEGETRUEDAMAGEPERCENTVSPLAYER_DESC",
+      "id": "69272129c74ce7f7",
+      "image": "icon_damage.png",
+      "name": "property_MarcherSiegeTrueDamagePercentVsPlayer_city",
+      "name_placeholder": "PROPERTY_MARCHERSIEGETRUEDAMAGEPERCENTVSPLAYER_NAME",
+      "type": 2
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERSIEGETRUEDAMAGEPERCENTVSPLAYER_DESC",
+      "id": "47b1d06ecc68d1b4",
+      "image": "icon_damage.png",
+      "name": "property_MarcherSiegeTrueDamagePercentVsPlayer_research",
+      "name_placeholder": "PROPERTY_MARCHERSIEGETRUEDAMAGEPERCENTVSPLAYER_NAME",
+      "type": 5
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERSIEGETRUEDAMAGEPERCENTVSPLAYER_DESC",
+      "id": "1471b378ee0791af",
+      "image": "icon_damage.png",
+      "name": "property_MarcherSiegeTrueDamagePercentVsPlayer_gear",
+      "name_placeholder": "PROPERTY_MARCHERSIEGETRUEDAMAGEPERCENTVSPLAYER_NAME",
+      "type": 4
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERSIEGETRUEDAMAGEPERCENTVSPLAYER_DESC",
+      "id": "a0b467d064e9234e",
+      "image": "icon_damage.png",
+      "name": "property_MarcherSiegeTrueDamagePercentVsPlayer_activity",
+      "name_placeholder": "PROPERTY_MARCHERSIEGETRUEDAMAGEPERCENTVSPLAYER_NAME",
+      "type": 9
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERSIEGETRUEDAMAGEPERCENTVSPLAYER_DESC",
+      "id": "a209f0c6752dece4",
+      "image": "icon_damage.png",
+      "name": "property_MarcherSiegeTrueDamagePercentVsPlayer_hero",
+      "name_placeholder": "PROPERTY_MARCHERSIEGETRUEDAMAGEPERCENTVSPLAYER_NAME",
+      "type": 11
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERTROOPTRUEDAMAGEPERCENTVSPLAYERATSOP_DESC",
+      "id": "30f802342e1a8024",
+      "image": "icon_damage.png",
+      "name": "property_MarcherTroopTrueDamagePercentVsPlayerAtSop_city",
+      "name_placeholder": "PROPERTY_MARCHERTROOPTRUEDAMAGEPERCENTVSPLAYERATSOP_NAME",
+      "type": 2
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERTROOPTRUEDAMAGEPERCENTVSPLAYERATSOP_DESC",
+      "id": "2f5db11642ea0df1",
+      "image": "icon_damage.png",
+      "name": "property_MarcherTroopTrueDamagePercentVsPlayerAtSop_research",
+      "name_placeholder": "PROPERTY_MARCHERTROOPTRUEDAMAGEPERCENTVSPLAYERATSOP_NAME",
+      "type": 5
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERTROOPTRUEDAMAGEPERCENTVSPLAYERATSOP_DESC",
+      "id": "4dae90650751f67c",
+      "image": "icon_damage.png",
+      "name": "property_MarcherTroopTrueDamagePercentVsPlayerAtSop_gear",
+      "name_placeholder": "PROPERTY_MARCHERTROOPTRUEDAMAGEPERCENTVSPLAYERATSOP_NAME",
+      "type": 4
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERTROOPTRUEDAMAGEPERCENTVSPLAYERATSOP_DESC",
+      "id": "c85806a8ea6bff0b",
+      "image": "icon_damage.png",
+      "name": "property_MarcherTroopTrueDamagePercentVsPlayerAtSop_activity",
+      "name_placeholder": "PROPERTY_MARCHERTROOPTRUEDAMAGEPERCENTVSPLAYERATSOP_NAME",
+      "type": 9
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERTROOPTRUEDAMAGEPERCENTVSPLAYERATSOP_DESC",
+      "id": "fbd6d3db9c7b8b37",
+      "image": "icon_damage.png",
+      "name": "property_MarcherTroopTrueDamagePercentVsPlayerAtSop_hero",
+      "name_placeholder": "PROPERTY_MARCHERTROOPTRUEDAMAGEPERCENTVSPLAYERATSOP_NAME",
+      "type": 11
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERINFANTRYTRUEDAMAGEPERCENTVSPLAYERATSOP_DESC",
+      "id": "64c9974e43fe0855",
+      "image": "icon_damage.png",
+      "name": "property_MarcherInfantryTrueDamagePercentVsPlayerAtSop_city",
+      "name_placeholder": "PROPERTY_MARCHERINFANTRYTRUEDAMAGEPERCENTVSPLAYERATSOP_NAME",
+      "type": 2
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERINFANTRYTRUEDAMAGEPERCENTVSPLAYERATSOP_DESC",
+      "id": "344a31c235bb8809",
+      "image": "icon_damage.png",
+      "name": "property_MarcherInfantryTrueDamagePercentVsPlayerAtSop_research",
+      "name_placeholder": "PROPERTY_MARCHERINFANTRYTRUEDAMAGEPERCENTVSPLAYERATSOP_NAME",
+      "type": 5
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERINFANTRYTRUEDAMAGEPERCENTVSPLAYERATSOP_DESC",
+      "id": "199f051f6ab57e0d",
+      "image": "icon_damage.png",
+      "name": "property_MarcherInfantryTrueDamagePercentVsPlayerAtSop_gear",
+      "name_placeholder": "PROPERTY_MARCHERINFANTRYTRUEDAMAGEPERCENTVSPLAYERATSOP_NAME",
+      "type": 4
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERINFANTRYTRUEDAMAGEPERCENTVSPLAYERATSOP_DESC",
+      "id": "d34f867c9d3a7af3",
+      "image": "icon_damage.png",
+      "name": "property_MarcherInfantryTrueDamagePercentVsPlayerAtSop_activity",
+      "name_placeholder": "PROPERTY_MARCHERINFANTRYTRUEDAMAGEPERCENTVSPLAYERATSOP_NAME",
+      "type": 9
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERINFANTRYTRUEDAMAGEPERCENTVSPLAYERATSOP_DESC",
+      "id": "afe746a1f19f0346",
+      "image": "icon_damage.png",
+      "name": "property_MarcherInfantryTrueDamagePercentVsPlayerAtSop_hero",
+      "name_placeholder": "PROPERTY_MARCHERINFANTRYTRUEDAMAGEPERCENTVSPLAYERATSOP_NAME",
+      "type": 11
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERRANGEDTRUEDAMAGEPERCENTVSPLAYERATSOP_DESC",
+      "id": "2d26aaa937756f48",
+      "image": "icon_damage.png",
+      "name": "property_MarcherRangedTrueDamagePercentVsPlayerAtSop_city",
+      "name_placeholder": "PROPERTY_MARCHERRANGEDTRUEDAMAGEPERCENTVSPLAYERATSOP_NAME",
+      "type": 2
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERRANGEDTRUEDAMAGEPERCENTVSPLAYERATSOP_DESC",
+      "id": "9e1becd8e03c83d",
+      "image": "icon_damage.png",
+      "name": "property_MarcherRangedTrueDamagePercentVsPlayerAtSop_research",
+      "name_placeholder": "PROPERTY_MARCHERRANGEDTRUEDAMAGEPERCENTVSPLAYERATSOP_NAME",
+      "type": 5
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERRANGEDTRUEDAMAGEPERCENTVSPLAYERATSOP_DESC",
+      "id": "507038f81e3e1910",
+      "image": "icon_damage.png",
+      "name": "property_MarcherRangedTrueDamagePercentVsPlayerAtSop_gear",
+      "name_placeholder": "PROPERTY_MARCHERRANGEDTRUEDAMAGEPERCENTVSPLAYERATSOP_NAME",
+      "type": 4
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERRANGEDTRUEDAMAGEPERCENTVSPLAYERATSOP_DESC",
+      "id": "eee4097326823ac7",
+      "image": "icon_damage.png",
+      "name": "property_MarcherRangedTrueDamagePercentVsPlayerAtSop_activity",
+      "name_placeholder": "PROPERTY_MARCHERRANGEDTRUEDAMAGEPERCENTVSPLAYERATSOP_NAME",
+      "type": 9
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERRANGEDTRUEDAMAGEPERCENTVSPLAYERATSOP_DESC",
+      "id": "e6087b468514645b",
+      "image": "icon_damage.png",
+      "name": "property_MarcherRangedTrueDamagePercentVsPlayerAtSop_hero",
+      "name_placeholder": "PROPERTY_MARCHERRANGEDTRUEDAMAGEPERCENTVSPLAYERATSOP_NAME",
+      "type": 11
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERMOUNTEDTRUEDAMAGEPERCENTVSPLAYERATSOP_DESC",
+      "id": "86631e555dc60e1b",
+      "image": "icon_damage.png",
+      "name": "property_MarcherMountedTrueDamagePercentVsPlayerAtSop_city",
+      "name_placeholder": "PROPERTY_MARCHERMOUNTEDTRUEDAMAGEPERCENTVSPLAYERATSOP_NAME",
+      "type": 2
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERMOUNTEDTRUEDAMAGEPERCENTVSPLAYERATSOP_DESC",
+      "id": "36cf6f5f6ff30ec0",
+      "image": "icon_damage.png",
+      "name": "property_MarcherMountedTrueDamagePercentVsPlayerAtSop_research",
+      "name_placeholder": "PROPERTY_MARCHERMOUNTEDTRUEDAMAGEPERCENTVSPLAYERATSOP_NAME",
+      "type": 5
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERMOUNTEDTRUEDAMAGEPERCENTVSPLAYERATSOP_DESC",
+      "id": "fb358c04748d7843",
+      "image": "icon_damage.png",
+      "name": "property_MarcherMountedTrueDamagePercentVsPlayerAtSop_gear",
+      "name_placeholder": "PROPERTY_MARCHERMOUNTEDTRUEDAMAGEPERCENTVSPLAYERATSOP_NAME",
+      "type": 4
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERMOUNTEDTRUEDAMAGEPERCENTVSPLAYERATSOP_DESC",
+      "id": "d1cad8e1c772fc3a",
+      "image": "icon_damage.png",
+      "name": "property_MarcherMountedTrueDamagePercentVsPlayerAtSop_activity",
+      "name_placeholder": "PROPERTY_MARCHERMOUNTEDTRUEDAMAGEPERCENTVSPLAYERATSOP_NAME",
+      "type": 9
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERMOUNTEDTRUEDAMAGEPERCENTVSPLAYERATSOP_DESC",
+      "id": "4d4dcfbaefa70508",
+      "image": "icon_damage.png",
+      "name": "property_MarcherMountedTrueDamagePercentVsPlayerAtSop_hero",
+      "name_placeholder": "PROPERTY_MARCHERMOUNTEDTRUEDAMAGEPERCENTVSPLAYERATSOP_NAME",
+      "type": 11
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERSIEGETRUEDAMAGEPERCENTVSPLAYERATSOP_DESC",
+      "id": "2d35cd46855d38e4",
+      "image": "icon_damage.png",
+      "name": "property_MarcherSiegeTrueDamagePercentVsPlayerAtSop_city",
+      "name_placeholder": "PROPERTY_MARCHERSIEGETRUEDAMAGEPERCENTVSPLAYERATSOP_NAME",
+      "type": 2
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERSIEGETRUEDAMAGEPERCENTVSPLAYERATSOP_DESC",
+      "id": "8c25faa3288cff72",
+      "image": "icon_damage.png",
+      "name": "property_MarcherSiegeTrueDamagePercentVsPlayerAtSop_research",
+      "name_placeholder": "PROPERTY_MARCHERSIEGETRUEDAMAGEPERCENTVSPLAYERATSOP_NAME",
+      "type": 5
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERSIEGETRUEDAMAGEPERCENTVSPLAYERATSOP_DESC",
+      "id": "50635f17ac164ebc",
+      "image": "icon_damage.png",
+      "name": "property_MarcherSiegeTrueDamagePercentVsPlayerAtSop_gear",
+      "name_placeholder": "PROPERTY_MARCHERSIEGETRUEDAMAGEPERCENTVSPLAYERATSOP_NAME",
+      "type": 4
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERSIEGETRUEDAMAGEPERCENTVSPLAYERATSOP_DESC",
+      "id": "6b204d1d800d0d88",
+      "image": "icon_damage.png",
+      "name": "property_MarcherSiegeTrueDamagePercentVsPlayerAtSop_activity",
+      "name_placeholder": "PROPERTY_MARCHERSIEGETRUEDAMAGEPERCENTVSPLAYERATSOP_NAME",
+      "type": 9
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERSIEGETRUEDAMAGEPERCENTVSPLAYERATSOP_DESC",
+      "id": "e61b1ca9373c33f7",
+      "image": "icon_damage.png",
+      "name": "property_MarcherSiegeTrueDamagePercentVsPlayerAtSop_hero",
+      "name_placeholder": "PROPERTY_MARCHERSIEGETRUEDAMAGEPERCENTVSPLAYERATSOP_NAME",
+      "type": 11
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERTROOPTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_DESC",
+      "id": "94b72721a7c7e2cb",
+      "image": "icon_damage.png",
+      "name": "property_MarcherTroopTrueDamagePercentVsPlayerStrategicTerrain_city",
+      "name_placeholder": "PROPERTY_MARCHERTROOPTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_NAME",
+      "type": 2
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERTROOPTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_DESC",
+      "id": "dffcbf4533b39d1e",
+      "image": "icon_damage.png",
+      "name": "property_MarcherTroopTrueDamagePercentVsPlayerStrategicTerrain_research",
+      "name_placeholder": "PROPERTY_MARCHERTROOPTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_NAME",
+      "type": 5
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERTROOPTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_DESC",
+      "id": "e9e1b5708e8c9493",
+      "image": "icon_damage.png",
+      "name": "property_MarcherTroopTrueDamagePercentVsPlayerStrategicTerrain_gear",
+      "name_placeholder": "PROPERTY_MARCHERTROOPTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_NAME",
+      "type": 4
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERTROOPTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_DESC",
+      "id": "38f908fb9b326fe4",
+      "image": "icon_damage.png",
+      "name": "property_MarcherTroopTrueDamagePercentVsPlayerStrategicTerrain_activity",
+      "name_placeholder": "PROPERTY_MARCHERTROOPTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_NAME",
+      "type": 9
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERTROOPTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_DESC",
+      "id": "5f99f6ce15a6e9d8",
+      "image": "icon_damage.png",
+      "name": "property_MarcherTroopTrueDamagePercentVsPlayerStrategicTerrain_hero",
+      "name_placeholder": "PROPERTY_MARCHERTROOPTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_NAME",
+      "type": 11
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERINFANTRYTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_DESC",
+      "id": "949a0359a8c03405",
+      "image": "icon_damage.png",
+      "name": "property_MarcherInfantryTrueDamagePercentVsPlayerStrategicTerrain_city",
+      "name_placeholder": "PROPERTY_MARCHERINFANTRYTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_NAME",
+      "type": 2
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERINFANTRYTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_DESC",
+      "id": "a1c686a09b5cca6c",
+      "image": "icon_damage.png",
+      "name": "property_MarcherInfantryTrueDamagePercentVsPlayerStrategicTerrain_research",
+      "name_placeholder": "PROPERTY_MARCHERINFANTRYTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_NAME",
+      "type": 5
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERINFANTRYTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_DESC",
+      "id": "e9cc9108818b425d",
+      "image": "icon_damage.png",
+      "name": "property_MarcherInfantryTrueDamagePercentVsPlayerStrategicTerrain_gear",
+      "name_placeholder": "PROPERTY_MARCHERINFANTRYTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_NAME",
+      "type": 4
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERINFANTRYTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_DESC",
+      "id": "46c3311e33dd3896",
+      "image": "icon_damage.png",
+      "name": "property_MarcherInfantryTrueDamagePercentVsPlayerStrategicTerrain_activity",
+      "name_placeholder": "PROPERTY_MARCHERINFANTRYTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_NAME",
+      "type": 9
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERINFANTRYTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_DESC",
+      "id": "5fb4d2b61aa13f16",
+      "image": "icon_damage.png",
+      "name": "property_MarcherInfantryTrueDamagePercentVsPlayerStrategicTerrain_hero",
+      "name_placeholder": "PROPERTY_MARCHERINFANTRYTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_NAME",
+      "type": 11
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERRANGEDTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_DESC",
+      "id": "bac378241f528e3c",
+      "image": "icon_damage.png",
+      "name": "property_MarcherRangedTrueDamagePercentVsPlayerStrategicTerrain_city",
+      "name_placeholder": "PROPERTY_MARCHERRANGEDTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_NAME",
+      "type": 2
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERRANGEDTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_DESC",
+      "id": "c7386748952ec279",
+      "image": "icon_damage.png",
+      "name": "property_MarcherRangedTrueDamagePercentVsPlayerStrategicTerrain_research",
+      "name_placeholder": "PROPERTY_MARCHERRANGEDTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_NAME",
+      "type": 5
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERRANGEDTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_DESC",
+      "id": "c795ea753619f864",
+      "image": "icon_damage.png",
+      "name": "property_MarcherRangedTrueDamagePercentVsPlayerStrategicTerrain_gear",
+      "name_placeholder": "PROPERTY_MARCHERRANGEDTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_NAME",
+      "type": 4
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERRANGEDTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_DESC",
+      "id": "203dd0f63daf3083",
+      "image": "icon_damage.png",
+      "name": "property_MarcherRangedTrueDamagePercentVsPlayerStrategicTerrain_activity",
+      "name_placeholder": "PROPERTY_MARCHERRANGEDTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_NAME",
+      "type": 9
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERRANGEDTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_DESC",
+      "id": "71eda9cbad33852f",
+      "image": "icon_damage.png",
+      "name": "property_MarcherRangedTrueDamagePercentVsPlayerStrategicTerrain_hero",
+      "name_placeholder": "PROPERTY_MARCHERRANGEDTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_NAME",
+      "type": 11
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERMOUNTEDTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_DESC",
+      "id": "c26f6d679162f2ed",
+      "image": "icon_damage.png",
+      "name": "property_MarcherMountedTrueDamagePercentVsPlayerStrategicTerrain_city",
+      "name_placeholder": "PROPERTY_MARCHERMOUNTEDTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_NAME",
+      "type": 2
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERMOUNTEDTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_DESC",
+      "id": "31d5463b51524dc4",
+      "image": "icon_damage.png",
+      "name": "property_MarcherMountedTrueDamagePercentVsPlayerStrategicTerrain_research",
+      "name_placeholder": "PROPERTY_MARCHERMOUNTEDTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_NAME",
+      "type": 5
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERMOUNTEDTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_DESC",
+      "id": "bf39ff36b82984b5",
+      "image": "icon_damage.png",
+      "name": "property_MarcherMountedTrueDamagePercentVsPlayerStrategicTerrain_gear",
+      "name_placeholder": "PROPERTY_MARCHERMOUNTEDTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_NAME",
+      "type": 4
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERMOUNTEDTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_DESC",
+      "id": "d6d0f185f9d3bf3e",
+      "image": "icon_damage.png",
+      "name": "property_MarcherMountedTrueDamagePercentVsPlayerStrategicTerrain_activity",
+      "name_placeholder": "PROPERTY_MARCHERMOUNTEDTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_NAME",
+      "type": 9
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERMOUNTEDTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_DESC",
+      "id": "941bc882303f9fe",
+      "image": "icon_damage.png",
+      "name": "property_MarcherMountedTrueDamagePercentVsPlayerStrategicTerrain_hero",
+      "name_placeholder": "PROPERTY_MARCHERMOUNTEDTRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_NAME",
+      "type": 11
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERSIEGETRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_DESC",
+      "id": "57ca44dbdf09743e",
+      "image": "icon_damage.png",
+      "name": "property_MarcherSiegeTrueDamagePercentVsPlayerStrategicTerrain_city",
+      "name_placeholder": "PROPERTY_MARCHERSIEGETRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_NAME",
+      "type": 2
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERSIEGETRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_DESC",
+      "id": "5feded67320ebeec",
+      "image": "icon_damage.png",
+      "name": "property_MarcherSiegeTrueDamagePercentVsPlayerStrategicTerrain_research",
+      "name_placeholder": "PROPERTY_MARCHERSIEGETRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_NAME",
+      "type": 5
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERSIEGETRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_DESC",
+      "id": "2a9cd68af6420266",
+      "image": "icon_damage.png",
+      "name": "property_MarcherSiegeTrueDamagePercentVsPlayerStrategicTerrain_gear",
+      "name_placeholder": "PROPERTY_MARCHERSIEGETRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_NAME",
+      "type": 4
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERSIEGETRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_DESC",
+      "id": "b8e85ad99a8f4c16",
+      "image": "icon_damage.png",
+      "name": "property_MarcherSiegeTrueDamagePercentVsPlayerStrategicTerrain_activity",
+      "name_placeholder": "PROPERTY_MARCHERSIEGETRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_NAME",
+      "type": 9
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERSIEGETRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_DESC",
+      "id": "9ce495346d687f2d",
+      "image": "icon_damage.png",
+      "name": "property_MarcherSiegeTrueDamagePercentVsPlayerStrategicTerrain_hero",
+      "name_placeholder": "PROPERTY_MARCHERSIEGETRUEDAMAGEPERCENTVSPLAYERSTRATEGICTERRAIN_NAME",
+      "type": 11
+    },
+    {
       "description_placeholder": "PROPERTY_DEFENDERTROOPATTACKVSPLAYERSTRATEGICTERRAIN_DESC",
       "id": "9ca804719bc3d7e0",
       "image": "dragon_talent_hatchling_troop_attack.png",
@@ -74412,7 +75612,7 @@
     {
       "description_placeholder": "PROPERTY_RANGEDDEFENSEVSPLAYERSTRATEGICTERRAINSINFANTRY_DESC",
       "id": "f0f795ea102b5122",
-      "image": "",
+      "image": "icon_research_adv_rangedDefense_v_pvp.png",
       "name": "property_RangedDefenseVsPlayerStrategicTerrainsInfantry_research",
       "name_placeholder": "PROPERTY_RANGEDDEFENSEVSPLAYERSTRATEGICTERRAINSINFANTRY_NAME",
       "type": 5
@@ -74420,7 +75620,7 @@
     {
       "description_placeholder": "PROPERTY_RANGEDDEFENSEVSPLAYERSTRATEGICTERRAINSINFANTRY_DESC",
       "id": "e890d79fefb03a69",
-      "image": "",
+      "image": "icon_research_adv_rangedDefense_v_pvp.png",
       "name": "property_RangedDefenseVsPlayerStrategicTerrainsInfantry_talent",
       "name_placeholder": "PROPERTY_RANGEDDEFENSEVSPLAYERSTRATEGICTERRAINSINFANTRY_NAME",
       "type": 7
@@ -74428,7 +75628,7 @@
     {
       "description_placeholder": "PROPERTY_RANGEDDEFENSEVSPLAYERSTRATEGICTERRAINSINFANTRY_DESC",
       "id": "e0e6d6fb6188ca5d",
-      "image": "",
+      "image": "icon_research_adv_rangedDefense_v_pvp.png",
       "name": "property_RangedDefenseVsPlayerStrategicTerrainsInfantry_gear",
       "name_placeholder": "PROPERTY_RANGEDDEFENSEVSPLAYERSTRATEGICTERRAINSINFANTRY_NAME",
       "type": 4
@@ -74436,7 +75636,7 @@
     {
       "description_placeholder": "PROPERTY_RANGEDDEFENSEVSPLAYERSTRATEGICTERRAINSINFANTRY_DESC",
       "id": "78e04619a9db89a4",
-      "image": "",
+      "image": "icon_research_adv_rangedDefense_v_pvp.png",
       "name": "property_RangedDefenseVsPlayerStrategicTerrainsInfantry_consumable",
       "name_placeholder": "PROPERTY_RANGEDDEFENSEVSPLAYERSTRATEGICTERRAINSINFANTRY_NAME",
       "type": 3
@@ -74444,7 +75644,7 @@
     {
       "description_placeholder": "PROPERTY_RANGEDDEFENSEVSPLAYERSTRATEGICTERRAINSINFANTRY_DESC",
       "id": "af80f346234176b0",
-      "image": "",
+      "image": "icon_research_adv_rangedDefense_v_pvp.png",
       "name": "property_RangedDefenseVsPlayerStrategicTerrainsInfantry_seatofpower",
       "name_placeholder": "PROPERTY_RANGEDDEFENSEVSPLAYERSTRATEGICTERRAINSINFANTRY_NAME",
       "type": 6
@@ -74452,7 +75652,7 @@
     {
       "description_placeholder": "PROPERTY_RANGEDDEFENSEVSPLAYERSTRATEGICTERRAINSINFANTRY_DESC",
       "id": "17f22254b8aaa3d8",
-      "image": "",
+      "image": "icon_research_adv_rangedDefense_v_pvp.png",
       "name": "property_RangedDefenseVsPlayerStrategicTerrainsInfantry_activity",
       "name_placeholder": "PROPERTY_RANGEDDEFENSEVSPLAYERSTRATEGICTERRAINSINFANTRY_NAME",
       "type": 9
@@ -74460,7 +75660,7 @@
     {
       "description_placeholder": "PROPERTY_RANGEDDEFENSEVSPLAYERSTRATEGICTERRAINSINFANTRY_DESC",
       "id": "e9195be2480012d7",
-      "image": "",
+      "image": "icon_research_adv_rangedDefense_v_pvp.png",
       "name": "property_RangedDefenseVsPlayerStrategicTerrainsInfantry_armory",
       "name_placeholder": "PROPERTY_RANGEDDEFENSEVSPLAYERSTRATEGICTERRAINSINFANTRY_NAME",
       "type": 10
@@ -74468,7 +75668,7 @@
     {
       "description_placeholder": "PROPERTY_RANGEDDEFENSEVSPLAYERSTRATEGICTERRAINSINFANTRY_DESC",
       "id": "569e9545faa2b716",
-      "image": "",
+      "image": "icon_research_adv_rangedDefense_v_pvp.png",
       "name": "property_RangedDefenseVsPlayerStrategicTerrainsInfantry_hero",
       "name_placeholder": "PROPERTY_RANGEDDEFENSEVSPLAYERSTRATEGICTERRAINSINFANTRY_NAME",
       "type": 11
@@ -74476,7 +75676,7 @@
     {
       "description_placeholder": "PROPERTY_CAVALRYDEFENSEVSPLAYERSTRATEGICTERRAINSINFANTRY_DESC",
       "id": "d137bc443e24af8d",
-      "image": "",
+      "image": "icon_research_adv_cavalryDefense_v_pvp.png",
       "name": "property_CavalryDefenseVsPlayerStrategicTerrainsInfantry_research",
       "name_placeholder": "PROPERTY_CAVALRYDEFENSEVSPLAYERSTRATEGICTERRAINSINFANTRY_NAME",
       "type": 5
@@ -74484,7 +75684,7 @@
     {
       "description_placeholder": "PROPERTY_CAVALRYDEFENSEVSPLAYERSTRATEGICTERRAINSINFANTRY_DESC",
       "id": "192b7d9146b564ae",
-      "image": "",
+      "image": "icon_research_adv_cavalryDefense_v_pvp.png",
       "name": "property_CavalryDefenseVsPlayerStrategicTerrainsInfantry_talent",
       "name_placeholder": "PROPERTY_CAVALRYDEFENSEVSPLAYERSTRATEGICTERRAINSINFANTRY_NAME",
       "type": 7
@@ -74492,7 +75692,7 @@
     {
       "description_placeholder": "PROPERTY_CAVALRYDEFENSEVSPLAYERSTRATEGICTERRAINSINFANTRY_DESC",
       "id": "637c2e5ee6891324",
-      "image": "",
+      "image": "icon_research_adv_cavalryDefense_v_pvp.png",
       "name": "property_CavalryDefenseVsPlayerStrategicTerrainsInfantry_gear",
       "name_placeholder": "PROPERTY_CAVALRYDEFENSEVSPLAYERSTRATEGICTERRAINSINFANTRY_NAME",
       "type": 4
@@ -74500,7 +75700,7 @@
     {
       "description_placeholder": "PROPERTY_CAVALRYDEFENSEVSPLAYERSTRATEGICTERRAINSINFANTRY_DESC",
       "id": "4ecede2b1e6a203d",
-      "image": "",
+      "image": "icon_research_adv_cavalryDefense_v_pvp.png",
       "name": "property_CavalryDefenseVsPlayerStrategicTerrainsInfantry_consumable",
       "name_placeholder": "PROPERTY_CAVALRYDEFENSEVSPLAYERSTRATEGICTERRAINSINFANTRY_NAME",
       "type": 3
@@ -74508,7 +75708,7 @@
     {
       "description_placeholder": "PROPERTY_CAVALRYDEFENSEVSPLAYERSTRATEGICTERRAINSINFANTRY_DESC",
       "id": "effc54f65e833f50",
-      "image": "",
+      "image": "icon_research_adv_cavalryDefense_v_pvp.png",
       "name": "property_CavalryDefenseVsPlayerStrategicTerrainsInfantry_seatofpower",
       "name_placeholder": "PROPERTY_CAVALRYDEFENSEVSPLAYERSTRATEGICTERRAINSINFANTRY_NAME",
       "type": 6
@@ -74516,7 +75716,7 @@
     {
       "description_placeholder": "PROPERTY_CAVALRYDEFENSEVSPLAYERSTRATEGICTERRAINSINFANTRY_DESC",
       "id": "36320bfa96a55d77",
-      "image": "",
+      "image": "icon_research_adv_cavalryDefense_v_pvp.png",
       "name": "property_CavalryDefenseVsPlayerStrategicTerrainsInfantry_activity",
       "name_placeholder": "PROPERTY_CAVALRYDEFENSEVSPLAYERSTRATEGICTERRAINSINFANTRY_NAME",
       "type": 9
@@ -74524,7 +75724,7 @@
     {
       "description_placeholder": "PROPERTY_CAVALRYDEFENSEVSPLAYERSTRATEGICTERRAINSINFANTRY_DESC",
       "id": "18a2f1ece1054c10",
-      "image": "",
+      "image": "icon_research_adv_cavalryDefense_v_pvp.png",
       "name": "property_CavalryDefenseVsPlayerStrategicTerrainsInfantry_armory",
       "name_placeholder": "PROPERTY_CAVALRYDEFENSEVSPLAYERSTRATEGICTERRAINSINFANTRY_NAME",
       "type": 10
@@ -74532,7 +75732,7 @@
     {
       "description_placeholder": "PROPERTY_CAVALRYDEFENSEVSPLAYERSTRATEGICTERRAINSINFANTRY_DESC",
       "id": "d5046de07da36e6f",
-      "image": "",
+      "image": "icon_research_adv_cavalryDefense_v_pvp.png",
       "name": "property_CavalryDefenseVsPlayerStrategicTerrainsInfantry_hero",
       "name_placeholder": "PROPERTY_CAVALRYDEFENSEVSPLAYERSTRATEGICTERRAINSINFANTRY_NAME",
       "type": 11
@@ -74540,7 +75740,7 @@
     {
       "description_placeholder": "PROPERTY_SIEGEDEFENSEVSPLAYERSTRATEGICTERRAINSINFANTRY_DESC",
       "id": "1f4f98aceb70af60",
-      "image": "",
+      "image": "icon_research_adv_siegeDefense_v_pvp.png",
       "name": "property_SiegeDefenseVsPlayerStrategicTerrainsInfantry_research",
       "name_placeholder": "PROPERTY_SIEGEDEFENSEVSPLAYERSTRATEGICTERRAINSINFANTRY_NAME",
       "type": 5
@@ -74548,7 +75748,7 @@
     {
       "description_placeholder": "PROPERTY_SIEGEDEFENSEVSPLAYERSTRATEGICTERRAINSINFANTRY_DESC",
       "id": "e2bb8f5a4520ad34",
-      "image": "",
+      "image": "icon_research_adv_siegeDefense_v_pvp.png",
       "name": "property_SiegeDefenseVsPlayerStrategicTerrainsInfantry_talent",
       "name_placeholder": "PROPERTY_SIEGEDEFENSEVSPLAYERSTRATEGICTERRAINSINFANTRY_NAME",
       "type": 7
@@ -74556,7 +75756,7 @@
     {
       "description_placeholder": "PROPERTY_SIEGEDEFENSEVSPLAYERSTRATEGICTERRAINSINFANTRY_DESC",
       "id": "595682e3f83536ec",
-      "image": "",
+      "image": "icon_research_adv_siegeDefense_v_pvp.png",
       "name": "property_SiegeDefenseVsPlayerStrategicTerrainsInfantry_gear",
       "name_placeholder": "PROPERTY_SIEGEDEFENSEVSPLAYERSTRATEGICTERRAINSINFANTRY_NAME",
       "type": 4
@@ -74564,7 +75764,7 @@
     {
       "description_placeholder": "PROPERTY_SIEGEDEFENSEVSPLAYERSTRATEGICTERRAINSINFANTRY_DESC",
       "id": "e0f91e87d63c4b8",
-      "image": "",
+      "image": "icon_research_adv_siegeDefense_v_pvp.png",
       "name": "property_SiegeDefenseVsPlayerStrategicTerrainsInfantry_consumable",
       "name_placeholder": "PROPERTY_SIEGEDEFENSEVSPLAYERSTRATEGICTERRAINSINFANTRY_NAME",
       "type": 3
@@ -74572,7 +75772,7 @@
     {
       "description_placeholder": "PROPERTY_SIEGEDEFENSEVSPLAYERSTRATEGICTERRAINSINFANTRY_DESC",
       "id": "b1d751bf53298733",
-      "image": "",
+      "image": "icon_research_adv_siegeDefense_v_pvp.png",
       "name": "property_SiegeDefenseVsPlayerStrategicTerrainsInfantry_seatofpower",
       "name_placeholder": "PROPERTY_SIEGEDEFENSEVSPLAYERSTRATEGICTERRAINSINFANTRY_NAME",
       "type": 6
@@ -74580,7 +75780,7 @@
     {
       "description_placeholder": "PROPERTY_SIEGEDEFENSEVSPLAYERSTRATEGICTERRAINSINFANTRY_DESC",
       "id": "f84a2f1243f15d9a",
-      "image": "",
+      "image": "icon_research_adv_siegeDefense_v_pvp.png",
       "name": "property_SiegeDefenseVsPlayerStrategicTerrainsInfantry_activity",
       "name_placeholder": "PROPERTY_SIEGEDEFENSEVSPLAYERSTRATEGICTERRAINSINFANTRY_NAME",
       "type": 9
@@ -74588,7 +75788,7 @@
     {
       "description_placeholder": "PROPERTY_SIEGEDEFENSEVSPLAYERSTRATEGICTERRAINSINFANTRY_DESC",
       "id": "e3320327e290858a",
-      "image": "",
+      "image": "icon_research_adv_siegeDefense_v_pvp.png",
       "name": "property_SiegeDefenseVsPlayerStrategicTerrainsInfantry_armory",
       "name_placeholder": "PROPERTY_SIEGEDEFENSEVSPLAYERSTRATEGICTERRAINSINFANTRY_NAME",
       "type": 10
@@ -74596,7 +75796,7 @@
     {
       "description_placeholder": "PROPERTY_SIEGEDEFENSEVSPLAYERSTRATEGICTERRAINSINFANTRY_DESC",
       "id": "ef2ec15d631f4ba7",
-      "image": "",
+      "image": "icon_research_adv_siegeDefense_v_pvp.png",
       "name": "property_SiegeDefenseVsPlayerStrategicTerrainsInfantry_hero",
       "name_placeholder": "PROPERTY_SIEGEDEFENSEVSPLAYERSTRATEGICTERRAINSINFANTRY_NAME",
       "type": 11
