@@ -1616,6 +1616,58 @@
         "herotrait_stark"
       ],
       "xp_progression_name": "prog_heroxp_heroic"
+    },
+    {
+      "description_placeholder": "HERO_RENLYBARATHEON_LORDPARAMOUNT_DESC",
+      "event_score_progression_name": "prog_hero_eventscore_mythic_1",
+      "id": "d33e4dd1e56e992d",
+      "max_stars": 6,
+      "name": "hero_renlybaratheon_lordparamount",
+      "name_placeholder": "HERO_RENLYBARATHEON_LORDPARAMOUNT_NAME",
+      "oath_progression_name": "prog_hero_adv_stones_cost_mythic_1",
+      "rarity": 4,
+      "relic_name": "item_hero_adv_renlybaratheon_lordparamount_1",
+      "relic_progression_name": "prog_shardcost_mythic",
+      "skills": [
+        "heroskill_visgen_hero_renlybaratheon_lordparamount_3",
+        "heroskill_visgen_hero_renlybaratheon_lordparamount_4",
+        "heroskill_visgen_hero_renlybaratheon_lordparamount_5",
+        "heroskill_visgen_hero_renlybaratheon_lordparamount_6",
+        "heroskill_visgen_hero_renlybaratheon_lordparamount_7",
+        "heroskill_visgen_hero_renlybaratheon_lordparamount_8",
+        "heroskill_visgen_hero_renlybaratheon_lordparamount_1",
+        "heroskill_visgen_hero_renlybaratheon_lordparamount_2"
+      ],
+      "traits": [
+        "herotrait_masterofships",
+        "herotrait_baratheon"
+      ],
+      "xp_progression_name": "prog_heroxp_mythic"
+    },
+    {
+      "description_placeholder": "HERO_TYCHONESTORIS_TITANOFCOMMERCE_DESC",
+      "event_score_progression_name": "prog_hero_eventscore_heroic_1",
+      "id": "9540c3c393bcea5a",
+      "max_stars": 5,
+      "name": "hero_tychonestoris_titanofcommerce",
+      "name_placeholder": "HERO_TYCHONESTORIS_TITANOFCOMMERCE_NAME",
+      "oath_progression_name": "prog_hero_adv_stones_cost_heroic_1",
+      "rarity": 3,
+      "relic_name": "item_hero_adv_tychonestoris_titanofcommerce_1",
+      "relic_progression_name": "prog_shardcost_heroic",
+      "skills": [
+        "heroskill_visgen_hero_tychonestoris_titanofcommerce_3",
+        "heroskill_visgen_hero_tychonestoris_titanofcommerce_4",
+        "heroskill_visgen_hero_tychonestoris_titanofcommerce_5",
+        "heroskill_visgen_hero_tychonestoris_titanofcommerce_6",
+        "heroskill_visgen_hero_tychonestoris_titanofcommerce_7",
+        "heroskill_visgen_hero_tychonestoris_titanofcommerce_1",
+        "heroskill_visgen_hero_tychonestoris_titanofcommerce_2"
+      ],
+      "traits": [
+        "herotrait_masterofcoins"
+      ],
+      "xp_progression_name": "prog_heroxp_heroic"
     }
   ]
 }

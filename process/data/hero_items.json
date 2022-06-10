@@ -606,11 +606,29 @@
     },
     {
       "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "1547d2707dad6f70",
+      "image": "icon_hero_portrait_renly_a.png",
+      "name": "item_hero_adv_renlybaratheon_lordparamount_1",
+      "name_placeholder": "ITEM_HERO_ADV_RENLYBARATHEON_LORDPARAMOUNT_1_NAME",
+      "priority": 7700,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "e6383e60dfbc7fbc",
+      "image": "icon_hero_portrait_tycho_a.png",
+      "name": "item_hero_adv_tychonestoris_titanofcommerce_1",
+      "name_placeholder": "ITEM_HERO_ADV_TYCHONESTORIS_TITANOFCOMMERCE_1_NAME",
+      "priority": 7800,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
       "id": "976c538ae6f8c0b4",
       "image": "icon_hero_portrait_mance_a.png",
       "name": "item_hero_adv_mancerayder_kingbeyondthewall_1",
       "name_placeholder": "ITEM_HERO_ADV_MANCERAYDER_KINGBEYONDTHEWALL_1_NAME",
-      "priority": 7900,
+      "priority": 8300,
       "type": "heroshard"
     },
     {
@@ -619,7 +637,7 @@
       "image": "icon_hero_portrait_rattleshirt_a.png",
       "name": "item_hero_adv_rattleshirt_lordofbones_1",
       "name_placeholder": "ITEM_HERO_ADV_RATTLESHIRT_LORDOFBONES_1_NAME",
-      "priority": 8000,
+      "priority": 8400,
       "type": "heroshard"
     },
     {
@@ -628,7 +646,7 @@
       "image": "icon_hero_seal_common.png",
       "name": "item_hero_seal_standard_1",
       "name_placeholder": "ITEM_HERO_SEAL_STANDARD_1_NAME",
-      "priority": 8200,
+      "priority": 8600,
       "type": "item"
     },
     {
@@ -637,7 +655,7 @@
       "image": "icon_hero_seal_noble.png",
       "name": "item_hero_seal_noble_1",
       "name_placeholder": "ITEM_HERO_SEAL_NOBLE_1_NAME",
-      "priority": 8300,
+      "priority": 8700,
       "type": "item"
     },
     {
@@ -646,7 +664,7 @@
       "image": "icon_hero_seal_royal.png",
       "name": "item_hero_seal_royal_1",
       "name_placeholder": "ITEM_HERO_SEAL_ROYAL_1_NAME",
-      "priority": 8400,
+      "priority": 8800,
       "type": "item"
     },
     {
@@ -655,7 +673,7 @@
       "image": "icon_allegiance_influence.png",
       "name": "item_Influence_100",
       "name_placeholder": "ITEM_INFLUENCE_100",
-      "priority": 8700,
+      "priority": 9100,
       "type": "item"
     },
     {
@@ -664,7 +682,7 @@
       "image": "icon_itm_resource_chest_01.png",
       "name": "item_summon_purchase_basic_1",
       "name_placeholder": "ITEM_SUMMON_PURCHASE_BASIC_1_NAME",
-      "priority": 9000,
+      "priority": 9400,
       "type": "item"
     },
     {
@@ -673,7 +691,7 @@
       "image": "icon_itm_resource_chest_01.png",
       "name": "item_summon_purchase_basic_10",
       "name_placeholder": "ITEM_SUMMON_PURCHASE_BASIC_10_NAME",
-      "priority": 9100,
+      "priority": 9500,
       "type": "item"
     },
     {
@@ -682,7 +700,7 @@
       "image": "icon_itm_resource_chest_01.png",
       "name": "item_summon_purchase_premium_1",
       "name_placeholder": "ITEM_SUMMON_PURCHASE_PREMIUM_1_NAME",
-      "priority": 9200,
+      "priority": 9600,
       "type": "item"
     },
     {
@@ -691,7 +709,7 @@
       "image": "icon_itm_resource_chest_01.png",
       "name": "item_summon_purchase_premium_10",
       "name_placeholder": "ITEM_SUMMON_PURCHASE_PREMIUM_10_NAME",
-      "priority": 9300,
+      "priority": 9700,
       "type": "item"
     },
     {
@@ -700,7 +718,7 @@
       "image": "icon_elite_writ.png",
       "name": "item_hotpie_recruit_shard",
       "name_placeholder": "ITEM_HOTPIE_RECRUIT_SHARD_NAME",
-      "priority": 9500,
+      "priority": 9900,
       "type": "heroshard"
     },
     {
@@ -709,7 +727,7 @@
       "image": "icon_elite_writ.png",
       "name": "item_jonsnow_bastard_shard",
       "name_placeholder": "ITEM_JONSNOW_BASTARD_SHARD_NAME",
-      "priority": 9600,
+      "priority": 10000,
       "type": "heroshard"
     },
     {
@@ -718,7 +736,7 @@
       "image": "icon_elite_writ.png",
       "name": "item_jamielannister_lion_shard",
       "name_placeholder": "ITEM_JAMIELANNISTER_LION_SHARD_NAME",
-      "priority": 9700,
+      "priority": 10100,
       "type": "heroshard"
     },
     {
@@ -727,7 +745,7 @@
       "image": "icon_elite_writ.png",
       "name": "item_daenerys_motherofdragons_shard",
       "name_placeholder": "ITEM_DAENERYS_MOTHEROFDRAGONS_SHARD_NAME",
-      "priority": 9800,
+      "priority": 10200,
       "type": "heroshard"
     },
     {
@@ -736,7 +754,7 @@
       "image": "icon_item_hero_shard.png",
       "name": "item_hero_adv_barristonselmy_lordcommander_1",
       "name_placeholder": "ITEM_HERO_ADV_BARRISTONSELMY_LORDCOMMANDER_1_NAME",
-      "priority": 9900,
+      "priority": 10300,
       "type": "heroshard"
     },
     {
@@ -745,7 +763,7 @@
       "image": "icon_item_hero_shard.png",
       "name": "item_hero_adv_danerystargeryen_motherofdragons_1",
       "name_placeholder": "ITEM_HERO_ADV_DANERYSTARGERYEN_MOTHEROFDRAGONS_1_NAME",
-      "priority": 10000,
+      "priority": 10400,
       "type": "heroshard"
     },
     {
@@ -754,7 +772,7 @@
       "image": "icon_item_hero_shard.png",
       "name": "item_hero_adv_cersielannister_queenregent_1",
       "name_placeholder": "ITEM_HERO_ADV_CERSIELANNISTER_QUEENREGENT_1_NAME",
-      "priority": 10100,
+      "priority": 10500,
       "type": "heroshard"
     },
     {
@@ -763,7 +781,7 @@
       "image": "icon_item_hero_shard.png",
       "name": "item_hero_adv_petrybaelish_littlefinger_1",
       "name_placeholder": "ITEM_HERO_ADV_PETRYBAELISH_LITTLEFINGER_1_NAME",
-      "priority": 10200,
+      "priority": 10600,
       "type": "heroshard"
     },
     {
@@ -772,7 +790,7 @@
       "image": "icon_item_hero_shard.png",
       "name": "item_hero_adv_poderickpayne_youngsquire_1",
       "name_placeholder": "ITEM_HERO_ADV_PODERICKPAYNE_YOUNGSQUIRE_1_NAME",
-      "priority": 10300,
+      "priority": 10700,
       "type": "heroshard"
     },
     {
@@ -781,7 +799,7 @@
       "image": "icon_item_hero_shard.png",
       "name": "item_hero_adv_hotpie_recruit_1",
       "name_placeholder": "ITEM_HERO_ADV_HOTPIE_RECRUIT_1_NAME",
-      "priority": 10400,
+      "priority": 10800,
       "type": "heroshard"
     },
     {
@@ -790,7 +808,7 @@
       "image": "icon_buildreq_brick_1.png",
       "name": "item_starreq_advanced_1",
       "name_placeholder": "ITEM_HERO_ADV_STONES_1_NAME",
-      "priority": 10600,
+      "priority": 11000,
       "type": "item"
     },
     {
@@ -799,7 +817,7 @@
       "image": "icon_buildreq_brick_1.png",
       "name": "item_hero_seal_peasant_1",
       "name_placeholder": "ITEM_HERO_NOTREAL",
-      "priority": 10700,
+      "priority": 11100,
       "type": "item"
     },
     {
@@ -808,7 +826,7 @@
       "image": "icon_elite_writ.png",
       "name": "item_hero_xp_rarity_1",
       "name_placeholder": "ITEM_HERO_XP_RARITY_1_NAME",
-      "priority": 10900,
+      "priority": 11300,
       "type": "item"
     },
     {
@@ -817,7 +835,7 @@
       "image": "icon_elite_writ.png",
       "name": "item_hero_xp_rarity_2",
       "name_placeholder": "ITEM_HERO_XP_RARITY_2_NAME",
-      "priority": 11000,
+      "priority": 11400,
       "type": "item"
     },
     {
@@ -826,7 +844,7 @@
       "image": "icon_elite_writ.png",
       "name": "item_hero_xp_rarity_3",
       "name_placeholder": "ITEM_HERO_XP_RARITY_3_NAME",
-      "priority": 11100,
+      "priority": 11500,
       "type": "item"
     },
     {
@@ -835,7 +853,7 @@
       "image": "icon_elite_writ.png",
       "name": "item_hero_xp_rarity_4",
       "name_placeholder": "ITEM_HERO_XP_RARITY_4_NAME",
-      "priority": 11200,
+      "priority": 11600,
       "type": "item"
     },
     {
@@ -844,7 +862,7 @@
       "image": "icon_elite_writ.png",
       "name": "item_hero_xp_rarity_5",
       "name_placeholder": "ITEM_HERO_XP_RARITY_5_NAME",
-      "priority": 11300,
+      "priority": 11700,
       "type": "item"
     }
   ]

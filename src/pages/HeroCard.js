@@ -1,5 +1,6 @@
 import useLocalStorage from "@rehooks/local-storage";
 import DataCard from "../common/DataCard";
+import { displayWithRegexFallback } from "../common/util";
 
 const formatHeroIdentifier = (hero) => {
   return (hero.name + " " + hero.description)
@@ -30,8 +31,14 @@ function HeroCard(props) {
 
   return (
     <DataCard
-      title={`${props.hero.name} (${heroLevel})`}
-      subtitle={props.hero.description}
+      title={`${displayWithRegexFallback(
+        props.hero.name,
+        new RegExp(/^n:HERO_(\w+)_\w+_NAME$/)
+      )} (${heroLevel})`}
+      subtitle={displayWithRegexFallback(
+        props.hero.description,
+        new RegExp(/^n:HERO_\w+_(\w+)_DESC$/)
+      )}
       color={RARITY_TO_COLOR_NAME[props.hero.rarity]}
       slider={{
         min: 1,
@@ -41,8 +48,11 @@ function HeroCard(props) {
       }}
       data={props.hero.skills
         .filter((skill) => heroLevel >= (skill.unlock_level || 0))
+        .sort((s1, s2) => (s1.unlock_level || 0) - (s2.unlock_level || 0))
         .map((skill) => ({
-          name: `(${skill.type.charAt(0)}) ${skill.name}`,
+          name: `(${skill.type.charAt(0)}) ${skill.name} (${
+            skill.unlock_level || heroLevel
+          })`,
           tooltip: skill.description,
           value: heroSkillValue(skill, heroLevel - 1),
         }))}

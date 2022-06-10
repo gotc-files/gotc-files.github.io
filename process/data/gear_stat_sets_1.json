@@ -3770,6 +3770,76 @@
       ]
     },
     {
+      "id": "825ebdc62f95d1b1",
+      "name": "eq_admin_helmet_piercing_troopvsplayer",
+      "stats": [
+        {
+          "name": "property_TroopTrueDamagePercentVsPlayer_gear",
+          "progression": "prog_powers_of_10"
+        }
+      ]
+    },
+    {
+      "id": "e38dafd233b91a2f",
+      "name": "eq_admin_boots_piercing_troopvsplayersop",
+      "stats": [
+        {
+          "name": "property_TroopTrueDamagePercentVsPlayerAtSop_gear",
+          "progression": "prog_powers_of_10"
+        }
+      ]
+    },
+    {
+      "id": "c3a74de89e8514e6",
+      "name": "eq_admin_pants_piercing_troopvsplayerstrategicterrain",
+      "stats": [
+        {
+          "name": "property_TroopTrueDamagePercentVsPlayerStrategicTerrain_gear",
+          "progression": "prog_powers_of_10"
+        }
+      ]
+    },
+    {
+      "id": "517dc7caf98033c0",
+      "name": "eq_admin_helmet_piercing_infantryvsplayer",
+      "stats": [
+        {
+          "name": "property_InfantryTrueDamagePercentVsPlayer_gear",
+          "progression": "prog_powers_of_10"
+        }
+      ]
+    },
+    {
+      "id": "8940c60d19a4894f",
+      "name": "eq_admin_helmet_piercing_rangedvsplayer",
+      "stats": [
+        {
+          "name": "property_RangedTrueDamagePercentVsPlayer_gear",
+          "progression": "prog_powers_of_10"
+        }
+      ]
+    },
+    {
+      "id": "d028f9d3c66ac596",
+      "name": "eq_admin_helmet_piercing_cavalryvsplayer",
+      "stats": [
+        {
+          "name": "property_MountedTrueDamagePercentVsPlayer_gear",
+          "progression": "prog_powers_of_10"
+        }
+      ]
+    },
+    {
+      "id": "ca9db158f5a62119",
+      "name": "eq_admin_helmet_piercing_siegevsplayer",
+      "stats": [
+        {
+          "name": "property_SiegeTrueDamagePercentVsPlayer_gear",
+          "progression": "prog_powers_of_10"
+        }
+      ]
+    },
+    {
       "id": "ccdba31969ba1dc",
       "name": "eq_helmet_basic_1a",
       "stats": [

@@ -3528,6 +3528,126 @@
       "skill_type": "COUNCIL",
       "stat_name": "property_CavalryAttackVsSeatOfPower_hero",
       "unlock_level": 0
+    },
+    {
+      "id": "e765cea3f204e0fd",
+      "name": "heroskill_visgen_hero_renlybaratheon_lordparamount_3",
+      "skill_type": "MARCH",
+      "star_skill_value": 0.34272000193595886,
+      "stat_name": "driven_MarcherTroopDefenseVsPlayer",
+      "unlock_level": 10
+    },
+    {
+      "id": "21b0bcd2f6bc551b",
+      "name": "heroskill_visgen_hero_renlybaratheon_lordparamount_4",
+      "skill_type": "COUNCIL",
+      "star_skill_value": 1.2239999771118164,
+      "stat_name": "property_StoneGathering_hero",
+      "unlock_level": 20
+    },
+    {
+      "id": "d41777441ef04e1",
+      "name": "heroskill_visgen_hero_renlybaratheon_lordparamount_5",
+      "skill_type": "COUNCIL",
+      "star_skill_value": 0.45899999141693115,
+      "stat_name": "property_RangedDefenseVsPlayer_hero",
+      "unlock_level": 30
+    },
+    {
+      "id": "78532b9f981af6ef",
+      "name": "heroskill_visgen_hero_renlybaratheon_lordparamount_6",
+      "skill_type": "MARCH",
+      "star_skill_value": 0.25703999400138855,
+      "stat_name": "driven_TroopAttackVsPlayer",
+      "unlock_level": 40
+    },
+    {
+      "id": "54a2e0392f49a715",
+      "name": "heroskill_visgen_hero_renlybaratheon_lordparamount_7",
+      "skill_type": "MARCH",
+      "star_skill_value": 1377.0,
+      "stat_name": "driven_MaxMarchSizeVsSOP",
+      "unlock_level": 50
+    },
+    {
+      "id": "77438d08d8c4d208",
+      "name": "heroskill_visgen_hero_renlybaratheon_lordparamount_8",
+      "skill_type": "COUNCIL",
+      "star_skill_value": 0.5354999899864197,
+      "stat_name": "property_MarcherRangedAttackVsPlayerSeatOfPower_hero",
+      "unlock_level": 60
+    },
+    {
+      "id": "be8659ee9ca24309",
+      "name": "heroskill_visgen_hero_renlybaratheon_lordparamount_1",
+      "signature_skill_progression_name": "heropropertyprog_visgen_hero_renlybaratheon_lordparamount_1",
+      "skill_type": "MARCH",
+      "stat_name": "driven_MaxMarchSize",
+      "unlock_level": 0
+    },
+    {
+      "id": "cb9405054557b107",
+      "name": "heroskill_visgen_hero_renlybaratheon_lordparamount_2",
+      "signature_skill_progression_name": "heropropertyprog_visgen_hero_renlybaratheon_lordparamount_2",
+      "skill_type": "COUNCIL",
+      "stat_name": "property_RangedDefenseVsSeatOfPower_hero",
+      "unlock_level": 0
+    },
+    {
+      "id": "e3088fa6d6c655d",
+      "name": "heroskill_visgen_hero_tychonestoris_titanofcommerce_3",
+      "skill_type": "MARCH",
+      "star_skill_value": 2.496959924697876,
+      "stat_name": "driven_GoldGathering",
+      "unlock_level": 10
+    },
+    {
+      "id": "c8e5fa8b69d4d0bb",
+      "name": "heroskill_visgen_hero_tychonestoris_titanofcommerce_4",
+      "skill_type": "COUNCIL",
+      "star_skill_value": 0.46512001752853394,
+      "stat_name": "property_CavalryHealthVsPlayer_hero",
+      "unlock_level": 20
+    },
+    {
+      "id": "e414312dde878141",
+      "name": "heroskill_visgen_hero_tychonestoris_titanofcommerce_5",
+      "skill_type": "COUNCIL",
+      "star_skill_value": 13219.0,
+      "stat_name": "property_IronProtected_hero",
+      "unlock_level": 30
+    },
+    {
+      "id": "91066dc60772734f",
+      "name": "heroskill_visgen_hero_tychonestoris_titanofcommerce_6",
+      "skill_type": "COUNCIL",
+      "star_skill_value": 0.13599999248981476,
+      "stat_name": "property_BuildingEfficiencyReduction_Item_Keystone_hero",
+      "unlock_level": 40
+    },
+    {
+      "id": "bdf7a660b02122b5",
+      "name": "heroskill_visgen_hero_tychonestoris_titanofcommerce_7",
+      "skill_type": "COUNCIL",
+      "star_skill_value": 0.4896000027656555,
+      "stat_name": "property_CavalryAttackVsPlayersInfantry_hero",
+      "unlock_level": 50
+    },
+    {
+      "id": "57d31fb703cac6a9",
+      "name": "heroskill_visgen_hero_tychonestoris_titanofcommerce_1",
+      "signature_skill_progression_name": "heropropertyprog_visgen_hero_tychonestoris_titanofcommerce_1",
+      "skill_type": "MARCH",
+      "stat_name": "driven_MaxMarchSize",
+      "unlock_level": 0
+    },
+    {
+      "id": "22c1435cda3f34a7",
+      "name": "heroskill_visgen_hero_tychonestoris_titanofcommerce_2",
+      "signature_skill_progression_name": "heropropertyprog_visgen_hero_tychonestoris_titanofcommerce_2",
+      "skill_type": "COUNCIL",
+      "stat_name": "property_CavalryDefenseVsPlayersCavalry_hero",
+      "unlock_level": 0
     }
   ]
 }

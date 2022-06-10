@@ -64,7 +64,7 @@ function displayWithRegexFallback(text, regex, maxChars = 20) {
   }
   const matches = text.match(regex);
   if (matches) {
-    return `${matches[1]} (Not Translated)`;
+    return `${matches[1]}`;
   }
   return displayTruncated(text, maxChars);
 }
