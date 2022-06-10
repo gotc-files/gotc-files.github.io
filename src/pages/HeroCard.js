@@ -34,7 +34,7 @@ function HeroCard(props) {
       title={`${displayWithRegexFallback(
         props.hero.name,
         new RegExp(/^n:HERO_(\w+)_\w+_NAME$/)
-      )} (${heroLevel})`}
+      )} (${heroLevel}/${props.hero.max_stars * 10})`}
       subtitle={displayWithRegexFallback(
         props.hero.description,
         new RegExp(/^n:HERO_\w+_(\w+)_DESC$/)
