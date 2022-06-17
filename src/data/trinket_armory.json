@@ -40941,6 +40941,664 @@
             ]
           }
         ]
+      },
+      {
+        "gear_with_level": [
+          {
+            "level": 1,
+            "name": "Smithy's Tools (L1)",
+            "stats": [
+              {
+                "description": "Ranged attack bonus.",
+                "name": "Ranged Attack",
+                "progression": [
+                  0.0285600000000001,
+                  0.0306000000000001,
+                  0.0326400000000001,
+                  0.0346800000000001,
+                  0.0367200000000001,
+                  0.0408000000000001
+                ]
+              },
+              {
+                "description": "Ranged Attack in Player-to-Player combat.",
+                "name": "Ranged Attack vs. Player",
+                "progression": [
+                  0.0285600000000001,
+                  0.0306000000000001,
+                  0.0326400000000001,
+                  0.0346800000000001,
+                  0.0367200000000001,
+                  0.0408000000000001
+                ]
+              },
+              {
+                "description": "Ranged health stat bonus in combat when marching against a player.",
+                "name": "Ranged Health While Marching vs. Player",
+                "progression": [
+                  0.0333200000000001,
+                  0.0357000000000001,
+                  0.0380800000000001,
+                  0.0404600000000001,
+                  0.0428400000000001,
+                  0.0476000000000001
+                ]
+              },
+              {
+                "description": "Ranged Defense vs. Player-to-Player combat.",
+                "name": "Ranged Defense vs. Player",
+                "progression": [
+                  0.01428,
+                  0.0153,
+                  0.01632,
+                  0.01734,
+                  0.01836,
+                  0.0204000000000001
+                ]
+              }
+            ]
+          },
+          {
+            "level": 5,
+            "name": "Smithy's Tools (L5)",
+            "stats": [
+              {
+                "description": "Ranged attack bonus.",
+                "name": "Ranged Attack",
+                "progression": [
+                  0.0542640000000001,
+                  0.0581400000000001,
+                  0.0620160000000001,
+                  0.0658920000000001,
+                  0.0697680000000001,
+                  0.0775200000000001
+                ]
+              },
+              {
+                "description": "Ranged Attack in Player-to-Player combat.",
+                "name": "Ranged Attack vs. Player",
+                "progression": [
+                  0.0542640000000001,
+                  0.0581400000000001,
+                  0.0620160000000001,
+                  0.0658920000000001,
+                  0.0697680000000001,
+                  0.0775200000000001
+                ]
+              },
+              {
+                "description": "Ranged health stat bonus in combat when marching against a player.",
+                "name": "Ranged Health While Marching vs. Player",
+                "progression": [
+                  0.0633080000000001,
+                  0.0678300000000001,
+                  0.0723520000000001,
+                  0.0768740000000001,
+                  0.0813960000000001,
+                  0.0904400000000001
+                ]
+              },
+              {
+                "description": "Ranged Defense vs. Player-to-Player combat.",
+                "name": "Ranged Defense vs. Player",
+                "progression": [
+                  0.027132,
+                  0.02907,
+                  0.031008,
+                  0.0329460000000001,
+                  0.0348840000000001,
+                  0.0387600000000001
+                ]
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "name": "Smithy's Tools (L10)",
+            "stats": [
+              {
+                "description": "Ranged attack bonus.",
+                "name": "Ranged Attack",
+                "progression": [
+                  0.0799680000000001,
+                  0.0856800000000001,
+                  0.0913920000000001,
+                  0.0971040000000001,
+                  0.102816,
+                  0.11424
+                ]
+              },
+              {
+                "description": "Ranged Attack in Player-to-Player combat.",
+                "name": "Ranged Attack vs. Player",
+                "progression": [
+                  0.0799680000000001,
+                  0.0856800000000001,
+                  0.0913920000000001,
+                  0.0971040000000001,
+                  0.102816,
+                  0.11424
+                ]
+              },
+              {
+                "description": "Ranged health stat bonus in combat when marching against a player.",
+                "name": "Ranged Health While Marching vs. Player",
+                "progression": [
+                  0.0932960000000001,
+                  0.0999600000000001,
+                  0.106624,
+                  0.113288,
+                  0.119952,
+                  0.13328
+                ]
+              },
+              {
+                "description": "Ranged Defense vs. Player-to-Player combat.",
+                "name": "Ranged Defense vs. Player",
+                "progression": [
+                  0.039984,
+                  0.04284,
+                  0.045696,
+                  0.048552,
+                  0.0514080000000001,
+                  0.0571200000000001
+                ]
+              }
+            ]
+          },
+          {
+            "level": 15,
+            "name": "Smithy's Tools (L15)",
+            "stats": [
+              {
+                "description": "Ranged attack bonus.",
+                "name": "Ranged Attack",
+                "progression": [
+                  0.105672,
+                  0.11322,
+                  0.120768,
+                  0.128316,
+                  0.135864,
+                  0.15096
+                ]
+              },
+              {
+                "description": "Ranged Attack in Player-to-Player combat.",
+                "name": "Ranged Attack vs. Player",
+                "progression": [
+                  0.105672,
+                  0.11322,
+                  0.120768,
+                  0.128316,
+                  0.135864,
+                  0.15096
+                ]
+              },
+              {
+                "description": "Ranged health stat bonus in combat when marching against a player.",
+                "name": "Ranged Health While Marching vs. Player",
+                "progression": [
+                  0.123284,
+                  0.13209,
+                  0.140896,
+                  0.149702,
+                  0.158508,
+                  0.17612
+                ]
+              },
+              {
+                "description": "Ranged Defense vs. Player-to-Player combat.",
+                "name": "Ranged Defense vs. Player",
+                "progression": [
+                  0.052836,
+                  0.05661,
+                  0.060384,
+                  0.064158,
+                  0.0679320000000001,
+                  0.0754800000000001
+                ]
+              }
+            ]
+          },
+          {
+            "level": 20,
+            "name": "Smithy's Tools (L20)",
+            "stats": [
+              {
+                "description": "Ranged attack bonus.",
+                "name": "Ranged Attack",
+                "progression": [
+                  0.131376,
+                  0.14076,
+                  0.150144,
+                  0.159528,
+                  0.168912,
+                  0.18768
+                ]
+              },
+              {
+                "description": "Ranged Attack in Player-to-Player combat.",
+                "name": "Ranged Attack vs. Player",
+                "progression": [
+                  0.131376,
+                  0.14076,
+                  0.150144,
+                  0.159528,
+                  0.168912,
+                  0.18768
+                ]
+              },
+              {
+                "description": "Ranged health stat bonus in combat when marching against a player.",
+                "name": "Ranged Health While Marching vs. Player",
+                "progression": [
+                  0.153272,
+                  0.16422,
+                  0.175168,
+                  0.186116,
+                  0.197064,
+                  0.21896
+                ]
+              },
+              {
+                "description": "Ranged Defense vs. Player-to-Player combat.",
+                "name": "Ranged Defense vs. Player",
+                "progression": [
+                  0.065688,
+                  0.07038,
+                  0.075072,
+                  0.079764,
+                  0.084456,
+                  0.09384
+                ]
+              }
+            ]
+          },
+          {
+            "level": 25,
+            "name": "Smithy's Tools (L25)",
+            "stats": [
+              {
+                "description": "Ranged attack bonus.",
+                "name": "Ranged Attack",
+                "progression": [
+                  0.15708,
+                  0.1683,
+                  0.17952,
+                  0.19074,
+                  0.20196,
+                  0.2244
+                ]
+              },
+              {
+                "description": "Ranged Attack in Player-to-Player combat.",
+                "name": "Ranged Attack vs. Player",
+                "progression": [
+                  0.15708,
+                  0.1683,
+                  0.17952,
+                  0.19074,
+                  0.20196,
+                  0.2244
+                ]
+              },
+              {
+                "description": "Ranged health stat bonus in combat when marching against a player.",
+                "name": "Ranged Health While Marching vs. Player",
+                "progression": [
+                  0.18326,
+                  0.19635,
+                  0.20944,
+                  0.22253,
+                  0.23562,
+                  0.2618
+                ]
+              },
+              {
+                "description": "Ranged Defense vs. Player-to-Player combat.",
+                "name": "Ranged Defense vs. Player",
+                "progression": [
+                  0.07854,
+                  0.08415,
+                  0.08976,
+                  0.09537,
+                  0.10098,
+                  0.1122
+                ]
+              }
+            ]
+          },
+          {
+            "level": 30,
+            "name": "Smithy's Tools (L30)",
+            "stats": [
+              {
+                "description": "Ranged attack bonus.",
+                "name": "Ranged Attack",
+                "progression": [
+                  0.182784,
+                  0.19584,
+                  0.208896,
+                  0.221952,
+                  0.235008,
+                  0.26112
+                ]
+              },
+              {
+                "description": "Ranged Attack in Player-to-Player combat.",
+                "name": "Ranged Attack vs. Player",
+                "progression": [
+                  0.182784,
+                  0.19584,
+                  0.208896,
+                  0.221952,
+                  0.235008,
+                  0.26112
+                ]
+              },
+              {
+                "description": "Ranged health stat bonus in combat when marching against a player.",
+                "name": "Ranged Health While Marching vs. Player",
+                "progression": [
+                  0.213248,
+                  0.22848,
+                  0.243712,
+                  0.258944,
+                  0.274176,
+                  0.30464
+                ]
+              },
+              {
+                "description": "Ranged Defense vs. Player-to-Player combat.",
+                "name": "Ranged Defense vs. Player",
+                "progression": [
+                  0.091392,
+                  0.09792,
+                  0.104448,
+                  0.110976,
+                  0.117504,
+                  0.13056
+                ]
+              },
+              {
+                "description": "Ranged Attack vs. another player's Ranged.",
+                "name": "Ranged Attack vs. Player's Ranged",
+                "progression": [
+                  0.091392,
+                  0.09792,
+                  0.104448,
+                  0.110976,
+                  0.117504,
+                  0.13056
+                ]
+              }
+            ]
+          },
+          {
+            "level": 35,
+            "name": "Smithy's Tools (L35)",
+            "stats": [
+              {
+                "description": "Ranged attack bonus.",
+                "name": "Ranged Attack",
+                "progression": [
+                  0.208488,
+                  0.22338,
+                  0.238272,
+                  0.253164,
+                  0.268056,
+                  0.29784
+                ]
+              },
+              {
+                "description": "Ranged Attack in Player-to-Player combat.",
+                "name": "Ranged Attack vs. Player",
+                "progression": [
+                  0.208488,
+                  0.22338,
+                  0.238272,
+                  0.253164,
+                  0.268056,
+                  0.29784
+                ]
+              },
+              {
+                "description": "Ranged health stat bonus in combat when marching against a player.",
+                "name": "Ranged Health While Marching vs. Player",
+                "progression": [
+                  0.243236,
+                  0.26061,
+                  0.277984,
+                  0.295358,
+                  0.312732,
+                  0.34748
+                ]
+              },
+              {
+                "description": "Ranged Defense vs. Player-to-Player combat.",
+                "name": "Ranged Defense vs. Player",
+                "progression": [
+                  0.104244,
+                  0.11169,
+                  0.119136,
+                  0.126582,
+                  0.134028,
+                  0.14892
+                ]
+              },
+              {
+                "description": "Ranged Attack vs. another player's Ranged.",
+                "name": "Ranged Attack vs. Player's Ranged",
+                "progression": [
+                  0.104244,
+                  0.11169,
+                  0.119136,
+                  0.126582,
+                  0.134028,
+                  0.14892
+                ]
+              }
+            ]
+          },
+          {
+            "level": 40,
+            "name": "Smithy's Tools (L40)",
+            "stats": [
+              {
+                "description": "Ranged attack bonus.",
+                "name": "Ranged Attack",
+                "progression": [
+                  0.234192,
+                  0.25092,
+                  0.267648,
+                  0.284376,
+                  0.301104,
+                  0.33456
+                ]
+              },
+              {
+                "description": "Ranged Attack in Player-to-Player combat.",
+                "name": "Ranged Attack vs. Player",
+                "progression": [
+                  0.234192,
+                  0.25092,
+                  0.267648,
+                  0.284376,
+                  0.301104,
+                  0.33456
+                ]
+              },
+              {
+                "description": "Ranged health stat bonus in combat when marching against a player.",
+                "name": "Ranged Health While Marching vs. Player",
+                "progression": [
+                  0.273224,
+                  0.29274,
+                  0.312256,
+                  0.331772,
+                  0.351288,
+                  0.39032
+                ]
+              },
+              {
+                "description": "Ranged Defense vs. Player-to-Player combat.",
+                "name": "Ranged Defense vs. Player",
+                "progression": [
+                  0.117096,
+                  0.12546,
+                  0.133824,
+                  0.142188,
+                  0.150552,
+                  0.16728
+                ]
+              },
+              {
+                "description": "Ranged Attack vs. another player's Ranged.",
+                "name": "Ranged Attack vs. Player's Ranged",
+                "progression": [
+                  0.117096,
+                  0.12546,
+                  0.133824,
+                  0.142188,
+                  0.150552,
+                  0.16728
+                ]
+              }
+            ]
+          },
+          {
+            "level": 45,
+            "name": "Smithy's Tools (L45)",
+            "stats": [
+              {
+                "description": "Ranged attack bonus.",
+                "name": "Ranged Attack",
+                "progression": [
+                  0.259896,
+                  0.27846,
+                  0.297024,
+                  0.315588,
+                  0.334152,
+                  0.37128
+                ]
+              },
+              {
+                "description": "Ranged Attack in Player-to-Player combat.",
+                "name": "Ranged Attack vs. Player",
+                "progression": [
+                  0.259896,
+                  0.27846,
+                  0.297024,
+                  0.315588,
+                  0.334152,
+                  0.37128
+                ]
+              },
+              {
+                "description": "Ranged health stat bonus in combat when marching against a player.",
+                "name": "Ranged Health While Marching vs. Player",
+                "progression": [
+                  0.303212,
+                  0.32487,
+                  0.346528,
+                  0.368186,
+                  0.389844,
+                  0.43316
+                ]
+              },
+              {
+                "description": "Ranged Defense vs. Player-to-Player combat.",
+                "name": "Ranged Defense vs. Player",
+                "progression": [
+                  0.129948,
+                  0.13923,
+                  0.148512,
+                  0.157794,
+                  0.167076,
+                  0.18564
+                ]
+              },
+              {
+                "description": "Ranged Attack vs. another player's Ranged.",
+                "name": "Ranged Attack vs. Player's Ranged",
+                "progression": [
+                  0.129948,
+                  0.13923,
+                  0.148512,
+                  0.157794,
+                  0.167076,
+                  0.18564
+                ]
+              }
+            ]
+          },
+          {
+            "level": 50,
+            "name": "Smithy's Tools (L50)",
+            "stats": [
+              {
+                "description": "Ranged attack bonus.",
+                "name": "Ranged Attack",
+                "progression": [
+                  0.2856,
+                  0.306,
+                  0.3264,
+                  0.3468,
+                  0.3672,
+                  0.408
+                ]
+              },
+              {
+                "description": "Ranged Attack in Player-to-Player combat.",
+                "name": "Ranged Attack vs. Player",
+                "progression": [
+                  0.2856,
+                  0.306,
+                  0.3264,
+                  0.3468,
+                  0.3672,
+                  0.408
+                ]
+              },
+              {
+                "description": "Ranged health stat bonus in combat when marching against a player.",
+                "name": "Ranged Health While Marching vs. Player",
+                "progression": [
+                  0.3332,
+                  0.357,
+                  0.3808,
+                  0.4046,
+                  0.4284,
+                  0.476
+                ]
+              },
+              {
+                "description": "Ranged Defense vs. Player-to-Player combat.",
+                "name": "Ranged Defense vs. Player",
+                "progression": [
+                  0.1428,
+                  0.153,
+                  0.1632,
+                  0.1734,
+                  0.1836,
+                  0.204
+                ]
+              },
+              {
+                "description": "Ranged Attack vs. another player's Ranged.",
+                "name": "Ranged Attack vs. Player's Ranged",
+                "progression": [
+                  0.1428,
+                  0.153,
+                  0.1632,
+                  0.1734,
+                  0.1836,
+                  0.204
+                ]
+              }
+            ]
+          }
+        ]
       }
     ]
   }
