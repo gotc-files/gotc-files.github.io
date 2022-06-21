@@ -26,7 +26,7 @@ function TemplateCalculator() {
   );
   const [existingTemplates, setExistingTemplates] = useLocalStorage(
     "template-existing-templates",
-    []
+    [0, 0]
   );
   const [existingMaterials, setExistingMaterials] = useLocalStorage(
     "template-existing-materials",
@@ -57,7 +57,7 @@ function TemplateCalculator() {
   return (
     <Page title="Template Calculator">
       <Grid container spacing={2} sx={{ px: 0, py: 2 }}>
-        <Grid item xs={12} md={6} sx={{ p: 0 }}>
+        <Grid item xs={12} lg={8} sx={{ p: 0 }}>
           <Box sx={{ py: 1 }}>
             <SingleChoiceSelect
               name="level"
@@ -89,11 +89,12 @@ function TemplateCalculator() {
               py: 1,
             }}
           >
-            <TemplateMaterials
-              materials={materials}
-              qualities={QUALITIES.slice(0, currentQualityIndex + 1)}
-              existingMaterials={existingMaterials}
-              setExistingMaterials={setExistingMaterials}
+            <TemplateGoals
+              levels={LEVELS.slice(0, currentLevelIndex + 1)}
+              existingTemplates={existingTemplates}
+              setExistingTemplates={setExistingTemplates}
+              numTemplates={numTemplates}
+              setNumTemplates={setNumTemplates}
             />
           </Box>
           <Box
@@ -101,12 +102,11 @@ function TemplateCalculator() {
               py: 1,
             }}
           >
-            <TemplateGoals
-              levels={LEVELS.slice(0, currentLevelIndex + 1)}
-              existingTemplates={existingTemplates}
-              setExistingTemplates={setExistingTemplates}
-              numTemplates={numTemplates}
-              setNumTemplates={setNumTemplates}
+            <TemplateMaterials
+              materials={materials}
+              qualities={QUALITIES.slice(0, currentQualityIndex + 1)}
+              existingMaterials={existingMaterials}
+              setExistingMaterials={setExistingMaterials}
             />
           </Box>
         </Grid>
