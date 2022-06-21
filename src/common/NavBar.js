@@ -16,8 +16,6 @@ import React, { useState } from "react";
 import { Link, useLocation, useNavigate } from "react-router-dom";
 import NavBarSelect from "./NavBarSelect";
 
-const drawerWidth = 240;
-
 function NavBar(props) {
   const [mobileOpen, setMobileOpen] = useState(false);
   const location = useLocation();
@@ -67,8 +65,8 @@ function NavBar(props) {
       <AppBar
         position="fixed"
         sx={{
-          width: { sm: `calc(100% - ${drawerWidth}px)` },
-          ml: { sm: `${drawerWidth}px` },
+          width: { sm: `calc(100% - ${props.drawerWidth}px)` },
+          ml: { sm: `${props.drawerWidth}px` },
         }}
       >
         <Toolbar sx={{ height: props.height }}>
@@ -107,7 +105,7 @@ function NavBar(props) {
       </AppBar>
       <Box
         component="nav"
-        sx={{ width: { sm: drawerWidth }, flexShrink: { sm: 0 } }}
+        sx={{ width: { sm: props.drawerWidth }, flexShrink: { sm: 0 } }}
       >
         <Drawer
           variant="temporary"
@@ -120,7 +118,7 @@ function NavBar(props) {
             display: { xs: "block", sm: "none" },
             "& .MuiDrawer-paper": {
               boxSizing: "border-box",
-              width: drawerWidth,
+              width: props.drawerWidth,
             },
             height: props.height,
           }}
@@ -133,7 +131,7 @@ function NavBar(props) {
             display: { xs: "none", sm: "block" },
             "& .MuiDrawer-paper": {
               boxSizing: "border-box",
-              width: drawerWidth,
+              width: props.drawerWidth,
             },
             height: props.height,
           }}

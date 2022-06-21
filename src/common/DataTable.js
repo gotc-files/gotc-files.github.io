@@ -68,7 +68,7 @@ function DataTable(props) {
         storageKey: props.storageKey,
         ...props.options,
       }}
-    ></MUIDataTable>
+    />
   );
 }
 

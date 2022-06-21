@@ -1,0 +1,3546 @@
+{
+  "materials": [
+    {
+      "id": "ef19ff2eb6419d20",
+      "name": "Black Iron"
+    },
+    {
+      "id": "e3c250a50eb105e3",
+      "name": "Copper Bar"
+    },
+    {
+      "id": "4833165f0a564a62",
+      "name": "Dragonglass"
+    },
+    {
+      "id": "ede75f0c2ea50337",
+      "name": "Goldenheart Wood"
+    },
+    {
+      "id": "54c7727456afac75",
+      "name": "Hide"
+    },
+    {
+      "id": "eac5bea66e4954e4",
+      "name": "Ironwood"
+    },
+    {
+      "id": "b1c88e6bcf9835a4",
+      "name": "Kingswood Oak"
+    },
+    {
+      "id": "17c69f520e5fe5c2",
+      "name": "Leather Straps"
+    },
+    {
+      "id": "da15d0d8004c27ff",
+      "name": "Milk of the Poppy"
+    },
+    {
+      "id": "8abecd2b0f259aba",
+      "name": "Silk"
+    },
+    {
+      "id": "b978929e676548db",
+      "name": "Weirwood"
+    },
+    {
+      "id": "6c885db47f3b59d5",
+      "name": "Wildfire"
+    }
+  ],
+  "recipes": [
+    {
+      "id": "9bf883ae64db671c",
+      "ingredients": [
+        {
+          "id": "b1c88e6bcf9835a4",
+          "quantity": 10
+        },
+        {
+          "id": "eac5bea66e4954e4",
+          "quantity": 10
+        }
+      ],
+      "level": 1,
+      "name": "Dagger",
+      "steel_cost": 500,
+      "upgrade_time_seconds": 300
+    },
+    {
+      "id": "398c12b05b9ded7",
+      "ingredients": [
+        {
+          "id": "17c69f520e5fe5c2",
+          "quantity": 15
+        },
+        {
+          "id": "6c885db47f3b59d5",
+          "quantity": 15
+        }
+      ],
+      "level": 5,
+      "name": "Spear",
+      "steel_cost": 4000,
+      "upgrade_time_seconds": 1800
+    },
+    {
+      "id": "c0c444de25d9a6a2",
+      "ingredients": [
+        {
+          "id": "ede75f0c2ea50337",
+          "quantity": 30
+        },
+        {
+          "id": "8abecd2b0f259aba",
+          "quantity": 30
+        }
+      ],
+      "level": 10,
+      "name": "Short Bow",
+      "steel_cost": 36500,
+      "upgrade_time_seconds": 3600
+    },
+    {
+      "id": "141f186061299d02",
+      "ingredients": [
+        {
+          "id": "b978929e676548db",
+          "quantity": 30
+        },
+        {
+          "id": "ef19ff2eb6419d20",
+          "quantity": 30
+        }
+      ],
+      "level": 10,
+      "name": "Mace",
+      "steel_cost": 36500,
+      "upgrade_time_seconds": 3600
+    },
+    {
+      "id": "42c3d6165d731b92",
+      "ingredients": [
+        {
+          "id": "eac5bea66e4954e4",
+          "quantity": 180
+        },
+        {
+          "id": "e3c250a50eb105e3",
+          "quantity": 180
+        }
+      ],
+      "level": 15,
+      "name": "Short Sword",
+      "steel_cost": 148000,
+      "upgrade_time_seconds": 10800
+    },
+    {
+      "id": "27ce3b7b92ba04d4",
+      "ingredients": [
+        {
+          "id": "ede75f0c2ea50337",
+          "quantity": 180
+        },
+        {
+          "id": "54c7727456afac75",
+          "quantity": 180
+        }
+      ],
+      "level": 15,
+      "name": "Pike",
+      "steel_cost": 148000,
+      "upgrade_time_seconds": 10800
+    },
+    {
+      "id": "a89afb691e82b66a",
+      "ingredients": [
+        {
+          "id": "ede75f0c2ea50337",
+          "quantity": 180
+        },
+        {
+          "id": "da15d0d8004c27ff",
+          "quantity": 180
+        }
+      ],
+      "level": 15,
+      "name": "Flatbow",
+      "steel_cost": 148000,
+      "upgrade_time_seconds": 10800
+    },
+    {
+      "id": "26a4b6f06539e98d",
+      "ingredients": [
+        {
+          "id": "ef19ff2eb6419d20",
+          "quantity": 600
+        },
+        {
+          "id": "6c885db47f3b59d5",
+          "quantity": 600
+        }
+      ],
+      "level": 20,
+      "name": "Rapier",
+      "steel_cost": 534000,
+      "upgrade_time_seconds": 21600
+    },
+    {
+      "id": "7876425c6d4978b0",
+      "ingredients": [
+        {
+          "id": "54c7727456afac75",
+          "quantity": 600
+        },
+        {
+          "id": "b1c88e6bcf9835a4",
+          "quantity": 600
+        }
+      ],
+      "level": 20,
+      "name": "Flail",
+      "steel_cost": 534000,
+      "upgrade_time_seconds": 21600
+    },
+    {
+      "id": "6c0f177c3f14ee64",
+      "ingredients": [
+        {
+          "id": "17c69f520e5fe5c2",
+          "quantity": 600
+        },
+        {
+          "id": "8abecd2b0f259aba",
+          "quantity": 600
+        }
+      ],
+      "level": 20,
+      "name": "Net",
+      "steel_cost": 534000,
+      "upgrade_time_seconds": 21600
+    },
+    {
+      "id": "542374b4b926227a",
+      "ingredients": [
+        {
+          "id": "b978929e676548db",
+          "quantity": 1600
+        },
+        {
+          "id": "ef19ff2eb6419d20",
+          "quantity": 1600
+        },
+        {
+          "id": "4833165f0a564a62",
+          "quantity": 1600
+        }
+      ],
+      "level": 25,
+      "name": "Gladius",
+      "steel_cost": 1800000,
+      "upgrade_time_seconds": 32400
+    },
+    {
+      "id": "aa9edcc6198aa175",
+      "ingredients": [
+        {
+          "id": "17c69f520e5fe5c2",
+          "quantity": 1600
+        },
+        {
+          "id": "ef19ff2eb6419d20",
+          "quantity": 1600
+        },
+        {
+          "id": "54c7727456afac75",
+          "quantity": 1600
+        }
+      ],
+      "level": 25,
+      "name": "Hand Axe",
+      "steel_cost": 1800000,
+      "upgrade_time_seconds": 32400
+    },
+    {
+      "id": "c90761161567b1fd",
+      "ingredients": [
+        {
+          "id": "b978929e676548db",
+          "quantity": 1600
+        },
+        {
+          "id": "8abecd2b0f259aba",
+          "quantity": 1600
+        },
+        {
+          "id": "eac5bea66e4954e4",
+          "quantity": 1600
+        }
+      ],
+      "level": 25,
+      "name": "Light Crossbow",
+      "steel_cost": 1800000,
+      "upgrade_time_seconds": 32400
+    },
+    {
+      "id": "9aa71abaac3c02a7",
+      "ingredients": [
+        {
+          "id": "b978929e676548db",
+          "quantity": 4000
+        },
+        {
+          "id": "17c69f520e5fe5c2",
+          "quantity": 4000
+        },
+        {
+          "id": "54c7727456afac75",
+          "quantity": 4000
+        }
+      ],
+      "level": 30,
+      "name": "Bastard Sword",
+      "steel_cost": 5850000,
+      "upgrade_time_seconds": 43200
+    },
+    {
+      "id": "e988686d2b707e93",
+      "ingredients": [
+        {
+          "id": "17c69f520e5fe5c2",
+          "quantity": 4000
+        },
+        {
+          "id": "e3c250a50eb105e3",
+          "quantity": 4000
+        },
+        {
+          "id": "54c7727456afac75",
+          "quantity": 4000
+        }
+      ],
+      "level": 30,
+      "name": "Glaive",
+      "steel_cost": 5850000,
+      "upgrade_time_seconds": 43200
+    },
+    {
+      "id": "6dfc52b05d7ef054",
+      "ingredients": [
+        {
+          "id": "ede75f0c2ea50337",
+          "quantity": 4000
+        },
+        {
+          "id": "54c7727456afac75",
+          "quantity": 4000
+        },
+        {
+          "id": "4833165f0a564a62",
+          "quantity": 4000
+        }
+      ],
+      "level": 30,
+      "name": "Recurve Bow",
+      "steel_cost": 5850000,
+      "upgrade_time_seconds": 43200
+    },
+    {
+      "id": "2a8398012c08e8a3",
+      "ingredients": [
+        {
+          "id": "eac5bea66e4954e4",
+          "quantity": 16000
+        },
+        {
+          "id": "ef19ff2eb6419d20",
+          "quantity": 16000
+        },
+        {
+          "id": "e3c250a50eb105e3",
+          "quantity": 16000
+        }
+      ],
+      "level": 35,
+      "name": "Falchion",
+      "steel_cost": 18400000,
+      "upgrade_time_seconds": 64800
+    },
+    {
+      "id": "5b9fdb7a5bea81de",
+      "ingredients": [
+        {
+          "id": "17c69f520e5fe5c2",
+          "quantity": 16000
+        },
+        {
+          "id": "e3c250a50eb105e3",
+          "quantity": 16000
+        },
+        {
+          "id": "ef19ff2eb6419d20",
+          "quantity": 16000
+        }
+      ],
+      "level": 35,
+      "name": "Lance",
+      "steel_cost": 18400000,
+      "upgrade_time_seconds": 64800
+    },
+    {
+      "id": "bfbb256636377266",
+      "ingredients": [
+        {
+          "id": "ede75f0c2ea50337",
+          "quantity": 12000
+        },
+        {
+          "id": "8abecd2b0f259aba",
+          "quantity": 12000
+        },
+        {
+          "id": "54c7727456afac75",
+          "quantity": 12000
+        },
+        {
+          "id": "4833165f0a564a62",
+          "quantity": 12000
+        }
+      ],
+      "level": 35,
+      "name": "Long Bow",
+      "steel_cost": 18400000,
+      "upgrade_time_seconds": 64800
+    },
+    {
+      "id": "c36ac51419af8364",
+      "ingredients": [
+        {
+          "id": "ede75f0c2ea50337",
+          "quantity": 45000
+        },
+        {
+          "id": "b1c88e6bcf9835a4",
+          "quantity": 45000
+        },
+        {
+          "id": "ef19ff2eb6419d20",
+          "quantity": 45000
+        },
+        {
+          "id": "17c69f520e5fe5c2",
+          "quantity": 45000
+        }
+      ],
+      "level": 40,
+      "name": "Poleaxe",
+      "steel_cost": 56900000,
+      "upgrade_time_seconds": 86400
+    },
+    {
+      "id": "11ec6c802a894a59",
+      "ingredients": [
+        {
+          "id": "b978929e676548db",
+          "quantity": 45000
+        },
+        {
+          "id": "b1c88e6bcf9835a4",
+          "quantity": 45000
+        },
+        {
+          "id": "e3c250a50eb105e3",
+          "quantity": 45000
+        },
+        {
+          "id": "ef19ff2eb6419d20",
+          "quantity": 45000
+        }
+      ],
+      "level": 40,
+      "name": "Long Sword",
+      "steel_cost": 56900000,
+      "upgrade_time_seconds": 86400
+    },
+    {
+      "id": "52152438fc919081",
+      "ingredients": [
+        {
+          "id": "b978929e676548db",
+          "quantity": 45000
+        },
+        {
+          "id": "17c69f520e5fe5c2",
+          "quantity": 45000
+        },
+        {
+          "id": "54c7727456afac75",
+          "quantity": 45000
+        },
+        {
+          "id": "4833165f0a564a62",
+          "quantity": 45000
+        }
+      ],
+      "level": 40,
+      "name": "Heavy Crossbow",
+      "steel_cost": 56900000,
+      "upgrade_time_seconds": 86400
+    },
+    {
+      "id": "b7eb57471308caa6",
+      "ingredients": [
+        {
+          "id": "b978929e676548db",
+          "quantity": 120000
+        },
+        {
+          "id": "e3c250a50eb105e3",
+          "quantity": 120000
+        },
+        {
+          "id": "8abecd2b0f259aba",
+          "quantity": 120000
+        },
+        {
+          "id": "ede75f0c2ea50337",
+          "quantity": 120000
+        }
+      ],
+      "level": 45,
+      "name": "Battle Axe",
+      "steel_cost": 173000000,
+      "upgrade_time_seconds": 129600
+    },
+    {
+      "id": "65e2072ba6e15ad",
+      "ingredients": [
+        {
+          "id": "eac5bea66e4954e4",
+          "quantity": 120000
+        },
+        {
+          "id": "b1c88e6bcf9835a4",
+          "quantity": 120000
+        },
+        {
+          "id": "54c7727456afac75",
+          "quantity": 120000
+        },
+        {
+          "id": "6c885db47f3b59d5",
+          "quantity": 120000
+        }
+      ],
+      "level": 45,
+      "name": "Morningstar",
+      "steel_cost": 173000000,
+      "upgrade_time_seconds": 129600
+    },
+    {
+      "id": "df20ef14cb09c2c6",
+      "ingredients": [
+        {
+          "id": "ede75f0c2ea50337",
+          "quantity": 120000
+        },
+        {
+          "id": "b1c88e6bcf9835a4",
+          "quantity": 120000
+        },
+        {
+          "id": "b978929e676548db",
+          "quantity": 120000
+        },
+        {
+          "id": "eac5bea66e4954e4",
+          "quantity": 120000
+        }
+      ],
+      "level": 45,
+      "name": "Triple Crossbow",
+      "steel_cost": 173000000,
+      "upgrade_time_seconds": 129600
+    },
+    {
+      "id": "31f059bd351b6031",
+      "ingredients": [
+        {
+          "id": "b1c88e6bcf9835a4",
+          "quantity": 450000
+        },
+        {
+          "id": "eac5bea66e4954e4",
+          "quantity": 450000
+        },
+        {
+          "id": "ef19ff2eb6419d20",
+          "quantity": 450000
+        },
+        {
+          "id": "6c885db47f3b59d5",
+          "quantity": 450000
+        }
+      ],
+      "level": 50,
+      "name": "Warhammer",
+      "steel_cost": 520000000,
+      "upgrade_time_seconds": 172800
+    },
+    {
+      "id": "155b89ab43050aff",
+      "ingredients": [
+        {
+          "id": "b978929e676548db",
+          "quantity": 450000
+        },
+        {
+          "id": "54c7727456afac75",
+          "quantity": 450000
+        },
+        {
+          "id": "e3c250a50eb105e3",
+          "quantity": 450000
+        },
+        {
+          "id": "6c885db47f3b59d5",
+          "quantity": 450000
+        }
+      ],
+      "level": 50,
+      "name": "Greatsword",
+      "steel_cost": 520000000,
+      "upgrade_time_seconds": 172800
+    },
+    {
+      "id": "352c52c0645203f2",
+      "ingredients": [
+        {
+          "id": "ede75f0c2ea50337",
+          "quantity": 450000
+        },
+        {
+          "id": "17c69f520e5fe5c2",
+          "quantity": 450000
+        },
+        {
+          "id": "8abecd2b0f259aba",
+          "quantity": 450000
+        },
+        {
+          "id": "6c885db47f3b59d5",
+          "quantity": 450000
+        }
+      ],
+      "level": 50,
+      "name": "Greatbow",
+      "steel_cost": 520000000,
+      "upgrade_time_seconds": 172800
+    },
+    {
+      "id": "6de0fc385fda5514",
+      "ingredients": [
+        {
+          "id": "54c7727456afac75",
+          "quantity": 10
+        },
+        {
+          "id": "17c69f520e5fe5c2",
+          "quantity": 10
+        }
+      ],
+      "level": 1,
+      "name": "Leather Vest",
+      "steel_cost": 500,
+      "upgrade_time_seconds": 300
+    },
+    {
+      "id": "af05ea9337eb52",
+      "ingredients": [
+        {
+          "id": "54c7727456afac75",
+          "quantity": 15
+        },
+        {
+          "id": "4833165f0a564a62",
+          "quantity": 15
+        }
+      ],
+      "level": 5,
+      "name": "Boiled Leather Shirt",
+      "steel_cost": 4000,
+      "upgrade_time_seconds": 1800
+    },
+    {
+      "id": "8d932566204ef050",
+      "ingredients": [
+        {
+          "id": "eac5bea66e4954e4",
+          "quantity": 30
+        },
+        {
+          "id": "8abecd2b0f259aba",
+          "quantity": 30
+        }
+      ],
+      "level": 10,
+      "name": "Padded Armor",
+      "steel_cost": 36500,
+      "upgrade_time_seconds": 3600
+    },
+    {
+      "id": "8cbdcf2ce2346f9d",
+      "ingredients": [
+        {
+          "id": "da15d0d8004c27ff",
+          "quantity": 30
+        },
+        {
+          "id": "54c7727456afac75",
+          "quantity": 30
+        }
+      ],
+      "level": 10,
+      "name": "Wool Robe",
+      "steel_cost": 36500,
+      "upgrade_time_seconds": 3600
+    },
+    {
+      "id": "53b169ee90975d46",
+      "ingredients": [
+        {
+          "id": "17c69f520e5fe5c2",
+          "quantity": 180
+        },
+        {
+          "id": "6c885db47f3b59d5",
+          "quantity": 180
+        }
+      ],
+      "level": 15,
+      "name": "Charred Leathers",
+      "steel_cost": 148000,
+      "upgrade_time_seconds": 10800
+    },
+    {
+      "id": "1e82f391ccd4862",
+      "ingredients": [
+        {
+          "id": "e3c250a50eb105e3",
+          "quantity": 180
+        },
+        {
+          "id": "54c7727456afac75",
+          "quantity": 180
+        }
+      ],
+      "level": 15,
+      "name": "Bronze Chain Shirt",
+      "steel_cost": 148000,
+      "upgrade_time_seconds": 10800
+    },
+    {
+      "id": "783c32b0622ffd86",
+      "ingredients": [
+        {
+          "id": "6c885db47f3b59d5",
+          "quantity": 180
+        },
+        {
+          "id": "8abecd2b0f259aba",
+          "quantity": 180
+        }
+      ],
+      "level": 15,
+      "name": "Lab Smock",
+      "steel_cost": 148000,
+      "upgrade_time_seconds": 10800
+    },
+    {
+      "id": "9b00af0f16e37add",
+      "ingredients": [
+        {
+          "id": "ef19ff2eb6419d20",
+          "quantity": 600
+        },
+        {
+          "id": "17c69f520e5fe5c2",
+          "quantity": 600
+        }
+      ],
+      "level": 20,
+      "name": "Iron Chain Shirt",
+      "steel_cost": 534000,
+      "upgrade_time_seconds": 21600
+    },
+    {
+      "id": "da09024bdc51f097",
+      "ingredients": [
+        {
+          "id": "e3c250a50eb105e3",
+          "quantity": 600
+        },
+        {
+          "id": "17c69f520e5fe5c2",
+          "quantity": 600
+        }
+      ],
+      "level": 20,
+      "name": "Copper Chain Shirt",
+      "steel_cost": 534000,
+      "upgrade_time_seconds": 21600
+    },
+    {
+      "id": "6c947d1342a64e91",
+      "ingredients": [
+        {
+          "id": "8abecd2b0f259aba",
+          "quantity": 600
+        },
+        {
+          "id": "4833165f0a564a62",
+          "quantity": 600
+        }
+      ],
+      "level": 20,
+      "name": "Merchant's Doublet",
+      "steel_cost": 534000,
+      "upgrade_time_seconds": 21600
+    },
+    {
+      "id": "738cc4d31b43a9de",
+      "ingredients": [
+        {
+          "id": "b978929e676548db",
+          "quantity": 1600
+        },
+        {
+          "id": "e3c250a50eb105e3",
+          "quantity": 1600
+        },
+        {
+          "id": "4833165f0a564a62",
+          "quantity": 1600
+        }
+      ],
+      "level": 25,
+      "name": "Riveted Brigandine",
+      "steel_cost": 1800000,
+      "upgrade_time_seconds": 32400
+    },
+    {
+      "id": "6dbf3ce27be23d22",
+      "ingredients": [
+        {
+          "id": "17c69f520e5fe5c2",
+          "quantity": 1600
+        },
+        {
+          "id": "ef19ff2eb6419d20",
+          "quantity": 1600
+        },
+        {
+          "id": "54c7727456afac75",
+          "quantity": 1600
+        }
+      ],
+      "level": 25,
+      "name": "Iron Chainmail",
+      "steel_cost": 1800000,
+      "upgrade_time_seconds": 32400
+    },
+    {
+      "id": "ec3ff05bd222122f",
+      "ingredients": [
+        {
+          "id": "da15d0d8004c27ff",
+          "quantity": 2400
+        },
+        {
+          "id": "8abecd2b0f259aba",
+          "quantity": 2400
+        }
+      ],
+      "level": 25,
+      "name": "Maester's Robes",
+      "steel_cost": 1800000,
+      "upgrade_time_seconds": 32400
+    },
+    {
+      "id": "fc0a1df774141ccb",
+      "ingredients": [
+        {
+          "id": "b978929e676548db",
+          "quantity": 4000
+        },
+        {
+          "id": "17c69f520e5fe5c2",
+          "quantity": 4000
+        },
+        {
+          "id": "54c7727456afac75",
+          "quantity": 4000
+        }
+      ],
+      "level": 30,
+      "name": "Iron Brigandine",
+      "steel_cost": 5850000,
+      "upgrade_time_seconds": 43200
+    },
+    {
+      "id": "8961946ff925a582",
+      "ingredients": [
+        {
+          "id": "17c69f520e5fe5c2",
+          "quantity": 6000
+        },
+        {
+          "id": "e3c250a50eb105e3",
+          "quantity": 6000
+        }
+      ],
+      "level": 30,
+      "name": "Gold Chainmail",
+      "steel_cost": 5850000,
+      "upgrade_time_seconds": 43200
+    },
+    {
+      "id": "669f78ff0fef645a",
+      "ingredients": [
+        {
+          "id": "8abecd2b0f259aba",
+          "quantity": 6000
+        },
+        {
+          "id": "da15d0d8004c27ff",
+          "quantity": 6000
+        }
+      ],
+      "level": 30,
+      "name": "Silk Tunic",
+      "steel_cost": 5850000,
+      "upgrade_time_seconds": 43200
+    },
+    {
+      "id": "ceda5ab9ea33395f",
+      "ingredients": [
+        {
+          "id": "eac5bea66e4954e4",
+          "quantity": 24000
+        },
+        {
+          "id": "4833165f0a564a62",
+          "quantity": 24000
+        }
+      ],
+      "level": 35,
+      "name": "Silvered Brigandine",
+      "steel_cost": 18400000,
+      "upgrade_time_seconds": 64800
+    },
+    {
+      "id": "6301fe633f21987c",
+      "ingredients": [
+        {
+          "id": "17c69f520e5fe5c2",
+          "quantity": 16000
+        },
+        {
+          "id": "e3c250a50eb105e3",
+          "quantity": 16000
+        },
+        {
+          "id": "ef19ff2eb6419d20",
+          "quantity": 16000
+        }
+      ],
+      "level": 35,
+      "name": "Steel Chainmail",
+      "steel_cost": 18400000,
+      "upgrade_time_seconds": 64800
+    },
+    {
+      "id": "7ebc9172d0231d53",
+      "ingredients": [
+        {
+          "id": "8abecd2b0f259aba",
+          "quantity": 24000
+        },
+        {
+          "id": "da15d0d8004c27ff",
+          "quantity": 24000
+        }
+      ],
+      "level": 35,
+      "name": "Satin Dress",
+      "steel_cost": 18400000,
+      "upgrade_time_seconds": 64800
+    },
+    {
+      "id": "a3c80fc59f49bddc",
+      "ingredients": [
+        {
+          "id": "ede75f0c2ea50337",
+          "quantity": 45000
+        },
+        {
+          "id": "b1c88e6bcf9835a4",
+          "quantity": 45000
+        },
+        {
+          "id": "ef19ff2eb6419d20",
+          "quantity": 45000
+        },
+        {
+          "id": "17c69f520e5fe5c2",
+          "quantity": 45000
+        }
+      ],
+      "level": 40,
+      "name": "Iron Scalemail",
+      "steel_cost": 56900000,
+      "upgrade_time_seconds": 86400
+    },
+    {
+      "id": "1396b42eb9fbbf4c",
+      "ingredients": [
+        {
+          "id": "b978929e676548db",
+          "quantity": 45000
+        },
+        {
+          "id": "b1c88e6bcf9835a4",
+          "quantity": 45000
+        },
+        {
+          "id": "e3c250a50eb105e3",
+          "quantity": 45000
+        },
+        {
+          "id": "ef19ff2eb6419d20",
+          "quantity": 45000
+        }
+      ],
+      "level": 40,
+      "name": "Electrum Scalemail",
+      "steel_cost": 56900000,
+      "upgrade_time_seconds": 86400
+    },
+    {
+      "id": "e9527191f902f190",
+      "ingredients": [
+        {
+          "id": "8abecd2b0f259aba",
+          "quantity": 60000
+        },
+        {
+          "id": "17c69f520e5fe5c2",
+          "quantity": 60000
+        },
+        {
+          "id": "da15d0d8004c27ff",
+          "quantity": 60000
+        }
+      ],
+      "level": 40,
+      "name": "Courtesan's Outfit",
+      "steel_cost": 56900000,
+      "upgrade_time_seconds": 86400
+    },
+    {
+      "id": "aeb4bccada89622d",
+      "ingredients": [
+        {
+          "id": "ef19ff2eb6419d20",
+          "quantity": 120000
+        },
+        {
+          "id": "b978929e676548db",
+          "quantity": 120000
+        },
+        {
+          "id": "8abecd2b0f259aba",
+          "quantity": 120000
+        },
+        {
+          "id": "ede75f0c2ea50337",
+          "quantity": 120000
+        }
+      ],
+      "level": 45,
+      "name": "Lead Cuirass",
+      "steel_cost": 173000000,
+      "upgrade_time_seconds": 129600
+    },
+    {
+      "id": "ae1586ac1236fbac",
+      "ingredients": [
+        {
+          "id": "eac5bea66e4954e4",
+          "quantity": 120000
+        },
+        {
+          "id": "b1c88e6bcf9835a4",
+          "quantity": 120000
+        },
+        {
+          "id": "54c7727456afac75",
+          "quantity": 120000
+        },
+        {
+          "id": "4833165f0a564a62",
+          "quantity": 120000
+        }
+      ],
+      "level": 45,
+      "name": "Bronze Cuirass",
+      "steel_cost": 173000000,
+      "upgrade_time_seconds": 129600
+    },
+    {
+      "id": "282a73abda040763",
+      "ingredients": [
+        {
+          "id": "ede75f0c2ea50337",
+          "quantity": 120000
+        },
+        {
+          "id": "e3c250a50eb105e3",
+          "quantity": 120000
+        },
+        {
+          "id": "b978929e676548db",
+          "quantity": 120000
+        },
+        {
+          "id": "eac5bea66e4954e4",
+          "quantity": 120000
+        }
+      ],
+      "level": 45,
+      "name": "Golden Raiment",
+      "steel_cost": 173000000,
+      "upgrade_time_seconds": 129600
+    },
+    {
+      "id": "68eed62f27fa59c2",
+      "ingredients": [
+        {
+          "id": "ef19ff2eb6419d20",
+          "quantity": 450000
+        },
+        {
+          "id": "eac5bea66e4954e4",
+          "quantity": 450000
+        },
+        {
+          "id": "4833165f0a564a62",
+          "quantity": 450000
+        },
+        {
+          "id": "b1c88e6bcf9835a4",
+          "quantity": 450000
+        }
+      ],
+      "level": 50,
+      "name": "Black Iron Plate",
+      "steel_cost": 520000000,
+      "upgrade_time_seconds": 172800
+    },
+    {
+      "id": "4cc239ccb9d84dd1",
+      "ingredients": [
+        {
+          "id": "8abecd2b0f259aba",
+          "quantity": 450000
+        },
+        {
+          "id": "54c7727456afac75",
+          "quantity": 450000
+        },
+        {
+          "id": "ef19ff2eb6419d20",
+          "quantity": 450000
+        },
+        {
+          "id": "6c885db47f3b59d5",
+          "quantity": 450000
+        }
+      ],
+      "level": 50,
+      "name": "Suit of Iron",
+      "steel_cost": 520000000,
+      "upgrade_time_seconds": 172800
+    },
+    {
+      "id": "79f8f22cfceba70a",
+      "ingredients": [
+        {
+          "id": "ede75f0c2ea50337",
+          "quantity": 450000
+        },
+        {
+          "id": "17c69f520e5fe5c2",
+          "quantity": 450000
+        },
+        {
+          "id": "e3c250a50eb105e3",
+          "quantity": 450000
+        },
+        {
+          "id": "da15d0d8004c27ff",
+          "quantity": 450000
+        }
+      ],
+      "level": 50,
+      "name": "Bastion of Pale Steel",
+      "steel_cost": 520000000,
+      "upgrade_time_seconds": 172800
+    },
+    {
+      "id": "bcc8e0839f4bfcb3",
+      "ingredients": [
+        {
+          "id": "17c69f520e5fe5c2",
+          "quantity": 10
+        },
+        {
+          "id": "54c7727456afac75",
+          "quantity": 10
+        }
+      ],
+      "level": 1,
+      "name": "Straw Sandals",
+      "steel_cost": 500,
+      "upgrade_time_seconds": 300
+    },
+    {
+      "id": "1ff443b1bbb22dc1",
+      "ingredients": [
+        {
+          "id": "54c7727456afac75",
+          "quantity": 10
+        },
+        {
+          "id": "8abecd2b0f259aba",
+          "quantity": 10
+        },
+        {
+          "id": "b978929e676548db",
+          "quantity": 10
+        }
+      ],
+      "level": 5,
+      "name": "Leather Booties",
+      "steel_cost": 4000,
+      "upgrade_time_seconds": 1800
+    },
+    {
+      "id": "cb41c678aa8504b5",
+      "ingredients": [
+        {
+          "id": "b978929e676548db",
+          "quantity": 30
+        },
+        {
+          "id": "eac5bea66e4954e4",
+          "quantity": 30
+        }
+      ],
+      "level": 10,
+      "name": "Galoshes",
+      "steel_cost": 36500,
+      "upgrade_time_seconds": 3600
+    },
+    {
+      "id": "c46f0ddc2f3882a2",
+      "ingredients": [
+        {
+          "id": "8abecd2b0f259aba",
+          "quantity": 30
+        },
+        {
+          "id": "6c885db47f3b59d5",
+          "quantity": 30
+        }
+      ],
+      "level": 10,
+      "name": "Velvet Boots",
+      "steel_cost": 36500,
+      "upgrade_time_seconds": 3600
+    },
+    {
+      "id": "128f19c166a55c49",
+      "ingredients": [
+        {
+          "id": "17c69f520e5fe5c2",
+          "quantity": 180
+        },
+        {
+          "id": "b1c88e6bcf9835a4",
+          "quantity": 180
+        }
+      ],
+      "level": 15,
+      "name": "Riding Boots",
+      "steel_cost": 148000,
+      "upgrade_time_seconds": 10800
+    },
+    {
+      "id": "544dd0ed741b5521",
+      "ingredients": [
+        {
+          "id": "ef19ff2eb6419d20",
+          "quantity": 120
+        },
+        {
+          "id": "ede75f0c2ea50337",
+          "quantity": 120
+        },
+        {
+          "id": "b978929e676548db",
+          "quantity": 120
+        }
+      ],
+      "level": 15,
+      "name": "Steel-Toed Stompers",
+      "steel_cost": 148000,
+      "upgrade_time_seconds": 10800
+    },
+    {
+      "id": "58757a9b89ee4418",
+      "ingredients": [
+        {
+          "id": "b978929e676548db",
+          "quantity": 120
+        },
+        {
+          "id": "8abecd2b0f259aba",
+          "quantity": 120
+        },
+        {
+          "id": "4833165f0a564a62",
+          "quantity": 120
+        }
+      ],
+      "level": 15,
+      "name": "Well-heeled Shoes",
+      "steel_cost": 148000,
+      "upgrade_time_seconds": 10800
+    },
+    {
+      "id": "b5c6f5e76f1ce234",
+      "ingredients": [
+        {
+          "id": "54c7727456afac75",
+          "quantity": 600
+        },
+        {
+          "id": "17c69f520e5fe5c2",
+          "quantity": 600
+        }
+      ],
+      "level": 20,
+      "name": "Trail Rider's Gaiters",
+      "steel_cost": 534000,
+      "upgrade_time_seconds": 21600
+    },
+    {
+      "id": "323b8548910cf10f",
+      "ingredients": [
+        {
+          "id": "17c69f520e5fe5c2",
+          "quantity": 600
+        },
+        {
+          "id": "4833165f0a564a62",
+          "quantity": 600
+        }
+      ],
+      "level": 20,
+      "name": "Sandstompers",
+      "steel_cost": 534000,
+      "upgrade_time_seconds": 21600
+    },
+    {
+      "id": "b0b7c7b1a53404ca",
+      "ingredients": [
+        {
+          "id": "b978929e676548db",
+          "quantity": 600
+        },
+        {
+          "id": "eac5bea66e4954e4",
+          "quantity": 600
+        }
+      ],
+      "level": 20,
+      "name": "Boots of War",
+      "steel_cost": 534000,
+      "upgrade_time_seconds": 21600
+    },
+    {
+      "id": "59abec87813e3e90",
+      "ingredients": [
+        {
+          "id": "17c69f520e5fe5c2",
+          "quantity": 2400
+        },
+        {
+          "id": "e3c250a50eb105e3",
+          "quantity": 2400
+        }
+      ],
+      "level": 25,
+      "name": "Knife-Toed Boots",
+      "steel_cost": 1800000,
+      "upgrade_time_seconds": 32400
+    },
+    {
+      "id": "99c3b5dca87d0d7a",
+      "ingredients": [
+        {
+          "id": "ef19ff2eb6419d20",
+          "quantity": 1600
+        },
+        {
+          "id": "e3c250a50eb105e3",
+          "quantity": 1600
+        },
+        {
+          "id": "17c69f520e5fe5c2",
+          "quantity": 1600
+        }
+      ],
+      "level": 25,
+      "name": "Electrum Sabatons",
+      "steel_cost": 1800000,
+      "upgrade_time_seconds": 32400
+    },
+    {
+      "id": "5437647cba5bd2da",
+      "ingredients": [
+        {
+          "id": "da15d0d8004c27ff",
+          "quantity": 1600
+        },
+        {
+          "id": "b1c88e6bcf9835a4",
+          "quantity": 1600
+        },
+        {
+          "id": "ede75f0c2ea50337",
+          "quantity": 1600
+        }
+      ],
+      "level": 25,
+      "name": "Dancing Shoes",
+      "steel_cost": 1800000,
+      "upgrade_time_seconds": 32400
+    },
+    {
+      "id": "1c4eea8500a61f5b",
+      "ingredients": [
+        {
+          "id": "17c69f520e5fe5c2",
+          "quantity": 3000
+        },
+        {
+          "id": "e3c250a50eb105e3",
+          "quantity": 3000
+        },
+        {
+          "id": "6c885db47f3b59d5",
+          "quantity": 3000
+        },
+        {
+          "id": "4833165f0a564a62",
+          "quantity": 3000
+        }
+      ],
+      "level": 30,
+      "name": "Spiked Boots",
+      "steel_cost": 5850000,
+      "upgrade_time_seconds": 43200
+    },
+    {
+      "id": "672eecb37907a4a9",
+      "ingredients": [
+        {
+          "id": "e3c250a50eb105e3",
+          "quantity": 4000
+        },
+        {
+          "id": "17c69f520e5fe5c2",
+          "quantity": 4000
+        },
+        {
+          "id": "da15d0d8004c27ff",
+          "quantity": 4000
+        }
+      ],
+      "level": 30,
+      "name": "Silver Sabatons",
+      "steel_cost": 5850000,
+      "upgrade_time_seconds": 43200
+    },
+    {
+      "id": "81777ba065a52f57",
+      "ingredients": [
+        {
+          "id": "eac5bea66e4954e4",
+          "quantity": 4000
+        },
+        {
+          "id": "b1c88e6bcf9835a4",
+          "quantity": 4000
+        },
+        {
+          "id": "da15d0d8004c27ff",
+          "quantity": 4000
+        }
+      ],
+      "level": 30,
+      "name": "Pathfinder's Boots",
+      "steel_cost": 5850000,
+      "upgrade_time_seconds": 43200
+    },
+    {
+      "id": "d6e6faaf5e39f94b",
+      "ingredients": [
+        {
+          "id": "17c69f520e5fe5c2",
+          "quantity": 16000
+        },
+        {
+          "id": "6c885db47f3b59d5",
+          "quantity": 16000
+        },
+        {
+          "id": "4833165f0a564a62",
+          "quantity": 16000
+        }
+      ],
+      "level": 35,
+      "name": "Winged Boots",
+      "steel_cost": 18400000,
+      "upgrade_time_seconds": 64800
+    },
+    {
+      "id": "373f04f516bcf501",
+      "ingredients": [
+        {
+          "id": "8abecd2b0f259aba",
+          "quantity": 16000
+        },
+        {
+          "id": "e3c250a50eb105e3",
+          "quantity": 16000
+        },
+        {
+          "id": "da15d0d8004c27ff",
+          "quantity": 16000
+        }
+      ],
+      "level": 35,
+      "name": "Gold Sabatons",
+      "steel_cost": 18400000,
+      "upgrade_time_seconds": 64800
+    },
+    {
+      "id": "a6384f764bbf901f",
+      "ingredients": [
+        {
+          "id": "ef19ff2eb6419d20",
+          "quantity": 16000
+        },
+        {
+          "id": "b978929e676548db",
+          "quantity": 16000
+        },
+        {
+          "id": "eac5bea66e4954e4",
+          "quantity": 16000
+        }
+      ],
+      "level": 35,
+      "name": "Earthshakers",
+      "steel_cost": 18400000,
+      "upgrade_time_seconds": 64800
+    },
+    {
+      "id": "31f952d6f66fa4d1",
+      "ingredients": [
+        {
+          "id": "b978929e676548db",
+          "quantity": 45000
+        },
+        {
+          "id": "ef19ff2eb6419d20",
+          "quantity": 45000
+        },
+        {
+          "id": "54c7727456afac75",
+          "quantity": 45000
+        },
+        {
+          "id": "b1c88e6bcf9835a4",
+          "quantity": 45000
+        }
+      ],
+      "level": 40,
+      "name": "Blackwater Treads",
+      "steel_cost": 56900000,
+      "upgrade_time_seconds": 86400
+    },
+    {
+      "id": "b0eef893d24bbf4f",
+      "ingredients": [
+        {
+          "id": "8abecd2b0f259aba",
+          "quantity": 45000
+        },
+        {
+          "id": "ef19ff2eb6419d20",
+          "quantity": 45000
+        },
+        {
+          "id": "6c885db47f3b59d5",
+          "quantity": 45000
+        },
+        {
+          "id": "54c7727456afac75",
+          "quantity": 45000
+        }
+      ],
+      "level": 40,
+      "name": "Black Iron Sabatons",
+      "steel_cost": 56900000,
+      "upgrade_time_seconds": 86400
+    },
+    {
+      "id": "fd3325a224433b46",
+      "ingredients": [
+        {
+          "id": "e3c250a50eb105e3",
+          "quantity": 45000
+        },
+        {
+          "id": "17c69f520e5fe5c2",
+          "quantity": 45000
+        },
+        {
+          "id": "6c885db47f3b59d5",
+          "quantity": 45000
+        },
+        {
+          "id": "da15d0d8004c27ff",
+          "quantity": 45000
+        }
+      ],
+      "level": 40,
+      "name": "Copper Spiked Kickers",
+      "steel_cost": 56900000,
+      "upgrade_time_seconds": 86400
+    },
+    {
+      "id": "a05f805cf8f86845",
+      "ingredients": [
+        {
+          "id": "eac5bea66e4954e4",
+          "quantity": 120000
+        },
+        {
+          "id": "4833165f0a564a62",
+          "quantity": 120000
+        },
+        {
+          "id": "ede75f0c2ea50337",
+          "quantity": 120000
+        },
+        {
+          "id": "54c7727456afac75",
+          "quantity": 120000
+        }
+      ],
+      "level": 45,
+      "name": "Spurred Treads",
+      "steel_cost": 173000000,
+      "upgrade_time_seconds": 129600
+    },
+    {
+      "id": "6a8ef26a67f55c8e",
+      "ingredients": [
+        {
+          "id": "e3c250a50eb105e3",
+          "quantity": 120000
+        },
+        {
+          "id": "eac5bea66e4954e4",
+          "quantity": 120000
+        },
+        {
+          "id": "b1c88e6bcf9835a4",
+          "quantity": 120000
+        },
+        {
+          "id": "da15d0d8004c27ff",
+          "quantity": 120000
+        }
+      ],
+      "level": 45,
+      "name": "Copper Sabatons",
+      "steel_cost": 173000000,
+      "upgrade_time_seconds": 129600
+    },
+    {
+      "id": "f05530eec0325029",
+      "ingredients": [
+        {
+          "id": "b1c88e6bcf9835a4",
+          "quantity": 120000
+        },
+        {
+          "id": "ef19ff2eb6419d20",
+          "quantity": 120000
+        },
+        {
+          "id": "b978929e676548db",
+          "quantity": 120000
+        },
+        {
+          "id": "e3c250a50eb105e3",
+          "quantity": 120000
+        }
+      ],
+      "level": 45,
+      "name": "Lead Soled Shoes",
+      "steel_cost": 173000000,
+      "upgrade_time_seconds": 129600
+    },
+    {
+      "id": "ea1c8e327a3bbdea",
+      "ingredients": [
+        {
+          "id": "8abecd2b0f259aba",
+          "quantity": 450000
+        },
+        {
+          "id": "6c885db47f3b59d5",
+          "quantity": 450000
+        },
+        {
+          "id": "4833165f0a564a62",
+          "quantity": 450000
+        },
+        {
+          "id": "17c69f520e5fe5c2",
+          "quantity": 450000
+        }
+      ],
+      "level": 50,
+      "name": "Boots of the Berserker",
+      "steel_cost": 520000000,
+      "upgrade_time_seconds": 172800
+    },
+    {
+      "id": "5f328bf1ad4be122",
+      "ingredients": [
+        {
+          "id": "ede75f0c2ea50337",
+          "quantity": 450000
+        },
+        {
+          "id": "ef19ff2eb6419d20",
+          "quantity": 450000
+        },
+        {
+          "id": "eac5bea66e4954e4",
+          "quantity": 450000
+        },
+        {
+          "id": "54c7727456afac75",
+          "quantity": 450000
+        }
+      ],
+      "level": 50,
+      "name": "Iron Sabatons",
+      "steel_cost": 520000000,
+      "upgrade_time_seconds": 172800
+    },
+    {
+      "id": "a93391e4185dec43",
+      "ingredients": [
+        {
+          "id": "8abecd2b0f259aba",
+          "quantity": 450000
+        },
+        {
+          "id": "ede75f0c2ea50337",
+          "quantity": 450000
+        },
+        {
+          "id": "da15d0d8004c27ff",
+          "quantity": 450000
+        },
+        {
+          "id": "e3c250a50eb105e3",
+          "quantity": 450000
+        }
+      ],
+      "level": 50,
+      "name": "Silk Slippers",
+      "steel_cost": 520000000,
+      "upgrade_time_seconds": 172800
+    },
+    {
+      "id": "c12f3e38e4ea45f3",
+      "ingredients": [
+        {
+          "id": "b978929e676548db",
+          "quantity": 10
+        },
+        {
+          "id": "b1c88e6bcf9835a4",
+          "quantity": 10
+        }
+      ],
+      "level": 1,
+      "name": "Wooden Bucket",
+      "steel_cost": 500,
+      "upgrade_time_seconds": 300
+    },
+    {
+      "id": "31d5eda50f4c7fda",
+      "ingredients": [
+        {
+          "id": "b1c88e6bcf9835a4",
+          "quantity": 15
+        },
+        {
+          "id": "da15d0d8004c27ff",
+          "quantity": 15
+        }
+      ],
+      "level": 5,
+      "name": "Wool Bandana",
+      "steel_cost": 4000,
+      "upgrade_time_seconds": 1800
+    },
+    {
+      "id": "23a6cf72c29d9b8f",
+      "ingredients": [
+        {
+          "id": "8abecd2b0f259aba",
+          "quantity": 20
+        },
+        {
+          "id": "17c69f520e5fe5c2",
+          "quantity": 20
+        },
+        {
+          "id": "4833165f0a564a62",
+          "quantity": 20
+        }
+      ],
+      "level": 10,
+      "name": "Straw Hat",
+      "steel_cost": 36500,
+      "upgrade_time_seconds": 3600
+    },
+    {
+      "id": "21cc0a514aabd6d8",
+      "ingredients": [
+        {
+          "id": "e3c250a50eb105e3",
+          "quantity": 30
+        },
+        {
+          "id": "17c69f520e5fe5c2",
+          "quantity": 30
+        }
+      ],
+      "level": 10,
+      "name": "Copper Pot",
+      "steel_cost": 36500,
+      "upgrade_time_seconds": 3600
+    },
+    {
+      "id": "39dbd8dcd7df92f5",
+      "ingredients": [
+        {
+          "id": "6c885db47f3b59d5",
+          "quantity": 180
+        },
+        {
+          "id": "b978929e676548db",
+          "quantity": 180
+        }
+      ],
+      "level": 15,
+      "name": "Mushroom Cap",
+      "steel_cost": 148000,
+      "upgrade_time_seconds": 10800
+    },
+    {
+      "id": "a3777d341a2b15bc",
+      "ingredients": [
+        {
+          "id": "ef19ff2eb6419d20",
+          "quantity": 180
+        },
+        {
+          "id": "da15d0d8004c27ff",
+          "quantity": 180
+        }
+      ],
+      "level": 15,
+      "name": "Steel Gorget",
+      "steel_cost": 148000,
+      "upgrade_time_seconds": 10800
+    },
+    {
+      "id": "52b4ce833bbb7eac",
+      "ingredients": [
+        {
+          "id": "ef19ff2eb6419d20",
+          "quantity": 180
+        },
+        {
+          "id": "17c69f520e5fe5c2",
+          "quantity": 180
+        }
+      ],
+      "level": 15,
+      "name": "Iron Skullcap",
+      "steel_cost": 148000,
+      "upgrade_time_seconds": 10800
+    },
+    {
+      "id": "34dcc245ccc965fb",
+      "ingredients": [
+        {
+          "id": "54c7727456afac75",
+          "quantity": 600
+        },
+        {
+          "id": "6c885db47f3b59d5",
+          "quantity": 600
+        }
+      ],
+      "level": 20,
+      "name": "Wool Coif",
+      "steel_cost": 534000,
+      "upgrade_time_seconds": 21600
+    },
+    {
+      "id": "fb4b2a286dfb3b50",
+      "ingredients": [
+        {
+          "id": "8abecd2b0f259aba",
+          "quantity": 600
+        },
+        {
+          "id": "17c69f520e5fe5c2",
+          "quantity": 600
+        }
+      ],
+      "level": 20,
+      "name": "Turban",
+      "steel_cost": 534000,
+      "upgrade_time_seconds": 21600
+    },
+    {
+      "id": "7c58deac60a69d3c",
+      "ingredients": [
+        {
+          "id": "e3c250a50eb105e3",
+          "quantity": 600
+        },
+        {
+          "id": "eac5bea66e4954e4",
+          "quantity": 600
+        }
+      ],
+      "level": 20,
+      "name": "Halfhelm",
+      "steel_cost": 534000,
+      "upgrade_time_seconds": 21600
+    },
+    {
+      "id": "f6ebcd7da846657a",
+      "ingredients": [
+        {
+          "id": "54c7727456afac75",
+          "quantity": 1600
+        },
+        {
+          "id": "da15d0d8004c27ff",
+          "quantity": 1600
+        },
+        {
+          "id": "ede75f0c2ea50337",
+          "quantity": 1600
+        }
+      ],
+      "level": 25,
+      "name": "Traveler's Hood",
+      "steel_cost": 1800000,
+      "upgrade_time_seconds": 32400
+    },
+    {
+      "id": "30f5f1438fc762b9",
+      "ingredients": [
+        {
+          "id": "ef19ff2eb6419d20",
+          "quantity": 1600
+        },
+        {
+          "id": "eac5bea66e4954e4",
+          "quantity": 1600
+        },
+        {
+          "id": "4833165f0a564a62",
+          "quantity": 1600
+        }
+      ],
+      "level": 25,
+      "name": "Lead Circlet",
+      "steel_cost": 1800000,
+      "upgrade_time_seconds": 32400
+    },
+    {
+      "id": "f23207c038a3a7ca",
+      "ingredients": [
+        {
+          "id": "54c7727456afac75",
+          "quantity": 1600
+        },
+        {
+          "id": "17c69f520e5fe5c2",
+          "quantity": 1600
+        },
+        {
+          "id": "8abecd2b0f259aba",
+          "quantity": 1600
+        }
+      ],
+      "level": 25,
+      "name": "Pirate Tricorne",
+      "steel_cost": 1800000,
+      "upgrade_time_seconds": 32400
+    },
+    {
+      "id": "788d4c1357641d53",
+      "ingredients": [
+        {
+          "id": "8abecd2b0f259aba",
+          "quantity": 4000
+        },
+        {
+          "id": "4833165f0a564a62",
+          "quantity": 4000
+        },
+        {
+          "id": "54c7727456afac75",
+          "quantity": 4000
+        }
+      ],
+      "level": 30,
+      "name": "Officer's Plumed Helm",
+      "steel_cost": 5850000,
+      "upgrade_time_seconds": 43200
+    },
+    {
+      "id": "f2e86453b9242909",
+      "ingredients": [
+        {
+          "id": "4833165f0a564a62",
+          "quantity": 4000
+        },
+        {
+          "id": "17c69f520e5fe5c2",
+          "quantity": 4000
+        },
+        {
+          "id": "6c885db47f3b59d5",
+          "quantity": 4000
+        }
+      ],
+      "level": 30,
+      "name": "Garnet Forehead Pendant",
+      "steel_cost": 5850000,
+      "upgrade_time_seconds": 43200
+    },
+    {
+      "id": "22552ae1b9d81c0a",
+      "ingredients": [
+        {
+          "id": "e3c250a50eb105e3",
+          "quantity": 6000
+        },
+        {
+          "id": "ede75f0c2ea50337",
+          "quantity": 6000
+        }
+      ],
+      "level": 30,
+      "name": "Kettle Helm",
+      "steel_cost": 5850000,
+      "upgrade_time_seconds": 43200
+    },
+    {
+      "id": "21832c15010e7502",
+      "ingredients": [
+        {
+          "id": "8abecd2b0f259aba",
+          "quantity": 16000
+        },
+        {
+          "id": "17c69f520e5fe5c2",
+          "quantity": 16000
+        },
+        {
+          "id": "da15d0d8004c27ff",
+          "quantity": 16000
+        }
+      ],
+      "level": 35,
+      "name": "Silk Chapeau",
+      "steel_cost": 18400000,
+      "upgrade_time_seconds": 64800
+    },
+    {
+      "id": "e60794f56be732c0",
+      "ingredients": [
+        {
+          "id": "e3c250a50eb105e3",
+          "quantity": 16000
+        },
+        {
+          "id": "b1c88e6bcf9835a4",
+          "quantity": 16000
+        },
+        {
+          "id": "54c7727456afac75",
+          "quantity": 16000
+        }
+      ],
+      "level": 35,
+      "name": "Casque",
+      "steel_cost": 18400000,
+      "upgrade_time_seconds": 64800
+    },
+    {
+      "id": "49cf1b79b81c143c",
+      "ingredients": [
+        {
+          "id": "4833165f0a564a62",
+          "quantity": 16000
+        },
+        {
+          "id": "54c7727456afac75",
+          "quantity": 16000
+        },
+        {
+          "id": "8abecd2b0f259aba",
+          "quantity": 16000
+        }
+      ],
+      "level": 35,
+      "name": "Emerald Forehead Pendant",
+      "steel_cost": 18400000,
+      "upgrade_time_seconds": 64800
+    },
+    {
+      "id": "d913512b9971ea9e",
+      "ingredients": [
+        {
+          "id": "e3c250a50eb105e3",
+          "quantity": 60000
+        },
+        {
+          "id": "ede75f0c2ea50337",
+          "quantity": 60000
+        },
+        {
+          "id": "b978929e676548db",
+          "quantity": 60000
+        }
+      ],
+      "level": 40,
+      "name": "Copper Circlet",
+      "steel_cost": 56900000,
+      "upgrade_time_seconds": 86400
+    },
+    {
+      "id": "8c22f69fc01829",
+      "ingredients": [
+        {
+          "id": "6c885db47f3b59d5",
+          "quantity": 45000
+        },
+        {
+          "id": "b1c88e6bcf9835a4",
+          "quantity": 45000
+        },
+        {
+          "id": "b978929e676548db",
+          "quantity": 45000
+        },
+        {
+          "id": "ede75f0c2ea50337",
+          "quantity": 45000
+        }
+      ],
+      "level": 40,
+      "name": "Mark of the Seven",
+      "steel_cost": 56900000,
+      "upgrade_time_seconds": 86400
+    },
+    {
+      "id": "86b8c95f89532036",
+      "ingredients": [
+        {
+          "id": "e3c250a50eb105e3",
+          "quantity": 45000
+        },
+        {
+          "id": "17c69f520e5fe5c2",
+          "quantity": 45000
+        },
+        {
+          "id": "54c7727456afac75",
+          "quantity": 45000
+        },
+        {
+          "id": "b1c88e6bcf9835a4",
+          "quantity": 45000
+        }
+      ],
+      "level": 40,
+      "name": "Golden Crown",
+      "steel_cost": 56900000,
+      "upgrade_time_seconds": 86400
+    },
+    {
+      "id": "c7d7508be0010511",
+      "ingredients": [
+        {
+          "id": "4833165f0a564a62",
+          "quantity": 120000
+        },
+        {
+          "id": "eac5bea66e4954e4",
+          "quantity": 120000
+        },
+        {
+          "id": "b1c88e6bcf9835a4",
+          "quantity": 120000
+        },
+        {
+          "id": "54c7727456afac75",
+          "quantity": 120000
+        }
+      ],
+      "level": 45,
+      "name": "Sapphire Forehead Pendant",
+      "steel_cost": 173000000,
+      "upgrade_time_seconds": 129600
+    },
+    {
+      "id": "730da38e2ef60388",
+      "ingredients": [
+        {
+          "id": "8abecd2b0f259aba",
+          "quantity": 120000
+        },
+        {
+          "id": "17c69f520e5fe5c2",
+          "quantity": 120000
+        },
+        {
+          "id": "54c7727456afac75",
+          "quantity": 120000
+        },
+        {
+          "id": "b1c88e6bcf9835a4",
+          "quantity": 120000
+        }
+      ],
+      "level": 45,
+      "name": "Assassin's Cowl",
+      "steel_cost": 173000000,
+      "upgrade_time_seconds": 129600
+    },
+    {
+      "id": "fbe30067194e7aa2",
+      "ingredients": [
+        {
+          "id": "4833165f0a564a62",
+          "quantity": 120000
+        },
+        {
+          "id": "6c885db47f3b59d5",
+          "quantity": 120000
+        },
+        {
+          "id": "b1c88e6bcf9835a4",
+          "quantity": 120000
+        },
+        {
+          "id": "8abecd2b0f259aba",
+          "quantity": 120000
+        }
+      ],
+      "level": 45,
+      "name": "Jewel Encrusted Tiara",
+      "steel_cost": 173000000,
+      "upgrade_time_seconds": 129600
+    },
+    {
+      "id": "906eb226b98bac94",
+      "ingredients": [
+        {
+          "id": "54c7727456afac75",
+          "quantity": 450000
+        },
+        {
+          "id": "e3c250a50eb105e3",
+          "quantity": 450000
+        },
+        {
+          "id": "b1c88e6bcf9835a4",
+          "quantity": 450000
+        },
+        {
+          "id": "ede75f0c2ea50337",
+          "quantity": 450000
+        }
+      ],
+      "level": 50,
+      "name": "Greathelm",
+      "steel_cost": 520000000,
+      "upgrade_time_seconds": 172800
+    },
+    {
+      "id": "355b4fcd6e610f9e",
+      "ingredients": [
+        {
+          "id": "4833165f0a564a62",
+          "quantity": 450000
+        },
+        {
+          "id": "17c69f520e5fe5c2",
+          "quantity": 450000
+        },
+        {
+          "id": "6c885db47f3b59d5",
+          "quantity": 450000
+        },
+        {
+          "id": "da15d0d8004c27ff",
+          "quantity": 450000
+        }
+      ],
+      "level": 50,
+      "name": "Ceremonial Headdress",
+      "steel_cost": 520000000,
+      "upgrade_time_seconds": 172800
+    },
+    {
+      "id": "a747cfd29875944f",
+      "ingredients": [
+        {
+          "id": "ef19ff2eb6419d20",
+          "quantity": 450000
+        },
+        {
+          "id": "da15d0d8004c27ff",
+          "quantity": 450000
+        },
+        {
+          "id": "6c885db47f3b59d5",
+          "quantity": 450000
+        },
+        {
+          "id": "54c7727456afac75",
+          "quantity": 450000
+        }
+      ],
+      "level": 50,
+      "name": "Steel Circlet",
+      "steel_cost": 520000000,
+      "upgrade_time_seconds": 172800
+    },
+    {
+      "id": "4e4ff881e6a5637",
+      "ingredients": [
+        {
+          "id": "da15d0d8004c27ff",
+          "quantity": 10
+        },
+        {
+          "id": "ede75f0c2ea50337",
+          "quantity": 10
+        }
+      ],
+      "level": 1,
+      "name": "Flax Legwraps",
+      "steel_cost": 500,
+      "upgrade_time_seconds": 300
+    },
+    {
+      "id": "b630ca783adf54d8",
+      "ingredients": [
+        {
+          "id": "54c7727456afac75",
+          "quantity": 15
+        },
+        {
+          "id": "17c69f520e5fe5c2",
+          "quantity": 15
+        }
+      ],
+      "level": 5,
+      "name": "Leather Poleyns",
+      "steel_cost": 4000,
+      "upgrade_time_seconds": 1800
+    },
+    {
+      "id": "6cbb004c52e786c8",
+      "ingredients": [
+        {
+          "id": "17c69f520e5fe5c2",
+          "quantity": 30
+        },
+        {
+          "id": "da15d0d8004c27ff",
+          "quantity": 30
+        }
+      ],
+      "level": 10,
+      "name": "Ragged Shorts",
+      "steel_cost": 36500,
+      "upgrade_time_seconds": 3600
+    },
+    {
+      "id": "f506569b014f5008",
+      "ingredients": [
+        {
+          "id": "54c7727456afac75",
+          "quantity": 30
+        },
+        {
+          "id": "6c885db47f3b59d5",
+          "quantity": 30
+        }
+      ],
+      "level": 10,
+      "name": "Wool Leggings",
+      "steel_cost": 36500,
+      "upgrade_time_seconds": 3600
+    },
+    {
+      "id": "335a1e2c2adfaa4a",
+      "ingredients": [
+        {
+          "id": "e3c250a50eb105e3",
+          "quantity": 180
+        },
+        {
+          "id": "6c885db47f3b59d5",
+          "quantity": 180
+        }
+      ],
+      "level": 15,
+      "name": "Copper Culet",
+      "steel_cost": 148000,
+      "upgrade_time_seconds": 10800
+    },
+    {
+      "id": "4cd1ca0e4af6c69b",
+      "ingredients": [
+        {
+          "id": "54c7727456afac75",
+          "quantity": 180
+        },
+        {
+          "id": "b1c88e6bcf9835a4",
+          "quantity": 180
+        }
+      ],
+      "level": 15,
+      "name": "Leather Kilt",
+      "steel_cost": 148000,
+      "upgrade_time_seconds": 10800
+    },
+    {
+      "id": "7ffc333f07630b76",
+      "ingredients": [
+        {
+          "id": "17c69f520e5fe5c2",
+          "quantity": 180
+        },
+        {
+          "id": "eac5bea66e4954e4",
+          "quantity": 180
+        }
+      ],
+      "level": 15,
+      "name": "Leather Schynbalds",
+      "steel_cost": 148000,
+      "upgrade_time_seconds": 10800
+    },
+    {
+      "id": "384411698826f913",
+      "ingredients": [
+        {
+          "id": "ede75f0c2ea50337",
+          "quantity": 600
+        },
+        {
+          "id": "b1c88e6bcf9835a4",
+          "quantity": 600
+        }
+      ],
+      "level": 20,
+      "name": "Wooden Poleyns",
+      "steel_cost": 534000,
+      "upgrade_time_seconds": 21600
+    },
+    {
+      "id": "7e9e2438531328c",
+      "ingredients": [
+        {
+          "id": "17c69f520e5fe5c2",
+          "quantity": 600
+        },
+        {
+          "id": "ede75f0c2ea50337",
+          "quantity": 600
+        }
+      ],
+      "level": 20,
+      "name": "Leather Chaps",
+      "steel_cost": 534000,
+      "upgrade_time_seconds": 21600
+    },
+    {
+      "id": "c33bfe8cc611d9ba",
+      "ingredients": [
+        {
+          "id": "54c7727456afac75",
+          "quantity": 600
+        },
+        {
+          "id": "17c69f520e5fe5c2",
+          "quantity": 600
+        }
+      ],
+      "level": 20,
+      "name": "Wool Skirt",
+      "steel_cost": 534000,
+      "upgrade_time_seconds": 21600
+    },
+    {
+      "id": "10963a718c9b3a3b",
+      "ingredients": [
+        {
+          "id": "da15d0d8004c27ff",
+          "quantity": 1600
+        },
+        {
+          "id": "6c885db47f3b59d5",
+          "quantity": 1600
+        },
+        {
+          "id": "4833165f0a564a62",
+          "quantity": 1600
+        }
+      ],
+      "level": 25,
+      "name": "Tyroshi Leggings",
+      "steel_cost": 1800000,
+      "upgrade_time_seconds": 32400
+    },
+    {
+      "id": "e6550c72583e00d6",
+      "ingredients": [
+        {
+          "id": "e3c250a50eb105e3",
+          "quantity": 1600
+        },
+        {
+          "id": "8abecd2b0f259aba",
+          "quantity": 1600
+        },
+        {
+          "id": "b1c88e6bcf9835a4",
+          "quantity": 1600
+        }
+      ],
+      "level": 25,
+      "name": "Golden Fauld",
+      "steel_cost": 1800000,
+      "upgrade_time_seconds": 32400
+    },
+    {
+      "id": "e3003ee41712dd6d",
+      "ingredients": [
+        {
+          "id": "e3c250a50eb105e3",
+          "quantity": 1600
+        },
+        {
+          "id": "b978929e676548db",
+          "quantity": 1600
+        },
+        {
+          "id": "eac5bea66e4954e4",
+          "quantity": 1600
+        }
+      ],
+      "level": 25,
+      "name": "Bronze Chausses",
+      "steel_cost": 1800000,
+      "upgrade_time_seconds": 32400
+    },
+    {
+      "id": "acad50cba7c5471e",
+      "ingredients": [
+        {
+          "id": "ef19ff2eb6419d20",
+          "quantity": 4000
+        },
+        {
+          "id": "eac5bea66e4954e4",
+          "quantity": 4000
+        },
+        {
+          "id": "54c7727456afac75",
+          "quantity": 4000
+        }
+      ],
+      "level": 30,
+      "name": "Iron Poleyns",
+      "steel_cost": 5850000,
+      "upgrade_time_seconds": 43200
+    },
+    {
+      "id": "8aa231c953063f79",
+      "ingredients": [
+        {
+          "id": "ef19ff2eb6419d20",
+          "quantity": 4000
+        },
+        {
+          "id": "b1c88e6bcf9835a4",
+          "quantity": 4000
+        },
+        {
+          "id": "ede75f0c2ea50337",
+          "quantity": 4000
+        }
+      ],
+      "level": 30,
+      "name": "Steel Culet",
+      "steel_cost": 5850000,
+      "upgrade_time_seconds": 43200
+    },
+    {
+      "id": "ad88ed3f466f2298",
+      "ingredients": [
+        {
+          "id": "e3c250a50eb105e3",
+          "quantity": 4000
+        },
+        {
+          "id": "b1c88e6bcf9835a4",
+          "quantity": 4000
+        },
+        {
+          "id": "da15d0d8004c27ff",
+          "quantity": 4000
+        }
+      ],
+      "level": 30,
+      "name": "Gold-thread Trousers",
+      "steel_cost": 5850000,
+      "upgrade_time_seconds": 43200
+    },
+    {
+      "id": "3d673b3f3fa7831e",
+      "ingredients": [
+        {
+          "id": "8abecd2b0f259aba",
+          "quantity": 16000
+        },
+        {
+          "id": "da15d0d8004c27ff",
+          "quantity": 16000
+        },
+        {
+          "id": "6c885db47f3b59d5",
+          "quantity": 16000
+        }
+      ],
+      "level": 35,
+      "name": "Balzarine Skirt",
+      "steel_cost": 18400000,
+      "upgrade_time_seconds": 64800
+    },
+    {
+      "id": "bc93b53d2ab78d1e",
+      "ingredients": [
+        {
+          "id": "54c7727456afac75",
+          "quantity": 16000
+        },
+        {
+          "id": "eac5bea66e4954e4",
+          "quantity": 16000
+        },
+        {
+          "id": "b1c88e6bcf9835a4",
+          "quantity": 16000
+        }
+      ],
+      "level": 35,
+      "name": "Fur-lined Britches",
+      "steel_cost": 18400000,
+      "upgrade_time_seconds": 64800
+    },
+    {
+      "id": "38ff6882c87083ee",
+      "ingredients": [
+        {
+          "id": "e3c250a50eb105e3",
+          "quantity": 16000
+        },
+        {
+          "id": "54c7727456afac75",
+          "quantity": 16000
+        },
+        {
+          "id": "b978929e676548db",
+          "quantity": 16000
+        }
+      ],
+      "level": 35,
+      "name": "Electrum Tasset",
+      "steel_cost": 18400000,
+      "upgrade_time_seconds": 64800
+    },
+    {
+      "id": "5e10ca419ed1c60a",
+      "ingredients": [
+        {
+          "id": "ef19ff2eb6419d20",
+          "quantity": 45000
+        },
+        {
+          "id": "eac5bea66e4954e4",
+          "quantity": 45000
+        },
+        {
+          "id": "6c885db47f3b59d5",
+          "quantity": 45000
+        },
+        {
+          "id": "e3c250a50eb105e3",
+          "quantity": 45000
+        }
+      ],
+      "level": 40,
+      "name": "Iron Greaves",
+      "steel_cost": 56900000,
+      "upgrade_time_seconds": 86400
+    },
+    {
+      "id": "5ace5004d9ae0cc7",
+      "ingredients": [
+        {
+          "id": "54c7727456afac75",
+          "quantity": 45000
+        },
+        {
+          "id": "6c885db47f3b59d5",
+          "quantity": 45000
+        },
+        {
+          "id": "da15d0d8004c27ff",
+          "quantity": 45000
+        },
+        {
+          "id": "b1c88e6bcf9835a4",
+          "quantity": 45000
+        }
+      ],
+      "level": 40,
+      "name": "Velour Pants",
+      "steel_cost": 56900000,
+      "upgrade_time_seconds": 86400
+    },
+    {
+      "id": "2c9b0842d2f29750",
+      "ingredients": [
+        {
+          "id": "e3c250a50eb105e3",
+          "quantity": 45000
+        },
+        {
+          "id": "b978929e676548db",
+          "quantity": 45000
+        },
+        {
+          "id": "ede75f0c2ea50337",
+          "quantity": 45000
+        },
+        {
+          "id": "54c7727456afac75",
+          "quantity": 45000
+        }
+      ],
+      "level": 40,
+      "name": "Bronze Cuisse",
+      "steel_cost": 56900000,
+      "upgrade_time_seconds": 86400
+    },
+    {
+      "id": "87d01d5554f1d85",
+      "ingredients": [
+        {
+          "id": "8abecd2b0f259aba",
+          "quantity": 120000
+        },
+        {
+          "id": "da15d0d8004c27ff",
+          "quantity": 120000
+        },
+        {
+          "id": "b1c88e6bcf9835a4",
+          "quantity": 120000
+        },
+        {
+          "id": "e3c250a50eb105e3",
+          "quantity": 120000
+        }
+      ],
+      "level": 45,
+      "name": "Satin Skirt",
+      "steel_cost": 173000000,
+      "upgrade_time_seconds": 129600
+    },
+    {
+      "id": "45a8fe9f96615b06",
+      "ingredients": [
+        {
+          "id": "54c7727456afac75",
+          "quantity": 120000
+        },
+        {
+          "id": "b1c88e6bcf9835a4",
+          "quantity": 120000
+        },
+        {
+          "id": "8abecd2b0f259aba",
+          "quantity": 120000
+        },
+        {
+          "id": "da15d0d8004c27ff",
+          "quantity": 120000
+        }
+      ],
+      "level": 45,
+      "name": "Wolf Pelt Trousers",
+      "steel_cost": 173000000,
+      "upgrade_time_seconds": 129600
+    },
+    {
+      "id": "f0bbc2e7398ae7c8",
+      "ingredients": [
+        {
+          "id": "ef19ff2eb6419d20",
+          "quantity": 120000
+        },
+        {
+          "id": "eac5bea66e4954e4",
+          "quantity": 120000
+        },
+        {
+          "id": "b978929e676548db",
+          "quantity": 120000
+        },
+        {
+          "id": "ede75f0c2ea50337",
+          "quantity": 120000
+        }
+      ],
+      "level": 45,
+      "name": "Steel Greaves",
+      "steel_cost": 173000000,
+      "upgrade_time_seconds": 129600
+    },
+    {
+      "id": "c522bb994e333b85",
+      "ingredients": [
+        {
+          "id": "b978929e676548db",
+          "quantity": 450000
+        },
+        {
+          "id": "da15d0d8004c27ff",
+          "quantity": 450000
+        },
+        {
+          "id": "eac5bea66e4954e4",
+          "quantity": 450000
+        },
+        {
+          "id": "b1c88e6bcf9835a4",
+          "quantity": 450000
+        }
+      ],
+      "level": 50,
+      "name": "Silver Legplates",
+      "steel_cost": 520000000,
+      "upgrade_time_seconds": 172800
+    },
+    {
+      "id": "2c270e83e886fb18",
+      "ingredients": [
+        {
+          "id": "8abecd2b0f259aba",
+          "quantity": 450000
+        },
+        {
+          "id": "b978929e676548db",
+          "quantity": 450000
+        },
+        {
+          "id": "da15d0d8004c27ff",
+          "quantity": 450000
+        },
+        {
+          "id": "17c69f520e5fe5c2",
+          "quantity": 450000
+        }
+      ],
+      "level": 50,
+      "name": "Silk Hose",
+      "steel_cost": 520000000,
+      "upgrade_time_seconds": 172800
+    },
+    {
+      "id": "1f3c3b9c6c18210e",
+      "ingredients": [
+        {
+          "id": "e3c250a50eb105e3",
+          "quantity": 450000
+        },
+        {
+          "id": "17c69f520e5fe5c2",
+          "quantity": 450000
+        },
+        {
+          "id": "4833165f0a564a62",
+          "quantity": 450000
+        },
+        {
+          "id": "8abecd2b0f259aba",
+          "quantity": 450000
+        }
+      ],
+      "level": 50,
+      "name": "Copper Greaves",
+      "steel_cost": 520000000,
+      "upgrade_time_seconds": 172800
+    },
+    {
+      "id": "30a86dfc351ae517",
+      "ingredients": [
+        {
+          "id": "e3c250a50eb105e3",
+          "quantity": 10
+        },
+        {
+          "id": "ef19ff2eb6419d20",
+          "quantity": 10
+        }
+      ],
+      "level": 1,
+      "name": "Copper Band",
+      "steel_cost": 500,
+      "upgrade_time_seconds": 300
+    },
+    {
+      "id": "f99d71666b9e66ec",
+      "ingredients": [
+        {
+          "id": "e3c250a50eb105e3",
+          "quantity": 15
+        },
+        {
+          "id": "da15d0d8004c27ff",
+          "quantity": 15
+        }
+      ],
+      "level": 5,
+      "name": "Bronze Band",
+      "steel_cost": 4000,
+      "upgrade_time_seconds": 1800
+    },
+    {
+      "id": "9f2a2e9f24cb0889",
+      "ingredients": [
+        {
+          "id": "4833165f0a564a62",
+          "quantity": 30
+        },
+        {
+          "id": "b978929e676548db",
+          "quantity": 30
+        }
+      ],
+      "level": 10,
+      "name": "Quartz Ring",
+      "steel_cost": 36500,
+      "upgrade_time_seconds": 3600
+    },
+    {
+      "id": "77245e80fc8051fe",
+      "ingredients": [
+        {
+          "id": "4833165f0a564a62",
+          "quantity": 30
+        },
+        {
+          "id": "b1c88e6bcf9835a4",
+          "quantity": 30
+        }
+      ],
+      "level": 10,
+      "name": "Pyrite Lament",
+      "steel_cost": 36500,
+      "upgrade_time_seconds": 3600
+    },
+    {
+      "id": "a00ae68388e18755",
+      "ingredients": [
+        {
+          "id": "eac5bea66e4954e4",
+          "quantity": 180
+        },
+        {
+          "id": "da15d0d8004c27ff",
+          "quantity": 180
+        }
+      ],
+      "level": 15,
+      "name": "Silver Band",
+      "steel_cost": 148000,
+      "upgrade_time_seconds": 10800
+    },
+    {
+      "id": "7edca5e06cd78bb5",
+      "ingredients": [
+        {
+          "id": "4833165f0a564a62",
+          "quantity": 180
+        },
+        {
+          "id": "b1c88e6bcf9835a4",
+          "quantity": 180
+        }
+      ],
+      "level": 15,
+      "name": "Tiger's Eye Ring",
+      "steel_cost": 148000,
+      "upgrade_time_seconds": 10800
+    },
+    {
+      "id": "a87fc27d6f774e40",
+      "ingredients": [
+        {
+          "id": "4833165f0a564a62",
+          "quantity": 180
+        },
+        {
+          "id": "8abecd2b0f259aba",
+          "quantity": 180
+        }
+      ],
+      "level": 15,
+      "name": "Amethyst Embrace",
+      "steel_cost": 148000,
+      "upgrade_time_seconds": 10800
+    },
+    {
+      "id": "4a6f6fffa93ef48c",
+      "ingredients": [
+        {
+          "id": "ef19ff2eb6419d20",
+          "quantity": 600
+        },
+        {
+          "id": "17c69f520e5fe5c2",
+          "quantity": 600
+        }
+      ],
+      "level": 20,
+      "name": "Steel Band",
+      "steel_cost": 534000,
+      "upgrade_time_seconds": 21600
+    },
+    {
+      "id": "9f749c30bfd87904",
+      "ingredients": [
+        {
+          "id": "4833165f0a564a62",
+          "quantity": 600
+        },
+        {
+          "id": "eac5bea66e4954e4",
+          "quantity": 600
+        }
+      ],
+      "level": 20,
+      "name": "Mourning Ring",
+      "steel_cost": 534000,
+      "upgrade_time_seconds": 21600
+    },
+    {
+      "id": "aaf0fe1a62d7af2f",
+      "ingredients": [
+        {
+          "id": "da15d0d8004c27ff",
+          "quantity": 600
+        },
+        {
+          "id": "8abecd2b0f259aba",
+          "quantity": 600
+        }
+      ],
+      "level": 20,
+      "name": "Episcopal Ring",
+      "steel_cost": 534000,
+      "upgrade_time_seconds": 21600
+    },
+    {
+      "id": "fbf5af34a028efbd",
+      "ingredients": [
+        {
+          "id": "e3c250a50eb105e3",
+          "quantity": 1600
+        },
+        {
+          "id": "b978929e676548db",
+          "quantity": 1600
+        },
+        {
+          "id": "eac5bea66e4954e4",
+          "quantity": 1600
+        }
+      ],
+      "level": 25,
+      "name": "Electrum Band",
+      "steel_cost": 1800000,
+      "upgrade_time_seconds": 32400
+    },
+    {
+      "id": "3507a08397a57643",
+      "ingredients": [
+        {
+          "id": "4833165f0a564a62",
+          "quantity": 1600
+        },
+        {
+          "id": "b1c88e6bcf9835a4",
+          "quantity": 1600
+        },
+        {
+          "id": "8abecd2b0f259aba",
+          "quantity": 1600
+        }
+      ],
+      "level": 25,
+      "name": "Opal Ring",
+      "steel_cost": 1800000,
+      "upgrade_time_seconds": 32400
+    },
+    {
+      "id": "9da8ae490e098e4b",
+      "ingredients": [
+        {
+          "id": "4833165f0a564a62",
+          "quantity": 1600
+        },
+        {
+          "id": "17c69f520e5fe5c2",
+          "quantity": 1600
+        },
+        {
+          "id": "ede75f0c2ea50337",
+          "quantity": 1600
+        }
+      ],
+      "level": 25,
+      "name": "Painite Ring",
+      "steel_cost": 1800000,
+      "upgrade_time_seconds": 32400
+    },
+    {
+      "id": "8c95cf18c15ff972",
+      "ingredients": [
+        {
+          "id": "e3c250a50eb105e3",
+          "quantity": 4000
+        },
+        {
+          "id": "ef19ff2eb6419d20",
+          "quantity": 4000
+        },
+        {
+          "id": "da15d0d8004c27ff",
+          "quantity": 4000
+        }
+      ],
+      "level": 30,
+      "name": "Electrum & Bronze Braid",
+      "steel_cost": 5850000,
+      "upgrade_time_seconds": 43200
+    },
+    {
+      "id": "2acfa3423ff26b72",
+      "ingredients": [
+        {
+          "id": "ef19ff2eb6419d20",
+          "quantity": 4000
+        },
+        {
+          "id": "da15d0d8004c27ff",
+          "quantity": 4000
+        },
+        {
+          "id": "8abecd2b0f259aba",
+          "quantity": 4000
+        }
+      ],
+      "level": 30,
+      "name": "Lead Band",
+      "steel_cost": 5850000,
+      "upgrade_time_seconds": 43200
+    },
+    {
+      "id": "d50f04468a7fac11",
+      "ingredients": [
+        {
+          "id": "ef19ff2eb6419d20",
+          "quantity": 4000
+        },
+        {
+          "id": "6c885db47f3b59d5",
+          "quantity": 4000
+        },
+        {
+          "id": "8abecd2b0f259aba",
+          "quantity": 4000
+        }
+      ],
+      "level": 30,
+      "name": "Obsidian Ring",
+      "steel_cost": 5850000,
+      "upgrade_time_seconds": 43200
+    },
+    {
+      "id": "10ee3be336c65e3a",
+      "ingredients": [
+        {
+          "id": "4833165f0a564a62",
+          "quantity": 16000
+        },
+        {
+          "id": "17c69f520e5fe5c2",
+          "quantity": 16000
+        },
+        {
+          "id": "ef19ff2eb6419d20",
+          "quantity": 16000
+        }
+      ],
+      "level": 35,
+      "name": "Poison Ring",
+      "steel_cost": 18400000,
+      "upgrade_time_seconds": 64800
+    },
+    {
+      "id": "9a2cf03d6efe5f9f",
+      "ingredients": [
+        {
+          "id": "4833165f0a564a62",
+          "quantity": 16000
+        },
+        {
+          "id": "b978929e676548db",
+          "quantity": 16000
+        },
+        {
+          "id": "ede75f0c2ea50337",
+          "quantity": 16000
+        }
+      ],
+      "level": 35,
+      "name": "Pale Steel Band",
+      "steel_cost": 18400000,
+      "upgrade_time_seconds": 64800
+    },
+    {
+      "id": "c67e6d6ebb00341f",
+      "ingredients": [
+        {
+          "id": "4833165f0a564a62",
+          "quantity": 16000
+        },
+        {
+          "id": "eac5bea66e4954e4",
+          "quantity": 16000
+        },
+        {
+          "id": "b978929e676548db",
+          "quantity": 16000
+        }
+      ],
+      "level": 35,
+      "name": "Ecclesiastical Ring",
+      "steel_cost": 18400000,
+      "upgrade_time_seconds": 64800
+    },
+    {
+      "id": "3fc7b7191580b35c",
+      "ingredients": [
+        {
+          "id": "ef19ff2eb6419d20",
+          "quantity": 45000
+        },
+        {
+          "id": "17c69f520e5fe5c2",
+          "quantity": 45000
+        },
+        {
+          "id": "eac5bea66e4954e4",
+          "quantity": 45000
+        },
+        {
+          "id": "ede75f0c2ea50337",
+          "quantity": 45000
+        }
+      ],
+      "level": 40,
+      "name": "Iron Ring",
+      "steel_cost": 56900000,
+      "upgrade_time_seconds": 86400
+    },
+    {
+      "id": "6158d3b2552df3ea",
+      "ingredients": [
+        {
+          "id": "4833165f0a564a62",
+          "quantity": 45000
+        },
+        {
+          "id": "b1c88e6bcf9835a4",
+          "quantity": 45000
+        },
+        {
+          "id": "8abecd2b0f259aba",
+          "quantity": 45000
+        },
+        {
+          "id": "da15d0d8004c27ff",
+          "quantity": 45000
+        }
+      ],
+      "level": 40,
+      "name": "Ruby Ring",
+      "steel_cost": 56900000,
+      "upgrade_time_seconds": 86400
+    },
+    {
+      "id": "a94dee3ebca1b447",
+      "ingredients": [
+        {
+          "id": "4833165f0a564a62",
+          "quantity": 45000
+        },
+        {
+          "id": "b978929e676548db",
+          "quantity": 45000
+        },
+        {
+          "id": "54c7727456afac75",
+          "quantity": 45000
+        },
+        {
+          "id": "da15d0d8004c27ff",
+          "quantity": 45000
+        }
+      ],
+      "level": 40,
+      "name": "Sapphire Ring",
+      "steel_cost": 56900000,
+      "upgrade_time_seconds": 86400
+    },
+    {
+      "id": "989dfc5b4117b755",
+      "ingredients": [
+        {
+          "id": "e3c250a50eb105e3",
+          "quantity": 120000
+        },
+        {
+          "id": "b978929e676548db",
+          "quantity": 120000
+        },
+        {
+          "id": "8abecd2b0f259aba",
+          "quantity": 120000
+        },
+        {
+          "id": "da15d0d8004c27ff",
+          "quantity": 120000
+        }
+      ],
+      "level": 45,
+      "name": "Gold Loop",
+      "steel_cost": 173000000,
+      "upgrade_time_seconds": 129600
+    },
+    {
+      "id": "65b984dc332dff3",
+      "ingredients": [
+        {
+          "id": "4833165f0a564a62",
+          "quantity": 120000
+        },
+        {
+          "id": "b978929e676548db",
+          "quantity": 120000
+        },
+        {
+          "id": "da15d0d8004c27ff",
+          "quantity": 120000
+        },
+        {
+          "id": "ede75f0c2ea50337",
+          "quantity": 120000
+        }
+      ],
+      "level": 45,
+      "name": "Emerald Ring",
+      "steel_cost": 173000000,
+      "upgrade_time_seconds": 129600
+    },
+    {
+      "id": "449a88aee4269b21",
+      "ingredients": [
+        {
+          "id": "4833165f0a564a62",
+          "quantity": 120000
+        },
+        {
+          "id": "54c7727456afac75",
+          "quantity": 120000
+        },
+        {
+          "id": "eac5bea66e4954e4",
+          "quantity": 120000
+        },
+        {
+          "id": "ede75f0c2ea50337",
+          "quantity": 120000
+        }
+      ],
+      "level": 45,
+      "name": "Pearl Ring",
+      "steel_cost": 173000000,
+      "upgrade_time_seconds": 129600
+    },
+    {
+      "id": "9f821a237da9b623",
+      "ingredients": [
+        {
+          "id": "ef19ff2eb6419d20",
+          "quantity": 450000
+        },
+        {
+          "id": "b1c88e6bcf9835a4",
+          "quantity": 450000
+        },
+        {
+          "id": "eac5bea66e4954e4",
+          "quantity": 450000
+        },
+        {
+          "id": "b978929e676548db",
+          "quantity": 450000
+        }
+      ],
+      "level": 50,
+      "name": "Black Iron Band",
+      "steel_cost": 520000000,
+      "upgrade_time_seconds": 172800
+    },
+    {
+      "id": "396ae9c55905562c",
+      "ingredients": [
+        {
+          "id": "4833165f0a564a62",
+          "quantity": 450000
+        },
+        {
+          "id": "17c69f520e5fe5c2",
+          "quantity": 450000
+        },
+        {
+          "id": "b978929e676548db",
+          "quantity": 450000
+        },
+        {
+          "id": "ede75f0c2ea50337",
+          "quantity": 450000
+        }
+      ],
+      "level": 50,
+      "name": "Diamond Ring",
+      "steel_cost": 520000000,
+      "upgrade_time_seconds": 172800
+    },
+    {
+      "id": "36e889bd61f93117",
+      "ingredients": [
+        {
+          "id": "ef19ff2eb6419d20",
+          "quantity": 450000
+        },
+        {
+          "id": "e3c250a50eb105e3",
+          "quantity": 450000
+        },
+        {
+          "id": "6c885db47f3b59d5",
+          "quantity": 450000
+        },
+        {
+          "id": "4833165f0a564a62",
+          "quantity": 450000
+        }
+      ],
+      "level": 50,
+      "name": "Valyrian Steel Band",
+      "steel_cost": 520000000,
+      "upgrade_time_seconds": 172800
+    }
+  ]
+}

@@ -17,6 +17,7 @@ import Recipe from "./pages/Recipe";
 import ResearchDetails from "./pages/ResearchDetails";
 import ResearchTable from "./pages/ResearchTable";
 import Summon from "./pages/Summon";
+import TemplateCalculator from "./pages/TemplateCalculator";
 import TrinketArmory from "./pages/TrinketArmory";
 
 const theme = createTheme({
@@ -75,6 +76,7 @@ function App() {
             <Route path="/research" element={<ResearchTable />} />
             <Route path="/research/:researchId" element={<ResearchDetails />} />
             <Route path="/recipe" element={<Recipe />} />
+            <Route path="/template" element={<TemplateCalculator />} />
           </Routes>
         </ThemeProvider>
       </StyledEngineProvider>

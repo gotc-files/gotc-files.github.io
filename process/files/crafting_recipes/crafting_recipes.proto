@@ -1,0 +1,25 @@
+syntax = "proto3";
+
+import 'files/common/common.proto';
+
+message CraftingRecipes {
+  repeated CraftingRecipe recipes = 1;
+  message CraftingRecipe {
+    ObjectIdentity identity = 1;
+    CraftingRecipeInfo info = 2;
+  }
+
+  message CraftingRecipeInfo {
+    repeated CraftingIngredients ingredients = 3;
+    int32 steel_cost = 4;
+    int32 upgrade_time_seconds = 5;
+    int32 template_level = 6;
+    ObjectIdentity craft_group = 7;
+    int32 sort_priority = 8;
+  }
+
+  message CraftingIngredients {
+    ObjectIdentity material = 1;
+    int32 quantity = 2;
+  }
+}

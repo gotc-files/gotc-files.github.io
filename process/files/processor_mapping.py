@@ -6,6 +6,7 @@ from files.armory_stat_progressions.armory_stat_progressions import (
     ArmoryStatProgressionsProcessor,
 )
 from files.buildings.buildings import BuildingsProcessor
+from files.crafting_recipes.crafting_recipes import CraftingRecipesProcessor
 from files.event_scoring_progressions.event_scoring_progressions import (
     EventScoringProgressionsProcessor,
 )
@@ -125,6 +126,19 @@ FILE_PROCESSOR_MAPPING_CONFIG = {
         "json",
         "armory_gears_3",
         ArmoryGearsProcessor,
+    ),
+    ("RecipeTable", "pb", "crafting_recipes_1", CraftingRecipesProcessor),
+    (
+        "RecipeTable_GearGen_GearSets",
+        "pb",
+        "crafting_recipes_2",
+        CraftingRecipesProcessor,
+    ),
+    (
+        "RecipeTable_GearGen_Trinkets",
+        "pb",
+        "trinket_crafting_recipes",
+        CraftingRecipesProcessor,
     ),
     ("HeroTable_VisGen_Launch", "pb", "heroes", HeroesProcessor),
     ("HeroProgressions", "json", "hero_progressions", HeroProgressionsProcessor),
