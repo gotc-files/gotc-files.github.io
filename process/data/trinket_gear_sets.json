@@ -1,11 +1,12 @@
 {
-  "description": "Basic information about a trinket gear set",
+  "description": "Basic information about an event armory gear set",
   "values": [
     {
       "color": {
         "alpha": 255,
         "blue": 78,
-        "green": 42
+        "green": 42,
+        "red": 0
       },
       "description_placeholder": "EQ_TRINKETARMORY_LEGACY_1_SET_NAME_DESCRIPTION",
       "id": "ebabfc50f6ae8873",
@@ -309,6 +310,7 @@
     {
       "color": {
         "alpha": 255,
+        "blue": 0,
         "green": 232,
         "red": 255
       },

@@ -1050,6 +1050,36 @@
           "progression": "prog_armory_bonus_SpecificTroop_1"
         }
       ]
+    },
+    {
+      "id": "548e5acee7cb8f66",
+      "name": "armcol_events_ironbank_1",
+      "stats": [
+        {
+          "name": "property_TroopHealthVsPlayer_armory",
+          "progression": "prog_armory_bonus_GeneralTroop_1"
+        }
+      ]
+    },
+    {
+      "id": "219c06253e3e7d68",
+      "name": "armcol_events_ironbank_2",
+      "stats": [
+        {
+          "name": "property_TroopDefenseVsSeatOfPower_armory",
+          "progression": "prog_armory_bonus_GeneralTroop_1"
+        }
+      ]
+    },
+    {
+      "id": "d6dcd83896d2c92",
+      "name": "armcol_events_ironbank_3",
+      "stats": [
+        {
+          "name": "property_TroopAttackVsPlayer_armory",
+          "progression": "prog_armory_bonus_GeneralTroop_1"
+        }
+      ]
     }
   ]
 }

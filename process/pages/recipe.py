@@ -69,7 +69,7 @@ class RecipeProcessor(PageProcessor):
         }
 
     def _process_ingredient(self, ingredient):
-        ingredient_id = id_int64_to_hex(ingredient["id"])
+        ingredient_id = ingredient["id"]
         ingredient_object = self.lookup_files(INGREDIENT_FILES, "id", ingredient_id)
         if ingredient_object is None:
             raise InsufficientDataException("Cannot find ingredient %s" % ingredient_id)

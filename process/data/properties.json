@@ -2978,6 +2978,14 @@
       "type": 8
     },
     {
+      "description_placeholder": "PROPERTY_MARCH_SLOTS_DESC",
+      "id": "990b1971dcfe76b3",
+      "image": "icon_add_march.png",
+      "name": "property_MarchSlots_activity",
+      "name_placeholder": "PROPERTY_MARCH_SLOTS",
+      "type": 9
+    },
+    {
       "description_placeholder": "PROPERTY_MARCH_SIZE_DESC",
       "id": "a7fc2972dc997e3a",
       "image": "dragon_talent_hatchling_march_size_max.png",
@@ -6624,6 +6632,14 @@
       "name": "property_ReinforcementCapacity_vip",
       "name_placeholder": "PROPERTY_REINFORCEMENT_CAPACITY",
       "type": 8
+    },
+    {
+      "description_placeholder": "PROPERTY_REINFORCEMENT_CAPACITY_DESC",
+      "id": "e9ac4533fb510e7c",
+      "image": "icon_buff_reinforcements.png",
+      "name": "property_ReinforcementCapacity_activity",
+      "name_placeholder": "PROPERTY_REINFORCEMENT_CAPACITY",
+      "type": 9
     },
     {
       "description_placeholder": "PROPERTY_SOP_REINFORCEMENT_CAPACITY_DESC",

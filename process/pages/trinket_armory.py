@@ -1,5 +1,6 @@
 from pages.page_processor import PageProcessor
 from pages.page_processor import InsufficientDataException
+from files.util import convert_numbers
 
 
 def _color_to_rgb(color):
@@ -64,7 +65,9 @@ class TrinketArmoryProcessor(PageProcessor):
             gear_piece_name,
         )
         if not gear:
-            raise InsufficientDataException()
+            raise InsufficientDataException(
+                "Cannot find gear with name: %s" % gear_piece_name
+            )
         return {
             "gear_with_level": list(
                 map(
@@ -91,9 +94,11 @@ class TrinketArmoryProcessor(PageProcessor):
                     "description_placeholder"
                 ]
             ),
-            "progression": self.lookup_file(
-                "armory_stat_progressions", "name", armory_stat["progression"]
-            )["stats"],
+            "progression": convert_numbers(
+                self.lookup_file(
+                    "armory_stat_progressions", "name", armory_stat["progression"]
+                )["values"]
+            ),
         }
 
     def _process_gear_with_level(self, gear_name_with_level):
@@ -144,5 +149,5 @@ class TrinketArmoryProcessor(PageProcessor):
                     "description_placeholder"
                 ]
             ),
-            "progression": stat_progression["stats"],
+            "progression": stat_progression["values"],
         }

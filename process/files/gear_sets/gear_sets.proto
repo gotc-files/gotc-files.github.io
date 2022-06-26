@@ -1,0 +1,32 @@
+syntax = "proto3";
+
+import 'files/common/common.proto';
+
+message GearSets { repeated GearSet gear_sets = 1; }
+
+message GearSet {
+  ObjectIdentity identity = 1;
+  GearSetInfo info = 2;
+}
+
+message GearSetInfo {
+  string name_placeholder = 1;
+  string description_placeholder = 2;
+  int32 priority = 3;
+  string image = 4;
+  Color color = 5;
+  ObjectIdentity material = 6;
+  repeated GearSlot slots = 8;
+}
+
+message Color {
+  int32 red = 1;
+  int32 green = 2;
+  int32 blue = 3;
+  int32 alpha = 4;
+}
+
+message GearSlot {
+  ObjectIdentity slot = 1;
+  ObjectIdentity gear_progression = 2;
+}

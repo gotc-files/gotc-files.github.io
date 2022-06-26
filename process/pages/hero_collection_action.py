@@ -1,5 +1,6 @@
 from pages.page_processor import PageProcessor
 from pages.page_processor import InsufficientDataException
+from files.util import convert_numbers
 
 
 def to_property_name(stat_name):
@@ -12,9 +13,15 @@ class HeroCollectionActionProcessor(PageProcessor):
     def process(self):
         return {
             "actions": self._process_actions(),
-            "max_influence": self._process_progression("hero_collection_action_properties", "prog_max_influence_by_level"),
-            "influence_regen": self._process_progression("hero_collection_action_properties", "prog_influence_regen_by_level"),
-            "hero_stars_requirement": self._process_progression("hero_collection_action_progressions", "prog_hero_collection_level"),
+            "max_influence": self._process_progression(
+                "hero_collection_action_properties", "prog_max_influence_by_level"
+            ),
+            "influence_regen": self._process_progression(
+                "hero_collection_action_properties", "prog_influence_regen_by_level"
+            ),
+            "hero_stars_requirement": self._process_progression(
+                "hero_collection_action_progressions", "prog_hero_collection_level"
+            ),
         }
 
     def _process_actions(self):
@@ -28,11 +35,14 @@ class HeroCollectionActionProcessor(PageProcessor):
         return actions
 
     def _process_progression(self, file_id, progression_name):
-        return self.lookup_file(file_id, "name", progression_name)["values"]
+        return convert_numbers(
+            self.lookup_file(file_id, "name", progression_name)["values"]
+        )
 
     def _process_action(self, raw_action):
         stat = self.lookup_file(
-            'properties', 'name', to_property_name(raw_action["property_name"]))
+            "properties", "name", to_property_name(raw_action["property_name"])
+        )
         action = {
             "id": raw_action["id"],
             "name": self.translate(raw_action["name_placeholder"]),
@@ -43,17 +53,28 @@ class HeroCollectionActionProcessor(PageProcessor):
                 "description": self.translate(stat["description_placeholder"]),
             },
             "buff": self._process_progression(
-                "hero_collection_action_properties", raw_action["buff_progression_name"]),
+                "hero_collection_action_properties", raw_action["buff_progression_name"]
+            ),
             "cooldown": self._process_progression(
-                "hero_collection_action_progressions", raw_action["cooldown_progression_name"]),
+                "hero_collection_action_progressions",
+                raw_action["cooldown_progression_name"],
+            ),
             "duration": self._process_progression(
-                "hero_collection_action_progressions", raw_action["duration_progression_name"]),
+                "hero_collection_action_progressions",
+                raw_action["duration_progression_name"],
+            ),
             "influence_cost": self._process_progression(
-                "hero_collection_action_progressions", raw_action["incluence_cost_progression_name"]),
+                "hero_collection_action_progressions",
+                raw_action["incluence_cost_progression_name"],
+            ),
             "level": self._process_progression(
-                "hero_collection_action_progressions", raw_action["level_progression_name"])
+                "hero_collection_action_progressions",
+                raw_action["level_progression_name"],
+            ),
         }
         if "num_uses_progression_name" in raw_action:
             action["num_uses"] = self._process_progression(
-                "hero_collection_action_progressions", raw_action["num_uses_progression_name"])
+                "hero_collection_action_progressions",
+                raw_action["num_uses_progression_name"],
+            )
         return action

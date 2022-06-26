@@ -1,9 +1,9 @@
 from files.hero_traits.hero_traits_pb2 import HeroTraits
-from files.proto_processor import ProtoProcessor
+from files.unified_processor import UnifiedProcessor
 from files.util import id_int64_to_hex
 
 
-class HeroTraitsProcessor(ProtoProcessor):
+class HeroTraitsProcessor(UnifiedProcessor):
     def proto_template(self):
         return HeroTraits()
 

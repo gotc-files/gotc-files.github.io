@@ -420,6 +420,18 @@
       "name": "armcol_events_baratheon2",
       "name_placeholder": "EQ_EVENTS_BARATHEON2_SET_NAME",
       "priority": 20700
+    },
+    {
+      "bonuses": [
+        "armcol_events_ironbank_1",
+        "armcol_events_ironbank_2",
+        "armcol_events_ironbank_3"
+      ],
+      "gear_set_name": "gearset_events_ironbank",
+      "id": "323a7a6e39823a60",
+      "name": "armcol_events_ironbank",
+      "name_placeholder": "EQ_EVENTS_IRONBANK_SET_NAME",
+      "priority": 21300
     }
   ]
 }
