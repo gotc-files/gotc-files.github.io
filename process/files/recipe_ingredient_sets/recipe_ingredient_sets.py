@@ -18,7 +18,7 @@ class RecipeIngredientSetsProcessor(UnifiedProcessor):
                     "name": recipe_ingredient_set.identity.name,
                     "ingredients": [
                         {
-                            "id": ingredient.identity.id,
+                            "id": id_int64_to_hex(ingredient.identity.id),
                             "name": ingredient.identity.name,
                             "type": ingredient.type,
                             "quantity": ingredient.quantity,

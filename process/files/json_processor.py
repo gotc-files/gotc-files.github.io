@@ -11,4 +11,5 @@ class JsonProcessor(FileProcessor):
         raise NotImplementedError()
 
     def process_values(self):
+        print(self.file_path)
         return self.process_json(json.load(open(self.file_path)))

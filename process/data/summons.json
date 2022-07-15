@@ -1954,6 +1954,84 @@
         "summon_purchase_royal_TyrionMargaeryJUN22_Gold_10x_top"
       ],
       "time_str": "JUN22"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "RenlyTycho",
+      "id": "1d61e708ab772f21",
+      "name": "summon_noble_RenlyTychoJUL22_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_RenlyTychoJUL22_Hero_1x_top",
+        "summon_purchase_noble_RenlyTychoJUL22_Hero_10x_top"
+      ],
+      "time_str": "JUL22"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "AryaSalladhor",
+      "id": "85d8306024aa9d8",
+      "name": "summon_noble_AryaSalladhorJUL22_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_AryaSalladhorJUL22_Hero_1x_top",
+        "summon_purchase_noble_AryaSalladhorJUL22_Hero_10x_top"
+      ],
+      "time_str": "JUL22"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "YoungNedOldNan",
+      "id": "fc6ff98ba3075083",
+      "name": "summon_noble_YoungNedOldNanJUL22_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_YoungNedOldNanJUL22_Hero_1x_top",
+        "summon_purchase_noble_YoungNedOldNanJUL22_Hero_10x_top"
+      ],
+      "time_str": "JUL22"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "RenlyTycho",
+      "id": "3d790ed417e3d218",
+      "name": "summon_royal_RenlyTychoJUL22_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_RenlyTychoJUL22_Gold_1x_top",
+        "summon_purchase_royal_RenlyTychoJUL22_Gold_10x_top"
+      ],
+      "time_str": "JUL22"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "AryaSalladhor",
+      "id": "2707baca165e2634",
+      "name": "summon_royal_AryaSalladhorJUL22_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_AryaSalladhorJUL22_Gold_1x_top",
+        "summon_purchase_royal_AryaSalladhorJUL22_Gold_10x_top"
+      ],
+      "time_str": "JUL22"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "YoundNedOldNan",
+      "id": "366c32a3344819b7",
+      "name": "summon_royal_YoundNedOldNanJUL22_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_YoundNedOldNanJUL22_Gold_1x_top",
+        "summon_purchase_royal_YoundNedOldNanJUL22_Gold_10x_top"
+      ],
+      "time_str": "JUL22"
     }
   ]
 }

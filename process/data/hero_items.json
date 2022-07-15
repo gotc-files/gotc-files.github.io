@@ -624,6 +624,15 @@
     },
     {
       "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
+      "id": "db54843ddb5662d1",
+      "image": "icon_hero_portrait_rhaegal_a.png",
+      "name": "item_hero_adv_rhaegal_thegreenfury_1",
+      "name_placeholder": "ITEM_HERO_ADV_RHAEGAL_THEGREENFURY_1_NAME",
+      "priority": 7900,
+      "type": "heroshard"
+    },
+    {
+      "description_placeholder": "ITEM_HERO_ADV_RELICS_DESC",
       "id": "976c538ae6f8c0b4",
       "image": "icon_hero_portrait_mance_a.png",
       "name": "item_hero_adv_mancerayder_kingbeyondthewall_1",

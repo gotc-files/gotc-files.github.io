@@ -2180,6 +2180,69 @@
       "slot_name": "slot_Blank"
     },
     {
+      "id": "4e720397793c837f",
+      "image": "icon_cur_stone.png",
+      "level": 1,
+      "name": "eq_sub_1",
+      "name_placeholder": "Equipment Substitute Lv. 1 (unused)",
+      "priority": 36700,
+      "slot_name": ""
+    },
+    {
+      "id": "3b605f7ca0c97171",
+      "image": "icon_cur_stone.png",
+      "level": 5,
+      "name": "eq_sub_2",
+      "name_placeholder": "Equipment Substitute Lv. 5 (unused)",
+      "priority": 36800,
+      "slot_name": ""
+    },
+    {
+      "id": "179194da179a208b",
+      "image": "icon_cur_stone.png",
+      "level": 10,
+      "name": "eq_sub_3",
+      "name_placeholder": "Equipment Substitute Lv. 10 (unused)",
+      "priority": 36900,
+      "slot_name": ""
+    },
+    {
+      "id": "d144e6ab1322956d",
+      "image": "icon_cur_stone.png",
+      "level": 15,
+      "name": "eq_sub_4",
+      "name_placeholder": "Equipment Substitute Lv. 15 (unused)",
+      "priority": 37000,
+      "slot_name": ""
+    },
+    {
+      "id": "fdb52d0da471c497",
+      "image": "icon_cur_stone.png",
+      "level": 20,
+      "name": "eq_sub_5",
+      "name_placeholder": "Equipment Substitute Lv. 20 (unused)",
+      "priority": 37100,
+      "slot_name": ""
+    },
+    {
+      "id": "88a771e67d843699",
+      "image": "icon_cur_stone.png",
+      "level": 25,
+      "name": "eq_sub_6",
+      "name_placeholder": "Equipment Substitute Lv. 25 (unused)",
+      "priority": 37200,
+      "slot_name": ""
+    },
+    {
+      "id": "a456ba40cad76763",
+      "image": "icon_cur_stone.png",
+      "level": 30,
+      "name": "eq_sub_7",
+      "name_placeholder": "Equipment Substitute Lv. 30 (unused)",
+      "priority": 37300,
+      "slot_name": ""
+    },
+    {
       "id": "ccdba31969ba1dc",
       "image": "icon_eqp_helmet.png",
       "level": 1,
@@ -15021,6 +15084,24 @@
       "name_placeholder": "EQ_TRINKET_DTW_ALPHA_LORD50_NAME",
       "priority": 188200,
       "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "b3b1c4f684bb1aab",
+      "image": "icon_eq_events_placeholder_trinket_1.png",
+      "level": 1,
+      "name": "eq_trinket_comingsoon_1_alpha_lord1",
+      "name_placeholder": "EQ_TRINKET_COMINGSOON_1_ALPHA_LORD1_NAME",
+      "priority": 188400,
+      "slot_name": ""
+    },
+    {
+      "id": "6de88d2bf2903df3",
+      "image": "icon_eq_events_placeholder_trinket_1.png",
+      "level": 1,
+      "name": "eq_trinket_comingsoon_2_alpha_lord1",
+      "name_placeholder": "EQ_TRINKET_COMINGSOON_1_ALPHA_LORD1_NAME",
+      "priority": 188500,
+      "slot_name": ""
     }
   ]
 }

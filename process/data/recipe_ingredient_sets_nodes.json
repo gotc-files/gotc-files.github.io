@@ -470,6 +470,24 @@
       "name": "recipe_alchemy_recipe_event_repeatable_salvage_item_event_rewardbox_randomeventmaterials_s6_amount10000_minquality2_1"
     },
     {
+      "id": "5808a92a5a83de",
+      "ingredients": [
+        {
+          "id": "bfb3ed5c2f32ba60",
+          "name": "item_event_trophy_strategicterrain",
+          "quantity": 40000,
+          "type": "item"
+        },
+        {
+          "id": "8c5c6f197164b9f8",
+          "name": "item_event_coin_tier3",
+          "quantity": 720,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_repeatable_salvage_item_event_rewardbox_randomeventmaterials_s7_amount10000_minquality2_1"
+    },
+    {
       "id": "d44b11acb83ff148",
       "ingredients": [
         {

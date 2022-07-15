@@ -3557,7 +3557,7 @@
       "id": "78532b9f981af6ef",
       "name": "heroskill_visgen_hero_renlybaratheon_lordparamount_6",
       "skill_type": "MARCH",
-      "star_skill_value": 0.25703999400138855,
+      "star_skill_value": 0.2937600016593933,
       "stat_name": "driven_TroopAttackVsPlayer",
       "unlock_level": 40
     },
@@ -3613,16 +3613,16 @@
       "id": "e414312dde878141",
       "name": "heroskill_visgen_hero_tychonestoris_titanofcommerce_5",
       "skill_type": "COUNCIL",
-      "star_skill_value": 13219.0,
-      "stat_name": "property_IronProtected_hero",
+      "star_skill_value": 0.01599999889731407,
+      "stat_name": "property_BuildingEfficiencyReduction_Item_Keystone_hero",
       "unlock_level": 30
     },
     {
       "id": "91066dc60772734f",
       "name": "heroskill_visgen_hero_tychonestoris_titanofcommerce_6",
       "skill_type": "COUNCIL",
-      "star_skill_value": 0.13599999248981476,
-      "stat_name": "property_BuildingEfficiencyReduction_Item_Keystone_hero",
+      "star_skill_value": 1329.0,
+      "stat_name": "property_IronProtected_hero",
       "unlock_level": 40
     },
     {
@@ -3647,6 +3647,70 @@
       "signature_skill_progression_name": "heropropertyprog_visgen_hero_tychonestoris_titanofcommerce_2",
       "skill_type": "COUNCIL",
       "stat_name": "property_CavalryDefenseVsPlayersCavalry_hero",
+      "unlock_level": 0
+    },
+    {
+      "id": "5921904dd9ee9d1a",
+      "name": "heroskill_visgen_hero_rhaegal_thegreenfury_3",
+      "skill_type": "MARCH",
+      "star_skill_value": 0.34516799449920654,
+      "stat_name": "driven_InfantryDefenseVsSeatOfPower",
+      "unlock_level": 10
+    },
+    {
+      "id": "9ff4e23cdd5628fc",
+      "name": "heroskill_visgen_hero_rhaegal_thegreenfury_4",
+      "skill_type": "MARCH",
+      "star_skill_value": 1542.0,
+      "stat_name": "driven_MaxMarchSizeReinforceSoP",
+      "unlock_level": 20
+    },
+    {
+      "id": "b305299a6a057906",
+      "name": "heroskill_visgen_hero_rhaegal_thegreenfury_5",
+      "skill_type": "MARCH",
+      "star_skill_value": 0.2203199863433838,
+      "stat_name": "driven_TroopHealthVsPlayer",
+      "unlock_level": 30
+    },
+    {
+      "id": "c6177571b3f08b08",
+      "name": "heroskill_visgen_hero_rhaegal_thegreenfury_6",
+      "skill_type": "MARCH",
+      "star_skill_value": 0.34272000193595886,
+      "stat_name": "driven_MarcherTroopAttackVsPlayerSeatOfPower",
+      "unlock_level": 40
+    },
+    {
+      "id": "eae6bed704a3daf2",
+      "name": "heroskill_visgen_hero_rhaegal_thegreenfury_7",
+      "skill_type": "MARCH",
+      "star_skill_value": 0.5140799880027771,
+      "stat_name": "driven_DragonAttackVsDragon",
+      "unlock_level": 50
+    },
+    {
+      "id": "c907d3e6f32eafef",
+      "name": "heroskill_visgen_hero_rhaegal_thegreenfury_8",
+      "skill_type": "MARCH",
+      "star_skill_value": 0.4406399726867676,
+      "stat_name": "driven_InfantryAttackVsPlayer",
+      "unlock_level": 60
+    },
+    {
+      "id": "c20700b7483eee",
+      "name": "heroskill_visgen_hero_rhaegal_thegreenfury_1",
+      "signature_skill_progression_name": "heropropertyprog_visgen_hero_rhaegal_thegreenfury_1",
+      "skill_type": "MARCH",
+      "stat_name": "driven_MaxMarchSize",
+      "unlock_level": 0
+    },
+    {
+      "id": "75d05beb6ebdcce0",
+      "name": "heroskill_visgen_hero_rhaegal_thegreenfury_2",
+      "signature_skill_progression_name": "heropropertyprog_visgen_hero_rhaegal_thegreenfury_2",
+      "skill_type": "MARCH",
+      "stat_name": "driven_DragonDefense",
       "unlock_level": 0
     }
   ]

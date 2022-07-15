@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+import 'files/common/common.proto';
+
+message Summons {
+  repeated Summon summons = 1;
+
+  message Summon {
+    ObjectIdentity identity = 1;
+    SummonInfo info = 2;
+  }
+
+  message SummonInfo {
+    string name_placeholder = 2;
+    string description_placeholder = 3;
+    ObjectIdentity category = 8;
+    repeated ObjectIdentity purchase_options = 9;
+  }
+}

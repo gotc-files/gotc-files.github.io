@@ -8,27 +8,18 @@ from files.gear_set_progressions.gear_set_progressions import (
     GearSetProgressionsProcessor,
 )
 from files.gear_sets.gear_sets import GearSetsProcessor
-from files.gear_stat_progressions.gear_stat_progressions import (
-    GearStatProgressionsProcessor,
-)
 from files.gears.gears import GearsProcessor
-from files.hero_collection_action_progressions.hero_collection_action_progressions import (
-    HeroCollectionActionProgressionsProcessor,
-)
-from files.hero_collection_action_properties.hero_collection_action_properties import (
-    HeroCollectionActionPropertiesProcessor,
-)
 from files.hero_collection_actions.hero_collection_actions import (
     HeroCollectionActionsProcessor,
 )
 from files.hero_progressions.hero_progressions import HeroProgressionsProcessor
-from files.hero_skills.hero_skills_json import HeroSkillsProcessor
-from files.hero_traits.hero_traits_json import HeroTraitsProcessor
+from files.hero_skills.hero_skills import HeroSkillsProcessor
+from files.hero_traits.hero_traits import HeroTraitsProcessor
 from files.heroes.heroes import HeroesProcessor
-from files.items.items_json import ItemsProcessor
-from files.progressions.progressions_json import ProgressionsJsonProcessor
+from files.items.items import ItemsProcessor
 from files.progressions.progressions import ProgressionsProcessor
-from files.properties.properties_json import PropertiesProcessor
+
+from files.properties.properties import PropertiesProcessor
 from files.recipe_ingredient_sets.recipe_ingredient_sets import (
     RecipeIngredientSetsProcessor,
 )
@@ -36,11 +27,10 @@ from files.recipes.recipies import RecipesProcessor
 from files.recurring_rewards.recurring_rewards import RecurringRewardsProcessor
 from files.research_categories.research_categories import ResearchCategoriesProcessor
 from files.researches.researches import ResearchesProcessor
-from files.stat_sets.stat_sets_json import StatSetsProcessor
+from files.stat_sets.stat_sets import StatSetsProcessor
 from files.summon_odds.summon_odds import SummonOddsProcessor
 from files.summons.summons import SummonsProcessor
 from files.translations.translations import TranslationsProcessor
-from files.trinket_gear_sets.trinket_gear_sets import TrinketGearSetsProcessor
 from files.troops.troops import TroopsProcessor
 
 FILE_PROCESSOR_MAPPING_CONFIG = {
@@ -49,33 +39,43 @@ FILE_PROCESSOR_MAPPING_CONFIG = {
     ("GearSetTable_Trinkets", "pb", "trinket_gear_sets", GearSetsProcessor),
     (
         "GearSetProgressions",
-        "json",
+        ("pb", "json"),
         "gear_set_progressions_1",
         GearSetProgressionsProcessor,
     ),
     (
         "ProgressionTable_GearGen_GearSets",
-        "json",
+        ("pb", "json"),
         "gear_set_progressions_2",
         GearSetProgressionsProcessor,
     ),
-    ("GearTable", "json", "gears_1", GearsProcessor),
-    ("ItemTable_GearGen_GearSets", "json", "gears_2", GearsProcessor),
-    ("ItemTable_GearGen_Trinkets", "json", "trinket_gears", GearsProcessor),
-    ("GearTable_PropertyModderTable", "json", "gear_stat_sets_1", StatSetsProcessor),
+    ("GearTable", ("pb", "json"), "gears_1", GearsProcessor),
+    ("ItemTable_GearGen_GearSets", ("pb", "json"), "gears_2", GearsProcessor),
+    ("ItemTable_GearGen_Trinkets", ("pb", "json"), "trinket_gears", GearsProcessor),
+    (
+        "GearTable_PropertyModderTable",
+        ("pb", "json"),
+        "gear_stat_sets_1",
+        StatSetsProcessor,
+    ),
     (
         "ItemTable_GearGen_GearSets_PropertyModderTable",
-        "json",
+        ("pb", "json"),
         "gear_stat_sets_2",
         StatSetsProcessor,
     ),
     (
         "ItemTable_GearGen_Trinkets_PropertyModderTable",
-        "json",
+        ("pb", "json"),
         "trinket_gear_stat_sets",
         StatSetsProcessor,
     ),
-    ("GearProgressions", "json", "gear_stat_progressions", ProgressionsJsonProcessor),
+    (
+        "GearProgressions",
+        ("pb", "json"),
+        "gear_stat_progressions",
+        ProgressionsProcessor,
+    ),
     (
         "ArmoryCollectionsTable",
         "pb",
@@ -90,21 +90,21 @@ FILE_PROCESSOR_MAPPING_CONFIG = {
     ),
     (
         "ArmoryCollectionsTable_ArmoryPropertyModderTable",
-        "json",
+        ("pb", "json"),
         "armory_stat_sets_1",
         StatSetsProcessor,
     ),
     (
         "ArmoryCollectionTable_GearGen_GearSets_ArmoryPropertyModderTable",
-        "json",
+        ("pb", "json"),
         "armory_stat_sets_2",
         StatSetsProcessor,
     ),
     (
         "ArmoryPropertyProgressions",
-        "json",
+        ("pb", "json"),
         "armory_stat_progressions",
-        ProgressionsJsonProcessor,
+        ProgressionsProcessor,
     ),
     ("GearTable_ArmoryGearTable", "json", "armory_gears_1", ArmoryGearsProcessor),
     (
@@ -119,28 +119,33 @@ FILE_PROCESSOR_MAPPING_CONFIG = {
         "armory_gears_3",
         ArmoryGearsProcessor,
     ),
-    ("RecipeTable", "json", "crafting_recipes_1", CraftingRecipesProcessor),
+    ("RecipeTable", ("pb", "json"), "crafting_recipes_1", CraftingRecipesProcessor),
     (
         "RecipeTable_GearGen_GearSets",
-        "json",
+        ("pb", "json"),
         "crafting_recipes_2",
         CraftingRecipesProcessor,
     ),
     (
         "RecipeTable_GearGen_Trinkets",
-        "json",
+        ("pb", "json"),
         "trinket_crafting_recipes",
         CraftingRecipesProcessor,
     ),
     ("HeroTable_VisGen_Launch", "pb", "heroes", HeroesProcessor),
     ("HeroProgressions", "json", "hero_progressions", HeroProgressionsProcessor),
-    ("HeroSkillsTable_VisGen_Launch", "json", "hero_skills", HeroSkillsProcessor),
-    ("HeroTraitsTable", "json", "hero_traits", HeroTraitsProcessor),
+    (
+        "HeroSkillsTable_VisGen_Launch",
+        ("pb", "json"),
+        "hero_skills",
+        HeroSkillsProcessor,
+    ),
+    ("HeroTraitsTable", "pb", "hero_traits", HeroTraitsProcessor),
     (
         "HeroPropertyProgressions_VisGen_Launch",
-        "json",
+        ("pb", "json"),
         "hero_skill_progressions",
-        ProgressionsJsonProcessor,
+        ProgressionsProcessor,
     ),
     (
         "HeroCollectionActionTable",
@@ -150,105 +155,115 @@ FILE_PROCESSOR_MAPPING_CONFIG = {
     ),
     (
         "HeroCollectionActionProgressions",
-        "pb",
+        ("pb", "json"),
         "hero_collection_action_progressions",
         ProgressionsProcessor,
     ),
     (
         "HeroCollectionActionPropertyProgressions",
-        "json",
+        ("pb", "json"),
         "hero_collection_action_properties",
-        ProgressionsJsonProcessor,
+        ProgressionsProcessor,
     ),
-    ("SummonTable", "json", "summons", SummonsProcessor),
-    ("SummoningOddsTable", "json", "summon_odds", SummonOddsProcessor),
-    ("ItemTable", "json", "items", ItemsProcessor),
-    ("ItemTable_Heroes", "json", "hero_items", ItemsProcessor),
-    ("ItemTable_Dragon_1", "json", "dragon_items", ItemsProcessor),
-    ("ItemTable_Gift_1", "json", "items_gift", ItemsProcessor),
-    ("ItemTable_Event_1", "json", "items_event", ItemsProcessor),
-    ("ItemTable_LevelCap", "json", "items_writs_bounties", ItemsProcessor),
+    ("SummonTable", ("pb", "json"), "summons", SummonsProcessor),
+    ("SummoningOddsTable", ("pb", "json"), "summon_odds", SummonOddsProcessor),
+    ("ItemTable", ("pb", "json"), "items", ItemsProcessor),
+    ("ItemTable_Heroes", ("pb", "json"), "hero_items", ItemsProcessor),
+    ("ItemTable_Dragon_1", ("pb", "json"), "dragon_items", ItemsProcessor),
+    ("ItemTable_Gift_1", ("pb", "json"), "items_gift", ItemsProcessor),
+    ("ItemTable_Event_1", ("pb", "json"), "items_event", ItemsProcessor),
+    ("ItemTable_LevelCap", ("pb", "json"), "items_writs_bounties", ItemsProcessor),
     ("AnnuitiesTable", "pb", "recurring_rewards", RecurringRewardsProcessor),
     ("BuildingTable", "pb", "buildings", BuildingsProcessor),
     (
         "BuildingProgressions",
-        "json",
+        ("pb", "json"),
         "building_progressions",
-        ProgressionsJsonProcessor,
+        ProgressionsProcessor,
     ),
     (
         "BuildingEnhancementProgressions",
-        "json",
+        ("pb", "json"),
         "enhancement_progressions",
-        ProgressionsJsonProcessor,
+        ProgressionsProcessor,
     ),
     (
         "BuildingTable_PropertyModderTable",
-        "json",
+        ("pb", "json"),
         "building_stat_sets",
         StatSetsProcessor,
     ),
     (
         "EventScoringProgressions",
-        "pb",
+        ("pb", "json"),
         "event_scoring_progressions",
         ProgressionsProcessor,
     ),
     (
         "EventScoringProgressions_Dragon",
-        "pb",
+        ("pb", "json"),
         "event_scoring_progressions_dragon",
         ProgressionsProcessor,
     ),
     (
         "EventScoreProgressionTable_ResearchGen_military2",
-        "pb",
+        ("pb", "json"),
         "event_scoring_progressions_research",
         ProgressionsProcessor,
     ),
     (
         "GenerationProgressions",
-        "json",
+        ("pb", "json"),
         "generation_progressions",
-        ProgressionsJsonProcessor,
+        ProgressionsProcessor,
     ),
-    ("TechTable", "json", "researches_1", ResearchesProcessor),
-    ("TechTable_ResearchGen_military2", "json", "researches_2", ResearchesProcessor),
-    ("TechTable_ExpeditionGen_1", "json", "expeditions", ResearchesProcessor),
-    ("TechCategoryTable", "json", "research_categories_1", ResearchCategoriesProcessor),
+    ("TechTable", ("pb", "json"), "researches_1", ResearchesProcessor),
+    (
+        "TechTable_ResearchGen_military2",
+        ("pb", "json"),
+        "researches_2",
+        ResearchesProcessor,
+    ),
+    ("TechTable_ExpeditionGen_1", ("pb", "json"), "expeditions", ResearchesProcessor),
+    (
+        "TechCategoryTable",
+        ("pb", "json"),
+        "research_categories_1",
+        ResearchCategoriesProcessor,
+    ),
     (
         "TechCategoryTable_ResearchGen_military2",
-        "json",
+        ("pb", "json"),
         "research_categories_2",
         ResearchCategoriesProcessor,
     ),
     (
         "TechCategoryTable_ExpeditionGen_1",
-        "json",
+        ("pb", "json"),
         "expedition_categories",
         ResearchCategoriesProcessor,
     ),
     (
         "ResearchProgressions",
-        "json",
+        ("pb", "json"),
         "research_progressions_1",
-        ProgressionsJsonProcessor,
+        ProgressionsProcessor,
     ),
     (
         "ProgressionTable_ResearchGen_military2",
-        "json",
+        ("pb", "json"),
         "research_progressions_2",
-        ProgressionsJsonProcessor,
+        ProgressionsProcessor,
     ),
     (
         "TechTable_PropertyModderTable",
-        "json",
+        ("pb", "json"),
         "research_stat_sets_1",
         StatSetsProcessor,
     ),
     (
         "TechTable_ResearchGen_military2_PropertyModderTable",
-        "json",
+        ("pb", "json"),
         "research_stat_sets_2",
         StatSetsProcessor,
     ),
@@ -333,98 +348,102 @@ FILE_PROCESSOR_MAPPING_CONFIG = {
     ),
     (
         "AlchemyRecipeTable",
-        "json",
+        ("pb", "json"),
         "recipe_ingredient_sets_general",
         RecipeIngredientSetsProcessor,
     ),
     (
         "UniversalRecipeTable_AlchemyGen_EventArc",
-        "json",
+        ("pb", "json"),
         "recipe_ingredient_sets_monthly_trade_1",
         RecipeIngredientSetsProcessor,
     ),
     (
         "UniversalRecipeTable_AlchemyGen_EventArc_2",
-        "json",
+        ("pb", "json"),
         "recipe_ingredient_sets_monthly_trade_2",
         RecipeIngredientSetsProcessor,
     ),
     (
         "UniversalRecipeTable_AlchemyGen_Feast_Cakes",
-        "json",
+        ("pb", "json"),
         "recipe_ingredient_sets_feast_cakes",
         RecipeIngredientSetsProcessor,
     ),
     (
         "UniversalRecipeTable_AlchemyGen_QuantityLimited",
-        "json",
+        ("pb", "json"),
         "recipe_ingredient_sets_writs",
         RecipeIngredientSetsProcessor,
     ),
     (
         "UniversalRecipeTable_AlchemyGen_Repeatable",
-        "json",
+        ("pb", "json"),
         "recipe_ingredient_sets_repeatable",
         RecipeIngredientSetsProcessor,
     ),
     (
         "UniversalRecipeTable_AlchemyGen_Repeatable_Dragon",
-        "json",
+        ("pb", "json"),
         "recipe_ingredient_sets_dragon",
         RecipeIngredientSetsProcessor,
     ),
     (
         "UniversalRecipeTable_AlchemyGen_Repeatable_Flux",
-        "json",
+        ("pb", "json"),
         "recipe_ingredient_sets_flux",
         RecipeIngredientSetsProcessor,
     ),
     (
         "UniversalRecipeTable_AlchemyGen_Repeatable_Scrip",
-        "json",
+        ("pb", "json"),
         "recipe_ingredient_sets_traders_script",
         RecipeIngredientSetsProcessor,
     ),
     (
         "UniversalRecipeTable_AlchemyGen_Repeatable_StrategicTerrain",
-        "json",
+        ("pb", "json"),
         "recipe_ingredient_sets_nodes",
         RecipeIngredientSetsProcessor,
     ),
     (
         "UniversalRecipeTable_AlchemyGen_Repeatable_TGH",
-        "json",
+        ("pb", "json"),
         "recipe_ingredient_sets_venison",
         RecipeIngredientSetsProcessor,
     ),
     (
         "UniversalRecipeTable_AlchemyGen_Special",
-        "json",
+        ("pb", "json"),
         "recipe_ingredient_sets_festival",
         RecipeIngredientSetsProcessor,
     ),
     (
         "UniversalRecipeTable_AlchemyGen_Special_IronCrown",
-        "json",
+        ("pb", "json"),
         "recipe_ingredient_sets_iron_crown",
         RecipeIngredientSetsProcessor,
     ),
     (
         "AlchemyRecipeTable_Bounties",
-        "json",
+        ("pb", "json"),
         "recipe_ingredient_sets_bounties",
         RecipeIngredientSetsProcessor,
     ),
     ("TroopTable", "pb", "troops", TroopsProcessor),
-    ("PropertyTable", "json", "properties", PropertiesProcessor),
+    ("PropertyTable", ("pb", "json"), "properties", PropertiesProcessor),
     ("enUS", "txt", "translations", TranslationsProcessor),
 }
 
 
 def _preprocess_mapping_config(config):
     mapping = defaultdict(dict)
-    for file_name, file_extension, output_id, processor_class in config:
-        mapping[file_name][file_extension] = (output_id, processor_class)
+    for file_name, file_extensions, output_id, processor_class in config:
+        if type(file_extensions) is tuple:
+            for file_extension in file_extensions:
+                mapping[file_name][file_extension] = (output_id, processor_class)
+        else:
+            mapping[file_name][file_extensions] = (output_id, processor_class)
     return mapping
 
 

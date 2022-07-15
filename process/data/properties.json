@@ -6706,6 +6706,14 @@
       "type": 8
     },
     {
+      "description_placeholder": "PROPERTY_SOP_REINFORCEMENT_CAPACITY_DESC",
+      "id": "dc9e92d8df82319e",
+      "image": "icon_buff_reinforcements.png",
+      "name": "property_SoP_ReinforcementCapacity_activity",
+      "name_placeholder": "PROPERTY_SOP_REINFORCEMENT_CAPACITY",
+      "type": 9
+    },
+    {
       "description_placeholder": "PROPERTY_RESEARCH_SPEED_DESC_1",
       "id": "411284974dff9bbc",
       "image": "icon_boost_speed_research.png",
@@ -8104,6 +8112,14 @@
       "name": "property_MarcherTroopHealthVsPlayer_talent",
       "name_placeholder": "PROPERTY_MARCHERTROOPHEALTHVSPLAYER",
       "type": 7
+    },
+    {
+      "description_placeholder": "PROPERTY_MARCHERTROOPHEALTHVSPLAYER_DESC",
+      "id": "39dcab296d901f60",
+      "image": "dragon_talent_hatchling_troop_health.png",
+      "name": "property_MarcherTroopHealthVsPlayer_armory",
+      "name_placeholder": "PROPERTY_MARCHERTROOPHEALTHVSPLAYER",
+      "type": 10
     },
     {
       "description_placeholder": "PROPERTY_MARCHERTROOPHEALTHVSPLAYER_DESC",
@@ -21106,6 +21122,38 @@
       "type": 9
     },
     {
+      "description_placeholder": "PROPERTY_BUILDINGPERCENTAGEREDUCTION_ITEM_VALYRIANSTONE_DESCRIPTION",
+      "id": "e1e584c6aea7d43e",
+      "image": "icon_research_cost_reduction_building.png",
+      "name": "property_BuildingPercentageReduction_Item_ValyrianStone_city",
+      "name_placeholder": "PROPERTY_BUILDINGPERCENTAGEREDUCTION_ITEM_VALYRIANSTONE_NAME",
+      "type": 2
+    },
+    {
+      "description_placeholder": "PROPERTY_BUILDINGPERCENTAGEREDUCTION_ITEM_VALYRIANSTONE_DESCRIPTION",
+      "id": "9cb3169787eca266",
+      "image": "icon_research_cost_reduction_building.png",
+      "name": "property_BuildingPercentageReduction_Item_ValyrianStone_gear",
+      "name_placeholder": "PROPERTY_BUILDINGPERCENTAGEREDUCTION_ITEM_VALYRIANSTONE_NAME",
+      "type": 4
+    },
+    {
+      "description_placeholder": "PROPERTY_BUILDINGPERCENTAGEREDUCTION_ITEM_VALYRIANSTONE_DESCRIPTION",
+      "id": "8d3fe41bb233363b",
+      "image": "icon_research_cost_reduction_building.png",
+      "name": "property_BuildingPercentageReduction_Item_ValyrianStone_consumable",
+      "name_placeholder": "PROPERTY_BUILDINGPERCENTAGEREDUCTION_ITEM_VALYRIANSTONE_NAME",
+      "type": 3
+    },
+    {
+      "description_placeholder": "PROPERTY_BUILDINGPERCENTAGEREDUCTION_ITEM_VALYRIANSTONE_DESCRIPTION",
+      "id": "9a6671b9eaa429f1",
+      "image": "icon_research_cost_reduction_building.png",
+      "name": "property_BuildingPercentageReduction_Item_ValyrianStone_activity",
+      "name_placeholder": "PROPERTY_BUILDINGPERCENTAGEREDUCTION_ITEM_VALYRIANSTONE_NAME",
+      "type": 9
+    },
+    {
       "description_placeholder": "PROPERTY_BUILDINGEFFICIENCYREDUCTION_RESOURCE_ALL_DESCRIPTION",
       "id": "7f14557f501218b2",
       "image": "icon_research_cost_reduction_building.png",
@@ -21423,6 +21471,46 @@
       "image": "icon_research_cost_reduction_building.png",
       "name": "property_BuildingEfficiencyReduction_Item_Keystone_hero",
       "name_placeholder": "PROPERTY_BUILDINGEFFICIENCYREDUCTION_ITEM_KEYSTONE_NAME",
+      "type": 11
+    },
+    {
+      "description_placeholder": "PROPERTY_BUILDINGEFFICIENCYREDUCTION_ITEM_VALYRIANSTONE_DESCRIPTION",
+      "id": "701aa22bb4aa7627",
+      "image": "icon_research_cost_reduction_building.png",
+      "name": "property_BuildingEfficiencyReduction_Item_ValyrianStone_city",
+      "name_placeholder": "PROPERTY_BUILDINGEFFICIENCYREDUCTION_ITEM_VALYRIANSTONE_NAME",
+      "type": 2
+    },
+    {
+      "description_placeholder": "PROPERTY_BUILDINGEFFICIENCYREDUCTION_ITEM_VALYRIANSTONE_DESCRIPTION",
+      "id": "d4c307a9de1007f",
+      "image": "icon_research_cost_reduction_building.png",
+      "name": "property_BuildingEfficiencyReduction_Item_ValyrianStone_gear",
+      "name_placeholder": "PROPERTY_BUILDINGEFFICIENCYREDUCTION_ITEM_VALYRIANSTONE_NAME",
+      "type": 4
+    },
+    {
+      "description_placeholder": "PROPERTY_BUILDINGEFFICIENCYREDUCTION_ITEM_VALYRIANSTONE_DESCRIPTION",
+      "id": "b1b69a9c5bb31d53",
+      "image": "icon_research_cost_reduction_building.png",
+      "name": "property_BuildingEfficiencyReduction_Item_ValyrianStone_consumable",
+      "name_placeholder": "PROPERTY_BUILDINGEFFICIENCYREDUCTION_ITEM_VALYRIANSTONE_NAME",
+      "type": 3
+    },
+    {
+      "description_placeholder": "PROPERTY_BUILDINGEFFICIENCYREDUCTION_ITEM_VALYRIANSTONE_DESCRIPTION",
+      "id": "3ca6bb9aee30c185",
+      "image": "icon_research_cost_reduction_building.png",
+      "name": "property_BuildingEfficiencyReduction_Item_ValyrianStone_activity",
+      "name_placeholder": "PROPERTY_BUILDINGEFFICIENCYREDUCTION_ITEM_VALYRIANSTONE_NAME",
+      "type": 9
+    },
+    {
+      "description_placeholder": "PROPERTY_BUILDINGEFFICIENCYREDUCTION_ITEM_VALYRIANSTONE_DESCRIPTION",
+      "id": "bb3473c406cb7d34",
+      "image": "icon_research_cost_reduction_building.png",
+      "name": "property_BuildingEfficiencyReduction_Item_ValyrianStone_hero",
+      "name_placeholder": "PROPERTY_BUILDINGEFFICIENCYREDUCTION_ITEM_VALYRIANSTONE_NAME",
       "type": 11
     },
     {
@@ -36999,6 +37087,14 @@
       "image": "icon_shard_nightswatch.png",
       "name": "property_Unlock_MapMarker_NightsWatch_Track_1_consumable",
       "name_placeholder": "PROPERTY_UNLOCK_MAPMARKER_NIGHTSWATCH_NAME",
+      "type": 3
+    },
+    {
+      "description_placeholder": "PROPERTY_UNLOCK_MAPMARKER_HOTD_DESCRIPTION",
+      "id": "a84382e4eac2eb4b",
+      "image": "",
+      "name": "property_Unlock_MapMarker_HOTD_Track_1_consumable",
+      "name_placeholder": "PROPERTY_UNLOCK_MAPMARKER_HOTD_NAME",
       "type": 3
     },
     {

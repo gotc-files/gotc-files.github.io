@@ -366,6 +366,20 @@
       "target_quantity": 1
     },
     {
+      "description_placeholder": "ALCHEMY_RECIPE_EVENT_ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S7_AMOUNT10000_MINQUALITY2_DESC",
+      "display_group_name": "displayGroup_alchemy_recipe_event_repeatable_salvage_item_event_rewardbox_randomeventmaterials_s7_amount10000_minquality2",
+      "event_name": "strategicterrain",
+      "event_points": 120000,
+      "id": "69d2bdd286ce9252",
+      "ingredients_name": "recipe_alchemy_recipe_event_repeatable_salvage_item_event_rewardbox_randomeventmaterials_s7_amount10000_minquality2_1",
+      "limit": 0,
+      "name": "alchemy_recipe_event_repeatable_salvage_item_event_rewardbox_randomeventmaterials_s7_amount10000_minquality2_1",
+      "name_placeholder": "ALCHEMY_RECIPE_EVENT_ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S7_AMOUNT10000_MINQUALITY2_AMOUNT_1_NAME",
+      "priority": 277,
+      "target_quality": 2,
+      "target_quantity": 1
+    },
+    {
       "description_placeholder": "ALCHEMY_RECIPE_EVENT_REPEATABLE_SALVAGE_GENERIC_DESC",
       "display_group_name": "displayGroup_alchemy_recipe_event_cotf_qlr_item_Resource_Food_1000000",
       "event_name": "strategicterrain",
