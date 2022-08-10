@@ -1,5 +1,547 @@
 [
   {
+    "id": "f9f100d69901b079",
+    "name": "Festival of Smith Daily Delivery",
+    "packs": [
+      {
+        "id": "de3ead6bffe6ca64",
+        "items": [
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "quantity": 3600
+          },
+          {
+            "description": "Reduces time remaining",
+            "name": "1m Speedup",
+            "quantity": 150
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "1,000 Food",
+            "quantity": 300
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "1,000 Wood",
+            "quantity": 300
+          },
+          {
+            "description": "Use this to get Stone",
+            "name": "100 Stone",
+            "quantity": 300
+          },
+          {
+            "description": "Use this to get Iron",
+            "name": "50 Iron",
+            "quantity": 300
+          }
+        ],
+        "summary": [
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "quantity": 25200
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "1,000 Food",
+            "quantity": 2100
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "1,000 Wood",
+            "quantity": 2100
+          }
+        ],
+        "tier": 2
+      },
+      {
+        "id": "442b24110cfa6c85",
+        "items": [
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "quantity": 9100
+          },
+          {
+            "description": "Reduces time remaining",
+            "name": "1m Speedup",
+            "quantity": 450
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "20,000 Food",
+            "quantity": 40
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "20,000 Wood",
+            "quantity": 40
+          },
+          {
+            "description": "Use this to get Stone",
+            "name": "3,000 Stone",
+            "quantity": 40
+          },
+          {
+            "description": "Use this to get Iron",
+            "name": "800 Iron",
+            "quantity": 40
+          }
+        ],
+        "summary": [
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "quantity": 63700
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "20,000 Food",
+            "quantity": 280
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "20,000 Wood",
+            "quantity": 280
+          }
+        ],
+        "tier": 3
+      },
+      {
+        "id": "4b4e90daa7fdbd90",
+        "items": [
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "quantity": 21500
+          },
+          {
+            "description": "Reduces time remaining",
+            "name": "5m Speedup",
+            "quantity": 200
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "20,000 Food",
+            "quantity": 90
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "20,000 Wood",
+            "quantity": 90
+          },
+          {
+            "description": "Use this to get Stone",
+            "name": "3,000 Stone",
+            "quantity": 90
+          },
+          {
+            "description": "Use this to get Iron",
+            "name": "800 Iron",
+            "quantity": 90
+          }
+        ],
+        "summary": [
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "quantity": 150500
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "20,000 Food",
+            "quantity": 630
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "20,000 Wood",
+            "quantity": 630
+          }
+        ],
+        "tier": 4
+      },
+      {
+        "id": "50a6950b68f0af49",
+        "items": [
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "quantity": 60000
+          },
+          {
+            "description": "Reduces time remaining",
+            "name": "5m Speedup",
+            "quantity": 500
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "20,000 Food",
+            "quantity": 250
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "20,000 Wood",
+            "quantity": 250
+          },
+          {
+            "description": "Use this to get Stone",
+            "name": "3,000 Stone",
+            "quantity": 250
+          },
+          {
+            "description": "Use this to get Iron",
+            "name": "800 Iron",
+            "quantity": 250
+          }
+        ],
+        "summary": [
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "quantity": 420000
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "20,000 Food",
+            "quantity": 1750
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "20,000 Wood",
+            "quantity": 1750
+          }
+        ],
+        "tier": 5
+      },
+      {
+        "id": "87596a3f2f88188c",
+        "items": [
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "quantity": 132000
+          },
+          {
+            "description": "Reduces time remaining",
+            "name": "60m Speedup",
+            "quantity": 100
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "20,000 Food",
+            "quantity": 575
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "20,000 Wood",
+            "quantity": 575
+          },
+          {
+            "description": "Use this to get Stone",
+            "name": "3,000 Stone",
+            "quantity": 575
+          },
+          {
+            "description": "Use this to get Iron",
+            "name": "800 Iron",
+            "quantity": 575
+          }
+        ],
+        "summary": [
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "quantity": 924000
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "20,000 Food",
+            "quantity": 4025
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "20,000 Wood",
+            "quantity": 4025
+          }
+        ],
+        "tier": 6
+      }
+    ]
+  },
+  {
+    "id": "f3c6ae37d0da2d90",
+    "name": "Summer Daily Delivery",
+    "packs": [
+      {
+        "id": "e5e09742c1decd55",
+        "items": [
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "quantity": 3400
+          },
+          {
+            "description": "Reduces time remaining",
+            "name": "1m Speedup",
+            "quantity": 150
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "1,000 Food",
+            "quantity": 300
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "1,000 Wood",
+            "quantity": 300
+          },
+          {
+            "description": "Use this to get Stone",
+            "name": "100 Stone",
+            "quantity": 300
+          },
+          {
+            "description": "Use this to get Iron",
+            "name": "50 Iron",
+            "quantity": 300
+          }
+        ],
+        "summary": [
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "quantity": 23800
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "1,000 Food",
+            "quantity": 2100
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "1,000 Wood",
+            "quantity": 2100
+          }
+        ],
+        "tier": 2
+      },
+      {
+        "id": "7ff51e3832c26bb4",
+        "items": [
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "quantity": 8600
+          },
+          {
+            "description": "Reduces time remaining",
+            "name": "1m Speedup",
+            "quantity": 450
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "20,000 Food",
+            "quantity": 40
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "20,000 Wood",
+            "quantity": 40
+          },
+          {
+            "description": "Use this to get Stone",
+            "name": "3,000 Stone",
+            "quantity": 40
+          },
+          {
+            "description": "Use this to get Iron",
+            "name": "800 Iron",
+            "quantity": 40
+          }
+        ],
+        "summary": [
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "quantity": 60200
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "20,000 Food",
+            "quantity": 280
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "20,000 Wood",
+            "quantity": 280
+          }
+        ],
+        "tier": 3
+      },
+      {
+        "id": "7090aaf399c5baa1",
+        "items": [
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "quantity": 20000
+          },
+          {
+            "description": "Reduces time remaining",
+            "name": "5m Speedup",
+            "quantity": 200
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "20,000 Food",
+            "quantity": 90
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "20,000 Wood",
+            "quantity": 90
+          },
+          {
+            "description": "Use this to get Stone",
+            "name": "3,000 Stone",
+            "quantity": 90
+          },
+          {
+            "description": "Use this to get Iron",
+            "name": "800 Iron",
+            "quantity": 90
+          }
+        ],
+        "summary": [
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "quantity": 140000
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "20,000 Food",
+            "quantity": 630
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "20,000 Wood",
+            "quantity": 630
+          }
+        ],
+        "tier": 4
+      },
+      {
+        "id": "6b78af2256c8a878",
+        "items": [
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "quantity": 56000
+          },
+          {
+            "description": "Reduces time remaining",
+            "name": "5m Speedup",
+            "quantity": 500
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "20,000 Food",
+            "quantity": 250
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "20,000 Wood",
+            "quantity": 250
+          },
+          {
+            "description": "Use this to get Stone",
+            "name": "3,000 Stone",
+            "quantity": 250
+          },
+          {
+            "description": "Use this to get Iron",
+            "name": "800 Iron",
+            "quantity": 250
+          }
+        ],
+        "summary": [
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "quantity": 392000
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "20,000 Food",
+            "quantity": 1750
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "20,000 Wood",
+            "quantity": 1750
+          }
+        ],
+        "tier": 5
+      },
+      {
+        "id": "72e5fabe41a82216",
+        "items": [
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "quantity": 125000
+          },
+          {
+            "description": "Reduces time remaining",
+            "name": "60m Speedup",
+            "quantity": 100
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "20,000 Food",
+            "quantity": 575
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "20,000 Wood",
+            "quantity": 575
+          },
+          {
+            "description": "Use this to get Stone",
+            "name": "3,000 Stone",
+            "quantity": 575
+          },
+          {
+            "description": "Use this to get Iron",
+            "name": "800 Iron",
+            "quantity": 575
+          }
+        ],
+        "summary": [
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "quantity": 875000
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "20,000 Food",
+            "quantity": 4025
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "20,000 Wood",
+            "quantity": 4025
+          }
+        ],
+        "tier": 6
+      }
+    ]
+  },
+  {
     "id": "2079dee7e6f8c77a",
     "name": "4th of July Daily Delivery",
     "packs": [

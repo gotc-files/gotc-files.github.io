@@ -13,7 +13,6 @@ class ArmoryProcessor(PageProcessor):
     def process(self):
         armory_sets = []
         for raw_armory_set in self.iterate_files(["gear_set_1", "gear_set_2"]):
-            print(raw_armory_set["name"])
             try:
                 armory_sets.append(self._process_armory_set(raw_armory_set))
             except InsufficientDataException:

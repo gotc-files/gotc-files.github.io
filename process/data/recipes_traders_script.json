@@ -2310,6 +2310,76 @@
       "priority": 102400,
       "target_quality": 1,
       "target_quantity": 100000000
+    },
+    {
+      "description_placeholder": "ALCHEMY_RECIPE_EVENT_2019_FEBRUARY_ITEM_EVENT_SCRIP_1_AMOUNT_1_DESC",
+      "display_group_name": "displayGroup_alchemy_recipe_event_2022_July_item_event_scrip_1",
+      "event_name": "",
+      "event_points": 0,
+      "id": "2619895eb6aeffff",
+      "ingredients_name": "recipe_alchemy_recipe_event_2022_July_item_event_scrip_1_1",
+      "limit": 0,
+      "name": "alchemy_recipe_event_2022_July_item_event_scrip_1_1",
+      "name_placeholder": "ALCHEMY_RECIPE_EVENT_2019_SEPTEMBER_ITEM_EVENT_SCRIP_1_1_NAME",
+      "priority": 102500,
+      "target_quality": 1,
+      "target_quantity": 1
+    },
+    {
+      "description_placeholder": "ALCHEMY_RECIPE_EVENT_2019_FEBRUARY_ITEM_EVENT_SCRIP_1_AMOUNT_1_DESC",
+      "display_group_name": "displayGroup_alchemy_recipe_event_2022_July_item_event_scrip_1",
+      "event_name": "",
+      "event_points": 0,
+      "id": "ada50a50790a5e2e",
+      "ingredients_name": "recipe_alchemy_recipe_event_2022_July_item_event_scrip_1_100",
+      "limit": 0,
+      "name": "alchemy_recipe_event_2022_July_item_event_scrip_1_100",
+      "name_placeholder": "ALCHEMY_RECIPE_EVENT_2019_SEPTEMBER_ITEM_EVENT_SCRIP_1_100_NAME",
+      "priority": 102500,
+      "target_quality": 1,
+      "target_quantity": 100
+    },
+    {
+      "description_placeholder": "ALCHEMY_RECIPE_EVENT_2019_FEBRUARY_ITEM_EVENT_SCRIP_1_AMOUNT_1_DESC",
+      "display_group_name": "displayGroup_alchemy_recipe_event_2022_July_item_event_scrip_1",
+      "event_name": "",
+      "event_points": 0,
+      "id": "5aa18cb6ed8a9e8a",
+      "ingredients_name": "recipe_alchemy_recipe_event_2022_July_item_event_scrip_1_10000",
+      "limit": 0,
+      "name": "alchemy_recipe_event_2022_July_item_event_scrip_1_10000",
+      "name_placeholder": "ALCHEMY_RECIPE_EVENT_2019_SEPTEMBER_ITEM_EVENT_SCRIP_1_10000_NAME",
+      "priority": 102500,
+      "target_quality": 1,
+      "target_quantity": 10000
+    },
+    {
+      "description_placeholder": "ALCHEMY_RECIPE_EVENT_2019_FEBRUARY_ITEM_EVENT_SCRIP_1_AMOUNT_1_DESC",
+      "display_group_name": "displayGroup_alchemy_recipe_event_2022_July_item_event_scrip_1",
+      "event_name": "",
+      "event_points": 0,
+      "id": "9c97373526f2ac91",
+      "ingredients_name": "recipe_alchemy_recipe_event_2022_July_item_event_scrip_1_1000000",
+      "limit": 0,
+      "name": "alchemy_recipe_event_2022_July_item_event_scrip_1_1000000",
+      "name_placeholder": "ALCHEMY_RECIPE_EVENT_2019_SEPTEMBER_ITEM_EVENT_SCRIP_1_1000000_NAME",
+      "priority": 102500,
+      "target_quality": 1,
+      "target_quantity": 1000000
+    },
+    {
+      "description_placeholder": "ALCHEMY_RECIPE_EVENT_2019_FEBRUARY_ITEM_EVENT_SCRIP_1_AMOUNT_1_DESC",
+      "display_group_name": "displayGroup_alchemy_recipe_event_2022_July_item_event_scrip_1",
+      "event_name": "",
+      "event_points": 0,
+      "id": "684af1c5f0a3cec7",
+      "ingredients_name": "recipe_alchemy_recipe_event_2022_July_item_event_scrip_1_100000000",
+      "limit": 0,
+      "name": "alchemy_recipe_event_2022_July_item_event_scrip_1_100000000",
+      "name_placeholder": "ALCHEMY_RECIPE_EVENT_2019_SEPTEMBER_ITEM_EVENT_SCRIP_1_100000000_NAME",
+      "priority": 102500,
+      "target_quality": 1,
+      "target_quantity": 100000000
     }
   ]
 }
