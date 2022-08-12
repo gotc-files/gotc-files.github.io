@@ -432,6 +432,18 @@
       "name": "armcol_events_ironbank",
       "name_placeholder": "EQ_EVENTS_IRONBANK_SET_NAME",
       "priority": 21300
+    },
+    {
+      "bonuses": [
+        "armcol_events_motherofdragons2_1",
+        "armcol_events_motherofdragons2_2",
+        "armcol_events_motherofdragons2_3"
+      ],
+      "gear_set_name": "gearset_events_motherofdragons2",
+      "id": "fb17ee47aa943c1d",
+      "name": "armcol_events_motherofdragons2",
+      "name_placeholder": "EQ_EVENTS_MOTHEROFDRAGONS2_SET_NAME",
+      "priority": 21900
     }
   ]
 }

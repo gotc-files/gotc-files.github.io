@@ -28663,6 +28663,44 @@
   },
   {
     "category": "Repeatable",
+    "description": "Convert your Poor Crafting Materials Chests into Assorted Poor Crafting Materials Chests that contain a fixed amount of all basic crafting materials!",
+    "event_name": "",
+    "event_points": 0,
+    "id": "e99c0989b34792a1",
+    "ingredients": [
+      {
+        "description": "Contains: a 90% chance of 35 Poor crafting material or a 10% chance of 350 Poor material instead!",
+        "name": "Poor Crafting Material Chest",
+        "quantity": 100000,
+        "type": "item"
+      }
+    ],
+    "limit": 0,
+    "name": "n:ALCHEMY_RECIPE_REPEATABLE_RSSEXCHANGE_EVENT_ITEM_EVENT_REWARDBOX_CRAFTINGMATERIAL_1_TO_ITEM_EVENT_REWARDBOX_CRAFTINGMATERIAL_FIXED_OUTCOME1_100_NAME",
+    "target_quality": 1,
+    "target_quantity": 100
+  },
+  {
+    "category": "Repeatable",
+    "description": "Convert your Poor Crafting Materials Chests into Assorted Poor Crafting Materials Chests that contain a fixed amount of all basic crafting materials!",
+    "event_name": "",
+    "event_points": 0,
+    "id": "91e8a5d7f2ef2011",
+    "ingredients": [
+      {
+        "description": "Contains: a 90% chance of 35 Poor crafting material or a 10% chance of 350 Poor material instead!",
+        "name": "Poor Crafting Material Chest",
+        "quantity": 1000,
+        "type": "item"
+      }
+    ],
+    "limit": 0,
+    "name": "n:ALCHEMY_RECIPE_REPEATABLE_RSSEXCHANGE_EVENT_ITEM_EVENT_REWARDBOX_CRAFTINGMATERIAL_1_TO_ITEM_EVENT_REWARDBOX_CRAFTINGMATERIAL_FIXED_OUTCOME1_1_NAME",
+    "target_quality": 1,
+    "target_quantity": 1
+  },
+  {
+    "category": "Repeatable",
     "description": "30-Day Peace Shield",
     "event_name": "",
     "event_points": 0,
@@ -44785,6 +44823,101 @@
     "name": "Black Iron",
     "target_quality": 1,
     "target_quantity": 100
+  },
+  {
+    "category": "Traders Script",
+    "description": "Now that the event is over, you can convert your leftover Trophies to Trader's Scrip for use in future recipes!",
+    "event_name": "",
+    "event_points": 0,
+    "id": "2d495a1d42022c77",
+    "ingredients": [
+      {
+        "description": "n:ITEM_EVENT_TROPHY_MOTHEROFDRAGONS2_1_DESC",
+        "name": "n:ITEM_EVENT_TROPHY_MOTHEROFDRAGONS2_1_NAME",
+        "quantity": 100000000,
+        "type": "item"
+      }
+    ],
+    "limit": 0,
+    "name": "Recipe: 100,000,000 Trader's Scrip",
+    "target_quality": 1,
+    "target_quantity": 100000000
+  },
+  {
+    "category": "Traders Script",
+    "description": "Now that the event is over, you can convert your leftover Trophies to Trader's Scrip for use in future recipes!",
+    "event_name": "",
+    "event_points": 0,
+    "id": "638ad4ce8cecbaa4",
+    "ingredients": [
+      {
+        "description": "n:ITEM_EVENT_TROPHY_MOTHEROFDRAGONS2_1_DESC",
+        "name": "n:ITEM_EVENT_TROPHY_MOTHEROFDRAGONS2_1_NAME",
+        "quantity": 1000000,
+        "type": "item"
+      }
+    ],
+    "limit": 0,
+    "name": "Recipe: 1,000,000 Trader's Scrip",
+    "target_quality": 1,
+    "target_quantity": 1000000
+  },
+  {
+    "category": "Traders Script",
+    "description": "Now that the event is over, you can convert your leftover Trophies to Trader's Scrip for use in future recipes!",
+    "event_name": "",
+    "event_points": 0,
+    "id": "5674c37c60746a42",
+    "ingredients": [
+      {
+        "description": "n:ITEM_EVENT_TROPHY_MOTHEROFDRAGONS2_1_DESC",
+        "name": "n:ITEM_EVENT_TROPHY_MOTHEROFDRAGONS2_1_NAME",
+        "quantity": 10000,
+        "type": "item"
+      }
+    ],
+    "limit": 0,
+    "name": "Recipe: 10,000 Trader's Scrip",
+    "target_quality": 1,
+    "target_quantity": 10000
+  },
+  {
+    "category": "Traders Script",
+    "description": "Now that the event is over, you can convert your leftover Trophies to Trader's Scrip for use in future recipes!",
+    "event_name": "",
+    "event_points": 0,
+    "id": "efe7553269b3dc85",
+    "ingredients": [
+      {
+        "description": "n:ITEM_EVENT_TROPHY_MOTHEROFDRAGONS2_1_DESC",
+        "name": "n:ITEM_EVENT_TROPHY_MOTHEROFDRAGONS2_1_NAME",
+        "quantity": 100,
+        "type": "item"
+      }
+    ],
+    "limit": 0,
+    "name": "Recipe: 100 Trader's Scrip",
+    "target_quality": 1,
+    "target_quantity": 100
+  },
+  {
+    "category": "Traders Script",
+    "description": "Now that the event is over, you can convert your leftover Trophies to Trader's Scrip for use in future recipes!",
+    "event_name": "",
+    "event_points": 0,
+    "id": "bb218e9608496fc3",
+    "ingredients": [
+      {
+        "description": "n:ITEM_EVENT_TROPHY_MOTHEROFDRAGONS2_1_DESC",
+        "name": "n:ITEM_EVENT_TROPHY_MOTHEROFDRAGONS2_1_NAME",
+        "quantity": 1,
+        "type": "item"
+      }
+    ],
+    "limit": 0,
+    "name": "Recipe: Trader's Scrip",
+    "target_quality": 1,
+    "target_quantity": 1
   },
   {
     "category": "Traders Script",

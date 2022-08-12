@@ -5152,6 +5152,34 @@
       "priority": 0,
       "target_quality": 6,
       "target_quantity": 2592000
+    },
+    {
+      "description_placeholder": "ALCHEMY_RECIPE_REPEATABLE_RSSEXCHANGE_EVENT_ITEM_EVENT_REWARDBOX_CRAFTINGMATERIAL_1_TO_ITEM_EVENT_REWARDBOX_CRAFTINGMATERIAL_FIXED_OUTCOME1_1_DESCRIPTION",
+      "display_group_name": "displayGroup_alchemy_recipe_repeatable_rssexchange_event_item_event_rewardbox_craftingmaterial_1_to_item_event_rewardbox_craftingmaterial_fixed_outcome1",
+      "event_name": "",
+      "event_points": 0,
+      "id": "91e8a5d7f2ef2011",
+      "ingredients_name": "recipe_alchemy_recipe_repeatable_rssexchange_event_item_event_rewardbox_craftingmaterial_1_to_item_event_rewardbox_craftingmaterial_fixed_outcome1_1",
+      "limit": 0,
+      "name": "alchemy_recipe_repeatable_rssexchange_event_item_event_rewardbox_craftingmaterial_1_to_item_event_rewardbox_craftingmaterial_fixed_outcome1_1",
+      "name_placeholder": "ALCHEMY_RECIPE_REPEATABLE_RSSEXCHANGE_EVENT_ITEM_EVENT_REWARDBOX_CRAFTINGMATERIAL_1_TO_ITEM_EVENT_REWARDBOX_CRAFTINGMATERIAL_FIXED_OUTCOME1_1_NAME",
+      "priority": 99930,
+      "target_quality": 1,
+      "target_quantity": 1
+    },
+    {
+      "description_placeholder": "ALCHEMY_RECIPE_REPEATABLE_RSSEXCHANGE_EVENT_ITEM_EVENT_REWARDBOX_CRAFTINGMATERIAL_1_TO_ITEM_EVENT_REWARDBOX_CRAFTINGMATERIAL_FIXED_OUTCOME1_100_DESCRIPTION",
+      "display_group_name": "displayGroup_alchemy_recipe_repeatable_rssexchange_event_item_event_rewardbox_craftingmaterial_1_to_item_event_rewardbox_craftingmaterial_fixed_outcome1",
+      "event_name": "",
+      "event_points": 0,
+      "id": "e99c0989b34792a1",
+      "ingredients_name": "recipe_alchemy_recipe_repeatable_rssexchange_event_item_event_rewardbox_craftingmaterial_1_to_item_event_rewardbox_craftingmaterial_fixed_outcome1_100",
+      "limit": 0,
+      "name": "alchemy_recipe_repeatable_rssexchange_event_item_event_rewardbox_craftingmaterial_1_to_item_event_rewardbox_craftingmaterial_fixed_outcome1_100",
+      "name_placeholder": "ALCHEMY_RECIPE_REPEATABLE_RSSEXCHANGE_EVENT_ITEM_EVENT_REWARDBOX_CRAFTINGMATERIAL_1_TO_ITEM_EVENT_REWARDBOX_CRAFTINGMATERIAL_FIXED_OUTCOME1_100_NAME",
+      "priority": 99930,
+      "target_quality": 1,
+      "target_quantity": 100
     }
   ]
 }

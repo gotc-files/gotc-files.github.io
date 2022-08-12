@@ -1080,6 +1080,36 @@
           "progression": "prog_armory_bonus_GeneralTroop_1"
         }
       ]
+    },
+    {
+      "id": "ba258a354c6a6e70",
+      "name": "armcol_events_motherofdragons2_1",
+      "stats": [
+        {
+          "name": "property_MaxMarchSizeVsSOP_armory",
+          "progression": "prog_armory_bonus_MarchSize_1"
+        }
+      ]
+    },
+    {
+      "id": "cf37d6de959f9c7e",
+      "name": "armcol_events_motherofdragons2_2",
+      "stats": [
+        {
+          "name": "property_TroopHealthVsSeatOfPower_armory",
+          "progression": "prog_armory_bonus_GeneralTroop_1"
+        }
+      ]
+    },
+    {
+      "id": "e3c61d7822cccd84",
+      "name": "armcol_events_motherofdragons2_3",
+      "stats": [
+        {
+          "name": "property_MarchingSpeedReinforce_armory",
+          "progression": "prog_armory_bonus_SpecificTroop_1"
+        }
+      ]
     }
   ]
 }

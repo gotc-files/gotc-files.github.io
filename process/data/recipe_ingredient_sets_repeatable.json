@@ -5898,6 +5898,30 @@
         }
       ],
       "name": "recipe_alchemy_recipe_event_repeatable_rssexchange_curr_Iron_to_boost_peaceshield_30day_1"
+    },
+    {
+      "id": "18b9f7938d799705",
+      "ingredients": [
+        {
+          "id": "ee34b06eeb38b70",
+          "name": "item_event_rewardbox_craftingmaterial_1",
+          "quantity": 1000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_repeatable_rssexchange_event_item_event_rewardbox_craftingmaterial_1_to_item_event_rewardbox_craftingmaterial_fixed_outcome1_1"
+    },
+    {
+      "id": "71d923fd450060df",
+      "ingredients": [
+        {
+          "id": "ee34b06eeb38b70",
+          "name": "item_event_rewardbox_craftingmaterial_1",
+          "quantity": 100000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_repeatable_rssexchange_event_item_event_rewardbox_craftingmaterial_1_to_item_event_rewardbox_craftingmaterial_fixed_outcome1_100"
     }
   ]
 }

@@ -972,6 +972,33 @@
       "ring_name": "prog_gearset_events_ironbank_ring",
       "weapon_id": "df821f3ba3303c4e",
       "weapon_name": "prog_gearset_events_ironbank_weapon"
+    },
+    {
+      "boots_id": "69752a7e9d6ca5da",
+      "boots_name": "prog_gearset_events_motherofdragons2_boots",
+      "chest_id": "550e96d4a9f394e2",
+      "chest_name": "prog_gearset_events_motherofdragons2_chest",
+      "color": {
+        "alpha": 255,
+        "blue": 59,
+        "green": 13,
+        "red": 126
+      },
+      "description_placeholder": "EQ_EVENTS_MOTHEROFDRAGONS2_SET_DESCRIPTION",
+      "helmet_id": "6921de28a8a65c8b",
+      "helmet_name": "prog_gearset_events_motherofdragons2_helmet",
+      "id": "46014b43fcf254dc",
+      "material_id": 6663275474832278036,
+      "material_name": "mat_event_motherofdragons2_1",
+      "name": "gearset_events_motherofdragons2",
+      "name_placeholder": "EQ_EVENTS_MOTHEROFDRAGONS2_SET_NAME",
+      "pants_id": "d04640dc4f2b0493",
+      "pants_name": "prog_gearset_events_motherofdragons2_pants",
+      "priority": 21900,
+      "ring_id": "1c1f833c6094240",
+      "ring_name": "prog_gearset_events_motherofdragons2_ring",
+      "weapon_id": "1b741891c164ea58",
+      "weapon_name": "prog_gearset_events_motherofdragons2_weapon"
     }
   ]
 }
