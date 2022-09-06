@@ -463,6 +463,19 @@
       "name": "armcol_trinket_nightswatchartifacts_1",
       "name_placeholder": "EQ_TRINKET_NIGHTSWATCHARTIFACTS_1_SET_NAME",
       "priority": 19
+    },
+    {
+      "bonuses": [
+        "armcol_trinket_targaryenprinceartifacts_1_1",
+        "armcol_trinket_targaryenprinceartifacts_1_2",
+        "armcol_trinket_targaryenprinceartifacts_1_3",
+        "armcol_trinket_targaryenprinceartifacts_1_4"
+      ],
+      "gear_set_name": "gearset_trinketarmory_targaryenprinceartifacts_1",
+      "id": "a454eb93fb5c0b0",
+      "name": "armcol_trinket_targaryenprinceartifacts_1",
+      "name_placeholder": "EQ_TRINKET_TARGARYENPRINCEARTIFACTS_1_SET_NAME",
+      "priority": 20
     }
   ]
 }

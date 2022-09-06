@@ -342,6 +342,24 @@
         "prog_gearset_trinketarmory_nightswatchartifacts_slot2",
         "prog_gearset_trinketarmory_nightswatchartifacts_slot3"
       ]
+    },
+    {
+      "color": {
+        "alpha": 255,
+        "blue": 33,
+        "green": 33,
+        "red": 190
+      },
+      "description_placeholder": "EQ_TRINKETARMORY_TARGARYENPRINCEARTIFACTS_1_SET_DESCRIPTION",
+      "id": "67ded359856d2735",
+      "name": "gearset_trinketarmory_targaryenprinceartifacts_1",
+      "name_placeholder": "EQ_TRINKETARMORY_TARGARYENPRINCEARTIFACTS_1_SET_NAME",
+      "priority": 220,
+      "trinket_names": [
+        "prog_gearset_trinketarmory_targaryenprinceartifacts_slot1",
+        "prog_gearset_trinketarmory_targaryenprinceartifacts_slot2",
+        "prog_gearset_trinketarmory_targaryenprinceartifacts_slot3"
+      ]
     }
   ]
 }

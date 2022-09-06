@@ -42259,5 +42259,1296 @@
         ]
       }
     ]
+  },
+  {
+    "bonuses": [
+      {
+        "description": "Improves troop defense in combat against other players.",
+        "name": "Troop Defense vs. Player",
+        "progression": [
+          0.0,
+          0.0001,
+          0.0003,
+          0.0005,
+          0.0007,
+          0.0009,
+          0.0011,
+          0.0014,
+          0.0018,
+          0.0021,
+          0.0024,
+          0.0027,
+          0.0031,
+          0.0034,
+          0.0037,
+          0.004,
+          0.0043,
+          0.0046,
+          0.0049,
+          0.0052,
+          0.0055,
+          0.0058,
+          0.0061,
+          0.0064,
+          0.0068,
+          0.0072,
+          0.0077,
+          0.0082,
+          0.0086,
+          0.0091,
+          0.0096,
+          0.01,
+          0.0105,
+          0.011,
+          0.0115,
+          0.0119,
+          0.0121,
+          0.0123,
+          0.0125,
+          0.0127,
+          0.0129,
+          0.0144,
+          0.0147,
+          0.015,
+          0.0153,
+          0.0156,
+          0.0159,
+          0.0163,
+          0.0166,
+          0.0169,
+          0.0174,
+          0.0179,
+          0.0184,
+          0.0189,
+          0.0194,
+          0.0199,
+          0.0204,
+          0.0209,
+          0.0215,
+          0.022,
+          0.0225,
+          0.0231,
+          0.0236,
+          0.0241,
+          0.0247,
+          0.0254,
+          0.0256,
+          0.026,
+          0.027,
+          0.0285,
+          0.0293,
+          0.0303,
+          0.0313,
+          0.0323,
+          0.0334,
+          0.0344,
+          0.0354,
+          0.0365,
+          0.0375,
+          0.0386,
+          0.0396,
+          0.0407,
+          0.0417,
+          0.0428,
+          0.0438,
+          0.0449,
+          0.0459,
+          0.047,
+          0.048,
+          0.0491,
+          0.0501,
+          0.0512,
+          0.0522,
+          0.0543,
+          0.0605,
+          0.0618,
+          0.0623,
+          0.066,
+          0.0672,
+          0.0714,
+          0.0885,
+          0.0935,
+          0.0976,
+          0.0995,
+          0.1211,
+          0.1217,
+          0.1222,
+          0.1228,
+          0.1233,
+          0.1238,
+          0.1244,
+          0.1249,
+          0.1255,
+          0.126,
+          0.1265,
+          0.1271,
+          0.1276,
+          0.1282,
+          0.1287,
+          0.1292,
+          0.1298,
+          0.1303,
+          0.1309,
+          0.1314,
+          0.1319,
+          0.1325,
+          0.133,
+          0.1336,
+          0.1341,
+          0.1346,
+          0.1352,
+          0.1357,
+          0.1363,
+          0.1368,
+          0.1374,
+          0.1379,
+          0.1384,
+          0.139,
+          0.1395,
+          0.1401,
+          0.1406,
+          0.1428,
+          0.1449,
+          0.1471,
+          0.1492,
+          0.1514,
+          0.1536,
+          0.1557,
+          0.1579,
+          0.1601
+        ]
+      },
+      {
+        "description": "The number of troops that can participate in the Rallies you start.",
+        "name": "Rallied Troops vs. Seats of Power",
+        "progression": [
+          0,
+          5,
+          10,
+          15,
+          20,
+          25,
+          30,
+          40,
+          45,
+          55,
+          65,
+          70,
+          80,
+          90,
+          100,
+          105,
+          115,
+          120,
+          130,
+          140,
+          145,
+          155,
+          165,
+          170,
+          180,
+          190,
+          205,
+          215,
+          230,
+          240,
+          255,
+          265,
+          280,
+          290,
+          305,
+          315,
+          320,
+          325,
+          335,
+          340,
+          345,
+          380,
+          390,
+          400,
+          405,
+          415,
+          425,
+          430,
+          440,
+          450,
+          460,
+          475,
+          490,
+          500,
+          515,
+          530,
+          540,
+          555,
+          570,
+          585,
+          600,
+          615,
+          625,
+          640,
+          655,
+          675,
+          680,
+          690,
+          715,
+          755,
+          775,
+          805,
+          830,
+          860,
+          885,
+          915,
+          940,
+          970,
+          995,
+          1025,
+          1050,
+          1080,
+          1105,
+          1135,
+          1165,
+          1190,
+          1220,
+          1245,
+          1275,
+          1300,
+          1330,
+          1360,
+          1385,
+          1440,
+          1605,
+          1640,
+          1655,
+          1750,
+          1785,
+          1895,
+          2350,
+          2485,
+          2590,
+          2640,
+          3215,
+          3230,
+          3245,
+          3260,
+          3275,
+          3290,
+          3300,
+          3315,
+          3330,
+          3345,
+          3360,
+          3375,
+          3390,
+          3405,
+          3415,
+          3430,
+          3445,
+          3460,
+          3475,
+          3490,
+          3505,
+          3520,
+          3530,
+          3545,
+          3560,
+          3575,
+          3590,
+          3605,
+          3620,
+          3630,
+          3645,
+          3660,
+          3675,
+          3690,
+          3705,
+          3720,
+          3735,
+          3790,
+          3865,
+          3920,
+          3980,
+          4035,
+          4095,
+          4155,
+          4210,
+          4270
+        ]
+      },
+      {
+        "description": "Increase how fast equipment is forged at your Smithy.",
+        "name": "Forging Speed",
+        "progression": [
+          0.0,
+          0.0002,
+          0.0007,
+          0.00122,
+          0.00174,
+          0.00226,
+          0.0028,
+          0.0035,
+          0.0045,
+          0.0053,
+          0.006,
+          0.0068,
+          0.0078,
+          0.0085,
+          0.0093,
+          0.01,
+          0.0108,
+          0.0115,
+          0.0123,
+          0.013,
+          0.0138,
+          0.0145,
+          0.0153,
+          0.016,
+          0.017,
+          0.018,
+          0.0193,
+          0.0206,
+          0.0216,
+          0.0228,
+          0.0241,
+          0.0251,
+          0.0263,
+          0.0276,
+          0.0288,
+          0.0298,
+          0.0303,
+          0.0308,
+          0.0313,
+          0.0318,
+          0.0323,
+          0.0361,
+          0.0368,
+          0.0376,
+          0.0384,
+          0.0391,
+          0.0399,
+          0.0409,
+          0.0416,
+          0.0424,
+          0.0436,
+          0.0449,
+          0.0461,
+          0.0474,
+          0.0486,
+          0.0499,
+          0.0511,
+          0.0524,
+          0.0539,
+          0.0551,
+          0.0564,
+          0.0579,
+          0.0592,
+          0.0604,
+          0.0619,
+          0.0637,
+          0.0642,
+          0.0652,
+          0.0677,
+          0.0714,
+          0.0734,
+          0.076,
+          0.0785,
+          0.081,
+          0.0837,
+          0.0862,
+          0.0887,
+          0.0915,
+          0.094,
+          0.0968,
+          0.0993,
+          0.102,
+          0.1045,
+          0.1073,
+          0.1098,
+          0.1125,
+          0.1151,
+          0.1178,
+          0.1203,
+          0.1231,
+          0.1256,
+          0.1283,
+          0.1308,
+          0.1361,
+          0.1517,
+          0.1549,
+          0.1562,
+          0.1654,
+          0.1684,
+          0.179,
+          0.2218,
+          0.2344,
+          0.2447,
+          0.2494,
+          0.3036,
+          0.3051,
+          0.3063,
+          0.3078,
+          0.3091,
+          0.3103,
+          0.3118,
+          0.3131,
+          0.3146,
+          0.3158,
+          0.3171,
+          0.3186,
+          0.3199,
+          0.3214,
+          0.3226,
+          0.3239,
+          0.3254,
+          0.3266,
+          0.3281,
+          0.3294,
+          0.3306,
+          0.3321,
+          0.3334,
+          0.3349,
+          0.3361,
+          0.3374,
+          0.3389,
+          0.3402,
+          0.3417,
+          0.3429,
+          0.3444,
+          0.3457,
+          0.3469,
+          0.3484,
+          0.3497,
+          0.3512,
+          0.3524,
+          0.358,
+          0.3632,
+          0.3687,
+          0.374,
+          0.3795,
+          0.385,
+          0.3903,
+          0.3958,
+          0.4013
+        ]
+      },
+      {
+        "description": "Improves troop survivability in combat against other players.",
+        "name": "Troop Health vs. Player",
+        "progression": [
+          0.0,
+          0.0001,
+          0.0003,
+          0.0005,
+          0.0007,
+          0.0009,
+          0.0011,
+          0.0014,
+          0.0018,
+          0.0021,
+          0.0024,
+          0.0027,
+          0.0031,
+          0.0034,
+          0.0037,
+          0.004,
+          0.0043,
+          0.0046,
+          0.0049,
+          0.0052,
+          0.0055,
+          0.0058,
+          0.0061,
+          0.0064,
+          0.0068,
+          0.0072,
+          0.0077,
+          0.0082,
+          0.0086,
+          0.0091,
+          0.0096,
+          0.01,
+          0.0105,
+          0.011,
+          0.0115,
+          0.0119,
+          0.0121,
+          0.0123,
+          0.0125,
+          0.0127,
+          0.0129,
+          0.0144,
+          0.0147,
+          0.015,
+          0.0153,
+          0.0156,
+          0.0159,
+          0.0163,
+          0.0166,
+          0.0169,
+          0.0174,
+          0.0179,
+          0.0184,
+          0.0189,
+          0.0194,
+          0.0199,
+          0.0204,
+          0.0209,
+          0.0215,
+          0.022,
+          0.0225,
+          0.0231,
+          0.0236,
+          0.0241,
+          0.0247,
+          0.0254,
+          0.0256,
+          0.026,
+          0.027,
+          0.0285,
+          0.0293,
+          0.0303,
+          0.0313,
+          0.0323,
+          0.0334,
+          0.0344,
+          0.0354,
+          0.0365,
+          0.0375,
+          0.0386,
+          0.0396,
+          0.0407,
+          0.0417,
+          0.0428,
+          0.0438,
+          0.0449,
+          0.0459,
+          0.047,
+          0.048,
+          0.0491,
+          0.0501,
+          0.0512,
+          0.0522,
+          0.0543,
+          0.0605,
+          0.0618,
+          0.0623,
+          0.066,
+          0.0672,
+          0.0714,
+          0.0885,
+          0.0935,
+          0.0976,
+          0.0995,
+          0.1211,
+          0.1217,
+          0.1222,
+          0.1228,
+          0.1233,
+          0.1238,
+          0.1244,
+          0.1249,
+          0.1255,
+          0.126,
+          0.1265,
+          0.1271,
+          0.1276,
+          0.1282,
+          0.1287,
+          0.1292,
+          0.1298,
+          0.1303,
+          0.1309,
+          0.1314,
+          0.1319,
+          0.1325,
+          0.133,
+          0.1336,
+          0.1341,
+          0.1346,
+          0.1352,
+          0.1357,
+          0.1363,
+          0.1368,
+          0.1374,
+          0.1379,
+          0.1384,
+          0.139,
+          0.1395,
+          0.1401,
+          0.1406,
+          0.1428,
+          0.1449,
+          0.1471,
+          0.1492,
+          0.1514,
+          0.1536,
+          0.1557,
+          0.1579,
+          0.1601
+        ]
+      }
+    ],
+    "color": "#be2121",
+    "id": "67ded359856d2735",
+    "name": "Targaryen Royal Artifacts",
+    "trinkets": [
+      {
+        "gear_with_level": [
+          {
+            "level": 1,
+            "name": "Melodious Harp (L1)",
+            "stats": [
+              {
+                "description": "Improves troop survivability in combat against other players.",
+                "name": "Troop Health vs. Player",
+                "progression": [
+                  0.017136,
+                  0.0183600000000001,
+                  0.0195840000000001,
+                  0.0208080000000001,
+                  0.0220320000000001,
+                  0.0244800000000001
+                ]
+              },
+              {
+                "description": "Troop defense bonus when attacking a Seat of Power.",
+                "name": "Defense at a Seat Of Power",
+                "progression": [
+                  0.0342720000000001,
+                  0.0367200000000001,
+                  0.0391680000000001,
+                  0.0416160000000001,
+                  0.0440640000000001,
+                  0.0489600000000001
+                ]
+              },
+              {
+                "description": "Increases the survivability of your troops when attacking a Seat of Power.",
+                "name": "Health at a Seat Of Power",
+                "progression": [
+                  0.0342720000000001,
+                  0.0367200000000001,
+                  0.0391680000000001,
+                  0.0416160000000001,
+                  0.0440640000000001,
+                  0.0489600000000001
+                ]
+              },
+              {
+                "description": "Improves troop attack in combat against other players.",
+                "name": "Troop Attack vs. Player",
+                "progression": [
+                  0.017136,
+                  0.0183600000000001,
+                  0.0195840000000001,
+                  0.0208080000000001,
+                  0.0220320000000001,
+                  0.0244800000000001
+                ]
+              }
+            ]
+          },
+          {
+            "level": 5,
+            "name": "Melodious Harp (L5)",
+            "stats": [
+              {
+                "description": "Improves troop survivability in combat against other players.",
+                "name": "Troop Health vs. Player",
+                "progression": [
+                  0.0325584,
+                  0.034884,
+                  0.0372096000000001,
+                  0.0395352000000001,
+                  0.0418608000000001,
+                  0.0465120000000001
+                ]
+              },
+              {
+                "description": "Troop defense bonus when attacking a Seat of Power.",
+                "name": "Defense at a Seat Of Power",
+                "progression": [
+                  0.0651168000000001,
+                  0.0697680000000001,
+                  0.0744192000000001,
+                  0.0790704000000001,
+                  0.0837216000000001,
+                  0.0930240000000001
+                ]
+              },
+              {
+                "description": "Increases the survivability of your troops when attacking a Seat of Power.",
+                "name": "Health at a Seat Of Power",
+                "progression": [
+                  0.0651168000000001,
+                  0.0697680000000001,
+                  0.0744192000000001,
+                  0.0790704000000001,
+                  0.0837216000000001,
+                  0.0930240000000001
+                ]
+              },
+              {
+                "description": "Improves troop attack in combat against other players.",
+                "name": "Troop Attack vs. Player",
+                "progression": [
+                  0.0325584,
+                  0.034884,
+                  0.0372096000000001,
+                  0.0395352000000001,
+                  0.0418608000000001,
+                  0.0465120000000001
+                ]
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "name": "Melodious Harp (L10)",
+            "stats": [
+              {
+                "description": "Improves troop survivability in combat against other players.",
+                "name": "Troop Health vs. Player",
+                "progression": [
+                  0.0479808000000001,
+                  0.0514080000000001,
+                  0.0548352000000001,
+                  0.0582624000000001,
+                  0.0616896000000001,
+                  0.0685440000000001
+                ]
+              },
+              {
+                "description": "Troop defense bonus when attacking a Seat of Power.",
+                "name": "Defense at a Seat Of Power",
+                "progression": [
+                  0.0959616000000001,
+                  0.102816,
+                  0.1096704,
+                  0.1165248,
+                  0.1233792,
+                  0.137088
+                ]
+              },
+              {
+                "description": "Increases the survivability of your troops when attacking a Seat of Power.",
+                "name": "Health at a Seat Of Power",
+                "progression": [
+                  0.0959616000000001,
+                  0.102816,
+                  0.1096704,
+                  0.1165248,
+                  0.1233792,
+                  0.137088
+                ]
+              },
+              {
+                "description": "Improves troop attack in combat against other players.",
+                "name": "Troop Attack vs. Player",
+                "progression": [
+                  0.0479808000000001,
+                  0.0514080000000001,
+                  0.0548352000000001,
+                  0.0582624000000001,
+                  0.0616896000000001,
+                  0.0685440000000001
+                ]
+              }
+            ]
+          },
+          {
+            "level": 15,
+            "name": "Melodious Harp (L15)",
+            "stats": [
+              {
+                "description": "Improves troop survivability in combat against other players.",
+                "name": "Troop Health vs. Player",
+                "progression": [
+                  0.0634032,
+                  0.067932,
+                  0.0724608000000001,
+                  0.0769896000000001,
+                  0.0815184000000001,
+                  0.0905760000000001
+                ]
+              },
+              {
+                "description": "Troop defense bonus when attacking a Seat of Power.",
+                "name": "Defense at a Seat Of Power",
+                "progression": [
+                  0.1268064,
+                  0.135864,
+                  0.1449216,
+                  0.1539792,
+                  0.1630368,
+                  0.181152
+                ]
+              },
+              {
+                "description": "Increases the survivability of your troops when attacking a Seat of Power.",
+                "name": "Health at a Seat Of Power",
+                "progression": [
+                  0.1268064,
+                  0.135864,
+                  0.1449216,
+                  0.1539792,
+                  0.1630368,
+                  0.181152
+                ]
+              },
+              {
+                "description": "Improves troop attack in combat against other players.",
+                "name": "Troop Attack vs. Player",
+                "progression": [
+                  0.0634032,
+                  0.067932,
+                  0.0724608000000001,
+                  0.0769896000000001,
+                  0.0815184000000001,
+                  0.0905760000000001
+                ]
+              }
+            ]
+          },
+          {
+            "level": 20,
+            "name": "Melodious Harp (L20)",
+            "stats": [
+              {
+                "description": "Improves troop survivability in combat against other players.",
+                "name": "Troop Health vs. Player",
+                "progression": [
+                  0.0788256000000001,
+                  0.084456,
+                  0.0900864000000001,
+                  0.0957168000000001,
+                  0.1013472,
+                  0.112608
+                ]
+              },
+              {
+                "description": "Troop defense bonus when attacking a Seat of Power.",
+                "name": "Defense at a Seat Of Power",
+                "progression": [
+                  0.1576512,
+                  0.168912,
+                  0.1801728,
+                  0.1914336,
+                  0.2026944,
+                  0.225216
+                ]
+              },
+              {
+                "description": "Increases the survivability of your troops when attacking a Seat of Power.",
+                "name": "Health at a Seat Of Power",
+                "progression": [
+                  0.1576512,
+                  0.168912,
+                  0.1801728,
+                  0.1914336,
+                  0.2026944,
+                  0.225216
+                ]
+              },
+              {
+                "description": "Improves troop attack in combat against other players.",
+                "name": "Troop Attack vs. Player",
+                "progression": [
+                  0.0788256000000001,
+                  0.084456,
+                  0.0900864000000001,
+                  0.0957168000000001,
+                  0.1013472,
+                  0.112608
+                ]
+              }
+            ]
+          },
+          {
+            "level": 25,
+            "name": "Melodious Harp (L25)",
+            "stats": [
+              {
+                "description": "Improves troop survivability in combat against other players.",
+                "name": "Troop Health vs. Player",
+                "progression": [
+                  0.094248,
+                  0.10098,
+                  0.107712,
+                  0.114444,
+                  0.121176,
+                  0.13464
+                ]
+              },
+              {
+                "description": "Troop defense bonus when attacking a Seat of Power.",
+                "name": "Defense at a Seat Of Power",
+                "progression": [
+                  0.188496,
+                  0.20196,
+                  0.215424,
+                  0.228888,
+                  0.242352,
+                  0.26928
+                ]
+              },
+              {
+                "description": "Increases the survivability of your troops when attacking a Seat of Power.",
+                "name": "Health at a Seat Of Power",
+                "progression": [
+                  0.188496,
+                  0.20196,
+                  0.215424,
+                  0.228888,
+                  0.242352,
+                  0.26928
+                ]
+              },
+              {
+                "description": "Improves troop attack in combat against other players.",
+                "name": "Troop Attack vs. Player",
+                "progression": [
+                  0.094248,
+                  0.10098,
+                  0.107712,
+                  0.114444,
+                  0.121176,
+                  0.13464
+                ]
+              }
+            ]
+          },
+          {
+            "level": 30,
+            "name": "Melodious Harp (L30)",
+            "stats": [
+              {
+                "description": "Improves troop survivability in combat against other players.",
+                "name": "Troop Health vs. Player",
+                "progression": [
+                  0.1096704,
+                  0.117504,
+                  0.1253376,
+                  0.1331712,
+                  0.1410048,
+                  0.156672
+                ]
+              },
+              {
+                "description": "Troop defense bonus when attacking a Seat of Power.",
+                "name": "Defense at a Seat Of Power",
+                "progression": [
+                  0.2193408,
+                  0.235008,
+                  0.2506752,
+                  0.2663424,
+                  0.2820096,
+                  0.313344
+                ]
+              },
+              {
+                "description": "Increases the survivability of your troops when attacking a Seat of Power.",
+                "name": "Health at a Seat Of Power",
+                "progression": [
+                  0.2193408,
+                  0.235008,
+                  0.2506752,
+                  0.2663424,
+                  0.2820096,
+                  0.313344
+                ]
+              },
+              {
+                "description": "Improves troop attack in combat against other players.",
+                "name": "Troop Attack vs. Player",
+                "progression": [
+                  0.1096704,
+                  0.117504,
+                  0.1253376,
+                  0.1331712,
+                  0.1410048,
+                  0.156672
+                ]
+              },
+              {
+                "description": "The maximum number of allied troops that can Reinforce your Keep.",
+                "name": "Reinforcement Capacity",
+                "progression": [
+                  5483.0,
+                  5875.0,
+                  6266.0,
+                  6658.0,
+                  7050.0,
+                  7833.0
+                ]
+              }
+            ]
+          },
+          {
+            "level": 35,
+            "name": "Melodious Harp (L35)",
+            "stats": [
+              {
+                "description": "Improves troop survivability in combat against other players.",
+                "name": "Troop Health vs. Player",
+                "progression": [
+                  0.1250928,
+                  0.134028,
+                  0.1429632,
+                  0.1518984,
+                  0.1608336,
+                  0.178704
+                ]
+              },
+              {
+                "description": "Troop defense bonus when attacking a Seat of Power.",
+                "name": "Defense at a Seat Of Power",
+                "progression": [
+                  0.2501856,
+                  0.268056,
+                  0.2859264,
+                  0.3037968,
+                  0.3216672,
+                  0.357408
+                ]
+              },
+              {
+                "description": "Increases the survivability of your troops when attacking a Seat of Power.",
+                "name": "Health at a Seat Of Power",
+                "progression": [
+                  0.2501856,
+                  0.268056,
+                  0.2859264,
+                  0.3037968,
+                  0.3216672,
+                  0.357408
+                ]
+              },
+              {
+                "description": "Improves troop attack in combat against other players.",
+                "name": "Troop Attack vs. Player",
+                "progression": [
+                  0.1250928,
+                  0.134028,
+                  0.1429632,
+                  0.1518984,
+                  0.1608336,
+                  0.178704
+                ]
+              },
+              {
+                "description": "The maximum number of allied troops that can Reinforce your Keep.",
+                "name": "Reinforcement Capacity",
+                "progression": [
+                  6254.0,
+                  6701.0,
+                  7148.0,
+                  7594.0,
+                  8041.0,
+                  8935.0
+                ]
+              }
+            ]
+          },
+          {
+            "level": 40,
+            "name": "Melodious Harp (L40)",
+            "stats": [
+              {
+                "description": "Improves troop survivability in combat against other players.",
+                "name": "Troop Health vs. Player",
+                "progression": [
+                  0.1405152,
+                  0.150552,
+                  0.1605888,
+                  0.1706256,
+                  0.1806624,
+                  0.200736
+                ]
+              },
+              {
+                "description": "Troop defense bonus when attacking a Seat of Power.",
+                "name": "Defense at a Seat Of Power",
+                "progression": [
+                  0.2810304,
+                  0.301104,
+                  0.3211776,
+                  0.3412512,
+                  0.3613248,
+                  0.401472
+                ]
+              },
+              {
+                "description": "Increases the survivability of your troops when attacking a Seat of Power.",
+                "name": "Health at a Seat Of Power",
+                "progression": [
+                  0.2810304,
+                  0.301104,
+                  0.3211776,
+                  0.3412512,
+                  0.3613248,
+                  0.401472
+                ]
+              },
+              {
+                "description": "Improves troop attack in combat against other players.",
+                "name": "Troop Attack vs. Player",
+                "progression": [
+                  0.1405152,
+                  0.150552,
+                  0.1605888,
+                  0.1706256,
+                  0.1806624,
+                  0.200736
+                ]
+              },
+              {
+                "description": "The maximum number of allied troops that can Reinforce your Keep.",
+                "name": "Reinforcement Capacity",
+                "progression": [
+                  7025.0,
+                  7527.0,
+                  8029.0,
+                  8531.0,
+                  9033.0,
+                  10036.0
+                ]
+              }
+            ]
+          },
+          {
+            "level": 45,
+            "name": "Melodious Harp (L45)",
+            "stats": [
+              {
+                "description": "Improves troop survivability in combat against other players.",
+                "name": "Troop Health vs. Player",
+                "progression": [
+                  0.1559376,
+                  0.167076,
+                  0.1782144,
+                  0.1893528,
+                  0.2004912,
+                  0.222768
+                ]
+              },
+              {
+                "description": "Troop defense bonus when attacking a Seat of Power.",
+                "name": "Defense at a Seat Of Power",
+                "progression": [
+                  0.3118752,
+                  0.334152,
+                  0.3564288,
+                  0.3787056,
+                  0.4009824,
+                  0.445536
+                ]
+              },
+              {
+                "description": "Increases the survivability of your troops when attacking a Seat of Power.",
+                "name": "Health at a Seat Of Power",
+                "progression": [
+                  0.3118752,
+                  0.334152,
+                  0.3564288,
+                  0.3787056,
+                  0.4009824,
+                  0.445536
+                ]
+              },
+              {
+                "description": "Improves troop attack in combat against other players.",
+                "name": "Troop Attack vs. Player",
+                "progression": [
+                  0.1559376,
+                  0.167076,
+                  0.1782144,
+                  0.1893528,
+                  0.2004912,
+                  0.222768
+                ]
+              },
+              {
+                "description": "The maximum number of allied troops that can Reinforce your Keep.",
+                "name": "Reinforcement Capacity",
+                "progression": [
+                  7796.0,
+                  8353.0,
+                  8910.0,
+                  9467.0,
+                  10024.0,
+                  11138.0
+                ]
+              }
+            ]
+          },
+          {
+            "level": 50,
+            "name": "Melodious Harp (L50)",
+            "stats": [
+              {
+                "description": "Improves troop survivability in combat against other players.",
+                "name": "Troop Health vs. Player",
+                "progression": [
+                  0.17136,
+                  0.1836,
+                  0.19584,
+                  0.20808,
+                  0.22032,
+                  0.2448
+                ]
+              },
+              {
+                "description": "Troop defense bonus when attacking a Seat of Power.",
+                "name": "Defense at a Seat Of Power",
+                "progression": [
+                  0.34272,
+                  0.3672,
+                  0.39168,
+                  0.41616,
+                  0.44064,
+                  0.4896
+                ]
+              },
+              {
+                "description": "Increases the survivability of your troops when attacking a Seat of Power.",
+                "name": "Health at a Seat Of Power",
+                "progression": [
+                  0.34272,
+                  0.3672,
+                  0.39168,
+                  0.41616,
+                  0.44064,
+                  0.4896
+                ]
+              },
+              {
+                "description": "Improves troop attack in combat against other players.",
+                "name": "Troop Attack vs. Player",
+                "progression": [
+                  0.17136,
+                  0.1836,
+                  0.19584,
+                  0.20808,
+                  0.22032,
+                  0.2448
+                ]
+              },
+              {
+                "description": "The maximum number of allied troops that can Reinforce your Keep.",
+                "name": "Reinforcement Capacity",
+                "progression": [
+                  8568.0,
+                  9180.0,
+                  9792.0,
+                  10404.0,
+                  11016.0,
+                  12240.0
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]

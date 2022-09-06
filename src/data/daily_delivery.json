@@ -1,5 +1,807 @@
 [
   {
+    "id": "5bcf70b3fe22cda1",
+    "name": "Labor Day Daily Delivery",
+    "packs": [
+      {
+        "id": "241b260a457eb278",
+        "items": [
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "quantity": 3750
+          },
+          {
+            "description": "Reduces time remaining",
+            "name": "1m Speedup",
+            "quantity": 150
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "1,000 Food",
+            "quantity": 300
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "1,000 Wood",
+            "quantity": 300
+          },
+          {
+            "description": "Use this to get Stone",
+            "name": "100 Stone",
+            "quantity": 300
+          },
+          {
+            "description": "Use this to get Iron",
+            "name": "50 Iron",
+            "quantity": 300
+          }
+        ],
+        "summary": [
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "quantity": 26250
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "1,000 Food",
+            "quantity": 2100
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "1,000 Wood",
+            "quantity": 2100
+          }
+        ],
+        "tier": 2
+      },
+      {
+        "id": "be0eaf70b6621499",
+        "items": [
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "quantity": 9300
+          },
+          {
+            "description": "Reduces time remaining",
+            "name": "1m Speedup",
+            "quantity": 450
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "20,000 Food",
+            "quantity": 40
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "20,000 Wood",
+            "quantity": 40
+          },
+          {
+            "description": "Use this to get Stone",
+            "name": "3,000 Stone",
+            "quantity": 40
+          },
+          {
+            "description": "Use this to get Iron",
+            "name": "800 Iron",
+            "quantity": 40
+          }
+        ],
+        "summary": [
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "quantity": 65100
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "20,000 Food",
+            "quantity": 280
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "20,000 Wood",
+            "quantity": 280
+          }
+        ],
+        "tier": 3
+      },
+      {
+        "id": "b16b1bbb1d65c58c",
+        "items": [
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "quantity": 22000
+          },
+          {
+            "description": "Reduces time remaining",
+            "name": "5m Speedup",
+            "quantity": 200
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "20,000 Food",
+            "quantity": 90
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "20,000 Wood",
+            "quantity": 90
+          },
+          {
+            "description": "Use this to get Stone",
+            "name": "3,000 Stone",
+            "quantity": 90
+          },
+          {
+            "description": "Use this to get Iron",
+            "name": "800 Iron",
+            "quantity": 90
+          }
+        ],
+        "summary": [
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "quantity": 154000
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "20,000 Food",
+            "quantity": 630
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "20,000 Wood",
+            "quantity": 630
+          }
+        ],
+        "tier": 4
+      },
+      {
+        "id": "aa831e6ad268d755",
+        "items": [
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "quantity": 61000
+          },
+          {
+            "description": "Reduces time remaining",
+            "name": "5m Speedup",
+            "quantity": 500
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "20,000 Food",
+            "quantity": 250
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "20,000 Wood",
+            "quantity": 250
+          },
+          {
+            "description": "Use this to get Stone",
+            "name": "3,000 Stone",
+            "quantity": 250
+          },
+          {
+            "description": "Use this to get Iron",
+            "name": "800 Iron",
+            "quantity": 250
+          }
+        ],
+        "summary": [
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "quantity": 427000
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "20,000 Food",
+            "quantity": 1750
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "20,000 Wood",
+            "quantity": 1750
+          }
+        ],
+        "tier": 5
+      },
+      {
+        "id": "9982029acf8ec93a",
+        "items": [
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "quantity": 135000
+          },
+          {
+            "description": "Reduces time remaining",
+            "name": "60m Speedup",
+            "quantity": 100
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "20,000 Food",
+            "quantity": 575
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "20,000 Wood",
+            "quantity": 575
+          },
+          {
+            "description": "Use this to get Stone",
+            "name": "3,000 Stone",
+            "quantity": 575
+          },
+          {
+            "description": "Use this to get Iron",
+            "name": "800 Iron",
+            "quantity": 575
+          }
+        ],
+        "summary": [
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "quantity": 945000
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "20,000 Food",
+            "quantity": 4025
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "20,000 Wood",
+            "quantity": 4025
+          }
+        ],
+        "tier": 6
+      }
+    ]
+  },
+  {
+    "id": "00e7b609bc3acb89",
+    "name": "Targaryen Royal Daily Delivery",
+    "packs": [
+      {
+        "id": "d7a1b647d7aa109a",
+        "items": [
+          {
+            "description": "Used to craft special equipment. Obtain this by participating in selected events!",
+            "name": "Targaryen Embroidery",
+            "quantity": 20000
+          },
+          {
+            "description": "Steel is used to craft gear in your Smithy. ",
+            "name": "1,000 Steel",
+            "quantity": 75
+          },
+          {
+            "description": "Steel is used to craft gear in your Smithy. ",
+            "name": "100 Steel",
+            "quantity": 210
+          },
+          {
+            "description": "Reduces time remaining",
+            "name": "5m Speedup",
+            "quantity": 70
+          },
+          {
+            "description": "Crafting material",
+            "name": "Black Iron",
+            "quantity": 3300
+          },
+          {
+            "description": "Crafting material",
+            "name": "Copper Bar",
+            "quantity": 3300
+          },
+          {
+            "description": "Crafting material",
+            "name": "Dragonglass",
+            "quantity": 3300
+          },
+          {
+            "description": "Crafting material",
+            "name": "Goldenheart Wood",
+            "quantity": 3300
+          },
+          {
+            "description": "Crafting material",
+            "name": "Hide",
+            "quantity": 3300
+          },
+          {
+            "description": "Crafting material",
+            "name": "Ironwood",
+            "quantity": 3300
+          },
+          {
+            "description": "Crafting material",
+            "name": "Kingswood Oak",
+            "quantity": 3300
+          },
+          {
+            "description": "Crafting material",
+            "name": "Leather Straps",
+            "quantity": 3300
+          },
+          {
+            "description": "Crafting material",
+            "name": "Milk of the Poppy",
+            "quantity": 3300
+          },
+          {
+            "description": "Crafting material",
+            "name": "Silk",
+            "quantity": 3300
+          },
+          {
+            "description": "Crafting material",
+            "name": "Wildfire",
+            "quantity": 3300
+          },
+          {
+            "description": "Crafting material",
+            "name": "Weirwood",
+            "quantity": 3300
+          }
+        ],
+        "summary": [
+          {
+            "description": "Used to craft special equipment. Obtain this by participating in selected events!",
+            "name": "Targaryen Embroidery",
+            "quantity": 140000
+          },
+          {
+            "description": "Steel is used to craft gear in your Smithy. ",
+            "name": "1,000 Steel",
+            "quantity": 525
+          },
+          {
+            "description": "Crafting material",
+            "name": "Black Iron",
+            "quantity": 23100
+          }
+        ],
+        "tier": 2
+      },
+      {
+        "id": "4db43f3d24b6b67b",
+        "items": [
+          {
+            "description": "Used to craft special equipment. Obtain this by participating in selected events!",
+            "name": "Targaryen Embroidery",
+            "quantity": 50000
+          },
+          {
+            "description": "Steel is used to craft gear in your Smithy. ",
+            "name": "1,000 Steel",
+            "quantity": 175
+          },
+          {
+            "description": "Steel is used to craft gear in your Smithy. ",
+            "name": "100 Steel",
+            "quantity": 400
+          },
+          {
+            "description": "Reduces time remaining",
+            "name": "5m Speedup",
+            "quantity": 150
+          },
+          {
+            "description": "Crafting material",
+            "name": "Black Iron",
+            "quantity": 8000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Copper Bar",
+            "quantity": 8000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Dragonglass",
+            "quantity": 8000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Goldenheart Wood",
+            "quantity": 8000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Hide",
+            "quantity": 8000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Ironwood",
+            "quantity": 8000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Kingswood Oak",
+            "quantity": 8000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Leather Straps",
+            "quantity": 8000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Milk of the Poppy",
+            "quantity": 8000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Silk",
+            "quantity": 8000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Wildfire",
+            "quantity": 8000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Weirwood",
+            "quantity": 8000
+          }
+        ],
+        "summary": [
+          {
+            "description": "Used to craft special equipment. Obtain this by participating in selected events!",
+            "name": "Targaryen Embroidery",
+            "quantity": 350000
+          },
+          {
+            "description": "Steel is used to craft gear in your Smithy. ",
+            "name": "1,000 Steel",
+            "quantity": 1225
+          },
+          {
+            "description": "Crafting material",
+            "name": "Black Iron",
+            "quantity": 56000
+          }
+        ],
+        "tier": 3
+      },
+      {
+        "id": "42d18bf68fb1676e",
+        "items": [
+          {
+            "description": "Used to craft special equipment. Obtain this by participating in selected events!",
+            "name": "Targaryen Embroidery",
+            "quantity": 115000
+          },
+          {
+            "description": "Steel is used to craft gear in your Smithy. ",
+            "name": "1,000 Steel",
+            "quantity": 500
+          },
+          {
+            "description": "Steel is used to craft gear in your Smithy. ",
+            "name": "100 Steel",
+            "quantity": 625
+          },
+          {
+            "description": "Reduces time remaining",
+            "name": "5m Speedup",
+            "quantity": 335
+          },
+          {
+            "description": "Crafting material",
+            "name": "Black Iron",
+            "quantity": 19000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Copper Bar",
+            "quantity": 19000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Dragonglass",
+            "quantity": 19000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Goldenheart Wood",
+            "quantity": 19000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Hide",
+            "quantity": 19000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Ironwood",
+            "quantity": 19000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Kingswood Oak",
+            "quantity": 19000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Leather Straps",
+            "quantity": 19000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Milk of the Poppy",
+            "quantity": 19000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Silk",
+            "quantity": 19000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Wildfire",
+            "quantity": 19000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Weirwood",
+            "quantity": 19000
+          }
+        ],
+        "summary": [
+          {
+            "description": "Used to craft special equipment. Obtain this by participating in selected events!",
+            "name": "Targaryen Embroidery",
+            "quantity": 805000
+          },
+          {
+            "description": "Steel is used to craft gear in your Smithy. ",
+            "name": "1,000 Steel",
+            "quantity": 3500
+          },
+          {
+            "description": "Crafting material",
+            "name": "Black Iron",
+            "quantity": 133000
+          }
+        ],
+        "tier": 4
+      },
+      {
+        "id": "59398e2740bc75b7",
+        "items": [
+          {
+            "description": "Used to craft special equipment. Obtain this by participating in selected events!",
+            "name": "Targaryen Embroidery",
+            "quantity": 320000
+          },
+          {
+            "description": "Steel is used to craft gear in your Smithy. ",
+            "name": "10,000 Steel",
+            "quantity": 125
+          },
+          {
+            "description": "Steel is used to craft gear in your Smithy. ",
+            "name": "1,000 Steel",
+            "quantity": 250
+          },
+          {
+            "description": "Reduces time remaining",
+            "name": "60m Speedup",
+            "quantity": 45
+          },
+          {
+            "description": "Reduces time remaining",
+            "name": "5m Speedup",
+            "quantity": 400
+          },
+          {
+            "description": "Crafting material",
+            "name": "Black Iron",
+            "quantity": 54000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Copper Bar",
+            "quantity": 54000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Dragonglass",
+            "quantity": 54000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Goldenheart Wood",
+            "quantity": 54000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Hide",
+            "quantity": 54000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Ironwood",
+            "quantity": 54000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Kingswood Oak",
+            "quantity": 54000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Leather Straps",
+            "quantity": 54000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Milk of the Poppy",
+            "quantity": 54000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Silk",
+            "quantity": 54000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Wildfire",
+            "quantity": 54000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Weirwood",
+            "quantity": 54000
+          }
+        ],
+        "summary": [
+          {
+            "description": "Used to craft special equipment. Obtain this by participating in selected events!",
+            "name": "Targaryen Embroidery",
+            "quantity": 2240000
+          },
+          {
+            "description": "Steel is used to craft gear in your Smithy. ",
+            "name": "10,000 Steel",
+            "quantity": 875
+          },
+          {
+            "description": "Crafting material",
+            "name": "Black Iron",
+            "quantity": 378000
+          }
+        ],
+        "tier": 5
+      },
+      {
+        "id": "31984633e158f01c",
+        "items": [
+          {
+            "description": "Used to craft special equipment. Obtain this by participating in selected events!",
+            "name": "Targaryen Embroidery",
+            "quantity": 710000
+          },
+          {
+            "description": "Steel is used to craft gear in your Smithy. ",
+            "name": "10,000 Steel",
+            "quantity": 300
+          },
+          {
+            "description": "Steel is used to craft gear in your Smithy. ",
+            "name": "1,000 Steel",
+            "quantity": 600
+          },
+          {
+            "description": "Reduces time remaining",
+            "name": "60m Speedup",
+            "quantity": 90
+          },
+          {
+            "description": "Reduces time remaining",
+            "name": "5m Speedup",
+            "quantity": 1000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Black Iron",
+            "quantity": 120000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Copper Bar",
+            "quantity": 120000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Dragonglass",
+            "quantity": 120000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Goldenheart Wood",
+            "quantity": 120000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Hide",
+            "quantity": 120000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Ironwood",
+            "quantity": 120000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Kingswood Oak",
+            "quantity": 120000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Leather Straps",
+            "quantity": 120000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Milk of the Poppy",
+            "quantity": 120000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Silk",
+            "quantity": 120000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Wildfire",
+            "quantity": 120000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Weirwood",
+            "quantity": 120000
+          }
+        ],
+        "summary": [
+          {
+            "description": "Used to craft special equipment. Obtain this by participating in selected events!",
+            "name": "Targaryen Embroidery",
+            "quantity": 4970000
+          },
+          {
+            "description": "Steel is used to craft gear in your Smithy. ",
+            "name": "10,000 Steel",
+            "quantity": 2100
+          },
+          {
+            "description": "Crafting material",
+            "name": "Black Iron",
+            "quantity": 840000
+          }
+        ],
+        "tier": 6
+      }
+    ]
+  },
+  {
     "id": "f9f100d69901b079",
     "name": "Festival of Smith Daily Delivery",
     "packs": [
@@ -15888,7 +16690,7 @@
           {
             "description": "Apply Hero XP to Heroes to increase their Hero Level.",
             "name": "10 Hero XP",
-            "quantity": 100
+            "quantity": 110
           },
           {
             "description": "Reduces time remaining",
@@ -15920,7 +16722,7 @@
           {
             "description": "Apply Hero XP to Heroes to increase their Hero Level.",
             "name": "10 Hero XP",
-            "quantity": 700
+            "quantity": 770
           },
           {
             "description": "Use this to get Food",
@@ -15941,7 +16743,7 @@
           {
             "description": "Apply Hero XP to Heroes to increase their Hero Level.",
             "name": "10 Hero XP",
-            "quantity": 240
+            "quantity": 275
           },
           {
             "description": "Reduces time remaining",
@@ -15973,7 +16775,7 @@
           {
             "description": "Apply Hero XP to Heroes to increase their Hero Level.",
             "name": "10 Hero XP",
-            "quantity": 1680
+            "quantity": 1925
           },
           {
             "description": "Use this to get Food",
@@ -15994,7 +16796,7 @@
           {
             "description": "Apply Hero XP to Heroes to increase their Hero Level.",
             "name": "10 Hero XP",
-            "quantity": 570
+            "quantity": 650
           },
           {
             "description": "Reduces time remaining",
@@ -16026,7 +16828,7 @@
           {
             "description": "Apply Hero XP to Heroes to increase their Hero Level.",
             "name": "10 Hero XP",
-            "quantity": 3990
+            "quantity": 4550
           },
           {
             "description": "Use this to get Food",
@@ -16047,7 +16849,7 @@
           {
             "description": "Apply Hero XP to Heroes to increase their Hero Level.",
             "name": "10 Hero XP",
-            "quantity": 1600
+            "quantity": 1800
           },
           {
             "description": "Reduces time remaining",
@@ -16079,7 +16881,7 @@
           {
             "description": "Apply Hero XP to Heroes to increase their Hero Level.",
             "name": "10 Hero XP",
-            "quantity": 11200
+            "quantity": 12600
           },
           {
             "description": "Use this to get Food",
@@ -16100,7 +16902,7 @@
           {
             "description": "Apply Hero XP to Heroes to increase their Hero Level.",
             "name": "10 Hero XP",
-            "quantity": 3500
+            "quantity": 4000
           },
           {
             "description": "Reduces time remaining",
@@ -16132,7 +16934,7 @@
           {
             "description": "Apply Hero XP to Heroes to increase their Hero Level.",
             "name": "10 Hero XP",
-            "quantity": 24500
+            "quantity": 28000
           },
           {
             "description": "Use this to get Food",

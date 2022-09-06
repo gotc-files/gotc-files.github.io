@@ -1300,6 +1300,46 @@
           "progression": "prog_trinketarmory_bouns_MarcherTroop_1"
         }
       ]
+    },
+    {
+      "id": "dfae8d552e28bed5",
+      "name": "armcol_trinket_targaryenprinceartifacts_1_1",
+      "stats": [
+        {
+          "name": "property_TroopDefenseVsPlayer_armory",
+          "progression": "prog_trinketarmory_bonus_GeneralTroop_1"
+        }
+      ]
+    },
+    {
+      "id": "aabcd1bef7dd4cdb",
+      "name": "armcol_trinket_targaryenprinceartifacts_1_2",
+      "stats": [
+        {
+          "name": "property_RalliedTroopCapacityVsSeatOfPower_armory",
+          "progression": "prog_trinketarmory_bonus_RallySize_1"
+        }
+      ]
+    },
+    {
+      "id": "864d1a18408e1d21",
+      "name": "armcol_trinket_targaryenprinceartifacts_1_3",
+      "stats": [
+        {
+          "name": "property_ForgingSpeed_armory",
+          "progression": "prog_trinketarmory_bonus_Support_1"
+        }
+      ]
+    },
+    {
+      "id": "409868694436a8c7",
+      "name": "armcol_trinket_targaryenprinceartifacts_1_4",
+      "stats": [
+        {
+          "name": "property_TroopHealthVsPlayer_armory",
+          "progression": "prog_trinketarmory_bonus_GeneralTroop_1"
+        }
+      ]
     }
   ]
 }

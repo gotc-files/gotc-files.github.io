@@ -3712,6 +3712,126 @@
       "skill_type": "MARCH",
       "stat_name": "driven_DragonDefense",
       "unlock_level": 0
+    },
+    {
+      "id": "d0a3f9077ee4fe23",
+      "name": "heroskill_visgen_hero_varys_keeperoftherealm_3",
+      "skill_type": "COUNCIL",
+      "star_skill_value": 0.3059999942779541,
+      "stat_name": "property_TroopHealthVsSeatOfPower_hero",
+      "unlock_level": 10
+    },
+    {
+      "id": "16768b767a5c4bc5",
+      "name": "heroskill_visgen_hero_varys_keeperoftherealm_4",
+      "skill_type": "COUNCIL",
+      "star_skill_value": 0.23375000059604645,
+      "stat_name": "property_ResearchSpeedExpedition_hero",
+      "unlock_level": 20
+    },
+    {
+      "id": "3a8740d0cd0f1a3f",
+      "name": "heroskill_visgen_hero_varys_keeperoftherealm_5",
+      "skill_type": "COUNCIL",
+      "star_skill_value": 0.25703999400138855,
+      "stat_name": "property_TroopAttack_hero",
+      "unlock_level": 30
+    },
+    {
+      "id": "4f951c3b14fae831",
+      "name": "heroskill_visgen_hero_varys_keeperoftherealm_6",
+      "skill_type": "COUNCIL",
+      "star_skill_value": 0.5875200033187866,
+      "stat_name": "property_HealCost_hero",
+      "unlock_level": 40
+    },
+    {
+      "id": "6364d79da3a9b9cb",
+      "name": "heroskill_visgen_hero_varys_keeperoftherealm_7",
+      "skill_type": "COUNCIL",
+      "star_skill_value": 0.3712799847126007,
+      "stat_name": "property_MarcherTroopDefenseVsPlayerSeatOfPower_hero",
+      "unlock_level": 50
+    },
+    {
+      "id": "4085baac5424ccd6",
+      "name": "heroskill_visgen_hero_varys_keeperoftherealm_8",
+      "skill_type": "COUNCIL",
+      "star_skill_value": 0.45287999510765076,
+      "stat_name": "property_DragonTroopAttackVsPlayerSeatOfPower_hero",
+      "unlock_level": 60
+    },
+    {
+      "id": "89406e4a10425dd7",
+      "name": "heroskill_visgen_hero_varys_keeperoftherealm_1",
+      "signature_skill_progression_name": "heropropertyprog_visgen_hero_varys_keeperoftherealm_1",
+      "skill_type": "MARCH",
+      "stat_name": "driven_MaxMarchSize",
+      "unlock_level": 0
+    },
+    {
+      "id": "fc5232a1c9b7afd9",
+      "name": "heroskill_visgen_hero_varys_keeperoftherealm_2",
+      "signature_skill_progression_name": "heropropertyprog_visgen_hero_varys_keeperoftherealm_2",
+      "skill_type": "COUNCIL",
+      "stat_name": "property_DragonTroopDefenseVsSeatOfPower_hero",
+      "unlock_level": 0
+    },
+    {
+      "id": "1cd2c3dd78bd5df1",
+      "name": "heroskill_visgen_hero_tyrionlannister_handofthequeen_3",
+      "skill_type": "COUNCIL",
+      "star_skill_value": 0.2199999988079071,
+      "stat_name": "property_ResearchSpeedDragon_hero",
+      "unlock_level": 10
+    },
+    {
+      "id": "da07b1ac7c05e817",
+      "name": "heroskill_visgen_hero_tyrionlannister_handofthequeen_4",
+      "skill_type": "MARCH",
+      "star_skill_value": 0.4455360174179077,
+      "stat_name": "driven_MarcherInfantryAttackVsPlayer",
+      "unlock_level": 20
+    },
+    {
+      "id": "f6f67a0acb56b9ed",
+      "name": "heroskill_visgen_hero_tyrionlannister_handofthequeen_5",
+      "skill_type": "COUNCIL",
+      "star_skill_value": 0.46512001752853394,
+      "stat_name": "property_DragonInfantryHealthVsPlayer_hero",
+      "unlock_level": 30
+    },
+    {
+      "id": "83e426e112a34be3",
+      "name": "heroskill_visgen_hero_tyrionlannister_handofthequeen_6",
+      "skill_type": "COUNCIL",
+      "star_skill_value": 0.48552000522613525,
+      "stat_name": "property_MarcherInfantryDefenseVsPlayer_hero",
+      "unlock_level": 40
+    },
+    {
+      "id": "af15ed47a5f01a19",
+      "name": "heroskill_visgen_hero_tyrionlannister_handofthequeen_7",
+      "skill_type": "MARCH",
+      "star_skill_value": 0.5875200033187866,
+      "stat_name": "driven_InfantryAttackVsSeatOfPower",
+      "unlock_level": 50
+    },
+    {
+      "id": "45315490161bfe05",
+      "name": "heroskill_visgen_hero_tyrionlannister_handofthequeen_1",
+      "signature_skill_progression_name": "heropropertyprog_visgen_hero_tyrionlannister_handofthequeen_1",
+      "skill_type": "MARCH",
+      "stat_name": "driven_MaxMarchSize",
+      "unlock_level": 0
+    },
+    {
+      "id": "3023087bcfee0c0b",
+      "name": "heroskill_visgen_hero_tyrionlannister_handofthequeen_2",
+      "signature_skill_progression_name": "heropropertyprog_visgen_hero_tyrionlannister_handofthequeen_2",
+      "skill_type": "COUNCIL",
+      "stat_name": "property_DragonInfantryAttackVsPlayer_hero",
+      "unlock_level": 0
     }
   ]
 }
