@@ -2100,6 +2100,66 @@
         }
       ],
       "name": "recipe_alchemy_recipe_event_2022_September_item_event_scrip_1_100000000"
+    },
+    {
+      "id": "78f4d51680ce12b7",
+      "ingredients": [
+        {
+          "id": "52876fcf9ea064c2",
+          "name": "item_event_trophy_bookofconquest_1",
+          "quantity": 1,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_2022_October_item_event_scrip_1_1"
+    },
+    {
+      "id": "c5d7f652709d04a4",
+      "ingredients": [
+        {
+          "id": "52876fcf9ea064c2",
+          "name": "item_event_trophy_bookofconquest_1",
+          "quantity": 100,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_2022_October_item_event_scrip_1_100"
+    },
+    {
+      "id": "3a72fef074da0013",
+      "ingredients": [
+        {
+          "id": "52876fcf9ea064c2",
+          "name": "item_event_trophy_bookofconquest_1",
+          "quantity": 10000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_2022_October_item_event_scrip_1_10000"
+    },
+    {
+      "id": "727e837785ece8c8",
+      "ingredients": [
+        {
+          "id": "52876fcf9ea064c2",
+          "name": "item_event_trophy_bookofconquest_1",
+          "quantity": 1000000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_2022_October_item_event_scrip_1_1000000"
+    },
+    {
+      "id": "ce1119d9a72f15de",
+      "ingredients": [
+        {
+          "id": "52876fcf9ea064c2",
+          "name": "item_event_trophy_bookofconquest_1",
+          "quantity": 100000000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_2022_October_item_event_scrip_1_100000000"
     }
   ]
 }

@@ -444,6 +444,18 @@
       "name": "armcol_events_motherofdragons2",
       "name_placeholder": "EQ_EVENTS_MOTHEROFDRAGONS2_SET_NAME",
       "priority": 21900
+    },
+    {
+      "bonuses": [
+        "armcol_events_bookofconquest_1",
+        "armcol_events_bookofconquest_2",
+        "armcol_events_bookofconquest_3"
+      ],
+      "gear_set_name": "gearset_events_bookofconquest",
+      "id": "70628e6fa4c43cd7",
+      "name": "armcol_events_bookofconquest",
+      "name_placeholder": "EQ_EVENTS_BOOKOFCONQUEST_SET_NAME",
+      "priority": 22500
     }
   ]
 }

@@ -1110,6 +1110,36 @@
           "progression": "prog_armory_bonus_SpecificTroop_1"
         }
       ]
+    },
+    {
+      "id": "45610df984f85d48",
+      "name": "armcol_events_bookofconquest_1",
+      "stats": [
+        {
+          "name": "property_InfantryDefenseVsPlayersRanged_armory",
+          "progression": "prog_armory_bonus_SpecificTroop_1"
+        }
+      ]
+    },
+    {
+      "id": "307351125d0daf46",
+      "name": "armcol_events_bookofconquest_2",
+      "stats": [
+        {
+          "name": "property_MarcherInfantryAttackVsPlayer_armory",
+          "progression": "prog_armory_bouns_MarcherTroop_1"
+        }
+      ]
+    },
+    {
+      "id": "1c829ab4ea5efebc",
+      "name": "armcol_events_bookofconquest_3",
+      "stats": [
+        {
+          "name": "property_InfantryHealthVsPlayer_armory",
+          "progression": "prog_armory_bonus_SpecificTroop_1"
+        }
+      ]
     }
   ]
 }

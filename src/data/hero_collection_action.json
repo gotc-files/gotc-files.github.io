@@ -1722,7 +1722,7 @@
         43200,
         43200
       ],
-      "description": "Increases March Speed of your troops up to {0} times while active.",
+      "description": "Increases March Speed of your troops to hostile players up to {0} times while active.",
       "duration": [
         0,
         0,
@@ -5446,7 +5446,7 @@
       ],
       "stat": {
         "description": "Research and Expedition speed bonus.",
-        "name": "Maester Speed"
+        "name": "Maester Research Speed"
       },
       "tag": "UTILITY"
     },

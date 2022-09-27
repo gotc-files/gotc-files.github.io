@@ -56880,6 +56880,1686 @@
           "progression": "prog_gear_Event8_CavalryDefenseVsPlayer_50"
         }
       ]
+    },
+    {
+      "id": "e670e41b58537a12",
+      "name": "eq_events_bookofconquest_5_boots_lord5",
+      "stats": [
+        {
+          "name": "property_InfantryHealth_gear",
+          "progression": "prog_gear_Event8_InfantryHealth_5"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_InfantryDefenseVsPlayer_5"
+        },
+        {
+          "name": "property_MarcherInfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarcherInfantryDefenseVsPlayer_5"
+        }
+      ]
+    },
+    {
+      "id": "f6dab34377f46485",
+      "name": "eq_events_bookofconquest_5_chest_lord5",
+      "stats": [
+        {
+          "name": "property_InfantryDefense_gear",
+          "progression": "prog_gear_Event8_InfantryDefense_5"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarchSpeedVsPlayer_5"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_InfantryAttackVsPlayer_5"
+        }
+      ]
+    },
+    {
+      "id": "163e1b075b014d17",
+      "name": "eq_events_bookofconquest_5_helmet_lord5",
+      "stats": [
+        {
+          "name": "property_InfantryAttack_gear",
+          "progression": "prog_gear_Event8_InfantryAttack_5"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event8_MaxMarchSize_5"
+        },
+        {
+          "name": "property_MarcherInfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarcherInfantryAttackVsPlayer_5"
+        }
+      ]
+    },
+    {
+      "id": "25f2f160050cad9e",
+      "name": "eq_events_bookofconquest_5_pants_lord5",
+      "stats": [
+        {
+          "name": "property_InfantryHealth_gear",
+          "progression": "prog_gear_Event8_InfantryHealth_5"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_InfantryAttackVsPlayer_5"
+        },
+        {
+          "name": "property_MarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event8_MarchingSpeedVsSeatOfPower_5"
+        }
+      ]
+    },
+    {
+      "id": "992f8efe61ed34b7",
+      "name": "eq_events_bookofconquest_5_ring_lord5",
+      "stats": [
+        {
+          "name": "property_InfantryAttack_gear",
+          "progression": "prog_gear_Event8_InfantryAttack_5"
+        },
+        {
+          "name": "property_InfantryDefense_gear",
+          "progression": "prog_gear_Event8_InfantryDefense_5"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event8_MaxMarchSize_5"
+        }
+      ]
+    },
+    {
+      "id": "71e3833012de139a",
+      "name": "eq_events_bookofconquest_5_weapon_lord5",
+      "stats": [
+        {
+          "name": "property_InfantryHealth_gear",
+          "progression": "prog_gear_Event8_InfantryHealth_5"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event8_InfantryAttackVsPlayersInfantry_5"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_InfantryDefenseVsPlayer_5"
+        }
+      ]
+    },
+    {
+      "id": "60e02d177d83e64",
+      "name": "eq_events_bookofconquest_10_boots_lord10",
+      "stats": [
+        {
+          "name": "property_InfantryHealth_gear",
+          "progression": "prog_gear_Event8_InfantryHealth_10"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_InfantryDefenseVsPlayer_10"
+        },
+        {
+          "name": "property_MarcherInfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarcherInfantryDefenseVsPlayer_10"
+        }
+      ]
+    },
+    {
+      "id": "49448739205c45d4",
+      "name": "eq_events_bookofconquest_10_chest_lord10",
+      "stats": [
+        {
+          "name": "property_InfantryDefense_gear",
+          "progression": "prog_gear_Event8_InfantryDefense_10"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarchSpeedVsPlayer_10"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_InfantryAttackVsPlayer_10"
+        }
+      ]
+    },
+    {
+      "id": "9c4c4a209632a116",
+      "name": "eq_events_bookofconquest_10_helmet_lord10",
+      "stats": [
+        {
+          "name": "property_InfantryAttack_gear",
+          "progression": "prog_gear_Event8_InfantryAttack_10"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event8_MaxMarchSize_10"
+        },
+        {
+          "name": "property_MarcherInfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarcherInfantryAttackVsPlayer_10"
+        }
+      ]
+    },
+    {
+      "id": "91639024862a4135",
+      "name": "eq_events_bookofconquest_10_pants_lord10",
+      "stats": [
+        {
+          "name": "property_InfantryHealth_gear",
+          "progression": "prog_gear_Event8_InfantryHealth_10"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_InfantryAttackVsPlayer_10"
+        },
+        {
+          "name": "property_MarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event8_MarchingSpeedVsSeatOfPower_10"
+        }
+      ]
+    },
+    {
+      "id": "42c0dffc419959ed",
+      "name": "eq_events_bookofconquest_10_ring_lord10",
+      "stats": [
+        {
+          "name": "property_InfantryAttack_gear",
+          "progression": "prog_gear_Event8_InfantryAttack_10"
+        },
+        {
+          "name": "property_InfantryDefense_gear",
+          "progression": "prog_gear_Event8_InfantryDefense_10"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event8_MaxMarchSize_10"
+        }
+      ]
+    },
+    {
+      "id": "27744cfe9c870f34",
+      "name": "eq_events_bookofconquest_10_weapon_lord10",
+      "stats": [
+        {
+          "name": "property_InfantryHealth_gear",
+          "progression": "prog_gear_Event8_InfantryHealth_10"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event8_InfantryAttackVsPlayersInfantry_10"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_InfantryDefenseVsPlayer_10"
+        }
+      ]
+    },
+    {
+      "id": "8c647a03848bdb94",
+      "name": "eq_events_bookofconquest_15_boots_lord15",
+      "stats": [
+        {
+          "name": "property_InfantryHealth_gear",
+          "progression": "prog_gear_Event8_InfantryHealth_15"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_InfantryDefenseVsPlayer_15"
+        },
+        {
+          "name": "property_MarcherInfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarcherInfantryDefenseVsPlayer_15"
+        }
+      ]
+    },
+    {
+      "id": "c32effebd30fa024",
+      "name": "eq_events_bookofconquest_15_chest_lord15",
+      "stats": [
+        {
+          "name": "property_InfantryDefense_gear",
+          "progression": "prog_gear_Event8_InfantryDefense_15"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarchSpeedVsPlayer_15"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_InfantryAttackVsPlayer_15"
+        }
+      ]
+    },
+    {
+      "id": "ab860db871f11773",
+      "name": "eq_events_bookofconquest_15_helmet_lord15",
+      "stats": [
+        {
+          "name": "property_InfantryAttack_gear",
+          "progression": "prog_gear_Event8_InfantryAttack_15"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event8_MaxMarchSize_15"
+        },
+        {
+          "name": "property_MarcherInfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarcherInfantryAttackVsPlayer_15"
+        }
+      ]
+    },
+    {
+      "id": "1b09e8f67579a4c5",
+      "name": "eq_events_bookofconquest_15_pants_lord15",
+      "stats": [
+        {
+          "name": "property_InfantryHealth_gear",
+          "progression": "prog_gear_Event8_InfantryHealth_15"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_InfantryAttackVsPlayer_15"
+        },
+        {
+          "name": "property_MarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event8_MarchingSpeedVsSeatOfPower_15"
+        }
+      ]
+    },
+    {
+      "id": "3da7a2d2f855693c",
+      "name": "eq_events_bookofconquest_15_ring_lord15",
+      "stats": [
+        {
+          "name": "property_InfantryAttack_gear",
+          "progression": "prog_gear_Event8_InfantryAttack_15"
+        },
+        {
+          "name": "property_InfantryDefense_gear",
+          "progression": "prog_gear_Event8_InfantryDefense_15"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event8_MaxMarchSize_15"
+        }
+      ]
+    },
+    {
+      "id": "10be0b667b44b951",
+      "name": "eq_events_bookofconquest_15_weapon_lord15",
+      "stats": [
+        {
+          "name": "property_InfantryHealth_gear",
+          "progression": "prog_gear_Event8_InfantryHealth_15"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event8_InfantryAttackVsPlayersInfantry_15"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_InfantryDefenseVsPlayer_15"
+        }
+      ]
+    },
+    {
+      "id": "ef5616559f0e4a45",
+      "name": "eq_events_bookofconquest_20_boots_lord20",
+      "stats": [
+        {
+          "name": "property_InfantryHealth_gear",
+          "progression": "prog_gear_Event8_InfantryHealth_20"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_InfantryDefenseVsPlayer_20"
+        },
+        {
+          "name": "property_MarcherInfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarcherInfantryDefenseVsPlayer_20"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarchSpeedVsPlayer_20"
+        }
+      ]
+    },
+    {
+      "id": "a01c93bdc88a31f5",
+      "name": "eq_events_bookofconquest_20_chest_lord20",
+      "stats": [
+        {
+          "name": "property_InfantryDefense_gear",
+          "progression": "prog_gear_Event8_InfantryDefense_20"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarchSpeedVsPlayer_20"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_InfantryAttackVsPlayer_20"
+        },
+        {
+          "name": "property_InfantryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event8_InfantryHealthVsPlayer_20"
+        }
+      ]
+    },
+    {
+      "id": "f97e68cc5f76b529",
+      "name": "eq_events_bookofconquest_20_helmet_lord20",
+      "stats": [
+        {
+          "name": "property_InfantryAttack_gear",
+          "progression": "prog_gear_Event8_InfantryAttack_20"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event8_MaxMarchSize_20"
+        },
+        {
+          "name": "property_MarcherInfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarcherInfantryAttackVsPlayer_20"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event8_InfantryAttackVsPlayersInfantry_20"
+        }
+      ]
+    },
+    {
+      "id": "783b84a06efc3514",
+      "name": "eq_events_bookofconquest_20_pants_lord20",
+      "stats": [
+        {
+          "name": "property_InfantryHealth_gear",
+          "progression": "prog_gear_Event8_InfantryHealth_20"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_InfantryAttackVsPlayer_20"
+        },
+        {
+          "name": "property_MarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event8_MarchingSpeedVsSeatOfPower_20"
+        },
+        {
+          "name": "property_InfantryAttack_gear",
+          "progression": "prog_gear_Event8_InfantryAttack_20"
+        }
+      ]
+    },
+    {
+      "id": "416ee06d9da5d9a6",
+      "name": "eq_events_bookofconquest_20_ring_lord20",
+      "stats": [
+        {
+          "name": "property_InfantryAttack_gear",
+          "progression": "prog_gear_Event8_InfantryAttack_20"
+        },
+        {
+          "name": "property_InfantryDefense_gear",
+          "progression": "prog_gear_Event8_InfantryDefense_20"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event8_MaxMarchSize_20"
+        },
+        {
+          "name": "property_MarcherInfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarcherInfantryAttackVsPlayer_20"
+        }
+      ]
+    },
+    {
+      "id": "42466e1255c31b0b",
+      "name": "eq_events_bookofconquest_20_weapon_lord20",
+      "stats": [
+        {
+          "name": "property_InfantryHealth_gear",
+          "progression": "prog_gear_Event8_InfantryHealth_20"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event8_InfantryAttackVsPlayersInfantry_20"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_InfantryDefenseVsPlayer_20"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event8_MaxMarchSize_20"
+        }
+      ]
+    },
+    {
+      "id": "653c6e876c5dafb5",
+      "name": "eq_events_bookofconquest_25_boots_lord25",
+      "stats": [
+        {
+          "name": "property_InfantryHealth_gear",
+          "progression": "prog_gear_Event8_InfantryHealth_25"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_InfantryDefenseVsPlayer_25"
+        },
+        {
+          "name": "property_MarcherInfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarcherInfantryDefenseVsPlayer_25"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarchSpeedVsPlayer_25"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event8.5_MaxMarchSize_25"
+        }
+      ]
+    },
+    {
+      "id": "2a76eb6f3bd9d405",
+      "name": "eq_events_bookofconquest_25_chest_lord25",
+      "stats": [
+        {
+          "name": "property_InfantryDefense_gear",
+          "progression": "prog_gear_Event8_InfantryDefense_25"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarchSpeedVsPlayer_25"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_InfantryAttackVsPlayer_25"
+        },
+        {
+          "name": "property_InfantryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event8_InfantryHealthVsPlayer_25"
+        },
+        {
+          "name": "property_InfantryHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event8.5_InfantryHealthVsPlayerSeatOfPower_25"
+        }
+      ]
+    },
+    {
+      "id": "ceb42f54b8b5034c",
+      "name": "eq_events_bookofconquest_25_helmet_lord25",
+      "stats": [
+        {
+          "name": "property_InfantryAttack_gear",
+          "progression": "prog_gear_Event8_InfantryAttack_25"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event8_MaxMarchSize_25"
+        },
+        {
+          "name": "property_MarcherInfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarcherInfantryAttackVsPlayer_25"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event8_InfantryAttackVsPlayersInfantry_25"
+        },
+        {
+          "name": "property_MarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event8.5_MarchingSpeedVsSeatOfPower_25"
+        }
+      ]
+    },
+    {
+      "id": "f251fc729dafd0e4",
+      "name": "eq_events_bookofconquest_25_pants_lord25",
+      "stats": [
+        {
+          "name": "property_InfantryHealth_gear",
+          "progression": "prog_gear_Event8_InfantryHealth_25"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_InfantryAttackVsPlayer_25"
+        },
+        {
+          "name": "property_MarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event8_MarchingSpeedVsSeatOfPower_25"
+        },
+        {
+          "name": "property_InfantryAttack_gear",
+          "progression": "prog_gear_Event8_InfantryAttack_25"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event8.5_InfantryDefenseVsPlayersInfantry_25"
+        }
+      ]
+    },
+    {
+      "id": "3e099d432469e977",
+      "name": "eq_events_bookofconquest_25_ring_lord25",
+      "stats": [
+        {
+          "name": "property_InfantryAttack_gear",
+          "progression": "prog_gear_Event8_InfantryAttack_25"
+        },
+        {
+          "name": "property_InfantryDefense_gear",
+          "progression": "prog_gear_Event8_InfantryDefense_25"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event8_MaxMarchSize_25"
+        },
+        {
+          "name": "property_MarcherInfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarcherInfantryAttackVsPlayer_25"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8.5_InfantryDefenseVsPlayer_25"
+        }
+      ]
+    },
+    {
+      "id": "758c298ab200ad6e",
+      "name": "eq_events_bookofconquest_25_weapon_lord25",
+      "stats": [
+        {
+          "name": "property_InfantryHealth_gear",
+          "progression": "prog_gear_Event8_InfantryHealth_25"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event8_InfantryAttackVsPlayersInfantry_25"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_InfantryDefenseVsPlayer_25"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event8_MaxMarchSize_25"
+        },
+        {
+          "name": "property_MarcherInfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8.5_MarcherInfantryDefenseVsPlayer_25"
+        }
+      ]
+    },
+    {
+      "id": "360824050026a343",
+      "name": "eq_events_bookofconquest_30_boots_lord30",
+      "stats": [
+        {
+          "name": "property_InfantryHealth_gear",
+          "progression": "prog_gear_Event8_InfantryHealth_30"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_InfantryDefenseVsPlayer_30"
+        },
+        {
+          "name": "property_MarcherInfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarcherInfantryDefenseVsPlayer_30"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarchSpeedVsPlayer_30"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event8.5_MaxMarchSize_30"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event8_InfantryAttackVsPlayerSeatOfPower_30"
+        }
+      ]
+    },
+    {
+      "id": "7942a1ed57a2d8f3",
+      "name": "eq_events_bookofconquest_30_chest_lord30",
+      "stats": [
+        {
+          "name": "property_InfantryDefense_gear",
+          "progression": "prog_gear_Event8_InfantryDefense_30"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarchSpeedVsPlayer_30"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_InfantryAttackVsPlayer_30"
+        },
+        {
+          "name": "property_InfantryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event8_InfantryHealthVsPlayer_30"
+        },
+        {
+          "name": "property_InfantryHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event8.5_InfantryHealthVsPlayerSeatOfPower_30"
+        },
+        {
+          "name": "property_MarcherInfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarcherInfantryAttackVsPlayer_30"
+        }
+      ]
+    },
+    {
+      "id": "da6f8968184ab93c",
+      "name": "eq_events_bookofconquest_30_helmet_lord30",
+      "stats": [
+        {
+          "name": "property_InfantryAttack_gear",
+          "progression": "prog_gear_Event8_InfantryAttack_30"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event8_MaxMarchSize_30"
+        },
+        {
+          "name": "property_MarcherInfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarcherInfantryAttackVsPlayer_30"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event8_InfantryAttackVsPlayersInfantry_30"
+        },
+        {
+          "name": "property_MarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event8.5_MarchingSpeedVsSeatOfPower_30"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_InfantryDefenseVsPlayer_30"
+        }
+      ]
+    },
+    {
+      "id": "a165b6f0f1d4dc12",
+      "name": "eq_events_bookofconquest_30_pants_lord30",
+      "stats": [
+        {
+          "name": "property_InfantryHealth_gear",
+          "progression": "prog_gear_Event8_InfantryHealth_30"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_InfantryAttackVsPlayer_30"
+        },
+        {
+          "name": "property_MarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event8_MarchingSpeedVsSeatOfPower_30"
+        },
+        {
+          "name": "property_InfantryAttack_gear",
+          "progression": "prog_gear_Event8_InfantryAttack_30"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event8.5_InfantryDefenseVsPlayersInfantry_30"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event8_InfantryAttackVsPlayersInfantry_30"
+        }
+      ]
+    },
+    {
+      "id": "400b0ae2d64e599f",
+      "name": "eq_events_bookofconquest_30_ring_lord30",
+      "stats": [
+        {
+          "name": "property_InfantryAttack_gear",
+          "progression": "prog_gear_Event8_InfantryAttack_30"
+        },
+        {
+          "name": "property_InfantryDefense_gear",
+          "progression": "prog_gear_Event8_InfantryDefense_30"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event8_MaxMarchSize_30"
+        },
+        {
+          "name": "property_MarcherInfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarcherInfantryAttackVsPlayer_30"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8.5_InfantryDefenseVsPlayer_30"
+        },
+        {
+          "name": "property_MarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event8_MarchingSpeedVsSeatOfPower_30"
+        }
+      ]
+    },
+    {
+      "id": "61578fb612ff171e",
+      "name": "eq_events_bookofconquest_30_weapon_lord30",
+      "stats": [
+        {
+          "name": "property_InfantryHealth_gear",
+          "progression": "prog_gear_Event8_InfantryHealth_30"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event8_InfantryAttackVsPlayersInfantry_30"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_InfantryDefenseVsPlayer_30"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event8_MaxMarchSize_30"
+        },
+        {
+          "name": "property_MarcherInfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8.5_MarcherInfantryDefenseVsPlayer_30"
+        },
+        {
+          "name": "property_InfantryAttack_gear",
+          "progression": "prog_gear_Event8_InfantryAttack_30"
+        }
+      ]
+    },
+    {
+      "id": "bc625cd7f37546b3",
+      "name": "eq_events_bookofconquest_35_boots_lord35",
+      "stats": [
+        {
+          "name": "property_InfantryHealth_gear",
+          "progression": "prog_gear_Event8_InfantryHealth_35"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_InfantryDefenseVsPlayer_35"
+        },
+        {
+          "name": "property_MarcherInfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarcherInfantryDefenseVsPlayer_35"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarchSpeedVsPlayer_35"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event8.5_MaxMarchSize_35"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event8_InfantryAttackVsPlayerSeatOfPower_35"
+        },
+        {
+          "name": "property_InfantryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event8_InfantryHealthVsPlayer_35"
+        }
+      ]
+    },
+    {
+      "id": "f328d93fa4f13d03",
+      "name": "eq_events_bookofconquest_35_chest_lord35",
+      "stats": [
+        {
+          "name": "property_InfantryDefense_gear",
+          "progression": "prog_gear_Event8_InfantryDefense_35"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarchSpeedVsPlayer_35"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_InfantryAttackVsPlayer_35"
+        },
+        {
+          "name": "property_InfantryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event8_InfantryHealthVsPlayer_35"
+        },
+        {
+          "name": "property_InfantryHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event8.5_InfantryHealthVsPlayerSeatOfPower_35"
+        },
+        {
+          "name": "property_MarcherInfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarcherInfantryAttackVsPlayer_35"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event8_InfantryDefenseVsPlayersInfantry_35"
+        }
+      ]
+    },
+    {
+      "id": "eda5cef0ff890f59",
+      "name": "eq_events_bookofconquest_35_helmet_lord35",
+      "stats": [
+        {
+          "name": "property_InfantryAttack_gear",
+          "progression": "prog_gear_Event8_InfantryAttack_35"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event8_MaxMarchSize_35"
+        },
+        {
+          "name": "property_MarcherInfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarcherInfantryAttackVsPlayer_35"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event8_InfantryAttackVsPlayersInfantry_35"
+        },
+        {
+          "name": "property_MarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event8.5_MarchingSpeedVsSeatOfPower_35"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_InfantryDefenseVsPlayer_35"
+        },
+        {
+          "name": "property_InfantryDefense_gear",
+          "progression": "prog_gear_Event8_InfantryDefense_35"
+        }
+      ]
+    },
+    {
+      "id": "2b0fce22028739e2",
+      "name": "eq_events_bookofconquest_35_pants_lord35",
+      "stats": [
+        {
+          "name": "property_InfantryHealth_gear",
+          "progression": "prog_gear_Event8_InfantryHealth_35"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_InfantryAttackVsPlayer_35"
+        },
+        {
+          "name": "property_MarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event8_MarchingSpeedVsSeatOfPower_35"
+        },
+        {
+          "name": "property_InfantryAttack_gear",
+          "progression": "prog_gear_Event8_InfantryAttack_35"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event8.5_InfantryDefenseVsPlayersInfantry_35"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event8_InfantryAttackVsPlayersInfantry_35"
+        },
+        {
+          "name": "property_MarcherInfantryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarcherInfantryHealthVsPlayer_35"
+        }
+      ]
+    },
+    {
+      "id": "3f6c77cc6f82694e",
+      "name": "eq_events_bookofconquest_35_ring_lord35",
+      "stats": [
+        {
+          "name": "property_InfantryAttack_gear",
+          "progression": "prog_gear_Event8_InfantryAttack_35"
+        },
+        {
+          "name": "property_InfantryDefense_gear",
+          "progression": "prog_gear_Event8_InfantryDefense_35"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event8_MaxMarchSize_35"
+        },
+        {
+          "name": "property_MarcherInfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarcherInfantryAttackVsPlayer_35"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8.5_InfantryDefenseVsPlayer_35"
+        },
+        {
+          "name": "property_MarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event8_MarchingSpeedVsSeatOfPower_35"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event8_InfantryDefenseVsPlayerSeatOfPower_35"
+        }
+      ]
+    },
+    {
+      "id": "569dc82ef53ca17b",
+      "name": "eq_events_bookofconquest_35_weapon_lord35",
+      "stats": [
+        {
+          "name": "property_InfantryHealth_gear",
+          "progression": "prog_gear_Event8_InfantryHealth_35"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event8_InfantryAttackVsPlayersInfantry_35"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_InfantryDefenseVsPlayer_35"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event8_MaxMarchSize_35"
+        },
+        {
+          "name": "property_MarcherInfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8.5_MarcherInfantryDefenseVsPlayer_35"
+        },
+        {
+          "name": "property_InfantryAttack_gear",
+          "progression": "prog_gear_Event8_InfantryAttack_35"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarchSpeedVsPlayer_35"
+        }
+      ]
+    },
+    {
+      "id": "bf5c7d29070ded2c",
+      "name": "eq_events_bookofconquest_40_boots_lord40",
+      "stats": [
+        {
+          "name": "property_InfantryHealth_gear",
+          "progression": "prog_gear_Event8_InfantryHealth_40"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_InfantryDefenseVsPlayer_40"
+        },
+        {
+          "name": "property_MarcherInfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarcherInfantryDefenseVsPlayer_40"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarchSpeedVsPlayer_40"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event8.5_MaxMarchSize_40"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event8_InfantryAttackVsPlayerSeatOfPower_40"
+        },
+        {
+          "name": "property_InfantryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event8_InfantryHealthVsPlayer_40"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event8_InfantryAttackVsPlayersInfantry_40"
+        }
+      ]
+    },
+    {
+      "id": "f016f8c15089969c",
+      "name": "eq_events_bookofconquest_40_chest_lord40",
+      "stats": [
+        {
+          "name": "property_InfantryDefense_gear",
+          "progression": "prog_gear_Event8_InfantryDefense_40"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarchSpeedVsPlayer_40"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_InfantryAttackVsPlayer_40"
+        },
+        {
+          "name": "property_InfantryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event8_InfantryHealthVsPlayer_40"
+        },
+        {
+          "name": "property_InfantryHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event8.5_InfantryHealthVsPlayerSeatOfPower_40"
+        },
+        {
+          "name": "property_MarcherInfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarcherInfantryAttackVsPlayer_40"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event8_InfantryDefenseVsPlayersInfantry_40"
+        },
+        {
+          "name": "property_InfantryAttack_gear",
+          "progression": "prog_gear_Event8_InfantryAttack_40"
+        }
+      ]
+    },
+    {
+      "id": "331a2d15cdfe9d57",
+      "name": "eq_events_bookofconquest_40_helmet_lord40",
+      "stats": [
+        {
+          "name": "property_InfantryAttack_gear",
+          "progression": "prog_gear_Event8_InfantryAttack_40"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event8_MaxMarchSize_40"
+        },
+        {
+          "name": "property_MarcherInfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarcherInfantryAttackVsPlayer_40"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event8_InfantryAttackVsPlayersInfantry_40"
+        },
+        {
+          "name": "property_MarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event8.5_MarchingSpeedVsSeatOfPower_40"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_InfantryDefenseVsPlayer_40"
+        },
+        {
+          "name": "property_InfantryDefense_gear",
+          "progression": "prog_gear_Event8_InfantryDefense_40"
+        },
+        {
+          "name": "property_InfantryHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event8_InfantryHealthVsPlayerSeatOfPower_40"
+        }
+      ]
+    },
+    {
+      "id": "2831efdcf6ff927d",
+      "name": "eq_events_bookofconquest_40_pants_lord40",
+      "stats": [
+        {
+          "name": "property_InfantryHealth_gear",
+          "progression": "prog_gear_Event8_InfantryHealth_40"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_InfantryAttackVsPlayer_40"
+        },
+        {
+          "name": "property_MarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event8_MarchingSpeedVsSeatOfPower_40"
+        },
+        {
+          "name": "property_InfantryAttack_gear",
+          "progression": "prog_gear_Event8_InfantryAttack_40"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event8.5_InfantryDefenseVsPlayersInfantry_40"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event8_InfantryAttackVsPlayersInfantry_40"
+        },
+        {
+          "name": "property_MarcherInfantryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarcherInfantryHealthVsPlayer_40"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event8_InfantryDefenseVsPlayerSeatOfPower_40"
+        }
+      ]
+    },
+    {
+      "id": "46329f4e25dcd930",
+      "name": "eq_events_bookofconquest_40_ring_lord40",
+      "stats": [
+        {
+          "name": "property_InfantryAttack_gear",
+          "progression": "prog_gear_Event8_InfantryAttack_40"
+        },
+        {
+          "name": "property_InfantryDefense_gear",
+          "progression": "prog_gear_Event8_InfantryDefense_40"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event8_MaxMarchSize_40"
+        },
+        {
+          "name": "property_MarcherInfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarcherInfantryAttackVsPlayer_40"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8.5_InfantryDefenseVsPlayer_40"
+        },
+        {
+          "name": "property_MarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event8_MarchingSpeedVsSeatOfPower_40"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event8_InfantryDefenseVsPlayerSeatOfPower_40"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event8_InfantryDefenseVsPlayersInfantry_40"
+        }
+      ]
+    },
+    {
+      "id": "88222bcbc74b3375",
+      "name": "eq_events_bookofconquest_40_weapon_lord40",
+      "stats": [
+        {
+          "name": "property_InfantryHealth_gear",
+          "progression": "prog_gear_Event8_InfantryHealth_40"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event8_InfantryAttackVsPlayersInfantry_40"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_InfantryDefenseVsPlayer_40"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event8_MaxMarchSize_40"
+        },
+        {
+          "name": "property_MarcherInfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8.5_MarcherInfantryDefenseVsPlayer_40"
+        },
+        {
+          "name": "property_InfantryAttack_gear",
+          "progression": "prog_gear_Event8_InfantryAttack_40"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarchSpeedVsPlayer_40"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_InfantryAttackVsPlayer_40"
+        }
+      ]
+    },
+    {
+      "id": "353605fbf45e08dc",
+      "name": "eq_events_bookofconquest_45_boots_lord45",
+      "stats": [
+        {
+          "name": "property_InfantryHealth_gear",
+          "progression": "prog_gear_Event8_InfantryHealth_45"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_InfantryDefenseVsPlayer_45"
+        },
+        {
+          "name": "property_MarcherInfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarcherInfantryDefenseVsPlayer_45"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarchSpeedVsPlayer_45"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event8.5_MaxMarchSize_45"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event8_InfantryAttackVsPlayerSeatOfPower_45"
+        },
+        {
+          "name": "property_InfantryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event8_InfantryHealthVsPlayer_45"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event8_InfantryAttackVsPlayersInfantry_45"
+        }
+      ]
+    },
+    {
+      "id": "7a7c8013a3da736c",
+      "name": "eq_events_bookofconquest_45_chest_lord45",
+      "stats": [
+        {
+          "name": "property_InfantryDefense_gear",
+          "progression": "prog_gear_Event8_InfantryDefense_45"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarchSpeedVsPlayer_45"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_InfantryAttackVsPlayer_45"
+        },
+        {
+          "name": "property_InfantryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event8_InfantryHealthVsPlayer_45"
+        },
+        {
+          "name": "property_InfantryHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event8.5_InfantryHealthVsPlayerSeatOfPower_45"
+        },
+        {
+          "name": "property_MarcherInfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarcherInfantryAttackVsPlayer_45"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event8_InfantryDefenseVsPlayersInfantry_45"
+        },
+        {
+          "name": "property_InfantryAttack_gear",
+          "progression": "prog_gear_Event8_InfantryAttack_45"
+        }
+      ]
+    },
+    {
+      "id": "4d06a8d2a3d2b32",
+      "name": "eq_events_bookofconquest_45_helmet_lord45",
+      "stats": [
+        {
+          "name": "property_InfantryAttack_gear",
+          "progression": "prog_gear_Event8_InfantryAttack_45"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event8_MaxMarchSize_45"
+        },
+        {
+          "name": "property_MarcherInfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarcherInfantryAttackVsPlayer_45"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event8_InfantryAttackVsPlayersInfantry_45"
+        },
+        {
+          "name": "property_MarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event8.5_MarchingSpeedVsSeatOfPower_45"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_InfantryDefenseVsPlayer_45"
+        },
+        {
+          "name": "property_InfantryDefense_gear",
+          "progression": "prog_gear_Event8_InfantryDefense_45"
+        },
+        {
+          "name": "property_InfantryHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event8_InfantryHealthVsPlayerSeatOfPower_45"
+        }
+      ]
+    },
+    {
+      "id": "a25b970e05ac778d",
+      "name": "eq_events_bookofconquest_45_pants_lord45",
+      "stats": [
+        {
+          "name": "property_InfantryHealth_gear",
+          "progression": "prog_gear_Event8_InfantryHealth_45"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_InfantryAttackVsPlayer_45"
+        },
+        {
+          "name": "property_MarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event8_MarchingSpeedVsSeatOfPower_45"
+        },
+        {
+          "name": "property_InfantryAttack_gear",
+          "progression": "prog_gear_Event8_InfantryAttack_45"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event8.5_InfantryDefenseVsPlayersInfantry_45"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event8_InfantryAttackVsPlayersInfantry_45"
+        },
+        {
+          "name": "property_MarcherInfantryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarcherInfantryHealthVsPlayer_45"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event8_InfantryDefenseVsPlayerSeatOfPower_45"
+        }
+      ]
+    },
+    {
+      "id": "3955e2609c10e9e1",
+      "name": "eq_events_bookofconquest_45_ring_lord45",
+      "stats": [
+        {
+          "name": "property_InfantryAttack_gear",
+          "progression": "prog_gear_Event8_InfantryAttack_45"
+        },
+        {
+          "name": "property_InfantryDefense_gear",
+          "progression": "prog_gear_Event8_InfantryDefense_45"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event8_MaxMarchSize_45"
+        },
+        {
+          "name": "property_MarcherInfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarcherInfantryAttackVsPlayer_45"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8.5_InfantryDefenseVsPlayer_45"
+        },
+        {
+          "name": "property_MarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event8_MarchingSpeedVsSeatOfPower_45"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event8_InfantryDefenseVsPlayerSeatOfPower_45"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event8_InfantryDefenseVsPlayersInfantry_45"
+        }
+      ]
+    },
+    {
+      "id": "bfe86c5320888510",
+      "name": "eq_events_bookofconquest_45_weapon_lord45",
+      "stats": [
+        {
+          "name": "property_InfantryHealth_gear",
+          "progression": "prog_gear_Event8_InfantryHealth_45"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event8_InfantryAttackVsPlayersInfantry_45"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_InfantryDefenseVsPlayer_45"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event8_MaxMarchSize_45"
+        },
+        {
+          "name": "property_MarcherInfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8.5_MarcherInfantryDefenseVsPlayer_45"
+        },
+        {
+          "name": "property_InfantryAttack_gear",
+          "progression": "prog_gear_Event8_InfantryAttack_45"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarchSpeedVsPlayer_45"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_InfantryAttackVsPlayer_45"
+        }
+      ]
+    },
+    {
+      "id": "66024f799825042a",
+      "name": "eq_events_bookofconquest_50_boots_lord50",
+      "stats": [
+        {
+          "name": "property_InfantryHealth_gear",
+          "progression": "prog_gear_Event8_InfantryHealth_50"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_InfantryDefenseVsPlayer_50"
+        },
+        {
+          "name": "property_MarcherInfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarcherInfantryDefenseVsPlayer_50"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarchSpeedVsPlayer_50"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event8.5_MaxMarchSize_50"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event8_InfantryAttackVsPlayerSeatOfPower_50"
+        },
+        {
+          "name": "property_InfantryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event8_InfantryHealthVsPlayer_50"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event8_InfantryAttackVsPlayersInfantry_50"
+        }
+      ]
+    },
+    {
+      "id": "2948ca91cfa17f9a",
+      "name": "eq_events_bookofconquest_50_chest_lord50",
+      "stats": [
+        {
+          "name": "property_InfantryDefense_gear",
+          "progression": "prog_gear_Event8_InfantryDefense_50"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarchSpeedVsPlayer_50"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_InfantryAttackVsPlayer_50"
+        },
+        {
+          "name": "property_InfantryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event8_InfantryHealthVsPlayer_50"
+        },
+        {
+          "name": "property_InfantryHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event8.5_InfantryHealthVsPlayerSeatOfPower_50"
+        },
+        {
+          "name": "property_MarcherInfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarcherInfantryAttackVsPlayer_50"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event8_InfantryDefenseVsPlayersInfantry_50"
+        },
+        {
+          "name": "property_InfantryAttack_gear",
+          "progression": "prog_gear_Event8_InfantryAttack_50"
+        }
+      ]
+    },
+    {
+      "id": "100bccb18ac29142",
+      "name": "eq_events_bookofconquest_50_helmet_lord50",
+      "stats": [
+        {
+          "name": "property_InfantryAttack_gear",
+          "progression": "prog_gear_Event8_InfantryAttack_50"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event8_MaxMarchSize_50"
+        },
+        {
+          "name": "property_MarcherInfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarcherInfantryAttackVsPlayer_50"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event8_InfantryAttackVsPlayersInfantry_50"
+        },
+        {
+          "name": "property_MarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event8.5_MarchingSpeedVsSeatOfPower_50"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_InfantryDefenseVsPlayer_50"
+        },
+        {
+          "name": "property_InfantryDefense_gear",
+          "progression": "prog_gear_Event8_InfantryDefense_50"
+        },
+        {
+          "name": "property_InfantryHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event8_InfantryHealthVsPlayerSeatOfPower_50"
+        }
+      ]
+    },
+    {
+      "id": "f16fdd8c69d77b7b",
+      "name": "eq_events_bookofconquest_50_pants_lord50",
+      "stats": [
+        {
+          "name": "property_InfantryHealth_gear",
+          "progression": "prog_gear_Event8_InfantryHealth_50"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_InfantryAttackVsPlayer_50"
+        },
+        {
+          "name": "property_MarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event8_MarchingSpeedVsSeatOfPower_50"
+        },
+        {
+          "name": "property_InfantryAttack_gear",
+          "progression": "prog_gear_Event8_InfantryAttack_50"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event8.5_InfantryDefenseVsPlayersInfantry_50"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event8_InfantryAttackVsPlayersInfantry_50"
+        },
+        {
+          "name": "property_MarcherInfantryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarcherInfantryHealthVsPlayer_50"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event8_InfantryDefenseVsPlayerSeatOfPower_50"
+        }
+      ]
+    },
+    {
+      "id": "475775c16e375909",
+      "name": "eq_events_bookofconquest_50_ring_lord50",
+      "stats": [
+        {
+          "name": "property_InfantryAttack_gear",
+          "progression": "prog_gear_Event8_InfantryAttack_50"
+        },
+        {
+          "name": "property_InfantryDefense_gear",
+          "progression": "prog_gear_Event8_InfantryDefense_50"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event8_MaxMarchSize_50"
+        },
+        {
+          "name": "property_MarcherInfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarcherInfantryAttackVsPlayer_50"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8.5_InfantryDefenseVsPlayer_50"
+        },
+        {
+          "name": "property_MarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event8_MarchingSpeedVsSeatOfPower_50"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event8_InfantryDefenseVsPlayerSeatOfPower_50"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event8_InfantryDefenseVsPlayersInfantry_50"
+        }
+      ]
+    },
+    {
+      "id": "ab33ca6f80773f60",
+      "name": "eq_events_bookofconquest_50_weapon_lord50",
+      "stats": [
+        {
+          "name": "property_InfantryHealth_gear",
+          "progression": "prog_gear_Event8_InfantryHealth_50"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event8_InfantryAttackVsPlayersInfantry_50"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_InfantryDefenseVsPlayer_50"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event8_MaxMarchSize_50"
+        },
+        {
+          "name": "property_MarcherInfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8.5_MarcherInfantryDefenseVsPlayer_50"
+        },
+        {
+          "name": "property_InfantryAttack_gear",
+          "progression": "prog_gear_Event8_InfantryAttack_50"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarchSpeedVsPlayer_50"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_InfantryAttackVsPlayer_50"
+        }
+      ]
     }
   ]
 }

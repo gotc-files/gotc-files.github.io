@@ -2266,6 +2266,132 @@
         "summon_purchase_royal_JaimeMissandeiSEP22_Gold_10x_top"
       ],
       "time_str": "SEP22"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "JaqenVarys",
+      "id": "b1f4d68b5d6d0af6",
+      "name": "summon_noble_JaqenVarysOCT22_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_JaqenVarysOCT22_Hero_1x_top",
+        "summon_purchase_noble_JaqenVarysOCT22_Hero_10x_top"
+      ],
+      "time_str": "OCT22"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "BericBalon",
+      "id": "13afd7eb3e9b9fc7",
+      "name": "summon_noble_BericBalonOCT22_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_BericBalonOCT22_Hero_1x_top",
+        "summon_purchase_noble_BericBalonOCT22_Hero_10x_top"
+      ],
+      "time_str": "OCT22"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "ThreeEyedRavenRobb",
+      "id": "b2f5d5b9e73473dd",
+      "name": "summon_noble_ThreeEyedRavenRobbOCT22_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_ThreeEyedRavenRobbOCT22_Hero_1x_top",
+        "summon_purchase_noble_ThreeEyedRavenRobbOCT22_Hero_10x_top"
+      ],
+      "time_str": "OCT22"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "JonSnowWalder",
+      "id": "ac1d9ad5c966edbe",
+      "name": "summon_noble_JonSnowWalderOCT22_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_JonSnowWalderOCT22_Hero_1x_top",
+        "summon_purchase_noble_JonSnowWalderOCT22_Hero_10x_top"
+      ],
+      "time_str": "OCT22"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "JaqenVarys",
+      "id": "91ec3f57e1f9f7cf",
+      "name": "summon_royal_JaqenVarysOCT22_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_JaqenVarysOCT22_Gold_1x_top",
+        "summon_purchase_royal_JaqenVarysOCT22_Gold_10x_top"
+      ],
+      "time_str": "OCT22"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "BericBalon",
+      "id": "33b73e37820f62fe",
+      "name": "summon_royal_BericBalonOCT22_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_BericBalonOCT22_Gold_1x_top",
+        "summon_purchase_royal_BericBalonOCT22_Gold_10x_top"
+      ],
+      "time_str": "OCT22"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "ThreeEyedRavenRobb",
+      "id": "d4a9c92b39351f9",
+      "name": "summon_royal_ThreeEyedRavenRobbOCT22_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_ThreeEyedRavenRobbOCT22_Gold_1x_top",
+        "summon_purchase_royal_ThreeEyedRavenRobbOCT22_Gold_10x_top"
+      ],
+      "time_str": "OCT22"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "JonSnowWalder",
+      "id": "8347a319dd726252",
+      "name": "summon_royal_JonSnowWalderOCT22_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_JonSnowWalderOCT22_Gold_1x_top",
+        "summon_purchase_royal_JonSnowWalderOCT22_Gold_10x_top"
+      ],
+      "time_str": "OCT22"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "id": "f81fd5d1f393ec7a",
+      "name": "summon_noble_JaimeMissandeiSEP22VARIANT_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_JaimeMissandeiSEP22VARIANT_Hero_1x_top",
+        "summon_purchase_noble_JaimeMissandeiSEP22VARIANT_Hero_10x_top"
+      ]
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "id": "88cd8c3ca2089e25",
+      "name": "summon_royal_JaimeMissandeiSEP22VARIANT_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_JaimeMissandeiSEP22VARIANT_Gold_1x_top",
+        "summon_purchase_royal_JaimeMissandeiSEP22VARIANT_Gold_10x_top"
+      ]
     }
   ]
 }

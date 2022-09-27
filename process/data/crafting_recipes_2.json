@@ -52836,6 +52836,1434 @@
       "steel_cost": 520000000,
       "template_level": 45,
       "upgrade_time_seconds": 345600
+    },
+    {
+      "id": "e670e41b58537a12",
+      "ingredients": [
+        {
+          "item_name": "mat_event_bookofconquest_1",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 10
+        }
+      ],
+      "name": "eq_events_bookofconquest_5_boots_lord5",
+      "steel_cost": 4000,
+      "template_level": 1,
+      "upgrade_time_seconds": 3600
+    },
+    {
+      "id": "f6dab34377f46485",
+      "ingredients": [
+        {
+          "item_name": "mat_event_bookofconquest_1",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_kingswoodoak",
+          "quantity": 10
+        }
+      ],
+      "name": "eq_events_bookofconquest_5_chest_lord5",
+      "steel_cost": 4000,
+      "template_level": 1,
+      "upgrade_time_seconds": 3600
+    },
+    {
+      "id": "163e1b075b014d17",
+      "ingredients": [
+        {
+          "item_name": "mat_event_bookofconquest_1",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_weirwood",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 10
+        }
+      ],
+      "name": "eq_events_bookofconquest_5_helmet_lord5",
+      "steel_cost": 4000,
+      "template_level": 1,
+      "upgrade_time_seconds": 3600
+    },
+    {
+      "id": "25f2f160050cad9e",
+      "ingredients": [
+        {
+          "item_name": "mat_event_bookofconquest_1",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 10
+        }
+      ],
+      "name": "eq_events_bookofconquest_5_pants_lord5",
+      "steel_cost": 4000,
+      "template_level": 1,
+      "upgrade_time_seconds": 3600
+    },
+    {
+      "id": "992f8efe61ed34b7",
+      "ingredients": [
+        {
+          "item_name": "mat_event_bookofconquest_1",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_kingswoodoak",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 10
+        }
+      ],
+      "name": "eq_events_bookofconquest_5_ring_lord5",
+      "steel_cost": 4000,
+      "template_level": 1,
+      "upgrade_time_seconds": 3600
+    },
+    {
+      "id": "71e3833012de139a",
+      "ingredients": [
+        {
+          "item_name": "mat_event_bookofconquest_1",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 10
+        }
+      ],
+      "name": "eq_events_bookofconquest_5_weapon_lord5",
+      "steel_cost": 4000,
+      "template_level": 1,
+      "upgrade_time_seconds": 3600
+    },
+    {
+      "id": "60e02d177d83e64",
+      "ingredients": [
+        {
+          "item_name": "mat_event_bookofconquest_1",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 20
+        }
+      ],
+      "name": "eq_events_bookofconquest_10_boots_lord10",
+      "steel_cost": 36500,
+      "template_level": 5,
+      "upgrade_time_seconds": 7200
+    },
+    {
+      "id": "49448739205c45d4",
+      "ingredients": [
+        {
+          "item_name": "mat_event_bookofconquest_1",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_kingswoodoak",
+          "quantity": 20
+        }
+      ],
+      "name": "eq_events_bookofconquest_10_chest_lord10",
+      "steel_cost": 36500,
+      "template_level": 5,
+      "upgrade_time_seconds": 7200
+    },
+    {
+      "id": "9c4c4a209632a116",
+      "ingredients": [
+        {
+          "item_name": "mat_event_bookofconquest_1",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_weirwood",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 20
+        }
+      ],
+      "name": "eq_events_bookofconquest_10_helmet_lord10",
+      "steel_cost": 36500,
+      "template_level": 5,
+      "upgrade_time_seconds": 7200
+    },
+    {
+      "id": "91639024862a4135",
+      "ingredients": [
+        {
+          "item_name": "mat_event_bookofconquest_1",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 20
+        }
+      ],
+      "name": "eq_events_bookofconquest_10_pants_lord10",
+      "steel_cost": 36500,
+      "template_level": 5,
+      "upgrade_time_seconds": 7200
+    },
+    {
+      "id": "42c0dffc419959ed",
+      "ingredients": [
+        {
+          "item_name": "mat_event_bookofconquest_1",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_kingswoodoak",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 20
+        }
+      ],
+      "name": "eq_events_bookofconquest_10_ring_lord10",
+      "steel_cost": 36500,
+      "template_level": 5,
+      "upgrade_time_seconds": 7200
+    },
+    {
+      "id": "27744cfe9c870f34",
+      "ingredients": [
+        {
+          "item_name": "mat_event_bookofconquest_1",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 20
+        }
+      ],
+      "name": "eq_events_bookofconquest_10_weapon_lord10",
+      "steel_cost": 36500,
+      "template_level": 5,
+      "upgrade_time_seconds": 7200
+    },
+    {
+      "id": "8c647a03848bdb94",
+      "ingredients": [
+        {
+          "item_name": "mat_event_bookofconquest_1",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 120
+        }
+      ],
+      "name": "eq_events_bookofconquest_15_boots_lord15",
+      "steel_cost": 148000,
+      "template_level": 10,
+      "upgrade_time_seconds": 21600
+    },
+    {
+      "id": "c32effebd30fa024",
+      "ingredients": [
+        {
+          "item_name": "mat_event_bookofconquest_1",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_kingswoodoak",
+          "quantity": 120
+        }
+      ],
+      "name": "eq_events_bookofconquest_15_chest_lord15",
+      "steel_cost": 148000,
+      "template_level": 10,
+      "upgrade_time_seconds": 21600
+    },
+    {
+      "id": "ab860db871f11773",
+      "ingredients": [
+        {
+          "item_name": "mat_event_bookofconquest_1",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_weirwood",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 120
+        }
+      ],
+      "name": "eq_events_bookofconquest_15_helmet_lord15",
+      "steel_cost": 148000,
+      "template_level": 10,
+      "upgrade_time_seconds": 21600
+    },
+    {
+      "id": "1b09e8f67579a4c5",
+      "ingredients": [
+        {
+          "item_name": "mat_event_bookofconquest_1",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 120
+        }
+      ],
+      "name": "eq_events_bookofconquest_15_pants_lord15",
+      "steel_cost": 148000,
+      "template_level": 10,
+      "upgrade_time_seconds": 21600
+    },
+    {
+      "id": "3da7a2d2f855693c",
+      "ingredients": [
+        {
+          "item_name": "mat_event_bookofconquest_1",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_kingswoodoak",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 120
+        }
+      ],
+      "name": "eq_events_bookofconquest_15_ring_lord15",
+      "steel_cost": 148000,
+      "template_level": 10,
+      "upgrade_time_seconds": 21600
+    },
+    {
+      "id": "10be0b667b44b951",
+      "ingredients": [
+        {
+          "item_name": "mat_event_bookofconquest_1",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 120
+        }
+      ],
+      "name": "eq_events_bookofconquest_15_weapon_lord15",
+      "steel_cost": 148000,
+      "template_level": 10,
+      "upgrade_time_seconds": 21600
+    },
+    {
+      "id": "ef5616559f0e4a45",
+      "ingredients": [
+        {
+          "item_name": "mat_event_bookofconquest_1",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 400
+        }
+      ],
+      "name": "eq_events_bookofconquest_20_boots_lord20",
+      "steel_cost": 534000,
+      "template_level": 15,
+      "upgrade_time_seconds": 43200
+    },
+    {
+      "id": "a01c93bdc88a31f5",
+      "ingredients": [
+        {
+          "item_name": "mat_event_bookofconquest_1",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_kingswoodoak",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 400
+        }
+      ],
+      "name": "eq_events_bookofconquest_20_chest_lord20",
+      "steel_cost": 534000,
+      "template_level": 15,
+      "upgrade_time_seconds": 43200
+    },
+    {
+      "id": "f97e68cc5f76b529",
+      "ingredients": [
+        {
+          "item_name": "mat_event_bookofconquest_1",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_weirwood",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 400
+        }
+      ],
+      "name": "eq_events_bookofconquest_20_helmet_lord20",
+      "steel_cost": 534000,
+      "template_level": 15,
+      "upgrade_time_seconds": 43200
+    },
+    {
+      "id": "783b84a06efc3514",
+      "ingredients": [
+        {
+          "item_name": "mat_event_bookofconquest_1",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_hide",
+          "quantity": 400
+        }
+      ],
+      "name": "eq_events_bookofconquest_20_pants_lord20",
+      "steel_cost": 534000,
+      "template_level": 15,
+      "upgrade_time_seconds": 43200
+    },
+    {
+      "id": "416ee06d9da5d9a6",
+      "ingredients": [
+        {
+          "item_name": "mat_event_bookofconquest_1",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_kingswoodoak",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 400
+        }
+      ],
+      "name": "eq_events_bookofconquest_20_ring_lord20",
+      "steel_cost": 534000,
+      "template_level": 15,
+      "upgrade_time_seconds": 43200
+    },
+    {
+      "id": "42466e1255c31b0b",
+      "ingredients": [
+        {
+          "item_name": "mat_event_bookofconquest_1",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 400
+        }
+      ],
+      "name": "eq_events_bookofconquest_20_weapon_lord20",
+      "steel_cost": 534000,
+      "template_level": 15,
+      "upgrade_time_seconds": 43200
+    },
+    {
+      "id": "653c6e876c5dafb5",
+      "ingredients": [
+        {
+          "item_name": "mat_event_bookofconquest_1",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 1200
+        }
+      ],
+      "name": "eq_events_bookofconquest_25_boots_lord25",
+      "steel_cost": 1800000,
+      "template_level": 20,
+      "upgrade_time_seconds": 64800
+    },
+    {
+      "id": "2a76eb6f3bd9d405",
+      "ingredients": [
+        {
+          "item_name": "mat_event_bookofconquest_1",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_kingswoodoak",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 1200
+        }
+      ],
+      "name": "eq_events_bookofconquest_25_chest_lord25",
+      "steel_cost": 1800000,
+      "template_level": 20,
+      "upgrade_time_seconds": 64800
+    },
+    {
+      "id": "ceb42f54b8b5034c",
+      "ingredients": [
+        {
+          "item_name": "mat_event_bookofconquest_1",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_weirwood",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 1200
+        }
+      ],
+      "name": "eq_events_bookofconquest_25_helmet_lord25",
+      "steel_cost": 1800000,
+      "template_level": 20,
+      "upgrade_time_seconds": 64800
+    },
+    {
+      "id": "f251fc729dafd0e4",
+      "ingredients": [
+        {
+          "item_name": "mat_event_bookofconquest_1",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_hide",
+          "quantity": 1200
+        }
+      ],
+      "name": "eq_events_bookofconquest_25_pants_lord25",
+      "steel_cost": 1800000,
+      "template_level": 20,
+      "upgrade_time_seconds": 64800
+    },
+    {
+      "id": "3e099d432469e977",
+      "ingredients": [
+        {
+          "item_name": "mat_event_bookofconquest_1",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_kingswoodoak",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 1200
+        }
+      ],
+      "name": "eq_events_bookofconquest_25_ring_lord25",
+      "steel_cost": 1800000,
+      "template_level": 20,
+      "upgrade_time_seconds": 64800
+    },
+    {
+      "id": "758c298ab200ad6e",
+      "ingredients": [
+        {
+          "item_name": "mat_event_bookofconquest_1",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 1200
+        }
+      ],
+      "name": "eq_events_bookofconquest_25_weapon_lord25",
+      "steel_cost": 1800000,
+      "template_level": 20,
+      "upgrade_time_seconds": 64800
+    },
+    {
+      "id": "360824050026a343",
+      "ingredients": [
+        {
+          "item_name": "mat_event_bookofconquest_1",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 3000
+        }
+      ],
+      "name": "eq_events_bookofconquest_30_boots_lord30",
+      "steel_cost": 5850000,
+      "template_level": 25,
+      "upgrade_time_seconds": 86400
+    },
+    {
+      "id": "7942a1ed57a2d8f3",
+      "ingredients": [
+        {
+          "item_name": "mat_event_bookofconquest_1",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_kingswoodoak",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 3000
+        }
+      ],
+      "name": "eq_events_bookofconquest_30_chest_lord30",
+      "steel_cost": 5850000,
+      "template_level": 25,
+      "upgrade_time_seconds": 86400
+    },
+    {
+      "id": "da6f8968184ab93c",
+      "ingredients": [
+        {
+          "item_name": "mat_event_bookofconquest_1",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_weirwood",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 3000
+        }
+      ],
+      "name": "eq_events_bookofconquest_30_helmet_lord30",
+      "steel_cost": 5850000,
+      "template_level": 25,
+      "upgrade_time_seconds": 86400
+    },
+    {
+      "id": "a165b6f0f1d4dc12",
+      "ingredients": [
+        {
+          "item_name": "mat_event_bookofconquest_1",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_hide",
+          "quantity": 3000
+        }
+      ],
+      "name": "eq_events_bookofconquest_30_pants_lord30",
+      "steel_cost": 5850000,
+      "template_level": 25,
+      "upgrade_time_seconds": 86400
+    },
+    {
+      "id": "400b0ae2d64e599f",
+      "ingredients": [
+        {
+          "item_name": "mat_event_bookofconquest_1",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_kingswoodoak",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 3000
+        }
+      ],
+      "name": "eq_events_bookofconquest_30_ring_lord30",
+      "steel_cost": 5850000,
+      "template_level": 25,
+      "upgrade_time_seconds": 86400
+    },
+    {
+      "id": "61578fb612ff171e",
+      "ingredients": [
+        {
+          "item_name": "mat_event_bookofconquest_1",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 3000
+        }
+      ],
+      "name": "eq_events_bookofconquest_30_weapon_lord30",
+      "steel_cost": 5850000,
+      "template_level": 25,
+      "upgrade_time_seconds": 86400
+    },
+    {
+      "id": "bc625cd7f37546b3",
+      "ingredients": [
+        {
+          "item_name": "mat_event_bookofconquest_1",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 12000
+        }
+      ],
+      "name": "eq_events_bookofconquest_35_boots_lord35",
+      "steel_cost": 18400000,
+      "template_level": 30,
+      "upgrade_time_seconds": 129600
+    },
+    {
+      "id": "f328d93fa4f13d03",
+      "ingredients": [
+        {
+          "item_name": "mat_event_bookofconquest_1",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_kingswoodoak",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 12000
+        }
+      ],
+      "name": "eq_events_bookofconquest_35_chest_lord35",
+      "steel_cost": 18400000,
+      "template_level": 30,
+      "upgrade_time_seconds": 129600
+    },
+    {
+      "id": "eda5cef0ff890f59",
+      "ingredients": [
+        {
+          "item_name": "mat_event_bookofconquest_1",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_weirwood",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 12000
+        }
+      ],
+      "name": "eq_events_bookofconquest_35_helmet_lord35",
+      "steel_cost": 18400000,
+      "template_level": 30,
+      "upgrade_time_seconds": 129600
+    },
+    {
+      "id": "2b0fce22028739e2",
+      "ingredients": [
+        {
+          "item_name": "mat_event_bookofconquest_1",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_hide",
+          "quantity": 12000
+        }
+      ],
+      "name": "eq_events_bookofconquest_35_pants_lord35",
+      "steel_cost": 18400000,
+      "template_level": 30,
+      "upgrade_time_seconds": 129600
+    },
+    {
+      "id": "3f6c77cc6f82694e",
+      "ingredients": [
+        {
+          "item_name": "mat_event_bookofconquest_1",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_kingswoodoak",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 12000
+        }
+      ],
+      "name": "eq_events_bookofconquest_35_ring_lord35",
+      "steel_cost": 18400000,
+      "template_level": 30,
+      "upgrade_time_seconds": 129600
+    },
+    {
+      "id": "569dc82ef53ca17b",
+      "ingredients": [
+        {
+          "item_name": "mat_event_bookofconquest_1",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 12000
+        }
+      ],
+      "name": "eq_events_bookofconquest_35_weapon_lord35",
+      "steel_cost": 18400000,
+      "template_level": 30,
+      "upgrade_time_seconds": 129600
+    },
+    {
+      "id": "bf5c7d29070ded2c",
+      "ingredients": [
+        {
+          "item_name": "mat_event_bookofconquest_1",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 45000
+        }
+      ],
+      "name": "eq_events_bookofconquest_40_boots_lord40",
+      "steel_cost": 56900000,
+      "template_level": 35,
+      "upgrade_time_seconds": 172800
+    },
+    {
+      "id": "f016f8c15089969c",
+      "ingredients": [
+        {
+          "item_name": "mat_event_bookofconquest_1",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_kingswoodoak",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 45000
+        }
+      ],
+      "name": "eq_events_bookofconquest_40_chest_lord40",
+      "steel_cost": 56900000,
+      "template_level": 35,
+      "upgrade_time_seconds": 172800
+    },
+    {
+      "id": "331a2d15cdfe9d57",
+      "ingredients": [
+        {
+          "item_name": "mat_event_bookofconquest_1",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_weirwood",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 45000
+        }
+      ],
+      "name": "eq_events_bookofconquest_40_helmet_lord40",
+      "steel_cost": 56900000,
+      "template_level": 35,
+      "upgrade_time_seconds": 172800
+    },
+    {
+      "id": "2831efdcf6ff927d",
+      "ingredients": [
+        {
+          "item_name": "mat_event_bookofconquest_1",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_hide",
+          "quantity": 45000
+        }
+      ],
+      "name": "eq_events_bookofconquest_40_pants_lord40",
+      "steel_cost": 56900000,
+      "template_level": 35,
+      "upgrade_time_seconds": 172800
+    },
+    {
+      "id": "46329f4e25dcd930",
+      "ingredients": [
+        {
+          "item_name": "mat_event_bookofconquest_1",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_kingswoodoak",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 45000
+        }
+      ],
+      "name": "eq_events_bookofconquest_40_ring_lord40",
+      "steel_cost": 56900000,
+      "template_level": 35,
+      "upgrade_time_seconds": 172800
+    },
+    {
+      "id": "88222bcbc74b3375",
+      "ingredients": [
+        {
+          "item_name": "mat_event_bookofconquest_1",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 45000
+        }
+      ],
+      "name": "eq_events_bookofconquest_40_weapon_lord40",
+      "steel_cost": 56900000,
+      "template_level": 35,
+      "upgrade_time_seconds": 172800
+    },
+    {
+      "id": "353605fbf45e08dc",
+      "ingredients": [
+        {
+          "item_name": "mat_event_bookofconquest_1",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 120000
+        }
+      ],
+      "name": "eq_events_bookofconquest_45_boots_lord45",
+      "steel_cost": 173000000,
+      "template_level": 40,
+      "upgrade_time_seconds": 259200
+    },
+    {
+      "id": "7a7c8013a3da736c",
+      "ingredients": [
+        {
+          "item_name": "mat_event_bookofconquest_1",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_kingswoodoak",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 120000
+        }
+      ],
+      "name": "eq_events_bookofconquest_45_chest_lord45",
+      "steel_cost": 173000000,
+      "template_level": 40,
+      "upgrade_time_seconds": 259200
+    },
+    {
+      "id": "4d06a8d2a3d2b32",
+      "ingredients": [
+        {
+          "item_name": "mat_event_bookofconquest_1",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_weirwood",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 120000
+        }
+      ],
+      "name": "eq_events_bookofconquest_45_helmet_lord45",
+      "steel_cost": 173000000,
+      "template_level": 40,
+      "upgrade_time_seconds": 259200
+    },
+    {
+      "id": "a25b970e05ac778d",
+      "ingredients": [
+        {
+          "item_name": "mat_event_bookofconquest_1",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_hide",
+          "quantity": 120000
+        }
+      ],
+      "name": "eq_events_bookofconquest_45_pants_lord45",
+      "steel_cost": 173000000,
+      "template_level": 40,
+      "upgrade_time_seconds": 259200
+    },
+    {
+      "id": "3955e2609c10e9e1",
+      "ingredients": [
+        {
+          "item_name": "mat_event_bookofconquest_1",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_kingswoodoak",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 120000
+        }
+      ],
+      "name": "eq_events_bookofconquest_45_ring_lord45",
+      "steel_cost": 173000000,
+      "template_level": 40,
+      "upgrade_time_seconds": 259200
+    },
+    {
+      "id": "bfe86c5320888510",
+      "ingredients": [
+        {
+          "item_name": "mat_event_bookofconquest_1",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 120000
+        }
+      ],
+      "name": "eq_events_bookofconquest_45_weapon_lord45",
+      "steel_cost": 173000000,
+      "template_level": 40,
+      "upgrade_time_seconds": 259200
+    },
+    {
+      "id": "66024f799825042a",
+      "ingredients": [
+        {
+          "item_name": "mat_event_bookofconquest_1",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 450000
+        }
+      ],
+      "name": "eq_events_bookofconquest_50_boots_lord50",
+      "steel_cost": 520000000,
+      "template_level": 45,
+      "upgrade_time_seconds": 345600
+    },
+    {
+      "id": "2948ca91cfa17f9a",
+      "ingredients": [
+        {
+          "item_name": "mat_event_bookofconquest_1",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_kingswoodoak",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 450000
+        }
+      ],
+      "name": "eq_events_bookofconquest_50_chest_lord50",
+      "steel_cost": 520000000,
+      "template_level": 45,
+      "upgrade_time_seconds": 345600
+    },
+    {
+      "id": "100bccb18ac29142",
+      "ingredients": [
+        {
+          "item_name": "mat_event_bookofconquest_1",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_weirwood",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 450000
+        }
+      ],
+      "name": "eq_events_bookofconquest_50_helmet_lord50",
+      "steel_cost": 520000000,
+      "template_level": 45,
+      "upgrade_time_seconds": 345600
+    },
+    {
+      "id": "f16fdd8c69d77b7b",
+      "ingredients": [
+        {
+          "item_name": "mat_event_bookofconquest_1",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_hide",
+          "quantity": 450000
+        }
+      ],
+      "name": "eq_events_bookofconquest_50_pants_lord50",
+      "steel_cost": 520000000,
+      "template_level": 45,
+      "upgrade_time_seconds": 345600
+    },
+    {
+      "id": "475775c16e375909",
+      "ingredients": [
+        {
+          "item_name": "mat_event_bookofconquest_1",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_kingswoodoak",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 450000
+        }
+      ],
+      "name": "eq_events_bookofconquest_50_ring_lord50",
+      "steel_cost": 520000000,
+      "template_level": 45,
+      "upgrade_time_seconds": 345600
+    },
+    {
+      "id": "ab33ca6f80773f60",
+      "ingredients": [
+        {
+          "item_name": "mat_event_bookofconquest_1",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 450000
+        }
+      ],
+      "name": "eq_events_bookofconquest_50_weapon_lord50",
+      "steel_cost": 520000000,
+      "template_level": 45,
+      "upgrade_time_seconds": 345600
     }
   ]
 }

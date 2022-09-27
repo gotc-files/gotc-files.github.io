@@ -19980,6 +19980,546 @@
       "name_placeholder": "EQ_EVENTS_MOTHEROFDRAGONS2_50_WEAPON_LORD50_NAME",
       "priority": 302220,
       "slot_name": "slot_Weapon"
+    },
+    {
+      "id": "e670e41b58537a12",
+      "image": "icon_eq_events_bookofconquest_boots_1.png",
+      "level": 5,
+      "name": "eq_events_bookofconquest_5_boots_lord5",
+      "name_placeholder": "EQ_EVENTS_BOOKOFCONQUEST_5_BOOTS_LORD5_NAME",
+      "priority": 302221,
+      "slot_name": "slot_Boots"
+    },
+    {
+      "id": "f6dab34377f46485",
+      "image": "icon_eq_events_bookofconquest_chest_1.png",
+      "level": 5,
+      "name": "eq_events_bookofconquest_5_chest_lord5",
+      "name_placeholder": "EQ_EVENTS_BOOKOFCONQUEST_5_CHEST_LORD5_NAME",
+      "priority": 302222,
+      "slot_name": "slot_Chest"
+    },
+    {
+      "id": "163e1b075b014d17",
+      "image": "icon_eq_events_bookofconquest_helmet_1.png",
+      "level": 5,
+      "name": "eq_events_bookofconquest_5_helmet_lord5",
+      "name_placeholder": "EQ_EVENTS_BOOKOFCONQUEST_5_HELMET_LORD5_NAME",
+      "priority": 302223,
+      "slot_name": "slot_Helmet"
+    },
+    {
+      "id": "25f2f160050cad9e",
+      "image": "icon_eq_events_bookofconquest_pants_1.png",
+      "level": 5,
+      "name": "eq_events_bookofconquest_5_pants_lord5",
+      "name_placeholder": "EQ_EVENTS_BOOKOFCONQUEST_5_PANTS_LORD5_NAME",
+      "priority": 302224,
+      "slot_name": "slot_Pants"
+    },
+    {
+      "id": "992f8efe61ed34b7",
+      "image": "icon_eq_events_bookofconquest_ring_1.png",
+      "level": 5,
+      "name": "eq_events_bookofconquest_5_ring_lord5",
+      "name_placeholder": "EQ_EVENTS_BOOKOFCONQUEST_5_RING_LORD5_NAME",
+      "priority": 302225,
+      "slot_name": "slot_Ring"
+    },
+    {
+      "id": "71e3833012de139a",
+      "image": "icon_eq_events_bookofconquest_weapon_1.png",
+      "level": 5,
+      "name": "eq_events_bookofconquest_5_weapon_lord5",
+      "name_placeholder": "EQ_EVENTS_BOOKOFCONQUEST_5_WEAPON_LORD5_NAME",
+      "priority": 302226,
+      "slot_name": "slot_Weapon"
+    },
+    {
+      "id": "60e02d177d83e64",
+      "image": "icon_eq_events_bookofconquest_boots_1.png",
+      "level": 10,
+      "name": "eq_events_bookofconquest_10_boots_lord10",
+      "name_placeholder": "EQ_EVENTS_BOOKOFCONQUEST_10_BOOTS_LORD10_NAME",
+      "priority": 302227,
+      "slot_name": "slot_Boots"
+    },
+    {
+      "id": "49448739205c45d4",
+      "image": "icon_eq_events_bookofconquest_chest_1.png",
+      "level": 10,
+      "name": "eq_events_bookofconquest_10_chest_lord10",
+      "name_placeholder": "EQ_EVENTS_BOOKOFCONQUEST_10_CHEST_LORD10_NAME",
+      "priority": 302228,
+      "slot_name": "slot_Chest"
+    },
+    {
+      "id": "9c4c4a209632a116",
+      "image": "icon_eq_events_bookofconquest_helmet_1.png",
+      "level": 10,
+      "name": "eq_events_bookofconquest_10_helmet_lord10",
+      "name_placeholder": "EQ_EVENTS_BOOKOFCONQUEST_10_HELMET_LORD10_NAME",
+      "priority": 302229,
+      "slot_name": "slot_Helmet"
+    },
+    {
+      "id": "91639024862a4135",
+      "image": "icon_eq_events_bookofconquest_pants_1.png",
+      "level": 10,
+      "name": "eq_events_bookofconquest_10_pants_lord10",
+      "name_placeholder": "EQ_EVENTS_BOOKOFCONQUEST_10_PANTS_LORD10_NAME",
+      "priority": 302230,
+      "slot_name": "slot_Pants"
+    },
+    {
+      "id": "42c0dffc419959ed",
+      "image": "icon_eq_events_bookofconquest_ring_1.png",
+      "level": 10,
+      "name": "eq_events_bookofconquest_10_ring_lord10",
+      "name_placeholder": "EQ_EVENTS_BOOKOFCONQUEST_10_RING_LORD10_NAME",
+      "priority": 302231,
+      "slot_name": "slot_Ring"
+    },
+    {
+      "id": "27744cfe9c870f34",
+      "image": "icon_eq_events_bookofconquest_weapon_1.png",
+      "level": 10,
+      "name": "eq_events_bookofconquest_10_weapon_lord10",
+      "name_placeholder": "EQ_EVENTS_BOOKOFCONQUEST_10_WEAPON_LORD10_NAME",
+      "priority": 302232,
+      "slot_name": "slot_Weapon"
+    },
+    {
+      "id": "8c647a03848bdb94",
+      "image": "icon_eq_events_bookofconquest_boots_1.png",
+      "level": 15,
+      "name": "eq_events_bookofconquest_15_boots_lord15",
+      "name_placeholder": "EQ_EVENTS_BOOKOFCONQUEST_15_BOOTS_LORD15_NAME",
+      "priority": 302233,
+      "slot_name": "slot_Boots"
+    },
+    {
+      "id": "c32effebd30fa024",
+      "image": "icon_eq_events_bookofconquest_chest_1.png",
+      "level": 15,
+      "name": "eq_events_bookofconquest_15_chest_lord15",
+      "name_placeholder": "EQ_EVENTS_BOOKOFCONQUEST_15_CHEST_LORD15_NAME",
+      "priority": 302234,
+      "slot_name": "slot_Chest"
+    },
+    {
+      "id": "ab860db871f11773",
+      "image": "icon_eq_events_bookofconquest_helmet_1.png",
+      "level": 15,
+      "name": "eq_events_bookofconquest_15_helmet_lord15",
+      "name_placeholder": "EQ_EVENTS_BOOKOFCONQUEST_15_HELMET_LORD15_NAME",
+      "priority": 302235,
+      "slot_name": "slot_Helmet"
+    },
+    {
+      "id": "1b09e8f67579a4c5",
+      "image": "icon_eq_events_bookofconquest_pants_1.png",
+      "level": 15,
+      "name": "eq_events_bookofconquest_15_pants_lord15",
+      "name_placeholder": "EQ_EVENTS_BOOKOFCONQUEST_15_PANTS_LORD15_NAME",
+      "priority": 302236,
+      "slot_name": "slot_Pants"
+    },
+    {
+      "id": "3da7a2d2f855693c",
+      "image": "icon_eq_events_bookofconquest_ring_1.png",
+      "level": 15,
+      "name": "eq_events_bookofconquest_15_ring_lord15",
+      "name_placeholder": "EQ_EVENTS_BOOKOFCONQUEST_15_RING_LORD15_NAME",
+      "priority": 302237,
+      "slot_name": "slot_Ring"
+    },
+    {
+      "id": "10be0b667b44b951",
+      "image": "icon_eq_events_bookofconquest_weapon_1.png",
+      "level": 15,
+      "name": "eq_events_bookofconquest_15_weapon_lord15",
+      "name_placeholder": "EQ_EVENTS_BOOKOFCONQUEST_15_WEAPON_LORD15_NAME",
+      "priority": 302238,
+      "slot_name": "slot_Weapon"
+    },
+    {
+      "id": "ef5616559f0e4a45",
+      "image": "icon_eq_events_bookofconquest_boots_1.png",
+      "level": 20,
+      "name": "eq_events_bookofconquest_20_boots_lord20",
+      "name_placeholder": "EQ_EVENTS_BOOKOFCONQUEST_20_BOOTS_LORD20_NAME",
+      "priority": 302239,
+      "slot_name": "slot_Boots"
+    },
+    {
+      "id": "a01c93bdc88a31f5",
+      "image": "icon_eq_events_bookofconquest_chest_1.png",
+      "level": 20,
+      "name": "eq_events_bookofconquest_20_chest_lord20",
+      "name_placeholder": "EQ_EVENTS_BOOKOFCONQUEST_20_CHEST_LORD20_NAME",
+      "priority": 302240,
+      "slot_name": "slot_Chest"
+    },
+    {
+      "id": "f97e68cc5f76b529",
+      "image": "icon_eq_events_bookofconquest_helmet_1.png",
+      "level": 20,
+      "name": "eq_events_bookofconquest_20_helmet_lord20",
+      "name_placeholder": "EQ_EVENTS_BOOKOFCONQUEST_20_HELMET_LORD20_NAME",
+      "priority": 302241,
+      "slot_name": "slot_Helmet"
+    },
+    {
+      "id": "783b84a06efc3514",
+      "image": "icon_eq_events_bookofconquest_pants_1.png",
+      "level": 20,
+      "name": "eq_events_bookofconquest_20_pants_lord20",
+      "name_placeholder": "EQ_EVENTS_BOOKOFCONQUEST_20_PANTS_LORD20_NAME",
+      "priority": 302242,
+      "slot_name": "slot_Pants"
+    },
+    {
+      "id": "416ee06d9da5d9a6",
+      "image": "icon_eq_events_bookofconquest_ring_1.png",
+      "level": 20,
+      "name": "eq_events_bookofconquest_20_ring_lord20",
+      "name_placeholder": "EQ_EVENTS_BOOKOFCONQUEST_20_RING_LORD20_NAME",
+      "priority": 302243,
+      "slot_name": "slot_Ring"
+    },
+    {
+      "id": "42466e1255c31b0b",
+      "image": "icon_eq_events_bookofconquest_weapon_1.png",
+      "level": 20,
+      "name": "eq_events_bookofconquest_20_weapon_lord20",
+      "name_placeholder": "EQ_EVENTS_BOOKOFCONQUEST_20_WEAPON_LORD20_NAME",
+      "priority": 302244,
+      "slot_name": "slot_Weapon"
+    },
+    {
+      "id": "653c6e876c5dafb5",
+      "image": "icon_eq_events_bookofconquest_boots_1.png",
+      "level": 25,
+      "name": "eq_events_bookofconquest_25_boots_lord25",
+      "name_placeholder": "EQ_EVENTS_BOOKOFCONQUEST_25_BOOTS_LORD25_NAME",
+      "priority": 302245,
+      "slot_name": "slot_Boots"
+    },
+    {
+      "id": "2a76eb6f3bd9d405",
+      "image": "icon_eq_events_bookofconquest_chest_1.png",
+      "level": 25,
+      "name": "eq_events_bookofconquest_25_chest_lord25",
+      "name_placeholder": "EQ_EVENTS_BOOKOFCONQUEST_25_CHEST_LORD25_NAME",
+      "priority": 302246,
+      "slot_name": "slot_Chest"
+    },
+    {
+      "id": "ceb42f54b8b5034c",
+      "image": "icon_eq_events_bookofconquest_helmet_1.png",
+      "level": 25,
+      "name": "eq_events_bookofconquest_25_helmet_lord25",
+      "name_placeholder": "EQ_EVENTS_BOOKOFCONQUEST_25_HELMET_LORD25_NAME",
+      "priority": 302247,
+      "slot_name": "slot_Helmet"
+    },
+    {
+      "id": "f251fc729dafd0e4",
+      "image": "icon_eq_events_bookofconquest_pants_1.png",
+      "level": 25,
+      "name": "eq_events_bookofconquest_25_pants_lord25",
+      "name_placeholder": "EQ_EVENTS_BOOKOFCONQUEST_25_PANTS_LORD25_NAME",
+      "priority": 302248,
+      "slot_name": "slot_Pants"
+    },
+    {
+      "id": "3e099d432469e977",
+      "image": "icon_eq_events_bookofconquest_ring_1.png",
+      "level": 25,
+      "name": "eq_events_bookofconquest_25_ring_lord25",
+      "name_placeholder": "EQ_EVENTS_BOOKOFCONQUEST_25_RING_LORD25_NAME",
+      "priority": 302249,
+      "slot_name": "slot_Ring"
+    },
+    {
+      "id": "758c298ab200ad6e",
+      "image": "icon_eq_events_bookofconquest_weapon_1.png",
+      "level": 25,
+      "name": "eq_events_bookofconquest_25_weapon_lord25",
+      "name_placeholder": "EQ_EVENTS_BOOKOFCONQUEST_25_WEAPON_LORD25_NAME",
+      "priority": 302250,
+      "slot_name": "slot_Weapon"
+    },
+    {
+      "id": "360824050026a343",
+      "image": "icon_eq_events_bookofconquest_boots_1.png",
+      "level": 30,
+      "name": "eq_events_bookofconquest_30_boots_lord30",
+      "name_placeholder": "EQ_EVENTS_BOOKOFCONQUEST_30_BOOTS_LORD30_NAME",
+      "priority": 302251,
+      "slot_name": "slot_Boots"
+    },
+    {
+      "id": "7942a1ed57a2d8f3",
+      "image": "icon_eq_events_bookofconquest_chest_1.png",
+      "level": 30,
+      "name": "eq_events_bookofconquest_30_chest_lord30",
+      "name_placeholder": "EQ_EVENTS_BOOKOFCONQUEST_30_CHEST_LORD30_NAME",
+      "priority": 302252,
+      "slot_name": "slot_Chest"
+    },
+    {
+      "id": "da6f8968184ab93c",
+      "image": "icon_eq_events_bookofconquest_helmet_1.png",
+      "level": 30,
+      "name": "eq_events_bookofconquest_30_helmet_lord30",
+      "name_placeholder": "EQ_EVENTS_BOOKOFCONQUEST_30_HELMET_LORD30_NAME",
+      "priority": 302253,
+      "slot_name": "slot_Helmet"
+    },
+    {
+      "id": "a165b6f0f1d4dc12",
+      "image": "icon_eq_events_bookofconquest_pants_1.png",
+      "level": 30,
+      "name": "eq_events_bookofconquest_30_pants_lord30",
+      "name_placeholder": "EQ_EVENTS_BOOKOFCONQUEST_30_PANTS_LORD30_NAME",
+      "priority": 302254,
+      "slot_name": "slot_Pants"
+    },
+    {
+      "id": "400b0ae2d64e599f",
+      "image": "icon_eq_events_bookofconquest_ring_1.png",
+      "level": 30,
+      "name": "eq_events_bookofconquest_30_ring_lord30",
+      "name_placeholder": "EQ_EVENTS_BOOKOFCONQUEST_30_RING_LORD30_NAME",
+      "priority": 302255,
+      "slot_name": "slot_Ring"
+    },
+    {
+      "id": "61578fb612ff171e",
+      "image": "icon_eq_events_bookofconquest_weapon_1.png",
+      "level": 30,
+      "name": "eq_events_bookofconquest_30_weapon_lord30",
+      "name_placeholder": "EQ_EVENTS_BOOKOFCONQUEST_30_WEAPON_LORD30_NAME",
+      "priority": 302256,
+      "slot_name": "slot_Weapon"
+    },
+    {
+      "id": "bc625cd7f37546b3",
+      "image": "icon_eq_events_bookofconquest_boots_1.png",
+      "level": 35,
+      "name": "eq_events_bookofconquest_35_boots_lord35",
+      "name_placeholder": "EQ_EVENTS_BOOKOFCONQUEST_35_BOOTS_LORD35_NAME",
+      "priority": 302257,
+      "slot_name": "slot_Boots"
+    },
+    {
+      "id": "f328d93fa4f13d03",
+      "image": "icon_eq_events_bookofconquest_chest_1.png",
+      "level": 35,
+      "name": "eq_events_bookofconquest_35_chest_lord35",
+      "name_placeholder": "EQ_EVENTS_BOOKOFCONQUEST_35_CHEST_LORD35_NAME",
+      "priority": 302258,
+      "slot_name": "slot_Chest"
+    },
+    {
+      "id": "eda5cef0ff890f59",
+      "image": "icon_eq_events_bookofconquest_helmet_1.png",
+      "level": 35,
+      "name": "eq_events_bookofconquest_35_helmet_lord35",
+      "name_placeholder": "EQ_EVENTS_BOOKOFCONQUEST_35_HELMET_LORD35_NAME",
+      "priority": 302259,
+      "slot_name": "slot_Helmet"
+    },
+    {
+      "id": "2b0fce22028739e2",
+      "image": "icon_eq_events_bookofconquest_pants_1.png",
+      "level": 35,
+      "name": "eq_events_bookofconquest_35_pants_lord35",
+      "name_placeholder": "EQ_EVENTS_BOOKOFCONQUEST_35_PANTS_LORD35_NAME",
+      "priority": 302260,
+      "slot_name": "slot_Pants"
+    },
+    {
+      "id": "3f6c77cc6f82694e",
+      "image": "icon_eq_events_bookofconquest_ring_1.png",
+      "level": 35,
+      "name": "eq_events_bookofconquest_35_ring_lord35",
+      "name_placeholder": "EQ_EVENTS_BOOKOFCONQUEST_35_RING_LORD35_NAME",
+      "priority": 302261,
+      "slot_name": "slot_Ring"
+    },
+    {
+      "id": "569dc82ef53ca17b",
+      "image": "icon_eq_events_bookofconquest_weapon_1.png",
+      "level": 35,
+      "name": "eq_events_bookofconquest_35_weapon_lord35",
+      "name_placeholder": "EQ_EVENTS_BOOKOFCONQUEST_35_WEAPON_LORD35_NAME",
+      "priority": 302262,
+      "slot_name": "slot_Weapon"
+    },
+    {
+      "id": "bf5c7d29070ded2c",
+      "image": "icon_eq_events_bookofconquest_boots_1.png",
+      "level": 40,
+      "name": "eq_events_bookofconquest_40_boots_lord40",
+      "name_placeholder": "EQ_EVENTS_BOOKOFCONQUEST_40_BOOTS_LORD40_NAME",
+      "priority": 302263,
+      "slot_name": "slot_Boots"
+    },
+    {
+      "id": "f016f8c15089969c",
+      "image": "icon_eq_events_bookofconquest_chest_1.png",
+      "level": 40,
+      "name": "eq_events_bookofconquest_40_chest_lord40",
+      "name_placeholder": "EQ_EVENTS_BOOKOFCONQUEST_40_CHEST_LORD40_NAME",
+      "priority": 302264,
+      "slot_name": "slot_Chest"
+    },
+    {
+      "id": "331a2d15cdfe9d57",
+      "image": "icon_eq_events_bookofconquest_helmet_1.png",
+      "level": 40,
+      "name": "eq_events_bookofconquest_40_helmet_lord40",
+      "name_placeholder": "EQ_EVENTS_BOOKOFCONQUEST_40_HELMET_LORD40_NAME",
+      "priority": 302265,
+      "slot_name": "slot_Helmet"
+    },
+    {
+      "id": "2831efdcf6ff927d",
+      "image": "icon_eq_events_bookofconquest_pants_1.png",
+      "level": 40,
+      "name": "eq_events_bookofconquest_40_pants_lord40",
+      "name_placeholder": "EQ_EVENTS_BOOKOFCONQUEST_40_PANTS_LORD40_NAME",
+      "priority": 302266,
+      "slot_name": "slot_Pants"
+    },
+    {
+      "id": "46329f4e25dcd930",
+      "image": "icon_eq_events_bookofconquest_ring_1.png",
+      "level": 40,
+      "name": "eq_events_bookofconquest_40_ring_lord40",
+      "name_placeholder": "EQ_EVENTS_BOOKOFCONQUEST_40_RING_LORD40_NAME",
+      "priority": 302267,
+      "slot_name": "slot_Ring"
+    },
+    {
+      "id": "88222bcbc74b3375",
+      "image": "icon_eq_events_bookofconquest_weapon_1.png",
+      "level": 40,
+      "name": "eq_events_bookofconquest_40_weapon_lord40",
+      "name_placeholder": "EQ_EVENTS_BOOKOFCONQUEST_40_WEAPON_LORD40_NAME",
+      "priority": 302268,
+      "slot_name": "slot_Weapon"
+    },
+    {
+      "id": "353605fbf45e08dc",
+      "image": "icon_eq_events_bookofconquest_boots_1.png",
+      "level": 45,
+      "name": "eq_events_bookofconquest_45_boots_lord45",
+      "name_placeholder": "EQ_EVENTS_BOOKOFCONQUEST_45_BOOTS_LORD45_NAME",
+      "priority": 302269,
+      "slot_name": "slot_Boots"
+    },
+    {
+      "id": "7a7c8013a3da736c",
+      "image": "icon_eq_events_bookofconquest_chest_1.png",
+      "level": 45,
+      "name": "eq_events_bookofconquest_45_chest_lord45",
+      "name_placeholder": "EQ_EVENTS_BOOKOFCONQUEST_45_CHEST_LORD45_NAME",
+      "priority": 302270,
+      "slot_name": "slot_Chest"
+    },
+    {
+      "id": "4d06a8d2a3d2b32",
+      "image": "icon_eq_events_bookofconquest_helmet_1.png",
+      "level": 45,
+      "name": "eq_events_bookofconquest_45_helmet_lord45",
+      "name_placeholder": "EQ_EVENTS_BOOKOFCONQUEST_45_HELMET_LORD45_NAME",
+      "priority": 302271,
+      "slot_name": "slot_Helmet"
+    },
+    {
+      "id": "a25b970e05ac778d",
+      "image": "icon_eq_events_bookofconquest_pants_1.png",
+      "level": 45,
+      "name": "eq_events_bookofconquest_45_pants_lord45",
+      "name_placeholder": "EQ_EVENTS_BOOKOFCONQUEST_45_PANTS_LORD45_NAME",
+      "priority": 302272,
+      "slot_name": "slot_Pants"
+    },
+    {
+      "id": "3955e2609c10e9e1",
+      "image": "icon_eq_events_bookofconquest_ring_1.png",
+      "level": 45,
+      "name": "eq_events_bookofconquest_45_ring_lord45",
+      "name_placeholder": "EQ_EVENTS_BOOKOFCONQUEST_45_RING_LORD45_NAME",
+      "priority": 302273,
+      "slot_name": "slot_Ring"
+    },
+    {
+      "id": "bfe86c5320888510",
+      "image": "icon_eq_events_bookofconquest_weapon_1.png",
+      "level": 45,
+      "name": "eq_events_bookofconquest_45_weapon_lord45",
+      "name_placeholder": "EQ_EVENTS_BOOKOFCONQUEST_45_WEAPON_LORD45_NAME",
+      "priority": 302274,
+      "slot_name": "slot_Weapon"
+    },
+    {
+      "id": "66024f799825042a",
+      "image": "icon_eq_events_bookofconquest_boots_1.png",
+      "level": 50,
+      "name": "eq_events_bookofconquest_50_boots_lord50",
+      "name_placeholder": "EQ_EVENTS_BOOKOFCONQUEST_50_BOOTS_LORD50_NAME",
+      "priority": 302275,
+      "slot_name": "slot_Boots"
+    },
+    {
+      "id": "2948ca91cfa17f9a",
+      "image": "icon_eq_events_bookofconquest_chest_1.png",
+      "level": 50,
+      "name": "eq_events_bookofconquest_50_chest_lord50",
+      "name_placeholder": "EQ_EVENTS_BOOKOFCONQUEST_50_CHEST_LORD50_NAME",
+      "priority": 302276,
+      "slot_name": "slot_Chest"
+    },
+    {
+      "id": "100bccb18ac29142",
+      "image": "icon_eq_events_bookofconquest_helmet_1.png",
+      "level": 50,
+      "name": "eq_events_bookofconquest_50_helmet_lord50",
+      "name_placeholder": "EQ_EVENTS_BOOKOFCONQUEST_50_HELMET_LORD50_NAME",
+      "priority": 302277,
+      "slot_name": "slot_Helmet"
+    },
+    {
+      "id": "f16fdd8c69d77b7b",
+      "image": "icon_eq_events_bookofconquest_pants_1.png",
+      "level": 50,
+      "name": "eq_events_bookofconquest_50_pants_lord50",
+      "name_placeholder": "EQ_EVENTS_BOOKOFCONQUEST_50_PANTS_LORD50_NAME",
+      "priority": 302278,
+      "slot_name": "slot_Pants"
+    },
+    {
+      "id": "475775c16e375909",
+      "image": "icon_eq_events_bookofconquest_ring_1.png",
+      "level": 50,
+      "name": "eq_events_bookofconquest_50_ring_lord50",
+      "name_placeholder": "EQ_EVENTS_BOOKOFCONQUEST_50_RING_LORD50_NAME",
+      "priority": 302279,
+      "slot_name": "slot_Ring"
+    },
+    {
+      "id": "ab33ca6f80773f60",
+      "image": "icon_eq_events_bookofconquest_weapon_1.png",
+      "level": 50,
+      "name": "eq_events_bookofconquest_50_weapon_lord50",
+      "name_placeholder": "EQ_EVENTS_BOOKOFCONQUEST_50_WEAPON_LORD50_NAME",
+      "priority": 302280,
+      "slot_name": "slot_Weapon"
     }
   ]
 }

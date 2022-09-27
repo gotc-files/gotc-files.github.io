@@ -999,6 +999,33 @@
       "ring_name": "prog_gearset_events_motherofdragons2_ring",
       "weapon_id": "1b741891c164ea58",
       "weapon_name": "prog_gearset_events_motherofdragons2_weapon"
+    },
+    {
+      "boots_id": "6c89b7827da79708",
+      "boots_name": "prog_gearset_events_bookofconquest_boots",
+      "chest_id": "50f20b284938a630",
+      "chest_name": "prog_gearset_events_bookofconquest_chest",
+      "color": {
+        "alpha": 255,
+        "blue": 17,
+        "green": 116,
+        "red": 216
+      },
+      "description_placeholder": "EQ_EVENTS_BOOKOFCONQUEST_SET_DESCRIPTION",
+      "helmet_id": "18bb5991c74f295a",
+      "helmet_name": "prog_gearset_events_bookofconquest_helmet",
+      "id": "a8d49c76e6e3ca18",
+      "material_id": 12281161419261522128,
+      "material_name": "mat_event_bookofconquest_1",
+      "name": "gearset_events_bookofconquest",
+      "name_placeholder": "EQ_EVENTS_BOOKOFCONQUEST_SET_NAME",
+      "pants_id": "d5badd20afe03641",
+      "pants_name": "prog_gearset_events_bookofconquest_pants",
+      "priority": 22500,
+      "ring_id": "f2c189ecb8d832ba",
+      "ring_name": "prog_gearset_events_bookofconquest_ring",
+      "weapon_id": "6aee9f28ae8d9f89",
+      "weapon_name": "prog_gearset_events_bookofconquest_weapon"
     }
   ]
 }

@@ -2540,12 +2540,21 @@
       "type": "material"
     },
     {
+      "description_placeholder": "ITEM_MATERIAL_TRINKET_DESC",
+      "id": "cf693e2c4048f205",
+      "image": "icon_eq_events_material_bookofconquest_trinket_1.png",
+      "name": "mat_trinket_events_bookofconquest_1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_BOOKOFCONQUEST_1_NAME",
+      "priority": 26700,
+      "type": "material"
+    },
+    {
       "description_placeholder": "ITEM_MATERIAL_EVENT_DESC",
       "id": "cc7312869bfc9506",
       "image": "icon_crafting_raven_feather.png",
       "name": "mat_event_winteriscoming_1",
       "name_placeholder": "ITEM_MATERIALS_EVENT_WINTERISCOMING_1_NAME",
-      "priority": 33500,
+      "priority": 33600,
       "type": "material"
     },
     {
@@ -2554,7 +2563,7 @@
       "image": "icon_crafting_event_winterishere_1.png",
       "name": "mat_event_winterishere_1",
       "name_placeholder": "ITEM_MATERIALS_EVENT_WINTERISHERE_1_NAME",
-      "priority": 33600,
+      "priority": 33700,
       "type": "material"
     },
     {
@@ -2563,7 +2572,7 @@
       "image": "icon_crafting_event_horsehide.png",
       "name": "mat_event_essosinvades_1",
       "name_placeholder": "ITEM_MATERIALS_EVENT_ESSOSINVADES_1_NAME",
-      "priority": 33700,
+      "priority": 33800,
       "type": "material"
     },
     {
@@ -2572,7 +2581,7 @@
       "image": "icon_crafting_event_beetle.png",
       "name": "mat_event_knightsmind_1",
       "name_placeholder": "ITEM_MATERIALS_EVENT_KNIGHTSMIND_1_NAME",
-      "priority": 33800,
+      "priority": 33900,
       "type": "material"
     },
     {
@@ -2581,7 +2590,7 @@
       "image": "icon_crafting_event_abalone.png",
       "name": "mat_event_essospirate_1",
       "name_placeholder": "ITEM_MATERIALS_EVENT_ESSOSPIRATE_1_NAME",
-      "priority": 33900,
+      "priority": 34000,
       "type": "material"
     },
     {
@@ -2590,7 +2599,7 @@
       "image": "icon_crafting_event_driftwood.png",
       "name": "mat_event_ironisland_1",
       "name_placeholder": "ITEM_MATERIALS_EVENT_IRONISLAND_1_NAME",
-      "priority": 34000,
+      "priority": 34100,
       "type": "material"
     },
     {
@@ -2599,7 +2608,7 @@
       "image": "icon_crafting_event_hair.png",
       "name": "mat_event_faithmilitant_1",
       "name_placeholder": "ITEM_MATERIALS_EVENT_FAITHMILITANT_1_NAME",
-      "priority": 34100,
+      "priority": 34200,
       "type": "material"
     },
     {
@@ -2608,7 +2617,7 @@
       "image": "icon_crafting_event_bones.png",
       "name": "mat_event_wildling_1",
       "name_placeholder": "ITEM_MATERIALS_EVENT_WILDLING_1_NAME",
-      "priority": 34200,
+      "priority": 34300,
       "type": "material"
     },
     {
@@ -2617,7 +2626,7 @@
       "image": "icon_crafting_event_pinecone.png",
       "name": "mat_event_wrathofwinter_1",
       "name_placeholder": "ITEM_MATERIALS_EVENT_WRATHOFWINTER_1_NAME",
-      "priority": 34300,
+      "priority": 34400,
       "type": "material"
     },
     {
@@ -2626,7 +2635,7 @@
       "image": "icon_crafting_event_pennies.png",
       "name": "mat_event_blackfyre_1",
       "name_placeholder": "ITEM_MATERIALS_EVENT_BLACKFYRE_1_NAME",
-      "priority": 34400,
+      "priority": 34500,
       "type": "material"
     },
     {
@@ -2635,7 +2644,7 @@
       "image": "icon_crafting_event_horseshoe.png",
       "name": "mat_event_bolton_1",
       "name_placeholder": "ITEM_MATERIALS_EVENT_BOLTON_1_NAME",
-      "priority": 34500,
+      "priority": 34600,
       "type": "material"
     },
     {
@@ -2644,7 +2653,7 @@
       "image": "icon_crafting_event_cockle_shell.png",
       "name": "mat_event_braavos_1",
       "name_placeholder": "ITEM_MATERIALS_EVENT_BRAAVOS_1_NAME",
-      "priority": 34600,
+      "priority": 34700,
       "type": "material"
     },
     {
@@ -2653,7 +2662,7 @@
       "image": "icon_crafting_event_elk_hoof.png",
       "name": "mat_event_greathunt_1",
       "name_placeholder": "ITEM_MATERIALS_EVENT_GREATHUNT_1_NAME",
-      "priority": 34700,
+      "priority": 34800,
       "type": "material"
     },
     {
@@ -2662,7 +2671,7 @@
       "image": "icon_crafting_event_dragon_spine.png",
       "name": "mat_event_undying_1",
       "name_placeholder": "ITEM_MATERIALS_EVENT_UNDYING_1_NAME",
-      "priority": 34800,
+      "priority": 34900,
       "type": "material"
     },
     {
@@ -2671,7 +2680,7 @@
       "image": "icon_crafting_event_horsehair.png",
       "name": "mat_event_conquest_1",
       "name_placeholder": "ITEM_MATERIALS_EVENT_CONQUEST_1_NAME",
-      "priority": 34900,
+      "priority": 35000,
       "type": "material"
     },
     {
@@ -2680,7 +2689,7 @@
       "image": "icon_crafting_event_tar.png",
       "name": "mat_event_masterofwar_1",
       "name_placeholder": "ITEM_MATERIALS_EVENT_MASTEROFWAR_1_NAME",
-      "priority": 35000,
+      "priority": 35100,
       "type": "material"
     },
     {
@@ -2689,7 +2698,7 @@
       "image": "icon_crafting_event_yellow_thread.png",
       "name": "mat_event_harrenhal_1",
       "name_placeholder": "ITEM_MATERIALS_EVENT_HARRENHAL_1_NAME",
-      "priority": 35100,
+      "priority": 35200,
       "type": "material"
     },
     {
@@ -2698,7 +2707,7 @@
       "image": "icon_crafting_event_blackleather.png",
       "name": "mat_event_nightwatch_1",
       "name_placeholder": "ITEM_MATERIALS_EVENT_NIGHTWATCH_1_NAME",
-      "priority": 35200,
+      "priority": 35300,
       "type": "material"
     },
     {
@@ -2707,7 +2716,7 @@
       "image": "icon_crafting_event_ringmail.png",
       "name": "mat_event_Aftermath_1",
       "name_placeholder": "ITEM_MATERIALS_EVENT_AFTERMATH_1_NAME",
-      "priority": 35300,
+      "priority": 35400,
       "type": "material"
     },
     {
@@ -2716,7 +2725,7 @@
       "image": "icon_crafting_events_FalconKnight.png",
       "name": "mat_event_FalconKnight_1",
       "name_placeholder": "ITEM_MATERIALS_EVENT_FALCONKNIGHT_1_NAME",
-      "priority": 35400,
+      "priority": 35500,
       "type": "material"
     },
     {
@@ -2725,7 +2734,7 @@
       "image": "icon_crafting_events_foundations.png",
       "name": "mat_event_Foundations_1",
       "name_placeholder": "ITEM_MATERIALS_EVENT_FOUNDATIONS_1_NAME",
-      "priority": 35500,
+      "priority": 35600,
       "type": "material"
     },
     {
@@ -2734,7 +2743,7 @@
       "image": "icon_crafting_events_Kingsguard.png",
       "name": "mat_event_Kingsguard_1",
       "name_placeholder": "ITEM_MATERIALS_EVENT_KINGSGUARD_1_NAME",
-      "priority": 35600,
+      "priority": 35700,
       "type": "material"
     },
     {
@@ -2743,7 +2752,7 @@
       "image": "icon_crafting_events_Conqueror.png",
       "name": "mat_event_Conqueror_1",
       "name_placeholder": "ITEM_MATERIALS_EVENT_CONQUEROR_1_NAME",
-      "priority": 35700,
+      "priority": 35800,
       "type": "material"
     },
     {
@@ -2752,7 +2761,7 @@
       "image": "icon_crafting_event_tyrell.png",
       "name": "mat_event_Tyrell_1",
       "name_placeholder": "ITEM_MATERIALS_EVENT_TYRELL_1_NAME",
-      "priority": 35800,
+      "priority": 35900,
       "type": "material"
     },
     {
@@ -2761,7 +2770,7 @@
       "image": "icon_crafting_event_baelish.png",
       "name": "mat_event_Baelish_1",
       "name_placeholder": "ITEM_MATERIALS_EVENT_BAELISH_1_NAME",
-      "priority": 35900,
+      "priority": 36000,
       "type": "material"
     },
     {
@@ -2770,7 +2779,7 @@
       "image": "icon_crafting_event_PurpleWedding.png",
       "name": "mat_event_PurpleWedding_1",
       "name_placeholder": "ITEM_MATERIALS_EVENT_PURPLEWEDDING_1_NAME",
-      "priority": 36000,
+      "priority": 36100,
       "type": "material"
     },
     {
@@ -2779,7 +2788,7 @@
       "image": "icon_crafting_event_faceless.png",
       "name": "mat_event_faceless_1",
       "name_placeholder": "ITEM_MATERIALS_EVENT_FACELESS_1_NAME",
-      "priority": 36100,
+      "priority": 36200,
       "type": "material"
     },
     {
@@ -2788,7 +2797,7 @@
       "image": "icon_crafting_event_dragonkeeper.png",
       "name": "mat_event_dragonkeeper_1",
       "name_placeholder": "ITEM_MATERIALS_EVENT_DRAGONKEEPER_1_NAME",
-      "priority": 36200,
+      "priority": 36300,
       "type": "material"
     },
     {
@@ -2797,7 +2806,7 @@
       "image": "icon_crafting_event_brothers.png",
       "name": "mat_event_brothers_1",
       "name_placeholder": "ITEM_MATERIALS_EVENT_BROTHERS_1_NAME",
-      "priority": 36300,
+      "priority": 36400,
       "type": "material"
     },
     {
@@ -2806,7 +2815,7 @@
       "image": "icon_crafting_event_tyrion.png",
       "name": "mat_event_tyrion_1",
       "name_placeholder": "ITEM_MATERIALS_EVENT_TYRION_1_NAME",
-      "priority": 36400,
+      "priority": 36500,
       "type": "material"
     },
     {
@@ -2815,7 +2824,7 @@
       "image": "icon_crafting_event_baratheon.png",
       "name": "mat_event_baratheon_1",
       "name_placeholder": "ITEM_MATERIALS_EVENT_BARATHEON_1_NAME",
-      "priority": 36500,
+      "priority": 36600,
       "type": "material"
     },
     {
@@ -2824,7 +2833,7 @@
       "image": "icon_crafting_event_martell.png",
       "name": "mat_event_martell_1",
       "name_placeholder": "ITEM_MATERIALS_EVENT_MARTELL_1_NAME",
-      "priority": 36600,
+      "priority": 36700,
       "type": "material"
     },
     {
@@ -2833,7 +2842,7 @@
       "image": "icon_crafting_event_oldnan.png",
       "name": "mat_event_oldnan_1",
       "name_placeholder": "ITEM_MATERIALS_EVENT_OLDNAN_1_NAME",
-      "priority": 36700,
+      "priority": 36800,
       "type": "material"
     },
     {
@@ -2842,7 +2851,7 @@
       "image": "icon_crafting_event_rattleshirt.png",
       "name": "mat_event_rattleshirt_1",
       "name_placeholder": "ITEM_MATERIALS_EVENT_RATTLESHIRT_1_NAME",
-      "priority": 36800,
+      "priority": 36900,
       "type": "material"
     },
     {
@@ -2851,7 +2860,7 @@
       "image": "icon_crafting_event_conquest2.png",
       "name": "mat_event_conquest2_1",
       "name_placeholder": "ITEM_MATERIALS_EVENT_CONQUEST2_1_NAME",
-      "priority": 36900,
+      "priority": 37000,
       "type": "material"
     },
     {
@@ -2860,7 +2869,7 @@
       "image": "icon_crafting_event_hound.png",
       "name": "mat_event_hound_1",
       "name_placeholder": "ITEM_MATERIALS_EVENT_HOUND_1_NAME",
-      "priority": 37000,
+      "priority": 37100,
       "type": "material"
     },
     {
@@ -2869,7 +2878,7 @@
       "image": "icon_crafting_event_queenlb.png",
       "name": "mat_event_queenlb_1",
       "name_placeholder": "ITEM_MATERIALS_EVENT_QUEENLB_1_NAME",
-      "priority": 37100,
+      "priority": 37200,
       "type": "material"
     },
     {
@@ -2878,7 +2887,7 @@
       "image": "icon_crafting_event_rhllor.png",
       "name": "mat_event_rhllor_1",
       "name_placeholder": "ITEM_MATERIALS_EVENT_RHLLOR_1_NAME",
-      "priority": 37200,
+      "priority": 37300,
       "type": "material"
     },
     {
@@ -2887,7 +2896,7 @@
       "image": "icon_crafting_event_ironann.png",
       "name": "mat_event_ironann_1",
       "name_placeholder": "ITEM_MATERIALS_EVENT_IRONANN_1_NAME",
-      "priority": 37300,
+      "priority": 37400,
       "type": "material"
     },
     {
@@ -2896,7 +2905,7 @@
       "image": "icon_crafting_event_cersei.png",
       "name": "mat_event_cersei_1",
       "name_placeholder": "ITEM_MATERIALS_EVENT_CERSEI_1_NAME",
-      "priority": 37400,
+      "priority": 37500,
       "type": "material"
     },
     {
@@ -2905,7 +2914,7 @@
       "image": "icon_crafting_event_kingsmoot.png",
       "name": "mat_event_kingsmoot_1",
       "name_placeholder": "ITEM_MATERIALS_EVENT_KINGSMOOT_1_NAME",
-      "priority": 37500,
+      "priority": 37600,
       "type": "material"
     },
     {
@@ -2914,7 +2923,7 @@
       "image": "icon_crafting_event_freedom.png",
       "name": "mat_event_freedom_1",
       "name_placeholder": "ITEM_MATERIALS_EVENT_FREEDOM_1_NAME",
-      "priority": 37600,
+      "priority": 37700,
       "type": "material"
     },
     {
@@ -2923,7 +2932,7 @@
       "image": "icon_crafting_event_dawn.png",
       "name": "mat_event_dawn_1",
       "name_placeholder": "ITEM_MATERIALS_EVENT_DAWN_1_NAME",
-      "priority": 37700,
+      "priority": 37800,
       "type": "material"
     },
     {
@@ -2932,7 +2941,7 @@
       "image": "icon_crafting_event_stark.png",
       "name": "mat_event_stark_1",
       "name_placeholder": "ITEM_MATERIALS_EVENT_STARK_1_NAME",
-      "priority": 37800,
+      "priority": 37900,
       "type": "material"
     },
     {
@@ -2941,7 +2950,7 @@
       "image": "icon_crafting_oldnan3.png",
       "name": "mat_event_oldnan3_1",
       "name_placeholder": "ITEM_MATERIALS_EVENT_OLDNAN3_1_NAME",
-      "priority": 37900,
+      "priority": 38000,
       "type": "material"
     },
     {
@@ -2950,7 +2959,7 @@
       "image": "icon_crafting_events_harvest.png",
       "name": "mat_event_harvest_1",
       "name_placeholder": "ITEM_MATERIALS_EVENT_HARVEST_1_NAME",
-      "priority": 38000,
+      "priority": 38100,
       "type": "material"
     },
     {
@@ -2959,7 +2968,7 @@
       "image": "icon_crafting_event_yara.png",
       "name": "mat_event_yara_1",
       "name_placeholder": "ITEM_MATERIALS_EVENT_YARA_1_NAME",
-      "priority": 38100,
+      "priority": 38200,
       "type": "material"
     },
     {
@@ -2968,7 +2977,7 @@
       "image": "icon_crafting_event_harrenhal2.png",
       "name": "mat_event_harrenhal2_1",
       "name_placeholder": "ITEM_MATERIALS_EVENT_HARRENHAL2_1_NAME",
-      "priority": 38200,
+      "priority": 38300,
       "type": "material"
     },
     {
@@ -2977,7 +2986,7 @@
       "image": "icon_crafting_event_oldtown.png",
       "name": "mat_event_oldtown_1",
       "name_placeholder": "ITEM_MATERIALS_EVENT_OLDTOWN_1_NAME",
-      "priority": 38300,
+      "priority": 38400,
       "type": "material"
     },
     {
@@ -2986,7 +2995,7 @@
       "image": "icon_crafting_event_artofcombat.png",
       "name": "mat_event_artofcombat_1",
       "name_placeholder": "ITEM_MATERIALS_EVENT_ARTOFCOMBAT_1_NAME",
-      "priority": 38400,
+      "priority": 38500,
       "type": "material"
     },
     {
@@ -2995,7 +3004,7 @@
       "image": "icon_crafting_event_deadwalk.png",
       "name": "mat_event_deadwalk_1",
       "name_placeholder": "ITEM_MATERIALS_EVENT_DEADWALK_1_NAME",
-      "priority": 38500,
+      "priority": 38600,
       "type": "material"
     },
     {
@@ -3004,7 +3013,7 @@
       "image": "icon_crafting_event_baratheon2.png",
       "name": "mat_event_baratheon2_1",
       "name_placeholder": "ITEM_MATERIALS_EVENT_BARATHEON2_1_NAME",
-      "priority": 38600,
+      "priority": 38700,
       "type": "material"
     },
     {
@@ -3013,7 +3022,7 @@
       "image": "icon_crafting_event_ironbank.png",
       "name": "mat_event_ironbank_1",
       "name_placeholder": "ITEM_MATERIALS_EVENT_IRONBANK_1_NAME",
-      "priority": 38700,
+      "priority": 38800,
       "type": "material"
     },
     {
@@ -3022,7 +3031,16 @@
       "image": "icon_crafting_event_motherofdragons2.png",
       "name": "mat_event_motherofdragons2_1",
       "name_placeholder": "ITEM_MATERIALS_EVENT_MOTHEROFDRAGONS2_1_NAME",
-      "priority": 38800,
+      "priority": 38900,
+      "type": "material"
+    },
+    {
+      "description_placeholder": "ITEM_MATERIAL_EVENT_DESC",
+      "id": "aa6f733e1050b0d0",
+      "image": "icon_crafting_event_bookofconquest.png",
+      "name": "mat_event_bookofconquest_1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_BOOKOFCONQUEST_1_NAME",
+      "priority": 39000,
       "type": "material"
     },
     {
@@ -3031,7 +3049,7 @@
       "image": "icon_crafting_blackiron.png",
       "name": "mat_blackiron",
       "name_placeholder": "ITEM_MATERIALS_BLACKIRON",
-      "priority": 39100,
+      "priority": 39300,
       "type": "material"
     },
     {
@@ -3040,7 +3058,7 @@
       "image": "icon_crafting_copper_bar.png",
       "name": "mat_copperbar",
       "name_placeholder": "ITEM_MATERIALS_COPPERBAR",
-      "priority": 39200,
+      "priority": 39400,
       "type": "material"
     },
     {
@@ -3049,7 +3067,7 @@
       "image": "icon_crafting_dragonglass.png",
       "name": "mat_dragonglass",
       "name_placeholder": "ITEM_MATERIALS_DRAGONGLASS",
-      "priority": 39300,
+      "priority": 39500,
       "type": "material"
     },
     {
@@ -3058,7 +3076,7 @@
       "image": "icon_crafting_goldenheart_wood.png",
       "name": "mat_goldenheartwood",
       "name_placeholder": "ITEM_MATERIALS_GOLDENHEARTWOOD",
-      "priority": 39400,
+      "priority": 39600,
       "type": "material"
     },
     {
@@ -3067,7 +3085,7 @@
       "image": "icon_crafting_hide.png",
       "name": "mat_hide",
       "name_placeholder": "ITEM_MATERIALS_HIDE",
-      "priority": 39500,
+      "priority": 39700,
       "type": "material"
     },
     {
@@ -3076,7 +3094,7 @@
       "image": "icon_crafting_ironwood.png",
       "name": "mat_ironwood",
       "name_placeholder": "ITEM_MATERIALS_IRONWOOD",
-      "priority": 39600,
+      "priority": 39800,
       "type": "material"
     },
     {
@@ -3085,7 +3103,7 @@
       "image": "icon_crafting_kingswood_oak.png",
       "name": "mat_kingswoodoak",
       "name_placeholder": "ITEM_MATERIALS_KINGSWOODOAK",
-      "priority": 39700,
+      "priority": 39900,
       "type": "material"
     },
     {
@@ -3094,7 +3112,7 @@
       "image": "icon_crafting_leather_straps.png",
       "name": "mat_leatherstrap",
       "name_placeholder": "ITEM_MATERIALS_LEATHERSTRAPS",
-      "priority": 39800,
+      "priority": 40000,
       "type": "material"
     },
     {
@@ -3103,7 +3121,7 @@
       "image": "icon_crafting_milk_of_the_poppy.png",
       "name": "mat_milkofthepoppy",
       "name_placeholder": "ITEM_MATERIALS_MILKOFTHEPOPPY",
-      "priority": 39900,
+      "priority": 40100,
       "type": "material"
     },
     {
@@ -3112,7 +3130,7 @@
       "image": "icon_crafting_silk.png",
       "name": "mat_silk",
       "name_placeholder": "ITEM_MATERIALS_SILK",
-      "priority": 40000,
+      "priority": 40200,
       "type": "material"
     },
     {
@@ -3121,7 +3139,7 @@
       "image": "icon_crafting_weir_wood.png",
       "name": "mat_weirwood",
       "name_placeholder": "ITEM_MATERIALS_WEIRWOOD",
-      "priority": 40100,
+      "priority": 40300,
       "type": "material"
     },
     {
@@ -3130,7 +3148,7 @@
       "image": "icon_crafting_wild_fire.png",
       "name": "mat_wildfire",
       "name_placeholder": "ITEM_MATERIALS_WILDFIRE",
-      "priority": 40200,
+      "priority": 40400,
       "type": "material"
     },
     {
@@ -3139,7 +3157,7 @@
       "image": "icon_crafting_blackiron.png",
       "name": "mat_blackiron_box",
       "name_placeholder": "ITEM_MATERIALS_BLACKIRON_BOX",
-      "priority": 40400,
+      "priority": 40600,
       "type": "item"
     },
     {
@@ -3148,7 +3166,7 @@
       "image": "icon_crafting_copper_bar.png",
       "name": "mat_copperbar_box",
       "name_placeholder": "ITEM_MATERIALS_COPPERBAR_BOX",
-      "priority": 40500,
+      "priority": 40700,
       "type": "item"
     },
     {
@@ -3157,7 +3175,7 @@
       "image": "icon_crafting_dragonbone.png",
       "name": "mat_dragonbone_box",
       "name_placeholder": "ITEM_MATERIALS_DRAGONBONE_BOX",
-      "priority": 40600,
+      "priority": 40800,
       "type": "item"
     },
     {
@@ -3166,7 +3184,7 @@
       "image": "icon_crafting_dragonglass.png",
       "name": "mat_dragonglass_box",
       "name_placeholder": "ITEM_MATERIALS_DRAGONGLASS_BOX",
-      "priority": 40700,
+      "priority": 40900,
       "type": "item"
     },
     {
@@ -3175,7 +3193,7 @@
       "image": "icon_crafting_goldenheart_wood.png",
       "name": "mat_goldenheartwood_box",
       "name_placeholder": "ITEM_MATERIALS_GOLDENHEARTWOOD_BOX",
-      "priority": 40800,
+      "priority": 41000,
       "type": "item"
     },
     {
@@ -3184,7 +3202,7 @@
       "image": "icon_crafting_hide.png",
       "name": "mat_hide_box",
       "name_placeholder": "ITEM_MATERIALS_HIDE_BOX",
-      "priority": 40900,
+      "priority": 41100,
       "type": "item"
     },
     {
@@ -3193,7 +3211,7 @@
       "image": "icon_crafting_ironwood.png",
       "name": "mat_ironwood_box",
       "name_placeholder": "ITEM_MATERIALS_IRONWOOD_BOX",
-      "priority": 41000,
+      "priority": 41200,
       "type": "item"
     },
     {
@@ -3202,7 +3220,7 @@
       "image": "icon_crafting_kingswood_oak.png",
       "name": "mat_kingswoodoak_box",
       "name_placeholder": "ITEM_MATERIALS_KINGSWOODOAK_BOX",
-      "priority": 41100,
+      "priority": 41300,
       "type": "item"
     },
     {
@@ -3211,7 +3229,7 @@
       "image": "icon_crafting_leather_straps.png",
       "name": "mat_leatherstrap_box",
       "name_placeholder": "ITEM_MATERIALS_LEATHERSTRAPS_BOX",
-      "priority": 41200,
+      "priority": 41400,
       "type": "item"
     },
     {
@@ -3220,7 +3238,7 @@
       "image": "icon_crafting_milk_of_the_poppy.png",
       "name": "mat_milkofthepoppy_box",
       "name_placeholder": "ITEM_MATERIALS_MILKOFTHEPOPPY_BOX",
-      "priority": 41300,
+      "priority": 41500,
       "type": "item"
     },
     {
@@ -3229,7 +3247,7 @@
       "image": "icon_crafting_silk.png",
       "name": "mat_silk_box",
       "name_placeholder": "ITEM_MATERIALS_SILK_BOX",
-      "priority": 41400,
+      "priority": 41600,
       "type": "item"
     },
     {
@@ -3238,7 +3256,7 @@
       "image": "icon_crafting_steel_bar.png",
       "name": "mat_steelbar_box",
       "name_placeholder": "ITEM_MATERIALS_STEELBAR_BOX",
-      "priority": 41500,
+      "priority": 41700,
       "type": "item"
     },
     {
@@ -3247,7 +3265,7 @@
       "image": "icon_crafting_weir_wood.png",
       "name": "mat_weirwood_box",
       "name_placeholder": "ITEM_MATERIALS_WEIRWOOD_BOX",
-      "priority": 41600,
+      "priority": 41800,
       "type": "item"
     },
     {
@@ -3256,7 +3274,7 @@
       "image": "icon_crafting_wild_fire.png",
       "name": "mat_wildfire_box",
       "name_placeholder": "ITEM_MATERIALS_WILDFIRE_BOX",
-      "priority": 41700,
+      "priority": 41900,
       "type": "item"
     },
     {
@@ -3265,7 +3283,7 @@
       "image": "icon_crafting_steel_bar.png",
       "name": "mat_steelbar",
       "name_placeholder": "ITEM_MATERIALS_STEELBAR",
-      "priority": 41900,
+      "priority": 42100,
       "type": "material"
     },
     {
@@ -3274,7 +3292,7 @@
       "image": "icon_crafting_dragonbone.png",
       "name": "mat_dragonbone",
       "name_placeholder": "ITEM_MATERIALS_DRAGONBONE",
-      "priority": 42000,
+      "priority": 42200,
       "type": "material"
     },
     {
@@ -3283,7 +3301,7 @@
       "image": "icon_teleportation_item.png",
       "name": "item_Random_Teleport",
       "name_placeholder": "ITEM_RANDOM_TELEPORT",
-      "priority": 42900,
+      "priority": 43100,
       "type": "item"
     },
     {
@@ -3292,7 +3310,7 @@
       "image": "icon_teleportation_item.png",
       "name": "item_Advanced_Teleport",
       "name_placeholder": "ITEM_ADVANCED_TELEPORT",
-      "priority": 43000,
+      "priority": 43200,
       "type": "item"
     },
     {
@@ -3310,7 +3328,7 @@
       "image": "icon_teleportation_item.png",
       "name": "item_Advanced_Teleport_Shard",
       "name_placeholder": "ITEM_ADVANCED_TELEPORT_SHARD",
-      "priority": 43200,
+      "priority": 43400,
       "type": "item"
     },
     {
@@ -3319,7 +3337,7 @@
       "image": "icon_item_bannerchange_1.png",
       "name": "item_BannerChange_1",
       "name_placeholder": "ITEM_BANNERCHANGE_1",
-      "priority": 43400,
+      "priority": 43600,
       "type": "item"
     },
     {
@@ -3328,7 +3346,7 @@
       "image": "icon_item_namechange_1.png",
       "name": "item_NameChange_1",
       "name_placeholder": "ITEM_NAMECHANGE_1",
-      "priority": 43500,
+      "priority": 43700,
       "type": "item"
     },
     {
@@ -3337,7 +3355,7 @@
       "image": "icon_item_allegiancetagchange_1.png",
       "name": "item_AllegianceTagChange_1",
       "name_placeholder": "ITEM_ALLEGIANCETAGCHANGE_1",
-      "priority": 43600,
+      "priority": 43800,
       "type": "item"
     },
     {
@@ -3346,7 +3364,7 @@
       "image": "icon_item_avatar_change_1.png",
       "name": "item_AvatarChange_1",
       "name_placeholder": "ITEM_AVATARCHANGE_1",
-      "priority": 43700,
+      "priority": 43900,
       "type": "item"
     },
     {
@@ -3355,7 +3373,7 @@
       "image": "icon_wish.png",
       "name": "item_prayertoken_1",
       "name_placeholder": "ITEM_PRAYERTOKEN_1",
-      "priority": 44000,
+      "priority": 44200,
       "type": "item"
     },
     {
@@ -3364,7 +3382,7 @@
       "image": "icon_defense_chest.png",
       "name": "item_Small_Defense_Chest",
       "name_placeholder": "DO NOT USE Small Defense Chest",
-      "priority": 44300,
+      "priority": 44500,
       "type": "item"
     },
     {
@@ -3373,7 +3391,7 @@
       "image": "icon_war_chest.png",
       "name": "item_Small_War_Chest",
       "name_placeholder": "DO NOT USE Small War Chest",
-      "priority": 44400,
+      "priority": 44600,
       "type": "item"
     },
     {
@@ -3382,7 +3400,7 @@
       "image": "icon_recover_stamina.png",
       "name": "item_Stamina_1",
       "name_placeholder": "DO NOT USE +1 Stamina",
-      "priority": 45000,
+      "priority": 45200,
       "type": "item"
     },
     {
@@ -3391,7 +3409,7 @@
       "image": "icon_recover_stamina.png",
       "name": "item_Stamina_5",
       "name_placeholder": "DO NOT USE +5 Stamina",
-      "priority": 45100,
+      "priority": 45300,
       "type": "item"
     },
     {
@@ -3400,7 +3418,7 @@
       "image": "icon_recover_stamina.png",
       "name": "item_Stamina_10",
       "name_placeholder": "ITEM_STAMINA_10",
-      "priority": 45200,
+      "priority": 45400,
       "type": "item"
     },
     {
@@ -3409,7 +3427,7 @@
       "image": "icon_recover_stamina.png",
       "name": "item_Stamina_25",
       "name_placeholder": "ITEM_STAMINA_25",
-      "priority": 45300,
+      "priority": 45500,
       "type": "item"
     },
     {
@@ -3418,7 +3436,7 @@
       "image": "icon_recover_stamina.png",
       "name": "item_Stamina_50",
       "name_placeholder": "ITEM_STAMINA_50",
-      "priority": 45400,
+      "priority": 45600,
       "type": "item"
     },
     {
@@ -3427,7 +3445,7 @@
       "image": "icon_recover_stamina.png",
       "name": "item_Stamina_100",
       "name_placeholder": "ITEM_STAMINA_100",
-      "priority": 45500,
+      "priority": 45700,
       "type": "item"
     },
     {
@@ -3436,7 +3454,7 @@
       "image": "icon_buff_healer.png",
       "name": "item_RedTempleCurrencyBox_Quantity1",
       "name_placeholder": "DO NOT USE +1 Light",
-      "priority": 45700,
+      "priority": 45900,
       "type": "item"
     },
     {
@@ -3445,7 +3463,7 @@
       "image": "icon_buff_healer.png",
       "name": "item_RedTempleCurrencyBox_Quantity5",
       "name_placeholder": "DO NOT USE +5 Light",
-      "priority": 45800,
+      "priority": 46000,
       "type": "item"
     },
     {
@@ -3454,7 +3472,7 @@
       "image": "icon_buff_healer.png",
       "name": "item_RedTempleCurrencyBox_Quantity10",
       "name_placeholder": "ITEM_REDTEMPLECURRENCYBOX_QUANTITY10",
-      "priority": 45900,
+      "priority": 46100,
       "type": "item"
     },
     {
@@ -3463,7 +3481,7 @@
       "image": "icon_buff_healer.png",
       "name": "item_RedTempleCurrencyBox_Quantity25",
       "name_placeholder": "ITEM_REDTEMPLECURRENCYBOX_QUANTITY25",
-      "priority": 46000,
+      "priority": 46200,
       "type": "item"
     },
     {
@@ -3472,7 +3490,7 @@
       "image": "icon_buff_healer.png",
       "name": "item_RedTempleCurrencyBox_Quantity50",
       "name_placeholder": "ITEM_REDTEMPLECURRENCYBOX_QUANTITY50",
-      "priority": 46100,
+      "priority": 46300,
       "type": "item"
     },
     {
@@ -3481,7 +3499,7 @@
       "image": "icon_buff_healer.png",
       "name": "item_RedTempleCurrencyBox_Quantity100",
       "name_placeholder": "ITEM_REDTEMPLECURRENCYBOX_QUANTITY100",
-      "priority": 46200,
+      "priority": 46400,
       "type": "item"
     },
     {
@@ -3490,7 +3508,7 @@
       "image": "icon_buff_healer.png",
       "name": "item_RedTempleCurrencyBox_Quantity1000",
       "name_placeholder": "ITEM_REDTEMPLECURRENCYBOX_QUANTITY1000",
-      "priority": 46300,
+      "priority": 46500,
       "type": "item"
     },
     {
@@ -3499,7 +3517,7 @@
       "image": "icon_buff_healer.png",
       "name": "item_RedTempleCurrencyBox_Quantity10000",
       "name_placeholder": "ITEM_REDTEMPLECURRENCYBOX_QUANTITY10000",
-      "priority": 46400,
+      "priority": 46600,
       "type": "item"
     },
     {
@@ -3508,7 +3526,7 @@
       "image": "icon_buff_healer.png",
       "name": "item_RedTempleCurrencyBox_Quantity100000",
       "name_placeholder": "ITEM_REDTEMPLECURRENCYBOX_QUANTITY100000",
-      "priority": 46500,
+      "priority": 46700,
       "type": "item"
     },
     {
@@ -3517,7 +3535,7 @@
       "image": "icon_buff_healer.png",
       "name": "item_RedTempleCurrencyBox_Quantity1000000",
       "name_placeholder": "ITEM_REDTEMPLECURRENCYBOX_QUANTITY1000000",
-      "priority": 46600,
+      "priority": 46800,
       "type": "item"
     },
     {
@@ -3526,7 +3544,7 @@
       "image": "icon_settings_language_chinese_simplified.png",
       "name": "item_placeholder_1",
       "name_placeholder": "TEST ITEM item_placeholder_1",
-      "priority": 46900,
+      "priority": 47100,
       "type": "item"
     },
     {
@@ -3535,7 +3553,7 @@
       "image": "icon_settings_language_chinese_traditional.png",
       "name": "item_placeholder_2",
       "name_placeholder": "TEST ITEM item_placeholder_2",
-      "priority": 47000,
+      "priority": 47200,
       "type": "item"
     },
     {
@@ -3544,7 +3562,7 @@
       "image": "icon_settings_language_english.png",
       "name": "item_placeholder_3",
       "name_placeholder": "TEST ITEM item_placeholder_3",
-      "priority": 47100,
+      "priority": 47300,
       "type": "item"
     },
     {
@@ -3553,7 +3571,7 @@
       "image": "icon_settings_language_french.png",
       "name": "item_placeholder_4",
       "name_placeholder": "TEST ITEM item_placeholder_4",
-      "priority": 47200,
+      "priority": 47400,
       "type": "item"
     },
     {
@@ -3562,7 +3580,7 @@
       "image": "icon_settings_language_german.png",
       "name": "item_placeholder_5",
       "name_placeholder": "TEST ITEM item_placeholder_5",
-      "priority": 47300,
+      "priority": 47500,
       "type": "item"
     },
     {
@@ -3571,7 +3589,7 @@
       "image": "icon_settings_language_italian.png",
       "name": "item_placeholder_6",
       "name_placeholder": "TEST ITEM item_placeholder_6",
-      "priority": 47400,
+      "priority": 47600,
       "type": "item"
     },
     {
@@ -3580,7 +3598,7 @@
       "image": "icon_settings_language_japanese.png",
       "name": "item_placeholder_7",
       "name_placeholder": "TEST ITEM item_placeholder_7",
-      "priority": 47500,
+      "priority": 47700,
       "type": "item"
     },
     {
@@ -3589,7 +3607,7 @@
       "image": "icon_settings_language_korean.png",
       "name": "item_placeholder_8",
       "name_placeholder": "TEST ITEM item_placeholder_8",
-      "priority": 47600,
+      "priority": 47800,
       "type": "item"
     },
     {
@@ -3598,7 +3616,7 @@
       "image": "icon_settings_language_portuguese.png",
       "name": "item_placeholder_9",
       "name_placeholder": "TEST ITEM item_placeholder_9",
-      "priority": 47700,
+      "priority": 47900,
       "type": "item"
     },
     {
@@ -3607,7 +3625,7 @@
       "image": "icon_resource_lordExp.png",
       "name": "item_xp_Lord_1",
       "name_placeholder": "ITEM_XP_LORD_1",
-      "priority": 47900,
+      "priority": 48100,
       "type": "item"
     },
     {
@@ -3616,7 +3634,7 @@
       "image": "icon_resource_lordExp.png",
       "name": "item_xp_Lord_10",
       "name_placeholder": "ITEM_XP_LORD_10",
-      "priority": 48000,
+      "priority": 48200,
       "type": "item"
     },
     {
@@ -3625,7 +3643,7 @@
       "image": "icon_resource_lordExp.png",
       "name": "item_xp_Lord_100",
       "name_placeholder": "ITEM_XP_LORD_100",
-      "priority": 48100,
+      "priority": 48300,
       "type": "item"
     },
     {
@@ -3634,7 +3652,7 @@
       "image": "icon_resource_lordExp.png",
       "name": "item_xp_Lord_1000",
       "name_placeholder": "ITEM_XP_LORD_1000",
-      "priority": 48200,
+      "priority": 48400,
       "type": "item"
     },
     {
@@ -3643,7 +3661,7 @@
       "image": "icon_resource_lordExp.png",
       "name": "item_xp_Lord_10000",
       "name_placeholder": "ITEM_XP_LORD_10000",
-      "priority": 48300,
+      "priority": 48500,
       "type": "item"
     },
     {
@@ -3652,7 +3670,7 @@
       "image": "icon_resource_lordExp.png",
       "name": "item_xp_Lord_100000",
       "name_placeholder": "ITEM_XP_LORD_100000",
-      "priority": 48400,
+      "priority": 48600,
       "type": "item"
     },
     {
@@ -3661,7 +3679,7 @@
       "image": "icon_resource_lordExp.png",
       "name": "item_xp_Lord_1000000",
       "name_placeholder": "ITEM_XP_LORD_1000000",
-      "priority": 48500,
+      "priority": 48700,
       "type": "item"
     },
     {
@@ -3670,7 +3688,7 @@
       "image": "icon_resource_lordExp.png",
       "name": "item_xp_Lord_10000000",
       "name_placeholder": "ITEM_XP_LORD_10000000",
-      "priority": 48600,
+      "priority": 48800,
       "type": "item"
     },
     {
@@ -3679,7 +3697,7 @@
       "image": "icon_resource_lordExp.png",
       "name": "item_xp_Lord_100000000",
       "name_placeholder": "ITEM_XP_LORD_100000000",
-      "priority": 48700,
+      "priority": 48900,
       "type": "item"
     },
     {
@@ -3688,7 +3706,7 @@
       "image": "icon_resource_lordExp.png",
       "name": "item_xp_Lord_1000000000",
       "name_placeholder": "ITEM_XP_LORD_1000000000",
-      "priority": 48800,
+      "priority": 49000,
       "type": "item"
     },
     {
@@ -3706,7 +3724,7 @@
       "image": "",
       "name": "item_Farm_boost_24hr",
       "name_placeholder": "DO NOT USE (ever) item_Farm_boost_24hr",
-      "priority": 49400,
+      "priority": 49600,
       "type": "item"
     },
     {
@@ -3715,7 +3733,7 @@
       "image": "",
       "name": "item_Sawmill_boost_24hr",
       "name_placeholder": "DO NOT USE (ever) item_Sawmill_boost_24hr",
-      "priority": 49500,
+      "priority": 49700,
       "type": "item"
     },
     {
@@ -3724,7 +3742,7 @@
       "image": "",
       "name": "item_StoneQuarry_boost_24hr",
       "name_placeholder": "DO NOT USE (ever) item_StoneQuarry_boost_24hr",
-      "priority": 49600,
+      "priority": 49800,
       "type": "item"
     },
     {
@@ -3733,7 +3751,7 @@
       "image": "",
       "name": "item_Mine_boost_24hr",
       "name_placeholder": "DO NOT USE (ever) item_Mine_boost_24hr",
-      "priority": 49700,
+      "priority": 49900,
       "type": "item"
     },
     {
@@ -3742,7 +3760,7 @@
       "image": "",
       "name": "item_test_Farm_boost_2s",
       "name_placeholder": "DO NOT USE (ever) item_test_Farm_boost_2s",
-      "priority": 49900,
+      "priority": 50100,
       "type": "item"
     },
     {
@@ -3751,7 +3769,7 @@
       "image": "icon_attack.png",
       "name": "item_Atk_Bonus_1",
       "name_placeholder": "ITEM_ATK_BONUS_1",
-      "priority": 50300,
+      "priority": 50500,
       "type": "item"
     },
     {
@@ -3760,7 +3778,7 @@
       "image": "icon_attack.png",
       "name": "item_Atk_Bonus_2",
       "name_placeholder": "ITEM_ATK_BONUS_2",
-      "priority": 50400,
+      "priority": 50600,
       "type": "item"
     },
     {
@@ -3769,7 +3787,7 @@
       "image": "icon_defense.png",
       "name": "item_Def_Bonus_1",
       "name_placeholder": "ITEM_DEF_BONUS_1",
-      "priority": 50500,
+      "priority": 50700,
       "type": "item"
     },
     {
@@ -3778,7 +3796,7 @@
       "image": "icon_defense.png",
       "name": "item_Def_Bonus_2",
       "name_placeholder": "ITEM_DEF_BONUS_2",
-      "priority": 50600,
+      "priority": 50800,
       "type": "item"
     },
     {
@@ -3787,7 +3805,7 @@
       "image": "icon_scout.png",
       "name": "item_Anti_Scout_1",
       "name_placeholder": "ITEM_ANTI_SCOUT_1",
-      "priority": 50800,
+      "priority": 51000,
       "type": "item"
     },
     {
@@ -3796,7 +3814,7 @@
       "image": "icon_scout.png",
       "name": "item_Anti_Scout_2",
       "name_placeholder": "ITEM_ANTI_SCOUT_2",
-      "priority": 50900,
+      "priority": 51100,
       "type": "item"
     },
     {
@@ -3805,7 +3823,7 @@
       "image": "icon_gather_resources.png",
       "name": "item_Gather_Bonus_1",
       "name_placeholder": "ITEM_GATHER_BONUS_1",
-      "priority": 51100,
+      "priority": 51300,
       "type": "item"
     },
     {
@@ -3814,7 +3832,7 @@
       "image": "icon_gather_resources.png",
       "name": "item_Gather_Bonus_2",
       "name_placeholder": "ITEM_GATHER_BONUS_2",
-      "priority": 51200,
+      "priority": 51400,
       "type": "item"
     },
     {
@@ -3823,7 +3841,7 @@
       "image": "icon_false_army.png",
       "name": "item_False_Army",
       "name_placeholder": "ITEM_FALSE_ARMY",
-      "priority": 51400,
+      "priority": 51600,
       "type": "item"
     },
     {
@@ -3832,7 +3850,7 @@
       "image": "icon_small_upkeep.png",
       "name": "item_Small_Upkeep_1",
       "name_placeholder": "ITEM_SMALL_UPKEEP_1",
-      "priority": 51600,
+      "priority": 51800,
       "type": "item"
     },
     {
@@ -3841,7 +3859,7 @@
       "image": "icon_small_upkeep.png",
       "name": "item_Small_Upkeep_2",
       "name_placeholder": "ITEM_SMALL_UPKEEP_2",
-      "priority": 51700,
+      "priority": 51900,
       "type": "item"
     },
     {
@@ -3850,7 +3868,7 @@
       "image": "icon_largeUpkeep.png",
       "name": "item_Large_Upkeep_1",
       "name_placeholder": "ITEM_LARGE_UPKEEP_1",
-      "priority": 51800,
+      "priority": 52000,
       "type": "item"
     },
     {
@@ -3859,7 +3877,7 @@
       "image": "icon_largeUpkeep.png",
       "name": "item_Large_Upkeep_2",
       "name_placeholder": "ITEM_LARGE_UPKEEP_2",
-      "priority": 51900,
+      "priority": 52100,
       "type": "item"
     },
     {
@@ -3868,7 +3886,7 @@
       "image": "icon_itm_gather_resources.png",
       "name": "item_BasicResourceGatherBoost_25percent_1h",
       "name_placeholder": "ITEM_BASICRESOURCEGATHERBOOST_25PERCENT_1H_NAME",
-      "priority": 52200,
+      "priority": 52400,
       "type": "item"
     },
     {
@@ -3877,7 +3895,7 @@
       "image": "icon_itm_gather_resources.png",
       "name": "item_BasicResourceGatherBoost_25percent_4h",
       "name_placeholder": "ITEM_BASICRESOURCEGATHERBOOST_25PERCENT_4H_NAME",
-      "priority": 52300,
+      "priority": 52500,
       "type": "item"
     },
     {
@@ -3886,7 +3904,7 @@
       "image": "icon_itm_gather_resources.png",
       "name": "item_BasicResourceGatherBoost_25percent_8h",
       "name_placeholder": "ITEM_BASICRESOURCEGATHERBOOST_25PERCENT_8H_NAME",
-      "priority": 52400,
+      "priority": 52600,
       "type": "item"
     },
     {
@@ -3895,7 +3913,7 @@
       "image": "icon_itm_gather_resources.png",
       "name": "item_BasicResourceGatherBoost_25percent_24h",
       "name_placeholder": "ITEM_BASICRESOURCEGATHERBOOST_25PERCENT_24H_NAME",
-      "priority": 52500,
+      "priority": 52700,
       "type": "item"
     },
     {
@@ -3904,7 +3922,7 @@
       "image": "icon_itm_gather_resources.png",
       "name": "item_BasicResourceGatherBoost_25percent_7d",
       "name_placeholder": "ITEM_BASICRESOURCEGATHERBOOST_25PERCENT_7D_NAME",
-      "priority": 52600,
+      "priority": 52800,
       "type": "item"
     },
     {
@@ -3913,7 +3931,7 @@
       "image": "icon_itm_gather_resources.png",
       "name": "item_BasicResourceGatherBoost_25percent_30d",
       "name_placeholder": "ITEM_BASICRESOURCEGATHERBOOST_25PERCENT_30D_NAME",
-      "priority": 52700,
+      "priority": 52900,
       "type": "item"
     },
     {
@@ -3922,7 +3940,7 @@
       "image": "icon_itm_gather_resources.png",
       "name": "item_BasicResourceGatherBoost_50percent_8h",
       "name_placeholder": "ITEM_BASICRESOURCEGATHERBOOST_50PERCENT_8H_NAME",
-      "priority": 52800,
+      "priority": 53000,
       "type": "item"
     },
     {
@@ -3931,7 +3949,7 @@
       "image": "icon_itm_gather_resources.png",
       "name": "item_BasicResourceGatherBoost_50percent_24h",
       "name_placeholder": "ITEM_BASICRESOURCEGATHERBOOST_50PERCENT_24H_NAME",
-      "priority": 52900,
+      "priority": 53100,
       "type": "item"
     },
     {
@@ -3940,7 +3958,7 @@
       "image": "icon_itm_gather_resources.png",
       "name": "item_BasicResourceGatherBoost_50percent_7d",
       "name_placeholder": "ITEM_BASICRESOURCEGATHERBOOST_50PERCENT_7D_NAME",
-      "priority": 53000,
+      "priority": 53200,
       "type": "item"
     },
     {
@@ -3949,7 +3967,7 @@
       "image": "icon_itm_gather_resources.png",
       "name": "item_BasicResourceGatherBoost_50percent_30d",
       "name_placeholder": "ITEM_BASICRESOURCEGATHERBOOST_50PERCENT_30D_NAME",
-      "priority": 53100,
+      "priority": 53300,
       "type": "item"
     },
     {
@@ -3958,7 +3976,7 @@
       "image": "icon_itm_gather_resources_adv.png",
       "name": "item_ExoticResourceGatherBoost_25percent_8h",
       "name_placeholder": "ITEM_EXOTICRESOURCEGATHERBOOST_25PERCENT_8H_NAME",
-      "priority": 53200,
+      "priority": 53400,
       "type": "item"
     },
     {
@@ -3967,7 +3985,7 @@
       "image": "icon_itm_gather_resources_adv.png",
       "name": "item_ExoticResourceGatherBoost_25percent_24h",
       "name_placeholder": "ITEM_EXOTICRESOURCEGATHERBOOST_25PERCENT_24H_NAME",
-      "priority": 53300,
+      "priority": 53500,
       "type": "item"
     },
     {
@@ -3976,7 +3994,7 @@
       "image": "icon_itm_gather_resources_adv.png",
       "name": "item_ExoticResourceGatherBoost_25percent_7d",
       "name_placeholder": "ITEM_EXOTICRESOURCEGATHERBOOST_25PERCENT_7D_NAME",
-      "priority": 53400,
+      "priority": 53600,
       "type": "item"
     },
     {
@@ -3985,7 +4003,7 @@
       "image": "icon_itm_gather_resources_adv.png",
       "name": "item_ExoticResourceGatherBoost_25percent_30d",
       "name_placeholder": "ITEM_EXOTICRESOURCEGATHERBOOST_25PERCENT_30D_NAME",
-      "priority": 53500,
+      "priority": 53700,
       "type": "item"
     },
     {
@@ -3994,7 +4012,7 @@
       "image": "icon_itm_gather_resources_adv.png",
       "name": "item_ExoticResourceGatherBoost_50percent_8h",
       "name_placeholder": "ITEM_EXOTICRESOURCEGATHERBOOST_50PERCENT_8H_NAME",
-      "priority": 53600,
+      "priority": 53800,
       "type": "item"
     },
     {
@@ -4003,7 +4021,7 @@
       "image": "icon_itm_gather_resources_adv.png",
       "name": "item_ExoticResourceGatherBoost_50percent_24h",
       "name_placeholder": "ITEM_EXOTICRESOURCEGATHERBOOST_50PERCENT_24H_NAME",
-      "priority": 53700,
+      "priority": 53900,
       "type": "item"
     },
     {
@@ -4012,7 +4030,7 @@
       "image": "icon_itm_gather_resources_adv.png",
       "name": "item_ExoticResourceGatherBoost_50percent_7d",
       "name_placeholder": "ITEM_EXOTICRESOURCEGATHERBOOST_50PERCENT_7D_NAME",
-      "priority": 53800,
+      "priority": 54000,
       "type": "item"
     },
     {
@@ -4021,7 +4039,7 @@
       "image": "icon_itm_gather_resources_adv.png",
       "name": "item_ExoticResourceGatherBoost_50percent_30d",
       "name_placeholder": "ITEM_EXOTICRESOURCEGATHERBOOST_50PERCENT_30D_NAME",
-      "priority": 53900,
+      "priority": 54100,
       "type": "item"
     },
     {
@@ -4030,7 +4048,7 @@
       "image": "dragon_talent_hatchling_march_size_max.png",
       "name": "item_MarchSize_25percent_2h",
       "name_placeholder": "ITEM_MARCHSIZE_25PERCENT_2H_NAME",
-      "priority": 54000,
+      "priority": 54200,
       "type": "item"
     },
     {
@@ -4039,7 +4057,7 @@
       "image": "dragon_talent_hatchling_march_size_max.png",
       "name": "item_MarchSize_25percent_24h",
       "name_placeholder": "ITEM_MARCHSIZE_25PERCENT_24H_NAME",
-      "priority": 54100,
+      "priority": 54300,
       "type": "item"
     },
     {
@@ -4048,7 +4066,7 @@
       "image": "dragon_talent_hatchling_march_size_max.png",
       "name": "item_MarchSize_50percent_2h",
       "name_placeholder": "ITEM_MARCHSIZE_50PERCENT_2H_NAME",
-      "priority": 54200,
+      "priority": 54400,
       "type": "item"
     },
     {
@@ -4057,7 +4075,7 @@
       "image": "dragon_talent_hatchling_march_size_max.png",
       "name": "item_MarchSize_50percent_24h",
       "name_placeholder": "ITEM_MARCHSIZE_50PERCENT_24H_NAME",
-      "priority": 54300,
+      "priority": 54500,
       "type": "item"
     },
     {
@@ -4075,7 +4093,7 @@
       "image": "icon_attack.png",
       "name": "item_AttackBoost_10percent_1h",
       "name_placeholder": "ITEM_ATTACKBOOST_10PERCENT_1H_NAME",
-      "priority": 54500,
+      "priority": 54700,
       "type": "item"
     },
     {
@@ -4084,7 +4102,7 @@
       "image": "icon_attack.png",
       "name": "item_AttackBoost_10percent_6h",
       "name_placeholder": "ITEM_ATTACKBOOST_10PERCENT_6H_NAME",
-      "priority": 54600,
+      "priority": 54800,
       "type": "item"
     },
     {
@@ -4093,7 +4111,7 @@
       "image": "icon_attack.png",
       "name": "item_AttackBoost_10percent_12h",
       "name_placeholder": "ITEM_ATTACKBOOST_10PERCENT_12H_NAME",
-      "priority": 54700,
+      "priority": 54900,
       "type": "item"
     },
     {
@@ -4102,7 +4120,7 @@
       "image": "icon_attack.png",
       "name": "item_AttackBoost_10percent_24h",
       "name_placeholder": "ITEM_ATTACKBOOST_10PERCENT_24H_NAME",
-      "priority": 54800,
+      "priority": 55000,
       "type": "item"
     },
     {
@@ -4111,7 +4129,7 @@
       "image": "icon_attack.png",
       "name": "item_AttackBoost_20percent_12h",
       "name_placeholder": "ITEM_ATTACKBOOST_20PERCENT_12H_NAME",
-      "priority": 54900,
+      "priority": 55100,
       "type": "item"
     },
     {
@@ -4120,7 +4138,7 @@
       "image": "icon_attack.png",
       "name": "item_AttackBoost_20percent_24h",
       "name_placeholder": "ITEM_ATTACKBOOST_20PERCENT_24H_NAME",
-      "priority": 55000,
+      "priority": 55200,
       "type": "item"
     },
     {
@@ -4129,7 +4147,7 @@
       "image": "icon_attack.png",
       "name": "item_AttackBoost_20percent_7d",
       "name_placeholder": "ITEM_ATTACKBOOST_20PERCENT_7D_NAME",
-      "priority": 55100,
+      "priority": 55300,
       "type": "item"
     },
     {
@@ -4138,7 +4156,7 @@
       "image": "icon_attack.png",
       "name": "item_AttackBoost_25percent_12h",
       "name_placeholder": "ITEM_ATTACKBOOST_25PERCENT_12H_NAME",
-      "priority": 55200,
+      "priority": 55400,
       "type": "item"
     },
     {
@@ -4147,7 +4165,7 @@
       "image": "icon_attack.png",
       "name": "item_AttackBoost_25percent_24h",
       "name_placeholder": "ITEM_ATTACKBOOST_25PERCENT_24H_NAME",
-      "priority": 55300,
+      "priority": 55500,
       "type": "item"
     },
     {
@@ -4156,7 +4174,7 @@
       "image": "icon_attack.png",
       "name": "item_AttackBoost_25percent_7d",
       "name_placeholder": "ITEM_ATTACKBOOST_25PERCENT_7D_NAME",
-      "priority": 55400,
+      "priority": 55600,
       "type": "item"
     },
     {
@@ -4165,7 +4183,7 @@
       "image": "icon_attack.png",
       "name": "item_AttackBoost_30percent_12h",
       "name_placeholder": "ITEM_ATTACKBOOST_30PERCENT_12H_NAME",
-      "priority": 55500,
+      "priority": 55700,
       "type": "item"
     },
     {
@@ -4174,7 +4192,7 @@
       "image": "icon_attack.png",
       "name": "item_AttackBoost_30percent_24h",
       "name_placeholder": "ITEM_ATTACKBOOST_30PERCENT_24H_NAME",
-      "priority": 55600,
+      "priority": 55800,
       "type": "item"
     },
     {
@@ -4183,7 +4201,7 @@
       "image": "icon_attack.png",
       "name": "item_AttackBoost_30percent_7d",
       "name_placeholder": "ITEM_ATTACKBOOST_30PERCENT_7D_NAME",
-      "priority": 55700,
+      "priority": 55900,
       "type": "item"
     },
     {
@@ -4192,7 +4210,7 @@
       "image": "icon_attack.png",
       "name": "item_AttackBoost_40percent_1h",
       "name_placeholder": "ITEM_ATTACKBOOST_40PERCENT_1H_NAME",
-      "priority": 55900,
+      "priority": 56100,
       "type": "item"
     },
     {
@@ -4201,7 +4219,7 @@
       "image": "icon_attack.png",
       "name": "item_AttackBoost_40percent_6h",
       "name_placeholder": "ITEM_ATTACKBOOST_40PERCENT_6H_NAME",
-      "priority": 56000,
+      "priority": 56200,
       "type": "item"
     },
     {
@@ -4210,7 +4228,7 @@
       "image": "icon_attack.png",
       "name": "item_AttackBoost_40percent_12h",
       "name_placeholder": "ITEM_ATTACKBOOST_40PERCENT_12H_NAME",
-      "priority": 56100,
+      "priority": 56300,
       "type": "item"
     },
     {
@@ -4219,7 +4237,7 @@
       "image": "icon_attack.png",
       "name": "item_AttackBoost_40percent_24h",
       "name_placeholder": "ITEM_ATTACKBOOST_40PERCENT_24H_NAME",
-      "priority": 56200,
+      "priority": 56400,
       "type": "item"
     },
     {
@@ -4228,7 +4246,7 @@
       "image": "icon_attack.png",
       "name": "item_AttackBoost_40percent_7d",
       "name_placeholder": "ITEM_ATTACKBOOST_40PERCENT_7D_NAME",
-      "priority": 56300,
+      "priority": 56500,
       "type": "item"
     },
     {
@@ -4237,7 +4255,7 @@
       "image": "icon_health.png",
       "name": "item_HealthBoost_10percent_1h",
       "name_placeholder": "ITEM_HEALTHBOOST_10PERCENT_1H_NAME",
-      "priority": 56500,
+      "priority": 56700,
       "type": "item"
     },
     {
@@ -4246,7 +4264,7 @@
       "image": "icon_health.png",
       "name": "item_HealthBoost_10percent_6h",
       "name_placeholder": "ITEM_HEALTHBOOST_10PERCENT_6H_NAME",
-      "priority": 56600,
+      "priority": 56800,
       "type": "item"
     },
     {
@@ -4255,7 +4273,7 @@
       "image": "icon_health.png",
       "name": "item_HealthBoost_10percent_12h",
       "name_placeholder": "ITEM_HEALTHBOOST_10PERCENT_12H_NAME",
-      "priority": 56700,
+      "priority": 56900,
       "type": "item"
     },
     {
@@ -4264,7 +4282,7 @@
       "image": "icon_health.png",
       "name": "item_HealthBoost_10percent_24h",
       "name_placeholder": "ITEM_HEALTHBOOST_10PERCENT_24H_NAME",
-      "priority": 56800,
+      "priority": 57000,
       "type": "item"
     },
     {
@@ -4273,7 +4291,7 @@
       "image": "icon_health.png",
       "name": "item_HealthBoost_20percent_12h",
       "name_placeholder": "ITEM_HEALTHBOOST_20PERCENT_12H_NAME",
-      "priority": 56900,
+      "priority": 57100,
       "type": "item"
     },
     {
@@ -4282,7 +4300,7 @@
       "image": "icon_health.png",
       "name": "item_HealthBoost_20percent_24h",
       "name_placeholder": "ITEM_HEALTHBOOST_20PERCENT_24H_NAME",
-      "priority": 57000,
+      "priority": 57200,
       "type": "item"
     },
     {
@@ -4291,7 +4309,7 @@
       "image": "icon_health.png",
       "name": "item_HealthBoost_20percent_7d",
       "name_placeholder": "ITEM_HEALTHBOOST_20PERCENT_7D_NAME",
-      "priority": 57100,
+      "priority": 57300,
       "type": "item"
     },
     {
@@ -4300,7 +4318,7 @@
       "image": "icon_health.png",
       "name": "item_HealthBoost_25percent_12h",
       "name_placeholder": "ITEM_HEALTHBOOST_25PERCENT_12H_NAME",
-      "priority": 57200,
+      "priority": 57400,
       "type": "item"
     },
     {
@@ -4309,7 +4327,7 @@
       "image": "icon_health.png",
       "name": "item_HealthBoost_25percent_24h",
       "name_placeholder": "ITEM_HEALTHBOOST_25PERCENT_24H_NAME",
-      "priority": 57300,
+      "priority": 57500,
       "type": "item"
     },
     {
@@ -4318,7 +4336,7 @@
       "image": "icon_health.png",
       "name": "item_HealthBoost_25percent_7d",
       "name_placeholder": "ITEM_HEALTHBOOST_25PERCENT_7D_NAME",
-      "priority": 57400,
+      "priority": 57600,
       "type": "item"
     },
     {
@@ -4327,7 +4345,7 @@
       "image": "icon_health.png",
       "name": "item_HealthBoost_30percent_12h",
       "name_placeholder": "ITEM_HEALTHBOOST_30PERCENT_12H_NAME",
-      "priority": 57500,
+      "priority": 57700,
       "type": "item"
     },
     {
@@ -4336,7 +4354,7 @@
       "image": "icon_health.png",
       "name": "item_HealthBoost_30percent_24h",
       "name_placeholder": "ITEM_HEALTHBOOST_30PERCENT_24H_NAME",
-      "priority": 57600,
+      "priority": 57800,
       "type": "item"
     },
     {
@@ -4345,7 +4363,7 @@
       "image": "icon_health.png",
       "name": "item_HealthBoost_30percent_7d",
       "name_placeholder": "ITEM_HEALTHBOOST_30PERCENT_7D_NAME",
-      "priority": 57700,
+      "priority": 57900,
       "type": "item"
     },
     {
@@ -4354,7 +4372,7 @@
       "image": "icon_defense.png",
       "name": "item_DefenseBoost_10percent_1h",
       "name_placeholder": "ITEM_DEFENSEBOOST_10PERCENT_1H_NAME",
-      "priority": 57800,
+      "priority": 58000,
       "type": "item"
     },
     {
@@ -4363,7 +4381,7 @@
       "image": "icon_defense.png",
       "name": "item_DefenseBoost_10percent_6h",
       "name_placeholder": "ITEM_DEFENSEBOOST_10PERCENT_6H_NAME",
-      "priority": 57900,
+      "priority": 58100,
       "type": "item"
     },
     {
@@ -4372,7 +4390,7 @@
       "image": "icon_defense.png",
       "name": "item_DefenseBoost_10percent_12h",
       "name_placeholder": "ITEM_DEFENSEBOOST_10PERCENT_12H_NAME",
-      "priority": 58000,
+      "priority": 58200,
       "type": "item"
     },
     {
@@ -4381,7 +4399,7 @@
       "image": "icon_defense.png",
       "name": "item_DefenseBoost_10percent_24h",
       "name_placeholder": "ITEM_DEFENSEBOOST_10PERCENT_24H_NAME",
-      "priority": 58100,
+      "priority": 58300,
       "type": "item"
     },
     {
@@ -4390,7 +4408,7 @@
       "image": "icon_defense.png",
       "name": "item_DefenseBoost_20percent_12h",
       "name_placeholder": "ITEM_DEFENSEBOOST_20PERCENT_12H_NAME",
-      "priority": 58200,
+      "priority": 58400,
       "type": "item"
     },
     {
@@ -4399,7 +4417,7 @@
       "image": "icon_defense.png",
       "name": "item_DefenseBoost_20percent_24h",
       "name_placeholder": "ITEM_DEFENSEBOOST_20PERCENT_24H_NAME",
-      "priority": 58300,
+      "priority": 58500,
       "type": "item"
     },
     {
@@ -4408,7 +4426,7 @@
       "image": "icon_defense.png",
       "name": "item_DefenseBoost_20percent_7d",
       "name_placeholder": "ITEM_DEFENSEBOOST_20PERCENT_7D_NAME",
-      "priority": 58400,
+      "priority": 58600,
       "type": "item"
     },
     {
@@ -4417,7 +4435,7 @@
       "image": "icon_defense.png",
       "name": "item_DefenseBoost_25percent_12h",
       "name_placeholder": "ITEM_DEFENSEBOOST_25PERCENT_12H_NAME",
-      "priority": 58500,
+      "priority": 58700,
       "type": "item"
     },
     {
@@ -4426,7 +4444,7 @@
       "image": "icon_defense.png",
       "name": "item_DefenseBoost_25percent_24h",
       "name_placeholder": "ITEM_DEFENSEBOOST_25PERCENT_24H_NAME",
-      "priority": 58600,
+      "priority": 58800,
       "type": "item"
     },
     {
@@ -4435,7 +4453,7 @@
       "image": "icon_defense.png",
       "name": "item_DefenseBoost_25percent_7d",
       "name_placeholder": "ITEM_DEFENSEBOOST_25PERCENT_7D_NAME",
-      "priority": 58700,
+      "priority": 58900,
       "type": "item"
     },
     {
@@ -4444,7 +4462,7 @@
       "image": "icon_defense.png",
       "name": "item_DefenseBoost_30percent_12h",
       "name_placeholder": "ITEM_DEFENSEBOOST_30PERCENT_12H_NAME",
-      "priority": 58800,
+      "priority": 59000,
       "type": "item"
     },
     {
@@ -4453,7 +4471,7 @@
       "image": "icon_defense.png",
       "name": "item_DefenseBoost_30percent_24h",
       "name_placeholder": "ITEM_DEFENSEBOOST_30PERCENT_24H_NAME",
-      "priority": 58900,
+      "priority": 59100,
       "type": "item"
     },
     {
@@ -4462,7 +4480,7 @@
       "image": "icon_defense.png",
       "name": "item_DefenseBoost_30percent_7d",
       "name_placeholder": "ITEM_DEFENSEBOOST_30PERCENT_7D_NAME",
-      "priority": 59000,
+      "priority": 59200,
       "type": "item"
     },
     {
@@ -4471,7 +4489,7 @@
       "image": "icon_small_upkeep.png",
       "name": "item_UpkeepReducer_25percent_1h",
       "name_placeholder": "ITEM_UPKEEPREDUCER_25PERCENT_1H_NAME",
-      "priority": 59100,
+      "priority": 59300,
       "type": "item"
     },
     {
@@ -4480,7 +4498,7 @@
       "image": "icon_small_upkeep.png",
       "name": "item_UpkeepReducer_25percent_6h",
       "name_placeholder": "ITEM_UPKEEPREDUCER_25PERCENT_6H_NAME",
-      "priority": 59200,
+      "priority": 59400,
       "type": "item"
     },
     {
@@ -4489,7 +4507,7 @@
       "image": "icon_small_upkeep.png",
       "name": "item_UpkeepReducer_25percent_12h",
       "name_placeholder": "ITEM_UPKEEPREDUCER_25PERCENT_12H_NAME",
-      "priority": 59300,
+      "priority": 59500,
       "type": "item"
     },
     {
@@ -4498,7 +4516,7 @@
       "image": "icon_small_upkeep.png",
       "name": "item_UpkeepReducer_25percent_24h",
       "name_placeholder": "ITEM_UPKEEPREDUCER_25PERCENT_24H_NAME",
-      "priority": 59400,
+      "priority": 59600,
       "type": "item"
     },
     {
@@ -4507,7 +4525,7 @@
       "image": "icon_small_upkeep.png",
       "name": "item_UpkeepReducer_25percent_3d",
       "name_placeholder": "ITEM_UPKEEPREDUCER_25PERCENT_3D_NAME",
-      "priority": 59500,
+      "priority": 59700,
       "type": "item"
     },
     {
@@ -4516,7 +4534,7 @@
       "image": "icon_small_upkeep.png",
       "name": "item_UpkeepReducer_25percent_7d",
       "name_placeholder": "ITEM_UPKEEPREDUCER_25PERCENT_7D_NAME",
-      "priority": 59600,
+      "priority": 59800,
       "type": "item"
     },
     {
@@ -4525,7 +4543,7 @@
       "image": "icon_small_upkeep.png",
       "name": "item_UpkeepReducer_25percent_30d",
       "name_placeholder": "ITEM_UPKEEPREDUCER_25PERCENT_30D_NAME",
-      "priority": 59700,
+      "priority": 59900,
       "type": "item"
     },
     {
@@ -4534,7 +4552,7 @@
       "image": "icon_largeUpkeep.png",
       "name": "item_UpkeepReducer_50percent_24h",
       "name_placeholder": "ITEM_UPKEEPREDUCER_50PERCENT_24H_NAME",
-      "priority": 59800,
+      "priority": 60000,
       "type": "item"
     },
     {
@@ -4543,7 +4561,7 @@
       "image": "icon_largeUpkeep.png",
       "name": "item_UpkeepReducer_50percent_3d",
       "name_placeholder": "ITEM_UPKEEPREDUCER_50PERCENT_3D_NAME",
-      "priority": 59900,
+      "priority": 60100,
       "type": "item"
     },
     {
@@ -4552,7 +4570,7 @@
       "image": "icon_largeUpkeep.png",
       "name": "item_UpkeepReducer_50percent_7d",
       "name_placeholder": "ITEM_UPKEEPREDUCER_50PERCENT_7D_NAME",
-      "priority": 60000,
+      "priority": 60200,
       "type": "item"
     },
     {
@@ -4561,7 +4579,7 @@
       "image": "icon_largeUpkeep.png",
       "name": "item_UpkeepReducer_50percent_30d",
       "name_placeholder": "ITEM_UPKEEPREDUCER_50PERCENT_30D_NAME",
-      "priority": 60100,
+      "priority": 60300,
       "type": "item"
     },
     {
@@ -4570,7 +4588,7 @@
       "image": "icon_scout.png",
       "name": "item_AntiScout_2h",
       "name_placeholder": "ITEM_ANTISCOUT_2H_NAME",
-      "priority": 60200,
+      "priority": 60400,
       "type": "item"
     },
     {
@@ -4579,7 +4597,7 @@
       "image": "icon_scout.png",
       "name": "item_AntiScout_12h",
       "name_placeholder": "ITEM_ANTISCOUT_12H_NAME",
-      "priority": 60300,
+      "priority": 60500,
       "type": "item"
     },
     {
@@ -4588,7 +4606,7 @@
       "image": "icon_scout.png",
       "name": "item_AntiScout_24h",
       "name_placeholder": "ITEM_ANTISCOUT_24H_NAME",
-      "priority": 60400,
+      "priority": 60600,
       "type": "item"
     },
     {
@@ -4597,7 +4615,7 @@
       "image": "icon_scout.png",
       "name": "item_AntiScout_3d",
       "name_placeholder": "ITEM_ANTISCOUT_3D_NAME",
-      "priority": 60500,
+      "priority": 60700,
       "type": "item"
     },
     {
@@ -4606,7 +4624,7 @@
       "image": "icon_structure_farm.png",
       "name": "item_FarmPlotBoost_100percent_24h",
       "name_placeholder": "ITEM_FARMPLOTBOOST_100PERCENT_24H_NAME",
-      "priority": 60600,
+      "priority": 60800,
       "type": "item"
     },
     {
@@ -4615,7 +4633,7 @@
       "image": "icon_structure_sawmill.png",
       "name": "item_SawmillPlotBoost_100percent_24h",
       "name_placeholder": "ITEM_SAWMILLPLOTBOOST_100PERCENT_24H_NAME",
-      "priority": 60700,
+      "priority": 60900,
       "type": "item"
     },
     {
@@ -4624,7 +4642,7 @@
       "image": "icon_itm_quarry.png",
       "name": "item_StoneQuarryPlotBoost_100percent_24h",
       "name_placeholder": "ITEM_STONEQUARRYPLOTBOOST_100PERCENT_24H_NAME",
-      "priority": 60800,
+      "priority": 61000,
       "type": "item"
     },
     {
@@ -4633,7 +4651,7 @@
       "image": "icon_itm_mine.png",
       "name": "item_IronMinePlotBoost_100percent_24h",
       "name_placeholder": "ITEM_IRONMINEPLOTBOOST_100PERCENT_24H_NAME",
-      "priority": 60900,
+      "priority": 61100,
       "type": "item"
     },
     {
@@ -4642,7 +4660,7 @@
       "image": "icon_march.png",
       "name": "item_MarchSpeedup_25percent",
       "name_placeholder": "ITEM_MARCHSPEEDUP_25PERCENT_NAME",
-      "priority": 61000,
+      "priority": 61200,
       "type": "item"
     },
     {
@@ -4651,7 +4669,7 @@
       "image": "icon_march.png",
       "name": "item_MarchSpeedup_50percent",
       "name_placeholder": "ITEM_MARCHSPEEDUP_50PERCENT_NAME",
-      "priority": 61100,
+      "priority": 61300,
       "type": "item"
     },
     {
@@ -4660,7 +4678,7 @@
       "image": "icon_march.png",
       "name": "item_MarchSpeedup_75percent",
       "name_placeholder": "ITEM_MARCHSPEEDUP_75PERCENT_NAME",
-      "priority": 61200,
+      "priority": 61400,
       "type": "item"
     },
     {
@@ -4669,7 +4687,7 @@
       "image": "icon_march.png",
       "name": "item_MarchSpeedBoost_10percent_12h",
       "name_placeholder": "ITEM_MARCHSPEEDBOOST_10PERCENT_12H_NAME",
-      "priority": 61300,
+      "priority": 61500,
       "type": "item"
     },
     {
@@ -4678,7 +4696,7 @@
       "image": "icon_march.png",
       "name": "item_MarchSpeedBoost_10percent_24h",
       "name_placeholder": "ITEM_MARCHSPEEDBOOST_10PERCENT_24H_NAME",
-      "priority": 61400,
+      "priority": 61600,
       "type": "item"
     },
     {
@@ -4687,7 +4705,7 @@
       "image": "icon_march.png",
       "name": "item_MarchSpeedBoost_20percent_12h",
       "name_placeholder": "ITEM_MARCHSPEEDBOOST_20PERCENT_12H_NAME",
-      "priority": 61500,
+      "priority": 61700,
       "type": "item"
     },
     {
@@ -4696,7 +4714,7 @@
       "image": "icon_march.png",
       "name": "item_MarchSpeedBoost_20percent_24h",
       "name_placeholder": "ITEM_MARCHSPEEDBOOST_20PERCENT_24H_NAME",
-      "priority": 61600,
+      "priority": 61800,
       "type": "item"
     },
     {
@@ -4705,7 +4723,7 @@
       "image": "icon_march.png",
       "name": "item_MarchSpeedBoost_20percent_7d",
       "name_placeholder": "ITEM_MARCHSPEEDBOOST_20PERCENT_7D_NAME",
-      "priority": 61700,
+      "priority": 61900,
       "type": "item"
     },
     {
@@ -4714,7 +4732,7 @@
       "image": "icon_march.png",
       "name": "item_MarchSpeedBoost_25percent_12h",
       "name_placeholder": "ITEM_MARCHSPEEDBOOST_25PERCENT_12H_NAME",
-      "priority": 61800,
+      "priority": 62000,
       "type": "item"
     },
     {
@@ -4723,7 +4741,7 @@
       "image": "icon_march.png",
       "name": "item_MarchSpeedBoost_25percent_24h",
       "name_placeholder": "ITEM_MARCHSPEEDBOOST_25PERCENT_24H_NAME",
-      "priority": 61900,
+      "priority": 62100,
       "type": "item"
     },
     {
@@ -4732,7 +4750,7 @@
       "image": "icon_march.png",
       "name": "item_MarchSpeedBoost_25percent_7d",
       "name_placeholder": "ITEM_MARCHSPEEDBOOST_25PERCENT_7D_NAME",
-      "priority": 62000,
+      "priority": 62200,
       "type": "item"
     },
     {
@@ -4741,7 +4759,7 @@
       "image": "icon_march.png",
       "name": "item_MarchSpeedBoost_30percent_12h",
       "name_placeholder": "ITEM_MARCHSPEEDBOOST_30PERCENT_12H_NAME",
-      "priority": 62100,
+      "priority": 62300,
       "type": "item"
     },
     {
@@ -4750,7 +4768,7 @@
       "image": "icon_march.png",
       "name": "item_MarchSpeedBoost_30percent_24h",
       "name_placeholder": "ITEM_MARCHSPEEDBOOST_30PERCENT_24H_NAME",
-      "priority": 62200,
+      "priority": 62400,
       "type": "item"
     },
     {
@@ -4759,7 +4777,7 @@
       "image": "icon_march.png",
       "name": "item_MarchSpeedBoost_30percent_7d",
       "name_placeholder": "ITEM_MARCHSPEEDBOOST_30PERCENT_7D_NAME",
-      "priority": 62300,
+      "priority": 62500,
       "type": "item"
     },
     {
@@ -4768,7 +4786,7 @@
       "image": "icon_buff_marching_resource.png",
       "name": "item_MarchSpeedBoostVsResource_10percent_12h",
       "name_placeholder": "ITEM_MARCHSPEEDBOOSTVSRESOURCE_10PERCENT_12H_NAME",
-      "priority": 62400,
+      "priority": 62600,
       "type": "item"
     },
     {
@@ -4777,7 +4795,7 @@
       "image": "icon_buff_marching_resource.png",
       "name": "item_MarchSpeedBoostVsResource_10percent_24h",
       "name_placeholder": "ITEM_MARCHSPEEDBOOSTVSRESOURCE_10PERCENT_24H_NAME",
-      "priority": 62500,
+      "priority": 62700,
       "type": "item"
     },
     {
@@ -4786,7 +4804,7 @@
       "image": "icon_buff_marching_resource.png",
       "name": "item_MarchSpeedBoostVsResource_20percent_12h",
       "name_placeholder": "ITEM_MARCHSPEEDBOOSTVSRESOURCE_20PERCENT_12H_NAME",
-      "priority": 62600,
+      "priority": 62800,
       "type": "item"
     },
     {
@@ -4795,7 +4813,7 @@
       "image": "icon_buff_marching_resource.png",
       "name": "item_MarchSpeedBoostVsResource_20percent_24h",
       "name_placeholder": "ITEM_MARCHSPEEDBOOSTVSRESOURCE_20PERCENT_24H_NAME",
-      "priority": 62700,
+      "priority": 62900,
       "type": "item"
     },
     {
@@ -4804,7 +4822,7 @@
       "image": "icon_buff_marching_resource.png",
       "name": "item_MarchSpeedBoostVsResource_20percent_7d",
       "name_placeholder": "ITEM_MARCHSPEEDBOOSTVSRESOURCE_20PERCENT_7D_NAME",
-      "priority": 62800,
+      "priority": 63000,
       "type": "item"
     },
     {
@@ -4813,7 +4831,7 @@
       "image": "icon_buff_marching_resource.png",
       "name": "item_MarchSpeedBoostVsResource_25percent_12h",
       "name_placeholder": "ITEM_MARCHSPEEDBOOSTVSRESOURCE_25PERCENT_12H_NAME",
-      "priority": 62900,
+      "priority": 63100,
       "type": "item"
     },
     {
@@ -4822,7 +4840,7 @@
       "image": "icon_buff_marching_resource.png",
       "name": "item_MarchSpeedBoostVsResource_25percent_24h",
       "name_placeholder": "ITEM_MARCHSPEEDBOOSTVSRESOURCE_25PERCENT_24H_NAME",
-      "priority": 63000,
+      "priority": 63200,
       "type": "item"
     },
     {
@@ -4831,7 +4849,7 @@
       "image": "icon_buff_marching_resource.png",
       "name": "item_MarchSpeedBoostVsResource_25percent_7d",
       "name_placeholder": "ITEM_MARCHSPEEDBOOSTVSRESOURCE_25PERCENT_7D_NAME",
-      "priority": 63100,
+      "priority": 63300,
       "type": "item"
     },
     {
@@ -4840,7 +4858,7 @@
       "image": "icon_buff_marching_resource.png",
       "name": "item_MarchSpeedBoostVsResource_30percent_12h",
       "name_placeholder": "ITEM_MARCHSPEEDBOOSTVSRESOURCE_30PERCENT_12H_NAME",
-      "priority": 63200,
+      "priority": 63400,
       "type": "item"
     },
     {
@@ -4849,7 +4867,7 @@
       "image": "icon_buff_marching_resource.png",
       "name": "item_MarchSpeedBoostVsResource_30percent_24h",
       "name_placeholder": "ITEM_MARCHSPEEDBOOSTVSRESOURCE_30PERCENT_24H_NAME",
-      "priority": 63300,
+      "priority": 63500,
       "type": "item"
     },
     {
@@ -4858,7 +4876,7 @@
       "image": "icon_buff_marching_resource.png",
       "name": "item_MarchSpeedBoostVsResource_30percent_7d",
       "name_placeholder": "ITEM_MARCHSPEEDBOOSTVSRESOURCE_30PERCENT_7D_NAME",
-      "priority": 63400,
+      "priority": 63600,
       "type": "item"
     },
     {
@@ -4867,7 +4885,7 @@
       "image": "icon_buff_marching_npc.png",
       "name": "item_MarchSpeedBoostVsNPC_10percent_12h",
       "name_placeholder": "ITEM_MARCHSPEEDBOOSTVSNPC_10PERCENT_12H_NAME",
-      "priority": 63500,
+      "priority": 63700,
       "type": "item"
     },
     {
@@ -4876,7 +4894,7 @@
       "image": "icon_buff_marching_npc.png",
       "name": "item_MarchSpeedBoostVsNPC_10percent_24h",
       "name_placeholder": "ITEM_MARCHSPEEDBOOSTVSNPC_10PERCENT_24H_NAME",
-      "priority": 63600,
+      "priority": 63800,
       "type": "item"
     },
     {
@@ -4885,7 +4903,7 @@
       "image": "icon_buff_marching_npc.png",
       "name": "item_MarchSpeedBoostVsNPC_20percent_12h",
       "name_placeholder": "ITEM_MARCHSPEEDBOOSTVSNPC_20PERCENT_12H_NAME",
-      "priority": 63700,
+      "priority": 63900,
       "type": "item"
     },
     {
@@ -4894,7 +4912,7 @@
       "image": "icon_buff_marching_npc.png",
       "name": "item_MarchSpeedBoostVsNPC_20percent_24h",
       "name_placeholder": "ITEM_MARCHSPEEDBOOSTVSNPC_20PERCENT_24H_NAME",
-      "priority": 63800,
+      "priority": 64000,
       "type": "item"
     },
     {
@@ -4903,7 +4921,7 @@
       "image": "icon_buff_marching_npc.png",
       "name": "item_MarchSpeedBoostVsNPC_20percent_7d",
       "name_placeholder": "ITEM_MARCHSPEEDBOOSTVSNPC_20PERCENT_7D_NAME",
-      "priority": 63900,
+      "priority": 64100,
       "type": "item"
     },
     {
@@ -4912,7 +4930,7 @@
       "image": "icon_buff_marching_npc.png",
       "name": "item_MarchSpeedBoostVsNPC_25percent_12h",
       "name_placeholder": "ITEM_MARCHSPEEDBOOSTVSNPC_25PERCENT_12H_NAME",
-      "priority": 64000,
+      "priority": 64200,
       "type": "item"
     },
     {
@@ -4921,7 +4939,7 @@
       "image": "icon_buff_marching_npc.png",
       "name": "item_MarchSpeedBoostVsNPC_25percent_24h",
       "name_placeholder": "ITEM_MARCHSPEEDBOOSTVSNPC_25PERCENT_24H_NAME",
-      "priority": 64100,
+      "priority": 64300,
       "type": "item"
     },
     {
@@ -4930,7 +4948,7 @@
       "image": "icon_buff_marching_npc.png",
       "name": "item_MarchSpeedBoostVsNPC_25percent_7d",
       "name_placeholder": "ITEM_MARCHSPEEDBOOSTVSNPC_25PERCENT_7D_NAME",
-      "priority": 64200,
+      "priority": 64400,
       "type": "item"
     },
     {
@@ -4939,7 +4957,7 @@
       "image": "icon_buff_marching_npc.png",
       "name": "item_MarchSpeedBoostVsNPC_30percent_12h",
       "name_placeholder": "ITEM_MARCHSPEEDBOOSTVSNPC_30PERCENT_12H_NAME",
-      "priority": 64300,
+      "priority": 64500,
       "type": "item"
     },
     {
@@ -4948,7 +4966,7 @@
       "image": "icon_buff_marching_npc.png",
       "name": "item_MarchSpeedBoostVsNPC_30percent_24h",
       "name_placeholder": "ITEM_MARCHSPEEDBOOSTVSNPC_30PERCENT_24H_NAME",
-      "priority": 64400,
+      "priority": 64600,
       "type": "item"
     },
     {
@@ -4957,7 +4975,7 @@
       "image": "icon_buff_marching_npc.png",
       "name": "item_MarchSpeedBoostVsNPC_30percent_7d",
       "name_placeholder": "ITEM_MARCHSPEEDBOOSTVSNPC_30PERCENT_7D_NAME",
-      "priority": 64500,
+      "priority": 64700,
       "type": "item"
     },
     {
@@ -4966,7 +4984,7 @@
       "image": "icon_buff_marching_seatofpower.png",
       "name": "item_MarchSpeedBoostVsSeatOfPower_10percent_12h",
       "name_placeholder": "ITEM_MARCHSPEEDBOOSTVSSEATOFPOWER_10PERCENT_12H_NAME",
-      "priority": 64600,
+      "priority": 64800,
       "type": "item"
     },
     {
@@ -4975,7 +4993,7 @@
       "image": "icon_buff_marching_seatofpower.png",
       "name": "item_MarchSpeedBoostVsSeatOfPower_10percent_24h",
       "name_placeholder": "ITEM_MARCHSPEEDBOOSTVSSEATOFPOWER_10PERCENT_24H_NAME",
-      "priority": 64700,
+      "priority": 64900,
       "type": "item"
     },
     {
@@ -4984,7 +5002,7 @@
       "image": "icon_buff_marching_seatofpower.png",
       "name": "item_MarchSpeedBoostVsSeatOfPower_20percent_12h",
       "name_placeholder": "ITEM_MARCHSPEEDBOOSTVSSEATOFPOWER_20PERCENT_12H_NAME",
-      "priority": 64800,
+      "priority": 65000,
       "type": "item"
     },
     {
@@ -4993,7 +5011,7 @@
       "image": "icon_buff_marching_seatofpower.png",
       "name": "item_MarchSpeedBoostVsSeatOfPower_20percent_24h",
       "name_placeholder": "ITEM_MARCHSPEEDBOOSTVSSEATOFPOWER_20PERCENT_24H_NAME",
-      "priority": 64900,
+      "priority": 65100,
       "type": "item"
     },
     {
@@ -5002,7 +5020,7 @@
       "image": "icon_buff_marching_seatofpower.png",
       "name": "item_MarchSpeedBoostVsSeatOfPower_20percent_7d",
       "name_placeholder": "ITEM_MARCHSPEEDBOOSTVSSEATOFPOWER_20PERCENT_7D_NAME",
-      "priority": 65000,
+      "priority": 65200,
       "type": "item"
     },
     {
@@ -5011,7 +5029,7 @@
       "image": "icon_buff_marching_seatofpower.png",
       "name": "item_MarchSpeedBoostVsSeatOfPower_25percent_12h",
       "name_placeholder": "ITEM_MARCHSPEEDBOOSTVSSEATOFPOWER_25PERCENT_12H_NAME",
-      "priority": 65100,
+      "priority": 65300,
       "type": "item"
     },
     {
@@ -5020,7 +5038,7 @@
       "image": "icon_buff_marching_seatofpower.png",
       "name": "item_MarchSpeedBoostVsSeatOfPower_25percent_24h",
       "name_placeholder": "ITEM_MARCHSPEEDBOOSTVSSEATOFPOWER_25PERCENT_24H_NAME",
-      "priority": 65200,
+      "priority": 65400,
       "type": "item"
     },
     {
@@ -5029,7 +5047,7 @@
       "image": "icon_buff_marching_seatofpower.png",
       "name": "item_MarchSpeedBoostVsSeatOfPower_25percent_7d",
       "name_placeholder": "ITEM_MARCHSPEEDBOOSTVSSEATOFPOWER_25PERCENT_7D_NAME",
-      "priority": 65300,
+      "priority": 65500,
       "type": "item"
     },
     {
@@ -5038,7 +5056,7 @@
       "image": "icon_buff_marching_seatofpower.png",
       "name": "item_MarchSpeedBoostVsSeatOfPower_30percent_12h",
       "name_placeholder": "ITEM_MARCHSPEEDBOOSTVSSEATOFPOWER_30PERCENT_12H_NAME",
-      "priority": 65400,
+      "priority": 65600,
       "type": "item"
     },
     {
@@ -5047,7 +5065,7 @@
       "image": "icon_buff_marching_seatofpower.png",
       "name": "item_MarchSpeedBoostVsSeatOfPower_30percent_24h",
       "name_placeholder": "ITEM_MARCHSPEEDBOOSTVSSEATOFPOWER_30PERCENT_24H_NAME",
-      "priority": 65500,
+      "priority": 65700,
       "type": "item"
     },
     {
@@ -5056,7 +5074,7 @@
       "image": "icon_buff_marching_seatofpower.png",
       "name": "item_MarchSpeedBoostVsSeatOfPower_30percent_7d",
       "name_placeholder": "ITEM_MARCHSPEEDBOOSTVSSEATOFPOWER_30PERCENT_7D_NAME",
-      "priority": 65600,
+      "priority": 65800,
       "type": "item"
     },
     {
@@ -5065,7 +5083,7 @@
       "image": "dragon_talent_hatchling_march_size_max.png",
       "name": "item_MarchSize_1000_2h",
       "name_placeholder": "ITEM_MARCHSIZE_1000_2H_NAME",
-      "priority": 65700,
+      "priority": 65900,
       "type": "item"
     },
     {
@@ -5074,7 +5092,7 @@
       "image": "dragon_talent_hatchling_march_size_max.png",
       "name": "item_MarchSize_1000_12h",
       "name_placeholder": "ITEM_MARCHSIZE_1000_12H_NAME",
-      "priority": 65800,
+      "priority": 66000,
       "type": "item"
     },
     {
@@ -5083,7 +5101,7 @@
       "image": "dragon_talent_hatchling_march_size_max.png",
       "name": "item_MarchSize_1000_24h",
       "name_placeholder": "ITEM_MARCHSIZE_1000_24H_NAME",
-      "priority": 65900,
+      "priority": 66100,
       "type": "item"
     },
     {
@@ -5092,7 +5110,7 @@
       "image": "dragon_talent_hatchling_march_size_max.png",
       "name": "item_MarchSize_1000_1h",
       "name_placeholder": "ITEM_MARCHSIZE_1000_1H_NAME",
-      "priority": 66000,
+      "priority": 66200,
       "type": "item"
     },
     {
@@ -5101,7 +5119,7 @@
       "image": "dragon_talent_hatchling_march_size_max.png",
       "name": "item_MarchSize_2000_2h",
       "name_placeholder": "ITEM_MARCHSIZE_2000_2H_NAME",
-      "priority": 66100,
+      "priority": 66300,
       "type": "item"
     },
     {
@@ -5110,7 +5128,7 @@
       "image": "dragon_talent_hatchling_march_size_max.png",
       "name": "item_MarchSize_2000_12h",
       "name_placeholder": "ITEM_MARCHSIZE_2000_12H_NAME",
-      "priority": 66200,
+      "priority": 66400,
       "type": "item"
     },
     {
@@ -5119,7 +5137,7 @@
       "image": "dragon_talent_hatchling_march_size_max.png",
       "name": "item_MarchSize_2000_24h",
       "name_placeholder": "ITEM_MARCHSIZE_2000_24H_NAME",
-      "priority": 66300,
+      "priority": 66500,
       "type": "item"
     },
     {
@@ -5128,7 +5146,7 @@
       "image": "dragon_talent_hatchling_march_size_max.png",
       "name": "item_MarchSize_4000_12h",
       "name_placeholder": "ITEM_MARCHSIZE_4000_12H_NAME",
-      "priority": 66400,
+      "priority": 66600,
       "type": "item"
     },
     {
@@ -5137,7 +5155,7 @@
       "image": "dragon_talent_hatchling_march_size_max.png",
       "name": "item_MarchSize_4000_24h",
       "name_placeholder": "ITEM_MARCHSIZE_4000_24H_NAME",
-      "priority": 66500,
+      "priority": 66700,
       "type": "item"
     },
     {
@@ -5146,7 +5164,7 @@
       "image": "dragon_talent_hatchling_march_size_max.png",
       "name": "item_MarchSize_4000_7d",
       "name_placeholder": "ITEM_MARCHSIZE_4000_7D_NAME",
-      "priority": 66600,
+      "priority": 66800,
       "type": "item"
     },
     {
@@ -5155,7 +5173,7 @@
       "image": "dragon_talent_hatchling_march_size_max.png",
       "name": "item_MarchSize_8000_12h",
       "name_placeholder": "ITEM_MARCHSIZE_8000_12H_NAME",
-      "priority": 66700,
+      "priority": 66900,
       "type": "item"
     },
     {
@@ -5164,7 +5182,7 @@
       "image": "dragon_talent_hatchling_march_size_max.png",
       "name": "item_MarchSize_8000_24h",
       "name_placeholder": "ITEM_MARCHSIZE_8000_24H_NAME",
-      "priority": 66800,
+      "priority": 67000,
       "type": "item"
     },
     {
@@ -5173,7 +5191,7 @@
       "image": "dragon_talent_hatchling_march_size_max.png",
       "name": "item_MarchSize_8000_7d",
       "name_placeholder": "ITEM_MARCHSIZE_8000_7D_NAME",
-      "priority": 66900,
+      "priority": 67100,
       "type": "item"
     },
     {
@@ -5389,7 +5407,7 @@
       "image": "icon_resource_lordExp.png",
       "name": "item_boost_TroopAttackVsPlayerSeatOfPower_mtx",
       "name_placeholder": "ITEM_BOOST_TROOPATTACKVSPLAYERSEATOFPOWER_MTX",
-      "priority": 70600,
+      "priority": 70800,
       "type": "item"
     },
     {
@@ -5398,7 +5416,7 @@
       "image": "icon_itm_resource_chest_01.png",
       "name": "item_redtemple_light_launch_2_rewardbox",
       "name_placeholder": "ITEM_REDTEMPLE_LAUNCH_REWARDBOX",
-      "priority": 70800,
+      "priority": 71000,
       "type": "item"
     },
     {
@@ -5407,7 +5425,16 @@
       "image": "icon_itm_resource_chest_01.png",
       "name": "item_freeiapgift_resource_rewardbox_1",
       "name_placeholder": "ITEM_FREEIAPGIFT_RESOURCE_REWARDBOX",
-      "priority": 71000,
+      "priority": 71200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EQUIPMENT_FRAGMENTS_DESC",
+      "id": "77a0d6c0b697a16a",
+      "image": "",
+      "name": "item_EquipmentFragments_1",
+      "name_placeholder": "ITEM_EQUIPMENT_FRAGMENTS",
+      "priority": 71400,
       "type": "item"
     }
   ]
