@@ -9287,6 +9287,257 @@
       "steel_cost": 520000000,
       "template_level": 45,
       "upgrade_time_seconds": 345600
+    },
+    {
+      "id": "ac23ec2111c6ff01",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_bookofconquest_1",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 10
+        }
+      ],
+      "name": "eq_events_trinket_bookofconquest_1_trinket_lord1",
+      "steel_cost": 500,
+      "template_level": 0,
+      "upgrade_time_seconds": 3600
+    },
+    {
+      "id": "6b653e09477c416b",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_bookofconquest_1",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_hide",
+          "quantity": 10
+        }
+      ],
+      "name": "eq_events_trinket_bookofconquest_5_trinket_lord5",
+      "steel_cost": 4000,
+      "template_level": 1,
+      "upgrade_time_seconds": 3600
+    },
+    {
+      "id": "75c03219de87d723",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_bookofconquest_1",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_hide",
+          "quantity": 20
+        }
+      ],
+      "name": "eq_events_trinket_bookofconquest_10_trinket_lord10",
+      "steel_cost": 36500,
+      "template_level": 5,
+      "upgrade_time_seconds": 7200
+    },
+    {
+      "id": "540e6d4c125d8e4f",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_bookofconquest_1",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_hide",
+          "quantity": 120
+        }
+      ],
+      "name": "eq_events_trinket_bookofconquest_15_trinket_lord15",
+      "steel_cost": 148000,
+      "template_level": 10,
+      "upgrade_time_seconds": 21600
+    },
+    {
+      "id": "57bca0a090f8bb46",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_bookofconquest_1",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_hide",
+          "quantity": 400
+        }
+      ],
+      "name": "eq_events_trinket_bookofconquest_20_trinket_lord20",
+      "steel_cost": 534000,
+      "template_level": 15,
+      "upgrade_time_seconds": 43200
+    },
+    {
+      "id": "7672fff55c22e22a",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_bookofconquest_1",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_hide",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 1200
+        }
+      ],
+      "name": "eq_events_trinket_bookofconquest_25_trinket_lord25",
+      "steel_cost": 1800000,
+      "template_level": 20,
+      "upgrade_time_seconds": 64800
+    },
+    {
+      "id": "49972ec8552d9f65",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_bookofconquest_1",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_hide",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 3000
+        }
+      ],
+      "name": "eq_events_trinket_bookofconquest_30_trinket_lord30",
+      "steel_cost": 5850000,
+      "template_level": 25,
+      "upgrade_time_seconds": 86400
+    },
+    {
+      "id": "6859719d99f7c609",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_bookofconquest_1",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_hide",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 12000
+        }
+      ],
+      "name": "eq_events_trinket_bookofconquest_35_trinket_lord35",
+      "steel_cost": 18400000,
+      "template_level": 30,
+      "upgrade_time_seconds": 129600
+    },
+    {
+      "id": "134585d20c06638c",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_bookofconquest_1",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_hide",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 45000
+        }
+      ],
+      "name": "eq_events_trinket_bookofconquest_40_trinket_lord40",
+      "steel_cost": 56900000,
+      "template_level": 35,
+      "upgrade_time_seconds": 172800
+    },
+    {
+      "id": "328bda87c0dc3ae0",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_bookofconquest_1",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_hide",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 120000
+        }
+      ],
+      "name": "eq_events_trinket_bookofconquest_45_trinket_lord45",
+      "steel_cost": 173000000,
+      "template_level": 40,
+      "upgrade_time_seconds": 259200
+    },
+    {
+      "id": "d6e0bbac9d347af",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_bookofconquest_1",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_hide",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 450000
+        }
+      ],
+      "name": "eq_events_trinket_bookofconquest_50_trinket_lord50",
+      "steel_cost": 520000000,
+      "template_level": 45,
+      "upgrade_time_seconds": 345600
     }
   ]
 }
