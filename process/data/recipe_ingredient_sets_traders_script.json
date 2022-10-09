@@ -2160,6 +2160,66 @@
         }
       ],
       "name": "recipe_alchemy_recipe_event_2022_October_item_event_scrip_1_100000000"
+    },
+    {
+      "id": "80f3b4827830786c",
+      "ingredients": [
+        {
+          "id": "29249b79b6588637",
+          "name": "item_event_trophy_harvest2_1",
+          "quantity": 1,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_2022_November_item_event_scrip_1_1"
+    },
+    {
+      "id": "e1066a80843cf41b",
+      "ingredients": [
+        {
+          "id": "29249b79b6588637",
+          "name": "item_event_trophy_harvest2_1",
+          "quantity": 100,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_2022_November_item_event_scrip_1_100"
+    },
+    {
+      "id": "517a012da6e258f3",
+      "ingredients": [
+        {
+          "id": "29249b79b6588637",
+          "name": "item_event_trophy_harvest2_1",
+          "quantity": 10000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_2022_November_item_event_scrip_1_10000"
+    },
+    {
+      "id": "61f04bfa28085ff",
+      "ingredients": [
+        {
+          "id": "29249b79b6588637",
+          "name": "item_event_trophy_harvest2_1",
+          "quantity": 1000000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_2022_November_item_event_scrip_1_1000000"
+    },
+    {
+      "id": "69f796e16f890e37",
+      "ingredients": [
+        {
+          "id": "29249b79b6588637",
+          "name": "item_event_trophy_harvest2_1",
+          "quantity": 100000000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_2022_November_item_event_scrip_1_100000000"
     }
   ]
 }
