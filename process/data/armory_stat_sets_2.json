@@ -1140,6 +1140,36 @@
           "progression": "prog_armory_bonus_SpecificTroop_1"
         }
       ]
+    },
+    {
+      "id": "4b0c7da5be38f5c4",
+      "name": "armcol_events_harvest2_1",
+      "stats": [
+        {
+          "name": "property_MarchSizeVsPlayer_armory",
+          "progression": "prog_armory_bonus_MarchSize_1"
+        }
+      ]
+    },
+    {
+      "id": "3e1e214e67cd07ca",
+      "name": "armcol_events_harvest2_2",
+      "stats": [
+        {
+          "name": "property_HealTime_armory",
+          "progression": "prog_armory_bonus_SpecificTroop_1"
+        }
+      ]
+    },
+    {
+      "id": "12efeae8d09e5630",
+      "name": "armcol_events_harvest2_3",
+      "stats": [
+        {
+          "name": "property_MarcherTroopAttackVsPlayer_armory",
+          "progression": "prog_armory_bouns_MarcherTroop_1"
+        }
+      ]
     }
   ]
 }

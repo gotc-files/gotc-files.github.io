@@ -1026,6 +1026,33 @@
       "ring_name": "prog_gearset_events_bookofconquest_ring",
       "weapon_id": "6aee9f28ae8d9f89",
       "weapon_name": "prog_gearset_events_bookofconquest_weapon"
+    },
+    {
+      "boots_id": "c3679d9a9e72ed7a",
+      "boots_name": "prog_gearset_events_harvest2_boots",
+      "chest_id": "ff1c2130aaeddc42",
+      "chest_name": "prog_gearset_events_harvest2_chest",
+      "color": {
+        "alpha": 255,
+        "blue": 122,
+        "green": 204,
+        "red": 163
+      },
+      "description_placeholder": "EQ_EVENTS_HARVEST2_SET_DESCRIPTION",
+      "helmet_id": "3972144cb7fb78ec",
+      "helmet_name": "prog_gearset_events_harvest2_helmet",
+      "id": "57da1a8c0e3957bd",
+      "material_id": 8279204207086365994,
+      "material_name": "mat_event_harvest2_1",
+      "name": "gearset_events_harvest2",
+      "name_placeholder": "EQ_EVENTS_HARVEST2_SET_NAME",
+      "pants_id": "7a54f7384c354c33",
+      "pants_name": "prog_gearset_events_harvest2_pants",
+      "priority": 23100,
+      "ring_id": "7d46e3cc465db7df",
+      "ring_name": "prog_gearset_events_harvest2_ring",
+      "weapon_id": "4b27d2f5de39ce3f",
+      "weapon_name": "prog_gearset_events_harvest2_weapon"
     }
   ]
 }

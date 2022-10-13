@@ -20520,6 +20520,546 @@
       "name_placeholder": "EQ_EVENTS_BOOKOFCONQUEST_50_WEAPON_LORD50_NAME",
       "priority": 302280,
       "slot_name": "slot_Weapon"
+    },
+    {
+      "id": "dce6bf65ac172fac",
+      "image": "icon_eq_events_harvest2_boots_1.png",
+      "level": 5,
+      "name": "eq_events_harvest2_5_boots_lord5",
+      "name_placeholder": "EQ_EVENTS_HARVEST2_5_BOOTS_LORD5_NAME",
+      "priority": 302281,
+      "slot_name": "slot_Boots"
+    },
+    {
+      "id": "cc4ce83d83b0313b",
+      "image": "icon_eq_events_harvest2_chest_1.png",
+      "level": 5,
+      "name": "eq_events_harvest2_5_chest_lord5",
+      "name_placeholder": "EQ_EVENTS_HARVEST2_5_CHEST_LORD5_NAME",
+      "priority": 302282,
+      "slot_name": "slot_Chest"
+    },
+    {
+      "id": "13f8fec31b1d957",
+      "image": "icon_eq_events_harvest2_helmet_1.png",
+      "level": 5,
+      "name": "eq_events_harvest2_5_helmet_lord5",
+      "name_placeholder": "EQ_EVENTS_HARVEST2_5_HELMET_LORD5_NAME",
+      "priority": 302283,
+      "slot_name": "slot_Helmet"
+    },
+    {
+      "id": "1f64aa1ef148f820",
+      "image": "icon_eq_events_harvest2_pants_1.png",
+      "level": 5,
+      "name": "eq_events_harvest2_5_pants_lord5",
+      "name_placeholder": "EQ_EVENTS_HARVEST2_5_PANTS_LORD5_NAME",
+      "priority": 302284,
+      "slot_name": "slot_Pants"
+    },
+    {
+      "id": "4707a4dc7b962a23",
+      "image": "icon_eq_events_harvest2_ring_1.png",
+      "level": 5,
+      "name": "eq_events_harvest2_5_ring_lord5",
+      "name_placeholder": "EQ_EVENTS_HARVEST2_5_RING_LORD5_NAME",
+      "priority": 302285,
+      "slot_name": "slot_Ring"
+    },
+    {
+      "id": "66e217db786e87da",
+      "image": "icon_eq_events_harvest2_weapon_1.png",
+      "level": 5,
+      "name": "eq_events_harvest2_5_weapon_lord5",
+      "name_placeholder": "EQ_EVENTS_HARVEST2_5_WEAPON_LORD5_NAME",
+      "priority": 302286,
+      "slot_name": "slot_Weapon"
+    },
+    {
+      "id": "a7eab2e26a0efaaf",
+      "image": "icon_eq_events_harvest2_boots_1.png",
+      "level": 10,
+      "name": "eq_events_harvest2_10_boots_lord10",
+      "name_placeholder": "EQ_EVENTS_HARVEST2_10_BOOTS_LORD10_NAME",
+      "priority": 302287,
+      "slot_name": "slot_Boots"
+    },
+    {
+      "id": "e8a0370a3d8a811f",
+      "image": "icon_eq_events_harvest2_chest_1.png",
+      "level": 10,
+      "name": "eq_events_harvest2_10_chest_lord10",
+      "name_placeholder": "EQ_EVENTS_HARVEST2_10_CHEST_LORD10_NAME",
+      "priority": 302288,
+      "slot_name": "slot_Chest"
+    },
+    {
+      "id": "6c657da6dd8496ed",
+      "image": "icon_eq_events_harvest2_helmet_1.png",
+      "level": 10,
+      "name": "eq_events_harvest2_10_helmet_lord10",
+      "name_placeholder": "EQ_EVENTS_HARVEST2_10_HELMET_LORD10_NAME",
+      "priority": 302289,
+      "slot_name": "slot_Helmet"
+    },
+    {
+      "id": "308720179bfc85fe",
+      "image": "icon_eq_events_harvest2_pants_1.png",
+      "level": 10,
+      "name": "eq_events_harvest2_10_pants_lord10",
+      "name_placeholder": "EQ_EVENTS_HARVEST2_10_PANTS_LORD10_NAME",
+      "priority": 302290,
+      "slot_name": "slot_Pants"
+    },
+    {
+      "id": "55c14b172b29cdad",
+      "image": "icon_eq_events_harvest2_ring_1.png",
+      "level": 10,
+      "name": "eq_events_harvest2_10_ring_lord10",
+      "name_placeholder": "EQ_EVENTS_HARVEST2_10_RING_LORD10_NAME",
+      "priority": 302291,
+      "slot_name": "slot_Ring"
+    },
+    {
+      "id": "d75d7b78d73138cf",
+      "image": "icon_eq_events_harvest2_weapon_1.png",
+      "level": 10,
+      "name": "eq_events_harvest2_10_weapon_lord10",
+      "name_placeholder": "EQ_EVENTS_HARVEST2_10_WEAPON_LORD10_NAME",
+      "priority": 302292,
+      "slot_name": "slot_Weapon"
+    },
+    {
+      "id": "2d80ca30995d1f5f",
+      "image": "icon_eq_events_harvest2_boots_1.png",
+      "level": 15,
+      "name": "eq_events_harvest2_15_boots_lord15",
+      "name_placeholder": "EQ_EVENTS_HARVEST2_15_BOOTS_LORD15_NAME",
+      "priority": 302293,
+      "slot_name": "slot_Boots"
+    },
+    {
+      "id": "62ca4fd8ced964ef",
+      "image": "icon_eq_events_harvest2_chest_1.png",
+      "level": 15,
+      "name": "eq_events_harvest2_15_chest_lord15",
+      "name_placeholder": "EQ_EVENTS_HARVEST2_15_CHEST_LORD15_NAME",
+      "priority": 302294,
+      "slot_name": "slot_Chest"
+    },
+    {
+      "id": "5baf3a3e3a472088",
+      "image": "icon_eq_events_harvest2_helmet_1.png",
+      "level": 15,
+      "name": "eq_events_harvest2_15_helmet_lord15",
+      "name_placeholder": "EQ_EVENTS_HARVEST2_15_HELMET_LORD15_NAME",
+      "priority": 302295,
+      "slot_name": "slot_Helmet"
+    },
+    {
+      "id": "baed58c568af600e",
+      "image": "icon_eq_events_harvest2_pants_1.png",
+      "level": 15,
+      "name": "eq_events_harvest2_15_pants_lord15",
+      "name_placeholder": "EQ_EVENTS_HARVEST2_15_PANTS_LORD15_NAME",
+      "priority": 302296,
+      "slot_name": "slot_Pants"
+    },
+    {
+      "id": "2aa6363992e5fd7c",
+      "image": "icon_eq_events_harvest2_ring_1.png",
+      "level": 15,
+      "name": "eq_events_harvest2_15_ring_lord15",
+      "name_placeholder": "EQ_EVENTS_HARVEST2_15_RING_LORD15_NAME",
+      "priority": 302297,
+      "slot_name": "slot_Ring"
+    },
+    {
+      "id": "e0973ce030f28eaa",
+      "image": "icon_eq_events_harvest2_weapon_1.png",
+      "level": 15,
+      "name": "eq_events_harvest2_15_weapon_lord15",
+      "name_placeholder": "EQ_EVENTS_HARVEST2_15_WEAPON_LORD15_NAME",
+      "priority": 302298,
+      "slot_name": "slot_Weapon"
+    },
+    {
+      "id": "4eb2a66682d88e8e",
+      "image": "icon_eq_events_harvest2_boots_1.png",
+      "level": 20,
+      "name": "eq_events_harvest2_20_boots_lord20",
+      "name_placeholder": "EQ_EVENTS_HARVEST2_20_BOOTS_LORD20_NAME",
+      "priority": 302299,
+      "slot_name": "slot_Boots"
+    },
+    {
+      "id": "1f8238ed55cf53e",
+      "image": "icon_eq_events_harvest2_chest_1.png",
+      "level": 20,
+      "name": "eq_events_harvest2_20_chest_lord20",
+      "name_placeholder": "EQ_EVENTS_HARVEST2_20_CHEST_LORD20_NAME",
+      "priority": 302300,
+      "slot_name": "slot_Chest"
+    },
+    {
+      "id": "9575f4a14c082d2",
+      "image": "icon_eq_events_harvest2_helmet_1.png",
+      "level": 20,
+      "name": "eq_events_harvest2_20_helmet_lord20",
+      "name_placeholder": "EQ_EVENTS_HARVEST2_20_HELMET_LORD20_NAME",
+      "priority": 302301,
+      "slot_name": "slot_Helmet"
+    },
+    {
+      "id": "d9df3493732af1df",
+      "image": "icon_eq_events_harvest2_pants_1.png",
+      "level": 20,
+      "name": "eq_events_harvest2_20_pants_lord20",
+      "name_placeholder": "EQ_EVENTS_HARVEST2_20_PANTS_LORD20_NAME",
+      "priority": 302302,
+      "slot_name": "slot_Pants"
+    },
+    {
+      "id": "566f7486f7154de6",
+      "image": "icon_eq_events_harvest2_ring_1.png",
+      "level": 20,
+      "name": "eq_events_harvest2_20_ring_lord20",
+      "name_placeholder": "EQ_EVENTS_HARVEST2_20_RING_LORD20_NAME",
+      "priority": 302303,
+      "slot_name": "slot_Ring"
+    },
+    {
+      "id": "b26f59941e752cf0",
+      "image": "icon_eq_events_harvest2_weapon_1.png",
+      "level": 20,
+      "name": "eq_events_harvest2_20_weapon_lord20",
+      "name_placeholder": "EQ_EVENTS_HARVEST2_20_WEAPON_LORD20_NAME",
+      "priority": 302304,
+      "slot_name": "slot_Weapon"
+    },
+    {
+      "id": "c4d8deb4718b6b7e",
+      "image": "icon_eq_events_harvest2_boots_1.png",
+      "level": 25,
+      "name": "eq_events_harvest2_25_boots_lord25",
+      "name_placeholder": "EQ_EVENTS_HARVEST2_25_BOOTS_LORD25_NAME",
+      "priority": 302305,
+      "slot_name": "slot_Boots"
+    },
+    {
+      "id": "8b925b5c260f10ce",
+      "image": "icon_eq_events_harvest2_chest_1.png",
+      "level": 25,
+      "name": "eq_events_harvest2_25_chest_lord25",
+      "name_placeholder": "EQ_EVENTS_HARVEST2_25_CHEST_LORD25_NAME",
+      "priority": 302306,
+      "slot_name": "slot_Chest"
+    },
+    {
+      "id": "3e9d18d2f30334b7",
+      "image": "icon_eq_events_harvest2_helmet_1.png",
+      "level": 25,
+      "name": "eq_events_harvest2_25_helmet_lord25",
+      "name_placeholder": "EQ_EVENTS_HARVEST2_25_HELMET_LORD25_NAME",
+      "priority": 302307,
+      "slot_name": "slot_Helmet"
+    },
+    {
+      "id": "53b54c418079142f",
+      "image": "icon_eq_events_harvest2_pants_1.png",
+      "level": 25,
+      "name": "eq_events_harvest2_25_pants_lord25",
+      "name_placeholder": "EQ_EVENTS_HARVEST2_25_PANTS_LORD25_NAME",
+      "priority": 302308,
+      "slot_name": "slot_Pants"
+    },
+    {
+      "id": "290809a84ed97d37",
+      "image": "icon_eq_events_harvest2_ring_1.png",
+      "level": 25,
+      "name": "eq_events_harvest2_25_ring_lord25",
+      "name_placeholder": "EQ_EVENTS_HARVEST2_25_RING_LORD25_NAME",
+      "priority": 302309,
+      "slot_name": "slot_Ring"
+    },
+    {
+      "id": "85a51e0cf9b69a95",
+      "image": "icon_eq_events_harvest2_weapon_1.png",
+      "level": 25,
+      "name": "eq_events_harvest2_25_weapon_lord25",
+      "name_placeholder": "EQ_EVENTS_HARVEST2_25_WEAPON_LORD25_NAME",
+      "priority": 302310,
+      "slot_name": "slot_Weapon"
+    },
+    {
+      "id": "97ec94361df06788",
+      "image": "icon_eq_events_harvest2_boots_1.png",
+      "level": 30,
+      "name": "eq_events_harvest2_30_boots_lord30",
+      "name_placeholder": "EQ_EVENTS_HARVEST2_30_BOOTS_LORD30_NAME",
+      "priority": 302311,
+      "slot_name": "slot_Boots"
+    },
+    {
+      "id": "d8a611de4a741c38",
+      "image": "icon_eq_events_harvest2_chest_1.png",
+      "level": 30,
+      "name": "eq_events_harvest2_30_chest_lord30",
+      "name_placeholder": "EQ_EVENTS_HARVEST2_30_CHEST_LORD30_NAME",
+      "priority": 302312,
+      "slot_name": "slot_Chest"
+    },
+    {
+      "id": "2a46beee53fc8ec7",
+      "image": "icon_eq_events_harvest2_helmet_1.png",
+      "level": 30,
+      "name": "eq_events_harvest2_30_helmet_lord30",
+      "name_placeholder": "EQ_EVENTS_HARVEST2_30_HELMET_LORD30_NAME",
+      "priority": 302313,
+      "slot_name": "slot_Helmet"
+    },
+    {
+      "id": "8106c3ec0218d9",
+      "image": "icon_eq_events_harvest2_pants_1.png",
+      "level": 30,
+      "name": "eq_events_harvest2_30_pants_lord30",
+      "name_placeholder": "EQ_EVENTS_HARVEST2_30_PANTS_LORD30_NAME",
+      "priority": 302314,
+      "slot_name": "slot_Pants"
+    },
+    {
+      "id": "570a9e09bcfecddf",
+      "image": "icon_eq_events_harvest2_ring_1.png",
+      "level": 30,
+      "name": "eq_events_harvest2_30_ring_lord30",
+      "name_placeholder": "EQ_EVENTS_HARVEST2_30_RING_LORD30_NAME",
+      "priority": 302315,
+      "slot_name": "slot_Ring"
+    },
+    {
+      "id": "917eb830594920e5",
+      "image": "icon_eq_events_harvest2_weapon_1.png",
+      "level": 30,
+      "name": "eq_events_harvest2_30_weapon_lord30",
+      "name_placeholder": "EQ_EVENTS_HARVEST2_30_WEAPON_LORD30_NAME",
+      "priority": 302316,
+      "slot_name": "slot_Weapon"
+    },
+    {
+      "id": "1d86ece4eea38278",
+      "image": "icon_eq_events_harvest2_boots_1.png",
+      "level": 35,
+      "name": "eq_events_harvest2_35_boots_lord35",
+      "name_placeholder": "EQ_EVENTS_HARVEST2_35_BOOTS_LORD35_NAME",
+      "priority": 302317,
+      "slot_name": "slot_Boots"
+    },
+    {
+      "id": "52cc690cb927f9c8",
+      "image": "icon_eq_events_harvest2_chest_1.png",
+      "level": 35,
+      "name": "eq_events_harvest2_35_chest_lord35",
+      "name_placeholder": "EQ_EVENTS_HARVEST2_35_CHEST_LORD35_NAME",
+      "priority": 302318,
+      "slot_name": "slot_Chest"
+    },
+    {
+      "id": "1d8cf976b43f38a2",
+      "image": "icon_eq_events_harvest2_helmet_1.png",
+      "level": 35,
+      "name": "eq_events_harvest2_35_helmet_lord35",
+      "name_placeholder": "EQ_EVENTS_HARVEST2_35_HELMET_LORD35_NAME",
+      "priority": 302319,
+      "slot_name": "slot_Helmet"
+    },
+    {
+      "id": "8aeb7e111f51fd29",
+      "image": "icon_eq_events_harvest2_pants_1.png",
+      "level": 35,
+      "name": "eq_events_harvest2_35_pants_lord35",
+      "name_placeholder": "EQ_EVENTS_HARVEST2_35_PANTS_LORD35_NAME",
+      "priority": 302320,
+      "slot_name": "slot_Pants"
+    },
+    {
+      "id": "286de3270532fd0e",
+      "image": "icon_eq_events_harvest2_ring_1.png",
+      "level": 35,
+      "name": "eq_events_harvest2_35_ring_lord35",
+      "name_placeholder": "EQ_EVENTS_HARVEST2_35_RING_LORD35_NAME",
+      "priority": 302321,
+      "slot_name": "slot_Ring"
+    },
+    {
+      "id": "a6b4ffa8be8a9680",
+      "image": "icon_eq_events_harvest2_weapon_1.png",
+      "level": 35,
+      "name": "eq_events_harvest2_35_weapon_lord35",
+      "name_placeholder": "EQ_EVENTS_HARVEST2_35_WEAPON_LORD35_NAME",
+      "priority": 302322,
+      "slot_name": "slot_Weapon"
+    },
+    {
+      "id": "1eb8cd1a1adb29e7",
+      "image": "icon_eq_events_harvest2_boots_1.png",
+      "level": 40,
+      "name": "eq_events_harvest2_40_boots_lord40",
+      "name_placeholder": "EQ_EVENTS_HARVEST2_40_BOOTS_LORD40_NAME",
+      "priority": 302323,
+      "slot_name": "slot_Boots"
+    },
+    {
+      "id": "51f248f24d5f5257",
+      "image": "icon_eq_events_harvest2_chest_1.png",
+      "level": 40,
+      "name": "eq_events_harvest2_40_chest_lord40",
+      "name_placeholder": "EQ_EVENTS_HARVEST2_40_CHEST_LORD40_NAME",
+      "priority": 302324,
+      "slot_name": "slot_Chest"
+    },
+    {
+      "id": "c3331a938648aaac",
+      "image": "icon_eq_events_harvest2_helmet_1.png",
+      "level": 40,
+      "name": "eq_events_harvest2_40_helmet_lord40",
+      "name_placeholder": "EQ_EVENTS_HARVEST2_40_HELMET_LORD40_NAME",
+      "priority": 302325,
+      "slot_name": "slot_Helmet"
+    },
+    {
+      "id": "89d55fefeb2956b6",
+      "image": "icon_eq_events_harvest2_pants_1.png",
+      "level": 40,
+      "name": "eq_events_harvest2_40_pants_lord40",
+      "name_placeholder": "EQ_EVENTS_HARVEST2_40_PANTS_LORD40_NAME",
+      "priority": 302326,
+      "slot_name": "slot_Pants"
+    },
+    {
+      "id": "51330ba54f6c4d70",
+      "image": "icon_eq_events_harvest2_ring_1.png",
+      "level": 40,
+      "name": "eq_events_harvest2_40_ring_lord40",
+      "name_placeholder": "EQ_EVENTS_HARVEST2_40_RING_LORD40_NAME",
+      "priority": 302327,
+      "slot_name": "slot_Ring"
+    },
+    {
+      "id": "780b1c4d8cfd048e",
+      "image": "icon_eq_events_harvest2_weapon_1.png",
+      "level": 40,
+      "name": "eq_events_harvest2_40_weapon_lord40",
+      "name_placeholder": "EQ_EVENTS_HARVEST2_40_WEAPON_LORD40_NAME",
+      "priority": 302328,
+      "slot_name": "slot_Weapon"
+    },
+    {
+      "id": "94d2b5c8e988cc17",
+      "image": "icon_eq_events_harvest2_boots_1.png",
+      "level": 45,
+      "name": "eq_events_harvest2_45_boots_lord45",
+      "name_placeholder": "EQ_EVENTS_HARVEST2_45_BOOTS_LORD45_NAME",
+      "priority": 302329,
+      "slot_name": "slot_Boots"
+    },
+    {
+      "id": "db983020be0cb7a7",
+      "image": "icon_eq_events_harvest2_chest_1.png",
+      "level": 45,
+      "name": "eq_events_harvest2_45_chest_lord45",
+      "name_placeholder": "EQ_EVENTS_HARVEST2_45_CHEST_LORD45_NAME",
+      "priority": 302330,
+      "slot_name": "slot_Chest"
+    },
+    {
+      "id": "f4f95d0b618b1cc9",
+      "image": "icon_eq_events_harvest2_helmet_1.png",
+      "level": 45,
+      "name": "eq_events_harvest2_45_helmet_lord45",
+      "name_placeholder": "EQ_EVENTS_HARVEST2_45_HELMET_LORD45_NAME",
+      "priority": 302331,
+      "slot_name": "slot_Helmet"
+    },
+    {
+      "id": "3bf273d187ab346",
+      "image": "icon_eq_events_harvest2_pants_1.png",
+      "level": 45,
+      "name": "eq_events_harvest2_45_pants_lord45",
+      "name_placeholder": "EQ_EVENTS_HARVEST2_45_PANTS_LORD45_NAME",
+      "priority": 302332,
+      "slot_name": "slot_Pants"
+    },
+    {
+      "id": "2e54768bf6a07da1",
+      "image": "icon_eq_events_harvest2_ring_1.png",
+      "level": 45,
+      "name": "eq_events_harvest2_45_ring_lord45",
+      "name_placeholder": "EQ_EVENTS_HARVEST2_45_RING_LORD45_NAME",
+      "priority": 302333,
+      "slot_name": "slot_Ring"
+    },
+    {
+      "id": "4fc15bd56b3eb2eb",
+      "image": "icon_eq_events_harvest2_weapon_1.png",
+      "level": 45,
+      "name": "eq_events_harvest2_45_weapon_lord45",
+      "name_placeholder": "EQ_EVENTS_HARVEST2_45_WEAPON_LORD45_NAME",
+      "priority": 302334,
+      "slot_name": "slot_Weapon"
+    },
+    {
+      "id": "c7e6ff4a85f3c0e1",
+      "image": "icon_eq_events_harvest2_boots_1.png",
+      "level": 50,
+      "name": "eq_events_harvest2_50_boots_lord50",
+      "name_placeholder": "EQ_EVENTS_HARVEST2_50_BOOTS_LORD50_NAME",
+      "priority": 302335,
+      "slot_name": "slot_Boots"
+    },
+    {
+      "id": "88ac7aa2d277bb51",
+      "image": "icon_eq_events_harvest2_chest_1.png",
+      "level": 50,
+      "name": "eq_events_harvest2_50_chest_lord50",
+      "name_placeholder": "EQ_EVENTS_HARVEST2_50_CHEST_LORD50_NAME",
+      "priority": 302336,
+      "slot_name": "slot_Chest"
+    },
+    {
+      "id": "e022fb37c174a6b9",
+      "image": "icon_eq_events_harvest2_helmet_1.png",
+      "level": 50,
+      "name": "eq_events_harvest2_50_helmet_lord50",
+      "name_placeholder": "EQ_EVENTS_HARVEST2_50_HELMET_LORD50_NAME",
+      "priority": 302337,
+      "slot_name": "slot_Helmet"
+    },
+    {
+      "id": "508b6dbf7401bfb0",
+      "image": "icon_eq_events_harvest2_pants_1.png",
+      "level": 50,
+      "name": "eq_events_harvest2_50_pants_lord50",
+      "name_placeholder": "EQ_EVENTS_HARVEST2_50_PANTS_LORD50_NAME",
+      "priority": 302338,
+      "slot_name": "slot_Pants"
+    },
+    {
+      "id": "5056e12a0487cd49",
+      "image": "icon_eq_events_harvest2_ring_1.png",
+      "level": 50,
+      "name": "eq_events_harvest2_50_ring_lord50",
+      "name_placeholder": "EQ_EVENTS_HARVEST2_50_RING_LORD50_NAME",
+      "priority": 302339,
+      "slot_name": "slot_Ring"
+    },
+    {
+      "id": "5b1afde9cbc1089b",
+      "image": "icon_eq_events_harvest2_weapon_1.png",
+      "level": 50,
+      "name": "eq_events_harvest2_50_weapon_lord50",
+      "name_placeholder": "EQ_EVENTS_HARVEST2_50_WEAPON_LORD50_NAME",
+      "priority": 302340,
+      "slot_name": "slot_Weapon"
     }
   ]
 }
