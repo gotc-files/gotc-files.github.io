@@ -11,7 +11,7 @@
       "limit": 0,
       "name": "alchemy_recipe__item_flux_0_to_mat_blackiron__1_1",
       "name_placeholder": "ITEM_MATERIALS_BLACKIRON",
-      "priority": 1,
+      "priority": 50,
       "target_quality": 1,
       "target_quantity": 100
     },
@@ -25,7 +25,7 @@
       "limit": 0,
       "name": "alchemy_recipe__item_flux_0_to_mat_blackiron__1_100",
       "name_placeholder": "ITEM_MATERIALS_BLACKIRON",
-      "priority": 1,
+      "priority": 50,
       "target_quality": 1,
       "target_quantity": 10000
     },
@@ -39,7 +39,7 @@
       "limit": 0,
       "name": "alchemy_recipe__item_flux_0_to_mat_blackiron__1_10000",
       "name_placeholder": "ITEM_MATERIALS_BLACKIRON",
-      "priority": 1,
+      "priority": 50,
       "target_quality": 1,
       "target_quantity": 1000000
     },
@@ -53,7 +53,7 @@
       "limit": 0,
       "name": "alchemy_recipe__item_flux_0_to_mat_copperbar__1_1",
       "name_placeholder": "ITEM_MATERIALS_COPPERBAR",
-      "priority": 2,
+      "priority": 51,
       "target_quality": 1,
       "target_quantity": 100
     },
@@ -67,7 +67,7 @@
       "limit": 0,
       "name": "alchemy_recipe__item_flux_0_to_mat_copperbar__1_100",
       "name_placeholder": "ITEM_MATERIALS_COPPERBAR",
-      "priority": 2,
+      "priority": 51,
       "target_quality": 1,
       "target_quantity": 10000
     },
@@ -81,7 +81,7 @@
       "limit": 0,
       "name": "alchemy_recipe__item_flux_0_to_mat_copperbar__1_10000",
       "name_placeholder": "ITEM_MATERIALS_COPPERBAR",
-      "priority": 2,
+      "priority": 51,
       "target_quality": 1,
       "target_quantity": 1000000
     },
@@ -95,7 +95,7 @@
       "limit": 0,
       "name": "alchemy_recipe__item_flux_0_to_mat_dragonglass__1_1",
       "name_placeholder": "ITEM_MATERIALS_DRAGONGLASS",
-      "priority": 3,
+      "priority": 52,
       "target_quality": 1,
       "target_quantity": 100
     },
@@ -109,7 +109,7 @@
       "limit": 0,
       "name": "alchemy_recipe__item_flux_0_to_mat_dragonglass__1_100",
       "name_placeholder": "ITEM_MATERIALS_DRAGONGLASS",
-      "priority": 3,
+      "priority": 52,
       "target_quality": 1,
       "target_quantity": 10000
     },
@@ -123,7 +123,7 @@
       "limit": 0,
       "name": "alchemy_recipe__item_flux_0_to_mat_dragonglass__1_10000",
       "name_placeholder": "ITEM_MATERIALS_DRAGONGLASS",
-      "priority": 3,
+      "priority": 52,
       "target_quality": 1,
       "target_quantity": 1000000
     },
@@ -137,7 +137,7 @@
       "limit": 0,
       "name": "alchemy_recipe__item_flux_0_to_mat_goldenheartwood__1_1",
       "name_placeholder": "ITEM_MATERIALS_GOLDENHEARTWOOD",
-      "priority": 4,
+      "priority": 53,
       "target_quality": 1,
       "target_quantity": 100
     },
@@ -151,7 +151,7 @@
       "limit": 0,
       "name": "alchemy_recipe__item_flux_0_to_mat_goldenheartwood__1_100",
       "name_placeholder": "ITEM_MATERIALS_GOLDENHEARTWOOD",
-      "priority": 4,
+      "priority": 53,
       "target_quality": 1,
       "target_quantity": 10000
     },
@@ -165,7 +165,7 @@
       "limit": 0,
       "name": "alchemy_recipe__item_flux_0_to_mat_goldenheartwood__1_10000",
       "name_placeholder": "ITEM_MATERIALS_GOLDENHEARTWOOD",
-      "priority": 4,
+      "priority": 53,
       "target_quality": 1,
       "target_quantity": 1000000
     },
@@ -179,7 +179,7 @@
       "limit": 0,
       "name": "alchemy_recipe__item_flux_0_to_mat_hide__1_1",
       "name_placeholder": "ITEM_MATERIALS_HIDE",
-      "priority": 5,
+      "priority": 54,
       "target_quality": 1,
       "target_quantity": 100
     },
@@ -193,7 +193,7 @@
       "limit": 0,
       "name": "alchemy_recipe__item_flux_0_to_mat_hide__1_100",
       "name_placeholder": "ITEM_MATERIALS_HIDE",
-      "priority": 5,
+      "priority": 54,
       "target_quality": 1,
       "target_quantity": 10000
     },
@@ -207,7 +207,7 @@
       "limit": 0,
       "name": "alchemy_recipe__item_flux_0_to_mat_hide__1_10000",
       "name_placeholder": "ITEM_MATERIALS_HIDE",
-      "priority": 5,
+      "priority": 54,
       "target_quality": 1,
       "target_quantity": 1000000
     },
@@ -221,7 +221,7 @@
       "limit": 0,
       "name": "alchemy_recipe__item_flux_0_to_mat_ironwood__1_1",
       "name_placeholder": "ITEM_MATERIALS_IRONWOOD",
-      "priority": 6,
+      "priority": 55,
       "target_quality": 1,
       "target_quantity": 100
     },
@@ -235,7 +235,7 @@
       "limit": 0,
       "name": "alchemy_recipe__item_flux_0_to_mat_ironwood__1_100",
       "name_placeholder": "ITEM_MATERIALS_IRONWOOD",
-      "priority": 6,
+      "priority": 55,
       "target_quality": 1,
       "target_quantity": 10000
     },
@@ -249,7 +249,7 @@
       "limit": 0,
       "name": "alchemy_recipe__item_flux_0_to_mat_ironwood__1_10000",
       "name_placeholder": "ITEM_MATERIALS_IRONWOOD",
-      "priority": 6,
+      "priority": 55,
       "target_quality": 1,
       "target_quantity": 1000000
     },
@@ -263,7 +263,7 @@
       "limit": 0,
       "name": "alchemy_recipe__item_flux_0_to_mat_kingswoodoak__1_1",
       "name_placeholder": "ITEM_MATERIALS_KINGSWOODOAK",
-      "priority": 7,
+      "priority": 56,
       "target_quality": 1,
       "target_quantity": 100
     },
@@ -277,7 +277,7 @@
       "limit": 0,
       "name": "alchemy_recipe__item_flux_0_to_mat_kingswoodoak__1_100",
       "name_placeholder": "ITEM_MATERIALS_KINGSWOODOAK",
-      "priority": 7,
+      "priority": 56,
       "target_quality": 1,
       "target_quantity": 10000
     },
@@ -291,7 +291,7 @@
       "limit": 0,
       "name": "alchemy_recipe__item_flux_0_to_mat_kingswoodoak__1_10000",
       "name_placeholder": "ITEM_MATERIALS_KINGSWOODOAK",
-      "priority": 7,
+      "priority": 56,
       "target_quality": 1,
       "target_quantity": 1000000
     },
@@ -305,7 +305,7 @@
       "limit": 0,
       "name": "alchemy_recipe__item_flux_0_to_mat_leatherstrap__1_1",
       "name_placeholder": "ITEM_MATERIALS_LEATHERSTRAPS",
-      "priority": 8,
+      "priority": 57,
       "target_quality": 1,
       "target_quantity": 100
     },
@@ -319,7 +319,7 @@
       "limit": 0,
       "name": "alchemy_recipe__item_flux_0_to_mat_leatherstrap__1_100",
       "name_placeholder": "ITEM_MATERIALS_LEATHERSTRAPS",
-      "priority": 8,
+      "priority": 57,
       "target_quality": 1,
       "target_quantity": 10000
     },
@@ -333,7 +333,7 @@
       "limit": 0,
       "name": "alchemy_recipe__item_flux_0_to_mat_leatherstrap__1_10000",
       "name_placeholder": "ITEM_MATERIALS_LEATHERSTRAPS",
-      "priority": 8,
+      "priority": 57,
       "target_quality": 1,
       "target_quantity": 1000000
     },
@@ -347,7 +347,7 @@
       "limit": 0,
       "name": "alchemy_recipe__item_flux_0_to_mat_milkofthepoppy__1_1",
       "name_placeholder": "ITEM_MATERIALS_MILKOFTHEPOPPY",
-      "priority": 9,
+      "priority": 58,
       "target_quality": 1,
       "target_quantity": 100
     },
@@ -361,7 +361,7 @@
       "limit": 0,
       "name": "alchemy_recipe__item_flux_0_to_mat_milkofthepoppy__1_100",
       "name_placeholder": "ITEM_MATERIALS_MILKOFTHEPOPPY",
-      "priority": 9,
+      "priority": 58,
       "target_quality": 1,
       "target_quantity": 10000
     },
@@ -375,7 +375,7 @@
       "limit": 0,
       "name": "alchemy_recipe__item_flux_0_to_mat_milkofthepoppy__1_10000",
       "name_placeholder": "ITEM_MATERIALS_MILKOFTHEPOPPY",
-      "priority": 9,
+      "priority": 58,
       "target_quality": 1,
       "target_quantity": 1000000
     },
@@ -389,7 +389,7 @@
       "limit": 0,
       "name": "alchemy_recipe__item_flux_0_to_mat_silk__1_1",
       "name_placeholder": "ITEM_MATERIALS_SILK",
-      "priority": 10,
+      "priority": 59,
       "target_quality": 1,
       "target_quantity": 100
     },
@@ -403,7 +403,7 @@
       "limit": 0,
       "name": "alchemy_recipe__item_flux_0_to_mat_silk__1_100",
       "name_placeholder": "ITEM_MATERIALS_SILK",
-      "priority": 10,
+      "priority": 59,
       "target_quality": 1,
       "target_quantity": 10000
     },
@@ -417,7 +417,7 @@
       "limit": 0,
       "name": "alchemy_recipe__item_flux_0_to_mat_silk__1_10000",
       "name_placeholder": "ITEM_MATERIALS_SILK",
-      "priority": 10,
+      "priority": 59,
       "target_quality": 1,
       "target_quantity": 1000000
     },
@@ -431,7 +431,7 @@
       "limit": 0,
       "name": "alchemy_recipe__item_flux_0_to_mat_weirwood__1_1",
       "name_placeholder": "ITEM_MATERIALS_WEIRWOOD",
-      "priority": 11,
+      "priority": 60,
       "target_quality": 1,
       "target_quantity": 100
     },
@@ -445,7 +445,7 @@
       "limit": 0,
       "name": "alchemy_recipe__item_flux_0_to_mat_weirwood__1_100",
       "name_placeholder": "ITEM_MATERIALS_WEIRWOOD",
-      "priority": 11,
+      "priority": 60,
       "target_quality": 1,
       "target_quantity": 10000
     },
@@ -459,7 +459,7 @@
       "limit": 0,
       "name": "alchemy_recipe__item_flux_0_to_mat_weirwood__1_10000",
       "name_placeholder": "ITEM_MATERIALS_WEIRWOOD",
-      "priority": 11,
+      "priority": 60,
       "target_quality": 1,
       "target_quantity": 1000000
     },
@@ -473,7 +473,7 @@
       "limit": 0,
       "name": "alchemy_recipe__item_flux_0_to_mat_wildfire__1_1",
       "name_placeholder": "ITEM_MATERIALS_WILDFIRE",
-      "priority": 12,
+      "priority": 61,
       "target_quality": 1,
       "target_quantity": 100
     },
@@ -487,7 +487,7 @@
       "limit": 0,
       "name": "alchemy_recipe__item_flux_0_to_mat_wildfire__1_100",
       "name_placeholder": "ITEM_MATERIALS_WILDFIRE",
-      "priority": 12,
+      "priority": 61,
       "target_quality": 1,
       "target_quantity": 10000
     },
@@ -501,7 +501,7 @@
       "limit": 0,
       "name": "alchemy_recipe__item_flux_0_to_mat_wildfire__1_10000",
       "name_placeholder": "ITEM_MATERIALS_WILDFIRE",
-      "priority": 12,
+      "priority": 61,
       "target_quality": 1,
       "target_quantity": 1000000
     },
