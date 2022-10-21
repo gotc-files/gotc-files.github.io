@@ -164,12 +164,21 @@
       "type": "item"
     },
     {
+      "description_placeholder": "ITEM_BUILDREQ_DRAGON_RESEARCH_3_DESCRIPTION",
+      "id": "ae938fe1babb85d2",
+      "image": "icon_dragon_research_3.png",
+      "name": "item_buildreq_dragon_research_3",
+      "name_placeholder": "ITEM_BUILDREQ_DRAGON_RESEARCH_3_NAME",
+      "priority": 2002800,
+      "type": "item"
+    },
+    {
       "description_placeholder": "ITEM_DRAGON_FIRESTONE_1_DESCRIPTION",
       "id": "103f3d54a1c6e44c",
       "image": "icon_itm_firestone.png",
       "name": "item_dragon_firestone_1",
       "name_placeholder": "ITEM_DRAGON_FIRESTONE_1_NAME",
-      "priority": 2002800,
+      "priority": 2002900,
       "type": "item"
     },
     {
@@ -178,7 +187,7 @@
       "image": "chest_sigil-targaryen-01.png",
       "name": "item_dragon_test_eggstock_1",
       "name_placeholder": "Dragon Testing Item - Egg Advancement 1",
-      "priority": 2003000,
+      "priority": 2003100,
       "type": "item"
     },
     {
@@ -187,7 +196,7 @@
       "image": "chest_sigil-targaryen-01.png",
       "name": "item_dragon_test_hatchlingstock_1",
       "name_placeholder": "Dragon Testing Item - Hatchling Advancement 1",
-      "priority": 2003100,
+      "priority": 2003200,
       "type": "item"
     },
     {
@@ -196,7 +205,7 @@
       "image": "chest_sigil-targaryen-01.png",
       "name": "item_dragon_test_whelpstock_1",
       "name_placeholder": "Dragon Testing Item - Whelp Advancement 1",
-      "priority": 2003200,
+      "priority": 2003300,
       "type": "item"
     },
     {
@@ -205,7 +214,7 @@
       "image": "chest_sigil-targaryen-01.png",
       "name": "item_dragon_test_adolescentstock_1",
       "name_placeholder": "Dragon Testing Item - Adolescent Advancement 1",
-      "priority": 2003300,
+      "priority": 2003400,
       "type": "item"
     },
     {
@@ -214,7 +223,7 @@
       "image": "chest_sigil-targaryen-01.png",
       "name": "item_dragon_test_adultstock_1",
       "name_placeholder": "Dragon Testing Item - Adult Advancement 1",
-      "priority": 2003400,
+      "priority": 2003500,
       "type": "item"
     },
     {
@@ -223,7 +232,7 @@
       "image": "icon_item_dragon_rename.png",
       "name": "item_dragon_rename",
       "name_placeholder": "DRAGON_RENAME_NAME",
-      "priority": 2003600,
+      "priority": 2003700,
       "type": "item"
     },
     {
@@ -232,7 +241,7 @@
       "image": "icon_item_dragon_visualchange.png",
       "name": "item_dragon_visualchange",
       "name_placeholder": "DRAGON_VISUALCHANGE_NAME",
-      "priority": 2003700,
+      "priority": 2003800,
       "type": "item"
     }
   ]
