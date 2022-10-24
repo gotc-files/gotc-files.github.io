@@ -3832,6 +3832,70 @@
       "skill_type": "COUNCIL",
       "stat_name": "property_DragonInfantryAttackVsPlayer_hero",
       "unlock_level": 0
+    },
+    {
+      "id": "b0f44e114cedd881",
+      "name": "heroskill_visgen_hero_wunwun_giantofthefreefolk_3",
+      "skill_type": "MARCH",
+      "star_skill_value": 0.5875200033187866,
+      "stat_name": "driven_RangedHealthVsSeatOfPower",
+      "unlock_level": 10
+    },
+    {
+      "id": "76213c6048556d67",
+      "name": "heroskill_visgen_hero_wunwun_giantofthefreefolk_4",
+      "skill_type": "COUNCIL",
+      "star_skill_value": 0.45899999141693115,
+      "stat_name": "property_CavalryHealthVsPlayer_hero",
+      "unlock_level": 20
+    },
+    {
+      "id": "5ad0f7c6ff063c9d",
+      "name": "heroskill_visgen_hero_wunwun_giantofthefreefolk_5",
+      "skill_type": "MARCH",
+      "star_skill_value": 0.5875200033187866,
+      "stat_name": "driven_RangedDefenseVsSeatOfPower",
+      "unlock_level": 30
+    },
+    {
+      "id": "2fc2ab2d26f3ce93",
+      "name": "heroskill_visgen_hero_wunwun_giantofthefreefolk_6",
+      "skill_type": "COUNCIL",
+      "star_skill_value": 0.45899999141693115,
+      "stat_name": "property_CavalryDefenseVsPlayersInfantry_hero",
+      "unlock_level": 40
+    },
+    {
+      "id": "333608b91a09f69",
+      "name": "heroskill_visgen_hero_wunwun_giantofthefreefolk_7",
+      "skill_type": "COUNCIL",
+      "star_skill_value": 0.45899999141693115,
+      "stat_name": "property_CavalryAttackVsPlayersInfantry_hero",
+      "unlock_level": 50
+    },
+    {
+      "id": "20d20dba662dea74",
+      "name": "heroskill_visgen_hero_wunwun_giantofthefreefolk_8",
+      "skill_type": "MARCH",
+      "star_skill_value": 0.6609599590301514,
+      "stat_name": "driven_RangedAttackVsSeatOfPower",
+      "unlock_level": 60
+    },
+    {
+      "id": "e917d95c224b7b75",
+      "name": "heroskill_visgen_hero_wunwun_giantofthefreefolk_1",
+      "signature_skill_progression_name": "heropropertyprog_visgen_hero_wunwun_giantofthefreefolk_1",
+      "skill_type": "MARCH",
+      "stat_name": "driven_MaxMarchSize",
+      "unlock_level": 0
+    },
+    {
+      "id": "9c0585b7fbbe897b",
+      "name": "heroskill_visgen_hero_wunwun_giantofthefreefolk_2",
+      "signature_skill_progression_name": "heropropertyprog_visgen_hero_wunwun_giantofthefreefolk_2",
+      "skill_type": "MARCH",
+      "stat_name": "driven_MaxMarchSizeVsSOP",
+      "unlock_level": 0
     }
   ]
 }
