@@ -9,7 +9,7 @@
       {
         "description": "How much faster your troops march when reinforcing a Seat of Power",
         "name": "Reinforcement March Speed to Seats of Power",
-        "star_skill_value": 0.14688000082969666,
+        "star_skill_value": 0.146880000829697,
         "type": "MARCH",
         "unlock_level": 10
       },
@@ -23,14 +23,14 @@
       {
         "description": "Infantry Defense vs. another player's Cavalry.",
         "name": "Infantry Defense vs. Player's Cavalry",
-        "star_skill_value": 0.18359999358654022,
+        "star_skill_value": 0.18359999358654,
         "type": "COUNCIL",
         "unlock_level": 30
       },
       {
         "description": "Infantry Attack stat bonus in combat when marching against a player.",
         "name": "Infantry Attack While Marching vs. Player",
-        "star_skill_value": 0.25703999400138855,
+        "star_skill_value": 0.257039994001389,
         "type": "MARCH",
         "unlock_level": 40
       },
@@ -44,7 +44,7 @@
       {
         "description": "Health bonus of your army when defending.",
         "name": "Defender Health",
-        "star_skill_value": 0.7343999743461609,
+        "star_skill_value": 0.734399974346161,
         "type": "COUNCIL",
         "unlock_level": 60
       },
@@ -198,28 +198,28 @@
       {
         "description": "Bonus to Iron gathering speed.",
         "name": "Iron Gathering",
-        "star_skill_value": 0.18359999358654022,
+        "star_skill_value": 0.18359999358654,
         "type": "COUNCIL",
         "unlock_level": 10
       },
       {
         "description": "Cavalry Defense stat bonus in combat when marching against a player.",
         "name": "Cavalry Defense While Marching vs. Player",
-        "star_skill_value": 0.20563200116157532,
+        "star_skill_value": 0.205632001161575,
         "type": "MARCH",
         "unlock_level": 20
       },
       {
         "description": "Bonus to Iron Mine generation",
         "name": "Iron Production",
-        "star_skill_value": 0.6425999999046326,
+        "star_skill_value": 0.642599999904633,
         "type": "COUNCIL",
         "unlock_level": 30
       },
       {
         "description": "Increases the survivability of your troops when attacking creatures.",
         "name": "Health vs. Creatures",
-        "star_skill_value": 0.4406399726867676,
+        "star_skill_value": 0.440639972686768,
         "type": "COUNCIL",
         "unlock_level": 40
       },
@@ -333,14 +333,14 @@
       {
         "description": "Cavalry Health in Player-to-Player combat.",
         "name": "Cavalry Health vs. Player",
-        "star_skill_value": 0.12240000069141388,
+        "star_skill_value": 0.122400000691414,
         "type": "COUNCIL",
         "unlock_level": 10
       },
       {
         "description": "Infantry Defense vs. another player's Cavalry.",
         "name": "Infantry Defense vs. Player's Cavalry",
-        "star_skill_value": 0.24480000138282776,
+        "star_skill_value": 0.244800001382828,
         "type": "COUNCIL",
         "unlock_level": 20
       },
@@ -354,21 +354,21 @@
       {
         "description": "Improves troop survivability in combat against other players.",
         "name": "Troop Health vs. Player",
-        "star_skill_value": 0.24480000138282776,
+        "star_skill_value": 0.244800001382828,
         "type": "COUNCIL",
         "unlock_level": 40
       },
       {
         "description": "Cavalry Attack vs. another player's Ranged.",
         "name": "Cavalry Attack vs. Player's Ranged",
-        "star_skill_value": 0.4283999800682068,
+        "star_skill_value": 0.428399980068207,
         "type": "COUNCIL",
         "unlock_level": 50
       },
       {
         "description": "Bonus damage done to an enemy dragon during combat.",
         "name": "Dragon Attack vs. Dragons",
-        "star_skill_value": 0.8567999601364136,
+        "star_skill_value": 0.856799960136414,
         "type": "COUNCIL",
         "unlock_level": 60
       },
@@ -522,35 +522,35 @@
       {
         "description": "Attack bonus of your army when defending with your dragon.",
         "name": "Dragon: Defender Attack",
-        "star_skill_value": 0.36719998717308044,
+        "star_skill_value": 0.36719998717308,
         "type": "COUNCIL",
         "unlock_level": 10
       },
       {
         "description": "March Speed bonus when your dragon is present.",
         "name": "Dragon: Marching Speed",
-        "star_skill_value": 0.24480000138282776,
+        "star_skill_value": 0.244800001382828,
         "type": "COUNCIL",
         "unlock_level": 20
       },
       {
         "description": "Ranged Defense vs. a Player while attacking another player at a Seat of Power",
         "name": "Marcher Ranged Defense vs. Player at a Seat Of Power",
-        "star_skill_value": 0.34272000193595886,
+        "star_skill_value": 0.342720001935959,
         "type": "MARCH",
         "unlock_level": 30
       },
       {
         "description": "Infantry Health bonus when your dragon is present.",
         "name": "Dragon: Infantry Health",
-        "star_skill_value": 0.24480000138282776,
+        "star_skill_value": 0.244800001382828,
         "type": "COUNCIL",
         "unlock_level": 40
       },
       {
         "description": "Infantry health bonus.",
         "name": "Infantry Health",
-        "star_skill_value": 0.2937600016593933,
+        "star_skill_value": 0.293760001659393,
         "type": "MARCH",
         "unlock_level": 50
       },
@@ -711,21 +711,21 @@
       {
         "description": "Reduces the amount of food necessary for training Infantry.",
         "name": "Troop Training: Infantry Cost Efficiency Food",
-        "star_skill_value": 0.03199999779462814,
+        "star_skill_value": 0.0319999977946281,
         "type": "COUNCIL",
         "unlock_level": 10
       },
       {
         "description": "Increase March Speed when attacking another player at their Keep, Seat of Power, or Strategic Terrain.",
         "name": "March Speed vs. Player",
-        "star_skill_value": 0.30844801664352417,
+        "star_skill_value": 0.308448016643524,
         "type": "MARCH",
         "unlock_level": 20
       },
       {
         "description": "Infantry Health stat bonus in combat when marching against a player.",
         "name": "Infantry Health While Marching vs. Player",
-        "star_skill_value": 0.41126400232315063,
+        "star_skill_value": 0.411264002323151,
         "type": "MARCH",
         "unlock_level": 30
       },
@@ -739,7 +739,7 @@
       {
         "description": "Infantry Attack vs. another player's Infantry.",
         "name": "Infantry Attack vs. Player's Infantry",
-        "star_skill_value": 0.4896000027656555,
+        "star_skill_value": 0.489600002765656,
         "type": "COUNCIL",
         "unlock_level": 50
       },
@@ -873,21 +873,21 @@
       {
         "description": "Reduces the amount of food consumed by your Cavalry troops.",
         "name": "Cavalry Upkeep Efficiency",
-        "star_skill_value": 0.08160000294446945,
+        "star_skill_value": 0.0816000029444695,
         "type": "COUNCIL",
         "unlock_level": 10
       },
       {
         "description": "Increases the survivability of your troops when attacking creatures.",
         "name": "Health vs. Creatures",
-        "star_skill_value": 0.41126400232315063,
+        "star_skill_value": 0.411264002323151,
         "type": "MARCH",
         "unlock_level": 20
       },
       {
         "description": "Cavalry defense bonus.",
         "name": "Cavalry Defense",
-        "star_skill_value": 0.22032000124454498,
+        "star_skill_value": 0.220320001244545,
         "type": "COUNCIL",
         "unlock_level": 30
       },
@@ -981,28 +981,28 @@
       {
         "description": "Infantry Defense vs. another player's Ranged.",
         "name": "Infantry Defense vs. Player's Ranged",
-        "star_skill_value": 0.30844801664352417,
+        "star_skill_value": 0.308448016643524,
         "type": "MARCH",
         "unlock_level": 10
       },
       {
         "description": "Increase how fast equipment is forged at your Smithy.",
         "name": "Forging Speed",
-        "star_skill_value": 0.45899999141693115,
+        "star_skill_value": 0.458999991416931,
         "type": "COUNCIL",
         "unlock_level": 20
       },
       {
         "description": "Ranged Defense vs. another player's Ranged.",
         "name": "Ranged Defense vs. Player's Ranged",
-        "star_skill_value": 0.36719998717308044,
+        "star_skill_value": 0.36719998717308,
         "type": "COUNCIL",
         "unlock_level": 30
       },
       {
         "description": "Increase March Speed when attacking another player at their Keep, Seat of Power, or Strategic Terrain.",
         "name": "March Speed vs. Player",
-        "star_skill_value": 0.46267202496528625,
+        "star_skill_value": 0.462672024965286,
         "type": "MARCH",
         "unlock_level": 40
       },
@@ -1130,28 +1130,28 @@
       {
         "description": "Infantry Health in Player-to-Player combat.",
         "name": "Infantry Health vs. Player",
-        "star_skill_value": 0.3059999942779541,
+        "star_skill_value": 0.305999994277954,
         "type": "COUNCIL",
         "unlock_level": 30
       },
       {
         "description": "Infantry Defense vs. another player's Ranged.",
         "name": "Infantry Defense vs. Player's Ranged",
-        "star_skill_value": 0.5140799880027771,
+        "star_skill_value": 0.514079988002777,
         "type": "MARCH",
         "unlock_level": 40
       },
       {
         "description": "Infantry Attack vs. another player's Cavalry.",
         "name": "Infantry Attack vs. Player's Cavalry",
-        "star_skill_value": 0.5875200033187866,
+        "star_skill_value": 0.587520003318787,
         "type": "MARCH",
         "unlock_level": 50
       },
       {
         "description": "Infantry attack bonus.",
         "name": "Infantry Attack",
-        "star_skill_value": 0.6119999885559082,
+        "star_skill_value": 0.611999988555908,
         "type": "COUNCIL",
         "unlock_level": 60
       },
@@ -1312,14 +1312,14 @@
       {
         "description": "Bonus to Stone gathering speed.",
         "name": "Stone Gathering",
-        "star_skill_value": 0.5140799880027771,
+        "star_skill_value": 0.514079988002777,
         "type": "MARCH",
         "unlock_level": 20
       },
       {
         "description": "Bonus to Stone Quarry generation.",
         "name": "Stone Production",
-        "star_skill_value": 0.6119999885559082,
+        "star_skill_value": 0.611999988555908,
         "type": "COUNCIL",
         "unlock_level": 30
       },
@@ -1413,21 +1413,21 @@
       {
         "description": "Infantry health bonus.",
         "name": "Infantry Health",
-        "star_skill_value": 0.24480000138282776,
+        "star_skill_value": 0.244800001382828,
         "type": "COUNCIL",
         "unlock_level": 10
       },
       {
         "description": "Bonus to Farm generation.",
         "name": "Food Production",
-        "star_skill_value": 0.40799999237060547,
+        "star_skill_value": 0.407999992370605,
         "type": "COUNCIL",
         "unlock_level": 20
       },
       {
         "description": "Bonus to Wood gathering speed.",
         "name": "Wood Gathering",
-        "star_skill_value": 0.6119999885559082,
+        "star_skill_value": 0.611999988555908,
         "type": "COUNCIL",
         "unlock_level": 30
       },
@@ -1521,7 +1521,7 @@
       {
         "description": "Increase March Speed when attacking another player at their Keep, Seat of Power, or Strategic Terrain.",
         "name": "March Speed vs. Player",
-        "star_skill_value": 0.33048000931739807,
+        "star_skill_value": 0.330480009317398,
         "type": "MARCH",
         "unlock_level": 10
       },
@@ -1535,14 +1535,14 @@
       {
         "description": "Cavalry Defense stat bonus in combat when marching against a player.",
         "name": "Cavalry Defense While Marching vs. Player",
-        "star_skill_value": 0.47124001383781433,
+        "star_skill_value": 0.471240013837814,
         "type": "MARCH",
         "unlock_level": 30
       },
       {
         "description": "Ranged Defense vs. another player's Cavalry.",
         "name": "Ranged Defense vs. Player's Cavalry",
-        "star_skill_value": 0.18359999358654022,
+        "star_skill_value": 0.18359999358654,
         "type": "COUNCIL",
         "unlock_level": 40
       },
@@ -1556,7 +1556,7 @@
       {
         "description": "Cavalry Attack in Player-to-Player combat.",
         "name": "Cavalry Attack vs. Player",
-        "star_skill_value": 0.5202000141143799,
+        "star_skill_value": 0.52020001411438,
         "type": "COUNCIL",
         "unlock_level": 60
       },
@@ -1710,42 +1710,42 @@
       {
         "description": "Reduces the amount of Pale Steel necessary for Military II research.",
         "name": "Research: Military II Pale Steel Cost Efficiency",
-        "star_skill_value": 0.10000000149011612,
+        "star_skill_value": 0.100000001490116,
         "type": "COUNCIL",
         "unlock_level": 10
       },
       {
         "description": "Reduces the amount of wood necessary for training Ranged.",
         "name": "Troop Training: Ranged Cost Efficiency Wood",
-        "star_skill_value": 0.03999999910593033,
+        "star_skill_value": 0.0399999991059303,
         "type": "COUNCIL",
         "unlock_level": 20
       },
       {
         "description": "Ranged Defense stat bonus in combat when marching against a player.",
         "name": "Ranged Defense While Marching vs. Player",
-        "star_skill_value": 0.25703999400138855,
+        "star_skill_value": 0.257039994001389,
         "type": "MARCH",
         "unlock_level": 30
       },
       {
         "description": "Troop Health bonus when your dragon is present.",
         "name": "Dragon: Troop Health",
-        "star_skill_value": 0.18359999358654022,
+        "star_skill_value": 0.18359999358654,
         "type": "COUNCIL",
         "unlock_level": 40
       },
       {
         "description": "Ranged health stat bonus in combat when marching against a player.",
         "name": "Ranged Health While Marching vs. Player",
-        "star_skill_value": 0.47124001383781433,
+        "star_skill_value": 0.471240013837814,
         "type": "MARCH",
         "unlock_level": 50
       },
       {
         "description": "Troop attack stat bonus in combat when marching against a player.",
         "name": "Troop Attack While Marching vs. Player",
-        "star_skill_value": 0.8567999601364136,
+        "star_skill_value": 0.856799960136414,
         "type": "COUNCIL",
         "unlock_level": 60
       },
@@ -1899,7 +1899,7 @@
       {
         "description": "Infantry health bonus.",
         "name": "Infantry Health",
-        "star_skill_value": 0.036720000207424164,
+        "star_skill_value": 0.0367200002074242,
         "type": "COUNCIL",
         "unlock_level": 10
       },
@@ -1920,7 +1920,7 @@
       {
         "description": "Infantry attack bonus.",
         "name": "Infantry Attack",
-        "star_skill_value": 0.18359999358654022,
+        "star_skill_value": 0.18359999358654,
         "type": "COUNCIL",
         "unlock_level": 40
       },
@@ -2034,21 +2034,21 @@
       {
         "description": "Siege health bonus.",
         "name": "Siege Health",
-        "star_skill_value": 0.4896000027656555,
+        "star_skill_value": 0.489600002765656,
         "type": "COUNCIL",
         "unlock_level": 10
       },
       {
         "description": "Siege Attack vs. another player's Traps.",
         "name": "Siege Attack vs. Player's Traps",
-        "star_skill_value": 0.4896000027656555,
+        "star_skill_value": 0.489600002765656,
         "type": "COUNCIL",
         "unlock_level": 20
       },
       {
         "description": "Reduces the amount of food consumed by your Cavalry troops.",
         "name": "Cavalry Upkeep Efficiency",
-        "star_skill_value": 0.1632000058889389,
+        "star_skill_value": 0.163200005888939,
         "type": "COUNCIL",
         "unlock_level": 30
       },
@@ -2142,21 +2142,21 @@
       {
         "description": "Siege defense bonus.",
         "name": "Siege Defense",
-        "star_skill_value": 0.2203199863433838,
+        "star_skill_value": 0.220319986343384,
         "type": "COUNCIL",
         "unlock_level": 10
       },
       {
         "description": "Reduces the amount of stone necessary for Logistics research.",
         "name": "Research: Logistics Stone Cost Efficiency",
-        "star_skill_value": 0.08999999612569809,
+        "star_skill_value": 0.0899999961256981,
         "type": "COUNCIL",
         "unlock_level": 20
       },
       {
         "description": "How much faster you heal wounded troops.",
         "name": "Healing Speed",
-        "star_skill_value": 1.4687999486923218,
+        "star_skill_value": 1.46879994869232,
         "type": "COUNCIL",
         "unlock_level": 30
       },
@@ -2233,30 +2233,30 @@
           0.0355453118681908,
           0.0364312492311001,
           0.0373828113079071,
-          0.0383999980986118,
+          0.0384000018239021,
           0.0394828133285046,
           0.0406312495470047,
-          0.0418453104794025,
+          0.0418453142046928,
           0.0431249998509884,
-          0.0444703102111816,
-          0.0458812490105629,
+          0.0444703139364719,
+          0.0458812527358532,
           0.0473578125238419,
           0.0489000007510185,
           0.0505078136920929,
           0.052181251347065,
           0.0539203137159348,
-          0.0557250007987022,
+          0.0557250045239925,
           0.0575953125953674,
-          0.0595312491059303,
-          0.0615328103303909,
-          0.0635999962687492,
+          0.0595312528312206,
+          0.0615328140556812,
+          0.0636000037193298,
           0.0657328143715858,
-          0.0679312497377396,
-          0.070195309817791,
+          0.0679312571883202,
+          0.0701953172683716,
           0.0725250020623207,
-          0.0749203115701675,
+          0.0749203190207481,
           0.0773812532424927,
-          0.0799078121781349,
+          0.0799078196287155,
           0.0825000032782555
         ],
         "type": "COUNCIL"
@@ -2277,7 +2277,7 @@
       {
         "description": "Ranged health bonus.",
         "name": "Ranged Health",
-        "star_skill_value": 0.24480000138282776,
+        "star_skill_value": 0.244800001382828,
         "type": "COUNCIL",
         "unlock_level": 10
       },
@@ -2291,21 +2291,21 @@
       {
         "description": "Reduces the amount of food necessary for upgrading buildings.",
         "name": "Building Food Cost Efficiency",
-        "star_skill_value": 0.1599999964237213,
+        "star_skill_value": 0.159999996423721,
         "type": "COUNCIL",
         "unlock_level": 30
       },
       {
         "description": "Reduce the amount of Steel required to forge equipment at the Smithy.",
         "name": "Steel Crafting Efficiency",
-        "star_skill_value": 1.958400011062622,
+        "star_skill_value": 1.95840001106262,
         "type": "COUNCIL",
         "unlock_level": 40
       },
       {
         "description": "Ranged Attack vs. another player's Ranged.",
         "name": "Ranged Attack vs. Player's Ranged",
-        "star_skill_value": 0.4896000027656555,
+        "star_skill_value": 0.489600002765656,
         "type": "COUNCIL",
         "unlock_level": 50
       },
@@ -2439,21 +2439,21 @@
       {
         "description": "How much faster you heal wounded troops.",
         "name": "Healing Speed",
-        "star_skill_value": 1.4687999486923218,
+        "star_skill_value": 1.46879994869232,
         "type": "COUNCIL",
         "unlock_level": 10
       },
       {
         "description": "Cavalry defense bonus.",
         "name": "Cavalry Defense",
-        "star_skill_value": 0.2203199863433838,
+        "star_skill_value": 0.220319986343384,
         "type": "MARCH",
         "unlock_level": 20
       },
       {
         "description": "Troop attack bonus towards creatures.",
         "name": "Attack vs. Creatures",
-        "star_skill_value": 0.4406399726867676,
+        "star_skill_value": 0.440639972686768,
         "type": "MARCH",
         "unlock_level": 30
       },
@@ -2467,14 +2467,14 @@
       {
         "description": "Reduces the amount of Red Gold necessary for Dragon research.",
         "name": "Research: Dragon Red Gold Cost Efficiency",
-        "star_skill_value": 0.07999999821186066,
+        "star_skill_value": 0.0799999982118607,
         "type": "COUNCIL",
         "unlock_level": 50
       },
       {
         "description": "Dead Troops Converted to Wounded",
         "name": "Dead Troops Converted to Wounded",
-        "star_skill_value": 0.10000000149011612,
+        "star_skill_value": 0.100000001490116,
         "type": "COUNCIL",
         "unlock_level": 60
       },
@@ -2635,7 +2635,7 @@
       {
         "description": "Reduces the amount of Dragon Lore required to upgrade your dragon whelp.",
         "name": "Dragon Lore Cost Efficiency (Whelp)",
-        "star_skill_value": 0.1599999964237213,
+        "star_skill_value": 0.159999996423721,
         "type": "COUNCIL",
         "unlock_level": 20
       },
@@ -2649,14 +2649,14 @@
       {
         "description": "Infantry Defense stat bonus in combat when marching against a player.",
         "name": "Infantry Defense While Marching vs. Player",
-        "star_skill_value": 0.5483520030975342,
+        "star_skill_value": 0.548352003097534,
         "type": "MARCH",
         "unlock_level": 40
       },
       {
         "description": "Cavalry Attack in Player-to-Player combat bonus when your dragon is present.",
         "name": "Dragon: Cavalry Attack vs. Player",
-        "star_skill_value": 0.4896000027656555,
+        "star_skill_value": 0.489600002765656,
         "type": "COUNCIL",
         "unlock_level": 50
       },
@@ -2790,21 +2790,21 @@
       {
         "description": "How much faster you complete Economy Research.",
         "name": "Economy Research Speed",
-        "star_skill_value": 0.10999999940395355,
+        "star_skill_value": 0.109999999403954,
         "type": "COUNCIL",
         "unlock_level": 10
       },
       {
         "description": "Ranged Attack vs. another player's Cavalry.",
         "name": "Ranged Attack vs. Player's Cavalry",
-        "star_skill_value": 0.1517760008573532,
+        "star_skill_value": 0.151776000857353,
         "type": "COUNCIL",
         "unlock_level": 20
       },
       {
         "description": "Reduces the amount of Scholarly Fragments necessary for Economy research.",
         "name": "Research: Economy Scholarly Fragment Cost Efficiency",
-        "star_skill_value": 0.07999999821186066,
+        "star_skill_value": 0.0799999982118607,
         "type": "COUNCIL",
         "unlock_level": 30
       },
@@ -2818,7 +2818,7 @@
       {
         "description": "Cavalry Attack vs. a Player while attacking another player at a Seat of Power",
         "name": "Marcher Cavalry Attack vs. Player at a Seat Of Power",
-        "star_skill_value": 0.13708800077438354,
+        "star_skill_value": 0.137088000774384,
         "type": "MARCH",
         "unlock_level": 50
       },
@@ -2952,21 +2952,21 @@
       {
         "description": "Trap Attack bonus amount.",
         "name": "Trap Attack",
-        "star_skill_value": 0.7343999743461609,
+        "star_skill_value": 0.734399974346161,
         "type": "COUNCIL",
         "unlock_level": 10
       },
       {
         "description": "Bonus to Stone gathering speed.",
         "name": "Stone Gathering",
-        "star_skill_value": 0.7343999743461609,
+        "star_skill_value": 0.734399974346161,
         "type": "MARCH",
         "unlock_level": 20
       },
       {
         "description": "Infantry Defense vs. another player's Infantry.",
         "name": "Infantry Defense vs. Player's Infantry",
-        "star_skill_value": 0.24480000138282776,
+        "star_skill_value": 0.244800001382828,
         "type": "COUNCIL",
         "unlock_level": 30
       },
@@ -3067,14 +3067,14 @@
       {
         "description": "Siege health bonus.",
         "name": "Siege Health",
-        "star_skill_value": 0.4896000027656555,
+        "star_skill_value": 0.489600002765656,
         "type": "COUNCIL",
         "unlock_level": 20
       },
       {
         "description": "March Speed vs. Creatures bonus when your dragon is present.",
         "name": "Dragon: Marching Speed vs. Creatures",
-        "star_skill_value": 0.4896000027656555,
+        "star_skill_value": 0.489600002765656,
         "type": "COUNCIL",
         "unlock_level": 30
       },
@@ -3168,35 +3168,35 @@
       {
         "description": "How much faster you complete City Defense Research.",
         "name": "City Defense Research Speed",
-        "star_skill_value": 0.2199999988079071,
+        "star_skill_value": 0.219999998807907,
         "type": "COUNCIL",
         "unlock_level": 10
       },
       {
         "description": "Trap Attack bonus amount.",
         "name": "Trap Attack",
-        "star_skill_value": 1.4687999486923218,
+        "star_skill_value": 1.46879994869232,
         "type": "COUNCIL",
         "unlock_level": 20
       },
       {
         "description": "Reduces the amount of Marble necessary for Building Enhancements.",
         "name": "Enhancements: Marble Cost Efficiency",
-        "star_skill_value": 0.1599999964237213,
+        "star_skill_value": 0.159999996423721,
         "type": "COUNCIL",
         "unlock_level": 30
       },
       {
         "description": "Reduces the amount of wood necessary for training Infantry.",
         "name": "Troop Training: Infantry Cost Efficiency Wood",
-        "star_skill_value": 0.1599999964237213,
+        "star_skill_value": 0.159999996423721,
         "type": "COUNCIL",
         "unlock_level": 40
       },
       {
         "description": "Reduces the amount of stone necessary for Military, Advanced Military, and Military II research.",
         "name": "Research: All Military Stone Cost Efficiency",
-        "star_skill_value": 0.1599999964237213,
+        "star_skill_value": 0.159999996423721,
         "type": "COUNCIL",
         "unlock_level": 50
       },
@@ -3330,28 +3330,28 @@
       {
         "description": "Reduces the amount of food consumed by your Cavalry troops.",
         "name": "Cavalry Upkeep Efficiency",
-        "star_skill_value": 0.24480000138282776,
+        "star_skill_value": 0.244800001382828,
         "type": "COUNCIL",
         "unlock_level": 10
       },
       {
         "description": "Cavalry Attack vs. another player's Infantry.",
         "name": "Cavalry Attack vs. Player's Infantry",
-        "star_skill_value": 0.44064000248908997,
+        "star_skill_value": 0.44064000248909,
         "type": "MARCH",
         "unlock_level": 20
       },
       {
         "description": "Reduces the amount of food necessary for training Cavalry.",
         "name": "Troop Training: Cavalry Cost Efficiency Food",
-        "star_skill_value": 0.11999999731779099,
+        "star_skill_value": 0.119999997317791,
         "type": "COUNCIL",
         "unlock_level": 30
       },
       {
         "description": "Cavalry Health in Player-to-Player combat.",
         "name": "Cavalry Health vs. Player",
-        "star_skill_value": 0.36719998717308044,
+        "star_skill_value": 0.36719998717308,
         "type": "COUNCIL",
         "unlock_level": 40
       },
@@ -3465,7 +3465,7 @@
       {
         "description": "Bonus to Sawmill generation",
         "name": "Wood Production",
-        "star_skill_value": 0.9179999828338623,
+        "star_skill_value": 0.917999982833862,
         "type": "COUNCIL",
         "unlock_level": 10
       },
@@ -3479,14 +3479,14 @@
       {
         "description": "Reduces the amount of wood necessary for City Defense research.",
         "name": "Research: City Defense Wood Cost Efficiency",
-        "star_skill_value": 0.11999999731779099,
+        "star_skill_value": 0.119999997317791,
         "type": "COUNCIL",
         "unlock_level": 30
       },
       {
         "description": "Ranged Defense vs. another player's Infantry.",
         "name": "Ranged Defense vs. Player's Infantry",
-        "star_skill_value": 0.36719998717308044,
+        "star_skill_value": 0.36719998717308,
         "type": "COUNCIL",
         "unlock_level": 40
       },
@@ -3600,14 +3600,14 @@
       {
         "description": "How much faster you complete Expeditions.",
         "name": "Expedition Speed",
-        "star_skill_value": 0.10999999940395355,
+        "star_skill_value": 0.109999999403954,
         "type": "COUNCIL",
         "unlock_level": 10
       },
       {
         "description": "Reduces the amount of food consumed by your Infantry.",
         "name": "Infantry Upkeep Efficiency",
-        "star_skill_value": 0.1632000058889389,
+        "star_skill_value": 0.163200005888939,
         "type": "COUNCIL",
         "unlock_level": 20
       },
@@ -3708,28 +3708,28 @@
       {
         "description": "Ranged defense bonus in combat at a Seat of Power",
         "name": "Ranged Defense at Seats of Power",
-        "star_skill_value": 0.2937600016593933,
+        "star_skill_value": 0.293760001659393,
         "type": "COUNCIL",
         "unlock_level": 10
       },
       {
         "description": "Bonus speed of gathering at strategic resources on the map.",
         "name": "Strategic Resource Gathering Speed",
-        "star_skill_value": 0.2970000207424164,
+        "star_skill_value": 0.297000020742416,
         "type": "COUNCIL",
         "unlock_level": 20
       },
       {
         "description": "Ranged health stat bonus in combat when marching against a player.",
         "name": "Ranged Health While Marching vs. Player",
-        "star_skill_value": 0.5140799880027771,
+        "star_skill_value": 0.514079988002777,
         "type": "MARCH",
         "unlock_level": 30
       },
       {
         "description": "How much faster your troops march to resources on the map.",
         "name": "March Speed vs. Resources",
-        "star_skill_value": 0.9914400577545166,
+        "star_skill_value": 0.991440057754517,
         "type": "MARCH",
         "unlock_level": 40
       },
@@ -3843,42 +3843,42 @@
       {
         "description": "Cavalry Health stat bonus in combat when marching against a player.",
         "name": "Cavalry Health While Marching vs. Player",
-        "star_skill_value": 0.17136000096797943,
+        "star_skill_value": 0.171360000967979,
         "type": "MARCH",
         "unlock_level": 10
       },
       {
         "description": "Reduction in resources required for healing wounded troops.",
         "name": "Healing Cost Efficiency",
-        "star_skill_value": 0.4896000027656555,
+        "star_skill_value": 0.489600002765656,
         "type": "COUNCIL",
         "unlock_level": 20
       },
       {
         "description": "Cavalry Defense stat bonus in combat when marching against a player.",
         "name": "Cavalry Defense While Marching vs. Player",
-        "star_skill_value": 0.25703999400138855,
+        "star_skill_value": 0.257039994001389,
         "type": "MARCH",
         "unlock_level": 30
       },
       {
         "description": "Reduces the amount of Pale Steel necessary for Dragon research.",
         "name": "Research: Dragon Pale Steel Cost Efficiency",
-        "star_skill_value": 0.12000000476837158,
+        "star_skill_value": 0.120000004768372,
         "type": "COUNCIL",
         "unlock_level": 40
       },
       {
         "description": "How much faster you heal wounded troops.",
         "name": "Healing Speed",
-        "star_skill_value": 1.4687999486923218,
+        "star_skill_value": 1.46879994869232,
         "type": "COUNCIL",
         "unlock_level": 50
       },
       {
         "description": "Improves troop survivability in combat against other players.",
         "name": "Troop Health vs. Player",
-        "star_skill_value": 0.5507999658584595,
+        "star_skill_value": 0.550799965858459,
         "type": "COUNCIL",
         "unlock_level": 60
       },
@@ -4039,21 +4039,21 @@
       {
         "description": "Reduces the amount of wood necessary for upgrading buildings.",
         "name": "Building Wood Cost Efficiency",
-        "star_skill_value": 0.09600000083446503,
+        "star_skill_value": 0.096000000834465,
         "type": "COUNCIL",
         "unlock_level": 20
       },
       {
         "description": "Research and Expedition speed bonus.",
         "name": "Maester Research Speed",
-        "star_skill_value": 0.6119999885559082,
+        "star_skill_value": 0.611999988555908,
         "type": "COUNCIL",
         "unlock_level": 30
       },
       {
         "description": "Reduces the amount of iron necessary for Military, Advanced Military, and Military II research.",
         "name": "Research: All Military Iron Cost Efficiency",
-        "star_skill_value": 0.11999999731779099,
+        "star_skill_value": 0.119999997317791,
         "type": "COUNCIL",
         "unlock_level": 40
       },
@@ -4194,35 +4194,35 @@
       {
         "description": "How much faster you complete Dragon Research.",
         "name": "Dragon Research Speed",
-        "star_skill_value": 0.17599999904632568,
+        "star_skill_value": 0.175999999046326,
         "type": "COUNCIL",
         "unlock_level": 10
       },
       {
         "description": "Dragon Cavalry Defense vs. a Player while attacking another player",
         "name": "Dragon Marcher Cavalry Defense vs. Player",
-        "star_skill_value": 0.1428000032901764,
+        "star_skill_value": 0.142800003290176,
         "type": "COUNCIL",
         "unlock_level": 20
       },
       {
         "description": "Reduces the amount of Dragon Lore necessary for Dragon research.",
         "name": "Research: Dragon Lore Cost Efficiency",
-        "star_skill_value": 0.1599999964237213,
+        "star_skill_value": 0.159999996423721,
         "type": "COUNCIL",
         "unlock_level": 30
       },
       {
         "description": "Ranged Defense stat bonus in combat when marching against a player.",
         "name": "Ranged Defense While Marching vs. Player",
-        "star_skill_value": 0.37699201703071594,
+        "star_skill_value": 0.376992017030716,
         "type": "MARCH",
         "unlock_level": 40
       },
       {
         "description": "Cavalry Attack vs. player's Cavalry bonus when your dragon is present.",
         "name": "Dragon: Cavalry Attack vs. Player's Cavalry",
-        "star_skill_value": 0.4896000027656555,
+        "star_skill_value": 0.489600002765656,
         "type": "COUNCIL",
         "unlock_level": 50
       },
@@ -4356,35 +4356,35 @@
       {
         "description": "Bonus speed of gathering at strategic resources on the map.",
         "name": "Strategic Resource Gathering Speed",
-        "star_skill_value": 0.4399999976158142,
+        "star_skill_value": 0.439999997615814,
         "type": "MARCH",
         "unlock_level": 10
       },
       {
         "description": "Bonus to Iron Mine generation",
         "name": "Iron Production",
-        "star_skill_value": 0.8567999601364136,
+        "star_skill_value": 0.856799960136414,
         "type": "COUNCIL",
         "unlock_level": 20
       },
       {
         "description": "Ranged Defense vs. another player's Cavalry.",
         "name": "Ranged Defense vs. Player's Cavalry",
-        "star_skill_value": 0.34272000193595886,
+        "star_skill_value": 0.342720001935959,
         "type": "COUNCIL",
         "unlock_level": 30
       },
       {
         "description": "Ranged Defense vs. another player's Infantry.",
         "name": "Ranged Defense vs. Player's Infantry",
-        "star_skill_value": 0.44064000248908997,
+        "star_skill_value": 0.44064000248909,
         "type": "COUNCIL",
         "unlock_level": 40
       },
       {
         "description": "Ranged Attack vs. another player's Infantry.",
         "name": "Ranged Attack vs. Player's Infantry",
-        "star_skill_value": 0.5875200033187866,
+        "star_skill_value": 0.587520003318787,
         "type": "MARCH",
         "unlock_level": 50
       },
@@ -4518,21 +4518,21 @@
       {
         "description": "Cavalry Defense vs. another player's Infantry.",
         "name": "Cavalry Defense vs. Player's Infantry",
-        "star_skill_value": 0.3059999942779541,
+        "star_skill_value": 0.305999994277954,
         "type": "COUNCIL",
         "unlock_level": 10
       },
       {
         "description": "Increase March Speed when attacking another player at their Keep, Seat of Power, or Strategic Terrain.",
         "name": "March Speed vs. Player",
-        "star_skill_value": 0.33048000931739807,
+        "star_skill_value": 0.330480009317398,
         "type": "MARCH",
         "unlock_level": 20
       },
       {
         "description": "Cavalry Defense vs. another player's Ranged.",
         "name": "Cavalry Defense vs. Player's Ranged",
-        "star_skill_value": 0.27539998292922974,
+        "star_skill_value": 0.27539998292923,
         "type": "COUNCIL",
         "unlock_level": 30
       },
@@ -4546,14 +4546,14 @@
       {
         "description": "Cavalry Attack vs. another player's Infantry.",
         "name": "Cavalry Attack vs. Player's Infantry",
-        "star_skill_value": 0.4406399726867676,
+        "star_skill_value": 0.440639972686768,
         "type": "MARCH",
         "unlock_level": 50
       },
       {
         "description": "Cavalry Health in Player-to-Player combat.",
         "name": "Cavalry Health vs. Player",
-        "star_skill_value": 0.6119999885559082,
+        "star_skill_value": 0.611999988555908,
         "type": "COUNCIL",
         "unlock_level": 60
       },
@@ -4707,7 +4707,7 @@
       {
         "description": "Cavalry Defense vs. another player's Cavalry.",
         "name": "Cavalry Defense vs. Player's Cavalry",
-        "star_skill_value": 0.3182399868965149,
+        "star_skill_value": 0.318239986896515,
         "type": "COUNCIL",
         "unlock_level": 10
       },
@@ -4721,21 +4721,21 @@
       {
         "description": "Ranged health stat bonus in combat when marching against a player.",
         "name": "Ranged Health While Marching vs. Player",
-        "star_skill_value": 0.34272000193595886,
+        "star_skill_value": 0.342720001935959,
         "type": "MARCH",
         "unlock_level": 30
       },
       {
         "description": "Cavalry health bonus in combat at a Seat of Power",
         "name": "Cavalry Health at Seats of Power",
-        "star_skill_value": 0.4896000027656555,
+        "star_skill_value": 0.489600002765656,
         "type": "COUNCIL",
         "unlock_level": 40
       },
       {
         "description": "Ranged Attack stat bonus in combat when marching against a player.",
         "name": "Ranged Attack While Marching vs. Player",
-        "star_skill_value": 0.6854400038719177,
+        "star_skill_value": 0.685440003871918,
         "type": "MARCH",
         "unlock_level": 50
       },
@@ -4869,35 +4869,35 @@
       {
         "description": "Bonus to Farm generation.",
         "name": "Food Production",
-        "star_skill_value": 0.20399999618530273,
+        "star_skill_value": 0.203999996185303,
         "type": "COUNCIL",
         "unlock_level": 10
       },
       {
         "description": "Ranged Defense vs. another player's Cavalry.",
         "name": "Ranged Defense vs. Player's Cavalry",
-        "star_skill_value": 0.14688000082969666,
+        "star_skill_value": 0.146880000829697,
         "type": "MARCH",
         "unlock_level": 20
       },
       {
         "description": "Reduces the amount of Marble necessary for Building Enhancements.",
         "name": "Enhancements: Marble Cost Efficiency",
-        "star_skill_value": 0.10000000149011612,
+        "star_skill_value": 0.100000001490116,
         "type": "COUNCIL",
         "unlock_level": 30
       },
       {
         "description": "March Speed bonus when your dragon is present.",
         "name": "Dragon: Marching Speed",
-        "star_skill_value": 0.18359999358654022,
+        "star_skill_value": 0.18359999358654,
         "type": "COUNCIL",
         "unlock_level": 40
       },
       {
         "description": "Ranged Defense vs. a Player while in combat with another player at a Seat of Power",
         "name": "Ranged Defense vs. Player at a Seat Of Power",
-        "star_skill_value": 0.4896000027656555,
+        "star_skill_value": 0.489600002765656,
         "type": "COUNCIL",
         "unlock_level": 50
       },
@@ -5058,35 +5058,35 @@
       {
         "description": "Infantry Defense stat bonus in combat when marching against a player.",
         "name": "Infantry Defense While Marching vs. Player",
-        "star_skill_value": 0.6854400038719177,
+        "star_skill_value": 0.685440003871918,
         "type": "MARCH",
         "unlock_level": 10
       },
       {
         "description": "The bonus to the amount of load troops can carry when the dragon is present.",
         "name": "Dragon: Troop Load Bonus",
-        "star_skill_value": 0.6528000235557556,
+        "star_skill_value": 0.652800023555756,
         "type": "COUNCIL",
         "unlock_level": 20
       },
       {
         "description": "Infantry Attack vs. another player's Cavalry.",
         "name": "Infantry Attack vs. Player's Cavalry",
-        "star_skill_value": 0.5875200033187866,
+        "star_skill_value": 0.587520003318787,
         "type": "MARCH",
         "unlock_level": 30
       },
       {
         "description": "Dragon Cavalry Health vs. a Player while attacking another player",
         "name": "Dragon Marcher Cavalry Health vs. Player",
-        "star_skill_value": 0.5712000131607056,
+        "star_skill_value": 0.571200013160706,
         "type": "COUNCIL",
         "unlock_level": 40
       },
       {
         "description": "Dragon Cavalry Attack vs. a Player while attacking another player",
         "name": "Dragon Marcher Cavalry Attack vs. Player",
-        "star_skill_value": 0.5712000131607056,
+        "star_skill_value": 0.571200013160706,
         "type": "COUNCIL",
         "unlock_level": 50
       },
@@ -5220,42 +5220,42 @@
       {
         "description": "Infantry Health stat bonus in combat when marching against a player.",
         "name": "Infantry Health While Marching vs. Player",
-        "star_skill_value": 0.25703999400138855,
+        "star_skill_value": 0.257039994001389,
         "type": "MARCH",
         "unlock_level": 10
       },
       {
         "description": "Infantry Attack vs. another player's Cavalry.",
         "name": "Infantry Attack vs. Player's Cavalry",
-        "star_skill_value": 0.2203199863433838,
+        "star_skill_value": 0.220319986343384,
         "type": "MARCH",
         "unlock_level": 20
       },
       {
         "description": "Research and Expedition speed bonus.",
         "name": "Maester Research Speed",
-        "star_skill_value": 0.6119999885559082,
+        "star_skill_value": 0.611999988555908,
         "type": "COUNCIL",
         "unlock_level": 30
       },
       {
         "description": "Infantry Defense stat bonus in combat when marching against a player.",
         "name": "Infantry Defense While Marching vs. Player",
-        "star_skill_value": 0.5140799880027771,
+        "star_skill_value": 0.514079988002777,
         "type": "MARCH",
         "unlock_level": 40
       },
       {
         "description": "Infantry Health in Player-to-Player combat.",
         "name": "Infantry Health vs. Player",
-        "star_skill_value": 0.4896000027656555,
+        "star_skill_value": 0.489600002765656,
         "type": "COUNCIL",
         "unlock_level": 50
       },
       {
         "description": "Infantry attack bonus.",
         "name": "Infantry Attack",
-        "star_skill_value": 0.33660000562667847,
+        "star_skill_value": 0.336600005626678,
         "type": "COUNCIL",
         "unlock_level": 60
       },
@@ -5416,28 +5416,28 @@
       {
         "description": "Cavalry health bonus.",
         "name": "Cavalry Health",
-        "star_skill_value": 0.34272000193595886,
+        "star_skill_value": 0.342720001935959,
         "type": "COUNCIL",
         "unlock_level": 20
       },
       {
         "description": "Cavalry Attack vs. another player's Infantry.",
         "name": "Cavalry Attack vs. Player's Infantry",
-        "star_skill_value": 0.14688000082969666,
+        "star_skill_value": 0.146880000829697,
         "type": "COUNCIL",
         "unlock_level": 30
       },
       {
         "description": "Cavalry attack bonus in combat at a Seat of Power",
         "name": "Cavalry Attack at Seats of Power",
-        "star_skill_value": 0.14688000082969666,
+        "star_skill_value": 0.146880000829697,
         "type": "COUNCIL",
         "unlock_level": 40
       },
       {
         "description": "Cavalry Health stat bonus in combat when marching against a player.",
         "name": "Cavalry Health While Marching vs. Player",
-        "star_skill_value": 0.39983999729156494,
+        "star_skill_value": 0.399839997291565,
         "type": "COUNCIL",
         "unlock_level": 50
       },
@@ -5571,28 +5571,28 @@
       {
         "description": "Training Speed bonus.",
         "name": "Training Speed",
-        "star_skill_value": 0.4896000027656555,
+        "star_skill_value": 0.489600002765656,
         "type": "COUNCIL",
         "unlock_level": 10
       },
       {
         "description": "Increase March Speed when attacking another player at their Keep, Seat of Power, or Strategic Terrain.",
         "name": "March Speed vs. Player",
-        "star_skill_value": 0.22032001614570618,
+        "star_skill_value": 0.220320016145706,
         "type": "MARCH",
         "unlock_level": 20
       },
       {
         "description": "Infantry Health in Player-to-Player combat.",
         "name": "Infantry Health vs. Player",
-        "star_skill_value": 0.2937600016593933,
+        "star_skill_value": 0.293760001659393,
         "type": "MARCH",
         "unlock_level": 30
       },
       {
         "description": "Infantry Defense vs. another player's Infantry.",
         "name": "Infantry Defense vs. Player's Infantry",
-        "star_skill_value": 0.3059999942779541,
+        "star_skill_value": 0.305999994277954,
         "type": "COUNCIL",
         "unlock_level": 40
       },
@@ -5606,7 +5606,7 @@
       {
         "description": "Improves troop attack in combat against other players.",
         "name": "Troop Attack vs. Player",
-        "star_skill_value": 0.4406399726867676,
+        "star_skill_value": 0.440639972686768,
         "type": "MARCH",
         "unlock_level": 60
       },
@@ -5760,7 +5760,7 @@
       {
         "description": "Bonus to Iron gathering speed.",
         "name": "Iron Gathering",
-        "star_skill_value": 0.24480000138282776,
+        "star_skill_value": 0.244800001382828,
         "type": "COUNCIL",
         "unlock_level": 10
       },
@@ -5774,21 +5774,21 @@
       {
         "description": "Ranged Attack vs. another player's Infantry.",
         "name": "Ranged Attack vs. Player's Infantry",
-        "star_skill_value": 0.30551040172576904,
+        "star_skill_value": 0.305510401725769,
         "type": "MARCH",
         "unlock_level": 30
       },
       {
         "description": "Attack bonus of your army when defending.",
         "name": "Defender Attack",
-        "star_skill_value": 0.4406399726867676,
+        "star_skill_value": 0.440639972686768,
         "type": "COUNCIL",
         "unlock_level": 40
       },
       {
         "description": "Ranged attack bonus.",
         "name": "Ranged Attack",
-        "star_skill_value": 0.3818880021572113,
+        "star_skill_value": 0.381888002157211,
         "type": "MARCH",
         "unlock_level": 50
       },
@@ -5922,42 +5922,42 @@
       {
         "description": "Improves troop defense in combat against other players.",
         "name": "Troop Defense vs. Player",
-        "star_skill_value": 0.2141999900341034,
+        "star_skill_value": 0.214199990034103,
         "type": "COUNCIL",
         "unlock_level": 10
       },
       {
         "description": "Ranged Defense vs. another player's Cavalry.",
         "name": "Ranged Defense vs. Player's Cavalry",
-        "star_skill_value": 0.14688000082969666,
+        "star_skill_value": 0.146880000829697,
         "type": "MARCH",
         "unlock_level": 20
       },
       {
         "description": "Ranged Attack vs. a Player while attacking another player at a Seat of Power",
         "name": "Marcher Ranged Attack vs. Player at a Seat Of Power",
-        "star_skill_value": 0.4284000098705292,
+        "star_skill_value": 0.428400009870529,
         "type": "MARCH",
         "unlock_level": 30
       },
       {
         "description": "Bonus speed of gathering at strategic resources on the map.",
         "name": "Strategic Resource Gathering Speed",
-        "star_skill_value": 0.1925000101327896,
+        "star_skill_value": 0.19250001013279,
         "type": "COUNCIL",
         "unlock_level": 40
       },
       {
         "description": "Troop defense bonus when attacking a Seat of Power.",
         "name": "Defense at a Seat Of Power",
-        "star_skill_value": 0.4283999800682068,
+        "star_skill_value": 0.428399980068207,
         "type": "COUNCIL",
         "unlock_level": 50
       },
       {
         "description": "Increases the defense of your dragon",
         "name": "Dragon Defense",
-        "star_skill_value": 0.8567999601364136,
+        "star_skill_value": 0.856799960136414,
         "type": "COUNCIL",
         "unlock_level": 60
       },
@@ -6125,14 +6125,14 @@
       {
         "description": "How much faster your troops march.",
         "name": "March Speed",
-        "star_skill_value": 0.11750400066375732,
+        "star_skill_value": 0.117504000663757,
         "type": "MARCH",
         "unlock_level": 30
       },
       {
         "description": "Troop attack bonus towards creatures.",
         "name": "Attack vs. Creatures",
-        "star_skill_value": 0.3916800022125244,
+        "star_skill_value": 0.391680002212524,
         "type": "COUNCIL",
         "unlock_level": 40
       },
@@ -6273,42 +6273,42 @@
       {
         "description": "Reduce the amount of Steel required to forge equipment at the Smithy.",
         "name": "Steel Crafting Efficiency",
-        "star_skill_value": 0.6119999885559082,
+        "star_skill_value": 0.611999988555908,
         "type": "COUNCIL",
         "unlock_level": 10
       },
       {
         "description": "Ranged Health vs. Player-to-Player combat.",
         "name": "Ranged Health vs. Player",
-        "star_skill_value": 0.24480000138282776,
+        "star_skill_value": 0.244800001382828,
         "type": "COUNCIL",
         "unlock_level": 20
       },
       {
         "description": "Increases the survivability of your troops when attacking a Seat of Power.",
         "name": "Health at a Seat Of Power",
-        "star_skill_value": 0.44064000248908997,
+        "star_skill_value": 0.44064000248909,
         "type": "MARCH",
         "unlock_level": 30
       },
       {
         "description": "Ranged Defense vs. another player's Ranged.",
         "name": "Ranged Defense vs. Player's Ranged",
-        "star_skill_value": 0.45899999141693115,
+        "star_skill_value": 0.458999991416931,
         "type": "COUNCIL",
         "unlock_level": 40
       },
       {
         "description": "Ranged Attack vs. another player's Ranged.",
         "name": "Ranged Attack vs. Player's Ranged",
-        "star_skill_value": 0.45899999141693115,
+        "star_skill_value": 0.458999991416931,
         "type": "COUNCIL",
         "unlock_level": 50
       },
       {
         "description": "Troop defense bonus when attacking a Seat of Power.",
         "name": "Defense at a Seat Of Power",
-        "star_skill_value": 0.44064000248908997,
+        "star_skill_value": 0.44064000248909,
         "type": "MARCH",
         "unlock_level": 60
       },
@@ -6462,21 +6462,21 @@
       {
         "description": "How much faster your troops march to creatures on the map.",
         "name": "March Speed vs. Creatures",
-        "star_skill_value": 0.22032000124454498,
+        "star_skill_value": 0.220320001244545,
         "type": "COUNCIL",
         "unlock_level": 10
       },
       {
         "description": "Increases the survivability of your troops when attacking creatures with your dragon.",
         "name": "Dragon: Troop Health vs. Creatures",
-        "star_skill_value": 0.23500800132751465,
+        "star_skill_value": 0.235008001327515,
         "type": "COUNCIL",
         "unlock_level": 20
       },
       {
         "description": "Troop defense bonus when fighting creatures.",
         "name": "Defense vs. Creatures",
-        "star_skill_value": 0.2937600016593933,
+        "star_skill_value": 0.293760001659393,
         "type": "COUNCIL",
         "unlock_level": 30
       },
@@ -6490,7 +6490,7 @@
       {
         "description": "Increases the defense of your dragon",
         "name": "Dragon Defense",
-        "star_skill_value": 0.5875200033187866,
+        "star_skill_value": 0.587520003318787,
         "type": "COUNCIL",
         "unlock_level": 50
       },
@@ -6631,35 +6631,35 @@
       {
         "description": "Infantry attack bonus in combat at a Seat of Power",
         "name": "Infantry Attack at Seats of Power",
-        "star_skill_value": 0.12240000069141388,
+        "star_skill_value": 0.122400000691414,
         "type": "COUNCIL",
         "unlock_level": 20
       },
       {
         "description": "Infantry Defense in Player-to-Player combat.",
         "name": "Infantry Defense vs. Player",
-        "star_skill_value": 0.36719998717308044,
+        "star_skill_value": 0.36719998717308,
         "type": "MARCH",
         "unlock_level": 30
       },
       {
         "description": "Infantry Health in Player-to-Player combat.",
         "name": "Infantry Health vs. Player",
-        "star_skill_value": 0.18359999358654022,
+        "star_skill_value": 0.18359999358654,
         "type": "COUNCIL",
         "unlock_level": 40
       },
       {
         "description": "Infantry Defense stat bonus in combat when marching against a player.",
         "name": "Infantry Defense While Marching vs. Player",
-        "star_skill_value": 0.6425999999046326,
+        "star_skill_value": 0.642599999904633,
         "type": "MARCH",
         "unlock_level": 50
       },
       {
         "description": "Infantry Attack stat bonus in combat when marching against a player.",
         "name": "Infantry Attack While Marching vs. Player",
-        "star_skill_value": 0.7282800078392029,
+        "star_skill_value": 0.728280007839203,
         "type": "MARCH",
         "unlock_level": 60
       },
@@ -6813,21 +6813,21 @@
       {
         "description": "Infantry Defense vs. another player's Ranged.",
         "name": "Infantry Defense vs. Player's Ranged",
-        "star_skill_value": 0.23500800132751465,
+        "star_skill_value": 0.235008001327515,
         "type": "MARCH",
         "unlock_level": 10
       },
       {
         "description": "Bonus to Iron Mine generation",
         "name": "Iron Production",
-        "star_skill_value": 1.2239999771118164,
+        "star_skill_value": 1.22399997711182,
         "type": "COUNCIL",
         "unlock_level": 20
       },
       {
         "description": "How much faster your troops march to the rally point when attacking another player.",
         "name": "March Speed to Join Rally vs. Player",
-        "star_skill_value": 0.07500000298023224,
+        "star_skill_value": 0.0750000029802322,
         "type": "COUNCIL",
         "unlock_level": 30
       },
@@ -6982,35 +6982,35 @@
       {
         "description": "Ranged health bonus in combat at a Seat of Power",
         "name": "Ranged Health at Seats of Power",
-        "star_skill_value": 0.2937600016593933,
+        "star_skill_value": 0.293760001659393,
         "type": "MARCH",
         "unlock_level": 20
       },
       {
         "description": "Ranged Attack vs. player's Cavalry bonus when your dragon is present.",
         "name": "Dragon: Ranged Attack vs. Player's Cavalry",
-        "star_skill_value": 0.3059999942779541,
+        "star_skill_value": 0.305999994277954,
         "type": "COUNCIL",
         "unlock_level": 30
       },
       {
         "description": "Ranged Attack bonus when your dragon is present.",
         "name": "Dragon: Ranged Attack",
-        "star_skill_value": 0.3059999942779541,
+        "star_skill_value": 0.305999994277954,
         "type": "COUNCIL",
         "unlock_level": 40
       },
       {
         "description": "Ranged Health in Player-to-Player combat bonus when your dragon is present.",
         "name": "Dragon: Ranged Health vs. Player",
-        "star_skill_value": 0.3059999942779541,
+        "star_skill_value": 0.305999994277954,
         "type": "COUNCIL",
         "unlock_level": 50
       },
       {
         "description": "Troop Attack bonus when your dragon is present.",
         "name": "Dragon: Troop Attack",
-        "star_skill_value": 0.3059999942779541,
+        "star_skill_value": 0.305999994277954,
         "type": "COUNCIL",
         "unlock_level": 60
       },
@@ -7164,7 +7164,7 @@
       {
         "description": "How much faster you heal wounded troops.",
         "name": "Healing Speed",
-        "star_skill_value": 1.0183680057525635,
+        "star_skill_value": 1.01836800575256,
         "type": "COUNCIL",
         "unlock_level": 10
       },
@@ -7178,7 +7178,7 @@
       {
         "description": "How much faster your troops march.",
         "name": "March Speed",
-        "star_skill_value": 0.5052672028541565,
+        "star_skill_value": 0.505267202854156,
         "type": "MARCH",
         "unlock_level": 30
       },
@@ -7192,7 +7192,7 @@
       {
         "description": "Reduction in resources required for healing wounded troops.",
         "name": "Healing Cost Efficiency",
-        "star_skill_value": 0.5875200033187866,
+        "star_skill_value": 0.587520003318787,
         "type": "COUNCIL",
         "unlock_level": 50
       },
@@ -7326,7 +7326,7 @@
       {
         "description": "How much faster your troops march.",
         "name": "March Speed",
-        "star_skill_value": 0.5140799880027771,
+        "star_skill_value": 0.514079988002777,
         "type": "MARCH",
         "unlock_level": 10
       },
@@ -7340,28 +7340,28 @@
       {
         "description": "Reduces the amount of food necessary for Military, Advanced Military, and Military II research.",
         "name": "Research: All Military Food Cost Efficiency",
-        "star_skill_value": 0.1599999964237213,
+        "star_skill_value": 0.159999996423721,
         "type": "COUNCIL",
         "unlock_level": 30
       },
       {
         "description": "Research and Expedition speed bonus.",
         "name": "Maester Research Speed",
-        "star_skill_value": 0.6884999871253967,
+        "star_skill_value": 0.688499987125397,
         "type": "COUNCIL",
         "unlock_level": 40
       },
       {
         "description": "Ranged Defense vs. another player's Infantry.",
         "name": "Ranged Defense vs. Player's Infantry",
-        "star_skill_value": 0.5875200033187866,
+        "star_skill_value": 0.587520003318787,
         "type": "MARCH",
         "unlock_level": 50
       },
       {
         "description": "Ranged Attack vs. another player's Infantry.",
         "name": "Ranged Attack vs. Player's Infantry",
-        "star_skill_value": 0.5875200033187866,
+        "star_skill_value": 0.587520003318787,
         "type": "MARCH",
         "unlock_level": 60
       },
@@ -7515,35 +7515,35 @@
       {
         "description": "How much faster your troops march.",
         "name": "March Speed",
-        "star_skill_value": 0.34272000193595886,
+        "star_skill_value": 0.342720001935959,
         "type": "COUNCIL",
         "unlock_level": 10
       },
       {
         "description": "Infantry Defense vs. another player's Ranged.",
         "name": "Infantry Defense vs. Player's Ranged",
-        "star_skill_value": 0.23500800132751465,
+        "star_skill_value": 0.235008001327515,
         "type": "MARCH",
         "unlock_level": 20
       },
       {
         "description": "Training Speed bonus.",
         "name": "Training Speed",
-        "star_skill_value": 0.7833600044250488,
+        "star_skill_value": 0.783360004425049,
         "type": "COUNCIL",
         "unlock_level": 30
       },
       {
         "description": "The maximum number of troops that can be in a single march to a Seat of Power.",
         "name": "March Size vs. Seats of Power",
-        "star_skill_value": 2203.199951171875,
+        "star_skill_value": 2203.19995117188,
         "type": "COUNCIL",
         "unlock_level": 40
       },
       {
         "description": "Infantry Attack in Player-to-Player combat.",
         "name": "Infantry Attack vs. Player",
-        "star_skill_value": 0.44651520252227783,
+        "star_skill_value": 0.446515202522278,
         "type": "MARCH",
         "unlock_level": 50
       },
@@ -7677,7 +7677,7 @@
       {
         "description": "Health bonus of your army when defending.",
         "name": "Defender Health",
-        "star_skill_value": 0.5507999658584595,
+        "star_skill_value": 0.550799965858459,
         "type": "COUNCIL",
         "unlock_level": 10
       },
@@ -7691,14 +7691,14 @@
       {
         "description": "Cavalry Attack stat bonus in combat when marching against a player.",
         "name": "Cavalry Attack While Marching vs. Player",
-        "star_skill_value": 0.4284000098705292,
+        "star_skill_value": 0.428400009870529,
         "type": "MARCH",
         "unlock_level": 30
       },
       {
         "description": "Siege attack stat bonus in combat when marching against a player.",
         "name": "Siege Attack While Marching vs. Player",
-        "star_skill_value": 0.8568000197410583,
+        "star_skill_value": 0.856800019741058,
         "type": "MARCH",
         "unlock_level": 40
       },
@@ -7712,7 +7712,7 @@
       {
         "description": "Cavalry Attack vs. a Player while attacking another player at a Seat of Power",
         "name": "Marcher Cavalry Attack vs. Player at a Seat Of Power",
-        "star_skill_value": 0.5569199919700623,
+        "star_skill_value": 0.556919991970062,
         "type": "MARCH",
         "unlock_level": 60
       },
@@ -7873,14 +7873,14 @@
       {
         "description": "Increase March Speed when attacking another player at their Keep, Seat of Power, or Strategic Terrain.",
         "name": "March Speed vs. Player",
-        "star_skill_value": 0.6609600186347961,
+        "star_skill_value": 0.660960018634796,
         "type": "MARCH",
         "unlock_level": 20
       },
       {
         "description": "Cavalry Defense vs. another player's Infantry.",
         "name": "Cavalry Defense vs. Player's Infantry",
-        "star_skill_value": 0.3916800022125244,
+        "star_skill_value": 0.391680002212524,
         "type": "COUNCIL",
         "unlock_level": 30
       },
@@ -7894,7 +7894,7 @@
       {
         "description": "Troop Defense bonus when your dragon is present.",
         "name": "Dragon: Troop Defense",
-        "star_skill_value": 0.3916800022125244,
+        "star_skill_value": 0.391680002212524,
         "type": "COUNCIL",
         "unlock_level": 50
       },
@@ -8028,21 +8028,21 @@
       {
         "description": "Infantry health bonus.",
         "name": "Infantry Health",
-        "star_skill_value": 0.2203199863433838,
+        "star_skill_value": 0.220319986343384,
         "type": "MARCH",
         "unlock_level": 10
       },
       {
         "description": "Increase March Speed when attacking another player at their Keep, Seat of Power, or Strategic Terrain.",
         "name": "March Speed vs. Player",
-        "star_skill_value": 0.44064003229141235,
+        "star_skill_value": 0.440640032291412,
         "type": "MARCH",
         "unlock_level": 20
       },
       {
         "description": "Infantry Defense stat bonus in combat when marching against a player.",
         "name": "Infantry Defense While Marching vs. Player",
-        "star_skill_value": 0.34272000193595886,
+        "star_skill_value": 0.342720001935959,
         "type": "MARCH",
         "unlock_level": 30
       },
@@ -8056,14 +8056,14 @@
       {
         "description": "The attack bonus from your army. Improves troop attack performance in combat.",
         "name": "Troop Attack",
-        "star_skill_value": 0.30110397934913635,
+        "star_skill_value": 0.301103979349136,
         "type": "MARCH",
         "unlock_level": 50
       },
       {
         "description": "Infantry attack bonus.",
         "name": "Infantry Attack",
-        "star_skill_value": 0.5507999658584595,
+        "star_skill_value": 0.550799965858459,
         "type": "MARCH",
         "unlock_level": 60
       },
@@ -8217,28 +8217,28 @@
       {
         "description": "Bonus damage from your troops that is applied to another person's walls.",
         "name": "Wall Damage Bonus",
-        "star_skill_value": 0.6854400038719177,
+        "star_skill_value": 0.685440003871918,
         "type": "COUNCIL",
         "unlock_level": 10
       },
       {
         "description": "How much faster you complete City Defense Research.",
         "name": "City Defense Research Speed",
-        "star_skill_value": 0.14300000667572021,
+        "star_skill_value": 0.14300000667572,
         "type": "COUNCIL",
         "unlock_level": 20
       },
       {
         "description": "Siege Health in Player-to-Player combat bonus when your dragon is present.",
         "name": "Dragon: Siege Health vs. Player",
-        "star_skill_value": 0.8812800049781799,
+        "star_skill_value": 0.88128000497818,
         "type": "COUNCIL",
         "unlock_level": 30
       },
       {
         "description": "Troop health stat bonus in combat when marching against a player.",
         "name": "Troop Health While Marching vs. Player",
-        "star_skill_value": 0.4569600224494934,
+        "star_skill_value": 0.456960022449493,
         "type": "COUNCIL",
         "unlock_level": 40
       },
@@ -8379,7 +8379,7 @@
       {
         "description": "Bonus to Iron gathering speed.",
         "name": "Iron Gathering",
-        "star_skill_value": 1.0709999799728394,
+        "star_skill_value": 1.07099997997284,
         "type": "COUNCIL",
         "unlock_level": 10
       },
@@ -8393,14 +8393,14 @@
       {
         "description": "How much faster your troops march to the rally point when attacking another player.",
         "name": "March Speed to Join Rally vs. Player",
-        "star_skill_value": 0.1274999976158142,
+        "star_skill_value": 0.127500012516975,
         "type": "MARCH",
         "unlock_level": 30
       },
       {
         "description": "Troop defense bonus when attacking a Seat of Power.",
         "name": "Defense at a Seat Of Power",
-        "star_skill_value": 0.36719998717308044,
+        "star_skill_value": 0.36719998717308,
         "type": "MARCH",
         "unlock_level": 40
       },
@@ -8414,7 +8414,7 @@
       {
         "description": "Troop attack bonus towards attacking Seats of Power.",
         "name": "Attack at a Seat Of Power",
-        "star_skill_value": 0.4406399726867676,
+        "star_skill_value": 0.440639972686768,
         "type": "MARCH",
         "unlock_level": 60
       },
@@ -8575,28 +8575,28 @@
       {
         "description": "Ranged health stat bonus in combat when marching against a player.",
         "name": "Ranged Health While Marching vs. Player",
-        "star_skill_value": 0.34272000193595886,
+        "star_skill_value": 0.342720001935959,
         "type": "COUNCIL",
         "unlock_level": 20
       },
       {
         "description": "Ranged Defense vs. a Player while attacking another player at a Seat of Power",
         "name": "Marcher Ranged Defense vs. Player at a Seat Of Power",
-        "star_skill_value": 0.41126400232315063,
+        "star_skill_value": 0.411264002323151,
         "type": "MARCH",
         "unlock_level": 30
       },
       {
         "description": "Ranged attack bonus in combat at a Seat of Power",
         "name": "Ranged Attack at Seats of Power",
-        "star_skill_value": 0.3818880021572113,
+        "star_skill_value": 0.381888002157211,
         "type": "MARCH",
         "unlock_level": 40
       },
       {
         "description": "Ranged Defense vs. another player's Infantry.",
         "name": "Ranged Defense vs. Player's Infantry",
-        "star_skill_value": 0.5875200033187866,
+        "star_skill_value": 0.587520003318787,
         "type": "MARCH",
         "unlock_level": 50
       },
@@ -8744,21 +8744,21 @@
       {
         "description": "Cavalry health bonus in combat at a Seat of Power",
         "name": "Cavalry Health at Seats of Power",
-        "star_skill_value": 0.3304799795150757,
+        "star_skill_value": 0.330479979515076,
         "type": "MARCH",
         "unlock_level": 30
       },
       {
         "description": "Cavalry Attack vs. another player's Cavalry.",
         "name": "Cavalry Attack vs. Player's Cavalry",
-        "star_skill_value": 0.36719998717308044,
+        "star_skill_value": 0.36719998717308,
         "type": "MARCH",
         "unlock_level": 40
       },
       {
         "description": "Cavalry defense bonus in combat at a Seat of Power",
         "name": "Cavalry Defense at Seats of Power",
-        "star_skill_value": 0.4406399726867676,
+        "star_skill_value": 0.440639972686768,
         "type": "MARCH",
         "unlock_level": 50
       },
@@ -8919,7 +8919,7 @@
       {
         "description": "Increases march speed against player occupied Strategic Terrain.",
         "name": "March Speed vs. Strategic Terrain ",
-        "star_skill_value": 0.3199999928474426,
+        "star_skill_value": 0.319999992847443,
         "type": "COUNCIL",
         "unlock_level": 10
       },
@@ -8933,7 +8933,7 @@
       {
         "description": "Research and Expedition speed bonus.",
         "name": "Maester Research Speed",
-        "star_skill_value": 0.4896000027656555,
+        "star_skill_value": 0.489600002765656,
         "type": "COUNCIL",
         "unlock_level": 30
       },
@@ -8947,7 +8947,7 @@
       {
         "description": "Troop attack bonus towards creatures.",
         "name": "Attack vs. Creatures",
-        "star_skill_value": 0.3916800022125244,
+        "star_skill_value": 0.391680002212524,
         "type": "COUNCIL",
         "unlock_level": 50
       },
@@ -9088,35 +9088,35 @@
       {
         "description": "Increases March Speed when marching against a player owned Seat of Power.",
         "name": "March Speed vs Player Owned Seat of Power",
-        "star_skill_value": 0.33000001311302185,
+        "star_skill_value": 0.330000013113022,
         "type": "MARCH",
         "unlock_level": 20
       },
       {
         "description": "Infantry Defense vs. another player's Infantry.",
         "name": "Infantry Defense vs. Player's Infantry",
-        "star_skill_value": 0.47735998034477234,
+        "star_skill_value": 0.477359980344772,
         "type": "MARCH",
         "unlock_level": 30
       },
       {
         "description": "Troop defense stat bonus in combat when marching against a player.",
         "name": "Troop Defense While Marching vs. Player",
-        "star_skill_value": 0.3569999933242798,
+        "star_skill_value": 0.35699999332428,
         "type": "COUNCIL",
         "unlock_level": 40
       },
       {
         "description": "Troop attack bonus towards attacking Seats of Power.",
         "name": "Attack at a Seat Of Power",
-        "star_skill_value": 0.36719998717308044,
+        "star_skill_value": 0.36719998717308,
         "type": "COUNCIL",
         "unlock_level": 50
       },
       {
         "description": "Infantry Attack vs. another player's Infantry.",
         "name": "Infantry Attack vs. Player's Infantry",
-        "star_skill_value": 0.5875200033187866,
+        "star_skill_value": 0.587520003318787,
         "type": "MARCH",
         "unlock_level": 60
       },
@@ -9271,35 +9271,35 @@
       {
         "description": "How much faster your troops march.",
         "name": "March Speed",
-        "star_skill_value": 0.23500800132751465,
+        "star_skill_value": 0.235008001327515,
         "type": "MARCH",
         "unlock_level": 10
       },
       {
         "description": "Defense bonus of your army when defending.",
         "name": "Defender Defense",
-        "star_skill_value": 0.32313600182533264,
+        "star_skill_value": 0.323136001825333,
         "type": "COUNCIL",
         "unlock_level": 20
       },
       {
         "description": "Siege Defense vs. another player's Infantry.",
         "name": "Siege Defense vs. Player's Infantry",
-        "star_skill_value": 1.057536005973816,
+        "star_skill_value": 1.05753600597382,
         "type": "MARCH",
         "unlock_level": 30
       },
       {
         "description": "Attack bonus of your army when defending.",
         "name": "Defender Attack",
-        "star_skill_value": 0.4406399726867676,
+        "star_skill_value": 0.440639972686768,
         "type": "COUNCIL",
         "unlock_level": 40
       },
       {
         "description": "Siege Attack in Player-to-Player combat.",
         "name": "Siege Attack vs. Player's Troops",
-        "star_skill_value": 0.8812800049781799,
+        "star_skill_value": 0.88128000497818,
         "type": "MARCH",
         "unlock_level": 50
       },
@@ -9433,21 +9433,21 @@
       {
         "description": "Increase March Speed when attacking another player at their Keep, Seat of Power, or Strategic Terrain.",
         "name": "March Speed vs. Player",
-        "star_skill_value": 0.3635280132293701,
+        "star_skill_value": 0.36352801322937,
         "type": "MARCH",
         "unlock_level": 10
       },
       {
         "description": "Ranged Defense vs. another player's Cavalry.",
         "name": "Ranged Defense vs. Player's Cavalry",
-        "star_skill_value": 0.33660000562667847,
+        "star_skill_value": 0.336600005626678,
         "type": "COUNCIL",
         "unlock_level": 20
       },
       {
         "description": "Ranged Defense stat bonus in combat when marching against a player.",
         "name": "Ranged Defense While Marching vs. Player",
-        "star_skill_value": 0.4283999800682068,
+        "star_skill_value": 0.428399980068207,
         "type": "COUNCIL",
         "unlock_level": 30
       },
@@ -9461,14 +9461,14 @@
       {
         "description": "Ranged Attack in Player-to-Player combat.",
         "name": "Ranged Attack vs. Player",
-        "star_skill_value": 0.45532798767089844,
+        "star_skill_value": 0.455327987670898,
         "type": "MARCH",
         "unlock_level": 50
       },
       {
         "description": "Ranged Health vs. Player-to-Player combat.",
         "name": "Ranged Health vs. Player",
-        "star_skill_value": 0.4896000027656555,
+        "star_skill_value": 0.489600002765656,
         "type": "COUNCIL",
         "unlock_level": 60
       },
@@ -9622,7 +9622,7 @@
       {
         "description": "Bonus to Stone Quarry generation.",
         "name": "Stone Production",
-        "star_skill_value": 0.4896000027656555,
+        "star_skill_value": 0.489600002765656,
         "type": "COUNCIL",
         "unlock_level": 10
       },
@@ -9636,7 +9636,7 @@
       {
         "description": "Infantry health bonus in combat at a Seat of Power",
         "name": "Infantry Health at Seats of Power",
-        "star_skill_value": 0.34272000193595886,
+        "star_skill_value": 0.342720001935959,
         "type": "COUNCIL",
         "unlock_level": 30
       },
@@ -9650,7 +9650,7 @@
       {
         "description": "Increases the survivability of your troops when attacking a Seat of Power.",
         "name": "Health at a Seat Of Power",
-        "star_skill_value": 0.37601280212402344,
+        "star_skill_value": 0.376012802124023,
         "type": "MARCH",
         "unlock_level": 50
       },
@@ -9784,42 +9784,42 @@
       {
         "description": "How much faster your troops march to the rally point.",
         "name": "March Speed to Join Rally",
-        "star_skill_value": 0.4406399726867676,
+        "star_skill_value": 0.440639972686768,
         "type": "MARCH",
         "unlock_level": 10
       },
       {
         "description": "Ranged Attack vs. another player's Infantry.",
         "name": "Ranged Attack vs. Player's Infantry",
-        "star_skill_value": 0.4896000027656555,
+        "star_skill_value": 0.489600002765656,
         "type": "COUNCIL",
         "unlock_level": 20
       },
       {
         "description": "Ranged Health vs. Player-to-Player combat.",
         "name": "Ranged Health vs. Player",
-        "star_skill_value": 0.36719998717308044,
+        "star_skill_value": 0.36719998717308,
         "type": "MARCH",
         "unlock_level": 30
       },
       {
         "description": "Troop health stat bonus in combat when marching against a player.",
         "name": "Troop Health While Marching vs. Player",
-        "star_skill_value": 0.34272000193595886,
+        "star_skill_value": 0.342720001935959,
         "type": "MARCH",
         "unlock_level": 40
       },
       {
         "description": "Ranged health bonus in combat at a Seat of Power",
         "name": "Ranged Health at Seats of Power",
-        "star_skill_value": 0.36719998717308044,
+        "star_skill_value": 0.36719998717308,
         "type": "COUNCIL",
         "unlock_level": 50
       },
       {
         "description": "Improves troop defense in combat against other players.",
         "name": "Troop Defense vs. Player",
-        "star_skill_value": 0.2937600016593933,
+        "star_skill_value": 0.293760001659393,
         "type": "MARCH",
         "unlock_level": 60
       },
@@ -9973,35 +9973,35 @@
       {
         "description": "Cavalry defense bonus in combat at a Seat of Power",
         "name": "Cavalry Defense at Seats of Power",
-        "star_skill_value": 0.34272000193595886,
+        "star_skill_value": 0.342720001935959,
         "type": "COUNCIL",
         "unlock_level": 10
       },
       {
         "description": "Cavalry Health in Player-to-Player combat.",
         "name": "Cavalry Health vs. Player",
-        "star_skill_value": 0.3182399868965149,
+        "star_skill_value": 0.318239986896515,
         "type": "COUNCIL",
         "unlock_level": 20
       },
       {
         "description": "Cavalry Health stat bonus in combat when marching against a player.",
         "name": "Cavalry Health While Marching vs. Player",
-        "star_skill_value": 0.5140799880027771,
+        "star_skill_value": 0.514079988002777,
         "type": "MARCH",
         "unlock_level": 30
       },
       {
         "description": "Cavalry Attack vs. another player's Cavalry.",
         "name": "Cavalry Attack vs. Player's Cavalry",
-        "star_skill_value": 0.4896000027656555,
+        "star_skill_value": 0.489600002765656,
         "type": "COUNCIL",
         "unlock_level": 40
       },
       {
         "description": "Cavalry Defense stat bonus in combat when marching against a player.",
         "name": "Cavalry Defense While Marching vs. Player",
-        "star_skill_value": 0.5426400303840637,
+        "star_skill_value": 0.542640030384064,
         "type": "COUNCIL",
         "unlock_level": 50
       },
@@ -10135,28 +10135,28 @@
       {
         "description": "Troop defense stat bonus in combat when marching against a player.",
         "name": "Troop Defense While Marching vs. Player",
-        "star_skill_value": 0.34272000193595886,
+        "star_skill_value": 0.342720001935959,
         "type": "MARCH",
         "unlock_level": 10
       },
       {
         "description": "Bonus to Stone gathering speed.",
         "name": "Stone Gathering",
-        "star_skill_value": 1.2239999771118164,
+        "star_skill_value": 1.22399997711182,
         "type": "COUNCIL",
         "unlock_level": 20
       },
       {
         "description": "Ranged Defense vs. Player-to-Player combat.",
         "name": "Ranged Defense vs. Player",
-        "star_skill_value": 0.45899999141693115,
+        "star_skill_value": 0.458999991416931,
         "type": "COUNCIL",
         "unlock_level": 30
       },
       {
         "description": "Improves troop attack in combat against other players.",
         "name": "Troop Attack vs. Player",
-        "star_skill_value": 0.2937600016593933,
+        "star_skill_value": 0.293760001659393,
         "type": "MARCH",
         "unlock_level": 40
       },
@@ -10170,7 +10170,7 @@
       {
         "description": "Ranged Attack vs. a Player while attacking another player at a Seat of Power",
         "name": "Marcher Ranged Attack vs. Player at a Seat Of Power",
-        "star_skill_value": 0.5354999899864197,
+        "star_skill_value": 0.53549998998642,
         "type": "COUNCIL",
         "unlock_level": 60
       },
@@ -10324,21 +10324,21 @@
       {
         "description": "n:PROPERTY_GATHERING_GOLD_DESC",
         "name": "Gold Gathering",
-        "star_skill_value": 2.496959924697876,
+        "star_skill_value": 2.49695992469788,
         "type": "MARCH",
         "unlock_level": 10
       },
       {
         "description": "Cavalry Health in Player-to-Player combat.",
         "name": "Cavalry Health vs. Player",
-        "star_skill_value": 0.46512001752853394,
+        "star_skill_value": 0.465120017528534,
         "type": "COUNCIL",
         "unlock_level": 20
       },
       {
         "description": "Reduces the amount of Keystones necessary for upgrading buildings.",
         "name": "Building Keystone Cost Efficiency",
-        "star_skill_value": 0.01599999889731407,
+        "star_skill_value": 0.0159999988973141,
         "type": "COUNCIL",
         "unlock_level": 30
       },
@@ -10352,7 +10352,7 @@
       {
         "description": "Cavalry Attack vs. another player's Infantry.",
         "name": "Cavalry Attack vs. Player's Infantry",
-        "star_skill_value": 0.4896000027656555,
+        "star_skill_value": 0.489600002765656,
         "type": "COUNCIL",
         "unlock_level": 50
       },
@@ -10485,7 +10485,7 @@
       {
         "description": "Infantry defense bonus in combat at a Seat of Power",
         "name": "Infantry Defense at Seats of Power",
-        "star_skill_value": 0.34516799449920654,
+        "star_skill_value": 0.345167994499207,
         "type": "MARCH",
         "unlock_level": 10
       },
@@ -10499,28 +10499,28 @@
       {
         "description": "Improves troop survivability in combat against other players.",
         "name": "Troop Health vs. Player",
-        "star_skill_value": 0.2203199863433838,
+        "star_skill_value": 0.220319986343384,
         "type": "MARCH",
         "unlock_level": 30
       },
       {
         "description": "Troop Attack vs. a Player while attacking another player at a Seat of Power",
         "name": "Marcher Troop Attack vs. Player at a Seat Of Power",
-        "star_skill_value": 0.34272000193595886,
+        "star_skill_value": 0.342720001935959,
         "type": "MARCH",
         "unlock_level": 40
       },
       {
         "description": "Bonus damage done to an enemy dragon during combat.",
         "name": "Dragon Attack vs. Dragons",
-        "star_skill_value": 0.5140799880027771,
+        "star_skill_value": 0.514079988002777,
         "type": "MARCH",
         "unlock_level": 50
       },
       {
         "description": "Infantry Attack in Player-to-Player combat.",
         "name": "Infantry Attack vs. Player",
-        "star_skill_value": 0.4406399726867676,
+        "star_skill_value": 0.440639972686768,
         "type": "MARCH",
         "unlock_level": 60
       },
@@ -10674,42 +10674,42 @@
       {
         "description": "Increases the survivability of your troops when attacking a Seat of Power.",
         "name": "Health at a Seat Of Power",
-        "star_skill_value": 0.3059999942779541,
+        "star_skill_value": 0.305999994277954,
         "type": "COUNCIL",
         "unlock_level": 10
       },
       {
         "description": "How much faster you complete Expeditions.",
         "name": "Expedition Speed",
-        "star_skill_value": 0.23375000059604645,
+        "star_skill_value": 0.233750000596046,
         "type": "COUNCIL",
         "unlock_level": 20
       },
       {
         "description": "The attack bonus from your army. Improves troop attack performance in combat.",
         "name": "Troop Attack",
-        "star_skill_value": 0.25703999400138855,
+        "star_skill_value": 0.257039994001389,
         "type": "COUNCIL",
         "unlock_level": 30
       },
       {
         "description": "Reduction in resources required for healing wounded troops.",
         "name": "Healing Cost Efficiency",
-        "star_skill_value": 0.5875200033187866,
+        "star_skill_value": 0.587520003318787,
         "type": "COUNCIL",
         "unlock_level": 40
       },
       {
         "description": "Troop Defense vs. a Player while attacking another player at a Seat of Power",
         "name": "Marcher Troop Defense vs. Player at a Seat Of Power",
-        "star_skill_value": 0.3712799847126007,
+        "star_skill_value": 0.371279984712601,
         "type": "COUNCIL",
         "unlock_level": 50
       },
       {
         "description": "Dragon Troop Attack vs. a Player while in combat with another player at a Seat of Power",
         "name": "Dragon: Troop Attack vs. Player at a Seat Of Power",
-        "star_skill_value": 0.45287999510765076,
+        "star_skill_value": 0.452879995107651,
         "type": "COUNCIL",
         "unlock_level": 60
       },
@@ -10863,35 +10863,35 @@
       {
         "description": "How much faster you complete Dragon Research.",
         "name": "Dragon Research Speed",
-        "star_skill_value": 0.2199999988079071,
+        "star_skill_value": 0.219999998807907,
         "type": "COUNCIL",
         "unlock_level": 10
       },
       {
         "description": "Infantry Attack stat bonus in combat when marching against a player.",
         "name": "Infantry Attack While Marching vs. Player",
-        "star_skill_value": 0.4455360174179077,
+        "star_skill_value": 0.445536017417908,
         "type": "MARCH",
         "unlock_level": 20
       },
       {
         "description": "Infantry Health in Player-to-Player combat bonus when your dragon is present.",
         "name": "Dragon: Infantry Health vs. Player",
-        "star_skill_value": 0.46512001752853394,
+        "star_skill_value": 0.465120017528534,
         "type": "COUNCIL",
         "unlock_level": 30
       },
       {
         "description": "Infantry Defense stat bonus in combat when marching against a player.",
         "name": "Infantry Defense While Marching vs. Player",
-        "star_skill_value": 0.48552000522613525,
+        "star_skill_value": 0.485520005226135,
         "type": "COUNCIL",
         "unlock_level": 40
       },
       {
         "description": "Infantry attack bonus in combat at a Seat of Power",
         "name": "Infantry Attack at Seats of Power",
-        "star_skill_value": 0.5875200033187866,
+        "star_skill_value": 0.587520003318787,
         "type": "MARCH",
         "unlock_level": 50
       },
@@ -11026,42 +11026,42 @@
       {
         "description": "Ranged health bonus in combat at a Seat of Power",
         "name": "Ranged Health at Seats of Power",
-        "star_skill_value": 0.5875200033187866,
+        "star_skill_value": 0.587520003318787,
         "type": "MARCH",
         "unlock_level": 10
       },
       {
         "description": "Cavalry Health in Player-to-Player combat.",
         "name": "Cavalry Health vs. Player",
-        "star_skill_value": 0.45899999141693115,
+        "star_skill_value": 0.458999991416931,
         "type": "COUNCIL",
         "unlock_level": 20
       },
       {
         "description": "Ranged defense bonus in combat at a Seat of Power",
         "name": "Ranged Defense at Seats of Power",
-        "star_skill_value": 0.5875200033187866,
+        "star_skill_value": 0.587520003318787,
         "type": "MARCH",
         "unlock_level": 30
       },
       {
         "description": "Cavalry Defense vs. another player's Infantry.",
         "name": "Cavalry Defense vs. Player's Infantry",
-        "star_skill_value": 0.45899999141693115,
+        "star_skill_value": 0.458999991416931,
         "type": "COUNCIL",
         "unlock_level": 40
       },
       {
         "description": "Cavalry Attack vs. another player's Infantry.",
         "name": "Cavalry Attack vs. Player's Infantry",
-        "star_skill_value": 0.45899999141693115,
+        "star_skill_value": 0.458999991416931,
         "type": "COUNCIL",
         "unlock_level": 50
       },
       {
         "description": "Ranged attack bonus in combat at a Seat of Power",
         "name": "Ranged Attack at Seats of Power",
-        "star_skill_value": 0.6609599590301514,
+        "star_skill_value": 0.660959959030151,
         "type": "MARCH",
         "unlock_level": 60
       },
@@ -11203,6 +11203,357 @@
     "traits": [
       "Master of War",
       "Wildling"
+    ]
+  },
+  {
+    "description": "Paramour",
+    "id": "91378a3be9c16648",
+    "max_stars": 5,
+    "name": "Ellaria Sand",
+    "rarity": 3,
+    "skills": [
+      {
+        "description": "Cavalry Attack in Player-to-Player combat.",
+        "name": "Cavalry Attack vs. Player",
+        "star_skill_value": 0.352512001991272,
+        "type": "MARCH",
+        "unlock_level": 10
+      },
+      {
+        "description": "Cavalry Defense vs. Player-to-Player combat.",
+        "name": "Cavalry Defense vs. Player",
+        "star_skill_value": 0.342720001935959,
+        "type": "COUNCIL",
+        "unlock_level": 20
+      },
+      {
+        "description": "Cavalry defense bonus.",
+        "name": "Cavalry Defense",
+        "star_skill_value": 0.323136001825333,
+        "type": "MARCH",
+        "unlock_level": 30
+      },
+      {
+        "description": "Cavalry Attack in Player-to-Player combat.",
+        "name": "Cavalry Attack vs. Player",
+        "star_skill_value": 0.425952017307281,
+        "type": "COUNCIL",
+        "unlock_level": 40
+      },
+      {
+        "description": "Cavalry Defense stat bonus in combat when marching against a player.",
+        "name": "Cavalry Defense While Marching vs. Player",
+        "star_skill_value": 0.520934402942657,
+        "type": "MARCH",
+        "unlock_level": 50
+      },
+      {
+        "description": "The maximum number of troops that can be in a single march.",
+        "name": "March Size",
+        "signature_skill_values": [
+          75.0,
+          330.0,
+          458.0,
+          586.0,
+          713.0,
+          841.0,
+          969.0,
+          1097.0,
+          1224.0,
+          1352.0,
+          1480.0,
+          1608.0,
+          1735.0,
+          1863.0,
+          1991.0,
+          2119.0,
+          2246.0,
+          2374.0,
+          2502.0,
+          2630.0,
+          2757.0,
+          2885.0,
+          3013.0,
+          3141.0,
+          3269.0,
+          3396.0,
+          3524.0,
+          3652.0,
+          3780.0,
+          3907.0,
+          4035.0,
+          4163.0,
+          4291.0,
+          4418.0,
+          4546.0,
+          4674.0,
+          4802.0,
+          4929.0,
+          5057.0,
+          5185.0,
+          5313.0,
+          5440.0,
+          5568.0,
+          5696.0,
+          5824.0,
+          5951.0,
+          6079.0,
+          6207.0,
+          6335.0,
+          6463.0
+        ],
+        "type": "MARCH"
+      },
+      {
+        "description": "Cavalry attack bonus.",
+        "name": "Cavalry Attack",
+        "signature_skill_values": [
+          0.0299999993294477,
+          0.0304846838116646,
+          0.0310905408114195,
+          0.0319387391209602,
+          0.033029280602932,
+          0.0343621633946896,
+          0.035937387496233,
+          0.0377549566328526,
+          0.039814867079258,
+          0.0421171188354492,
+          0.0446617156267166,
+          0.0474486537277699,
+          0.0504779294133186,
+          0.0537495538592339,
+          0.0572635196149349,
+          0.0610198266804218,
+          0.0650184750556946,
+          0.0692594721913338,
+          0.0737427994608879,
+          0.0784684792160988,
+          0.0834365040063858,
+          0.0886468589305878,
+          0.0940995663404465,
+          0.0997946113348007,
+          0.105732001364231,
+          0.111911728978157,
+          0.118333801627159,
+          0.124998219311237,
+          0.131904974579811,
+          0.139054089784622,
+          0.146445527672768,
+          0.154079303145409,
+          0.161955446004868,
+          0.1700738966465,
+          0.178434729576111,
+          0.187037885189056,
+          0.195883363485336,
+          0.204971209168434,
+          0.214301392436028,
+          0.223873913288116,
+          0.233688786625862,
+          0.243745997548103,
+          0.25404554605484,
+          0.264587432146072,
+          0.275371670722961,
+          0.286398261785507,
+          0.297667175531387,
+          0.309178441762924,
+          0.320932060480118,
+          0.332928001880646
+        ],
+        "type": "COUNCIL"
+      }
+    ],
+    "traits": [
+      "The Hand",
+      "Martell"
+    ]
+  },
+  {
+    "description": "First Sword of Braavos",
+    "id": "32c4a20e569d6961",
+    "max_stars": 6,
+    "name": "Syrio Forel",
+    "rarity": 4,
+    "skills": [
+      {
+        "description": "Training Speed bonus.",
+        "name": "Training Speed",
+        "star_skill_value": 0.685440003871918,
+        "type": "COUNCIL",
+        "unlock_level": 10
+      },
+      {
+        "description": "Infantry Defense stat bonus in combat when marching against a player.",
+        "name": "Infantry Defense While Marching vs. Player",
+        "star_skill_value": 0.385560005903244,
+        "type": "MARCH",
+        "unlock_level": 20
+      },
+      {
+        "description": "Infantry Health in Player-to-Player combat.",
+        "name": "Infantry Health vs. Player",
+        "star_skill_value": 0.330479979515076,
+        "type": "MARCH",
+        "unlock_level": 30
+      },
+      {
+        "description": "Infantry attack bonus.",
+        "name": "Infantry Attack",
+        "star_skill_value": 0.385560005903244,
+        "type": "COUNCIL",
+        "unlock_level": 40
+      },
+      {
+        "description": "Infantry defense bonus.",
+        "name": "Infantry Defense",
+        "star_skill_value": 0.36719998717308,
+        "type": "MARCH",
+        "unlock_level": 50
+      },
+      {
+        "description": "Infantry Defense in Player-to-Player combat.",
+        "name": "Infantry Defense vs. Player",
+        "star_skill_value": 0.611999988555908,
+        "type": "COUNCIL",
+        "unlock_level": 60
+      },
+      {
+        "description": "The maximum number of troops that can be in a single march.",
+        "name": "March Size",
+        "signature_skill_values": [
+          100.0,
+          390.0,
+          535.0,
+          680.0,
+          826.0,
+          971.0,
+          1116.0,
+          1261.0,
+          1406.0,
+          1552.0,
+          1697.0,
+          1842.0,
+          1987.0,
+          2133.0,
+          2278.0,
+          2423.0,
+          2568.0,
+          2713.0,
+          2859.0,
+          3004.0,
+          3149.0,
+          3294.0,
+          3439.0,
+          3585.0,
+          3730.0,
+          3875.0,
+          4020.0,
+          4166.0,
+          4311.0,
+          4456.0,
+          4601.0,
+          4746.0,
+          4892.0,
+          5037.0,
+          5182.0,
+          5327.0,
+          5473.0,
+          5618.0,
+          5763.0,
+          5908.0,
+          6053.0,
+          6199.0,
+          6344.0,
+          6489.0,
+          6634.0,
+          6779.0,
+          6925.0,
+          7070.0,
+          7215.0,
+          7360.0,
+          7506.0,
+          7651.0,
+          7796.0,
+          7941.0,
+          8086.0,
+          8232.0,
+          8377.0,
+          8522.0,
+          8667.0,
+          8813.0
+        ],
+        "type": "MARCH"
+      },
+      {
+        "description": "Infantry Attack in Player-to-Player combat.",
+        "name": "Infantry Attack vs. Player",
+        "signature_skill_values": [
+          0.0299999993294477,
+          0.030415466055274,
+          0.0309347994625568,
+          0.0316618643701077,
+          0.0325966663658619,
+          0.033739197999239,
+          0.0350894667208195,
+          0.0366474650800228,
+          0.0384132005274296,
+          0.0403866656124592,
+          0.0425678640604019,
+          0.0449567995965481,
+          0.0475534647703171,
+          0.0503578670322895,
+          0.0533699989318848,
+          0.0565898679196835,
+          0.060017466545105,
+          0.0636527985334396,
+          0.0674958676099777,
+          0.0715466663241386,
+          0.075805202126503,
+          0.0802714675664902,
+          0.0849454700946808,
+          0.0898271948099136,
+          0.0949166640639305,
+          0.10021386295557,
+          0.105718798935413,
+          0.111431464552879,
+          0.117351859807968,
+          0.123479999601841,
+          0.129815861582756,
+          0.136359468102455,
+          0.143110796809196,
+          0.150069862604141,
+          0.157236665487289,
+          0.164611205458641,
+          0.172193467617035,
+          0.179983466863632,
+          0.187981203198433,
+          0.196186661720276,
+          0.204599872231483,
+          0.213220804929733,
+          0.222049474716187,
+          0.231085866689682,
+          0.240329995751381,
+          0.249781861901283,
+          0.259441465139389,
+          0.269308775663376,
+          0.27938386797905,
+          0.289666652679443,
+          0.300157219171524,
+          0.310855448246002,
+          0.321761459112167,
+          0.332875192165375,
+          0.344196677207947,
+          0.355725854635239,
+          0.367462784051895,
+          0.379407465457916,
+          0.39155986905098,
+          0.403919994831085
+        ],
+        "type": "COUNCIL"
+      }
+    ],
+    "traits": [
+      "Master of War",
+      "Braavosi"
     ]
   }
 ]

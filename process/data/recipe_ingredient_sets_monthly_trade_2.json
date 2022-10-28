@@ -8934,6 +8934,672 @@
         }
       ],
       "name": "recipe_alchemy_recipe_event_bookofconquest_item_peaceshield_2_100"
+    },
+    {
+      "id": "bac3d01e8b4e12c6",
+      "ingredients": [
+        {
+          "id": "29249b79b6588637",
+          "name": "item_event_trophy_harvest2_1",
+          "quantity": 20,
+          "type": "item"
+        },
+        {
+          "id": "d5bff8541fc21a0c",
+          "name": "item_event_coin_tier1",
+          "quantity": 8,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_harvest2_mat_event_harvest2_1_1"
+    },
+    {
+      "id": "fcce474a55e9dd6c",
+      "ingredients": [
+        {
+          "id": "29249b79b6588637",
+          "name": "item_event_trophy_harvest2_1",
+          "quantity": 2000,
+          "type": "item"
+        },
+        {
+          "id": "d5bff8541fc21a0c",
+          "name": "item_event_coin_tier1",
+          "quantity": 800,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_harvest2_mat_event_harvest2_1_100"
+    },
+    {
+      "id": "c1fc85a5be3d75a1",
+      "ingredients": [
+        {
+          "id": "29249b79b6588637",
+          "name": "item_event_trophy_harvest2_1",
+          "quantity": 132,
+          "type": "item"
+        },
+        {
+          "id": "d5bff8541fc21a0c",
+          "name": "item_event_coin_tier1",
+          "quantity": 52,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_harvest2_item_event_rewardbox_craftingmaterial_1_1"
+    },
+    {
+      "id": "91707962f45623ad",
+      "ingredients": [
+        {
+          "id": "29249b79b6588637",
+          "name": "item_event_trophy_harvest2_1",
+          "quantity": 459,
+          "type": "item"
+        },
+        {
+          "id": "d5bff8541fc21a0c",
+          "name": "item_event_coin_tier1",
+          "quantity": 183,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_harvest2_curr_Wood_1"
+    },
+    {
+      "id": "413b2fbdf1cc9bef",
+      "ingredients": [
+        {
+          "id": "29249b79b6588637",
+          "name": "item_event_trophy_harvest2_1",
+          "quantity": 45900,
+          "type": "item"
+        },
+        {
+          "id": "d5bff8541fc21a0c",
+          "name": "item_event_coin_tier1",
+          "quantity": 18300,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_harvest2_curr_Wood_100"
+    },
+    {
+      "id": "44ec74b302fb8897",
+      "ingredients": [
+        {
+          "id": "29249b79b6588637",
+          "name": "item_event_trophy_harvest2_1",
+          "quantity": 640,
+          "type": "item"
+        },
+        {
+          "id": "d5bff8541fc21a0c",
+          "name": "item_event_coin_tier1",
+          "quantity": 256,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_harvest2_curr_Iron_1"
+    },
+    {
+      "id": "54e2975a67ee92b6",
+      "ingredients": [
+        {
+          "id": "29249b79b6588637",
+          "name": "item_event_trophy_harvest2_1",
+          "quantity": 64000,
+          "type": "item"
+        },
+        {
+          "id": "d5bff8541fc21a0c",
+          "name": "item_event_coin_tier1",
+          "quantity": 25600,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_harvest2_curr_Iron_100"
+    },
+    {
+      "id": "b8c1e41ece3c799c",
+      "ingredients": [
+        {
+          "id": "29249b79b6588637",
+          "name": "item_event_trophy_harvest2_1",
+          "quantity": 100,
+          "type": "item"
+        },
+        {
+          "id": "d5bff8541fc21a0c",
+          "name": "item_event_coin_tier1",
+          "quantity": 90,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_harvest2_item_buildreq_brick_1_1"
+    },
+    {
+      "id": "e7b563ae8124d9ab",
+      "ingredients": [
+        {
+          "id": "29249b79b6588637",
+          "name": "item_event_trophy_harvest2_1",
+          "quantity": 10000,
+          "type": "item"
+        },
+        {
+          "id": "d5bff8541fc21a0c",
+          "name": "item_event_coin_tier1",
+          "quantity": 9000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_harvest2_item_buildreq_brick_1_100"
+    },
+    {
+      "id": "aeb9138416045fea",
+      "ingredients": [
+        {
+          "id": "29249b79b6588637",
+          "name": "item_event_trophy_harvest2_1",
+          "quantity": 500,
+          "type": "item"
+        },
+        {
+          "id": "d5bff8541fc21a0c",
+          "name": "item_event_coin_tier1",
+          "quantity": 450,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_harvest2_item_buildreq_soldierpine_1_1"
+    },
+    {
+      "id": "bec4431675adb8a4",
+      "ingredients": [
+        {
+          "id": "29249b79b6588637",
+          "name": "item_event_trophy_harvest2_1",
+          "quantity": 50000,
+          "type": "item"
+        },
+        {
+          "id": "d5bff8541fc21a0c",
+          "name": "item_event_coin_tier1",
+          "quantity": 45000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_harvest2_item_buildreq_soldierpine_1_100"
+    },
+    {
+      "id": "a766b8b0813784c6",
+      "ingredients": [
+        {
+          "id": "29249b79b6588637",
+          "name": "item_event_trophy_harvest2_1",
+          "quantity": 2500,
+          "type": "item"
+        },
+        {
+          "id": "a0ada4bfc637e802",
+          "name": "item_event_coin_tier2",
+          "quantity": 225,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_harvest2_item_buildreq_keystone_1_1"
+    },
+    {
+      "id": "9f65bef685bf5a41",
+      "ingredients": [
+        {
+          "id": "29249b79b6588637",
+          "name": "item_event_trophy_harvest2_1",
+          "quantity": 250000,
+          "type": "item"
+        },
+        {
+          "id": "a0ada4bfc637e802",
+          "name": "item_event_coin_tier2",
+          "quantity": 22500,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_harvest2_item_buildreq_keystone_1_100"
+    },
+    {
+      "id": "d677adb9ad7c6d9d",
+      "ingredients": [
+        {
+          "id": "29249b79b6588637",
+          "name": "item_event_trophy_harvest2_1",
+          "quantity": 238,
+          "type": "item"
+        },
+        {
+          "id": "a0ada4bfc637e802",
+          "name": "item_event_coin_tier2",
+          "quantity": 13,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_harvest2_item_speedup_Building_5m_1"
+    },
+    {
+      "id": "198333302308832d",
+      "ingredients": [
+        {
+          "id": "29249b79b6588637",
+          "name": "item_event_trophy_harvest2_1",
+          "quantity": 23800,
+          "type": "item"
+        },
+        {
+          "id": "a0ada4bfc637e802",
+          "name": "item_event_coin_tier2",
+          "quantity": 1300,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_harvest2_item_speedup_Building_5m_100"
+    },
+    {
+      "id": "73c74ed40d7e8115",
+      "ingredients": [
+        {
+          "id": "29249b79b6588637",
+          "name": "item_event_trophy_harvest2_1",
+          "quantity": 1500,
+          "type": "item"
+        },
+        {
+          "id": "a0ada4bfc637e802",
+          "name": "item_event_coin_tier2",
+          "quantity": 135,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_harvest2_item_builder_2_1d_1"
+    },
+    {
+      "id": "811949c97043c529",
+      "ingredients": [
+        {
+          "id": "29249b79b6588637",
+          "name": "item_event_trophy_harvest2_1",
+          "quantity": 150000,
+          "type": "item"
+        },
+        {
+          "id": "a0ada4bfc637e802",
+          "name": "item_event_coin_tier2",
+          "quantity": 13500,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_harvest2_item_builder_2_1d_100"
+    },
+    {
+      "id": "e3d511b38c8722cc",
+      "ingredients": [
+        {
+          "id": "29249b79b6588637",
+          "name": "item_event_trophy_harvest2_1",
+          "quantity": 20000,
+          "type": "item"
+        },
+        {
+          "id": "a0ada4bfc637e802",
+          "name": "item_event_coin_tier2",
+          "quantity": 1800,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_harvest2_item_Advanced_Teleport_1"
+    },
+    {
+      "id": "6e521f89e196fbc",
+      "ingredients": [
+        {
+          "id": "29249b79b6588637",
+          "name": "item_event_trophy_harvest2_1",
+          "quantity": 2000000,
+          "type": "item"
+        },
+        {
+          "id": "a0ada4bfc637e802",
+          "name": "item_event_coin_tier2",
+          "quantity": 180000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_harvest2_item_Advanced_Teleport_100"
+    },
+    {
+      "id": "89669fb746ea4903",
+      "ingredients": [
+        {
+          "id": "29249b79b6588637",
+          "name": "item_event_trophy_harvest2_1",
+          "quantity": 5000,
+          "type": "item"
+        },
+        {
+          "id": "d5bff8541fc21a0c",
+          "name": "item_event_coin_tier1",
+          "quantity": 5000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_harvest2_item_hero_adv_xp_100_1"
+    },
+    {
+      "id": "e8788be14ee0e24",
+      "ingredients": [
+        {
+          "id": "29249b79b6588637",
+          "name": "item_event_trophy_harvest2_1",
+          "quantity": 30000,
+          "type": "item"
+        },
+        {
+          "id": "d5bff8541fc21a0c",
+          "name": "item_event_coin_tier1",
+          "quantity": 30000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_harvest2_item_hero_seal_standard_1_1"
+    },
+    {
+      "id": "c4794cff0d4d7d70",
+      "ingredients": [
+        {
+          "id": "29249b79b6588637",
+          "name": "item_event_trophy_harvest2_1",
+          "quantity": 459,
+          "type": "item"
+        },
+        {
+          "id": "d5bff8541fc21a0c",
+          "name": "item_event_coin_tier1",
+          "quantity": 183,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_harvest2_curr_Food_1"
+    },
+    {
+      "id": "1190dc712a6bdc10",
+      "ingredients": [
+        {
+          "id": "29249b79b6588637",
+          "name": "item_event_trophy_harvest2_1",
+          "quantity": 45900,
+          "type": "item"
+        },
+        {
+          "id": "d5bff8541fc21a0c",
+          "name": "item_event_coin_tier1",
+          "quantity": 18300,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_harvest2_curr_Food_100"
+    },
+    {
+      "id": "3fecff0730c1dceb",
+      "ingredients": [
+        {
+          "id": "29249b79b6588637",
+          "name": "item_event_trophy_harvest2_1",
+          "quantity": 544,
+          "type": "item"
+        },
+        {
+          "id": "d5bff8541fc21a0c",
+          "name": "item_event_coin_tier1",
+          "quantity": 217,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_harvest2_curr_Stone_1"
+    },
+    {
+      "id": "fa8c3d47d0e7b09",
+      "ingredients": [
+        {
+          "id": "29249b79b6588637",
+          "name": "item_event_trophy_harvest2_1",
+          "quantity": 54400,
+          "type": "item"
+        },
+        {
+          "id": "d5bff8541fc21a0c",
+          "name": "item_event_coin_tier1",
+          "quantity": 21700,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_harvest2_curr_Stone_100"
+    },
+    {
+      "id": "bc8dfceea1eef672",
+      "ingredients": [
+        {
+          "id": "29249b79b6588637",
+          "name": "item_event_trophy_harvest2_1",
+          "quantity": 100,
+          "type": "item"
+        },
+        {
+          "id": "d5bff8541fc21a0c",
+          "name": "item_event_coin_tier1",
+          "quantity": 90,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_harvest2_item_buildreq_scholarly_fragment_1_1"
+    },
+    {
+      "id": "4aad1e9926688435",
+      "ingredients": [
+        {
+          "id": "29249b79b6588637",
+          "name": "item_event_trophy_harvest2_1",
+          "quantity": 10000,
+          "type": "item"
+        },
+        {
+          "id": "d5bff8541fc21a0c",
+          "name": "item_event_coin_tier1",
+          "quantity": 9000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_harvest2_item_buildreq_scholarly_fragment_1_100"
+    },
+    {
+      "id": "6a04305c0cab1d21",
+      "ingredients": [
+        {
+          "id": "29249b79b6588637",
+          "name": "item_event_trophy_harvest2_1",
+          "quantity": 500,
+          "type": "item"
+        },
+        {
+          "id": "d5bff8541fc21a0c",
+          "name": "item_event_coin_tier1",
+          "quantity": 450,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_harvest2_item_buildreq_pale_steel_1_1"
+    },
+    {
+      "id": "bcb3c1beffd7f83b",
+      "ingredients": [
+        {
+          "id": "29249b79b6588637",
+          "name": "item_event_trophy_harvest2_1",
+          "quantity": 50000,
+          "type": "item"
+        },
+        {
+          "id": "d5bff8541fc21a0c",
+          "name": "item_event_coin_tier1",
+          "quantity": 45000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_harvest2_item_buildreq_pale_steel_1_100"
+    },
+    {
+      "id": "963bc6c522ec2dc6",
+      "ingredients": [
+        {
+          "id": "29249b79b6588637",
+          "name": "item_event_trophy_harvest2_1",
+          "quantity": 2500,
+          "type": "item"
+        },
+        {
+          "id": "a0ada4bfc637e802",
+          "name": "item_event_coin_tier2",
+          "quantity": 225,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_harvest2_item_buildreq_red_gold_1_1"
+    },
+    {
+      "id": "659839e44f252b4",
+      "ingredients": [
+        {
+          "id": "29249b79b6588637",
+          "name": "item_event_trophy_harvest2_1",
+          "quantity": 250000,
+          "type": "item"
+        },
+        {
+          "id": "a0ada4bfc637e802",
+          "name": "item_event_coin_tier2",
+          "quantity": 22500,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_harvest2_item_buildreq_red_gold_1_100"
+    },
+    {
+      "id": "17af0b412ad0e525",
+      "ingredients": [
+        {
+          "id": "29249b79b6588637",
+          "name": "item_event_trophy_harvest2_1",
+          "quantity": 238,
+          "type": "item"
+        },
+        {
+          "id": "a0ada4bfc637e802",
+          "name": "item_event_coin_tier2",
+          "quantity": 13,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_harvest2_item_speedup_Research_5m_1"
+    },
+    {
+      "id": "f4d207cff1d35dda",
+      "ingredients": [
+        {
+          "id": "29249b79b6588637",
+          "name": "item_event_trophy_harvest2_1",
+          "quantity": 23800,
+          "type": "item"
+        },
+        {
+          "id": "a0ada4bfc637e802",
+          "name": "item_event_coin_tier2",
+          "quantity": 1300,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_harvest2_item_speedup_Research_5m_100"
+    },
+    {
+      "id": "ebe2df1ba3b4bedf",
+      "ingredients": [
+        {
+          "id": "29249b79b6588637",
+          "name": "item_event_trophy_harvest2_1",
+          "quantity": 1500,
+          "type": "item"
+        },
+        {
+          "id": "a0ada4bfc637e802",
+          "name": "item_event_coin_tier2",
+          "quantity": 135,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_harvest2_item_researcher_2_1d_1"
+    },
+    {
+      "id": "84ca35794ef670f1",
+      "ingredients": [
+        {
+          "id": "29249b79b6588637",
+          "name": "item_event_trophy_harvest2_1",
+          "quantity": 150000,
+          "type": "item"
+        },
+        {
+          "id": "a0ada4bfc637e802",
+          "name": "item_event_coin_tier2",
+          "quantity": 13500,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_harvest2_item_researcher_2_1d_100"
+    },
+    {
+      "id": "760d731cf7e0a280",
+      "ingredients": [
+        {
+          "id": "29249b79b6588637",
+          "name": "item_event_trophy_harvest2_1",
+          "quantity": 10000,
+          "type": "item"
+        },
+        {
+          "id": "a0ada4bfc637e802",
+          "name": "item_event_coin_tier2",
+          "quantity": 900,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_harvest2_item_peaceshield_2_1"
+    },
+    {
+      "id": "304f15e7fd7d84f1",
+      "ingredients": [
+        {
+          "id": "29249b79b6588637",
+          "name": "item_event_trophy_harvest2_1",
+          "quantity": 1000000,
+          "type": "item"
+        },
+        {
+          "id": "a0ada4bfc637e802",
+          "name": "item_event_coin_tier2",
+          "quantity": 90000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_harvest2_item_peaceshield_2_100"
     }
   ]
 }

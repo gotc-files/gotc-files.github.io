@@ -1776,6 +1776,59 @@
         "herotrait_wildling"
       ],
       "xp_progression_name": "prog_heroxp_mythic"
+    },
+    {
+      "description_placeholder": "HERO_ELLARIASAND_PARAMOUR_DESC",
+      "event_score_progression_name": "prog_hero_eventscore_heroic_1",
+      "id": "91378a3be9c16648",
+      "max_stars": 5,
+      "name": "hero_ellariasand_paramour",
+      "name_placeholder": "HERO_ELLARIASAND_PARAMOUR_NAME",
+      "oath_progression_name": "prog_hero_adv_stones_cost_heroic_1",
+      "rarity": 3,
+      "relic_name": "item_hero_adv_ellariasand_paramour_1",
+      "relic_progression_name": "prog_shardcost_heroic",
+      "skills": [
+        "heroskill_visgen_hero_ellariasand_paramour_3",
+        "heroskill_visgen_hero_ellariasand_paramour_4",
+        "heroskill_visgen_hero_ellariasand_paramour_5",
+        "heroskill_visgen_hero_ellariasand_paramour_6",
+        "heroskill_visgen_hero_ellariasand_paramour_7",
+        "heroskill_visgen_hero_ellariasand_paramour_1",
+        "heroskill_visgen_hero_ellariasand_paramour_2"
+      ],
+      "traits": [
+        "herotrait_hand",
+        "herotrait_martell"
+      ],
+      "xp_progression_name": "prog_heroxp_heroic"
+    },
+    {
+      "description_placeholder": "HERO_SYRIOFOREL_FIRSTSWORDOFBRAAVOS_DESC",
+      "event_score_progression_name": "prog_hero_eventscore_mythic_1",
+      "id": "32c4a20e569d6961",
+      "max_stars": 6,
+      "name": "hero_syrioforel_firstswordofbraavos",
+      "name_placeholder": "HERO_SYRIOFOREL_FIRSTSWORDOFBRAAVOS_NAME",
+      "oath_progression_name": "prog_hero_adv_stones_cost_mythic_1",
+      "rarity": 4,
+      "relic_name": "item_hero_adv_syrioforel_firstswordofbraavos_1",
+      "relic_progression_name": "prog_shardcost_mythic",
+      "skills": [
+        "heroskill_visgen_hero_syrioforel_firstswordofbraavos_3",
+        "heroskill_visgen_hero_syrioforel_firstswordofbraavos_4",
+        "heroskill_visgen_hero_syrioforel_firstswordofbraavos_5",
+        "heroskill_visgen_hero_syrioforel_firstswordofbraavos_6",
+        "heroskill_visgen_hero_syrioforel_firstswordofbraavos_7",
+        "heroskill_visgen_hero_syrioforel_firstswordofbraavos_8",
+        "heroskill_visgen_hero_syrioforel_firstswordofbraavos_1",
+        "heroskill_visgen_hero_syrioforel_firstswordofbraavos_2"
+      ],
+      "traits": [
+        "herotrait_masterofwar",
+        "herotrait_braavosi"
+      ],
+      "xp_progression_name": "prog_heroxp_mythic"
     }
   ]
 }
