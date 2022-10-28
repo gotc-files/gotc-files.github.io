@@ -305,6 +305,12 @@ FILE_PROCESSOR_MAPPING_CONFIG = {
         RecipesProcessor,
     ),
     (
+        "AlchemyTable_AlchemyGen_Repeatable_EquipmentFragments",
+        "pb",
+        "recipes_equipment_fragments",
+        RecipesProcessor,
+    ),
+    (
         "AlchemyTable_AlchemyGen_Repeatable_Flux",
         "pb",
         "recipes_flux",
@@ -386,6 +392,12 @@ FILE_PROCESSOR_MAPPING_CONFIG = {
         "UniversalRecipeTable_AlchemyGen_Repeatable_Dragon",
         ("pb", "json"),
         "recipe_ingredient_sets_dragon",
+        RecipeIngredientSetsProcessor,
+    ),
+    (
+        "UniversalRecipeTable_AlchemyGen_Repeatable_EquipmentFragments",
+        ("pb", "json"),
+        "recipe_ingredient_sets_equipment_fragments",
         RecipeIngredientSetsProcessor,
     ),
     (

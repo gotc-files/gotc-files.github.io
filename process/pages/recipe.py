@@ -16,6 +16,7 @@ RECIPE_FILES = (
     ("festival", "Festival"),
     ("iron_crown", "Iron Crown"),
     ("bounties", "Bounties"),
+    ("equipment_fragments", "Equipment Fragments"),
 )
 
 INGREDIENT_FILES = (
