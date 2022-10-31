@@ -44206,6 +44206,664 @@
             ]
           }
         ]
+      },
+      {
+        "gear_with_level": [
+          {
+            "level": 1,
+            "name": "Harvest Pin (L1)",
+            "stats": [
+              {
+                "description": "Reduction in resources required for healing wounded troops.",
+                "name": "Healing Cost Efficiency",
+                "progression": [
+                  0.0685440000000002,
+                  0.0734400000000002,
+                  0.0783360000000002,
+                  0.0832320000000002,
+                  0.0881280000000002,
+                  0.0979200000000003
+                ]
+              },
+              {
+                "description": "How much faster you construct buildings.",
+                "name": "Construction Speed",
+                "progression": [
+                  0.0428400000000001,
+                  0.0459000000000001,
+                  0.0489600000000001,
+                  0.0520200000000001,
+                  0.0550800000000001,
+                  0.0612000000000002
+                ]
+              },
+              {
+                "description": "Increase how fast equipment is forged at your Smithy.",
+                "name": "Forging Speed",
+                "progression": [
+                  0.0428400000000001,
+                  0.0459000000000001,
+                  0.0489600000000001,
+                  0.0520200000000001,
+                  0.0550800000000001,
+                  0.0612000000000002
+                ]
+              },
+              {
+                "description": "How much faster you heal wounded troops.",
+                "name": "Healing Speed",
+                "progression": [
+                  0.0685440000000002,
+                  0.0734400000000002,
+                  0.0783360000000002,
+                  0.0832320000000002,
+                  0.0881280000000002,
+                  0.0979200000000003
+                ]
+              }
+            ]
+          },
+          {
+            "level": 5,
+            "name": "Harvest Pin (L5)",
+            "stats": [
+              {
+                "description": "Reduction in resources required for healing wounded troops.",
+                "name": "Healing Cost Efficiency",
+                "progression": [
+                  0.1302336,
+                  0.139536,
+                  0.1488384,
+                  0.1581408,
+                  0.1674432,
+                  0.186048
+                ]
+              },
+              {
+                "description": "How much faster you construct buildings.",
+                "name": "Construction Speed",
+                "progression": [
+                  0.0813960000000001,
+                  0.0872100000000001,
+                  0.0930240000000001,
+                  0.0988380000000001,
+                  0.104652,
+                  0.11628
+                ]
+              },
+              {
+                "description": "Increase how fast equipment is forged at your Smithy.",
+                "name": "Forging Speed",
+                "progression": [
+                  0.0813960000000001,
+                  0.0872100000000001,
+                  0.0930240000000001,
+                  0.0988380000000001,
+                  0.104652,
+                  0.11628
+                ]
+              },
+              {
+                "description": "How much faster you heal wounded troops.",
+                "name": "Healing Speed",
+                "progression": [
+                  0.1302336,
+                  0.139536,
+                  0.1488384,
+                  0.1581408,
+                  0.1674432,
+                  0.186048
+                ]
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "name": "Harvest Pin (L10)",
+            "stats": [
+              {
+                "description": "Reduction in resources required for healing wounded troops.",
+                "name": "Healing Cost Efficiency",
+                "progression": [
+                  0.1919232,
+                  0.205632,
+                  0.2193408,
+                  0.2330496,
+                  0.2467584,
+                  0.274176
+                ]
+              },
+              {
+                "description": "How much faster you construct buildings.",
+                "name": "Construction Speed",
+                "progression": [
+                  0.119952,
+                  0.12852,
+                  0.137088,
+                  0.145656,
+                  0.154224,
+                  0.17136
+                ]
+              },
+              {
+                "description": "Increase how fast equipment is forged at your Smithy.",
+                "name": "Forging Speed",
+                "progression": [
+                  0.119952,
+                  0.12852,
+                  0.137088,
+                  0.145656,
+                  0.154224,
+                  0.17136
+                ]
+              },
+              {
+                "description": "How much faster you heal wounded troops.",
+                "name": "Healing Speed",
+                "progression": [
+                  0.1919232,
+                  0.205632,
+                  0.2193408,
+                  0.2330496,
+                  0.2467584,
+                  0.274176
+                ]
+              }
+            ]
+          },
+          {
+            "level": 15,
+            "name": "Harvest Pin (L1)",
+            "stats": [
+              {
+                "description": "Reduction in resources required for healing wounded troops.",
+                "name": "Healing Cost Efficiency",
+                "progression": [
+                  0.2536128,
+                  0.271728,
+                  0.2898432,
+                  0.3079584,
+                  0.3260736,
+                  0.362304
+                ]
+              },
+              {
+                "description": "How much faster you construct buildings.",
+                "name": "Construction Speed",
+                "progression": [
+                  0.158508,
+                  0.16983,
+                  0.181152,
+                  0.192474,
+                  0.203796,
+                  0.22644
+                ]
+              },
+              {
+                "description": "Increase how fast equipment is forged at your Smithy.",
+                "name": "Forging Speed",
+                "progression": [
+                  0.158508,
+                  0.16983,
+                  0.181152,
+                  0.192474,
+                  0.203796,
+                  0.22644
+                ]
+              },
+              {
+                "description": "How much faster you heal wounded troops.",
+                "name": "Healing Speed",
+                "progression": [
+                  0.2536128,
+                  0.271728,
+                  0.2898432,
+                  0.3079584,
+                  0.3260736,
+                  0.362304
+                ]
+              }
+            ]
+          },
+          {
+            "level": 20,
+            "name": "Harvest Pin (L15)",
+            "stats": [
+              {
+                "description": "Reduction in resources required for healing wounded troops.",
+                "name": "Healing Cost Efficiency",
+                "progression": [
+                  0.3153024,
+                  0.337824,
+                  0.3603456,
+                  0.3828672,
+                  0.4053888,
+                  0.450432
+                ]
+              },
+              {
+                "description": "How much faster you construct buildings.",
+                "name": "Construction Speed",
+                "progression": [
+                  0.197064,
+                  0.21114,
+                  0.225216,
+                  0.239292,
+                  0.253368,
+                  0.28152
+                ]
+              },
+              {
+                "description": "Increase how fast equipment is forged at your Smithy.",
+                "name": "Forging Speed",
+                "progression": [
+                  0.197064,
+                  0.21114,
+                  0.225216,
+                  0.239292,
+                  0.253368,
+                  0.28152
+                ]
+              },
+              {
+                "description": "How much faster you heal wounded troops.",
+                "name": "Healing Speed",
+                "progression": [
+                  0.3153024,
+                  0.337824,
+                  0.3603456,
+                  0.3828672,
+                  0.4053888,
+                  0.450432
+                ]
+              }
+            ]
+          },
+          {
+            "level": 25,
+            "name": "Harvest Pin (L25)",
+            "stats": [
+              {
+                "description": "Reduction in resources required for healing wounded troops.",
+                "name": "Healing Cost Efficiency",
+                "progression": [
+                  0.376992,
+                  0.40392,
+                  0.430848,
+                  0.457776,
+                  0.484704,
+                  0.53856
+                ]
+              },
+              {
+                "description": "How much faster you construct buildings.",
+                "name": "Construction Speed",
+                "progression": [
+                  0.23562,
+                  0.25245,
+                  0.26928,
+                  0.28611,
+                  0.30294,
+                  0.3366
+                ]
+              },
+              {
+                "description": "Increase how fast equipment is forged at your Smithy.",
+                "name": "Forging Speed",
+                "progression": [
+                  0.23562,
+                  0.25245,
+                  0.26928,
+                  0.28611,
+                  0.30294,
+                  0.3366
+                ]
+              },
+              {
+                "description": "How much faster you heal wounded troops.",
+                "name": "Healing Speed",
+                "progression": [
+                  0.376992,
+                  0.40392,
+                  0.430848,
+                  0.457776,
+                  0.484704,
+                  0.53856
+                ]
+              }
+            ]
+          },
+          {
+            "level": 30,
+            "name": "Harvest Pin (L3)",
+            "stats": [
+              {
+                "description": "Reduction in resources required for healing wounded troops.",
+                "name": "Healing Cost Efficiency",
+                "progression": [
+                  0.4386816,
+                  0.470016,
+                  0.5013504,
+                  0.5326848,
+                  0.5640192,
+                  0.626688
+                ]
+              },
+              {
+                "description": "How much faster you construct buildings.",
+                "name": "Construction Speed",
+                "progression": [
+                  0.274176,
+                  0.29376,
+                  0.313344,
+                  0.332928,
+                  0.352512,
+                  0.39168
+                ]
+              },
+              {
+                "description": "Increase how fast equipment is forged at your Smithy.",
+                "name": "Forging Speed",
+                "progression": [
+                  0.274176,
+                  0.29376,
+                  0.313344,
+                  0.332928,
+                  0.352512,
+                  0.39168
+                ]
+              },
+              {
+                "description": "How much faster you heal wounded troops.",
+                "name": "Healing Speed",
+                "progression": [
+                  0.4386816,
+                  0.470016,
+                  0.5013504,
+                  0.5326848,
+                  0.5640192,
+                  0.626688
+                ]
+              },
+              {
+                "description": "How much faster you research.",
+                "name": "Maester Research Speed",
+                "progression": [
+                  0.137088,
+                  0.14688,
+                  0.156672,
+                  0.166464,
+                  0.176256,
+                  0.19584
+                ]
+              }
+            ]
+          },
+          {
+            "level": 35,
+            "name": "Harvest Pin (L35)",
+            "stats": [
+              {
+                "description": "Reduction in resources required for healing wounded troops.",
+                "name": "Healing Cost Efficiency",
+                "progression": [
+                  0.5003712,
+                  0.536112,
+                  0.5718528,
+                  0.6075936,
+                  0.6433344,
+                  0.714816
+                ]
+              },
+              {
+                "description": "How much faster you construct buildings.",
+                "name": "Construction Speed",
+                "progression": [
+                  0.312732,
+                  0.33507,
+                  0.357408,
+                  0.379746,
+                  0.402084,
+                  0.44676
+                ]
+              },
+              {
+                "description": "Increase how fast equipment is forged at your Smithy.",
+                "name": "Forging Speed",
+                "progression": [
+                  0.312732,
+                  0.33507,
+                  0.357408,
+                  0.379746,
+                  0.402084,
+                  0.44676
+                ]
+              },
+              {
+                "description": "How much faster you heal wounded troops.",
+                "name": "Healing Speed",
+                "progression": [
+                  0.5003712,
+                  0.536112,
+                  0.5718528,
+                  0.6075936,
+                  0.6433344,
+                  0.714816
+                ]
+              },
+              {
+                "description": "How much faster you research.",
+                "name": "Maester Research Speed",
+                "progression": [
+                  0.156366,
+                  0.167535,
+                  0.178704,
+                  0.189873,
+                  0.201042,
+                  0.22338
+                ]
+              }
+            ]
+          },
+          {
+            "level": 40,
+            "name": "Harvest Pin (L4)",
+            "stats": [
+              {
+                "description": "Reduction in resources required for healing wounded troops.",
+                "name": "Healing Cost Efficiency",
+                "progression": [
+                  0.5620608,
+                  0.602208,
+                  0.6423552,
+                  0.6825024,
+                  0.7226496,
+                  0.802944
+                ]
+              },
+              {
+                "description": "How much faster you construct buildings.",
+                "name": "Construction Speed",
+                "progression": [
+                  0.351288,
+                  0.37638,
+                  0.401472,
+                  0.426564,
+                  0.451656,
+                  0.50184
+                ]
+              },
+              {
+                "description": "Increase how fast equipment is forged at your Smithy.",
+                "name": "Forging Speed",
+                "progression": [
+                  0.351288,
+                  0.37638,
+                  0.401472,
+                  0.426564,
+                  0.451656,
+                  0.50184
+                ]
+              },
+              {
+                "description": "How much faster you heal wounded troops.",
+                "name": "Healing Speed",
+                "progression": [
+                  0.5620608,
+                  0.602208,
+                  0.6423552,
+                  0.6825024,
+                  0.7226496,
+                  0.802944
+                ]
+              },
+              {
+                "description": "How much faster you research.",
+                "name": "Maester Research Speed",
+                "progression": [
+                  0.175644,
+                  0.18819,
+                  0.200736,
+                  0.213282,
+                  0.225828,
+                  0.25092
+                ]
+              }
+            ]
+          },
+          {
+            "level": 45,
+            "name": "Harvest Pin (L45)",
+            "stats": [
+              {
+                "description": "Reduction in resources required for healing wounded troops.",
+                "name": "Healing Cost Efficiency",
+                "progression": [
+                  0.6237504,
+                  0.668304,
+                  0.7128576,
+                  0.7574112,
+                  0.8019648,
+                  0.891072
+                ]
+              },
+              {
+                "description": "How much faster you construct buildings.",
+                "name": "Construction Speed",
+                "progression": [
+                  0.389844,
+                  0.41769,
+                  0.445536,
+                  0.473382,
+                  0.501228,
+                  0.55692
+                ]
+              },
+              {
+                "description": "Increase how fast equipment is forged at your Smithy.",
+                "name": "Forging Speed",
+                "progression": [
+                  0.389844,
+                  0.41769,
+                  0.445536,
+                  0.473382,
+                  0.501228,
+                  0.55692
+                ]
+              },
+              {
+                "description": "How much faster you heal wounded troops.",
+                "name": "Healing Speed",
+                "progression": [
+                  0.6237504,
+                  0.668304,
+                  0.7128576,
+                  0.7574112,
+                  0.8019648,
+                  0.891072
+                ]
+              },
+              {
+                "description": "How much faster you research.",
+                "name": "Maester Research Speed",
+                "progression": [
+                  0.194922,
+                  0.208845,
+                  0.222768,
+                  0.236691,
+                  0.250614,
+                  0.27846
+                ]
+              }
+            ]
+          },
+          {
+            "level": 50,
+            "name": "Harvest Pin (L50)",
+            "stats": [
+              {
+                "description": "Reduction in resources required for healing wounded troops.",
+                "name": "Healing Cost Efficiency",
+                "progression": [
+                  0.68544,
+                  0.7344,
+                  0.78336,
+                  0.83232,
+                  0.88128,
+                  0.9792
+                ]
+              },
+              {
+                "description": "How much faster you construct buildings.",
+                "name": "Construction Speed",
+                "progression": [
+                  0.4284,
+                  0.459,
+                  0.4896,
+                  0.5202,
+                  0.5508,
+                  0.612
+                ]
+              },
+              {
+                "description": "Increase how fast equipment is forged at your Smithy.",
+                "name": "Forging Speed",
+                "progression": [
+                  0.4284,
+                  0.459,
+                  0.4896,
+                  0.5202,
+                  0.5508,
+                  0.612
+                ]
+              },
+              {
+                "description": "How much faster you heal wounded troops.",
+                "name": "Healing Speed",
+                "progression": [
+                  0.68544,
+                  0.7344,
+                  0.78336,
+                  0.83232,
+                  0.88128,
+                  0.9792
+                ]
+              },
+              {
+                "description": "How much faster you research.",
+                "name": "Maester Research Speed",
+                "progression": [
+                  0.2142,
+                  0.2295,
+                  0.2448,
+                  0.2601,
+                  0.2754,
+                  0.306
+                ]
+              }
+            ]
+          }
+        ]
       }
     ]
   }

@@ -9538,6 +9538,257 @@
       "steel_cost": 520000000,
       "template_level": 45,
       "upgrade_time_seconds": 345600
+    },
+    {
+      "id": "9db92d9cf1583b0b",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_harvest2_1",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 10
+        }
+      ],
+      "name": "eq_events_trinket_harvest2_1_trinket_lord1",
+      "steel_cost": 500,
+      "template_level": 0,
+      "upgrade_time_seconds": 3600
+    },
+    {
+      "id": "5affffb4a7e28561",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_harvest2_1",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 10
+        }
+      ],
+      "name": "eq_events_trinket_harvest2_5_trinket_lord5",
+      "steel_cost": 4000,
+      "template_level": 1,
+      "upgrade_time_seconds": 3600
+    },
+    {
+      "id": "85f4073d6a0c45e1",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_harvest2_1",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 20
+        }
+      ],
+      "name": "eq_events_trinket_harvest2_10_trinket_lord10",
+      "steel_cost": 36500,
+      "template_level": 5,
+      "upgrade_time_seconds": 7200
+    },
+    {
+      "id": "a43a5868a6d61c8d",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_harvest2_1",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 120
+        }
+      ],
+      "name": "eq_events_trinket_harvest2_15_trinket_lord15",
+      "steel_cost": 148000,
+      "template_level": 10,
+      "upgrade_time_seconds": 21600
+    },
+    {
+      "id": "a788958424732984",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_harvest2_1",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 400
+        }
+      ],
+      "name": "eq_events_trinket_harvest2_20_trinket_lord20",
+      "steel_cost": 534000,
+      "template_level": 15,
+      "upgrade_time_seconds": 43200
+    },
+    {
+      "id": "8646cad1e8a970e8",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_harvest2_1",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 1200
+        }
+      ],
+      "name": "eq_events_trinket_harvest2_25_trinket_lord25",
+      "steel_cost": 1800000,
+      "template_level": 20,
+      "upgrade_time_seconds": 64800
+    },
+    {
+      "id": "b9a31bece1a60da7",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_harvest2_1",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 3000
+        }
+      ],
+      "name": "eq_events_trinket_harvest2_30_trinket_lord30",
+      "steel_cost": 5850000,
+      "template_level": 25,
+      "upgrade_time_seconds": 86400
+    },
+    {
+      "id": "986d44b92d7c54cb",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_harvest2_1",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 12000
+        }
+      ],
+      "name": "eq_events_trinket_harvest2_35_trinket_lord35",
+      "steel_cost": 18400000,
+      "template_level": 30,
+      "upgrade_time_seconds": 129600
+    },
+    {
+      "id": "e371b0f6b88df14e",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_harvest2_1",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 45000
+        }
+      ],
+      "name": "eq_events_trinket_harvest2_40_trinket_lord40",
+      "steel_cost": 56900000,
+      "template_level": 35,
+      "upgrade_time_seconds": 172800
+    },
+    {
+      "id": "c2bfefa37457a822",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_harvest2_1",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 120000
+        }
+      ],
+      "name": "eq_events_trinket_harvest2_45_trinket_lord45",
+      "steel_cost": 173000000,
+      "template_level": 40,
+      "upgrade_time_seconds": 259200
+    },
+    {
+      "id": "fd5a3e9e7d58d56d",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_harvest2_1",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 450000
+        }
+      ],
+      "name": "eq_events_trinket_harvest2_50_trinket_lord50",
+      "steel_cost": 520000000,
+      "template_level": 45,
+      "upgrade_time_seconds": 345600
     }
   ]
 }
