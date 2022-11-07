@@ -1,0 +1,895 @@
+{
+  "description": "Sets of stats with names and progression",
+  "values": [
+    {
+      "id": "514997dc9e4948d0",
+      "name": "dragonresearch_dragoncare_dragon_attack_1",
+      "stats": [
+        {
+          "name": "property_DragonAttack_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_attack_1_property_DragonAttack_research"
+        }
+      ]
+    },
+    {
+      "id": "39b37f63ea9fa7c1",
+      "name": "dragonresearch_dragoncare_dragon_rangedattackvsplayer_1",
+      "stats": [
+        {
+          "name": "property_DragonRangedAttackVsPlayer_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_rangedattackvsplayer_1_property_DragonRangedAttackVsPlayer_research"
+        }
+      ]
+    },
+    {
+      "id": "74d5e47b0526a7da",
+      "name": "dragonresearch_dragoncare_dragon_marcherrangedattackvsplayer_1",
+      "stats": [
+        {
+          "name": "property_DragonMarcherRangedAttackVsPlayer_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_marcherrangedattackvsplayer_1_property_DragonMarcherRangedAttackVsPlayer_research"
+        }
+      ]
+    },
+    {
+      "id": "6e376fb523d43b78",
+      "name": "dragonresearch_dragoncare_dragon_marcherinfantryattackvsplayer_1",
+      "stats": [
+        {
+          "name": "property_DragonMarcherInfantryAttackVsPlayer_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_marcherinfantryattackvsplayer_1_property_DragonMarcherInfantryAttackVsPlayer_research"
+        }
+      ]
+    },
+    {
+      "id": "d2623cfca1276240",
+      "name": "dragonresearch_dragoncare_dragon_marchercavalryattackvsplayer_1",
+      "stats": [
+        {
+          "name": "property_DragonMarcherCavalryAttackVsPlayer_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_marchercavalryattackvsplayer_1_property_DragonMarcherCavalryAttackVsPlayer_research"
+        }
+      ]
+    },
+    {
+      "id": "1a7f30454bf58d7c",
+      "name": "dragonresearch_dragoncare_dragon_infantryattackvsplayer_1",
+      "stats": [
+        {
+          "name": "property_DragonInfantryAttackVsPlayer_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_infantryattackvsplayer_1_property_DragonInfantryAttackVsPlayer_research"
+        }
+      ]
+    },
+    {
+      "id": "adb65383ccc2768",
+      "name": "dragonresearch_dragoncare_dragon_cavalryattackvsplayer_1",
+      "stats": [
+        {
+          "name": "property_DragonCavalryAttackVsPlayer_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_cavalryattackvsplayer_1_property_DragonCavalryAttackVsPlayer_research"
+        }
+      ]
+    },
+    {
+      "id": "697ea0a53bb0cdd3",
+      "name": "dragonresearch_dragoncare_dragon_health_1",
+      "stats": [
+        {
+          "name": "property_DragonHealth_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_health_1_property_DragonHealth_research"
+        }
+      ]
+    },
+    {
+      "id": "3e17185920aa7588",
+      "name": "dragonresearch_dragoncare_dragon_healing_1",
+      "stats": [
+        {
+          "name": "property_DragonHealthRegenRate_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_healing_1_property_DragonHealthRegenRate_research"
+        }
+      ]
+    },
+    {
+      "id": "14e118b440929aab",
+      "name": "dragonresearch_dragoncare_dragon_maxmarchsize_1",
+      "stats": [
+        {
+          "name": "property_DragonMarchSizeVsPlayer_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_MaxMarchSize_1_property_DragonMarchSizeVsPlayer_research"
+        }
+      ]
+    },
+    {
+      "id": "bc4bfff8fdc09e2b",
+      "name": "dragonresearch_dragoncare_dragon_marchspeed_1",
+      "stats": [
+        {
+          "name": "property_DragonMarchingSpeed_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_marchspeed_1_property_DragonMarchingSpeed_research"
+        }
+      ]
+    },
+    {
+      "id": "245bcb3747bcbade",
+      "name": "dragonresearch_dragoncare_dragon_attack_2",
+      "stats": [
+        {
+          "name": "property_DragonAttack_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_attack_2_property_DragonAttack_research"
+        }
+      ]
+    },
+    {
+      "id": "1c6cfc4ee2453fdd",
+      "name": "dragonresearch_dragoncare_dragon_health_2",
+      "stats": [
+        {
+          "name": "property_DragonHealth_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_health_2_property_DragonHealth_research"
+        }
+      ]
+    },
+    {
+      "id": "4b0544b2f95f8786",
+      "name": "dragonresearch_dragoncare_dragon_healing_2",
+      "stats": [
+        {
+          "name": "property_DragonHealthRegenRate_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_healing_2_property_DragonHealthRegenRate_research"
+        }
+      ]
+    },
+    {
+      "id": "c3b5a7b8c850991",
+      "name": "dragonresearch_dragoncare_dragongearpreset_1",
+      "stats": [
+        {
+          "name": "property_DragonAttack_research",
+          "progression": "prog_dragonresearch_dragoncare_dragongearpreset_1_property_DragonAttack_research"
+        }
+      ]
+    },
+    {
+      "id": "5e9506d325377946",
+      "name": "dragonresearch_dragoncare_dragon_siegeattackvsplayer_1",
+      "stats": [
+        {
+          "name": "property_DragonSiegeAttackVsPlayer_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_siegeattackvsplayer_1_property_DragonSiegeAttackVsPlayer_research"
+        }
+      ]
+    },
+    {
+      "id": "2d76583bf1ab24f7",
+      "name": "dragonresearch_dragoncare_dragon_rangedhealthvsplayer_1",
+      "stats": [
+        {
+          "name": "property_DragonRangedHealthVsPlayer_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_rangedhealthvsplayer_1_property_DragonRangedHealthVsPlayer_research"
+        }
+      ]
+    },
+    {
+      "id": "eba171d50c10e4a",
+      "name": "dragonresearch_dragoncare_dragon_infantryhealthvsplayer_1",
+      "stats": [
+        {
+          "name": "property_DragonInfantryHealthVsPlayer_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_infantryhealthvsplayer_1_property_DragonInfantryHealthVsPlayer_research"
+        }
+      ]
+    },
+    {
+      "id": "1e1e426027f8a45e",
+      "name": "dragonresearch_dragoncare_dragon_cavalryhealthvsplayer_1",
+      "stats": [
+        {
+          "name": "property_DragonCavalryHealthVsPlayer_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_cavalryhealthvsplayer_1_property_DragonCavalryHealthVsPlayer_research"
+        }
+      ]
+    },
+    {
+      "id": "6010c3231e1224ec",
+      "name": "dragonresearch_dragoncare_dragon_marcherrangedhealthvsplayer_1",
+      "stats": [
+        {
+          "name": "property_DragonMarcherRangedHealthVsPlayer_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_marcherrangedhealthvsplayer_1_property_DragonMarcherRangedHealthVsPlayer_research"
+        }
+      ]
+    },
+    {
+      "id": "7af248ed38e0b84e",
+      "name": "dragonresearch_dragoncare_dragon_marcherinfantryhealthvsplayer_1",
+      "stats": [
+        {
+          "name": "property_DragonMarcherInfantryHealthVsPlayer_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_marcherinfantryhealthvsplayer_1_property_DragonMarcherInfantryHealthVsPlayer_research"
+        }
+      ]
+    },
+    {
+      "id": "c6a71ba4ba13e176",
+      "name": "dragonresearch_dragoncare_dragon_marchercavalryhealthvsplayer_1",
+      "stats": [
+        {
+          "name": "property_DragonMarcherCavalryHealthVsPlayer_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_marchercavalryhealthvsplayer_1_property_DragonMarcherCavalryHealthVsPlayer_research"
+        }
+      ]
+    },
+    {
+      "id": "ce66dfd7ee110251",
+      "name": "dragonresearch_dragoncare_dragon_rangeddefensevsplayer_1",
+      "stats": [
+        {
+          "name": "property_DragonRangedDefenseVsPlayer_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_rangeddefensevsplayer_1_property_DragonRangedDefenseVsPlayer_research"
+        }
+      ]
+    },
+    {
+      "id": "ac6c4dc305014a60",
+      "name": "dragonresearch_dragoncare_dragon_infantrydefensevsplayer_1",
+      "stats": [
+        {
+          "name": "property_DragonInfantryDefenseVsPlayer_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_infantrydefensevsplayer_1_property_DragonInfantryDefenseVsPlayer_research"
+        }
+      ]
+    },
+    {
+      "id": "5769bbf80afffaff",
+      "name": "dragonresearch_dragoncare_dragon_cavalrydefensevsplayer_1",
+      "stats": [
+        {
+          "name": "property_DragonCavalryDefenseVsPlayer_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_cavalrydefensevsplayer_1_property_DragonCavalryDefenseVsPlayer_research"
+        }
+      ]
+    },
+    {
+      "id": "16df861373fa4779",
+      "name": "dragonresearch_dragoncare_dragon_marcherrangeddefensevsplayer_1",
+      "stats": [
+        {
+          "name": "property_DragonMarcherRangedDefenseVsPlayer_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_marcherrangeddefensevsplayer_1_property_DragonMarcherRangedDefenseVsPlayer_research"
+        }
+      ]
+    },
+    {
+      "id": "1fdf2b0628242c3e",
+      "name": "dragonresearch_dragoncare_dragon_marcherinfantrydefensevsplayer_1",
+      "stats": [
+        {
+          "name": "property_DragonMarcherInfantryDefenseVsPlayer_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_marcherinfantrydefensevsplayer_1_property_DragonMarcherInfantryDefenseVsPlayer_research"
+        }
+      ]
+    },
+    {
+      "id": "2321e40862de4cfb",
+      "name": "dragonresearch_dragoncare_dragon_marchercavalrydefensevsplayer_1",
+      "stats": [
+        {
+          "name": "property_DragonMarcherCavalryDefenseVsPlayer_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_marchercavalrydefensevsplayer_1_property_DragonMarcherCavalryDefenseVsPlayer_research"
+        }
+      ]
+    },
+    {
+      "id": "c5c962146e19d40e",
+      "name": "dragonresearch_dragoncare_dragon_troopattackvsplayer_1",
+      "stats": [
+        {
+          "name": "property_DragonTroopAttackVsPlayer_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_troopattackvsplayer_1_property_DragonTroopAttackVsPlayer_research"
+        }
+      ]
+    },
+    {
+      "id": "7eb3036ba634b0e4",
+      "name": "dragonresearch_dragoncare_dragon_marchertroopattackvsplayer_1",
+      "stats": [
+        {
+          "name": "property_DragonTroopAttackVsPlayer_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_marchertroopattackvsplayer_1_property_DragonTroopAttackVsPlayer_research"
+        }
+      ]
+    },
+    {
+      "id": "8dd558663c7322f5",
+      "name": "dragonresearch_dragoncare_dragon_troopdefensevsplayer_1",
+      "stats": [
+        {
+          "name": "property_DragonTroopDefenseVsPlayer_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_troopdefensevsplayer_1_property_DragonTroopDefenseVsPlayer_research"
+        }
+      ]
+    },
+    {
+      "id": "c0b3c37ed3ca22ee",
+      "name": "dragonresearch_dragoncare_dragon_marchertroopdefensevsplayer_1",
+      "stats": [
+        {
+          "name": "property_DragonTroopAttackVsPlayer_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_marchertroopdefensevsplayer_1_property_DragonTroopAttackVsPlayer_research"
+        }
+      ]
+    },
+    {
+      "id": "c959a31324356c25",
+      "name": "dragonresearch_dragoncare_dragon_marchspeed_2",
+      "stats": [
+        {
+          "name": "property_DragonMarchingSpeed_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_marchspeed_2_property_DragonMarchingSpeed_research"
+        }
+      ]
+    },
+    {
+      "id": "d10c454c752d5738",
+      "name": "dragonresearch_dragoncare_dragon_troophealthvsplayer_1",
+      "stats": [
+        {
+          "name": "property_DragonTroopHealthVsPlayer_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_troophealthvsplayer_1_property_DragonTroopHealthVsPlayer_research"
+        }
+      ]
+    },
+    {
+      "id": "6a762433bd0033d2",
+      "name": "dragonresearch_dragoncare_dragon_marchertroophealthvsplayer_1",
+      "stats": [
+        {
+          "name": "property_DragonTroopAttackVsPlayer_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_marchertroophealthvsplayer_1_property_DragonTroopAttackVsPlayer_research"
+        }
+      ]
+    },
+    {
+      "id": "4a50218b3e03fa70",
+      "name": "dragonresearch_dragoncare_dragon_siegehealthvsplayer_1",
+      "stats": [
+        {
+          "name": "property_DragonSiegeHealthVsPlayer_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_siegehealthvsplayer_1_property_DragonSiegeHealthVsPlayer_research"
+        }
+      ]
+    },
+    {
+      "id": "c989aae5feb1b8fc",
+      "name": "dragonresearch_dragoncare_dragon_siegedefensevsplayer_1",
+      "stats": [
+        {
+          "name": "property_DragonSiegeDefenseVsPlayer_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_siegedefensevsplayer_1_property_DragonSiegeDefenseVsPlayer_research"
+        }
+      ]
+    },
+    {
+      "id": "8aa0091f0efeb24",
+      "name": "dragonresearch_dragoncare_dragon_attack_3",
+      "stats": [
+        {
+          "name": "property_DragonAttack_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_attack_3_property_DragonAttack_research"
+        }
+      ]
+    },
+    {
+      "id": "309d37e855166e27",
+      "name": "dragonresearch_dragoncare_dragon_health_3",
+      "stats": [
+        {
+          "name": "property_DragonHealth_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_health_3_property_DragonHealth_research"
+        }
+      ]
+    },
+    {
+      "id": "67f48f144e0cd67c",
+      "name": "dragonresearch_dragoncare_dragon_healing_3",
+      "stats": [
+        {
+          "name": "property_DragonHealthRegenRate_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_healing_3_property_DragonHealthRegenRate_research"
+        }
+      ]
+    },
+    {
+      "id": "458ad7e458f4db6c",
+      "name": "dragonresearch_dragoncare_dragon_marcherrangeddefensevsplayersop_1",
+      "stats": [
+        {
+          "name": "property_DragonMarcherRangedDefenseVsPlayerSeatOfPower_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_marcherrangeddefensevsplayerSOP_1_property_DragonMarcherRangedDefenseVsPlayerSeatOfPower_research"
+        }
+      ]
+    },
+    {
+      "id": "ba293ff53c7e2150",
+      "name": "dragonresearch_dragoncare_dragon_cavalryhealthvsplayersop_1",
+      "stats": [
+        {
+          "name": "property_DragonCavalryHealthVsPlayerSeatOfPower_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_cavalryhealthvsplayerSOP_1_property_DragonCavalryHealthVsPlayerSeatOfPower_research"
+        }
+      ]
+    },
+    {
+      "id": "a14bf8bb296c9165",
+      "name": "dragonresearch_dragoncare_dragon_marcherinfantryhealthvsplayersop_1",
+      "stats": [
+        {
+          "name": "property_DragonMarcherInfantryHealthVsPlayerSeatOfPower_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_marcherinfantryhealthvsplayerSOP_1_property_DragonMarcherInfantryHealthVsPlayerSeatOfPower_research"
+        }
+      ]
+    },
+    {
+      "id": "d4bf26885245e8d0",
+      "name": "dragonresearch_dragoncare_dragon_infantryhealthvsplayersop_1",
+      "stats": [
+        {
+          "name": "property_DragonInfantryHealthVsPlayerSeatOfPower_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_infantryhealthvsplayerSOP_1_property_DragonInfantryHealthVsPlayerSeatOfPower_research"
+        }
+      ]
+    },
+    {
+      "id": "d0b3ac5cc1827099",
+      "name": "dragonresearch_dragoncare_dragon_marcherrangedhealthvsplayersop_1",
+      "stats": [
+        {
+          "name": "property_DragonMarcherRangedHealthVsPlayerSeatOfPower_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_marcherrangedhealthvsplayerSOP_1_property_DragonMarcherRangedHealthVsPlayerSeatOfPower_research"
+        }
+      ]
+    },
+    {
+      "id": "6300ca99eca716c7",
+      "name": "dragonresearch_dragoncare_dragon_rangedhealthvsplayersop_1",
+      "stats": [
+        {
+          "name": "property_DragonRangedHealthVsPlayerSeatOfPower_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_rangedhealthvsplayerSOP_1_property_DragonRangedHealthVsPlayerSeatOfPower_research"
+        }
+      ]
+    },
+    {
+      "id": "d20aae4e57f3feba",
+      "name": "dragonresearch_dragoncare_dragon_maxmarchsizevssop_1",
+      "stats": [
+        {
+          "name": "property_DragonMarchSizeVsPlayer_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_MaxMarchSizevsSOP_1_property_DragonMarchSizeVsPlayer_research"
+        }
+      ]
+    },
+    {
+      "id": "5cabe757e0f59a53",
+      "name": "dragonresearch_dragoncare_dragon_marchercavalryhealthvsplayersop_1",
+      "stats": [
+        {
+          "name": "property_DragonMarcherCavalryHealthVsPlayerSeatOfPower_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_marchercavalryhealthvsplayerSOP_1_property_DragonMarcherCavalryHealthVsPlayerSeatOfPower_research"
+        }
+      ]
+    },
+    {
+      "id": "aad00bea33423233",
+      "name": "dragonresearch_dragoncare_dragon_marcherinfantrydefensevsplayersop_1",
+      "stats": [
+        {
+          "name": "property_DragonMarcherInfantryDefenseVsPlayerSeatOfPower_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_marcherinfantrydefensevsplayerSOP_1_property_DragonMarcherInfantryDefenseVsPlayerSeatOfPower_research"
+        }
+      ]
+    },
+    {
+      "id": "997fd73f9c2d1c43",
+      "name": "dragonresearch_dragoncare_dragon_marchercavalrydefensevsplayersop_1",
+      "stats": [
+        {
+          "name": "property_DragonMarcherCavalryDefenseVsPlayerSeatOfPower_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_marchercavalrydefensevsplayerSOP_1_property_DragonMarcherCavalryDefenseVsPlayerSeatOfPower_research"
+        }
+      ]
+    },
+    {
+      "id": "a3080f46847f606f",
+      "name": "dragonresearch_dragoncare_dragon_rangeddefensevsplayersop_1",
+      "stats": [
+        {
+          "name": "property_DragonRangedDefenseVsPlayerSeatOfPower_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_rangeddefensevsplayerSOP_1_property_DragonRangedDefenseVsPlayerSeatOfPower_research"
+        }
+      ]
+    },
+    {
+      "id": "2db8be2f3ebdf9aa",
+      "name": "dragonresearch_dragoncare_dragon_infantrydefensevsplayersop_1",
+      "stats": [
+        {
+          "name": "property_DragonInfantryDefenseVsPlayerSeatOfPower_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_infantrydefensevsplayerSOP_1_property_DragonInfantryDefenseVsPlayerSeatOfPower_research"
+        }
+      ]
+    },
+    {
+      "id": "ec8b090ce70465f6",
+      "name": "dragonresearch_dragoncare_dragon_cavalrydefensevsplayersop_1",
+      "stats": [
+        {
+          "name": "property_DragonCavalryDefenseVsPlayerSeatOfPower_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_cavalrydefensevsplayerSOP_1_property_DragonCavalryDefenseVsPlayerSeatOfPower_research"
+        }
+      ]
+    },
+    {
+      "id": "792906905570fb9f",
+      "name": "dragonresearch_dragoncare_dragongearpreset_2",
+      "stats": [
+        {
+          "name": "property_DragonAttack_research",
+          "progression": "prog_dragonresearch_dragoncare_dragongearpreset_2_property_DragonAttack_research"
+        }
+      ]
+    },
+    {
+      "id": "439da3a622fbb5da",
+      "name": "dragonresearch_dragoncare_dragongeartrinket_1",
+      "stats": [
+        {
+          "name": "property_DragonAttack_research",
+          "progression": "prog_dragonresearch_dragoncare_dragongeartrinket_1_property_DragonAttack_research"
+        }
+      ]
+    },
+    {
+      "id": "67a57a456f8f7361",
+      "name": "dragonresearch_dragoncare_dragon_marcherrangedattackvsplayersop_1",
+      "stats": [
+        {
+          "name": "property_DragonMarcherRangedAttackVsPlayerSeatOfPower_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_marcherrangedattackvsplayerSOP_1_property_DragonMarcherRangedAttackVsPlayerSeatOfPower_research"
+        }
+      ]
+    },
+    {
+      "id": "165d2ea28761929d",
+      "name": "dragonresearch_dragoncare_dragon_marcherinfantryattackvsplayersop_1",
+      "stats": [
+        {
+          "name": "property_DragonMarcherInfantryAttackVsPlayerSeatOfPower_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_marcherinfantryattackvsplayerSOP_1_property_DragonMarcherInfantryAttackVsPlayerSeatOfPower_research"
+        }
+      ]
+    },
+    {
+      "id": "ebbd314e4ef899ab",
+      "name": "dragonresearch_dragoncare_dragon_marchercavalryattackvsplayersop_1",
+      "stats": [
+        {
+          "name": "property_DragonMarcherCavalryAttackVsPlayerSeatOfPower_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_marchercavalryattackvsplayerSOP_1_property_DragonMarcherCavalryAttackVsPlayerSeatOfPower_research"
+        }
+      ]
+    },
+    {
+      "id": "d4161c8042aa153f",
+      "name": "dragonresearch_dragoncare_dragon_rangedattackvsplayersop_1",
+      "stats": [
+        {
+          "name": "property_DragonRangedAttackVsPlayerSeatOfPower_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_rangedattackvsplayerSOP_1_property_DragonRangedAttackVsPlayerSeatOfPower_research"
+        }
+      ]
+    },
+    {
+      "id": "63a9f091fc48eb28",
+      "name": "dragonresearch_dragoncare_dragon_infantryattackvsplayersop_1",
+      "stats": [
+        {
+          "name": "property_DragonInfantryAttackVsPlayerSeatOfPower_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_infantryattackvsplayerSOP_1_property_DragonInfantryAttackVsPlayerSeatOfPower_research"
+        }
+      ]
+    },
+    {
+      "id": "d3fe9ec927322a8",
+      "name": "dragonresearch_dragoncare_dragon_cavalryattackvsplayersop_1",
+      "stats": [
+        {
+          "name": "property_DragonCavalryAttackVsPlayerSeatOfPower_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_cavalryattackvsplayerSOP_1_property_DragonCavalryAttackVsPlayerSeatOfPower_research"
+        }
+      ]
+    },
+    {
+      "id": "fa4ae52db073d058",
+      "name": "dragonresearch_dragoncare_dragon_siegeattackvsplayersop_1",
+      "stats": [
+        {
+          "name": "property_DragonSiegeAttackVsPlayer_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_siegeattackvsplayerSOP_1_property_DragonSiegeAttackVsPlayer_research"
+        }
+      ]
+    },
+    {
+      "id": "4d5c33341e7ed3a0",
+      "name": "dragonresearch_dragoncare_dragon_siegehealthvsplayersop_1",
+      "stats": [
+        {
+          "name": "property_DragonSiegeHealthVsPlayer_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_siegehealthvsplayerSOP_1_property_DragonSiegeHealthVsPlayer_research"
+        }
+      ]
+    },
+    {
+      "id": "55a469808400e5a9",
+      "name": "dragonresearch_dragoncare_dragon_siegedefensevsplayersop_1",
+      "stats": [
+        {
+          "name": "property_DragonSiegeDefenseVsPlayer_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_siegedefensevsplayerSOP_1_property_DragonSiegeDefenseVsPlayer_research"
+        }
+      ]
+    },
+    {
+      "id": "e32a7ac085672fb6",
+      "name": "dragonresearch_dragoncare_dragon_troopattackvsplayersop_1",
+      "stats": [
+        {
+          "name": "property_DragonTroopAttackVsPlayerSeatOfPower_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_troopattackvsplayerSOP_1_property_DragonTroopAttackVsPlayerSeatOfPower_research"
+        }
+      ]
+    },
+    {
+      "id": "aba7c6fc24099bc1",
+      "name": "dragonresearch_dragoncare_dragon_troopdefensevsplayersop_1",
+      "stats": [
+        {
+          "name": "property_DragonTroopDefenseVsPlayerSeatOfPower_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_troopdefensevsplayerSOP_1_property_DragonTroopDefenseVsPlayerSeatOfPower_research"
+        }
+      ]
+    },
+    {
+      "id": "543cacd92b6a2c4e",
+      "name": "dragonresearch_dragoncare_dragon_troophealthvsplayersop_1",
+      "stats": [
+        {
+          "name": "property_DragonTroopHealthVsPlayerSeatOfPower_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_troophealthvsplayerSOP_1_property_DragonTroopHealthVsPlayerSeatOfPower_research"
+        }
+      ]
+    },
+    {
+      "id": "97622530ed4699b2",
+      "name": "dragonresearch_dragoncare_dragon_marchertroopattackvsplayersop_1",
+      "stats": [
+        {
+          "name": "property_DragonMarcherTroopAttackVsPlayerSeatOfPower_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_marchertroopattackvsplayerSOP_1_property_DragonMarcherTroopAttackVsPlayerSeatOfPower_research"
+        }
+      ]
+    },
+    {
+      "id": "2074f329434b9a4a",
+      "name": "dragonresearch_dragoncare_dragon_marchertroophealthvsplayersop_1",
+      "stats": [
+        {
+          "name": "property_DragonMarcherTroopHealthVsPlayerSeatOfPower_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_marchertroophealthvsplayerSOP_1_property_DragonMarcherTroopHealthVsPlayerSeatOfPower_research"
+        }
+      ]
+    },
+    {
+      "id": "1814a039092cfd9f",
+      "name": "dragonresearch_dragoncare_dragon_marchertroopdefensevsplayersop_1",
+      "stats": [
+        {
+          "name": "property_DragonMarcherTroopDefenseVsPlayerSeatOfPower_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_marchertroopdefensevsplayerSOP_1_property_DragonMarcherTroopDefenseVsPlayerSeatOfPower_research"
+        }
+      ]
+    },
+    {
+      "id": "493525f82f4f804f",
+      "name": "dragonresearch_dragoncare_dragon_dragonattackvsdragon_1",
+      "stats": [
+        {
+          "name": "property_DragonAttackVsDragon_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_dragonattackvsdragon_1_property_DragonAttackVsDragon_research"
+        }
+      ]
+    },
+    {
+      "id": "55d8cd36e223aa65",
+      "name": "dragonresearch_dragoncare_dragongearpreset_3",
+      "stats": [
+        {
+          "name": "property_DragonAttack_research",
+          "progression": "prog_dragonresearch_dragoncare_dragongearpreset_3_property_DragonAttack_research"
+        }
+      ]
+    },
+    {
+      "id": "2b875a38fcc28b48",
+      "name": "dragonresearch_dragoncare_dragon_siegeattackvsplayer_2",
+      "stats": [
+        {
+          "name": "property_DragonSiegeAttackVsPlayer_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_siegeattackvsplayer_2_property_DragonSiegeAttackVsPlayer_research"
+        }
+      ]
+    },
+    {
+      "id": "3f427d60e7f6087e",
+      "name": "dragonresearch_dragoncare_dragon_siegehealthvsplayer_2",
+      "stats": [
+        {
+          "name": "property_DragonSiegeHealthVsPlayer_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_siegehealthvsplayer_2_property_DragonSiegeHealthVsPlayer_research"
+        }
+      ]
+    },
+    {
+      "id": "1fd374f0dd2bd37f",
+      "name": "dragonresearch_dragoncare_dragon_rangedattackvsstrategicterrain_1",
+      "stats": [
+        {
+          "name": "property_DragonRangedAttackVsPlayer_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_rangedattackvsstrategicterrain_1_property_DragonRangedAttackVsPlayer_research"
+        }
+      ]
+    },
+    {
+      "id": "1c7209d6c4783139",
+      "name": "dragonresearch_dragoncare_dragon_infantryattackvsstrategicterrain_1",
+      "stats": [
+        {
+          "name": "property_DragonInfantryAttackVsPlayer_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_infantryattackvsstrategicterrain_1_property_DragonInfantryAttackVsPlayer_research"
+        }
+      ]
+    },
+    {
+      "id": "d016d6f2fcf923bc",
+      "name": "dragonresearch_dragoncare_dragon_cavalryattackvsstrategicterrain_1",
+      "stats": [
+        {
+          "name": "property_DragonCavalryAttackVsPlayer_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_cavalryattackvsstrategicterrain_1_property_DragonCavalryAttackVsPlayer_research"
+        }
+      ]
+    },
+    {
+      "id": "4a2f0a2e84c92e4b",
+      "name": "dragonresearch_dragoncare_dragon_rangedhealthvsstrategicterrain_1",
+      "stats": [
+        {
+          "name": "property_DragonRangedHealthVsPlayer_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_rangedhealthvsstrategicterrain_1_property_DragonRangedHealthVsPlayer_research"
+        }
+      ]
+    },
+    {
+      "id": "498e77089d9acc0d",
+      "name": "dragonresearch_dragoncare_dragon_infantryhealthvsstrategicterrain_1",
+      "stats": [
+        {
+          "name": "property_DragonInfantryHealthVsPlayer_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_infantryhealthvsstrategicterrain_1_property_DragonInfantryHealthVsPlayer_research"
+        }
+      ]
+    },
+    {
+      "id": "85eaa82ca51bde88",
+      "name": "dragonresearch_dragoncare_dragon_cavalryhealthvsstrategicterrain_1",
+      "stats": [
+        {
+          "name": "property_DragonCavalryHealthVsPlayer_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_cavalryhealthvsstrategicterrain_1_property_DragonCavalryHealthVsPlayer_research"
+        }
+      ]
+    },
+    {
+      "id": "bc9bf60e27444af2",
+      "name": "dragonresearch_dragoncare_dragon_siegedefensevsplayer_2",
+      "stats": [
+        {
+          "name": "property_DragonSiegeDefenseVsPlayer_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_siegedefensevsplayer_2_property_DragonSiegeDefenseVsPlayer_research"
+        }
+      ]
+    },
+    {
+      "id": "61f3445f996768a5",
+      "name": "dragonresearch_dragoncare_dragon_maxmarchsize_2",
+      "stats": [
+        {
+          "name": "property_DragonMarchSizeVsPlayer_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_MaxMarchSize_2_property_DragonMarchSizeVsPlayer_research"
+        }
+      ]
+    },
+    {
+      "id": "57ba4d92c5179668",
+      "name": "dragonresearch_dragoncare_dragon_rangeddefensevsstrategicterrain_1",
+      "stats": [
+        {
+          "name": "property_DragonRangedDefenseVsPlayer_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_rangeddefensevsstrategicterrain_1_property_DragonRangedDefenseVsPlayer_research"
+        }
+      ]
+    },
+    {
+      "id": "1c6ee49fa65955c9",
+      "name": "dragonresearch_dragoncare_dragon_infantrydefensevsstrategicterrain_1",
+      "stats": [
+        {
+          "name": "property_DragonInfantryDefenseVsPlayer_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_infantrydefensevsstrategicterrain_1_property_DragonInfantryDefenseVsPlayer_research"
+        }
+      ]
+    },
+    {
+      "id": "42c944464ca8655c",
+      "name": "dragonresearch_dragoncare_dragon_cavalrydefensevsstrategicterrain_1",
+      "stats": [
+        {
+          "name": "property_DragonCavalryDefenseVsPlayer_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_cavalrydefensevsstrategicterrain_1_property_DragonCavalryDefenseVsPlayer_research"
+        }
+      ]
+    },
+    {
+      "id": "93f5db6667e1296d",
+      "name": "dragonresearch_dragoncare_dragon_troopdefensevsstrategicterrain_1",
+      "stats": [
+        {
+          "name": "property_DragonTroopDefenseVsPlayer_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_troopdefensevsstrategicterrain_1_property_DragonTroopDefenseVsPlayer_research"
+        }
+      ]
+    },
+    {
+      "id": "2f937c949d0e105",
+      "name": "dragonresearch_dragoncare_dragon_troopattackvsstrategicterrain_1",
+      "stats": [
+        {
+          "name": "property_DragonTroopAttackVsPlayer_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_troopattackvsstrategicterrain_1_property_DragonTroopAttackVsPlayer_research"
+        }
+      ]
+    },
+    {
+      "id": "5705491710321c31",
+      "name": "dragonresearch_dragoncare_dragon_troophealthvsstrategicterrain_1",
+      "stats": [
+        {
+          "name": "property_DragonTroopHealthVsPlayer_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_troophealthvsstrategicterrain_1_property_DragonTroopHealthVsPlayer_research"
+        }
+      ]
+    },
+    {
+      "id": "3c277913f6ba7241",
+      "name": "dragonresearch_dragoncare_dragon_dragonattackvsdragon_2",
+      "stats": [
+        {
+          "name": "property_DragonAttackVsDragon_research",
+          "progression": "prog_dragonresearch_dragoncare_dragon_dragonattackvsdragon_2_property_DragonAttackVsDragon_research"
+        }
+      ]
+    }
+  ]
+}

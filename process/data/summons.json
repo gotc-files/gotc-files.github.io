@@ -2392,6 +2392,84 @@
         "summon_purchase_royal_JaimeMissandeiSEP22VARIANT_Gold_1x_top",
         "summon_purchase_royal_JaimeMissandeiSEP22VARIANT_Gold_10x_top"
       ]
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "SyrioEllaria",
+      "id": "998017d51b9ff48b",
+      "name": "summon_noble_SyrioEllariaNOV22_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_SyrioEllariaNOV22_Hero_1x_top",
+        "summon_purchase_noble_SyrioEllariaNOV22_Hero_10x_top"
+      ],
+      "time_str": "NOV22"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "TheonEddard",
+      "id": "582f9a07eefd6d9b",
+      "name": "summon_noble_TheonEddardNOV22_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_TheonEddardNOV22_Hero_1x_top",
+        "summon_purchase_noble_TheonEddardNOV22_Hero_10x_top"
+      ],
+      "time_str": "NOV22"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "RenlyTycho",
+      "id": "be4d975dedf876d5",
+      "name": "summon_noble_RenlyTychoNOV22_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_RenlyTychoNOV22_Hero_1x_top",
+        "summon_purchase_noble_RenlyTychoNOV22_Hero_10x_top"
+      ],
+      "time_str": "NOV22"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "SyrioEllaria",
+      "id": "8524e6423330fdb7",
+      "name": "summon_royal_SyrioEllariaNOV22_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_SyrioEllariaNOV22_Gold_1x_top",
+        "summon_purchase_royal_SyrioEllariaNOV22_Gold_10x_top"
+      ],
+      "time_str": "NOV22"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "TheonEddard",
+      "id": "e87ffaefdb63cf91",
+      "name": "summon_royal_TheonEddardNOV22_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_TheonEddardNOV22_Gold_1x_top",
+        "summon_purchase_royal_TheonEddardNOV22_Gold_10x_top"
+      ],
+      "time_str": "NOV22"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "RenlyTycho",
+      "id": "9e557e81516c8bec",
+      "name": "summon_royal_RenlyTychoNOV22_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_RenlyTychoNOV22_Gold_1x_top",
+        "summon_purchase_royal_RenlyTychoNOV22_Gold_10x_top"
+      ],
+      "time_str": "NOV22"
     }
   ]
 }

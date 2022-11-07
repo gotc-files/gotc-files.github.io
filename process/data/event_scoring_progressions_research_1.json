@@ -1,0 +1,846 @@
+{
+  "description": "Progressions as a list of numeric values for each level",
+  "values": [
+    {
+      "id": "c4beefbc891801e0",
+      "name": "prog_research_troop_attack_1_Eventscore",
+      "values": [
+        6453,
+        6582,
+        6710,
+        6839,
+        6968
+      ]
+    },
+    {
+      "id": "1081a4ea603bf1c9",
+      "name": "prog_research_military2_troop_attack_1_Eventscore",
+      "values": [
+        4540000,
+        7540000,
+        12000000,
+        19600000,
+        24100000
+      ]
+    },
+    {
+      "id": "a79772f3ce36f231",
+      "name": "prog_research_military2_troop_health_1_Eventscore",
+      "values": [
+        10100000,
+        12400000,
+        15100000,
+        18400000,
+        22400000
+      ]
+    },
+    {
+      "id": "8e2c52416adc6b24",
+      "name": "prog_research_military2_troop_defense_1_Eventscore",
+      "values": [
+        10100000,
+        12400000,
+        15100000,
+        18400000,
+        22400000
+      ]
+    },
+    {
+      "id": "2c268c9bb9abb045",
+      "name": "prog_research_military2_infantry_attack_1_Eventscore",
+      "values": [
+        5070000,
+        6180000,
+        7550000,
+        9210000,
+        11200000
+      ]
+    },
+    {
+      "id": "19bee58991aadbe3",
+      "name": "prog_research_military2_infantry_defense_1_Eventscore",
+      "values": [
+        5070000,
+        6180000,
+        7550000,
+        9210000,
+        11200000
+      ]
+    },
+    {
+      "id": "9b305a8217a6b3bd",
+      "name": "prog_research_military2_infantry_health_1_Eventscore",
+      "values": [
+        5070000,
+        6180000,
+        7550000,
+        9210000,
+        11200000
+      ]
+    },
+    {
+      "id": "6229dbba4bd0c132",
+      "name": "prog_research_military2_cavalry_attack_1_Eventscore",
+      "values": [
+        5070000,
+        6180000,
+        7550000,
+        9210000,
+        11200000
+      ]
+    },
+    {
+      "id": "a7a0ac15b211324c",
+      "name": "prog_research_military2_cavalry_defense_1_Eventscore",
+      "values": [
+        5070000,
+        6180000,
+        7550000,
+        9210000,
+        11200000
+      ]
+    },
+    {
+      "id": "3e7519c9718abcc8",
+      "name": "prog_research_military2_training_speed_1_Eventscore",
+      "values": [
+        12700000,
+        15500000,
+        18800000
+      ]
+    },
+    {
+      "id": "d53f0da3e5ddc2ca",
+      "name": "prog_research_military2_cavalry_health_1_Eventscore",
+      "values": [
+        5070000,
+        6180000,
+        7550000,
+        9210000,
+        11200000
+      ]
+    },
+    {
+      "id": "6b8c09df20285ed8",
+      "name": "prog_research_military2_range_attack_1_Eventscore",
+      "values": [
+        5070000,
+        6180000,
+        7550000,
+        9210000,
+        11200000
+      ]
+    },
+    {
+      "id": "ea74e8be470be7ac",
+      "name": "prog_research_military2_range_defense_1_Eventscore",
+      "values": [
+        5070000,
+        6180000,
+        7550000,
+        9210000,
+        11200000
+      ]
+    },
+    {
+      "id": "dc9adfc68e255d20",
+      "name": "prog_research_military2_range_health_1_Eventscore",
+      "values": [
+        5070000,
+        6180000,
+        7550000,
+        9210000,
+        11200000
+      ]
+    },
+    {
+      "id": "ee820b96c0328fa1",
+      "name": "prog_research_military2_siege_attack_1_Eventscore",
+      "values": [
+        3380000,
+        4120000,
+        5030000,
+        6140000,
+        7480000
+      ]
+    },
+    {
+      "id": "5bb106e04c7c4b44",
+      "name": "prog_research_military2_siege_defense_1_Eventscore",
+      "values": [
+        3380000,
+        4120000,
+        5030000,
+        6140000,
+        7480000
+      ]
+    },
+    {
+      "id": "5994dd8f6e3f8c59",
+      "name": "prog_research_military2_siege_health_1_Eventscore",
+      "values": [
+        3380000,
+        4120000,
+        5030000,
+        6140000,
+        7480000
+      ]
+    },
+    {
+      "id": "1541148cba55450",
+      "name": "prog_research_military2_march_size_1_Eventscore",
+      "values": [
+        10500000,
+        26300000,
+        65700000,
+        164000000
+      ]
+    },
+    {
+      "id": "431dbe6fb42d7ee0",
+      "name": "prog_research_military2_infantry_attack_vs_sop_1_Eventscore",
+      "values": [
+        4050000,
+        4940000,
+        6040000,
+        7370000,
+        8980000
+      ]
+    },
+    {
+      "id": "fe762fe1b4d71b37",
+      "name": "prog_research_military2_troop_attack_vs_sop_1_Eventscore",
+      "values": [
+        8110000,
+        9880000,
+        12100000,
+        14700000,
+        18000000
+      ]
+    },
+    {
+      "id": "ab8a513fed35e603",
+      "name": "prog_research_military2_troop_health_vs_sop_1_Eventscore",
+      "values": [
+        8110000,
+        9880000,
+        12100000,
+        14700000,
+        18000000
+      ]
+    },
+    {
+      "id": "45363caf6a52ca49",
+      "name": "prog_research_military2_troop_defense_vs_sop_1_Eventscore",
+      "values": [
+        8110000,
+        9880000,
+        12100000,
+        14700000,
+        18000000
+      ]
+    },
+    {
+      "id": "16e1c0b1edcf83d4",
+      "name": "prog_research_military2_infantry_health_vs_sop_1_Eventscore",
+      "values": [
+        4050000,
+        4940000,
+        6040000,
+        7370000,
+        8980000
+      ]
+    },
+    {
+      "id": "ab22c9261d4598dd",
+      "name": "prog_research_military2_infantry_defense_vs_sop_1_Eventscore",
+      "values": [
+        4050000,
+        4940000,
+        6040000,
+        7370000,
+        8980000
+      ]
+    },
+    {
+      "id": "d874d0f845ba8e4b",
+      "name": "prog_research_military2_cavalry_attack_vs_sop_1_Eventscore",
+      "values": [
+        4050000,
+        4940000,
+        6040000,
+        7370000,
+        8980000
+      ]
+    },
+    {
+      "id": "8d88ae261c58737f",
+      "name": "prog_research_military2_cavalry_health_vs_sop_1_Eventscore",
+      "values": [
+        4050000,
+        4940000,
+        6040000,
+        7370000,
+        8980000
+      ]
+    },
+    {
+      "id": "6b663b305b2a07f7",
+      "name": "prog_research_military2_cavalry_defense_vs_sop_1_Eventscore",
+      "values": [
+        4050000,
+        4940000,
+        6040000,
+        7370000,
+        8980000
+      ]
+    },
+    {
+      "id": "a85b17c404655f40",
+      "name": "prog_research_military2_marchsize_vs_sop_1_Eventscore",
+      "values": [
+        6760000,
+        8250000,
+        10100000,
+        12300000,
+        15000000
+      ]
+    },
+    {
+      "id": "e2892f5930b23f43",
+      "name": "prog_research_military2_marchspeed_vs_sop_1_Eventscore",
+      "values": [
+        5380000,
+        6580000,
+        8030000,
+        9780000,
+        11900000
+      ]
+    },
+    {
+      "id": "c55b41dcf3c1bc5e",
+      "name": "prog_research_military2_defender_attack_1_Eventscore",
+      "values": [
+        7510000,
+        9170000,
+        11200000,
+        13600000,
+        16600000
+      ]
+    },
+    {
+      "id": "724d97c55dccbfa6",
+      "name": "prog_research_military2_defender_health_1_Eventscore",
+      "values": [
+        7510000,
+        9170000,
+        11200000,
+        13600000,
+        16600000
+      ]
+    },
+    {
+      "id": "c1a3a71b53e44dc7",
+      "name": "prog_research_military2_defender_defense_1_Eventscore",
+      "values": [
+        7510000,
+        9170000,
+        11200000,
+        13600000,
+        16600000
+      ]
+    },
+    {
+      "id": "32ed66c80c8080bf",
+      "name": "prog_research_military2_marchspeed_vs_joinrally_1_Eventscore",
+      "values": [
+        4340000,
+        5290000,
+        6470000,
+        7890000,
+        9610000
+      ]
+    },
+    {
+      "id": "3dda4a7d224f1e45",
+      "name": "prog_research_military2_marcher_troop_attack_vs_player_1_Eventscore",
+      "values": [
+        4410000,
+        5370000,
+        6550000,
+        8000000,
+        9760000
+      ]
+    },
+    {
+      "id": "585a4b2aef008af0",
+      "name": "prog_research_military2_marcher_troop_health_vs_player_1_Eventscore",
+      "values": [
+        4410000,
+        5370000,
+        6550000,
+        8000000,
+        9760000
+      ]
+    },
+    {
+      "id": "691afe7e9c1ee6c6",
+      "name": "prog_research_military2_marcher_troop_defense_vs_player_1_Eventscore",
+      "values": [
+        4410000,
+        5370000,
+        6550000,
+        8000000,
+        9760000
+      ]
+    },
+    {
+      "id": "29b3d96763ba2793",
+      "name": "prog_research_military2_troop_defense_2_Eventscore",
+      "values": [
+        24900000,
+        30400000,
+        37100000,
+        45300000,
+        55200000
+      ]
+    },
+    {
+      "id": "b71e2fcc695dbd7e",
+      "name": "prog_research_military2_troop_attack_2_Eventscore",
+      "values": [
+        24900000,
+        30400000,
+        37100000,
+        45300000,
+        55200000
+      ]
+    },
+    {
+      "id": "8f9d5c750be86",
+      "name": "prog_research_military2_troop_health_2_Eventscore",
+      "values": [
+        24900000,
+        30400000,
+        37100000,
+        45300000,
+        55200000
+      ]
+    },
+    {
+      "id": "62c4cafafaa7f0e9",
+      "name": "prog_research_military2_defender_attack_2_Eventscore",
+      "values": [
+        18400000,
+        22500000,
+        27500000,
+        33500000,
+        40900000
+      ]
+    },
+    {
+      "id": "663c2c3d5a820170",
+      "name": "prog_research_military2_defender_defense_2_Eventscore",
+      "values": [
+        18400000,
+        22500000,
+        27500000,
+        33500000,
+        40900000
+      ]
+    },
+    {
+      "id": "8bb907bdb0cdfcf2",
+      "name": "prog_research_military2_infantry_attack_2_Eventscore",
+      "values": [
+        12400000,
+        15200000,
+        18500000,
+        22600000,
+        27600000
+      ]
+    },
+    {
+      "id": "d5d21ce354aaf311",
+      "name": "prog_research_military2_defender_health_2_Eventscore",
+      "values": [
+        18400000,
+        22500000,
+        27500000,
+        33500000,
+        40900000
+      ]
+    },
+    {
+      "id": "be216eaf98cc9754",
+      "name": "prog_research_military2_infantry_defense_2_Eventscore",
+      "values": [
+        12400000,
+        15200000,
+        18500000,
+        22600000,
+        27600000
+      ]
+    },
+    {
+      "id": "3cafd1a41ec0ff0a",
+      "name": "prog_research_military2_infantry_health_2_Eventscore",
+      "values": [
+        12400000,
+        15200000,
+        18500000,
+        22600000,
+        27600000
+      ]
+    },
+    {
+      "id": "c5b6509c42b68d85",
+      "name": "prog_research_military2_cavalry_attack_2_Eventscore",
+      "values": [
+        12400000,
+        15200000,
+        18500000,
+        22600000,
+        27600000
+      ]
+    },
+    {
+      "id": "3f2733bb777efb",
+      "name": "prog_research_military2_cavalry_defense_2_Eventscore",
+      "values": [
+        12400000,
+        15200000,
+        18500000,
+        22600000,
+        27600000
+      ]
+    },
+    {
+      "id": "72a08685ecbb8e7d",
+      "name": "prog_research_military2_cavalry_health_2_Eventscore",
+      "values": [
+        12400000,
+        15200000,
+        18500000,
+        22600000,
+        27600000
+      ]
+    },
+    {
+      "id": "cc1382f9294e126f",
+      "name": "prog_research_military2_range_attack_2_Eventscore",
+      "values": [
+        12400000,
+        15200000,
+        18500000,
+        22600000,
+        27600000
+      ]
+    },
+    {
+      "id": "4deb63984e6dab1b",
+      "name": "prog_research_military2_range_defense_2_Eventscore",
+      "values": [
+        12400000,
+        15200000,
+        18500000,
+        22600000,
+        27600000
+      ]
+    },
+    {
+      "id": "7b0554e087431197",
+      "name": "prog_research_military2_range_health_2_Eventscore",
+      "values": [
+        12400000,
+        15200000,
+        18500000,
+        22600000,
+        27600000
+      ]
+    },
+    {
+      "id": "491d80b0c954c316",
+      "name": "prog_research_military2_siege_attack_2_Eventscore",
+      "values": [
+        8300000,
+        10100000,
+        12300000,
+        15100000,
+        18400000
+      ]
+    },
+    {
+      "id": "fc2e8dc6451a07f3",
+      "name": "prog_research_military2_siege_defense_2_Eventscore",
+      "values": [
+        8300000,
+        10100000,
+        12300000,
+        15100000,
+        18400000
+      ]
+    },
+    {
+      "id": "fe0b56a96759c0ee",
+      "name": "prog_research_military2_siege_health_2_Eventscore",
+      "values": [
+        8300000,
+        10100000,
+        12300000,
+        15100000,
+        18400000
+      ]
+    },
+    {
+      "id": "9a45c15b2b2952f2",
+      "name": "prog_research_military2_marcher_troop_attack_vs_player_2_Eventscore",
+      "values": [
+        10800000,
+        13200000,
+        16100000,
+        19600000,
+        24000000
+      ]
+    },
+    {
+      "id": "ce8575589578aa71",
+      "name": "prog_research_military2_marcher_troop_defense_vs_player_2_Eventscore",
+      "values": [
+        10800000,
+        13200000,
+        16100000,
+        19600000,
+        24000000
+      ]
+    },
+    {
+      "id": "ffc5c00ce666c647",
+      "name": "prog_research_military2_marcher_troop_health_vs_player_2_Eventscore",
+      "values": [
+        10800000,
+        13200000,
+        16100000,
+        19600000,
+        24000000
+      ]
+    },
+    {
+      "id": "99ea92ef78ecf07f",
+      "name": "prog_research_military2_training_speed_2_Eventscore",
+      "values": [
+        31100000,
+        38000000,
+        46400000
+      ]
+    },
+    {
+      "id": "a6cb9a6ec2c318e7",
+      "name": "prog_research_military2_march_size_2_Eventscore",
+      "values": [
+        207000000,
+        253000000,
+        309000000,
+        377000000
+      ]
+    },
+    {
+      "id": "59e9a4c7bdb15780",
+      "name": "prog_research_military2_troop_attack_vs_sop_2_Eventscore",
+      "values": [
+        19900000,
+        24300000,
+        29700000,
+        36200000,
+        44100000
+      ]
+    },
+    {
+      "id": "e2a9b789633486fe",
+      "name": "prog_research_military2_troop_defense_vs_sop_2_Eventscore",
+      "values": [
+        19900000,
+        24300000,
+        29700000,
+        36200000,
+        44100000
+      ]
+    },
+    {
+      "id": "c15da19e453aab4",
+      "name": "prog_research_military2_troop_health_vs_sop_2_Eventscore",
+      "values": [
+        19900000,
+        24300000,
+        29700000,
+        36200000,
+        44100000
+      ]
+    },
+    {
+      "id": "cbd42001423d46a",
+      "name": "prog_research_military2_infantry_defense_vs_sop_2_Eventscore",
+      "values": [
+        9950000,
+        12200000,
+        14800000,
+        18100000,
+        22000000
+      ]
+    },
+    {
+      "id": "e4823549bd4b3257",
+      "name": "prog_research_military2_infantry_attack_vs_sop_2_Eventscore",
+      "values": [
+        9950000,
+        12200000,
+        14800000,
+        18100000,
+        22000000
+      ]
+    },
+    {
+      "id": "b17e4b97e4a9cf63",
+      "name": "prog_research_military2_infantry_health_vs_sop_2_Eventscore",
+      "values": [
+        9950000,
+        12200000,
+        14800000,
+        18100000,
+        22000000
+      ]
+    },
+    {
+      "id": "ccf9b016524c4b40",
+      "name": "prog_research_military2_cavalry_defense_vs_sop_2_Eventscore",
+      "values": [
+        9950000,
+        12200000,
+        14800000,
+        18100000,
+        22000000
+      ]
+    },
+    {
+      "id": "7feb5bde4cdcc2fc",
+      "name": "prog_research_military2_cavalry_attack_vs_sop_2_Eventscore",
+      "values": [
+        9950000,
+        12200000,
+        14800000,
+        18100000,
+        22000000
+      ]
+    },
+    {
+      "id": "2a172500153e3fc8",
+      "name": "prog_research_military2_cavalry_health_vs_sop_2_Eventscore",
+      "values": [
+        9950000,
+        12200000,
+        14800000,
+        18100000,
+        22000000
+      ]
+    },
+    {
+      "id": "fc49ce20d0313f7",
+      "name": "prog_research_military2_marchsize_vs_sop_2_Eventscore",
+      "values": [
+        16600000,
+        20200000,
+        24700000,
+        30200000,
+        36800000
+      ]
+    },
+    {
+      "id": "4516a47f39d473f4",
+      "name": "prog_research_military2_marchspeed_vs_sop_2_Eventscore",
+      "values": [
+        13200000,
+        16200000,
+        19700000,
+        24100000,
+        29300000
+      ]
+    },
+    {
+      "id": "9572edee05e6cc08",
+      "name": "prog_research_military2_marchspeed_vs_joinrally_2_Eventscore",
+      "values": [
+        10700000,
+        13000000,
+        15900000,
+        19300000,
+        23600000
+      ]
+    },
+    {
+      "id": "c40c2df0b9c56cb5",
+      "name": "prog_research_military2_ranged_defense_vs_sop_1_Eventscore",
+      "values": [
+        4050000,
+        4940000,
+        6040000,
+        7370000,
+        8980000
+      ]
+    },
+    {
+      "id": "d3cf62d9812e3b2e",
+      "name": "prog_research_military2_ranged_attack_vs_sop_1_Eventscore",
+      "values": [
+        4050000,
+        4940000,
+        6040000,
+        7370000,
+        8980000
+      ]
+    },
+    {
+      "id": "86331c07d8ccc61a",
+      "name": "prog_research_military2_ranged_health_vs_sop_1_Eventscore",
+      "values": [
+        4050000,
+        4940000,
+        6040000,
+        7370000,
+        8980000
+      ]
+    },
+    {
+      "id": "6393a6d6b0a32002",
+      "name": "prog_research_military2_ranged_defense_vs_sop_2_Eventscore",
+      "values": [
+        9950000,
+        12200000,
+        14800000,
+        18100000,
+        22000000
+      ]
+    },
+    {
+      "id": "7450e9ff88487799",
+      "name": "prog_research_military2_ranged_attack_vs_sop_2_Eventscore",
+      "values": [
+        9950000,
+        12200000,
+        14800000,
+        18100000,
+        22000000
+      ]
+    },
+    {
+      "id": "21ac9721d1aa8aad",
+      "name": "prog_research_military2_ranged_health_vs_sop_2_Eventscore",
+      "values": [
+        9950000,
+        12200000,
+        14800000,
+        18100000,
+        22000000
+      ]
+    }
+  ]
+}

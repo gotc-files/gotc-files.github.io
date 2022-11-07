@@ -208,7 +208,13 @@ FILE_PROCESSOR_MAPPING_CONFIG = {
     (
         "EventScoreProgressionTable_ResearchGen_military2",
         ("pb", "json"),
-        "event_scoring_progressions_research",
+        "event_scoring_progressions_research_1",
+        ProgressionsProcessor,
+    ),
+    (
+        "EventScoreProgressionTable_ResearchGen_DragonCare",
+        ("pb", "json"),
+        "event_scoring_progressions_research_2",
         ProgressionsProcessor,
     ),
     (
@@ -224,6 +230,12 @@ FILE_PROCESSOR_MAPPING_CONFIG = {
         "researches_2",
         ResearchesProcessor,
     ),
+    (
+        "TechTable_ResearchGen_DragonCare",
+        ("pb", "json"),
+        "researches_3",
+        ResearchesProcessor,
+    ),
     ("TechTable_ExpeditionGen_1", ("pb", "json"), "expeditions", ResearchesProcessor),
     (
         "TechCategoryTable",
@@ -235,6 +247,12 @@ FILE_PROCESSOR_MAPPING_CONFIG = {
         "TechCategoryTable_ResearchGen_military2",
         ("pb", "json"),
         "research_categories_2",
+        ResearchCategoriesProcessor,
+    ),
+    (
+        "TechCategoryTable_ResearchGen_DragonCare",
+        ("pb", "json"),
+        "research_categories_3",
         ResearchCategoriesProcessor,
     ),
     (
@@ -256,6 +274,12 @@ FILE_PROCESSOR_MAPPING_CONFIG = {
         ProgressionsProcessor,
     ),
     (
+        "ProgressionTable_ResearchGen_DragonCare",
+        ("pb", "json"),
+        "research_progressions_3",
+        ProgressionsProcessor,
+    ),
+    (
         "TechTable_PropertyModderTable",
         ("pb", "json"),
         "research_stat_sets_1",
@@ -265,6 +289,12 @@ FILE_PROCESSOR_MAPPING_CONFIG = {
         "TechTable_ResearchGen_military2_PropertyModderTable",
         ("pb", "json"),
         "research_stat_sets_2",
+        StatSetsProcessor,
+    ),
+    (
+        "TechTable_ResearchGen_DragonCare_PropertyModderTable",
+        ("pb", "json"),
+        "research_stat_sets_3",
         StatSetsProcessor,
     ),
     ("AlchemyTable", "pb", "recipes_general", RecipesProcessor),
