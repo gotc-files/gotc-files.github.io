@@ -1053,6 +1053,33 @@
       "ring_name": "prog_gearset_events_harvest2_ring",
       "weapon_id": "4b27d2f5de39ce3f",
       "weapon_name": "prog_gearset_events_harvest2_weapon"
+    },
+    {
+      "boots_id": "15e252fa5ab743b2",
+      "boots_name": "prog_gearset_events_conquest5_boots",
+      "chest_id": "2999ee506e28728a",
+      "chest_name": "prog_gearset_events_conquest5_chest",
+      "color": {
+        "alpha": 255,
+        "blue": 85,
+        "green": 144,
+        "red": 26
+      },
+      "description_placeholder": "EQ_EVENTS_CONQUEST5_SET_DESCRIPTION",
+      "helmet_id": "bc3e1e5e7661ae73",
+      "helmet_name": "prog_gearset_events_conquest5_helmet",
+      "id": "51d9d2cfde673556",
+      "material_id": 6590852451535752217,
+      "material_name": "mat_event_conquest5_1",
+      "name": "gearset_events_conquest5",
+      "name_placeholder": "EQ_EVENTS_CONQUEST5_SET_NAME",
+      "pants_id": "acd1385888f0e2fb",
+      "pants_name": "prog_gearset_events_conquest5_pants",
+      "priority": 23700,
+      "ring_id": "9eaa09b81084ffe1",
+      "ring_name": "prog_gearset_events_conquest5_ring",
+      "weapon_id": "ce6bd8e71fa318a0",
+      "weapon_name": "prog_gearset_events_conquest5_weapon"
     }
   ]
 }

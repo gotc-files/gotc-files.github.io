@@ -1170,6 +1170,36 @@
           "progression": "prog_armory_bouns_MarcherTroop_1"
         }
       ]
+    },
+    {
+      "id": "a5544f5830351316",
+      "name": "armcol_events_conquest5_1",
+      "stats": [
+        {
+          "name": "property_RangedDefenseVsPlayersCavalry_armory",
+          "progression": "prog_armory_bonus_SpecificTroop_1"
+        }
+      ]
+    },
+    {
+      "id": "d04613b3e9c0e118",
+      "name": "armcol_events_conquest5_2",
+      "stats": [
+        {
+          "name": "property_MarcherRangedAttackVsPlayer_armory",
+          "progression": "prog_armory_bouns_MarcherTroop_1"
+        }
+      ]
+    },
+    {
+      "id": "fcb7d8155e93b0e2",
+      "name": "armcol_events_conquest5_3",
+      "stats": [
+        {
+          "name": "property_RangedHealthVsPlayer_armory",
+          "progression": "prog_armory_bonus_SpecificTroop_1"
+        }
+      ]
     }
   ]
 }

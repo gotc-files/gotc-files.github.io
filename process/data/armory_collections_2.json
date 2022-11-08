@@ -468,6 +468,18 @@
       "name": "armcol_events_harvest2",
       "name_placeholder": "EQ_EVENTS_HARVEST2_SET_NAME",
       "priority": 23100
+    },
+    {
+      "bonuses": [
+        "armcol_events_conquest5_1",
+        "armcol_events_conquest5_2",
+        "armcol_events_conquest5_3"
+      ],
+      "gear_set_name": "gearset_events_conquest5",
+      "id": "221223175e4866f2",
+      "name": "armcol_events_conquest5",
+      "name_placeholder": "EQ_EVENTS_CONQUEST5_SET_NAME",
+      "priority": 23700
     }
   ]
 }
