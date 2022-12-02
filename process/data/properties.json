@@ -15930,6 +15930,30 @@
       "type": 5
     },
     {
+      "description_placeholder": "PROPERTY_DRAGONMARCHERTROOPATTACKVSPLAYER_DESC",
+      "id": "7c61fbce2e216129",
+      "image": "dragon_research_carnage_army.png",
+      "name": "property_DragonMarcherTroopAttackVsPlayer_research",
+      "name_placeholder": "PROPERTY_DRAGONMARCHERTROOPATTACKVSPLAYER",
+      "type": 5
+    },
+    {
+      "description_placeholder": "PROPERTY_DRAGONMARCHERTROOPDEFENSEVSPLAYER_DESC",
+      "id": "299315d1614318e5",
+      "image": "dragon_research_defense_from_the_air.png",
+      "name": "property_DragonMarcherTroopDefenseVsPlayer_research",
+      "name_placeholder": "PROPERTY_DRAGONMARCHERTROOPDEFENSEVSPLAYER",
+      "type": 5
+    },
+    {
+      "description_placeholder": "PROPERTY_DRAGONMARCHERTROOPHEALTHVSPLAYER_DESC",
+      "id": "aed8f7d6b259fba1",
+      "image": "dragon_talent_adolescent_dragonMod_troop_health.png",
+      "name": "property_DragonMarcherTroopHealthVsPlayer_research",
+      "name_placeholder": "PROPERTY_DRAGONMARCHERTROOPHEALTHVSPLAYER",
+      "type": 5
+    },
+    {
       "description_placeholder": "PROPERTY_DRAGON_TROOPATTACKVSPLAYER_DESC",
       "id": "b5258c834a317f9c",
       "image": "dragon_talent_hatchling_troop_attack.png",

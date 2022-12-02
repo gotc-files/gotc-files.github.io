@@ -1340,6 +1340,46 @@
           "progression": "prog_trinketarmory_bonus_GeneralTroop_1"
         }
       ]
+    },
+    {
+      "id": "a2a2b57b7b59977d",
+      "name": "armcol_trinket_dragonriderartifacts_1_1",
+      "stats": [
+        {
+          "name": "property_InfantryDefenseVsPlayer_armory",
+          "progression": "prog_trinketarmory_bonus_SpecificTroop_1"
+        }
+      ]
+    },
+    {
+      "id": "d7b0e990a2ac6573",
+      "name": "armcol_trinket_dragonriderartifacts_1_2",
+      "stats": [
+        {
+          "name": "property_DragonTroopDefenseVsPlayer_armory",
+          "progression": "prog_trinketarmory_bonus_GeneralTroop_1"
+        }
+      ]
+    },
+    {
+      "id": "fb41223615ff3489",
+      "name": "armcol_trinket_dragonriderartifacts_1_3",
+      "stats": [
+        {
+          "name": "property_CavalryDefenseVsPlayer_armory",
+          "progression": "prog_trinketarmory_bonus_SpecificTroop_1"
+        }
+      ]
+    },
+    {
+      "id": "3d9450471147816f",
+      "name": "armcol_trinket_dragonriderartifacts_1_4",
+      "stats": [
+        {
+          "name": "property_RangedDefenseVsPlayer_armory",
+          "progression": "prog_trinketarmory_bonus_SpecificTroop_1"
+        }
+      ]
     }
   ]
 }

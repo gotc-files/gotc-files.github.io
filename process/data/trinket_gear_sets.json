@@ -360,6 +360,24 @@
         "prog_gearset_trinketarmory_targaryenprinceartifacts_slot2",
         "prog_gearset_trinketarmory_targaryenprinceartifacts_slot3"
       ]
+    },
+    {
+      "color": {
+        "alpha": 255,
+        "blue": 16,
+        "green": 37,
+        "red": 18
+      },
+      "description_placeholder": "EQ_TRINKETARMORY_DRAGONRIDERARTIFACTS_1_SET_DESCRIPTION",
+      "id": "e7831769f4782771",
+      "name": "gearset_trinketarmory_dragonriderartifacts_1",
+      "name_placeholder": "EQ_TRINKETARMORY_DRAGONRIDERARTIFACTS_1_SET_NAME",
+      "priority": 221,
+      "trinket_names": [
+        "prog_gearset_trinketarmory_dragonriderartifacts_slot1",
+        "prog_gearset_trinketarmory_dragonriderartifacts_slot2",
+        "prog_gearset_trinketarmory_dragonriderartifacts_slot3"
+      ]
     }
   ]
 }

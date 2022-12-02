@@ -9789,6 +9789,257 @@
       "steel_cost": 520000000,
       "template_level": 45,
       "upgrade_time_seconds": 345600
+    },
+    {
+      "id": "28a3e06694126fca",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_conquest5_1",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 10
+        }
+      ],
+      "name": "eq_events_trinket_conquest5_1_trinket_lord1",
+      "steel_cost": 500,
+      "template_level": 0,
+      "upgrade_time_seconds": 3600
+    },
+    {
+      "id": "efe5324ec2a8d1a0",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_conquest5_1",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_kingswoodoak",
+          "quantity": 10
+        }
+      ],
+      "name": "eq_events_trinket_conquest5_5_trinket_lord5",
+      "steel_cost": 4000,
+      "template_level": 1,
+      "upgrade_time_seconds": 3600
+    },
+    {
+      "id": "6288ba8e86bb624",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_conquest5_1",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_kingswoodoak",
+          "quantity": 20
+        }
+      ],
+      "name": "eq_events_trinket_conquest5_10_trinket_lord10",
+      "steel_cost": 36500,
+      "template_level": 5,
+      "upgrade_time_seconds": 7200
+    },
+    {
+      "id": "27e6d4fd24b1ef48",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_conquest5_1",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_kingswoodoak",
+          "quantity": 120
+        }
+      ],
+      "name": "eq_events_trinket_conquest5_15_trinket_lord15",
+      "steel_cost": 148000,
+      "template_level": 10,
+      "upgrade_time_seconds": 21600
+    },
+    {
+      "id": "24541911a614da41",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_conquest5_1",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_kingswoodoak",
+          "quantity": 400
+        }
+      ],
+      "name": "eq_events_trinket_conquest5_20_trinket_lord20",
+      "steel_cost": 534000,
+      "template_level": 15,
+      "upgrade_time_seconds": 43200
+    },
+    {
+      "id": "59a46446ace832d",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_conquest5_1",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_kingswoodoak",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 1200
+        }
+      ],
+      "name": "eq_events_trinket_conquest5_25_trinket_lord25",
+      "steel_cost": 1800000,
+      "template_level": 20,
+      "upgrade_time_seconds": 64800
+    },
+    {
+      "id": "3a7f977963c1fe62",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_conquest5_1",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_kingswoodoak",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 3000
+        }
+      ],
+      "name": "eq_events_trinket_conquest5_30_trinket_lord30",
+      "steel_cost": 5850000,
+      "template_level": 25,
+      "upgrade_time_seconds": 86400
+    },
+    {
+      "id": "1bb1c82caf1ba70e",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_conquest5_1",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_kingswoodoak",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 12000
+        }
+      ],
+      "name": "eq_events_trinket_conquest5_35_trinket_lord35",
+      "steel_cost": 18400000,
+      "template_level": 30,
+      "upgrade_time_seconds": 129600
+    },
+    {
+      "id": "60ad3c633aea028b",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_conquest5_1",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_kingswoodoak",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 45000
+        }
+      ],
+      "name": "eq_events_trinket_conquest5_40_trinket_lord40",
+      "steel_cost": 56900000,
+      "template_level": 35,
+      "upgrade_time_seconds": 172800
+    },
+    {
+      "id": "41636336f6305be7",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_conquest5_1",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_kingswoodoak",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 120000
+        }
+      ],
+      "name": "eq_events_trinket_conquest5_45_trinket_lord45",
+      "steel_cost": 173000000,
+      "template_level": 40,
+      "upgrade_time_seconds": 259200
+    },
+    {
+      "id": "7e86b20bff3f26a8",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_conquest5_1",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_kingswoodoak",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 450000
+        }
+      ],
+      "name": "eq_events_trinket_conquest5_50_trinket_lord50",
+      "steel_cost": 520000000,
+      "template_level": 45,
+      "upgrade_time_seconds": 345600
     }
   ]
 }

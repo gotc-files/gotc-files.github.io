@@ -476,6 +476,19 @@
       "name": "armcol_trinket_targaryenprinceartifacts_1",
       "name_placeholder": "EQ_TRINKET_TARGARYENPRINCEARTIFACTS_1_SET_NAME",
       "priority": 20
+    },
+    {
+      "bonuses": [
+        "armcol_trinket_dragonriderartifacts_1_1",
+        "armcol_trinket_dragonriderartifacts_1_2",
+        "armcol_trinket_dragonriderartifacts_1_3",
+        "armcol_trinket_dragonriderartifacts_1_4"
+      ],
+      "gear_set_name": "gearset_trinketarmory_dragonriderartifacts_1",
+      "id": "4a77bc71fcae52e",
+      "name": "armcol_trinket_dragonriderartifacts_1",
+      "name_placeholder": "EQ_TRINKET_DRAGONRIDERARTIFACTS_1_SET_NAME",
+      "priority": 21
     }
   ]
 }
