@@ -185,7 +185,8 @@
     ],
     "traits": [
       "Lord Commander",
-      "Lannister"
+      "Lannister",
+      "Baratheon"
     ]
   },
   {
@@ -11236,7 +11237,7 @@
       {
         "description": "Cavalry Attack in Player-to-Player combat.",
         "name": "Cavalry Attack vs. Player",
-        "star_skill_value": 0.425952017307281,
+        "star_skill_value": 0.425951987504959,
         "type": "COUNCIL",
         "unlock_level": 40
       },
