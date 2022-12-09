@@ -10266,6 +10266,672 @@
         }
       ],
       "name": "recipe_alchemy_recipe_event_conquest5_item_peaceshield_2_100"
+    },
+    {
+      "id": "82b304203aa78e16",
+      "ingredients": [
+        {
+          "id": "3886c3b8a0455368",
+          "name": "item_event_trophy_summerhall_1",
+          "quantity": 20,
+          "type": "item"
+        },
+        {
+          "id": "d5bff8541fc21a0c",
+          "name": "item_event_coin_tier1",
+          "quantity": 8,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_summerhall_mat_event_summerhall_1_1"
+    },
+    {
+      "id": "ad9d6147663d56f8",
+      "ingredients": [
+        {
+          "id": "3886c3b8a0455368",
+          "name": "item_event_trophy_summerhall_1",
+          "quantity": 2000,
+          "type": "item"
+        },
+        {
+          "id": "d5bff8541fc21a0c",
+          "name": "item_event_coin_tier1",
+          "quantity": 800,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_summerhall_mat_event_summerhall_1_100"
+    },
+    {
+      "id": "f236f3cf0a45525a",
+      "ingredients": [
+        {
+          "id": "3886c3b8a0455368",
+          "name": "item_event_trophy_summerhall_1",
+          "quantity": 132,
+          "type": "item"
+        },
+        {
+          "id": "d5bff8541fc21a0c",
+          "name": "item_event_coin_tier1",
+          "quantity": 52,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_summerhall_item_event_rewardbox_craftingmaterial_1_1"
+    },
+    {
+      "id": "177797c6e3cd72f4",
+      "ingredients": [
+        {
+          "id": "3886c3b8a0455368",
+          "name": "item_event_trophy_summerhall_1",
+          "quantity": 459,
+          "type": "item"
+        },
+        {
+          "id": "d5bff8541fc21a0c",
+          "name": "item_event_coin_tier1",
+          "quantity": 183,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_summerhall_curr_Wood_1"
+    },
+    {
+      "id": "30843687397c2cbc",
+      "ingredients": [
+        {
+          "id": "3886c3b8a0455368",
+          "name": "item_event_trophy_summerhall_1",
+          "quantity": 45900,
+          "type": "item"
+        },
+        {
+          "id": "d5bff8541fc21a0c",
+          "name": "item_event_coin_tier1",
+          "quantity": 18300,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_summerhall_curr_Wood_100"
+    },
+    {
+      "id": "c2eb9a171560d9ce",
+      "ingredients": [
+        {
+          "id": "3886c3b8a0455368",
+          "name": "item_event_trophy_summerhall_1",
+          "quantity": 640,
+          "type": "item"
+        },
+        {
+          "id": "d5bff8541fc21a0c",
+          "name": "item_event_coin_tier1",
+          "quantity": 256,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_summerhall_curr_Iron_1"
+    },
+    {
+      "id": "255d8e60af5e25e5",
+      "ingredients": [
+        {
+          "id": "3886c3b8a0455368",
+          "name": "item_event_trophy_summerhall_1",
+          "quantity": 64000,
+          "type": "item"
+        },
+        {
+          "id": "d5bff8541fc21a0c",
+          "name": "item_event_coin_tier1",
+          "quantity": 25600,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_summerhall_curr_Iron_100"
+    },
+    {
+      "id": "46eb803403322376",
+      "ingredients": [
+        {
+          "id": "3886c3b8a0455368",
+          "name": "item_event_trophy_summerhall_1",
+          "quantity": 100,
+          "type": "item"
+        },
+        {
+          "id": "d5bff8541fc21a0c",
+          "name": "item_event_coin_tier1",
+          "quantity": 90,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_summerhall_item_buildreq_brick_1_1"
+    },
+    {
+      "id": "e96a5cb0a909ee20",
+      "ingredients": [
+        {
+          "id": "3886c3b8a0455368",
+          "name": "item_event_trophy_summerhall_1",
+          "quantity": 10000,
+          "type": "item"
+        },
+        {
+          "id": "d5bff8541fc21a0c",
+          "name": "item_event_coin_tier1",
+          "quantity": 9000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_summerhall_item_buildreq_brick_1_100"
+    },
+    {
+      "id": "c476187b42486faf",
+      "ingredients": [
+        {
+          "id": "3886c3b8a0455368",
+          "name": "item_event_trophy_summerhall_1",
+          "quantity": 500,
+          "type": "item"
+        },
+        {
+          "id": "d5bff8541fc21a0c",
+          "name": "item_event_coin_tier1",
+          "quantity": 450,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_summerhall_item_buildreq_soldierpine_1_1"
+    },
+    {
+      "id": "bc7d224b7a14bf5b",
+      "ingredients": [
+        {
+          "id": "3886c3b8a0455368",
+          "name": "item_event_trophy_summerhall_1",
+          "quantity": 50000,
+          "type": "item"
+        },
+        {
+          "id": "d5bff8541fc21a0c",
+          "name": "item_event_coin_tier1",
+          "quantity": 45000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_summerhall_item_buildreq_soldierpine_1_100"
+    },
+    {
+      "id": "f613051e11083c91",
+      "ingredients": [
+        {
+          "id": "3886c3b8a0455368",
+          "name": "item_event_trophy_summerhall_1",
+          "quantity": 2500,
+          "type": "item"
+        },
+        {
+          "id": "a0ada4bfc637e802",
+          "name": "item_event_coin_tier2",
+          "quantity": 225,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_summerhall_item_buildreq_keystone_1_1"
+    },
+    {
+      "id": "e1c5c68fc99b9075",
+      "ingredients": [
+        {
+          "id": "3886c3b8a0455368",
+          "name": "item_event_trophy_summerhall_1",
+          "quantity": 250000,
+          "type": "item"
+        },
+        {
+          "id": "a0ada4bfc637e802",
+          "name": "item_event_coin_tier2",
+          "quantity": 22500,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_summerhall_item_buildreq_keystone_1_100"
+    },
+    {
+      "id": "870210173d43d5ca",
+      "ingredients": [
+        {
+          "id": "3886c3b8a0455368",
+          "name": "item_event_trophy_summerhall_1",
+          "quantity": 238,
+          "type": "item"
+        },
+        {
+          "id": "a0ada4bfc637e802",
+          "name": "item_event_coin_tier2",
+          "quantity": 13,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_summerhall_item_speedup_Building_5m_1"
+    },
+    {
+      "id": "67234b496f2c4919",
+      "ingredients": [
+        {
+          "id": "3886c3b8a0455368",
+          "name": "item_event_trophy_summerhall_1",
+          "quantity": 23800,
+          "type": "item"
+        },
+        {
+          "id": "a0ada4bfc637e802",
+          "name": "item_event_coin_tier2",
+          "quantity": 1300,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_summerhall_item_speedup_Building_5m_100"
+    },
+    {
+      "id": "1afa71b8fbe00d74",
+      "ingredients": [
+        {
+          "id": "3886c3b8a0455368",
+          "name": "item_event_trophy_summerhall_1",
+          "quantity": 1500,
+          "type": "item"
+        },
+        {
+          "id": "a0ada4bfc637e802",
+          "name": "item_event_coin_tier2",
+          "quantity": 135,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_summerhall_item_builder_2_1d_1"
+    },
+    {
+      "id": "7d98875275d7ce49",
+      "ingredients": [
+        {
+          "id": "3886c3b8a0455368",
+          "name": "item_event_trophy_summerhall_1",
+          "quantity": 150000,
+          "type": "item"
+        },
+        {
+          "id": "a0ada4bfc637e802",
+          "name": "item_event_coin_tier2",
+          "quantity": 13500,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_summerhall_item_builder_2_1d_100"
+    },
+    {
+      "id": "aef6daae363b01e9",
+      "ingredients": [
+        {
+          "id": "3886c3b8a0455368",
+          "name": "item_event_trophy_summerhall_1",
+          "quantity": 20000,
+          "type": "item"
+        },
+        {
+          "id": "a0ada4bfc637e802",
+          "name": "item_event_coin_tier2",
+          "quantity": 1800,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_summerhall_item_Advanced_Teleport_1"
+    },
+    {
+      "id": "57909c560e26d7eb",
+      "ingredients": [
+        {
+          "id": "3886c3b8a0455368",
+          "name": "item_event_trophy_summerhall_1",
+          "quantity": 2000000,
+          "type": "item"
+        },
+        {
+          "id": "a0ada4bfc637e802",
+          "name": "item_event_coin_tier2",
+          "quantity": 180000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_summerhall_item_Advanced_Teleport_100"
+    },
+    {
+      "id": "b9cd563774da34ed",
+      "ingredients": [
+        {
+          "id": "3886c3b8a0455368",
+          "name": "item_event_trophy_summerhall_1",
+          "quantity": 5000,
+          "type": "item"
+        },
+        {
+          "id": "d5bff8541fc21a0c",
+          "name": "item_event_coin_tier1",
+          "quantity": 5000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_summerhall_item_hero_adv_xp_100_1"
+    },
+    {
+      "id": "21224221e7be3ef8",
+      "ingredients": [
+        {
+          "id": "3886c3b8a0455368",
+          "name": "item_event_trophy_summerhall_1",
+          "quantity": 30000,
+          "type": "item"
+        },
+        {
+          "id": "d5bff8541fc21a0c",
+          "name": "item_event_coin_tier1",
+          "quantity": 30000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_summerhall_item_hero_seal_standard_1_1"
+    },
+    {
+      "id": "427ea25b1ad62c29",
+      "ingredients": [
+        {
+          "id": "3886c3b8a0455368",
+          "name": "item_event_trophy_summerhall_1",
+          "quantity": 459,
+          "type": "item"
+        },
+        {
+          "id": "d5bff8541fc21a0c",
+          "name": "item_event_coin_tier1",
+          "quantity": 183,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_summerhall_curr_Food_1"
+    },
+    {
+      "id": "602fc54be2db6b43",
+      "ingredients": [
+        {
+          "id": "3886c3b8a0455368",
+          "name": "item_event_trophy_summerhall_1",
+          "quantity": 45900,
+          "type": "item"
+        },
+        {
+          "id": "d5bff8541fc21a0c",
+          "name": "item_event_coin_tier1",
+          "quantity": 18300,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_summerhall_curr_Food_100"
+    },
+    {
+      "id": "1f8ee15c89c86c39",
+      "ingredients": [
+        {
+          "id": "3886c3b8a0455368",
+          "name": "item_event_trophy_summerhall_1",
+          "quantity": 544,
+          "type": "item"
+        },
+        {
+          "id": "d5bff8541fc21a0c",
+          "name": "item_event_coin_tier1",
+          "quantity": 217,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_summerhall_curr_Stone_1"
+    },
+    {
+      "id": "93eaed75c74b8332",
+      "ingredients": [
+        {
+          "id": "3886c3b8a0455368",
+          "name": "item_event_trophy_summerhall_1",
+          "quantity": 54400,
+          "type": "item"
+        },
+        {
+          "id": "d5bff8541fc21a0c",
+          "name": "item_event_coin_tier1",
+          "quantity": 21700,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_summerhall_curr_Stone_100"
+    },
+    {
+      "id": "2c74cfe229f592a4",
+      "ingredients": [
+        {
+          "id": "3886c3b8a0455368",
+          "name": "item_event_trophy_summerhall_1",
+          "quantity": 100,
+          "type": "item"
+        },
+        {
+          "id": "d5bff8541fc21a0c",
+          "name": "item_event_coin_tier1",
+          "quantity": 90,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_summerhall_item_buildreq_scholarly_fragment_1_1"
+    },
+    {
+      "id": "59d9f34af592d42f",
+      "ingredients": [
+        {
+          "id": "3886c3b8a0455368",
+          "name": "item_event_trophy_summerhall_1",
+          "quantity": 10000,
+          "type": "item"
+        },
+        {
+          "id": "d5bff8541fc21a0c",
+          "name": "item_event_coin_tier1",
+          "quantity": 9000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_summerhall_item_buildreq_scholarly_fragment_1_100"
+    },
+    {
+      "id": "14a44825408fd715",
+      "ingredients": [
+        {
+          "id": "3886c3b8a0455368",
+          "name": "item_event_trophy_summerhall_1",
+          "quantity": 500,
+          "type": "item"
+        },
+        {
+          "id": "d5bff8541fc21a0c",
+          "name": "item_event_coin_tier1",
+          "quantity": 450,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_summerhall_item_buildreq_pale_steel_1_1"
+    },
+    {
+      "id": "821c5a2e9c21d646",
+      "ingredients": [
+        {
+          "id": "3886c3b8a0455368",
+          "name": "item_event_trophy_summerhall_1",
+          "quantity": 50000,
+          "type": "item"
+        },
+        {
+          "id": "d5bff8541fc21a0c",
+          "name": "item_event_coin_tier1",
+          "quantity": 45000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_summerhall_item_buildreq_pale_steel_1_100"
+    },
+    {
+      "id": "c74e7b6bb2d39591",
+      "ingredients": [
+        {
+          "id": "3886c3b8a0455368",
+          "name": "item_event_trophy_summerhall_1",
+          "quantity": 2500,
+          "type": "item"
+        },
+        {
+          "id": "a0ada4bfc637e802",
+          "name": "item_event_coin_tier2",
+          "quantity": 225,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_summerhall_item_buildreq_red_gold_1_1"
+    },
+    {
+      "id": "78f9fbe708d69880",
+      "ingredients": [
+        {
+          "id": "3886c3b8a0455368",
+          "name": "item_event_trophy_summerhall_1",
+          "quantity": 250000,
+          "type": "item"
+        },
+        {
+          "id": "a0ada4bfc637e802",
+          "name": "item_event_coin_tier2",
+          "quantity": 22500,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_summerhall_item_buildreq_red_gold_1_100"
+    },
+    {
+      "id": "46dab6efbaef5d72",
+      "ingredients": [
+        {
+          "id": "3886c3b8a0455368",
+          "name": "item_event_trophy_summerhall_1",
+          "quantity": 238,
+          "type": "item"
+        },
+        {
+          "id": "a0ada4bfc637e802",
+          "name": "item_event_coin_tier2",
+          "quantity": 13,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_summerhall_item_speedup_Research_5m_1"
+    },
+    {
+      "id": "8a727fb6bdf797ee",
+      "ingredients": [
+        {
+          "id": "3886c3b8a0455368",
+          "name": "item_event_trophy_summerhall_1",
+          "quantity": 23800,
+          "type": "item"
+        },
+        {
+          "id": "a0ada4bfc637e802",
+          "name": "item_event_coin_tier2",
+          "quantity": 1300,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_summerhall_item_speedup_Research_5m_100"
+    },
+    {
+      "id": "db49169b9184c331",
+      "ingredients": [
+        {
+          "id": "3886c3b8a0455368",
+          "name": "item_event_trophy_summerhall_1",
+          "quantity": 1500,
+          "type": "item"
+        },
+        {
+          "id": "a0ada4bfc637e802",
+          "name": "item_event_coin_tier2",
+          "quantity": 135,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_summerhall_item_researcher_2_1d_1"
+    },
+    {
+      "id": "c9e9fe64f44a53d4",
+      "ingredients": [
+        {
+          "id": "3886c3b8a0455368",
+          "name": "item_event_trophy_summerhall_1",
+          "quantity": 150000,
+          "type": "item"
+        },
+        {
+          "id": "a0ada4bfc637e802",
+          "name": "item_event_coin_tier2",
+          "quantity": 13500,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_summerhall_item_researcher_2_1d_100"
+    },
+    {
+      "id": "6ac2cdcb85708413",
+      "ingredients": [
+        {
+          "id": "3886c3b8a0455368",
+          "name": "item_event_trophy_summerhall_1",
+          "quantity": 10000,
+          "type": "item"
+        },
+        {
+          "id": "a0ada4bfc637e802",
+          "name": "item_event_coin_tier2",
+          "quantity": 900,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_summerhall_item_peaceshield_2_1"
+    },
+    {
+      "id": "e4dc67cf4df91f",
+      "ingredients": [
+        {
+          "id": "3886c3b8a0455368",
+          "name": "item_event_trophy_summerhall_1",
+          "quantity": 1000000,
+          "type": "item"
+        },
+        {
+          "id": "a0ada4bfc637e802",
+          "name": "item_event_coin_tier2",
+          "quantity": 90000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_recipe_event_summerhall_item_peaceshield_2_100"
     }
   ]
 }
