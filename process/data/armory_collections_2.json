@@ -480,6 +480,18 @@
       "name": "armcol_events_conquest5",
       "name_placeholder": "EQ_EVENTS_CONQUEST5_SET_NAME",
       "priority": 23700
+    },
+    {
+      "bonuses": [
+        "armcol_events_summerhall_1",
+        "armcol_events_summerhall_2",
+        "armcol_events_summerhall_3"
+      ],
+      "gear_set_name": "gearset_events_summerhall",
+      "id": "4cc4b9c709183997",
+      "name": "armcol_events_summerhall",
+      "name_placeholder": "EQ_EVENTS_SUMMERHALL_SET_NAME",
+      "priority": 24300
     }
   ]
 }

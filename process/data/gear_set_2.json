@@ -1080,6 +1080,33 @@
       "ring_name": "prog_gearset_events_conquest5_ring",
       "weapon_id": "ce6bd8e71fa318a0",
       "weapon_name": "prog_gearset_events_conquest5_weapon"
+    },
+    {
+      "boots_id": "1e1d54ba51d49a8a",
+      "boots_name": "prog_gearset_events_summerhall_boots",
+      "chest_id": "2266e810654babb2",
+      "chest_name": "prog_gearset_events_summerhall_chest",
+      "color": {
+        "alpha": 255,
+        "blue": 33,
+        "green": 33,
+        "red": 176
+      },
+      "description_placeholder": "EQ_EVENTS_SUMMERHALL_SET_DESCRIPTION",
+      "helmet_id": "80777b0535125e36",
+      "helmet_name": "prog_gearset_events_summerhall_helmet",
+      "id": "af89847ff78b6b03",
+      "material_id": 3686699489570330735,
+      "material_name": "mat_event_summerhall_1",
+      "name": "gearset_events_summerhall",
+      "name_placeholder": "EQ_EVENTS_SUMMERHALL_SET_NAME",
+      "pants_id": "a72e3e1883933bc3",
+      "pants_name": "prog_gearset_events_summerhall_pants",
+      "priority": 24300,
+      "ring_id": "fc2d11b95135cd3e",
+      "ring_name": "prog_gearset_events_summerhall_ring",
+      "weapon_id": "f222bdbc5cd0e8e5",
+      "weapon_name": "prog_gearset_events_summerhall_weapon"
     }
   ]
 }

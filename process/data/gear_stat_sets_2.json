@@ -61920,6 +61920,1686 @@
           "progression": "prog_gear_Event8_RangedAttackVsPlayersInfantry_50"
         }
       ]
+    },
+    {
+      "id": "509b3d27b84f5c9f",
+      "name": "eq_events_summerhall_5_boots_lord5",
+      "stats": [
+        {
+          "name": "property_TroopAttack_gear",
+          "progression": "prog_gear_Event8_TroopAttack_5"
+        },
+        {
+          "name": "property_DragonDefense_gear",
+          "progression": "prog_gear_Event8_DragonDefense_5"
+        },
+        {
+          "name": "property_DragonTroopDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_DragonTroopDefenseVsPlayer_5"
+        }
+      ]
+    },
+    {
+      "id": "40316a7f97e84208",
+      "name": "eq_events_summerhall_5_chest_lord5",
+      "stats": [
+        {
+          "name": "property_DragonTroopDefense_gear",
+          "progression": "prog_gear_Event8_DragonTroopDefense_5"
+        },
+        {
+          "name": "property_DragonTroopHealthVsSeatOfPower_gear",
+          "progression": "prog_gear_Event8_DragonTroopHealthVsSeatOfPower_5"
+        },
+        {
+          "name": "property_DragonTroopAttack_gear",
+          "progression": "prog_gear_Event8_DragonTroopAttack_5"
+        }
+      ]
+    },
+    {
+      "id": "add72b985a1d204d",
+      "name": "eq_events_summerhall_5_helmet_lord5",
+      "stats": [
+        {
+          "name": "property_DragonTroopAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_DragonTroopAttackVsPlayer_5"
+        },
+        {
+          "name": "property_DragonMaxMarchSize_gear",
+          "progression": "prog_gear_Event8_DragonMaxMarchSize_5"
+        },
+        {
+          "name": "property_DragonTroopDefenseVsSeatOfPower_gear",
+          "progression": "prog_gear_Event8_DragonTroopDefenseVsSeatOfPower_5"
+        }
+      ]
+    },
+    {
+      "id": "9319285ce5108b13",
+      "name": "eq_events_summerhall_5_pants_lord5",
+      "stats": [
+        {
+          "name": "property_DragonTroopHealthVsPlayer_gear",
+          "progression": "prog_gear_Event8_DragonTroopHealthVsPlayer_5"
+        },
+        {
+          "name": "property_TroopDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_TroopDefenseVsPlayer_5"
+        },
+        {
+          "name": "property_TroopHealthVsPlayer_gear",
+          "progression": "prog_gear_Event8_TroopHealthVsPlayer_5"
+        }
+      ]
+    },
+    {
+      "id": "ba45a5fc856ff349",
+      "name": "eq_events_summerhall_5_ring_lord5",
+      "stats": [
+        {
+          "name": "property_TroopHealthVsPlayer_gear",
+          "progression": "prog_gear_Event8_TroopHealthVsPlayer_5"
+        },
+        {
+          "name": "property_DragonHealth_gear",
+          "progression": "prog_gear_Event8_DragonHealth_5"
+        },
+        {
+          "name": "property_DragonTroopAttack_gear",
+          "progression": "prog_gear_Event8_DragonTroopAttack_5"
+        }
+      ]
+    },
+    {
+      "id": "ca0ab3af13c27ec0",
+      "name": "eq_events_summerhall_5_weapon_lord5",
+      "stats": [
+        {
+          "name": "property_TroopDefense_gear",
+          "progression": "prog_gear_Event8_TroopDefense_5"
+        },
+        {
+          "name": "property_DragonTroopDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_DragonTroopDefenseVsPlayer_5"
+        },
+        {
+          "name": "property_DragonMaxMarchSize_gear",
+          "progression": "prog_gear_Event8_DragonMaxMarchSize_5"
+        }
+      ]
+    },
+    {
+      "id": "5343aebf2c32fb84",
+      "name": "eq_events_summerhall_10_boots_lord10",
+      "stats": [
+        {
+          "name": "property_TroopAttack_gear",
+          "progression": "prog_gear_Event8_TroopAttack_10"
+        },
+        {
+          "name": "property_DragonDefense_gear",
+          "progression": "prog_gear_Event8_DragonDefense_10"
+        },
+        {
+          "name": "property_DragonTroopDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_DragonTroopDefenseVsPlayer_10"
+        }
+      ]
+    },
+    {
+      "id": "1c092b577bb68034",
+      "name": "eq_events_summerhall_10_chest_lord10",
+      "stats": [
+        {
+          "name": "property_DragonTroopDefense_gear",
+          "progression": "prog_gear_Event8_DragonTroopDefense_10"
+        },
+        {
+          "name": "property_DragonTroopHealthVsSeatOfPower_gear",
+          "progression": "prog_gear_Event8_DragonTroopHealthVsSeatOfPower_10"
+        },
+        {
+          "name": "property_DragonTroopAttack_gear",
+          "progression": "prog_gear_Event8_DragonTroopAttack_10"
+        }
+      ]
+    },
+    {
+      "id": "6d136ef8f58b05a3",
+      "name": "eq_events_summerhall_10_helmet_lord10",
+      "stats": [
+        {
+          "name": "property_DragonTroopAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_DragonTroopAttackVsPlayer_10"
+        },
+        {
+          "name": "property_DragonMaxMarchSize_gear",
+          "progression": "prog_gear_Event8_DragonMaxMarchSize_10"
+        },
+        {
+          "name": "property_DragonTroopDefenseVsSeatOfPower_gear",
+          "progression": "prog_gear_Event8_DragonTroopDefenseVsSeatOfPower_10"
+        }
+      ]
+    },
+    {
+      "id": "c42e3c4addc084d5",
+      "name": "eq_events_summerhall_10_pants_lord10",
+      "stats": [
+        {
+          "name": "property_DragonTroopHealthVsPlayer_gear",
+          "progression": "prog_gear_Event8_DragonTroopHealthVsPlayer_10"
+        },
+        {
+          "name": "property_TroopDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_TroopDefenseVsPlayer_10"
+        },
+        {
+          "name": "property_TroopHealthVsPlayer_gear",
+          "progression": "prog_gear_Event8_TroopHealthVsPlayer_10"
+        }
+      ]
+    },
+    {
+      "id": "f929ef63408534b7",
+      "name": "eq_events_summerhall_10_ring_lord10",
+      "stats": [
+        {
+          "name": "property_TroopHealthVsPlayer_gear",
+          "progression": "prog_gear_Event8_TroopHealthVsPlayer_10"
+        },
+        {
+          "name": "property_DragonHealth_gear",
+          "progression": "prog_gear_Event8_DragonHealth_10"
+        },
+        {
+          "name": "property_DragonTroopAttack_gear",
+          "progression": "prog_gear_Event8_DragonTroopAttack_10"
+        }
+      ]
+    },
+    {
+      "id": "d62b6826ff3eab81",
+      "name": "eq_events_summerhall_10_weapon_lord10",
+      "stats": [
+        {
+          "name": "property_TroopDefense_gear",
+          "progression": "prog_gear_Event8_TroopDefense_10"
+        },
+        {
+          "name": "property_DragonTroopDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_DragonTroopDefenseVsPlayer_10"
+        },
+        {
+          "name": "property_DragonMaxMarchSize_gear",
+          "progression": "prog_gear_Event8_DragonMaxMarchSize_10"
+        }
+      ]
+    },
+    {
+      "id": "d929d66ddf611e74",
+      "name": "eq_events_summerhall_15_boots_lord15",
+      "stats": [
+        {
+          "name": "property_TroopAttack_gear",
+          "progression": "prog_gear_Event8_TroopAttack_15"
+        },
+        {
+          "name": "property_DragonDefense_gear",
+          "progression": "prog_gear_Event8_DragonDefense_15"
+        },
+        {
+          "name": "property_DragonTroopDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_DragonTroopDefenseVsPlayer_15"
+        }
+      ]
+    },
+    {
+      "id": "9663538588e565c4",
+      "name": "eq_events_summerhall_15_chest_lord15",
+      "stats": [
+        {
+          "name": "property_DragonTroopDefense_gear",
+          "progression": "prog_gear_Event8_DragonTroopDefense_15"
+        },
+        {
+          "name": "property_DragonTroopHealthVsSeatOfPower_gear",
+          "progression": "prog_gear_Event8_DragonTroopHealthVsSeatOfPower_15"
+        },
+        {
+          "name": "property_DragonTroopAttack_gear",
+          "progression": "prog_gear_Event8_DragonTroopAttack_15"
+        }
+      ]
+    },
+    {
+      "id": "5ad929601248b3c6",
+      "name": "eq_events_summerhall_15_helmet_lord15",
+      "stats": [
+        {
+          "name": "property_DragonTroopAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_DragonTroopAttackVsPlayer_15"
+        },
+        {
+          "name": "property_DragonMaxMarchSize_gear",
+          "progression": "prog_gear_Event8_DragonMaxMarchSize_15"
+        },
+        {
+          "name": "property_DragonTroopDefenseVsSeatOfPower_gear",
+          "progression": "prog_gear_Event8_DragonTroopDefenseVsSeatOfPower_15"
+        }
+      ]
+    },
+    {
+      "id": "4e4444982e936125",
+      "name": "eq_events_summerhall_15_pants_lord15",
+      "stats": [
+        {
+          "name": "property_DragonTroopHealthVsPlayer_gear",
+          "progression": "prog_gear_Event8_DragonTroopHealthVsPlayer_15"
+        },
+        {
+          "name": "property_TroopDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_TroopDefenseVsPlayer_15"
+        },
+        {
+          "name": "property_TroopHealthVsPlayer_gear",
+          "progression": "prog_gear_Event8_TroopHealthVsPlayer_15"
+        }
+      ]
+    },
+    {
+      "id": "864e924df9490466",
+      "name": "eq_events_summerhall_15_ring_lord15",
+      "stats": [
+        {
+          "name": "property_TroopHealthVsPlayer_gear",
+          "progression": "prog_gear_Event8_TroopHealthVsPlayer_15"
+        },
+        {
+          "name": "property_DragonHealth_gear",
+          "progression": "prog_gear_Event8_DragonHealth_15"
+        },
+        {
+          "name": "property_DragonTroopAttack_gear",
+          "progression": "prog_gear_Event8_DragonTroopAttack_15"
+        }
+      ]
+    },
+    {
+      "id": "e1e12fbe18fd1de4",
+      "name": "eq_events_summerhall_15_weapon_lord15",
+      "stats": [
+        {
+          "name": "property_TroopDefense_gear",
+          "progression": "prog_gear_Event8_TroopDefense_15"
+        },
+        {
+          "name": "property_DragonTroopDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_DragonTroopDefenseVsPlayer_15"
+        },
+        {
+          "name": "property_DragonMaxMarchSize_gear",
+          "progression": "prog_gear_Event8_DragonMaxMarchSize_15"
+        }
+      ]
+    },
+    {
+      "id": "ba1bba3bc4e48fa5",
+      "name": "eq_events_summerhall_20_boots_lord20",
+      "stats": [
+        {
+          "name": "property_TroopAttack_gear",
+          "progression": "prog_gear_Event8_TroopAttack_20"
+        },
+        {
+          "name": "property_DragonDefense_gear",
+          "progression": "prog_gear_Event8_DragonDefense_20"
+        },
+        {
+          "name": "property_DragonTroopDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_DragonTroopDefenseVsPlayer_20"
+        },
+        {
+          "name": "property_DragonTroopHealth_gear",
+          "progression": "prog_gear_Event8_DragonTroopHealth_20"
+        }
+      ]
+    },
+    {
+      "id": "f5513fd39360f415",
+      "name": "eq_events_summerhall_20_chest_lord20",
+      "stats": [
+        {
+          "name": "property_DragonTroopDefense_gear",
+          "progression": "prog_gear_Event8_DragonTroopDefense_20"
+        },
+        {
+          "name": "property_DragonTroopHealthVsSeatOfPower_gear",
+          "progression": "prog_gear_Event8_DragonTroopHealthVsSeatOfPower_20"
+        },
+        {
+          "name": "property_DragonTroopAttack_gear",
+          "progression": "prog_gear_Event8_DragonTroopAttack_20"
+        },
+        {
+          "name": "property_DragonDefense_gear",
+          "progression": "prog_gear_Event8_DragonDefense_20"
+        }
+      ]
+    },
+    {
+      "id": "8214c143ccf119c",
+      "name": "eq_events_summerhall_20_helmet_lord20",
+      "stats": [
+        {
+          "name": "property_DragonTroopAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_DragonTroopAttackVsPlayer_20"
+        },
+        {
+          "name": "property_DragonMaxMarchSize_gear",
+          "progression": "prog_gear_Event8_DragonMaxMarchSize_20"
+        },
+        {
+          "name": "property_DragonTroopDefenseVsSeatOfPower_gear",
+          "progression": "prog_gear_Event8_DragonTroopDefenseVsSeatOfPower_20"
+        },
+        {
+          "name": "property_DragonAttackVsDragon_gear",
+          "progression": "prog_gear_Event8_DragonAttackVsDragon_20"
+        }
+      ]
+    },
+    {
+      "id": "2d7628ce3516f0f4",
+      "name": "eq_events_summerhall_20_pants_lord20",
+      "stats": [
+        {
+          "name": "property_DragonTroopHealthVsPlayer_gear",
+          "progression": "prog_gear_Event8_DragonTroopHealthVsPlayer_20"
+        },
+        {
+          "name": "property_TroopDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_TroopDefenseVsPlayer_20"
+        },
+        {
+          "name": "property_TroopHealthVsPlayer_gear",
+          "progression": "prog_gear_Event8_TroopHealthVsPlayer_20"
+        },
+        {
+          "name": "property_DragonHealth_gear",
+          "progression": "prog_gear_Event8_DragonHealth_20"
+        }
+      ]
+    },
+    {
+      "id": "fa87d0f29cb9b4fc",
+      "name": "eq_events_summerhall_20_ring_lord20",
+      "stats": [
+        {
+          "name": "property_TroopHealthVsPlayer_gear",
+          "progression": "prog_gear_Event8_TroopHealthVsPlayer_20"
+        },
+        {
+          "name": "property_DragonHealth_gear",
+          "progression": "prog_gear_Event8_DragonHealth_20"
+        },
+        {
+          "name": "property_DragonTroopAttack_gear",
+          "progression": "prog_gear_Event8_DragonTroopAttack_20"
+        },
+        {
+          "name": "property_MarcherTroopHealthVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarcherTroopHealthVsPlayer_20"
+        }
+      ]
+    },
+    {
+      "id": "b3194aca367abfbe",
+      "name": "eq_events_summerhall_20_weapon_lord20",
+      "stats": [
+        {
+          "name": "property_TroopDefense_gear",
+          "progression": "prog_gear_Event8_TroopDefense_20"
+        },
+        {
+          "name": "property_DragonTroopDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_DragonTroopDefenseVsPlayer_20"
+        },
+        {
+          "name": "property_DragonMaxMarchSize_gear",
+          "progression": "prog_gear_Event8_DragonMaxMarchSize_20"
+        },
+        {
+          "name": "property_DragonMarchingSpeed_gear",
+          "progression": "prog_gear_Event8_DragonMarchingSpeed_20"
+        }
+      ]
+    },
+    {
+      "id": "3071c2e937b76a55",
+      "name": "eq_events_summerhall_25_boots_lord25",
+      "stats": [
+        {
+          "name": "property_TroopAttack_gear",
+          "progression": "prog_gear_Event8_TroopAttack_25"
+        },
+        {
+          "name": "property_DragonDefense_gear",
+          "progression": "prog_gear_Event8_DragonDefense_25"
+        },
+        {
+          "name": "property_DragonTroopDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_DragonTroopDefenseVsPlayer_25"
+        },
+        {
+          "name": "property_DragonTroopHealth_gear",
+          "progression": "prog_gear_Event8_DragonTroopHealth_25"
+        },
+        {
+          "name": "property_DragonAttackVsDragon_gear",
+          "progression": "prog_gear_Event8.5_DragonAttackVsDragon_25"
+        }
+      ]
+    },
+    {
+      "id": "7f3b4701603311e5",
+      "name": "eq_events_summerhall_25_chest_lord25",
+      "stats": [
+        {
+          "name": "property_DragonTroopDefense_gear",
+          "progression": "prog_gear_Event8_DragonTroopDefense_25"
+        },
+        {
+          "name": "property_DragonTroopHealthVsSeatOfPower_gear",
+          "progression": "prog_gear_Event8_DragonTroopHealthVsSeatOfPower_25"
+        },
+        {
+          "name": "property_DragonTroopAttack_gear",
+          "progression": "prog_gear_Event8_DragonTroopAttack_25"
+        },
+        {
+          "name": "property_DragonDefense_gear",
+          "progression": "prog_gear_Event8_DragonDefense_25"
+        },
+        {
+          "name": "property_DragonMaxMarchSize_gear",
+          "progression": "prog_gear_Event8.5_DragonMaxMarchSize_25"
+        }
+      ]
+    },
+    {
+      "id": "3feb0b8cdb0ca7f9",
+      "name": "eq_events_summerhall_25_helmet_lord25",
+      "stats": [
+        {
+          "name": "property_DragonTroopAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_DragonTroopAttackVsPlayer_25"
+        },
+        {
+          "name": "property_DragonMaxMarchSize_gear",
+          "progression": "prog_gear_Event8_DragonMaxMarchSize_25"
+        },
+        {
+          "name": "property_DragonTroopDefenseVsSeatOfPower_gear",
+          "progression": "prog_gear_Event8_DragonTroopDefenseVsSeatOfPower_25"
+        },
+        {
+          "name": "property_DragonAttackVsDragon_gear",
+          "progression": "prog_gear_Event8_DragonAttackVsDragon_25"
+        },
+        {
+          "name": "property_DragonDefense_gear",
+          "progression": "prog_gear_Event8.5_DragonDefense_25"
+        }
+      ]
+    },
+    {
+      "id": "a71c501cc6451504",
+      "name": "eq_events_summerhall_25_pants_lord25",
+      "stats": [
+        {
+          "name": "property_DragonTroopHealthVsPlayer_gear",
+          "progression": "prog_gear_Event8_DragonTroopHealthVsPlayer_25"
+        },
+        {
+          "name": "property_TroopDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_TroopDefenseVsPlayer_25"
+        },
+        {
+          "name": "property_TroopHealthVsPlayer_gear",
+          "progression": "prog_gear_Event8_TroopHealthVsPlayer_25"
+        },
+        {
+          "name": "property_DragonHealth_gear",
+          "progression": "prog_gear_Event8_DragonHealth_25"
+        },
+        {
+          "name": "property_TroopAttackVsSeatOfPower_gear",
+          "progression": "prog_gear_Event8.5_TroopAttackVsSeatOfPower_25"
+        }
+      ]
+    },
+    {
+      "id": "85e0addc2575842d",
+      "name": "eq_events_summerhall_25_ring_lord25",
+      "stats": [
+        {
+          "name": "property_TroopHealthVsPlayer_gear",
+          "progression": "prog_gear_Event8_TroopHealthVsPlayer_25"
+        },
+        {
+          "name": "property_DragonHealth_gear",
+          "progression": "prog_gear_Event8_DragonHealth_25"
+        },
+        {
+          "name": "property_DragonTroopAttack_gear",
+          "progression": "prog_gear_Event8_DragonTroopAttack_25"
+        },
+        {
+          "name": "property_MarcherTroopHealthVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarcherTroopHealthVsPlayer_25"
+        },
+        {
+          "name": "property_DragonDefense_gear",
+          "progression": "prog_gear_Event8.5_DragonDefense_25"
+        }
+      ]
+    },
+    {
+      "id": "84d30d52d1b909db",
+      "name": "eq_events_summerhall_25_weapon_lord25",
+      "stats": [
+        {
+          "name": "property_TroopDefense_gear",
+          "progression": "prog_gear_Event8_TroopDefense_25"
+        },
+        {
+          "name": "property_DragonTroopDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_DragonTroopDefenseVsPlayer_25"
+        },
+        {
+          "name": "property_DragonMaxMarchSize_gear",
+          "progression": "prog_gear_Event8_DragonMaxMarchSize_25"
+        },
+        {
+          "name": "property_DragonMarchingSpeed_gear",
+          "progression": "prog_gear_Event8_DragonMarchingSpeed_25"
+        },
+        {
+          "name": "property_DragonHealth_gear",
+          "progression": "prog_gear_Event8.5_DragonHealth_25"
+        }
+      ]
+    },
+    {
+      "id": "6345886b5bcc66a3",
+      "name": "eq_events_summerhall_30_boots_lord30",
+      "stats": [
+        {
+          "name": "property_TroopAttack_gear",
+          "progression": "prog_gear_Event8_TroopAttack_30"
+        },
+        {
+          "name": "property_DragonDefense_gear",
+          "progression": "prog_gear_Event8_DragonDefense_30"
+        },
+        {
+          "name": "property_DragonTroopDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_DragonTroopDefenseVsPlayer_30"
+        },
+        {
+          "name": "property_DragonTroopHealth_gear",
+          "progression": "prog_gear_Event8_DragonTroopHealth_30"
+        },
+        {
+          "name": "property_DragonAttackVsDragon_gear",
+          "progression": "prog_gear_Event8.5_DragonAttackVsDragon_30"
+        },
+        {
+          "name": "property_MarcherTroopDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarcherTroopDefenseVsPlayer_30"
+        }
+      ]
+    },
+    {
+      "id": "2c0f0d830c481d13",
+      "name": "eq_events_summerhall_30_chest_lord30",
+      "stats": [
+        {
+          "name": "property_DragonTroopDefense_gear",
+          "progression": "prog_gear_Event8_DragonTroopDefense_30"
+        },
+        {
+          "name": "property_DragonTroopHealthVsSeatOfPower_gear",
+          "progression": "prog_gear_Event8_DragonTroopHealthVsSeatOfPower_30"
+        },
+        {
+          "name": "property_DragonTroopAttack_gear",
+          "progression": "prog_gear_Event8_DragonTroopAttack_30"
+        },
+        {
+          "name": "property_DragonDefense_gear",
+          "progression": "prog_gear_Event8_DragonDefense_30"
+        },
+        {
+          "name": "property_DragonMaxMarchSize_gear",
+          "progression": "prog_gear_Event8.5_DragonMaxMarchSize_30"
+        },
+        {
+          "name": "property_TroopAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_TroopAttackVsPlayer_30"
+        }
+      ]
+    },
+    {
+      "id": "2b30adb07bf31d89",
+      "name": "eq_events_summerhall_30_helmet_lord30",
+      "stats": [
+        {
+          "name": "property_DragonTroopAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_DragonTroopAttackVsPlayer_30"
+        },
+        {
+          "name": "property_DragonMaxMarchSize_gear",
+          "progression": "prog_gear_Event8_DragonMaxMarchSize_30"
+        },
+        {
+          "name": "property_DragonTroopDefenseVsSeatOfPower_gear",
+          "progression": "prog_gear_Event8_DragonTroopDefenseVsSeatOfPower_30"
+        },
+        {
+          "name": "property_DragonAttackVsDragon_gear",
+          "progression": "prog_gear_Event8_DragonAttackVsDragon_30"
+        },
+        {
+          "name": "property_DragonDefense_gear",
+          "progression": "prog_gear_Event8.5_DragonDefense_30"
+        },
+        {
+          "name": "property_TroopDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_TroopDefenseVsPlayer_30"
+        }
+      ]
+    },
+    {
+      "id": "f4281a9eaa3e19f2",
+      "name": "eq_events_summerhall_30_pants_lord30",
+      "stats": [
+        {
+          "name": "property_DragonTroopHealthVsPlayer_gear",
+          "progression": "prog_gear_Event8_DragonTroopHealthVsPlayer_30"
+        },
+        {
+          "name": "property_TroopDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_TroopDefenseVsPlayer_30"
+        },
+        {
+          "name": "property_TroopHealthVsPlayer_gear",
+          "progression": "prog_gear_Event8_TroopHealthVsPlayer_30"
+        },
+        {
+          "name": "property_DragonHealth_gear",
+          "progression": "prog_gear_Event8_DragonHealth_30"
+        },
+        {
+          "name": "property_TroopAttackVsSeatOfPower_gear",
+          "progression": "prog_gear_Event8.5_TroopAttackVsSeatOfPower_30"
+        },
+        {
+          "name": "property_DragonTroopAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_DragonTroopAttackVsPlayer_30"
+        }
+      ]
+    },
+    {
+      "id": "fbe23a7dd75234c5",
+      "name": "eq_events_summerhall_30_ring_lord30",
+      "stats": [
+        {
+          "name": "property_TroopHealthVsPlayer_gear",
+          "progression": "prog_gear_Event8_TroopHealthVsPlayer_30"
+        },
+        {
+          "name": "property_DragonHealth_gear",
+          "progression": "prog_gear_Event8_DragonHealth_30"
+        },
+        {
+          "name": "property_DragonTroopAttack_gear",
+          "progression": "prog_gear_Event8_DragonTroopAttack_30"
+        },
+        {
+          "name": "property_MarcherTroopHealthVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarcherTroopHealthVsPlayer_30"
+        },
+        {
+          "name": "property_DragonDefense_gear",
+          "progression": "prog_gear_Event8.5_DragonDefense_30"
+        },
+        {
+          "name": "property_DragonMaxMarchSize_gear",
+          "progression": "prog_gear_Event8_DragonMaxMarchSize_30"
+        }
+      ]
+    },
+    {
+      "id": "9008ab6e7146b3ab",
+      "name": "eq_events_summerhall_30_weapon_lord30",
+      "stats": [
+        {
+          "name": "property_TroopDefense_gear",
+          "progression": "prog_gear_Event8_TroopDefense_30"
+        },
+        {
+          "name": "property_DragonTroopDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_DragonTroopDefenseVsPlayer_30"
+        },
+        {
+          "name": "property_DragonMaxMarchSize_gear",
+          "progression": "prog_gear_Event8_DragonMaxMarchSize_30"
+        },
+        {
+          "name": "property_DragonMarchingSpeed_gear",
+          "progression": "prog_gear_Event8_DragonMarchingSpeed_30"
+        },
+        {
+          "name": "property_DragonHealth_gear",
+          "progression": "prog_gear_Event8.5_DragonHealth_30"
+        },
+        {
+          "name": "property_DragonAttackVsDragon_gear",
+          "progression": "prog_gear_Event8_DragonAttackVsDragon_30"
+        }
+      ]
+    },
+    {
+      "id": "e92ff0b9a89f8353",
+      "name": "eq_events_summerhall_35_boots_lord35",
+      "stats": [
+        {
+          "name": "property_TroopAttack_gear",
+          "progression": "prog_gear_Event8_TroopAttack_35"
+        },
+        {
+          "name": "property_DragonDefense_gear",
+          "progression": "prog_gear_Event8_DragonDefense_35"
+        },
+        {
+          "name": "property_DragonTroopDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_DragonTroopDefenseVsPlayer_35"
+        },
+        {
+          "name": "property_DragonTroopHealth_gear",
+          "progression": "prog_gear_Event8_DragonTroopHealth_35"
+        },
+        {
+          "name": "property_DragonAttackVsDragon_gear",
+          "progression": "prog_gear_Event8.5_DragonAttackVsDragon_35"
+        },
+        {
+          "name": "property_MarcherTroopDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarcherTroopDefenseVsPlayer_35"
+        },
+        {
+          "name": "property_DragonTroopHealthVsPlayer_gear",
+          "progression": "prog_gear_Event8_DragonTroopHealthVsPlayer_35"
+        }
+      ]
+    },
+    {
+      "id": "a6657551ff1bf8e3",
+      "name": "eq_events_summerhall_35_chest_lord35",
+      "stats": [
+        {
+          "name": "property_DragonTroopDefense_gear",
+          "progression": "prog_gear_Event8_DragonTroopDefense_35"
+        },
+        {
+          "name": "property_DragonTroopHealthVsSeatOfPower_gear",
+          "progression": "prog_gear_Event8_DragonTroopHealthVsSeatOfPower_35"
+        },
+        {
+          "name": "property_DragonTroopAttack_gear",
+          "progression": "prog_gear_Event8_DragonTroopAttack_35"
+        },
+        {
+          "name": "property_DragonDefense_gear",
+          "progression": "prog_gear_Event8_DragonDefense_35"
+        },
+        {
+          "name": "property_DragonMaxMarchSize_gear",
+          "progression": "prog_gear_Event8.5_DragonMaxMarchSize_35"
+        },
+        {
+          "name": "property_TroopAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_TroopAttackVsPlayer_35"
+        },
+        {
+          "name": "property_TroopAttack_gear",
+          "progression": "prog_gear_Event8_TroopAttack_35"
+        }
+      ]
+    },
+    {
+      "id": "1cfaea289c30abec",
+      "name": "eq_events_summerhall_35_helmet_lord35",
+      "stats": [
+        {
+          "name": "property_DragonTroopAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_DragonTroopAttackVsPlayer_35"
+        },
+        {
+          "name": "property_DragonMaxMarchSize_gear",
+          "progression": "prog_gear_Event8_DragonMaxMarchSize_35"
+        },
+        {
+          "name": "property_DragonTroopDefenseVsSeatOfPower_gear",
+          "progression": "prog_gear_Event8_DragonTroopDefenseVsSeatOfPower_35"
+        },
+        {
+          "name": "property_DragonAttackVsDragon_gear",
+          "progression": "prog_gear_Event8_DragonAttackVsDragon_35"
+        },
+        {
+          "name": "property_DragonDefense_gear",
+          "progression": "prog_gear_Event8.5_DragonDefense_35"
+        },
+        {
+          "name": "property_TroopDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_TroopDefenseVsPlayer_35"
+        },
+        {
+          "name": "property_TroopHealth_gear",
+          "progression": "prog_gear_Event8_TroopHealth_35"
+        }
+      ]
+    },
+    {
+      "id": "7e42624c596dfc02",
+      "name": "eq_events_summerhall_35_pants_lord35",
+      "stats": [
+        {
+          "name": "property_DragonTroopHealthVsPlayer_gear",
+          "progression": "prog_gear_Event8_DragonTroopHealthVsPlayer_35"
+        },
+        {
+          "name": "property_TroopDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_TroopDefenseVsPlayer_35"
+        },
+        {
+          "name": "property_TroopHealthVsPlayer_gear",
+          "progression": "prog_gear_Event8_TroopHealthVsPlayer_35"
+        },
+        {
+          "name": "property_DragonHealth_gear",
+          "progression": "prog_gear_Event8_DragonHealth_35"
+        },
+        {
+          "name": "property_TroopAttackVsSeatOfPower_gear",
+          "progression": "prog_gear_Event8.5_TroopAttackVsSeatOfPower_35"
+        },
+        {
+          "name": "property_DragonTroopAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_DragonTroopAttackVsPlayer_35"
+        },
+        {
+          "name": "property_TroopDefense_gear",
+          "progression": "prog_gear_Event8_TroopDefense_35"
+        }
+      ]
+    },
+    {
+      "id": "848547536e9e0414",
+      "name": "eq_events_summerhall_35_ring_lord35",
+      "stats": [
+        {
+          "name": "property_TroopHealthVsPlayer_gear",
+          "progression": "prog_gear_Event8_TroopHealthVsPlayer_35"
+        },
+        {
+          "name": "property_DragonHealth_gear",
+          "progression": "prog_gear_Event8_DragonHealth_35"
+        },
+        {
+          "name": "property_DragonTroopAttack_gear",
+          "progression": "prog_gear_Event8_DragonTroopAttack_35"
+        },
+        {
+          "name": "property_MarcherTroopHealthVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarcherTroopHealthVsPlayer_35"
+        },
+        {
+          "name": "property_DragonDefense_gear",
+          "progression": "prog_gear_Event8.5_DragonDefense_35"
+        },
+        {
+          "name": "property_DragonMaxMarchSize_gear",
+          "progression": "prog_gear_Event8_DragonMaxMarchSize_35"
+        },
+        {
+          "name": "property_DragonTroopDefense_gear",
+          "progression": "prog_gear_Event8_DragonTroopDefense_35"
+        }
+      ]
+    },
+    {
+      "id": "a7c2ecf6968505ce",
+      "name": "eq_events_summerhall_35_weapon_lord35",
+      "stats": [
+        {
+          "name": "property_TroopDefense_gear",
+          "progression": "prog_gear_Event8_TroopDefense_35"
+        },
+        {
+          "name": "property_DragonTroopDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_DragonTroopDefenseVsPlayer_35"
+        },
+        {
+          "name": "property_DragonMaxMarchSize_gear",
+          "progression": "prog_gear_Event8_DragonMaxMarchSize_35"
+        },
+        {
+          "name": "property_DragonMarchingSpeed_gear",
+          "progression": "prog_gear_Event8_DragonMarchingSpeed_35"
+        },
+        {
+          "name": "property_DragonHealth_gear",
+          "progression": "prog_gear_Event8.5_DragonHealth_35"
+        },
+        {
+          "name": "property_DragonAttackVsDragon_gear",
+          "progression": "prog_gear_Event8_DragonAttackVsDragon_35"
+        },
+        {
+          "name": "property_TroopAttackVsSeatOfPower_gear",
+          "progression": "prog_gear_Event8_TroopAttackVsSeatOfPower_35"
+        }
+      ]
+    },
+    {
+      "id": "ea11d1475ce728cc",
+      "name": "eq_events_summerhall_40_boots_lord40",
+      "stats": [
+        {
+          "name": "property_TroopAttack_gear",
+          "progression": "prog_gear_Event8_TroopAttack_40"
+        },
+        {
+          "name": "property_DragonDefense_gear",
+          "progression": "prog_gear_Event8_DragonDefense_40"
+        },
+        {
+          "name": "property_DragonTroopDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_DragonTroopDefenseVsPlayer_40"
+        },
+        {
+          "name": "property_DragonTroopHealth_gear",
+          "progression": "prog_gear_Event8_DragonTroopHealth_40"
+        },
+        {
+          "name": "property_DragonAttackVsDragon_gear",
+          "progression": "prog_gear_Event8.5_DragonAttackVsDragon_40"
+        },
+        {
+          "name": "property_MarcherTroopDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarcherTroopDefenseVsPlayer_40"
+        },
+        {
+          "name": "property_DragonTroopHealthVsPlayer_gear",
+          "progression": "prog_gear_Event8_DragonTroopHealthVsPlayer_40"
+        },
+        {
+          "name": "property_DragonTroopAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_DragonTroopAttackVsPlayer_40"
+        }
+      ]
+    },
+    {
+      "id": "a55b54af0b63537c",
+      "name": "eq_events_summerhall_40_chest_lord40",
+      "stats": [
+        {
+          "name": "property_DragonTroopDefense_gear",
+          "progression": "prog_gear_Event8_DragonTroopDefense_40"
+        },
+        {
+          "name": "property_DragonTroopHealthVsSeatOfPower_gear",
+          "progression": "prog_gear_Event8_DragonTroopHealthVsSeatOfPower_40"
+        },
+        {
+          "name": "property_DragonTroopAttack_gear",
+          "progression": "prog_gear_Event8_DragonTroopAttack_40"
+        },
+        {
+          "name": "property_DragonDefense_gear",
+          "progression": "prog_gear_Event8_DragonDefense_40"
+        },
+        {
+          "name": "property_DragonMaxMarchSize_gear",
+          "progression": "prog_gear_Event8.5_DragonMaxMarchSize_40"
+        },
+        {
+          "name": "property_TroopAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_TroopAttackVsPlayer_40"
+        },
+        {
+          "name": "property_TroopAttack_gear",
+          "progression": "prog_gear_Event8_TroopAttack_40"
+        },
+        {
+          "name": "property_MarcherTroopAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarcherTroopAttackVsPlayer_40"
+        }
+      ]
+    },
+    {
+      "id": "c24509cdae4739e2",
+      "name": "eq_events_summerhall_40_helmet_lord40",
+      "stats": [
+        {
+          "name": "property_DragonTroopAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_DragonTroopAttackVsPlayer_40"
+        },
+        {
+          "name": "property_DragonMaxMarchSize_gear",
+          "progression": "prog_gear_Event8_DragonMaxMarchSize_40"
+        },
+        {
+          "name": "property_DragonTroopDefenseVsSeatOfPower_gear",
+          "progression": "prog_gear_Event8_DragonTroopDefenseVsSeatOfPower_40"
+        },
+        {
+          "name": "property_DragonAttackVsDragon_gear",
+          "progression": "prog_gear_Event8_DragonAttackVsDragon_40"
+        },
+        {
+          "name": "property_DragonDefense_gear",
+          "progression": "prog_gear_Event8.5_DragonDefense_40"
+        },
+        {
+          "name": "property_TroopDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_TroopDefenseVsPlayer_40"
+        },
+        {
+          "name": "property_TroopHealth_gear",
+          "progression": "prog_gear_Event8_TroopHealth_40"
+        },
+        {
+          "name": "property_TroopHealthVsSeatOfPower_gear",
+          "progression": "prog_gear_Event8_TroopHealthVsSeatOfPower_40"
+        }
+      ]
+    },
+    {
+      "id": "7d7c43b2ad15579d",
+      "name": "eq_events_summerhall_40_pants_lord40",
+      "stats": [
+        {
+          "name": "property_DragonTroopHealthVsPlayer_gear",
+          "progression": "prog_gear_Event8_DragonTroopHealthVsPlayer_40"
+        },
+        {
+          "name": "property_TroopDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_TroopDefenseVsPlayer_40"
+        },
+        {
+          "name": "property_TroopHealthVsPlayer_gear",
+          "progression": "prog_gear_Event8_TroopHealthVsPlayer_40"
+        },
+        {
+          "name": "property_DragonHealth_gear",
+          "progression": "prog_gear_Event8_DragonHealth_40"
+        },
+        {
+          "name": "property_TroopAttackVsSeatOfPower_gear",
+          "progression": "prog_gear_Event8.5_TroopAttackVsSeatOfPower_40"
+        },
+        {
+          "name": "property_DragonTroopAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_DragonTroopAttackVsPlayer_40"
+        },
+        {
+          "name": "property_TroopDefense_gear",
+          "progression": "prog_gear_Event8_TroopDefense_40"
+        },
+        {
+          "name": "property_DragonTroopDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_DragonTroopDefenseVsPlayer_40"
+        }
+      ]
+    },
+    {
+      "id": "fddbafd124c0b46a",
+      "name": "eq_events_summerhall_40_ring_lord40",
+      "stats": [
+        {
+          "name": "property_TroopHealthVsPlayer_gear",
+          "progression": "prog_gear_Event8_TroopHealthVsPlayer_40"
+        },
+        {
+          "name": "property_DragonHealth_gear",
+          "progression": "prog_gear_Event8_DragonHealth_40"
+        },
+        {
+          "name": "property_DragonTroopAttack_gear",
+          "progression": "prog_gear_Event8_DragonTroopAttack_40"
+        },
+        {
+          "name": "property_MarcherTroopHealthVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarcherTroopHealthVsPlayer_40"
+        },
+        {
+          "name": "property_DragonDefense_gear",
+          "progression": "prog_gear_Event8.5_DragonDefense_40"
+        },
+        {
+          "name": "property_DragonMaxMarchSize_gear",
+          "progression": "prog_gear_Event8_DragonMaxMarchSize_40"
+        },
+        {
+          "name": "property_DragonTroopDefense_gear",
+          "progression": "prog_gear_Event8_DragonTroopDefense_40"
+        },
+        {
+          "name": "property_TroopAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_TroopAttackVsPlayer_40"
+        }
+      ]
+    },
+    {
+      "id": "797d0f13a4f297c0",
+      "name": "eq_events_summerhall_40_weapon_lord40",
+      "stats": [
+        {
+          "name": "property_TroopDefense_gear",
+          "progression": "prog_gear_Event8_TroopDefense_40"
+        },
+        {
+          "name": "property_DragonTroopDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_DragonTroopDefenseVsPlayer_40"
+        },
+        {
+          "name": "property_DragonMaxMarchSize_gear",
+          "progression": "prog_gear_Event8_DragonMaxMarchSize_40"
+        },
+        {
+          "name": "property_DragonMarchingSpeed_gear",
+          "progression": "prog_gear_Event8_DragonMarchingSpeed_40"
+        },
+        {
+          "name": "property_DragonHealth_gear",
+          "progression": "prog_gear_Event8.5_DragonHealth_40"
+        },
+        {
+          "name": "property_DragonAttackVsDragon_gear",
+          "progression": "prog_gear_Event8_DragonAttackVsDragon_40"
+        },
+        {
+          "name": "property_TroopAttackVsSeatOfPower_gear",
+          "progression": "prog_gear_Event8_TroopAttackVsSeatOfPower_40"
+        },
+        {
+          "name": "property_DragonTroopHealth_gear",
+          "progression": "prog_gear_Event8_DragonTroopHealth_40"
+        }
+      ]
+    },
+    {
+      "id": "607ba995afb4cd3c",
+      "name": "eq_events_summerhall_45_boots_lord45",
+      "stats": [
+        {
+          "name": "property_TroopAttack_gear",
+          "progression": "prog_gear_Event8_TroopAttack_45"
+        },
+        {
+          "name": "property_DragonDefense_gear",
+          "progression": "prog_gear_Event8_DragonDefense_45"
+        },
+        {
+          "name": "property_DragonTroopDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_DragonTroopDefenseVsPlayer_45"
+        },
+        {
+          "name": "property_DragonTroopHealth_gear",
+          "progression": "prog_gear_Event8_DragonTroopHealth_45"
+        },
+        {
+          "name": "property_DragonAttackVsDragon_gear",
+          "progression": "prog_gear_Event8.5_DragonAttackVsDragon_45"
+        },
+        {
+          "name": "property_MarcherTroopDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarcherTroopDefenseVsPlayer_45"
+        },
+        {
+          "name": "property_DragonTroopHealthVsPlayer_gear",
+          "progression": "prog_gear_Event8_DragonTroopHealthVsPlayer_45"
+        },
+        {
+          "name": "property_DragonTroopAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_DragonTroopAttackVsPlayer_45"
+        }
+      ]
+    },
+    {
+      "id": "2f312c7df830b68c",
+      "name": "eq_events_summerhall_45_chest_lord45",
+      "stats": [
+        {
+          "name": "property_DragonTroopDefense_gear",
+          "progression": "prog_gear_Event8_DragonTroopDefense_45"
+        },
+        {
+          "name": "property_DragonTroopHealthVsSeatOfPower_gear",
+          "progression": "prog_gear_Event8_DragonTroopHealthVsSeatOfPower_45"
+        },
+        {
+          "name": "property_DragonTroopAttack_gear",
+          "progression": "prog_gear_Event8_DragonTroopAttack_45"
+        },
+        {
+          "name": "property_DragonDefense_gear",
+          "progression": "prog_gear_Event8_DragonDefense_45"
+        },
+        {
+          "name": "property_DragonMaxMarchSize_gear",
+          "progression": "prog_gear_Event8.5_DragonMaxMarchSize_45"
+        },
+        {
+          "name": "property_TroopAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_TroopAttackVsPlayer_45"
+        },
+        {
+          "name": "property_TroopAttack_gear",
+          "progression": "prog_gear_Event8_TroopAttack_45"
+        },
+        {
+          "name": "property_MarcherTroopAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarcherTroopAttackVsPlayer_45"
+        }
+      ]
+    },
+    {
+      "id": "f58f4e5549848f87",
+      "name": "eq_events_summerhall_45_helmet_lord45",
+      "stats": [
+        {
+          "name": "property_DragonTroopAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_DragonTroopAttackVsPlayer_45"
+        },
+        {
+          "name": "property_DragonMaxMarchSize_gear",
+          "progression": "prog_gear_Event8_DragonMaxMarchSize_45"
+        },
+        {
+          "name": "property_DragonTroopDefenseVsSeatOfPower_gear",
+          "progression": "prog_gear_Event8_DragonTroopDefenseVsSeatOfPower_45"
+        },
+        {
+          "name": "property_DragonAttackVsDragon_gear",
+          "progression": "prog_gear_Event8_DragonAttackVsDragon_45"
+        },
+        {
+          "name": "property_DragonDefense_gear",
+          "progression": "prog_gear_Event8.5_DragonDefense_45"
+        },
+        {
+          "name": "property_TroopDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_TroopDefenseVsPlayer_45"
+        },
+        {
+          "name": "property_TroopHealth_gear",
+          "progression": "prog_gear_Event8_TroopHealth_45"
+        },
+        {
+          "name": "property_TroopHealthVsSeatOfPower_gear",
+          "progression": "prog_gear_Event8_TroopHealthVsSeatOfPower_45"
+        }
+      ]
+    },
+    {
+      "id": "f7163b605e46b26d",
+      "name": "eq_events_summerhall_45_pants_lord45",
+      "stats": [
+        {
+          "name": "property_DragonTroopHealthVsPlayer_gear",
+          "progression": "prog_gear_Event8_DragonTroopHealthVsPlayer_45"
+        },
+        {
+          "name": "property_TroopDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_TroopDefenseVsPlayer_45"
+        },
+        {
+          "name": "property_TroopHealthVsPlayer_gear",
+          "progression": "prog_gear_Event8_TroopHealthVsPlayer_45"
+        },
+        {
+          "name": "property_DragonHealth_gear",
+          "progression": "prog_gear_Event8_DragonHealth_45"
+        },
+        {
+          "name": "property_TroopAttackVsSeatOfPower_gear",
+          "progression": "prog_gear_Event8.5_TroopAttackVsSeatOfPower_45"
+        },
+        {
+          "name": "property_DragonTroopAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_DragonTroopAttackVsPlayer_45"
+        },
+        {
+          "name": "property_TroopDefense_gear",
+          "progression": "prog_gear_Event8_TroopDefense_45"
+        },
+        {
+          "name": "property_DragonTroopDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_DragonTroopDefenseVsPlayer_45"
+        }
+      ]
+    },
+    {
+      "id": "82bcd2ff9d0c84bb",
+      "name": "eq_events_summerhall_45_ring_lord45",
+      "stats": [
+        {
+          "name": "property_TroopHealthVsPlayer_gear",
+          "progression": "prog_gear_Event8_TroopHealthVsPlayer_45"
+        },
+        {
+          "name": "property_DragonHealth_gear",
+          "progression": "prog_gear_Event8_DragonHealth_45"
+        },
+        {
+          "name": "property_DragonTroopAttack_gear",
+          "progression": "prog_gear_Event8_DragonTroopAttack_45"
+        },
+        {
+          "name": "property_MarcherTroopHealthVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarcherTroopHealthVsPlayer_45"
+        },
+        {
+          "name": "property_DragonDefense_gear",
+          "progression": "prog_gear_Event8.5_DragonDefense_45"
+        },
+        {
+          "name": "property_DragonMaxMarchSize_gear",
+          "progression": "prog_gear_Event8_DragonMaxMarchSize_45"
+        },
+        {
+          "name": "property_DragonTroopDefense_gear",
+          "progression": "prog_gear_Event8_DragonTroopDefense_45"
+        },
+        {
+          "name": "property_TroopAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_TroopAttackVsPlayer_45"
+        }
+      ]
+    },
+    {
+      "id": "4eb7488b433121a5",
+      "name": "eq_events_summerhall_45_weapon_lord45",
+      "stats": [
+        {
+          "name": "property_TroopDefense_gear",
+          "progression": "prog_gear_Event8_TroopDefense_45"
+        },
+        {
+          "name": "property_DragonTroopDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_DragonTroopDefenseVsPlayer_45"
+        },
+        {
+          "name": "property_DragonMaxMarchSize_gear",
+          "progression": "prog_gear_Event8_DragonMaxMarchSize_45"
+        },
+        {
+          "name": "property_DragonMarchingSpeed_gear",
+          "progression": "prog_gear_Event8_DragonMarchingSpeed_45"
+        },
+        {
+          "name": "property_DragonHealth_gear",
+          "progression": "prog_gear_Event8.5_DragonHealth_45"
+        },
+        {
+          "name": "property_DragonAttackVsDragon_gear",
+          "progression": "prog_gear_Event8_DragonAttackVsDragon_45"
+        },
+        {
+          "name": "property_TroopAttackVsSeatOfPower_gear",
+          "progression": "prog_gear_Event8_TroopAttackVsSeatOfPower_45"
+        },
+        {
+          "name": "property_DragonTroopHealth_gear",
+          "progression": "prog_gear_Event8_DragonTroopHealth_45"
+        }
+      ]
+    },
+    {
+      "id": "334fe317c3cfc1ca",
+      "name": "eq_events_summerhall_50_boots_lord50",
+      "stats": [
+        {
+          "name": "property_TroopAttack_gear",
+          "progression": "prog_gear_Event8_TroopAttack_50"
+        },
+        {
+          "name": "property_DragonDefense_gear",
+          "progression": "prog_gear_Event8_DragonDefense_50"
+        },
+        {
+          "name": "property_DragonTroopDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_DragonTroopDefenseVsPlayer_50"
+        },
+        {
+          "name": "property_DragonTroopHealth_gear",
+          "progression": "prog_gear_Event8_DragonTroopHealth_50"
+        },
+        {
+          "name": "property_DragonAttackVsDragon_gear",
+          "progression": "prog_gear_Event8.5_DragonAttackVsDragon_50"
+        },
+        {
+          "name": "property_MarcherTroopDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarcherTroopDefenseVsPlayer_50"
+        },
+        {
+          "name": "property_DragonTroopHealthVsPlayer_gear",
+          "progression": "prog_gear_Event8_DragonTroopHealthVsPlayer_50"
+        },
+        {
+          "name": "property_DragonTroopAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_DragonTroopAttackVsPlayer_50"
+        }
+      ]
+    },
+    {
+      "id": "7c0566ff944bba7a",
+      "name": "eq_events_summerhall_50_chest_lord50",
+      "stats": [
+        {
+          "name": "property_DragonTroopDefense_gear",
+          "progression": "prog_gear_Event8_DragonTroopDefense_50"
+        },
+        {
+          "name": "property_DragonTroopHealthVsSeatOfPower_gear",
+          "progression": "prog_gear_Event8_DragonTroopHealthVsSeatOfPower_50"
+        },
+        {
+          "name": "property_DragonTroopAttack_gear",
+          "progression": "prog_gear_Event8_DragonTroopAttack_50"
+        },
+        {
+          "name": "property_DragonDefense_gear",
+          "progression": "prog_gear_Event8_DragonDefense_50"
+        },
+        {
+          "name": "property_DragonMaxMarchSize_gear",
+          "progression": "prog_gear_Event8.5_DragonMaxMarchSize_50"
+        },
+        {
+          "name": "property_TroopAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_TroopAttackVsPlayer_50"
+        },
+        {
+          "name": "property_TroopAttack_gear",
+          "progression": "prog_gear_Event8_TroopAttack_50"
+        },
+        {
+          "name": "property_MarcherTroopAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarcherTroopAttackVsPlayer_50"
+        }
+      ]
+    },
+    {
+      "id": "e154e869e97b35f7",
+      "name": "eq_events_summerhall_50_helmet_lord50",
+      "stats": [
+        {
+          "name": "property_DragonTroopAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_DragonTroopAttackVsPlayer_50"
+        },
+        {
+          "name": "property_DragonMaxMarchSize_gear",
+          "progression": "prog_gear_Event8_DragonMaxMarchSize_50"
+        },
+        {
+          "name": "property_DragonTroopDefenseVsSeatOfPower_gear",
+          "progression": "prog_gear_Event8_DragonTroopDefenseVsSeatOfPower_50"
+        },
+        {
+          "name": "property_DragonAttackVsDragon_gear",
+          "progression": "prog_gear_Event8_DragonAttackVsDragon_50"
+        },
+        {
+          "name": "property_DragonDefense_gear",
+          "progression": "prog_gear_Event8.5_DragonDefense_50"
+        },
+        {
+          "name": "property_TroopDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_TroopDefenseVsPlayer_50"
+        },
+        {
+          "name": "property_TroopHealth_gear",
+          "progression": "prog_gear_Event8_TroopHealth_50"
+        },
+        {
+          "name": "property_TroopHealthVsSeatOfPower_gear",
+          "progression": "prog_gear_Event8_TroopHealthVsSeatOfPower_50"
+        }
+      ]
+    },
+    {
+      "id": "a42271e2323dbe9b",
+      "name": "eq_events_summerhall_50_pants_lord50",
+      "stats": [
+        {
+          "name": "property_DragonTroopHealthVsPlayer_gear",
+          "progression": "prog_gear_Event8_DragonTroopHealthVsPlayer_50"
+        },
+        {
+          "name": "property_TroopDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_TroopDefenseVsPlayer_50"
+        },
+        {
+          "name": "property_TroopHealthVsPlayer_gear",
+          "progression": "prog_gear_Event8_TroopHealthVsPlayer_50"
+        },
+        {
+          "name": "property_DragonHealth_gear",
+          "progression": "prog_gear_Event8_DragonHealth_50"
+        },
+        {
+          "name": "property_TroopAttackVsSeatOfPower_gear",
+          "progression": "prog_gear_Event8.5_TroopAttackVsSeatOfPower_50"
+        },
+        {
+          "name": "property_DragonTroopAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_DragonTroopAttackVsPlayer_50"
+        },
+        {
+          "name": "property_TroopDefense_gear",
+          "progression": "prog_gear_Event8_TroopDefense_50"
+        },
+        {
+          "name": "property_DragonTroopDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_DragonTroopDefenseVsPlayer_50"
+        }
+      ]
+    },
+    {
+      "id": "fcbe455e6f2b3453",
+      "name": "eq_events_summerhall_50_ring_lord50",
+      "stats": [
+        {
+          "name": "property_TroopHealthVsPlayer_gear",
+          "progression": "prog_gear_Event8_TroopHealthVsPlayer_50"
+        },
+        {
+          "name": "property_DragonHealth_gear",
+          "progression": "prog_gear_Event8_DragonHealth_50"
+        },
+        {
+          "name": "property_DragonTroopAttack_gear",
+          "progression": "prog_gear_Event8_DragonTroopAttack_50"
+        },
+        {
+          "name": "property_MarcherTroopHealthVsPlayer_gear",
+          "progression": "prog_gear_Event8_MarcherTroopHealthVsPlayer_50"
+        },
+        {
+          "name": "property_DragonDefense_gear",
+          "progression": "prog_gear_Event8.5_DragonDefense_50"
+        },
+        {
+          "name": "property_DragonMaxMarchSize_gear",
+          "progression": "prog_gear_Event8_DragonMaxMarchSize_50"
+        },
+        {
+          "name": "property_DragonTroopDefense_gear",
+          "progression": "prog_gear_Event8_DragonTroopDefense_50"
+        },
+        {
+          "name": "property_TroopAttackVsPlayer_gear",
+          "progression": "prog_gear_Event8_TroopAttackVsPlayer_50"
+        }
+      ]
+    },
+    {
+      "id": "5a6ceeb7e3ce9bd5",
+      "name": "eq_events_summerhall_50_weapon_lord50",
+      "stats": [
+        {
+          "name": "property_TroopDefense_gear",
+          "progression": "prog_gear_Event8_TroopDefense_50"
+        },
+        {
+          "name": "property_DragonTroopDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event8_DragonTroopDefenseVsPlayer_50"
+        },
+        {
+          "name": "property_DragonMaxMarchSize_gear",
+          "progression": "prog_gear_Event8_DragonMaxMarchSize_50"
+        },
+        {
+          "name": "property_DragonMarchingSpeed_gear",
+          "progression": "prog_gear_Event8_DragonMarchingSpeed_50"
+        },
+        {
+          "name": "property_DragonHealth_gear",
+          "progression": "prog_gear_Event8.5_DragonHealth_50"
+        },
+        {
+          "name": "property_DragonAttackVsDragon_gear",
+          "progression": "prog_gear_Event8_DragonAttackVsDragon_50"
+        },
+        {
+          "name": "property_TroopAttackVsSeatOfPower_gear",
+          "progression": "prog_gear_Event8_TroopAttackVsSeatOfPower_50"
+        },
+        {
+          "name": "property_DragonTroopHealth_gear",
+          "progression": "prog_gear_Event8_DragonTroopHealth_50"
+        }
+      ]
     }
   ]
 }

@@ -1200,6 +1200,36 @@
           "progression": "prog_armory_bonus_SpecificTroop_1"
         }
       ]
+    },
+    {
+      "id": "103687b0d04d956d",
+      "name": "armcol_events_summerhall_1",
+      "stats": [
+        {
+          "name": "property_DragonMarchingSpeed_armory",
+          "progression": "prog_armory_bonus_SpecificTroop_1"
+        }
+      ]
+    },
+    {
+      "id": "6524db5b09b86763",
+      "name": "armcol_events_summerhall_2",
+      "stats": [
+        {
+          "name": "property_DragonTroopHealthVsPlayer_armory",
+          "progression": "prog_armory_bonus_GeneralTroop_1"
+        }
+      ]
+    },
+    {
+      "id": "49d510fdbeeb3699",
+      "name": "armcol_events_summerhall_3",
+      "stats": [
+        {
+          "name": "property_DragonHealth_armory",
+          "progression": "prog_armory_bonus_SpecificTroop_1"
+        }
+      ]
     }
   ]
 }

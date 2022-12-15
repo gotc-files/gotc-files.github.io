@@ -21600,6 +21600,546 @@
       "name_placeholder": "EQ_EVENTS_CONQUEST5_50_WEAPON_LORD50_NAME",
       "priority": 302400,
       "slot_name": "slot_Weapon"
+    },
+    {
+      "id": "509b3d27b84f5c9f",
+      "image": "icon_eq_events_summerhall_boots_1.png",
+      "level": 5,
+      "name": "eq_events_summerhall_5_boots_lord5",
+      "name_placeholder": "EQ_EVENTS_SUMMERHALL_5_BOOTS_LORD5_NAME",
+      "priority": 302401,
+      "slot_name": "slot_Boots"
+    },
+    {
+      "id": "40316a7f97e84208",
+      "image": "icon_eq_events_summerhall_chest_1.png",
+      "level": 5,
+      "name": "eq_events_summerhall_5_chest_lord5",
+      "name_placeholder": "EQ_EVENTS_SUMMERHALL_5_CHEST_LORD5_NAME",
+      "priority": 302402,
+      "slot_name": "slot_Chest"
+    },
+    {
+      "id": "add72b985a1d204d",
+      "image": "icon_eq_events_summerhall_helmet_1.png",
+      "level": 5,
+      "name": "eq_events_summerhall_5_helmet_lord5",
+      "name_placeholder": "EQ_EVENTS_SUMMERHALL_5_HELMET_LORD5_NAME",
+      "priority": 302403,
+      "slot_name": "slot_Helmet"
+    },
+    {
+      "id": "9319285ce5108b13",
+      "image": "icon_eq_events_summerhall_pants_1.png",
+      "level": 5,
+      "name": "eq_events_summerhall_5_pants_lord5",
+      "name_placeholder": "EQ_EVENTS_SUMMERHALL_5_PANTS_LORD5_NAME",
+      "priority": 302404,
+      "slot_name": "slot_Pants"
+    },
+    {
+      "id": "ba45a5fc856ff349",
+      "image": "icon_eq_events_summerhall_ring_1.png",
+      "level": 5,
+      "name": "eq_events_summerhall_5_ring_lord5",
+      "name_placeholder": "EQ_EVENTS_SUMMERHALL_5_RING_LORD5_NAME",
+      "priority": 302405,
+      "slot_name": "slot_Ring"
+    },
+    {
+      "id": "ca0ab3af13c27ec0",
+      "image": "icon_eq_events_summerhall_weapon_1.png",
+      "level": 5,
+      "name": "eq_events_summerhall_5_weapon_lord5",
+      "name_placeholder": "EQ_EVENTS_SUMMERHALL_5_WEAPON_LORD5_NAME",
+      "priority": 302406,
+      "slot_name": "slot_Weapon"
+    },
+    {
+      "id": "5343aebf2c32fb84",
+      "image": "icon_eq_events_summerhall_boots_1.png",
+      "level": 10,
+      "name": "eq_events_summerhall_10_boots_lord10",
+      "name_placeholder": "EQ_EVENTS_SUMMERHALL_10_BOOTS_LORD10_NAME",
+      "priority": 302407,
+      "slot_name": "slot_Boots"
+    },
+    {
+      "id": "1c092b577bb68034",
+      "image": "icon_eq_events_summerhall_chest_1.png",
+      "level": 10,
+      "name": "eq_events_summerhall_10_chest_lord10",
+      "name_placeholder": "EQ_EVENTS_SUMMERHALL_10_CHEST_LORD10_NAME",
+      "priority": 302408,
+      "slot_name": "slot_Chest"
+    },
+    {
+      "id": "6d136ef8f58b05a3",
+      "image": "icon_eq_events_summerhall_helmet_1.png",
+      "level": 10,
+      "name": "eq_events_summerhall_10_helmet_lord10",
+      "name_placeholder": "EQ_EVENTS_SUMMERHALL_10_HELMET_LORD10_NAME",
+      "priority": 302409,
+      "slot_name": "slot_Helmet"
+    },
+    {
+      "id": "c42e3c4addc084d5",
+      "image": "icon_eq_events_summerhall_pants_1.png",
+      "level": 10,
+      "name": "eq_events_summerhall_10_pants_lord10",
+      "name_placeholder": "EQ_EVENTS_SUMMERHALL_10_PANTS_LORD10_NAME",
+      "priority": 302410,
+      "slot_name": "slot_Pants"
+    },
+    {
+      "id": "f929ef63408534b7",
+      "image": "icon_eq_events_summerhall_ring_1.png",
+      "level": 10,
+      "name": "eq_events_summerhall_10_ring_lord10",
+      "name_placeholder": "EQ_EVENTS_SUMMERHALL_10_RING_LORD10_NAME",
+      "priority": 302411,
+      "slot_name": "slot_Ring"
+    },
+    {
+      "id": "d62b6826ff3eab81",
+      "image": "icon_eq_events_summerhall_weapon_1.png",
+      "level": 10,
+      "name": "eq_events_summerhall_10_weapon_lord10",
+      "name_placeholder": "EQ_EVENTS_SUMMERHALL_10_WEAPON_LORD10_NAME",
+      "priority": 302412,
+      "slot_name": "slot_Weapon"
+    },
+    {
+      "id": "d929d66ddf611e74",
+      "image": "icon_eq_events_summerhall_boots_1.png",
+      "level": 15,
+      "name": "eq_events_summerhall_15_boots_lord15",
+      "name_placeholder": "EQ_EVENTS_SUMMERHALL_15_BOOTS_LORD15_NAME",
+      "priority": 302413,
+      "slot_name": "slot_Boots"
+    },
+    {
+      "id": "9663538588e565c4",
+      "image": "icon_eq_events_summerhall_chest_1.png",
+      "level": 15,
+      "name": "eq_events_summerhall_15_chest_lord15",
+      "name_placeholder": "EQ_EVENTS_SUMMERHALL_15_CHEST_LORD15_NAME",
+      "priority": 302414,
+      "slot_name": "slot_Chest"
+    },
+    {
+      "id": "5ad929601248b3c6",
+      "image": "icon_eq_events_summerhall_helmet_1.png",
+      "level": 15,
+      "name": "eq_events_summerhall_15_helmet_lord15",
+      "name_placeholder": "EQ_EVENTS_SUMMERHALL_15_HELMET_LORD15_NAME",
+      "priority": 302415,
+      "slot_name": "slot_Helmet"
+    },
+    {
+      "id": "4e4444982e936125",
+      "image": "icon_eq_events_summerhall_pants_1.png",
+      "level": 15,
+      "name": "eq_events_summerhall_15_pants_lord15",
+      "name_placeholder": "EQ_EVENTS_SUMMERHALL_15_PANTS_LORD15_NAME",
+      "priority": 302416,
+      "slot_name": "slot_Pants"
+    },
+    {
+      "id": "864e924df9490466",
+      "image": "icon_eq_events_summerhall_ring_1.png",
+      "level": 15,
+      "name": "eq_events_summerhall_15_ring_lord15",
+      "name_placeholder": "EQ_EVENTS_SUMMERHALL_15_RING_LORD15_NAME",
+      "priority": 302417,
+      "slot_name": "slot_Ring"
+    },
+    {
+      "id": "e1e12fbe18fd1de4",
+      "image": "icon_eq_events_summerhall_weapon_1.png",
+      "level": 15,
+      "name": "eq_events_summerhall_15_weapon_lord15",
+      "name_placeholder": "EQ_EVENTS_SUMMERHALL_15_WEAPON_LORD15_NAME",
+      "priority": 302418,
+      "slot_name": "slot_Weapon"
+    },
+    {
+      "id": "ba1bba3bc4e48fa5",
+      "image": "icon_eq_events_summerhall_boots_1.png",
+      "level": 20,
+      "name": "eq_events_summerhall_20_boots_lord20",
+      "name_placeholder": "EQ_EVENTS_SUMMERHALL_20_BOOTS_LORD20_NAME",
+      "priority": 302419,
+      "slot_name": "slot_Boots"
+    },
+    {
+      "id": "f5513fd39360f415",
+      "image": "icon_eq_events_summerhall_chest_1.png",
+      "level": 20,
+      "name": "eq_events_summerhall_20_chest_lord20",
+      "name_placeholder": "EQ_EVENTS_SUMMERHALL_20_CHEST_LORD20_NAME",
+      "priority": 302420,
+      "slot_name": "slot_Chest"
+    },
+    {
+      "id": "8214c143ccf119c",
+      "image": "icon_eq_events_summerhall_helmet_1.png",
+      "level": 20,
+      "name": "eq_events_summerhall_20_helmet_lord20",
+      "name_placeholder": "EQ_EVENTS_SUMMERHALL_20_HELMET_LORD20_NAME",
+      "priority": 302421,
+      "slot_name": "slot_Helmet"
+    },
+    {
+      "id": "2d7628ce3516f0f4",
+      "image": "icon_eq_events_summerhall_pants_1.png",
+      "level": 20,
+      "name": "eq_events_summerhall_20_pants_lord20",
+      "name_placeholder": "EQ_EVENTS_SUMMERHALL_20_PANTS_LORD20_NAME",
+      "priority": 302422,
+      "slot_name": "slot_Pants"
+    },
+    {
+      "id": "fa87d0f29cb9b4fc",
+      "image": "icon_eq_events_summerhall_ring_1.png",
+      "level": 20,
+      "name": "eq_events_summerhall_20_ring_lord20",
+      "name_placeholder": "EQ_EVENTS_SUMMERHALL_20_RING_LORD20_NAME",
+      "priority": 302423,
+      "slot_name": "slot_Ring"
+    },
+    {
+      "id": "b3194aca367abfbe",
+      "image": "icon_eq_events_summerhall_weapon_1.png",
+      "level": 20,
+      "name": "eq_events_summerhall_20_weapon_lord20",
+      "name_placeholder": "EQ_EVENTS_SUMMERHALL_20_WEAPON_LORD20_NAME",
+      "priority": 302424,
+      "slot_name": "slot_Weapon"
+    },
+    {
+      "id": "3071c2e937b76a55",
+      "image": "icon_eq_events_summerhall_boots_1.png",
+      "level": 25,
+      "name": "eq_events_summerhall_25_boots_lord25",
+      "name_placeholder": "EQ_EVENTS_SUMMERHALL_25_BOOTS_LORD25_NAME",
+      "priority": 302425,
+      "slot_name": "slot_Boots"
+    },
+    {
+      "id": "7f3b4701603311e5",
+      "image": "icon_eq_events_summerhall_chest_1.png",
+      "level": 25,
+      "name": "eq_events_summerhall_25_chest_lord25",
+      "name_placeholder": "EQ_EVENTS_SUMMERHALL_25_CHEST_LORD25_NAME",
+      "priority": 302426,
+      "slot_name": "slot_Chest"
+    },
+    {
+      "id": "3feb0b8cdb0ca7f9",
+      "image": "icon_eq_events_summerhall_helmet_1.png",
+      "level": 25,
+      "name": "eq_events_summerhall_25_helmet_lord25",
+      "name_placeholder": "EQ_EVENTS_SUMMERHALL_25_HELMET_LORD25_NAME",
+      "priority": 302427,
+      "slot_name": "slot_Helmet"
+    },
+    {
+      "id": "a71c501cc6451504",
+      "image": "icon_eq_events_summerhall_pants_1.png",
+      "level": 25,
+      "name": "eq_events_summerhall_25_pants_lord25",
+      "name_placeholder": "EQ_EVENTS_SUMMERHALL_25_PANTS_LORD25_NAME",
+      "priority": 302428,
+      "slot_name": "slot_Pants"
+    },
+    {
+      "id": "85e0addc2575842d",
+      "image": "icon_eq_events_summerhall_ring_1.png",
+      "level": 25,
+      "name": "eq_events_summerhall_25_ring_lord25",
+      "name_placeholder": "EQ_EVENTS_SUMMERHALL_25_RING_LORD25_NAME",
+      "priority": 302429,
+      "slot_name": "slot_Ring"
+    },
+    {
+      "id": "84d30d52d1b909db",
+      "image": "icon_eq_events_summerhall_weapon_1.png",
+      "level": 25,
+      "name": "eq_events_summerhall_25_weapon_lord25",
+      "name_placeholder": "EQ_EVENTS_SUMMERHALL_25_WEAPON_LORD25_NAME",
+      "priority": 302430,
+      "slot_name": "slot_Weapon"
+    },
+    {
+      "id": "6345886b5bcc66a3",
+      "image": "icon_eq_events_summerhall_boots_1.png",
+      "level": 30,
+      "name": "eq_events_summerhall_30_boots_lord30",
+      "name_placeholder": "EQ_EVENTS_SUMMERHALL_30_BOOTS_LORD30_NAME",
+      "priority": 302431,
+      "slot_name": "slot_Boots"
+    },
+    {
+      "id": "2c0f0d830c481d13",
+      "image": "icon_eq_events_summerhall_chest_1.png",
+      "level": 30,
+      "name": "eq_events_summerhall_30_chest_lord30",
+      "name_placeholder": "EQ_EVENTS_SUMMERHALL_30_CHEST_LORD30_NAME",
+      "priority": 302432,
+      "slot_name": "slot_Chest"
+    },
+    {
+      "id": "2b30adb07bf31d89",
+      "image": "icon_eq_events_summerhall_helmet_1.png",
+      "level": 30,
+      "name": "eq_events_summerhall_30_helmet_lord30",
+      "name_placeholder": "EQ_EVENTS_SUMMERHALL_30_HELMET_LORD30_NAME",
+      "priority": 302433,
+      "slot_name": "slot_Helmet"
+    },
+    {
+      "id": "f4281a9eaa3e19f2",
+      "image": "icon_eq_events_summerhall_pants_1.png",
+      "level": 30,
+      "name": "eq_events_summerhall_30_pants_lord30",
+      "name_placeholder": "EQ_EVENTS_SUMMERHALL_30_PANTS_LORD30_NAME",
+      "priority": 302434,
+      "slot_name": "slot_Pants"
+    },
+    {
+      "id": "fbe23a7dd75234c5",
+      "image": "icon_eq_events_summerhall_ring_1.png",
+      "level": 30,
+      "name": "eq_events_summerhall_30_ring_lord30",
+      "name_placeholder": "EQ_EVENTS_SUMMERHALL_30_RING_LORD30_NAME",
+      "priority": 302435,
+      "slot_name": "slot_Ring"
+    },
+    {
+      "id": "9008ab6e7146b3ab",
+      "image": "icon_eq_events_summerhall_weapon_1.png",
+      "level": 30,
+      "name": "eq_events_summerhall_30_weapon_lord30",
+      "name_placeholder": "EQ_EVENTS_SUMMERHALL_30_WEAPON_LORD30_NAME",
+      "priority": 302436,
+      "slot_name": "slot_Weapon"
+    },
+    {
+      "id": "e92ff0b9a89f8353",
+      "image": "icon_eq_events_summerhall_boots_1.png",
+      "level": 35,
+      "name": "eq_events_summerhall_35_boots_lord35",
+      "name_placeholder": "EQ_EVENTS_SUMMERHALL_35_BOOTS_LORD35_NAME",
+      "priority": 302437,
+      "slot_name": "slot_Boots"
+    },
+    {
+      "id": "a6657551ff1bf8e3",
+      "image": "icon_eq_events_summerhall_chest_1.png",
+      "level": 35,
+      "name": "eq_events_summerhall_35_chest_lord35",
+      "name_placeholder": "EQ_EVENTS_SUMMERHALL_35_CHEST_LORD35_NAME",
+      "priority": 302438,
+      "slot_name": "slot_Chest"
+    },
+    {
+      "id": "1cfaea289c30abec",
+      "image": "icon_eq_events_summerhall_helmet_1.png",
+      "level": 35,
+      "name": "eq_events_summerhall_35_helmet_lord35",
+      "name_placeholder": "EQ_EVENTS_SUMMERHALL_35_HELMET_LORD35_NAME",
+      "priority": 302439,
+      "slot_name": "slot_Helmet"
+    },
+    {
+      "id": "7e42624c596dfc02",
+      "image": "icon_eq_events_summerhall_pants_1.png",
+      "level": 35,
+      "name": "eq_events_summerhall_35_pants_lord35",
+      "name_placeholder": "EQ_EVENTS_SUMMERHALL_35_PANTS_LORD35_NAME",
+      "priority": 302440,
+      "slot_name": "slot_Pants"
+    },
+    {
+      "id": "848547536e9e0414",
+      "image": "icon_eq_events_summerhall_ring_1.png",
+      "level": 35,
+      "name": "eq_events_summerhall_35_ring_lord35",
+      "name_placeholder": "EQ_EVENTS_SUMMERHALL_35_RING_LORD35_NAME",
+      "priority": 302441,
+      "slot_name": "slot_Ring"
+    },
+    {
+      "id": "a7c2ecf6968505ce",
+      "image": "icon_eq_events_summerhall_weapon_1.png",
+      "level": 35,
+      "name": "eq_events_summerhall_35_weapon_lord35",
+      "name_placeholder": "EQ_EVENTS_SUMMERHALL_35_WEAPON_LORD35_NAME",
+      "priority": 302442,
+      "slot_name": "slot_Weapon"
+    },
+    {
+      "id": "ea11d1475ce728cc",
+      "image": "icon_eq_events_summerhall_boots_1.png",
+      "level": 40,
+      "name": "eq_events_summerhall_40_boots_lord40",
+      "name_placeholder": "EQ_EVENTS_SUMMERHALL_40_BOOTS_LORD40_NAME",
+      "priority": 302443,
+      "slot_name": "slot_Boots"
+    },
+    {
+      "id": "a55b54af0b63537c",
+      "image": "icon_eq_events_summerhall_chest_1.png",
+      "level": 40,
+      "name": "eq_events_summerhall_40_chest_lord40",
+      "name_placeholder": "EQ_EVENTS_SUMMERHALL_40_CHEST_LORD40_NAME",
+      "priority": 302444,
+      "slot_name": "slot_Chest"
+    },
+    {
+      "id": "c24509cdae4739e2",
+      "image": "icon_eq_events_summerhall_helmet_1.png",
+      "level": 40,
+      "name": "eq_events_summerhall_40_helmet_lord40",
+      "name_placeholder": "EQ_EVENTS_SUMMERHALL_40_HELMET_LORD40_NAME",
+      "priority": 302445,
+      "slot_name": "slot_Helmet"
+    },
+    {
+      "id": "7d7c43b2ad15579d",
+      "image": "icon_eq_events_summerhall_pants_1.png",
+      "level": 40,
+      "name": "eq_events_summerhall_40_pants_lord40",
+      "name_placeholder": "EQ_EVENTS_SUMMERHALL_40_PANTS_LORD40_NAME",
+      "priority": 302446,
+      "slot_name": "slot_Pants"
+    },
+    {
+      "id": "fddbafd124c0b46a",
+      "image": "icon_eq_events_summerhall_ring_1.png",
+      "level": 40,
+      "name": "eq_events_summerhall_40_ring_lord40",
+      "name_placeholder": "EQ_EVENTS_SUMMERHALL_40_RING_LORD40_NAME",
+      "priority": 302447,
+      "slot_name": "slot_Ring"
+    },
+    {
+      "id": "797d0f13a4f297c0",
+      "image": "icon_eq_events_summerhall_weapon_1.png",
+      "level": 40,
+      "name": "eq_events_summerhall_40_weapon_lord40",
+      "name_placeholder": "EQ_EVENTS_SUMMERHALL_40_WEAPON_LORD40_NAME",
+      "priority": 302448,
+      "slot_name": "slot_Weapon"
+    },
+    {
+      "id": "607ba995afb4cd3c",
+      "image": "icon_eq_events_summerhall_boots_1.png",
+      "level": 45,
+      "name": "eq_events_summerhall_45_boots_lord45",
+      "name_placeholder": "EQ_EVENTS_SUMMERHALL_45_BOOTS_LORD45_NAME",
+      "priority": 302449,
+      "slot_name": "slot_Boots"
+    },
+    {
+      "id": "2f312c7df830b68c",
+      "image": "icon_eq_events_summerhall_chest_1.png",
+      "level": 45,
+      "name": "eq_events_summerhall_45_chest_lord45",
+      "name_placeholder": "EQ_EVENTS_SUMMERHALL_45_CHEST_LORD45_NAME",
+      "priority": 302450,
+      "slot_name": "slot_Chest"
+    },
+    {
+      "id": "f58f4e5549848f87",
+      "image": "icon_eq_events_summerhall_helmet_1.png",
+      "level": 45,
+      "name": "eq_events_summerhall_45_helmet_lord45",
+      "name_placeholder": "EQ_EVENTS_SUMMERHALL_45_HELMET_LORD45_NAME",
+      "priority": 302451,
+      "slot_name": "slot_Helmet"
+    },
+    {
+      "id": "f7163b605e46b26d",
+      "image": "icon_eq_events_summerhall_pants_1.png",
+      "level": 45,
+      "name": "eq_events_summerhall_45_pants_lord45",
+      "name_placeholder": "EQ_EVENTS_SUMMERHALL_45_PANTS_LORD45_NAME",
+      "priority": 302452,
+      "slot_name": "slot_Pants"
+    },
+    {
+      "id": "82bcd2ff9d0c84bb",
+      "image": "icon_eq_events_summerhall_ring_1.png",
+      "level": 45,
+      "name": "eq_events_summerhall_45_ring_lord45",
+      "name_placeholder": "EQ_EVENTS_SUMMERHALL_45_RING_LORD45_NAME",
+      "priority": 302453,
+      "slot_name": "slot_Ring"
+    },
+    {
+      "id": "4eb7488b433121a5",
+      "image": "icon_eq_events_summerhall_weapon_1.png",
+      "level": 45,
+      "name": "eq_events_summerhall_45_weapon_lord45",
+      "name_placeholder": "EQ_EVENTS_SUMMERHALL_45_WEAPON_LORD45_NAME",
+      "priority": 302454,
+      "slot_name": "slot_Weapon"
+    },
+    {
+      "id": "334fe317c3cfc1ca",
+      "image": "icon_eq_events_summerhall_boots_1.png",
+      "level": 50,
+      "name": "eq_events_summerhall_50_boots_lord50",
+      "name_placeholder": "EQ_EVENTS_SUMMERHALL_50_BOOTS_LORD50_NAME",
+      "priority": 302455,
+      "slot_name": "slot_Boots"
+    },
+    {
+      "id": "7c0566ff944bba7a",
+      "image": "icon_eq_events_summerhall_chest_1.png",
+      "level": 50,
+      "name": "eq_events_summerhall_50_chest_lord50",
+      "name_placeholder": "EQ_EVENTS_SUMMERHALL_50_CHEST_LORD50_NAME",
+      "priority": 302456,
+      "slot_name": "slot_Chest"
+    },
+    {
+      "id": "e154e869e97b35f7",
+      "image": "icon_eq_events_summerhall_helmet_1.png",
+      "level": 50,
+      "name": "eq_events_summerhall_50_helmet_lord50",
+      "name_placeholder": "EQ_EVENTS_SUMMERHALL_50_HELMET_LORD50_NAME",
+      "priority": 302457,
+      "slot_name": "slot_Helmet"
+    },
+    {
+      "id": "a42271e2323dbe9b",
+      "image": "icon_eq_events_summerhall_pants_1.png",
+      "level": 50,
+      "name": "eq_events_summerhall_50_pants_lord50",
+      "name_placeholder": "EQ_EVENTS_SUMMERHALL_50_PANTS_LORD50_NAME",
+      "priority": 302458,
+      "slot_name": "slot_Pants"
+    },
+    {
+      "id": "fcbe455e6f2b3453",
+      "image": "icon_eq_events_summerhall_ring_1.png",
+      "level": 50,
+      "name": "eq_events_summerhall_50_ring_lord50",
+      "name_placeholder": "EQ_EVENTS_SUMMERHALL_50_RING_LORD50_NAME",
+      "priority": 302459,
+      "slot_name": "slot_Ring"
+    },
+    {
+      "id": "5a6ceeb7e3ce9bd5",
+      "image": "icon_eq_events_summerhall_weapon_1.png",
+      "level": 50,
+      "name": "eq_events_summerhall_50_weapon_lord50",
+      "name_placeholder": "EQ_EVENTS_SUMMERHALL_50_WEAPON_LORD50_NAME",
+      "priority": 302460,
+      "slot_name": "slot_Weapon"
     }
   ]
 }
