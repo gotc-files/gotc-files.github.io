@@ -35,58 +35,47 @@
       ]
     },
     {
-      "id": "7a7d3b9cb43402b6",
-      "name": "prog_dragonresearch_dragoncare_dragon_attack_1_item_buildreq_dragon_research_3",
+      "id": "b84dc6eb711fdcb3",
+      "name": "prog_dragonresearch_dragoncare_dragon_attack_1_curr_food",
       "values": [
-        3600,
-        3670,
-        3750,
-        3820,
-        3890
+        6590000,
+        6730000,
+        6880000,
+        7020000,
+        7170000
       ]
     },
     {
-      "id": "568cf03a0367534c",
-      "name": "prog_dragonresearch_dragoncare_dragon_attack_1_item_buildreq_dragon_research_2",
+      "id": "50fb5a23838a5e76",
+      "name": "prog_dragonresearch_dragoncare_dragon_attack_1_curr_wood",
       "values": [
-        5400,
-        5510,
-        5620,
-        5730,
-        5840
+        6590000,
+        6730000,
+        6880000,
+        7020000,
+        7170000
       ]
     },
     {
-      "id": "239eacd1da92a142",
-      "name": "prog_dragonresearch_dragoncare_dragon_attack_1_item_buildreq_dragon_research_1",
+      "id": "71e5395d2188d41f",
+      "name": "prog_dragonresearch_dragoncare_dragon_attack_1_curr_stone",
       "values": [
-        11200,
-        11400,
-        11700,
-        11900,
-        12100
+        1090000,
+        1120000,
+        1140000,
+        1160000,
+        1190000
       ]
     },
     {
-      "id": "a5bbafed7cef3b58",
-      "name": "prog_dragonresearch_dragoncare_dragon_attack_1_item_buildreq_red_gold_1",
+      "id": "925157b6746beeb3",
+      "name": "prog_dragonresearch_dragoncare_dragon_attack_1_curr_iron",
       "values": [
-        72,
-        73,
-        75,
-        76,
-        77
-      ]
-    },
-    {
-      "id": "67185c01bdcbf108",
-      "name": "prog_dragonresearch_dragoncare_dragon_attack_1_item_buildreq_pale_steel_1",
-      "values": [
-        180,
-        183,
-        187,
-        191,
-        194
+        303000,
+        310000,
+        317000,
+        324000,
+        331000
       ]
     },
     {
@@ -101,14 +90,25 @@
       ]
     },
     {
-      "id": "925157b6746beeb3",
-      "name": "prog_dragonresearch_dragoncare_dragon_attack_1_curr_iron",
+      "id": "67185c01bdcbf108",
+      "name": "prog_dragonresearch_dragoncare_dragon_attack_1_item_buildreq_pale_steel_1",
       "values": [
-        303000,
-        310000,
-        317000,
-        324000,
-        331000
+        180,
+        183,
+        187,
+        191,
+        194
+      ]
+    },
+    {
+      "id": "a5bbafed7cef3b58",
+      "name": "prog_dragonresearch_dragoncare_dragon_attack_1_item_buildreq_red_gold_1",
+      "values": [
+        72,
+        73,
+        75,
+        76,
+        77
       ]
     },
     {
@@ -145,25 +145,14 @@
       ]
     },
     {
-      "id": "699c9f3eb833d45b",
-      "name": "prog_dragonresearch_dragoncare_dragon_rangedattackvsplayer_1_curr_iron",
+      "id": "aa2f7dc25138c82",
+      "name": "prog_dragonresearch_dragoncare_dragon_rangedattackvsplayer_1_item_buildreq_red_gold_1",
       "values": [
-        561000,
-        654000,
-        757000,
-        897000,
-        1060000
-      ]
-    },
-    {
-      "id": "be590741214b2dc6",
-      "name": "prog_dragonresearch_dragoncare_dragon_rangedattackvsplayer_1_item_buildreq_scholarly_fragment_1",
-      "values": [
-        1540,
-        1770,
-        2010,
-        2330,
-        2720
+        133,
+        153,
+        178,
+        207,
+        243
       ]
     },
     {
@@ -178,47 +167,58 @@
       ]
     },
     {
-      "id": "aa2f7dc25138c82",
-      "name": "prog_dragonresearch_dragoncare_dragon_rangedattackvsplayer_1_item_buildreq_red_gold_1",
+      "id": "be590741214b2dc6",
+      "name": "prog_dragonresearch_dragoncare_dragon_rangedattackvsplayer_1_item_buildreq_scholarly_fragment_1",
       "values": [
-        133,
-        153,
-        178,
-        207,
-        243
+        1540,
+        1770,
+        2010,
+        2330,
+        2720
       ]
     },
     {
-      "id": "acc25b069c3faf7d",
-      "name": "prog_dragonresearch_dragoncare_dragon_rangedattackvsplayer_1_item_buildreq_dragon_research_1",
+      "id": "699c9f3eb833d45b",
+      "name": "prog_dragonresearch_dragoncare_dragon_rangedattackvsplayer_1_curr_iron",
       "values": [
-        25000,
-        29500,
-        35000,
-        41700,
-        49800
+        561000,
+        654000,
+        757000,
+        897000,
+        1060000
       ]
     },
     {
-      "id": "d9d007ed45ca5d73",
-      "name": "prog_dragonresearch_dragoncare_dragon_rangedattackvsplayer_1_item_buildreq_dragon_research_2",
+      "id": "652082a1579302ae",
+      "name": "prog_dragonresearch_dragoncare_dragon_rangedattackvsplayer_1_curr_stone",
       "values": [
-        9650,
-        11000,
-        12700,
-        14800,
-        17200
+        1970000,
+        2280000,
+        2620000,
+        3090000,
+        3650000
       ]
     },
     {
-      "id": "f521cc4bf2990c89",
-      "name": "prog_dragonresearch_dragoncare_dragon_rangedattackvsplayer_1_item_buildreq_dragon_research_3",
+      "id": "ab3692ab4fd2649e",
+      "name": "prog_dragonresearch_dragoncare_dragon_rangedattackvsplayer_1_curr_wood",
       "values": [
-        37900,
-        49200,
-        63200,
-        80100,
-        100000
+        10000000,
+        11200000,
+        12700000,
+        14400000,
+        16500000
+      ]
+    },
+    {
+      "id": "43800e63bd47e65b",
+      "name": "prog_dragonresearch_dragoncare_dragon_rangedattackvsplayer_1_curr_food",
+      "values": [
+        10000000,
+        11200000,
+        12700000,
+        14400000,
+        16500000
       ]
     },
     {
@@ -255,58 +255,47 @@
       ]
     },
     {
-      "id": "f73fb7460866a37b",
-      "name": "prog_dragonresearch_dragoncare_dragon_marcherrangedattackvsplayer_1_item_buildreq_dragon_research_3",
+      "id": "e07f47a78fe7783f",
+      "name": "prog_dragonresearch_dragoncare_dragon_marcherrangedattackvsplayer_1_curr_food",
       "values": [
-        32700,
-        42400,
-        54400,
-        69000,
-        86900
+        8590000,
+        9580000,
+        10800000,
+        12200000,
+        14000000
       ]
     },
     {
-      "id": "dbce7ce0bf35f281",
-      "name": "prog_dragonresearch_dragoncare_dragon_marcherrangedattackvsplayer_1_item_buildreq_dragon_research_2",
+      "id": "8c9db6f7d72fafa",
+      "name": "prog_dragonresearch_dragoncare_dragon_marcherrangedattackvsplayer_1_curr_wood",
       "values": [
-        8320,
-        9510,
-        10900,
-        12700,
-        14800
+        8590000,
+        9580000,
+        10800000,
+        12200000,
+        14000000
       ]
     },
     {
-      "id": "aedc200b66c0008f",
-      "name": "prog_dragonresearch_dragoncare_dragon_marcherrangedattackvsplayer_1_item_buildreq_dragon_research_1",
+      "id": "e6131b3ce7d90c3d",
+      "name": "prog_dragonresearch_dragoncare_dragon_marcherrangedattackvsplayer_1_curr_stone",
       "values": [
-        21500,
-        25400,
-        30200,
-        35900,
-        42900
+        1670000,
+        1940000,
+        2230000,
+        2620000,
+        3100000
       ]
     },
     {
-      "id": "c2cd1036ba12219b",
-      "name": "prog_dragonresearch_dragoncare_dragon_marcherrangedattackvsplayer_1_item_buildreq_red_gold_1",
+      "id": "ca63d6fa8a934a3f",
+      "name": "prog_dragonresearch_dragoncare_dragon_marcherrangedattackvsplayer_1_curr_iron",
       "values": [
-        114,
-        132,
-        153,
-        179,
-        209
-      ]
-    },
-    {
-      "id": "4061cd45c9ea9024",
-      "name": "prog_dragonresearch_dragoncare_dragon_marcherrangedattackvsplayer_1_item_buildreq_pale_steel_1",
-      "values": [
-        303,
-        356,
-        415,
-        486,
-        578
+        473000,
+        552000,
+        639000,
+        757000,
+        902000
       ]
     },
     {
@@ -321,14 +310,25 @@
       ]
     },
     {
-      "id": "ca63d6fa8a934a3f",
-      "name": "prog_dragonresearch_dragoncare_dragon_marcherrangedattackvsplayer_1_curr_iron",
+      "id": "4061cd45c9ea9024",
+      "name": "prog_dragonresearch_dragoncare_dragon_marcherrangedattackvsplayer_1_item_buildreq_pale_steel_1",
       "values": [
-        473000,
-        552000,
-        639000,
-        757000,
-        902000
+        303,
+        356,
+        415,
+        486,
+        578
+      ]
+    },
+    {
+      "id": "c2cd1036ba12219b",
+      "name": "prog_dragonresearch_dragoncare_dragon_marcherrangedattackvsplayer_1_item_buildreq_red_gold_1",
+      "values": [
+        114,
+        132,
+        153,
+        179,
+        209
       ]
     },
     {
@@ -365,58 +365,47 @@
       ]
     },
     {
-      "id": "e87b2cd6c681ed6e",
-      "name": "prog_dragonresearch_dragoncare_dragon_marcherinfantryattackvsplayer_1_item_buildreq_dragon_research_3",
+      "id": "6a8c215998e1d622",
+      "name": "prog_dragonresearch_dragoncare_dragon_marcherinfantryattackvsplayer_1_curr_food",
       "values": [
-        32700,
-        42400,
-        54400,
-        69000,
-        86900
+        8590000,
+        9580000,
+        10800000,
+        12200000,
+        14000000
       ]
     },
     {
-      "id": "c48ae77071d2bc94",
-      "name": "prog_dragonresearch_dragoncare_dragon_marcherinfantryattackvsplayer_1_item_buildreq_dragon_research_2",
+      "id": "823abd916a7454e7",
+      "name": "prog_dragonresearch_dragoncare_dragon_marcherinfantryattackvsplayer_1_curr_wood",
       "values": [
-        8320,
-        9510,
-        10900,
-        12700,
-        14800
+        8590000,
+        9580000,
+        10800000,
+        12200000,
+        14000000
       ]
     },
     {
-      "id": "b198bb9ba8274e9a",
-      "name": "prog_dragonresearch_dragoncare_dragon_marcherinfantryattackvsplayer_1_item_buildreq_dragon_research_1",
+      "id": "d4496ed22f2112a7",
+      "name": "prog_dragonresearch_dragoncare_dragon_marcherinfantryattackvsplayer_1_curr_stone",
       "values": [
-        21500,
-        25400,
-        30200,
-        35900,
-        42900
+        1670000,
+        1940000,
+        2230000,
+        2620000,
+        3100000
       ]
     },
     {
-      "id": "559f1594043e3f3e",
-      "name": "prog_dragonresearch_dragoncare_dragon_marcherinfantryattackvsplayer_1_item_buildreq_red_gold_1",
+      "id": "4090b0049d95e422",
+      "name": "prog_dragonresearch_dragoncare_dragon_marcherinfantryattackvsplayer_1_curr_iron",
       "values": [
-        114,
-        132,
-        153,
-        179,
-        209
-      ]
-    },
-    {
-      "id": "a4183028a5a50190",
-      "name": "prog_dragonresearch_dragoncare_dragon_marcherinfantryattackvsplayer_1_item_buildreq_pale_steel_1",
-      "values": [
-        303,
-        356,
-        415,
-        486,
-        578
+        473000,
+        552000,
+        639000,
+        757000,
+        902000
       ]
     },
     {
@@ -431,14 +420,25 @@
       ]
     },
     {
-      "id": "4090b0049d95e422",
-      "name": "prog_dragonresearch_dragoncare_dragon_marcherinfantryattackvsplayer_1_curr_iron",
+      "id": "a4183028a5a50190",
+      "name": "prog_dragonresearch_dragoncare_dragon_marcherinfantryattackvsplayer_1_item_buildreq_pale_steel_1",
       "values": [
-        473000,
-        552000,
-        639000,
-        757000,
-        902000
+        303,
+        356,
+        415,
+        486,
+        578
+      ]
+    },
+    {
+      "id": "559f1594043e3f3e",
+      "name": "prog_dragonresearch_dragoncare_dragon_marcherinfantryattackvsplayer_1_item_buildreq_red_gold_1",
+      "values": [
+        114,
+        132,
+        153,
+        179,
+        209
       ]
     },
     {
@@ -475,58 +475,47 @@
       ]
     },
     {
-      "id": "e6a7e04e66dea814",
-      "name": "prog_dragonresearch_dragoncare_dragon_marchercavalryattackvsplayer_1_item_buildreq_dragon_research_3",
+      "id": "745818c53a9b5113",
+      "name": "prog_dragonresearch_dragoncare_dragon_marchercavalryattackvsplayer_1_curr_food",
       "values": [
-        31400,
-        40800,
-        52400,
-        66400,
-        83600
+        8230000,
+        9190000,
+        10300000,
+        11700000,
+        13400000
       ]
     },
     {
-      "id": "ca562be8d18df9ee",
-      "name": "prog_dragonresearch_dragoncare_dragon_marchercavalryattackvsplayer_1_item_buildreq_dragon_research_2",
+      "id": "9cee840dc80ed3d6",
+      "name": "prog_dragonresearch_dragoncare_dragon_marchercavalryattackvsplayer_1_curr_wood",
       "values": [
-        8000,
-        9150,
-        10500,
-        12300,
-        14300
+        8230000,
+        9190000,
+        10300000,
+        11700000,
+        13400000
       ]
     },
     {
-      "id": "bf44770308780be0",
-      "name": "prog_dragonresearch_dragoncare_dragon_marchercavalryattackvsplayer_1_item_buildreq_dragon_research_1",
+      "id": "21d0f450f49d6abd",
+      "name": "prog_dragonresearch_dragoncare_dragon_marchercavalryattackvsplayer_1_curr_stone",
       "values": [
-        20700,
-        24400,
-        29000,
-        34600,
-        41300
+        1600000,
+        1860000,
+        2140000,
+        2520000,
+        2980000
       ]
     },
     {
-      "id": "336d4f19fd92514e",
-      "name": "prog_dragonresearch_dragoncare_dragon_marchercavalryattackvsplayer_1_item_buildreq_red_gold_1",
+      "id": "5e4489983fef6313",
+      "name": "prog_dragonresearch_dragoncare_dragon_marchercavalryattackvsplayer_1_curr_iron",
       "values": [
-        110,
-        127,
-        147,
-        172,
-        201
-      ]
-    },
-    {
-      "id": "a765a76aafbd5785",
-      "name": "prog_dragonresearch_dragoncare_dragon_marchercavalryattackvsplayer_1_item_buildreq_pale_steel_1",
-      "values": [
-        291,
-        342,
-        399,
-        467,
-        556
+        453000,
+        528000,
+        612000,
+        724000,
+        863000
       ]
     },
     {
@@ -541,14 +530,25 @@
       ]
     },
     {
-      "id": "5e4489983fef6313",
-      "name": "prog_dragonresearch_dragoncare_dragon_marchercavalryattackvsplayer_1_curr_iron",
+      "id": "a765a76aafbd5785",
+      "name": "prog_dragonresearch_dragoncare_dragon_marchercavalryattackvsplayer_1_item_buildreq_pale_steel_1",
       "values": [
-        453000,
-        528000,
-        612000,
-        724000,
-        863000
+        291,
+        342,
+        399,
+        467,
+        556
+      ]
+    },
+    {
+      "id": "336d4f19fd92514e",
+      "name": "prog_dragonresearch_dragoncare_dragon_marchercavalryattackvsplayer_1_item_buildreq_red_gold_1",
+      "values": [
+        110,
+        127,
+        147,
+        172,
+        201
       ]
     },
     {
@@ -585,58 +585,47 @@
       ]
     },
     {
-      "id": "bb67b91d618df303",
-      "name": "prog_dragonresearch_dragoncare_dragon_infantryattackvsplayer_1_item_buildreq_dragon_research_3",
+      "id": "969213e5d7b7076a",
+      "name": "prog_dragonresearch_dragoncare_dragon_infantryattackvsplayer_1_curr_food",
       "values": [
-        37900,
-        49200,
-        63200,
-        80100,
-        100000
+        10000000,
+        11200000,
+        12700000,
+        14400000,
+        16500000
       ]
     },
     {
-      "id": "979672bbd6dea2f9",
-      "name": "prog_dragonresearch_dragoncare_dragon_infantryattackvsplayer_1_item_buildreq_dragon_research_2",
+      "id": "7e248f2d252285af",
+      "name": "prog_dragonresearch_dragoncare_dragon_infantryattackvsplayer_1_curr_wood",
       "values": [
-        9650,
-        11000,
-        12700,
-        14800,
-        17200
+        10000000,
+        11200000,
+        12700000,
+        14400000,
+        16500000
       ]
     },
     {
-      "id": "e2842e500f2b50f7",
-      "name": "prog_dragonresearch_dragoncare_dragon_infantryattackvsplayer_1_item_buildreq_dragon_research_1",
+      "id": "9072de0796e7f0d2",
+      "name": "prog_dragonresearch_dragoncare_dragon_infantryattackvsplayer_1_curr_stone",
       "values": [
-        25000,
-        29500,
-        35000,
-        41700,
-        49800
+        1970000,
+        2280000,
+        2620000,
+        3090000,
+        3650000
       ]
     },
     {
-      "id": "16a354f409d74a2",
-      "name": "prog_dragonresearch_dragoncare_dragon_infantryattackvsplayer_1_item_buildreq_red_gold_1",
+      "id": "bc8e82b8d2c3356a",
+      "name": "prog_dragonresearch_dragoncare_dragon_infantryattackvsplayer_1_curr_iron",
       "values": [
-        133,
-        153,
-        178,
-        207,
-        243
-      ]
-    },
-    {
-      "id": "ec1564453e9fe000",
-      "name": "prog_dragonresearch_dragoncare_dragon_infantryattackvsplayer_1_item_buildreq_pale_steel_1",
-      "values": [
-        352,
-        413,
-        482,
-        564,
-        671
+        561000,
+        654000,
+        757000,
+        897000,
+        1060000
       ]
     },
     {
@@ -651,14 +640,25 @@
       ]
     },
     {
-      "id": "bc8e82b8d2c3356a",
-      "name": "prog_dragonresearch_dragoncare_dragon_infantryattackvsplayer_1_curr_iron",
+      "id": "ec1564453e9fe000",
+      "name": "prog_dragonresearch_dragoncare_dragon_infantryattackvsplayer_1_item_buildreq_pale_steel_1",
       "values": [
-        561000,
-        654000,
-        757000,
-        897000,
-        1060000
+        352,
+        413,
+        482,
+        564,
+        671
+      ]
+    },
+    {
+      "id": "16a354f409d74a2",
+      "name": "prog_dragonresearch_dragoncare_dragon_infantryattackvsplayer_1_item_buildreq_red_gold_1",
+      "values": [
+        133,
+        153,
+        178,
+        207,
+        243
       ]
     },
     {
@@ -695,58 +695,47 @@
       ]
     },
     {
-      "id": "69e7cf8a7a474e2",
-      "name": "prog_dragonresearch_dragoncare_dragon_cavalryattackvsplayer_1_item_buildreq_dragon_research_3",
+      "id": "f76b81588ad15f80",
+      "name": "prog_dragonresearch_dragoncare_dragon_cavalryattackvsplayer_1_curr_food",
       "values": [
-        37900,
-        49200,
-        63200,
-        80100,
-        100000
+        10000000,
+        11200000,
+        12700000,
+        14400000,
+        16500000
       ]
     },
     {
-      "id": "2a6fb75e10f72518",
-      "name": "prog_dragonresearch_dragoncare_dragon_cavalryattackvsplayer_1_item_buildreq_dragon_research_2",
+      "id": "1fdd1d907844dd45",
+      "name": "prog_dragonresearch_dragoncare_dragon_cavalryattackvsplayer_1_curr_wood",
       "values": [
-        9650,
-        11000,
-        12700,
-        14800,
-        17200
+        10000000,
+        11200000,
+        12700000,
+        14400000,
+        16500000
       ]
     },
     {
-      "id": "5f7debb5c902d716",
-      "name": "prog_dragonresearch_dragoncare_dragon_cavalryattackvsplayer_1_item_buildreq_dragon_research_1",
+      "id": "ddcec6ecbbcbbbf5",
+      "name": "prog_dragonresearch_dragoncare_dragon_cavalryattackvsplayer_1_curr_stone",
       "values": [
-        25000,
-        29500,
-        35000,
-        41700,
-        49800
+        1970000,
+        2280000,
+        2620000,
+        3090000,
+        3650000
       ]
     },
     {
-      "id": "b2b288ecfcaf0f3f",
-      "name": "prog_dragonresearch_dragoncare_dragon_cavalryattackvsplayer_1_item_buildreq_red_gold_1",
+      "id": "dd7710058fa56d80",
+      "name": "prog_dragonresearch_dragoncare_dragon_cavalryattackvsplayer_1_curr_iron",
       "values": [
-        133,
-        153,
-        178,
-        207,
-        243
-      ]
-    },
-    {
-      "id": "784d3e5e51921a95",
-      "name": "prog_dragonresearch_dragoncare_dragon_cavalryattackvsplayer_1_item_buildreq_pale_steel_1",
-      "values": [
-        352,
-        413,
-        482,
-        564,
-        671
+        561000,
+        654000,
+        757000,
+        897000,
+        1060000
       ]
     },
     {
@@ -761,14 +750,25 @@
       ]
     },
     {
-      "id": "dd7710058fa56d80",
-      "name": "prog_dragonresearch_dragoncare_dragon_cavalryattackvsplayer_1_curr_iron",
+      "id": "784d3e5e51921a95",
+      "name": "prog_dragonresearch_dragoncare_dragon_cavalryattackvsplayer_1_item_buildreq_pale_steel_1",
       "values": [
-        561000,
-        654000,
-        757000,
-        897000,
-        1060000
+        352,
+        413,
+        482,
+        564,
+        671
+      ]
+    },
+    {
+      "id": "b2b288ecfcaf0f3f",
+      "name": "prog_dragonresearch_dragoncare_dragon_cavalryattackvsplayer_1_item_buildreq_red_gold_1",
+      "values": [
+        133,
+        153,
+        178,
+        207,
+        243
       ]
     },
     {
@@ -805,25 +805,14 @@
       ]
     },
     {
-      "id": "ce8e1b8fc8631366",
-      "name": "prog_dragonresearch_dragoncare_dragon_health_1_curr_iron",
+      "id": "f955e9268982602a",
+      "name": "prog_dragonresearch_dragoncare_dragon_health_1_item_buildreq_red_gold_1",
       "values": [
-        303000,
-        310000,
-        317000,
-        324000,
-        331000
-      ]
-    },
-    {
-      "id": "12df3a93faf6dbbf",
-      "name": "prog_dragonresearch_dragoncare_dragon_health_1_item_buildreq_scholarly_fragment_1",
-      "values": [
-        901,
-        919,
-        937,
-        955,
-        973
+        72,
+        73,
+        75,
+        76,
+        77
       ]
     },
     {
@@ -838,47 +827,58 @@
       ]
     },
     {
-      "id": "f955e9268982602a",
-      "name": "prog_dragonresearch_dragoncare_dragon_health_1_item_buildreq_red_gold_1",
+      "id": "12df3a93faf6dbbf",
+      "name": "prog_dragonresearch_dragoncare_dragon_health_1_item_buildreq_scholarly_fragment_1",
       "values": [
-        72,
-        73,
-        75,
-        76,
-        77
+        901,
+        919,
+        937,
+        955,
+        973
       ]
     },
     {
-      "id": "a5160210b1889b54",
-      "name": "prog_dragonresearch_dragoncare_dragon_health_1_item_buildreq_dragon_research_1",
+      "id": "ce8e1b8fc8631366",
+      "name": "prog_dragonresearch_dragoncare_dragon_health_1_curr_iron",
       "values": [
-        11200,
-        11400,
-        11700,
-        11900,
-        12100
+        303000,
+        310000,
+        317000,
+        324000,
+        331000
       ]
     },
     {
-      "id": "d0045efb687d695a",
-      "name": "prog_dragonresearch_dragoncare_dragon_health_1_item_buildreq_dragon_research_2",
+      "id": "c6f3ef448f85d7e7",
+      "name": "prog_dragonresearch_dragoncare_dragon_health_1_curr_stone",
       "values": [
-        5400,
-        5510,
-        5620,
-        5730,
-        5840
+        1090000,
+        1120000,
+        1140000,
+        1160000,
+        1190000
       ]
     },
     {
-      "id": "fcf5955ddf2e38a0",
-      "name": "prog_dragonresearch_dragoncare_dragon_health_1_item_buildreq_dragon_research_3",
+      "id": "c24161a3f82a3a3",
+      "name": "prog_dragonresearch_dragoncare_dragon_health_1_curr_wood",
       "values": [
-        3600,
-        3670,
-        3750,
-        3820,
-        3890
+        6590000,
+        6730000,
+        6880000,
+        7020000,
+        7170000
+      ]
+    },
+    {
+      "id": "e4928ad2cd172166",
+      "name": "prog_dragonresearch_dragoncare_dragon_health_1_curr_food",
+      "values": [
+        6590000,
+        6730000,
+        6880000,
+        7020000,
+        7170000
       ]
     },
     {
@@ -915,25 +915,14 @@
       ]
     },
     {
-      "id": "dafbdeb7c642e8a8",
-      "name": "prog_dragonresearch_dragoncare_dragon_healing_1_item_buildreq_red_gold_1",
+      "id": "11e2a90f1c64974b",
+      "name": "prog_dragonresearch_dragoncare_dragon_healing_1_curr_iron",
       "values": [
-        570,
-        582,
-        593,
-        605,
-        616
-      ]
-    },
-    {
-      "id": "103469790a1c6efa",
-      "name": "prog_dragonresearch_dragoncare_dragon_healing_1_item_buildreq_pale_steel_1",
-      "values": [
-        1420,
-        1450,
-        1480,
-        1510,
-        1540
+        3180000,
+        3260000,
+        3330000,
+        3400000,
+        3470000
       ]
     },
     {
@@ -948,47 +937,58 @@
       ]
     },
     {
-      "id": "11e2a90f1c64974b",
-      "name": "prog_dragonresearch_dragoncare_dragon_healing_1_curr_iron",
+      "id": "103469790a1c6efa",
+      "name": "prog_dragonresearch_dragoncare_dragon_healing_1_item_buildreq_pale_steel_1",
       "values": [
-        3180000,
-        3260000,
-        3330000,
-        3400000,
-        3470000
+        1420,
+        1450,
+        1480,
+        1510,
+        1540
       ]
     },
     {
-      "id": "2d8a8063c9f39b30",
-      "name": "prog_dragonresearch_dragoncare_dragon_healing_1_curr_stone",
+      "id": "dafbdeb7c642e8a8",
+      "name": "prog_dragonresearch_dragoncare_dragon_healing_1_item_buildreq_red_gold_1",
       "values": [
-        10300000,
-        10600000,
-        10800000,
-        11000000,
-        11300000
+        570,
+        582,
+        593,
+        605,
+        616
       ]
     },
     {
-      "id": "d348a49aeb85278e",
-      "name": "prog_dragonresearch_dragoncare_dragon_healing_1_curr_wood",
+      "id": "62f8b461d4d94122",
+      "name": "prog_dragonresearch_dragoncare_dragon_healing_1_item_buildreq_dragon_research_1",
       "values": [
-        62400000,
-        63800000,
-        65200000,
-        66500000,
-        67900000
+        89100,
+        90900,
+        92700,
+        94500,
+        96300
       ]
     },
     {
-      "id": "3bfe38521910a54b",
-      "name": "prog_dragonresearch_dragoncare_dragon_healing_1_curr_food",
+      "id": "17eae88a0d2cb32c",
+      "name": "prog_dragonresearch_dragoncare_dragon_healing_1_item_buildreq_dragon_research_2",
       "values": [
-        62400000,
-        63800000,
-        65200000,
-        66500000,
-        67900000
+        42800,
+        43600,
+        44500,
+        45300,
+        46200
+      ]
+    },
+    {
+      "id": "3b1b232cba7fe2d6",
+      "name": "prog_dragonresearch_dragoncare_dragon_healing_1_item_buildreq_dragon_research_3",
+      "values": [
+        28500,
+        29100,
+        29600,
+        30200,
+        30800
       ]
     },
     {
@@ -1025,25 +1025,14 @@
       ]
     },
     {
-      "id": "cbec2d4cc746bb56",
-      "name": "prog_dragonresearch_dragoncare_dragon_MaxMarchSize_1_item_buildreq_red_gold_1",
+      "id": "9b5f79b1e3cfb452",
+      "name": "prog_dragonresearch_dragoncare_dragon_MaxMarchSize_1_curr_iron",
       "values": [
-        579,
-        590,
-        602,
-        614,
-        625
-      ]
-    },
-    {
-      "id": "919518cf05a7c886",
-      "name": "prog_dragonresearch_dragoncare_dragon_MaxMarchSize_1_item_buildreq_pale_steel_1",
-      "values": [
-        1440,
-        1470,
-        1500,
-        1530,
-        1560
+        3240000,
+        3310000,
+        3380000,
+        3460000,
+        3530000
       ]
     },
     {
@@ -1058,47 +1047,58 @@
       ]
     },
     {
-      "id": "9b5f79b1e3cfb452",
-      "name": "prog_dragonresearch_dragoncare_dragon_MaxMarchSize_1_curr_iron",
+      "id": "919518cf05a7c886",
+      "name": "prog_dragonresearch_dragoncare_dragon_MaxMarchSize_1_item_buildreq_pale_steel_1",
       "values": [
-        3240000,
-        3310000,
-        3380000,
-        3460000,
-        3530000
+        1440,
+        1470,
+        1500,
+        1530,
+        1560
       ]
     },
     {
-      "id": "ac1795a19cae6fcf",
-      "name": "prog_dragonresearch_dragoncare_dragon_MaxMarchSize_1_curr_stone",
+      "id": "cbec2d4cc746bb56",
+      "name": "prog_dragonresearch_dragoncare_dragon_MaxMarchSize_1_item_buildreq_red_gold_1",
       "values": [
-        10500000,
-        10700000,
-        11000000,
-        11200000,
-        11400000
+        579,
+        590,
+        602,
+        614,
+        625
       ]
     },
     {
-      "id": "59f57424142e0497",
-      "name": "prog_dragonresearch_dragoncare_dragon_MaxMarchSize_1_curr_wood",
+      "id": "8a512a72a9847089",
+      "name": "prog_dragonresearch_dragoncare_dragon_MaxMarchSize_1_item_buildreq_dragon_research_1",
       "values": [
-        63400000,
-        64800000,
-        66200000,
-        67600000,
-        69000000
+        90500,
+        92300,
+        94100,
+        95900,
+        97700
       ]
     },
     {
-      "id": "b143e8ece6bb8652",
-      "name": "prog_dragonresearch_dragoncare_dragon_MaxMarchSize_1_curr_food",
+      "id": "ff43769970718287",
+      "name": "prog_dragonresearch_dragoncare_dragon_MaxMarchSize_1_item_buildreq_dragon_research_2",
       "values": [
-        63400000,
-        64800000,
-        66200000,
-        67600000,
-        69000000
+        43400,
+        44300,
+        45100,
+        46000,
+        46900
+      ]
+    },
+    {
+      "id": "d3b2bd3fc722d37d",
+      "name": "prog_dragonresearch_dragoncare_dragon_MaxMarchSize_1_item_buildreq_dragon_research_3",
+      "values": [
+        28900,
+        29500,
+        30100,
+        30700,
+        31200
       ]
     },
     {
@@ -1135,25 +1135,14 @@
       ]
     },
     {
-      "id": "93766454d36b8c50",
-      "name": "prog_dragonresearch_dragoncare_dragon_marchspeed_1_curr_iron",
+      "id": "cb13c2085a16ba74",
+      "name": "prog_dragonresearch_dragoncare_dragon_marchspeed_1_item_buildreq_red_gold_1",
       "values": [
-        269000,
-        275000,
-        281000,
-        287000,
-        293000
-      ]
-    },
-    {
-      "id": "fb6c5d97b736556a",
-      "name": "prog_dragonresearch_dragoncare_dragon_marchspeed_1_item_buildreq_scholarly_fragment_1",
-      "values": [
-        810,
-        826,
-        842,
-        858,
-        874
+        64,
+        66,
+        67,
+        68,
+        69
       ]
     },
     {
@@ -1168,47 +1157,58 @@
       ]
     },
     {
-      "id": "cb13c2085a16ba74",
-      "name": "prog_dragonresearch_dragoncare_dragon_marchspeed_1_item_buildreq_red_gold_1",
+      "id": "fb6c5d97b736556a",
+      "name": "prog_dragonresearch_dragoncare_dragon_marchspeed_1_item_buildreq_scholarly_fragment_1",
       "values": [
-        64,
-        66,
-        67,
-        68,
-        69
+        810,
+        826,
+        842,
+        858,
+        874
       ]
     },
     {
-      "id": "e2ee57340794e78b",
-      "name": "prog_dragonresearch_dragoncare_dragon_marchspeed_1_item_buildreq_dragon_research_1",
+      "id": "93766454d36b8c50",
+      "name": "prog_dragonresearch_dragoncare_dragon_marchspeed_1_curr_iron",
       "values": [
-        10100,
-        10300,
-        10500,
-        10700,
-        10900
+        269000,
+        275000,
+        281000,
+        287000,
+        293000
       ]
     },
     {
-      "id": "97fc0bdfde611585",
-      "name": "prog_dragonresearch_dragoncare_dragon_marchspeed_1_item_buildreq_dragon_research_2",
+      "id": "f5fc2bf117386803",
+      "name": "prog_dragonresearch_dragoncare_dragon_marchspeed_1_curr_stone",
       "values": [
-        4860,
-        4950,
-        5050,
-        5150,
-        5240
+        976000,
+        998000,
+        1010000,
+        1040000,
+        1060000
       ]
     },
     {
-      "id": "bb0dc0796932447f",
-      "name": "prog_dragonresearch_dragoncare_dragon_marchspeed_1_item_buildreq_dragon_research_3",
+      "id": "51dc69c1248a3c95",
+      "name": "prog_dragonresearch_dragoncare_dragon_marchspeed_1_curr_wood",
       "values": [
-        3240,
-        3300,
-        3370,
-        3430,
-        3490
+        5870000,
+        6000000,
+        6120000,
+        6250000,
+        6380000
+      ]
+    },
+    {
+      "id": "b96af509d61fbe50",
+      "name": "prog_dragonresearch_dragoncare_dragon_marchspeed_1_curr_food",
+      "values": [
+        5870000,
+        6000000,
+        6120000,
+        6250000,
+        6380000
       ]
     },
     {
@@ -1245,58 +1245,47 @@
       ]
     },
     {
-      "id": "8cce01fcc640ce32",
-      "name": "prog_dragonresearch_dragoncare_dragon_attack_2_item_buildreq_dragon_research_3",
+      "id": "de9e4ec18d9a085f",
+      "name": "prog_dragonresearch_dragoncare_dragon_attack_2_curr_food",
       "values": [
-        3600,
-        3670,
-        8270,
-        8420,
-        8580
+        6590000,
+        6730000,
+        6830000,
+        6970000,
+        7110000
       ]
     },
     {
-      "id": "a03fca5a71139fc8",
-      "name": "prog_dragonresearch_dragoncare_dragon_attack_2_item_buildreq_dragon_research_2",
+      "id": "3628d2097f0f8a9a",
+      "name": "prog_dragonresearch_dragoncare_dragon_attack_2_curr_wood",
       "values": [
-        5400,
-        5510,
-        5810,
-        5920,
-        6030
+        6590000,
+        6730000,
+        6830000,
+        6970000,
+        7110000
       ]
     },
     {
-      "id": "d52d96b1a8e66dc6",
-      "name": "prog_dragonresearch_dragoncare_dragon_attack_2_item_buildreq_dragon_research_1",
+      "id": "d67ab27b28ee98a8",
+      "name": "prog_dragonresearch_dragoncare_dragon_attack_2_curr_stone",
       "values": [
-        11200,
-        11400,
-        12800,
-        13000,
-        13200
+        1090000,
+        1120000,
+        1160000,
+        1180000,
+        1200000
       ]
     },
     {
-      "id": "3951e619db8eff7e",
-      "name": "prog_dragonresearch_dragoncare_dragon_attack_2_item_buildreq_red_gold_1",
+      "id": "f482df9c88ee3a5f",
+      "name": "prog_dragonresearch_dragoncare_dragon_attack_2_curr_iron",
       "values": [
-        72,
-        73,
-        78,
-        79,
-        81
-      ]
-    },
-    {
-      "id": "ed79fa80d407e01",
-      "name": "prog_dragonresearch_dragoncare_dragon_attack_2_item_buildreq_pale_steel_1",
-      "values": [
-        180,
-        183,
-        197,
-        201,
-        205
+        303000,
+        310000,
+        322000,
+        329000,
+        336000
       ]
     },
     {
@@ -1311,14 +1300,25 @@
       ]
     },
     {
-      "id": "f482df9c88ee3a5f",
-      "name": "prog_dragonresearch_dragoncare_dragon_attack_2_curr_iron",
+      "id": "ed79fa80d407e01",
+      "name": "prog_dragonresearch_dragoncare_dragon_attack_2_item_buildreq_pale_steel_1",
       "values": [
-        303000,
-        310000,
-        322000,
-        329000,
-        336000
+        180,
+        183,
+        197,
+        201,
+        205
+      ]
+    },
+    {
+      "id": "3951e619db8eff7e",
+      "name": "prog_dragonresearch_dragoncare_dragon_attack_2_item_buildreq_red_gold_1",
+      "values": [
+        72,
+        73,
+        78,
+        79,
+        81
       ]
     },
     {
@@ -1355,58 +1355,47 @@
       ]
     },
     {
-      "id": "a46af3dad5af424",
-      "name": "prog_dragonresearch_dragoncare_dragon_health_2_item_buildreq_dragon_research_3",
+      "id": "824102f83192f58a",
+      "name": "prog_dragonresearch_dragoncare_dragon_health_2_curr_food",
       "values": [
-        3600,
-        3670,
-        8270,
-        8420,
-        8580
+        6590000,
+        6730000,
+        6830000,
+        6970000,
+        7110000
       ]
     },
     {
-      "id": "26b7649b1a09a5de",
-      "name": "prog_dragonresearch_dragoncare_dragon_health_2_item_buildreq_dragon_research_2",
+      "id": "6af79e30c307774f",
+      "name": "prog_dragonresearch_dragoncare_dragon_health_2_curr_wood",
       "values": [
-        5400,
-        5510,
-        5810,
-        5920,
-        6030
+        6590000,
+        6730000,
+        6830000,
+        6970000,
+        7110000
       ]
     },
     {
-      "id": "53a53870c3fc57d0",
-      "name": "prog_dragonresearch_dragoncare_dragon_health_2_item_buildreq_dragon_research_1",
+      "id": "616c646286e39b50",
+      "name": "prog_dragonresearch_dragoncare_dragon_health_2_curr_stone",
       "values": [
-        11200,
-        11400,
-        12800,
-        13000,
-        13200
+        1090000,
+        1120000,
+        1160000,
+        1180000,
+        1200000
       ]
     },
     {
-      "id": "65bfa0d22ee3a40c",
-      "name": "prog_dragonresearch_dragoncare_dragon_health_2_item_buildreq_red_gold_1",
+      "id": "a85d93a534e6c78a",
+      "name": "prog_dragonresearch_dragoncare_dragon_health_2_curr_iron",
       "values": [
-        72,
-        73,
-        78,
-        79,
-        81
-      ]
-    },
-    {
-      "id": "41ac8a5ab3480046",
-      "name": "prog_dragonresearch_dragoncare_dragon_health_2_item_buildreq_pale_steel_1",
-      "values": [
-        180,
-        183,
-        197,
-        201,
-        205
+        303000,
+        310000,
+        322000,
+        329000,
+        336000
       ]
     },
     {
@@ -1421,14 +1410,25 @@
       ]
     },
     {
-      "id": "a85d93a534e6c78a",
-      "name": "prog_dragonresearch_dragoncare_dragon_health_2_curr_iron",
+      "id": "41ac8a5ab3480046",
+      "name": "prog_dragonresearch_dragoncare_dragon_health_2_item_buildreq_pale_steel_1",
       "values": [
-        303000,
-        310000,
-        322000,
-        329000,
-        336000
+        180,
+        183,
+        197,
+        201,
+        205
+      ]
+    },
+    {
+      "id": "65bfa0d22ee3a40c",
+      "name": "prog_dragonresearch_dragoncare_dragon_health_2_item_buildreq_red_gold_1",
+      "values": [
+        72,
+        73,
+        78,
+        79,
+        81
       ]
     },
     {
@@ -1465,25 +1465,14 @@
       ]
     },
     {
-      "id": "77312125e0e143a7",
-      "name": "prog_dragonresearch_dragoncare_dragon_healing_2_curr_iron",
+      "id": "4611974361232c8e",
+      "name": "prog_dragonresearch_dragoncare_dragon_healing_2_item_buildreq_red_gold_1",
       "values": [
-        3180000,
-        3260000,
-        3380000,
-        3450000,
-        3520000
-      ]
-    },
-    {
-      "id": "6957789847049e",
-      "name": "prog_dragonresearch_dragoncare_dragon_healing_2_item_buildreq_scholarly_fragment_1",
-      "values": [
-        7130,
-        7270,
-        7510,
-        7650,
-        7800
+        570,
+        582,
+        618,
+        630,
+        642
       ]
     },
     {
@@ -1498,47 +1487,58 @@
       ]
     },
     {
-      "id": "4611974361232c8e",
-      "name": "prog_dragonresearch_dragoncare_dragon_healing_2_item_buildreq_red_gold_1",
+      "id": "6957789847049e",
+      "name": "prog_dragonresearch_dragoncare_dragon_healing_2_item_buildreq_scholarly_fragment_1",
       "values": [
-        570,
-        582,
-        618,
-        630,
-        642
+        7130,
+        7270,
+        7510,
+        7650,
+        7800
       ]
     },
     {
-      "id": "944b8e01a6ad8da6",
-      "name": "prog_dragonresearch_dragoncare_dragon_healing_2_item_buildreq_dragon_research_1",
+      "id": "77312125e0e143a7",
+      "name": "prog_dragonresearch_dragoncare_dragon_healing_2_curr_iron",
       "values": [
-        89100,
-        90900,
-        101000,
-        103000,
-        105000
+        3180000,
+        3260000,
+        3380000,
+        3450000,
+        3520000
       ]
     },
     {
-      "id": "e159d2ea7f587fa8",
-      "name": "prog_dragonresearch_dragoncare_dragon_healing_2_item_buildreq_dragon_research_2",
+      "id": "8a150b45c095d787",
+      "name": "prog_dragonresearch_dragoncare_dragon_healing_2_curr_stone",
       "values": [
-        42800,
-        43600,
-        45900,
-        46800,
-        47700
+        10300000,
+        10600000,
+        10900000,
+        11200000,
+        11400000
       ]
     },
     {
-      "id": "cda8194cc80b2e52",
-      "name": "prog_dragonresearch_dragoncare_dragon_healing_2_item_buildreq_dragon_research_3",
+      "id": "b59b2cb01700f362",
+      "name": "prog_dragonresearch_dragoncare_dragon_healing_2_curr_wood",
       "values": [
-        28500,
-        29100,
-        65400,
-        66600,
-        67900
+        62400000,
+        63800000,
+        64700000,
+        66000000,
+        67400000
+      ]
+    },
+    {
+      "id": "5d2db078e59571a7",
+      "name": "prog_dragonresearch_dragoncare_dragon_healing_2_curr_food",
+      "values": [
+        62400000,
+        63800000,
+        64700000,
+        66000000,
+        67400000
       ]
     },
     {
@@ -8251,22 +8251,22 @@
       "id": "6df4a8155c67ad44",
       "name": "prog_dragonresearch_dragoncare_dragon_MaxMarchSize_2_MaesterLevel",
       "values": [
-        15,
-        16,
-        17,
-        18,
-        19
+        26,
+        27,
+        28,
+        29,
+        30
       ]
     },
     {
       "id": "f84df240df7bb3f",
       "name": "prog_dragonresearch_dragoncare_dragon_MaxMarchSize_2_Time",
       "values": [
-        51743,
-        59505,
-        68431,
-        78695,
-        90500
+        240734,
+        276844,
+        318370,
+        366126,
+        421045
       ]
     },
     {
@@ -8281,80 +8281,80 @@
       ]
     },
     {
-      "id": "d79060c61a3e52be",
-      "name": "prog_dragonresearch_dragoncare_dragon_MaxMarchSize_2_curr_food",
+      "id": "2501875fb5561ff9",
+      "name": "prog_dragonresearch_dragoncare_dragon_MaxMarchSize_2_item_buildreq_dragon_research_3",
       "values": [
-        63400000,
-        64300000,
-        67000000,
-        71500000,
-        77800000
+        915000,
+        1130000,
+        1410000,
+        1750000,
+        2160000
       ]
     },
     {
-      "id": "3f26fc0ee8abd07b",
-      "name": "prog_dragonresearch_dragoncare_dragon_MaxMarchSize_2_curr_wood",
+      "id": "9f04cf902054e03",
+      "name": "prog_dragonresearch_dragoncare_dragon_MaxMarchSize_2_item_buildreq_dragon_research_2",
       "values": [
-        63400000,
-        64300000,
-        67000000,
-        71500000,
-        77800000
+        137000,
+        163000,
+        193000,
+        228000,
+        271000
       ]
     },
     {
-      "id": "b881e8795c82378",
-      "name": "prog_dragonresearch_dragoncare_dragon_MaxMarchSize_2_curr_stone",
+      "id": "7ce21012dbf0bc0d",
+      "name": "prog_dragonresearch_dragoncare_dragon_MaxMarchSize_2_item_buildreq_dragon_research_1",
       "values": [
-        10500000,
-        10900000,
-        11800000,
-        13200000,
-        14600000
-      ]
-    },
-    {
-      "id": "fd8cf19b1f4a60be",
-      "name": "prog_dragonresearch_dragoncare_dragon_MaxMarchSize_2_curr_iron",
-      "values": [
-        3240000,
-        3360000,
-        3660000,
-        4090000,
-        4560000
-      ]
-    },
-    {
-      "id": "2874570c8829f916",
-      "name": "prog_dragonresearch_dragoncare_dragon_MaxMarchSize_2_item_buildreq_scholarly_fragment_1",
-      "values": [
-        7240,
-        7470,
-        8070,
-        8890,
-        9780
-      ]
-    },
-    {
-      "id": "f85adb66b52c478f",
-      "name": "prog_dragonresearch_dragoncare_dragon_MaxMarchSize_2_item_buildreq_pale_steel_1",
-      "values": [
-        1440,
-        1550,
-        1700,
-        1930,
-        2200
+        415000,
+        498000,
+        601000,
+        724000,
+        873000
       ]
     },
     {
       "id": "570664b860277f70",
       "name": "prog_dragonresearch_dragoncare_dragon_MaxMarchSize_2_item_buildreq_red_gold_1",
       "values": [
-        579,
-        615,
-        670,
-        743,
-        838
+        1960,
+        2320,
+        2760,
+        3280,
+        3910
+      ]
+    },
+    {
+      "id": "f85adb66b52c478f",
+      "name": "prog_dragonresearch_dragoncare_dragon_MaxMarchSize_2_item_buildreq_pale_steel_1",
+      "values": [
+        5440,
+        6530,
+        7780,
+        9270,
+        11100
+      ]
+    },
+    {
+      "id": "2874570c8829f916",
+      "name": "prog_dragonresearch_dragoncare_dragon_MaxMarchSize_2_item_buildreq_scholarly_fragment_1",
+      "values": [
+        21500,
+        25400,
+        29700,
+        35200,
+        41900
+      ]
+    },
+    {
+      "id": "fd8cf19b1f4a60be",
+      "name": "prog_dragonresearch_dragoncare_dragon_MaxMarchSize_2_curr_iron",
+      "values": [
+        11100000,
+        13400000,
+        16100000,
+        19500000,
+        23800000
       ]
     },
     {
@@ -10098,465 +10098,465 @@
       ]
     },
     {
-      "id": "71e5395d2188d41f",
-      "name": "prog_dragonresearch_dragoncare_dragon_attack_1_curr_stone",
+      "id": "239eacd1da92a142",
+      "name": "prog_dragonresearch_dragoncare_dragon_attack_1_item_buildreq_dragon_research_1",
       "values": [
-        1090000,
-        1120000,
-        1140000,
-        1160000,
-        1190000
+        11200,
+        11400,
+        11700,
+        11900,
+        12100
       ]
     },
     {
-      "id": "50fb5a23838a5e76",
-      "name": "prog_dragonresearch_dragoncare_dragon_attack_1_curr_wood",
+      "id": "568cf03a0367534c",
+      "name": "prog_dragonresearch_dragoncare_dragon_attack_1_item_buildreq_dragon_research_2",
       "values": [
-        6590000,
-        6730000,
-        6880000,
-        7020000,
-        7170000
+        5400,
+        5510,
+        5620,
+        5730,
+        5840
       ]
     },
     {
-      "id": "b84dc6eb711fdcb3",
-      "name": "prog_dragonresearch_dragoncare_dragon_attack_1_curr_food",
+      "id": "7a7d3b9cb43402b6",
+      "name": "prog_dragonresearch_dragoncare_dragon_attack_1_item_buildreq_dragon_research_3",
       "values": [
-        6590000,
-        6730000,
-        6880000,
-        7020000,
-        7170000
+        3600,
+        3670,
+        3750,
+        3820,
+        3890
       ]
     },
     {
-      "id": "652082a1579302ae",
-      "name": "prog_dragonresearch_dragoncare_dragon_rangedattackvsplayer_1_curr_stone",
+      "id": "acc25b069c3faf7d",
+      "name": "prog_dragonresearch_dragoncare_dragon_rangedattackvsplayer_1_item_buildreq_dragon_research_1",
       "values": [
-        1970000,
-        2280000,
-        2620000,
-        3090000,
-        3650000
-      ]
-    },
-    {
-      "id": "ab3692ab4fd2649e",
-      "name": "prog_dragonresearch_dragoncare_dragon_rangedattackvsplayer_1_curr_wood",
-      "values": [
-        10000000,
-        11200000,
-        12700000,
-        14400000,
-        16500000
-      ]
-    },
-    {
-      "id": "43800e63bd47e65b",
-      "name": "prog_dragonresearch_dragoncare_dragon_rangedattackvsplayer_1_curr_food",
-      "values": [
-        10000000,
-        11200000,
-        12700000,
-        14400000,
-        16500000
-      ]
-    },
-    {
-      "id": "e6131b3ce7d90c3d",
-      "name": "prog_dragonresearch_dragoncare_dragon_marcherrangedattackvsplayer_1_curr_stone",
-      "values": [
-        1670000,
-        1940000,
-        2230000,
-        2620000,
-        3100000
-      ]
-    },
-    {
-      "id": "8c9db6f7d72fafa",
-      "name": "prog_dragonresearch_dragoncare_dragon_marcherrangedattackvsplayer_1_curr_wood",
-      "values": [
-        8590000,
-        9580000,
-        10800000,
-        12200000,
-        14000000
-      ]
-    },
-    {
-      "id": "e07f47a78fe7783f",
-      "name": "prog_dragonresearch_dragoncare_dragon_marcherrangedattackvsplayer_1_curr_food",
-      "values": [
-        8590000,
-        9580000,
-        10800000,
-        12200000,
-        14000000
-      ]
-    },
-    {
-      "id": "d4496ed22f2112a7",
-      "name": "prog_dragonresearch_dragoncare_dragon_marcherinfantryattackvsplayer_1_curr_stone",
-      "values": [
-        1670000,
-        1940000,
-        2230000,
-        2620000,
-        3100000
-      ]
-    },
-    {
-      "id": "823abd916a7454e7",
-      "name": "prog_dragonresearch_dragoncare_dragon_marcherinfantryattackvsplayer_1_curr_wood",
-      "values": [
-        8590000,
-        9580000,
-        10800000,
-        12200000,
-        14000000
-      ]
-    },
-    {
-      "id": "6a8c215998e1d622",
-      "name": "prog_dragonresearch_dragoncare_dragon_marcherinfantryattackvsplayer_1_curr_food",
-      "values": [
-        8590000,
-        9580000,
-        10800000,
-        12200000,
-        14000000
-      ]
-    },
-    {
-      "id": "21d0f450f49d6abd",
-      "name": "prog_dragonresearch_dragoncare_dragon_marchercavalryattackvsplayer_1_curr_stone",
-      "values": [
-        1600000,
-        1860000,
-        2140000,
-        2520000,
-        2980000
-      ]
-    },
-    {
-      "id": "9cee840dc80ed3d6",
-      "name": "prog_dragonresearch_dragoncare_dragon_marchercavalryattackvsplayer_1_curr_wood",
-      "values": [
-        8230000,
-        9190000,
-        10300000,
-        11700000,
-        13400000
-      ]
-    },
-    {
-      "id": "745818c53a9b5113",
-      "name": "prog_dragonresearch_dragoncare_dragon_marchercavalryattackvsplayer_1_curr_food",
-      "values": [
-        8230000,
-        9190000,
-        10300000,
-        11700000,
-        13400000
-      ]
-    },
-    {
-      "id": "9072de0796e7f0d2",
-      "name": "prog_dragonresearch_dragoncare_dragon_infantryattackvsplayer_1_curr_stone",
-      "values": [
-        1970000,
-        2280000,
-        2620000,
-        3090000,
-        3650000
-      ]
-    },
-    {
-      "id": "7e248f2d252285af",
-      "name": "prog_dragonresearch_dragoncare_dragon_infantryattackvsplayer_1_curr_wood",
-      "values": [
-        10000000,
-        11200000,
-        12700000,
-        14400000,
-        16500000
-      ]
-    },
-    {
-      "id": "969213e5d7b7076a",
-      "name": "prog_dragonresearch_dragoncare_dragon_infantryattackvsplayer_1_curr_food",
-      "values": [
-        10000000,
-        11200000,
-        12700000,
-        14400000,
-        16500000
-      ]
-    },
-    {
-      "id": "ddcec6ecbbcbbbf5",
-      "name": "prog_dragonresearch_dragoncare_dragon_cavalryattackvsplayer_1_curr_stone",
-      "values": [
-        1970000,
-        2280000,
-        2620000,
-        3090000,
-        3650000
-      ]
-    },
-    {
-      "id": "1fdd1d907844dd45",
-      "name": "prog_dragonresearch_dragoncare_dragon_cavalryattackvsplayer_1_curr_wood",
-      "values": [
-        10000000,
-        11200000,
-        12700000,
-        14400000,
-        16500000
-      ]
-    },
-    {
-      "id": "f76b81588ad15f80",
-      "name": "prog_dragonresearch_dragoncare_dragon_cavalryattackvsplayer_1_curr_food",
-      "values": [
-        10000000,
-        11200000,
-        12700000,
-        14400000,
-        16500000
-      ]
-    },
-    {
-      "id": "c6f3ef448f85d7e7",
-      "name": "prog_dragonresearch_dragoncare_dragon_health_1_curr_stone",
-      "values": [
-        1090000,
-        1120000,
-        1140000,
-        1160000,
-        1190000
-      ]
-    },
-    {
-      "id": "c24161a3f82a3a3",
-      "name": "prog_dragonresearch_dragoncare_dragon_health_1_curr_wood",
-      "values": [
-        6590000,
-        6730000,
-        6880000,
-        7020000,
-        7170000
-      ]
-    },
-    {
-      "id": "e4928ad2cd172166",
-      "name": "prog_dragonresearch_dragoncare_dragon_health_1_curr_food",
-      "values": [
-        6590000,
-        6730000,
-        6880000,
-        7020000,
-        7170000
-      ]
-    },
-    {
-      "id": "62f8b461d4d94122",
-      "name": "prog_dragonresearch_dragoncare_dragon_healing_1_item_buildreq_dragon_research_1",
-      "values": [
-        89100,
-        90900,
-        92700,
-        94500,
-        96300
-      ]
-    },
-    {
-      "id": "17eae88a0d2cb32c",
-      "name": "prog_dragonresearch_dragoncare_dragon_healing_1_item_buildreq_dragon_research_2",
-      "values": [
-        42800,
-        43600,
-        44500,
-        45300,
-        46200
-      ]
-    },
-    {
-      "id": "3b1b232cba7fe2d6",
-      "name": "prog_dragonresearch_dragoncare_dragon_healing_1_item_buildreq_dragon_research_3",
-      "values": [
-        28500,
-        29100,
-        29600,
-        30200,
-        30800
-      ]
-    },
-    {
-      "id": "8a512a72a9847089",
-      "name": "prog_dragonresearch_dragoncare_dragon_MaxMarchSize_1_item_buildreq_dragon_research_1",
-      "values": [
-        90500,
-        92300,
-        94100,
-        95900,
-        97700
-      ]
-    },
-    {
-      "id": "ff43769970718287",
-      "name": "prog_dragonresearch_dragoncare_dragon_MaxMarchSize_1_item_buildreq_dragon_research_2",
-      "values": [
-        43400,
-        44300,
-        45100,
-        46000,
-        46900
-      ]
-    },
-    {
-      "id": "d3b2bd3fc722d37d",
-      "name": "prog_dragonresearch_dragoncare_dragon_MaxMarchSize_1_item_buildreq_dragon_research_3",
-      "values": [
-        28900,
+        25000,
         29500,
-        30100,
-        30700,
-        31200
+        35000,
+        41700,
+        49800
       ]
     },
     {
-      "id": "f5fc2bf117386803",
-      "name": "prog_dragonresearch_dragoncare_dragon_marchspeed_1_curr_stone",
+      "id": "d9d007ed45ca5d73",
+      "name": "prog_dragonresearch_dragoncare_dragon_rangedattackvsplayer_1_item_buildreq_dragon_research_2",
       "values": [
-        976000,
-        998000,
-        1010000,
-        1040000,
-        1060000
+        9650,
+        11000,
+        12700,
+        14800,
+        17200
       ]
     },
     {
-      "id": "51dc69c1248a3c95",
-      "name": "prog_dragonresearch_dragoncare_dragon_marchspeed_1_curr_wood",
+      "id": "f521cc4bf2990c89",
+      "name": "prog_dragonresearch_dragoncare_dragon_rangedattackvsplayer_1_item_buildreq_dragon_research_3",
       "values": [
-        5870000,
-        6000000,
-        6120000,
-        6250000,
-        6380000
+        37900,
+        49200,
+        63200,
+        80100,
+        100000
       ]
     },
     {
-      "id": "b96af509d61fbe50",
-      "name": "prog_dragonresearch_dragoncare_dragon_marchspeed_1_curr_food",
+      "id": "aedc200b66c0008f",
+      "name": "prog_dragonresearch_dragoncare_dragon_marcherrangedattackvsplayer_1_item_buildreq_dragon_research_1",
       "values": [
-        5870000,
-        6000000,
-        6120000,
-        6250000,
-        6380000
+        21500,
+        25400,
+        30200,
+        35900,
+        42900
       ]
     },
     {
-      "id": "d67ab27b28ee98a8",
-      "name": "prog_dragonresearch_dragoncare_dragon_attack_2_curr_stone",
+      "id": "dbce7ce0bf35f281",
+      "name": "prog_dragonresearch_dragoncare_dragon_marcherrangedattackvsplayer_1_item_buildreq_dragon_research_2",
       "values": [
-        1090000,
-        1120000,
-        1160000,
-        1180000,
-        1200000
+        8320,
+        9510,
+        10900,
+        12700,
+        14800
       ]
     },
     {
-      "id": "3628d2097f0f8a9a",
-      "name": "prog_dragonresearch_dragoncare_dragon_attack_2_curr_wood",
+      "id": "f73fb7460866a37b",
+      "name": "prog_dragonresearch_dragoncare_dragon_marcherrangedattackvsplayer_1_item_buildreq_dragon_research_3",
       "values": [
-        6590000,
-        6730000,
-        6830000,
-        6970000,
-        7110000
+        32700,
+        42400,
+        54400,
+        69000,
+        86900
       ]
     },
     {
-      "id": "de9e4ec18d9a085f",
-      "name": "prog_dragonresearch_dragoncare_dragon_attack_2_curr_food",
+      "id": "b198bb9ba8274e9a",
+      "name": "prog_dragonresearch_dragoncare_dragon_marcherinfantryattackvsplayer_1_item_buildreq_dragon_research_1",
       "values": [
-        6590000,
-        6730000,
-        6830000,
-        6970000,
-        7110000
+        21500,
+        25400,
+        30200,
+        35900,
+        42900
       ]
     },
     {
-      "id": "616c646286e39b50",
-      "name": "prog_dragonresearch_dragoncare_dragon_health_2_curr_stone",
+      "id": "c48ae77071d2bc94",
+      "name": "prog_dragonresearch_dragoncare_dragon_marcherinfantryattackvsplayer_1_item_buildreq_dragon_research_2",
       "values": [
-        1090000,
-        1120000,
-        1160000,
-        1180000,
-        1200000
+        8320,
+        9510,
+        10900,
+        12700,
+        14800
       ]
     },
     {
-      "id": "6af79e30c307774f",
-      "name": "prog_dragonresearch_dragoncare_dragon_health_2_curr_wood",
+      "id": "e87b2cd6c681ed6e",
+      "name": "prog_dragonresearch_dragoncare_dragon_marcherinfantryattackvsplayer_1_item_buildreq_dragon_research_3",
       "values": [
-        6590000,
-        6730000,
-        6830000,
-        6970000,
-        7110000
+        32700,
+        42400,
+        54400,
+        69000,
+        86900
       ]
     },
     {
-      "id": "824102f83192f58a",
-      "name": "prog_dragonresearch_dragoncare_dragon_health_2_curr_food",
+      "id": "bf44770308780be0",
+      "name": "prog_dragonresearch_dragoncare_dragon_marchercavalryattackvsplayer_1_item_buildreq_dragon_research_1",
       "values": [
-        6590000,
-        6730000,
-        6830000,
-        6970000,
-        7110000
+        20700,
+        24400,
+        29000,
+        34600,
+        41300
       ]
     },
     {
-      "id": "8a150b45c095d787",
-      "name": "prog_dragonresearch_dragoncare_dragon_healing_2_curr_stone",
+      "id": "ca562be8d18df9ee",
+      "name": "prog_dragonresearch_dragoncare_dragon_marchercavalryattackvsplayer_1_item_buildreq_dragon_research_2",
+      "values": [
+        8000,
+        9150,
+        10500,
+        12300,
+        14300
+      ]
+    },
+    {
+      "id": "e6a7e04e66dea814",
+      "name": "prog_dragonresearch_dragoncare_dragon_marchercavalryattackvsplayer_1_item_buildreq_dragon_research_3",
+      "values": [
+        31400,
+        40800,
+        52400,
+        66400,
+        83600
+      ]
+    },
+    {
+      "id": "e2842e500f2b50f7",
+      "name": "prog_dragonresearch_dragoncare_dragon_infantryattackvsplayer_1_item_buildreq_dragon_research_1",
+      "values": [
+        25000,
+        29500,
+        35000,
+        41700,
+        49800
+      ]
+    },
+    {
+      "id": "979672bbd6dea2f9",
+      "name": "prog_dragonresearch_dragoncare_dragon_infantryattackvsplayer_1_item_buildreq_dragon_research_2",
+      "values": [
+        9650,
+        11000,
+        12700,
+        14800,
+        17200
+      ]
+    },
+    {
+      "id": "bb67b91d618df303",
+      "name": "prog_dragonresearch_dragoncare_dragon_infantryattackvsplayer_1_item_buildreq_dragon_research_3",
+      "values": [
+        37900,
+        49200,
+        63200,
+        80100,
+        100000
+      ]
+    },
+    {
+      "id": "5f7debb5c902d716",
+      "name": "prog_dragonresearch_dragoncare_dragon_cavalryattackvsplayer_1_item_buildreq_dragon_research_1",
+      "values": [
+        25000,
+        29500,
+        35000,
+        41700,
+        49800
+      ]
+    },
+    {
+      "id": "2a6fb75e10f72518",
+      "name": "prog_dragonresearch_dragoncare_dragon_cavalryattackvsplayer_1_item_buildreq_dragon_research_2",
+      "values": [
+        9650,
+        11000,
+        12700,
+        14800,
+        17200
+      ]
+    },
+    {
+      "id": "69e7cf8a7a474e2",
+      "name": "prog_dragonresearch_dragoncare_dragon_cavalryattackvsplayer_1_item_buildreq_dragon_research_3",
+      "values": [
+        37900,
+        49200,
+        63200,
+        80100,
+        100000
+      ]
+    },
+    {
+      "id": "a5160210b1889b54",
+      "name": "prog_dragonresearch_dragoncare_dragon_health_1_item_buildreq_dragon_research_1",
+      "values": [
+        11200,
+        11400,
+        11700,
+        11900,
+        12100
+      ]
+    },
+    {
+      "id": "d0045efb687d695a",
+      "name": "prog_dragonresearch_dragoncare_dragon_health_1_item_buildreq_dragon_research_2",
+      "values": [
+        5400,
+        5510,
+        5620,
+        5730,
+        5840
+      ]
+    },
+    {
+      "id": "fcf5955ddf2e38a0",
+      "name": "prog_dragonresearch_dragoncare_dragon_health_1_item_buildreq_dragon_research_3",
+      "values": [
+        3600,
+        3670,
+        3750,
+        3820,
+        3890
+      ]
+    },
+    {
+      "id": "2d8a8063c9f39b30",
+      "name": "prog_dragonresearch_dragoncare_dragon_healing_1_curr_stone",
       "values": [
         10300000,
         10600000,
-        10900000,
+        10800000,
+        11000000,
+        11300000
+      ]
+    },
+    {
+      "id": "d348a49aeb85278e",
+      "name": "prog_dragonresearch_dragoncare_dragon_healing_1_curr_wood",
+      "values": [
+        62400000,
+        63800000,
+        65200000,
+        66500000,
+        67900000
+      ]
+    },
+    {
+      "id": "3bfe38521910a54b",
+      "name": "prog_dragonresearch_dragoncare_dragon_healing_1_curr_food",
+      "values": [
+        62400000,
+        63800000,
+        65200000,
+        66500000,
+        67900000
+      ]
+    },
+    {
+      "id": "ac1795a19cae6fcf",
+      "name": "prog_dragonresearch_dragoncare_dragon_MaxMarchSize_1_curr_stone",
+      "values": [
+        10500000,
+        10700000,
+        11000000,
         11200000,
         11400000
       ]
     },
     {
-      "id": "b59b2cb01700f362",
-      "name": "prog_dragonresearch_dragoncare_dragon_healing_2_curr_wood",
+      "id": "59f57424142e0497",
+      "name": "prog_dragonresearch_dragoncare_dragon_MaxMarchSize_1_curr_wood",
       "values": [
-        62400000,
-        63800000,
-        64700000,
-        66000000,
-        67400000
+        63400000,
+        64800000,
+        66200000,
+        67600000,
+        69000000
       ]
     },
     {
-      "id": "5d2db078e59571a7",
-      "name": "prog_dragonresearch_dragoncare_dragon_healing_2_curr_food",
+      "id": "b143e8ece6bb8652",
+      "name": "prog_dragonresearch_dragoncare_dragon_MaxMarchSize_1_curr_food",
       "values": [
-        62400000,
-        63800000,
-        64700000,
-        66000000,
-        67400000
+        63400000,
+        64800000,
+        66200000,
+        67600000,
+        69000000
+      ]
+    },
+    {
+      "id": "e2ee57340794e78b",
+      "name": "prog_dragonresearch_dragoncare_dragon_marchspeed_1_item_buildreq_dragon_research_1",
+      "values": [
+        10100,
+        10300,
+        10500,
+        10700,
+        10900
+      ]
+    },
+    {
+      "id": "97fc0bdfde611585",
+      "name": "prog_dragonresearch_dragoncare_dragon_marchspeed_1_item_buildreq_dragon_research_2",
+      "values": [
+        4860,
+        4950,
+        5050,
+        5150,
+        5240
+      ]
+    },
+    {
+      "id": "bb0dc0796932447f",
+      "name": "prog_dragonresearch_dragoncare_dragon_marchspeed_1_item_buildreq_dragon_research_3",
+      "values": [
+        3240,
+        3300,
+        3370,
+        3430,
+        3490
+      ]
+    },
+    {
+      "id": "d52d96b1a8e66dc6",
+      "name": "prog_dragonresearch_dragoncare_dragon_attack_2_item_buildreq_dragon_research_1",
+      "values": [
+        11200,
+        11400,
+        12800,
+        13000,
+        13200
+      ]
+    },
+    {
+      "id": "a03fca5a71139fc8",
+      "name": "prog_dragonresearch_dragoncare_dragon_attack_2_item_buildreq_dragon_research_2",
+      "values": [
+        5400,
+        5510,
+        5810,
+        5920,
+        6030
+      ]
+    },
+    {
+      "id": "8cce01fcc640ce32",
+      "name": "prog_dragonresearch_dragoncare_dragon_attack_2_item_buildreq_dragon_research_3",
+      "values": [
+        3600,
+        3670,
+        8270,
+        8420,
+        8580
+      ]
+    },
+    {
+      "id": "53a53870c3fc57d0",
+      "name": "prog_dragonresearch_dragoncare_dragon_health_2_item_buildreq_dragon_research_1",
+      "values": [
+        11200,
+        11400,
+        12800,
+        13000,
+        13200
+      ]
+    },
+    {
+      "id": "26b7649b1a09a5de",
+      "name": "prog_dragonresearch_dragoncare_dragon_health_2_item_buildreq_dragon_research_2",
+      "values": [
+        5400,
+        5510,
+        5810,
+        5920,
+        6030
+      ]
+    },
+    {
+      "id": "a46af3dad5af424",
+      "name": "prog_dragonresearch_dragoncare_dragon_health_2_item_buildreq_dragon_research_3",
+      "values": [
+        3600,
+        3670,
+        8270,
+        8420,
+        8580
+      ]
+    },
+    {
+      "id": "944b8e01a6ad8da6",
+      "name": "prog_dragonresearch_dragoncare_dragon_healing_2_item_buildreq_dragon_research_1",
+      "values": [
+        89100,
+        90900,
+        101000,
+        103000,
+        105000
+      ]
+    },
+    {
+      "id": "e159d2ea7f587fa8",
+      "name": "prog_dragonresearch_dragoncare_dragon_healing_2_item_buildreq_dragon_research_2",
+      "values": [
+        42800,
+        43600,
+        45900,
+        46800,
+        47700
+      ]
+    },
+    {
+      "id": "cda8194cc80b2e52",
+      "name": "prog_dragonresearch_dragoncare_dragon_healing_2_item_buildreq_dragon_research_3",
+      "values": [
+        28500,
+        29100,
+        65400,
+        66600,
+        67900
       ]
     },
     {
@@ -12540,36 +12540,36 @@
       ]
     },
     {
-      "id": "7ce21012dbf0bc0d",
-      "name": "prog_dragonresearch_dragoncare_dragon_MaxMarchSize_2_item_buildreq_dragon_research_1",
+      "id": "b881e8795c82378",
+      "name": "prog_dragonresearch_dragoncare_dragon_MaxMarchSize_2_curr_stone",
       "values": [
-        90500,
-        100000,
-        114000,
-        131000,
-        152000
+        34500000,
+        41300000,
+        48900000,
+        59000000,
+        71200000
       ]
     },
     {
-      "id": "9f04cf902054e03",
-      "name": "prog_dragonresearch_dragoncare_dragon_MaxMarchSize_2_item_buildreq_dragon_research_2",
+      "id": "3f26fc0ee8abd07b",
+      "name": "prog_dragonresearch_dragoncare_dragon_MaxMarchSize_2_curr_wood",
       "values": [
-        43400,
-        45700,
-        49300,
-        54300,
-        61100
+        148000000,
+        172000000,
+        201000000,
+        235000000,
+        275000000
       ]
     },
     {
-      "id": "2501875fb5561ff9",
-      "name": "prog_dragonresearch_dragoncare_dragon_MaxMarchSize_2_item_buildreq_dragon_research_3",
+      "id": "d79060c61a3e52be",
+      "name": "prog_dragonresearch_dragoncare_dragon_MaxMarchSize_2_curr_food",
       "values": [
-        28900,
-        65100,
-        105000,
-        150000,
-        206000
+        148000000,
+        172000000,
+        201000000,
+        235000000,
+        275000000
       ]
     },
     {
