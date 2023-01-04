@@ -10040,6 +10040,257 @@
       "steel_cost": 520000000,
       "template_level": 45,
       "upgrade_time_seconds": 345600
+    },
+    {
+      "id": "1d48bbe7b73b9f9a",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_summerhall_1",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 10
+        }
+      ],
+      "name": "eq_events_trinket_summerhall_1_trinket_lord1",
+      "steel_cost": 500,
+      "template_level": 0,
+      "upgrade_time_seconds": 3600
+    },
+    {
+      "id": "da0e69cfe18121f0",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_summerhall_1",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 10
+        }
+      ],
+      "name": "eq_events_trinket_summerhall_5_trinket_lord5",
+      "steel_cost": 4000,
+      "template_level": 1,
+      "upgrade_time_seconds": 3600
+    },
+    {
+      "id": "27a73c7988e4697b",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_summerhall_1",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 20
+        }
+      ],
+      "name": "eq_events_trinket_summerhall_10_trinket_lord10",
+      "steel_cost": 36500,
+      "template_level": 5,
+      "upgrade_time_seconds": 7200
+    },
+    {
+      "id": "669632c443e3017",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_summerhall_1",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 120
+        }
+      ],
+      "name": "eq_events_trinket_summerhall_15_trinket_lord15",
+      "steel_cost": 148000,
+      "template_level": 10,
+      "upgrade_time_seconds": 21600
+    },
+    {
+      "id": "5dbaec0c69b051e",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_summerhall_1",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 400
+        }
+      ],
+      "name": "eq_events_trinket_summerhall_20_trinket_lord20",
+      "steel_cost": 534000,
+      "template_level": 15,
+      "upgrade_time_seconds": 43200
+    },
+    {
+      "id": "2415f1950a415c72",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_summerhall_1",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 1200
+        }
+      ],
+      "name": "eq_events_trinket_summerhall_25_trinket_lord25",
+      "steel_cost": 1800000,
+      "template_level": 20,
+      "upgrade_time_seconds": 64800
+    },
+    {
+      "id": "1bf020a8034e213d",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_summerhall_1",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 3000
+        }
+      ],
+      "name": "eq_events_trinket_summerhall_30_trinket_lord30",
+      "steel_cost": 5850000,
+      "template_level": 25,
+      "upgrade_time_seconds": 86400
+    },
+    {
+      "id": "3a3e7ffdcf947851",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_summerhall_1",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 12000
+        }
+      ],
+      "name": "eq_events_trinket_summerhall_35_trinket_lord35",
+      "steel_cost": 18400000,
+      "template_level": 30,
+      "upgrade_time_seconds": 129600
+    },
+    {
+      "id": "41228bb25a65ddd4",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_summerhall_1",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 45000
+        }
+      ],
+      "name": "eq_events_trinket_summerhall_40_trinket_lord40",
+      "steel_cost": 56900000,
+      "template_level": 35,
+      "upgrade_time_seconds": 172800
+    },
+    {
+      "id": "60ecd4e796bf84b8",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_summerhall_1",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 120000
+        }
+      ],
+      "name": "eq_events_trinket_summerhall_45_trinket_lord45",
+      "steel_cost": 173000000,
+      "template_level": 40,
+      "upgrade_time_seconds": 259200
+    },
+    {
+      "id": "5f0905da9fb0f9f7",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_summerhall_1",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 450000
+        }
+      ],
+      "name": "eq_events_trinket_summerhall_50_trinket_lord50",
+      "steel_cost": 520000000,
+      "template_level": 45,
+      "upgrade_time_seconds": 345600
     }
   ]
 }

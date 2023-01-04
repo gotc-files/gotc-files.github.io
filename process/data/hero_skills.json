@@ -4016,6 +4016,126 @@
       "skill_type": "COUNCIL",
       "stat_name": "property_InfantryAttackVsPlayer_hero",
       "unlock_level": 0
+    },
+    {
+      "id": "b1ae626e29846516",
+      "name": "heroskill_visgen_hero_missandei_daughterofnaath_3",
+      "skill_type": "MARCH",
+      "star_skill_value": 0.330479979515076,
+      "stat_name": "driven_RangedHealthVsPlayer",
+      "unlock_level": 10
+    },
+    {
+      "id": "777b101f2d3cd0f0",
+      "name": "heroskill_visgen_hero_missandei_daughterofnaath_4",
+      "skill_type": "COUNCIL",
+      "star_skill_value": 1836.0,
+      "stat_name": "property_MaxMarchSizeReinforceSoP_hero",
+      "unlock_level": 20
+    },
+    {
+      "id": "5b8adbb99a6f810a",
+      "name": "heroskill_visgen_hero_missandei_daughterofnaath_5",
+      "skill_type": "COUNCIL",
+      "star_skill_value": 0.406979978084564,
+      "stat_name": "property_DragonMarcherCavalryDefenseVsPlayer_hero",
+      "unlock_level": 30
+    },
+    {
+      "id": "2e988752439a7304",
+      "name": "heroskill_visgen_hero_missandei_daughterofnaath_6",
+      "skill_type": "MARCH",
+      "star_skill_value": 0.455327987670898,
+      "stat_name": "driven_RangedAttack",
+      "unlock_level": 40
+    },
+    {
+      "id": "2694cf4f4c922fe",
+      "name": "heroskill_visgen_hero_missandei_daughterofnaath_7",
+      "skill_type": "COUNCIL",
+      "star_skill_value": 0.52020001411438,
+      "stat_name": "property_CavalryDefenseVsPlayersRanged_hero",
+      "unlock_level": 50
+    },
+    {
+      "id": "218821c5034457e3",
+      "name": "heroskill_visgen_hero_missandei_daughterofnaath_8",
+      "skill_type": "MARCH",
+      "star_skill_value": 2203.0,
+      "stat_name": "driven_MaxMarchSizeVsSOP",
+      "unlock_level": 60
+    },
+    {
+      "id": "e84df5234722c6e2",
+      "name": "heroskill_visgen_hero_missandei_daughterofnaath_1",
+      "signature_skill_progression_name": "heropropertyprog_visgen_hero_missandei_daughterofnaath_1",
+      "skill_type": "MARCH",
+      "stat_name": "driven_MaxMarchSize",
+      "unlock_level": 0
+    },
+    {
+      "id": "9d5fa9c89ed734ec",
+      "name": "heroskill_visgen_hero_missandei_daughterofnaath_2",
+      "signature_skill_progression_name": "heropropertyprog_visgen_hero_missandei_daughterofnaath_2",
+      "skill_type": "COUNCIL",
+      "stat_name": "property_CavalryHealthVsSeatOfPower_hero",
+      "unlock_level": 0
+    },
+    {
+      "id": "d2b635c5c464a107",
+      "name": "heroskill_visgen_hero_roosebolton_lordofthedreadfort_3",
+      "skill_type": "MARCH",
+      "star_skill_value": 0.352512001991272,
+      "stat_name": "driven_InfantryHealthVsSeatOfPower",
+      "unlock_level": 10
+    },
+    {
+      "id": "146347b4c0dc14e1",
+      "name": "heroskill_visgen_hero_roosebolton_lordofthedreadfort_4",
+      "skill_type": "COUNCIL",
+      "star_skill_value": 0.381888002157211,
+      "stat_name": "property_RangedAttackVsSeatOfPower_hero",
+      "unlock_level": 20
+    },
+    {
+      "id": "38928c12778f451b",
+      "name": "heroskill_visgen_hero_roosebolton_lordofthedreadfort_5",
+      "skill_type": "MARCH",
+      "star_skill_value": 0.445536017417908,
+      "stat_name": "driven_MarcherInfantryAttackVsPlayer",
+      "unlock_level": 30
+    },
+    {
+      "id": "4d80d0f9ae7ab715",
+      "name": "heroskill_visgen_hero_roosebolton_lordofthedreadfort_6",
+      "skill_type": "COUNCIL",
+      "star_skill_value": 0.489600002765656,
+      "stat_name": "property_RangedDefenseVsPlayersInfantry_hero",
+      "unlock_level": 40
+    },
+    {
+      "id": "61711b5f1929e6ef",
+      "name": "heroskill_visgen_hero_roosebolton_lordofthedreadfort_7",
+      "skill_type": "MARCH",
+      "star_skill_value": 0.505267202854156,
+      "stat_name": "driven_InfantryAttackVsPlayersRanged",
+      "unlock_level": 50
+    },
+    {
+      "id": "8b55a288aac202f3",
+      "name": "heroskill_visgen_hero_roosebolton_lordofthedreadfort_1",
+      "signature_skill_progression_name": "heropropertyprog_visgen_hero_roosebolton_lordofthedreadfort_1",
+      "skill_type": "MARCH",
+      "stat_name": "driven_MaxMarchSize",
+      "unlock_level": 0
+    },
+    {
+      "id": "fe47fe637337f0fd",
+      "name": "heroskill_visgen_hero_roosebolton_lordofthedreadfort_2",
+      "signature_skill_progression_name": "heropropertyprog_visgen_hero_roosebolton_lordofthedreadfort_2",
+      "skill_type": "COUNCIL",
+      "stat_name": "property_RangedAttackVsPlayer_hero",
+      "unlock_level": 0
     }
   ]
 }

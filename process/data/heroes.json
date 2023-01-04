@@ -1830,6 +1830,59 @@
         "herotrait_braavosi"
       ],
       "xp_progression_name": "prog_heroxp_mythic"
+    },
+    {
+      "description_placeholder": "HERO_MISSANDEI_DAUGHTEROFNAATH_DESC",
+      "event_score_progression_name": "prog_hero_eventscore_mythic_1",
+      "id": "5655bc84f1fe0777",
+      "max_stars": 6,
+      "name": "hero_missandei_daughterofnaath",
+      "name_placeholder": "HERO_MISSANDEI_DAUGHTEROFNAATH_NAME",
+      "oath_progression_name": "prog_hero_adv_stones_cost_mythic_1",
+      "rarity": 4,
+      "relic_name": "item_hero_adv_missandei_daughterofnaath_1",
+      "relic_progression_name": "prog_shardcost_mythic",
+      "skills": [
+        "heroskill_visgen_hero_missandei_daughterofnaath_3",
+        "heroskill_visgen_hero_missandei_daughterofnaath_4",
+        "heroskill_visgen_hero_missandei_daughterofnaath_5",
+        "heroskill_visgen_hero_missandei_daughterofnaath_6",
+        "heroskill_visgen_hero_missandei_daughterofnaath_7",
+        "heroskill_visgen_hero_missandei_daughterofnaath_8",
+        "heroskill_visgen_hero_missandei_daughterofnaath_1",
+        "heroskill_visgen_hero_missandei_daughterofnaath_2"
+      ],
+      "traits": [
+        "herotrait_masterofships",
+        "herotrait_targaryen"
+      ],
+      "xp_progression_name": "prog_heroxp_mythic"
+    },
+    {
+      "description_placeholder": "HERO_ROOSEBOLTON_LORDOFTHEDREADFORT_DESC",
+      "event_score_progression_name": "prog_hero_eventscore_heroic_1",
+      "id": "6207368892e69a62",
+      "max_stars": 5,
+      "name": "hero_roosebolton_lordofthedreadfort",
+      "name_placeholder": "HERO_ROOSEBOLTON_LORDOFTHEDREADFORT_NAME",
+      "oath_progression_name": "prog_hero_adv_stones_cost_heroic_1",
+      "rarity": 3,
+      "relic_name": "item_hero_adv_roosebolton_lordofthedreadfort_1",
+      "relic_progression_name": "prog_shardcost_heroic",
+      "skills": [
+        "heroskill_visgen_hero_roosebolton_lordofthedreadfort_3",
+        "heroskill_visgen_hero_roosebolton_lordofthedreadfort_4",
+        "heroskill_visgen_hero_roosebolton_lordofthedreadfort_5",
+        "heroskill_visgen_hero_roosebolton_lordofthedreadfort_6",
+        "heroskill_visgen_hero_roosebolton_lordofthedreadfort_7",
+        "heroskill_visgen_hero_roosebolton_lordofthedreadfort_1",
+        "heroskill_visgen_hero_roosebolton_lordofthedreadfort_2"
+      ],
+      "traits": [
+        "herotrait_masterofwar",
+        "herotrait_stark"
+      ],
+      "xp_progression_name": "prog_heroxp_heroic"
     }
   ]
 }
