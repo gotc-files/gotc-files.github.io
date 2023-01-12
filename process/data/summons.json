@@ -2618,6 +2618,84 @@
         "summon_purchase_royal_BarristanTyrionDEC22VARIANT_Gold_1x_top",
         "summon_purchase_royal_BarristanTyrionDEC22VARIANT_Gold_10x_top"
       ]
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "MissandeiRoose",
+      "id": "d743bd564520a0c2",
+      "name": "summon_noble_MissandeiRooseJAN23_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_MissandeiRooseJAN23_Hero_1x_top",
+        "summon_purchase_noble_MissandeiRooseJAN23_Hero_10x_top"
+      ],
+      "time_str": "JAN23"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "DaenerysEddard",
+      "id": "711cf46113101032",
+      "name": "summon_noble_DaenerysEddardJAN23_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_DaenerysEddardJAN23_Hero_1x_top",
+        "summon_purchase_noble_DaenerysEddardJAN23_Hero_10x_top"
+      ],
+      "time_str": "JAN23"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "YoungNedTyrion",
+      "id": "dfa6ea854a853104",
+      "name": "summon_noble_YoungNedTyrionJAN23_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_YoungNedTyrionJAN23_Hero_1x_top",
+        "summon_purchase_noble_YoungNedTyrionJAN23_Hero_10x_top"
+      ],
+      "time_str": "JAN23"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "MissandeiRoose",
+      "id": "d056963bf7a789bf",
+      "name": "summon_royal_MissandeiRooseJAN23_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_MissandeiRooseJAN23_Gold_1x_top",
+        "summon_purchase_royal_MissandeiRooseJAN23_Gold_10x_top"
+      ],
+      "time_str": "JAN23"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "DaenerysEddard",
+      "id": "7609df0ca197394f",
+      "name": "summon_royal_DaenerysEddardJAN23_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_DaenerysEddardJAN23_Gold_1x_top",
+        "summon_purchase_royal_DaenerysEddardJAN23_Gold_10x_top"
+      ],
+      "time_str": "JAN23"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "YoungNedTyrion",
+      "id": "d8b3c1e8f8021879",
+      "name": "summon_royal_YoungNedTyrionJAN23_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_YoungNedTyrionJAN23_Gold_1x_top",
+        "summon_purchase_royal_YoungNedTyrionJAN23_Gold_10x_top"
+      ],
+      "time_str": "JAN23"
     }
   ]
 }

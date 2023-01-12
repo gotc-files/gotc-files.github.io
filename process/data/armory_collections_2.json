@@ -492,6 +492,18 @@
       "name": "armcol_events_summerhall",
       "name_placeholder": "EQ_EVENTS_SUMMERHALL_SET_NAME",
       "priority": 24300
+    },
+    {
+      "bonuses": [
+        "armcol_events_harrenhal3_1",
+        "armcol_events_harrenhal3_2",
+        "armcol_events_harrenhal3_3"
+      ],
+      "gear_set_name": "gearset_events_harrenhal3",
+      "id": "ca6a6135786f4e7a",
+      "name": "armcol_events_harrenhal3",
+      "name_placeholder": "EQ_EVENTS_HARRENHAL3_SET_NAME",
+      "priority": 24900
     }
   ]
 }

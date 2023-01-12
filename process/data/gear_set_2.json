@@ -1107,6 +1107,33 @@
       "ring_name": "prog_gearset_events_summerhall_ring",
       "weapon_id": "f222bdbc5cd0e8e5",
       "weapon_name": "prog_gearset_events_summerhall_weapon"
+    },
+    {
+      "boots_id": "f384824d792e4f53",
+      "boots_name": "prog_gearset_events_harrenhal3_boots",
+      "chest_id": "cfff3ee74db17e6b",
+      "chest_name": "prog_gearset_events_harrenhal3_chest",
+      "color": {
+        "alpha": 255,
+        "blue": 0,
+        "green": 232,
+        "red": 255
+      },
+      "description_placeholder": "EQ_EVENTS_HARRENHAL3_SET_DESCRIPTION",
+      "helmet_id": "6123da5c7bf328f5",
+      "helmet_name": "prog_gearset_events_harrenhal3_helmet",
+      "id": "29275c8d86fc1cee",
+      "material_id": 14823748228912957975,
+      "material_name": "mat_event_harrenhal3_1",
+      "name": "gearset_events_harrenhal3",
+      "name_placeholder": "EQ_EVENTS_HARRENHAL3_SET_NAME",
+      "pants_id": "4ab7e8efab69ee1a",
+      "pants_name": "prog_gearset_events_harrenhal3_pants",
+      "priority": 24900,
+      "ring_id": "c9117a822f167bbf",
+      "ring_name": "prog_gearset_events_harrenhal3_ring",
+      "weapon_id": "13761ce512319e26",
+      "weapon_name": "prog_gearset_events_harrenhal3_weapon"
     }
   ]
 }

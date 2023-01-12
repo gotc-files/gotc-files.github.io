@@ -22140,6 +22140,546 @@
       "name_placeholder": "EQ_EVENTS_SUMMERHALL_50_WEAPON_LORD50_NAME",
       "priority": 302460,
       "slot_name": "slot_Weapon"
+    },
+    {
+      "id": "5b9af3234355f41a",
+      "image": "icon_eq_events_harrenhal3_boots_1.png",
+      "level": 5,
+      "name": "eq_events_harrenhal3_5_boots_lord5",
+      "name_placeholder": "EQ_EVENTS_HARRENHAL3_5_BOOTS_LORD5_NAME",
+      "priority": 302461,
+      "slot_name": "slot_Boots"
+    },
+    {
+      "id": "4b30a47b6cf2ea8d",
+      "image": "icon_eq_events_harrenhal3_chest_1.png",
+      "level": 5,
+      "name": "eq_events_harrenhal3_5_chest_lord5",
+      "name_placeholder": "EQ_EVENTS_HARRENHAL3_5_CHEST_LORD5_NAME",
+      "priority": 302462,
+      "slot_name": "slot_Chest"
+    },
+    {
+      "id": "f3b7ee50902f8b62",
+      "image": "icon_eq_events_harrenhal3_helmet_1.png",
+      "level": 5,
+      "name": "eq_events_harrenhal3_5_helmet_lord5",
+      "name_placeholder": "EQ_EVENTS_HARRENHAL3_5_HELMET_LORD5_NAME",
+      "priority": 302463,
+      "slot_name": "slot_Helmet"
+    },
+    {
+      "id": "9818e6581e0a2396",
+      "image": "icon_eq_events_harrenhal3_pants_1.png",
+      "level": 5,
+      "name": "eq_events_harrenhal3_5_pants_lord5",
+      "name_placeholder": "EQ_EVENTS_HARRENHAL3_5_PANTS_LORD5_NAME",
+      "priority": 302464,
+      "slot_name": "slot_Pants"
+    },
+    {
+      "id": "260af90dbdaf7c96",
+      "image": "icon_eq_events_harrenhal3_ring_1.png",
+      "level": 5,
+      "name": "eq_events_harrenhal3_5_ring_lord5",
+      "name_placeholder": "EQ_EVENTS_HARRENHAL3_5_RING_LORD5_NAME",
+      "priority": 302465,
+      "slot_name": "slot_Ring"
+    },
+    {
+      "id": "946a7667d9f0d5ef",
+      "image": "icon_eq_events_harrenhal3_weapon_1.png",
+      "level": 5,
+      "name": "eq_events_harrenhal3_5_weapon_lord5",
+      "name_placeholder": "EQ_EVENTS_HARRENHAL3_5_WEAPON_LORD5_NAME",
+      "priority": 302466,
+      "slot_name": "slot_Weapon"
+    },
+    {
+      "id": "e1585aa24cfc2188",
+      "image": "icon_eq_events_harrenhal3_boots_1.png",
+      "level": 10,
+      "name": "eq_events_harrenhal3_10_boots_lord10",
+      "name_placeholder": "EQ_EVENTS_HARRENHAL3_10_BOOTS_LORD10_NAME",
+      "priority": 302467,
+      "slot_name": "slot_Boots"
+    },
+    {
+      "id": "ae12df4a1b785a38",
+      "image": "icon_eq_events_harrenhal3_chest_1.png",
+      "level": 10,
+      "name": "eq_events_harrenhal3_10_chest_lord10",
+      "name_placeholder": "EQ_EVENTS_HARRENHAL3_10_CHEST_LORD10_NAME",
+      "priority": 302468,
+      "slot_name": "slot_Chest"
+    },
+    {
+      "id": "3b5244d6c6934c6a",
+      "image": "icon_eq_events_harrenhal3_helmet_1.png",
+      "level": 10,
+      "name": "eq_events_harrenhal3_10_helmet_lord10",
+      "name_placeholder": "EQ_EVENTS_HARRENHAL3_10_HELMET_LORD10_NAME",
+      "priority": 302469,
+      "slot_name": "slot_Helmet"
+    },
+    {
+      "id": "7635c857bd0e5ed9",
+      "image": "icon_eq_events_harrenhal3_pants_1.png",
+      "level": 10,
+      "name": "eq_events_harrenhal3_10_pants_lord10",
+      "name_placeholder": "EQ_EVENTS_HARRENHAL3_10_PANTS_LORD10_NAME",
+      "priority": 302470,
+      "slot_name": "slot_Pants"
+    },
+    {
+      "id": "a7492aab8ab79f98",
+      "image": "icon_eq_events_harrenhal3_ring_1.png",
+      "level": 10,
+      "name": "eq_events_harrenhal3_10_ring_lord10",
+      "name_placeholder": "EQ_EVENTS_HARRENHAL3_10_RING_LORD10_NAME",
+      "priority": 302471,
+      "slot_name": "slot_Ring"
+    },
+    {
+      "id": "806a4208cc26e248",
+      "image": "icon_eq_events_harrenhal3_weapon_1.png",
+      "level": 10,
+      "name": "eq_events_harrenhal3_10_weapon_lord10",
+      "name_placeholder": "EQ_EVENTS_HARRENHAL3_10_WEAPON_LORD10_NAME",
+      "priority": 302472,
+      "slot_name": "slot_Weapon"
+    },
+    {
+      "id": "6b322270bfafc478",
+      "image": "icon_eq_events_harrenhal3_boots_1.png",
+      "level": 15,
+      "name": "eq_events_harrenhal3_15_boots_lord15",
+      "name_placeholder": "EQ_EVENTS_HARRENHAL3_15_BOOTS_LORD15_NAME",
+      "priority": 302473,
+      "slot_name": "slot_Boots"
+    },
+    {
+      "id": "2478a798e82bbfc8",
+      "image": "icon_eq_events_harrenhal3_chest_1.png",
+      "level": 15,
+      "name": "eq_events_harrenhal3_15_chest_lord15",
+      "name_placeholder": "EQ_EVENTS_HARRENHAL3_15_CHEST_LORD15_NAME",
+      "priority": 302474,
+      "slot_name": "slot_Chest"
+    },
+    {
+      "id": "c98034e2150fa0f",
+      "image": "icon_eq_events_harrenhal3_helmet_1.png",
+      "level": 15,
+      "name": "eq_events_harrenhal3_15_helmet_lord15",
+      "name_placeholder": "EQ_EVENTS_HARRENHAL3_15_HELMET_LORD15_NAME",
+      "priority": 302475,
+      "slot_name": "slot_Helmet"
+    },
+    {
+      "id": "fc5fb0854e5dbb29",
+      "image": "icon_eq_events_harrenhal3_pants_1.png",
+      "level": 15,
+      "name": "eq_events_harrenhal3_15_pants_lord15",
+      "name_placeholder": "EQ_EVENTS_HARRENHAL3_15_PANTS_LORD15_NAME",
+      "priority": 302476,
+      "slot_name": "slot_Pants"
+    },
+    {
+      "id": "d82e5785337baf49",
+      "image": "icon_eq_events_harrenhal3_ring_1.png",
+      "level": 15,
+      "name": "eq_events_harrenhal3_15_ring_lord15",
+      "name_placeholder": "EQ_EVENTS_HARRENHAL3_15_RING_LORD15_NAME",
+      "priority": 302477,
+      "slot_name": "slot_Ring"
+    },
+    {
+      "id": "b7a005902be5542d",
+      "image": "icon_eq_events_harrenhal3_weapon_1.png",
+      "level": 15,
+      "name": "eq_events_harrenhal3_15_weapon_lord15",
+      "name_placeholder": "EQ_EVENTS_HARRENHAL3_15_WEAPON_LORD15_NAME",
+      "priority": 302478,
+      "slot_name": "slot_Weapon"
+    },
+    {
+      "id": "8004e26a42a55a9",
+      "image": "icon_eq_events_harrenhal3_boots_1.png",
+      "level": 20,
+      "name": "eq_events_harrenhal3_20_boots_lord20",
+      "name_placeholder": "EQ_EVENTS_HARRENHAL3_20_BOOTS_LORD20_NAME",
+      "priority": 302479,
+      "slot_name": "slot_Boots"
+    },
+    {
+      "id": "474acbcef3ae2e19",
+      "image": "icon_eq_events_harrenhal3_chest_1.png",
+      "level": 20,
+      "name": "eq_events_harrenhal3_20_chest_lord20",
+      "name_placeholder": "EQ_EVENTS_HARRENHAL3_20_CHEST_LORD20_NAME",
+      "priority": 302480,
+      "slot_name": "slot_Chest"
+    },
+    {
+      "id": "5e60663a0fd75855",
+      "image": "icon_eq_events_harrenhal3_helmet_1.png",
+      "level": 20,
+      "name": "eq_events_harrenhal3_20_helmet_lord20",
+      "name_placeholder": "EQ_EVENTS_HARRENHAL3_20_HELMET_LORD20_NAME",
+      "priority": 302481,
+      "slot_name": "slot_Helmet"
+    },
+    {
+      "id": "9f6ddcd355d82af8",
+      "image": "icon_eq_events_harrenhal3_pants_1.png",
+      "level": 20,
+      "name": "eq_events_harrenhal3_20_pants_lord20",
+      "name_placeholder": "EQ_EVENTS_HARRENHAL3_20_PANTS_LORD20_NAME",
+      "priority": 302482,
+      "slot_name": "slot_Pants"
+    },
+    {
+      "id": "a4e7153a568b1fd3",
+      "image": "icon_eq_events_harrenhal3_ring_1.png",
+      "level": 20,
+      "name": "eq_events_harrenhal3_20_ring_lord20",
+      "name_placeholder": "EQ_EVENTS_HARRENHAL3_20_RING_LORD20_NAME",
+      "priority": 302483,
+      "slot_name": "slot_Ring"
+    },
+    {
+      "id": "e55860e40562f677",
+      "image": "icon_eq_events_harrenhal3_weapon_1.png",
+      "level": 20,
+      "name": "eq_events_harrenhal3_20_weapon_lord20",
+      "name_placeholder": "EQ_EVENTS_HARRENHAL3_20_WEAPON_LORD20_NAME",
+      "priority": 302484,
+      "slot_name": "slot_Weapon"
+    },
+    {
+      "id": "826a36f45779b059",
+      "image": "icon_eq_events_harrenhal3_boots_1.png",
+      "level": 25,
+      "name": "eq_events_harrenhal3_25_boots_lord25",
+      "name_placeholder": "EQ_EVENTS_HARRENHAL3_25_BOOTS_LORD25_NAME",
+      "priority": 302485,
+      "slot_name": "slot_Boots"
+    },
+    {
+      "id": "cd20b31c00fdcbe9",
+      "image": "icon_eq_events_harrenhal3_chest_1.png",
+      "level": 25,
+      "name": "eq_events_harrenhal3_25_chest_lord25",
+      "name_placeholder": "EQ_EVENTS_HARRENHAL3_25_CHEST_LORD25_NAME",
+      "priority": 302486,
+      "slot_name": "slot_Chest"
+    },
+    {
+      "id": "69aa21a2e814ee30",
+      "image": "icon_eq_events_harrenhal3_helmet_1.png",
+      "level": 25,
+      "name": "eq_events_harrenhal3_25_helmet_lord25",
+      "name_placeholder": "EQ_EVENTS_HARRENHAL3_25_HELMET_LORD25_NAME",
+      "priority": 302487,
+      "slot_name": "slot_Helmet"
+    },
+    {
+      "id": "1507a401a68bcf08",
+      "image": "icon_eq_events_harrenhal3_pants_1.png",
+      "level": 25,
+      "name": "eq_events_harrenhal3_25_pants_lord25",
+      "name_placeholder": "EQ_EVENTS_HARRENHAL3_25_PANTS_LORD25_NAME",
+      "priority": 302488,
+      "slot_name": "slot_Pants"
+    },
+    {
+      "id": "db806814ef472f02",
+      "image": "icon_eq_events_harrenhal3_ring_1.png",
+      "level": 25,
+      "name": "eq_events_harrenhal3_25_ring_lord25",
+      "name_placeholder": "EQ_EVENTS_HARRENHAL3_25_RING_LORD25_NAME",
+      "priority": 302489,
+      "slot_name": "slot_Ring"
+    },
+    {
+      "id": "d292277ce2a14012",
+      "image": "icon_eq_events_harrenhal3_weapon_1.png",
+      "level": 25,
+      "name": "eq_events_harrenhal3_25_weapon_lord25",
+      "name_placeholder": "EQ_EVENTS_HARRENHAL3_25_WEAPON_LORD25_NAME",
+      "priority": 302490,
+      "slot_name": "slot_Weapon"
+    },
+    {
+      "id": "d15e7c763b02bcaf",
+      "image": "icon_eq_events_harrenhal3_boots_1.png",
+      "level": 30,
+      "name": "eq_events_harrenhal3_30_boots_lord30",
+      "name_placeholder": "EQ_EVENTS_HARRENHAL3_30_BOOTS_LORD30_NAME",
+      "priority": 302491,
+      "slot_name": "slot_Boots"
+    },
+    {
+      "id": "9e14f99e6c86c71f",
+      "image": "icon_eq_events_harrenhal3_chest_1.png",
+      "level": 30,
+      "name": "eq_events_harrenhal3_30_chest_lord30",
+      "name_placeholder": "EQ_EVENTS_HARRENHAL3_30_CHEST_LORD30_NAME",
+      "priority": 302492,
+      "slot_name": "slot_Chest"
+    },
+    {
+      "id": "7d71879e48eb5440",
+      "image": "icon_eq_events_harrenhal3_helmet_1.png",
+      "level": 30,
+      "name": "eq_events_harrenhal3_30_helmet_lord30",
+      "name_placeholder": "EQ_EVENTS_HARRENHAL3_30_HELMET_LORD30_NAME",
+      "priority": 302493,
+      "slot_name": "slot_Helmet"
+    },
+    {
+      "id": "4633ee83caf0c3fe",
+      "image": "icon_eq_events_harrenhal3_pants_1.png",
+      "level": 30,
+      "name": "eq_events_harrenhal3_30_pants_lord30",
+      "name_placeholder": "EQ_EVENTS_HARRENHAL3_30_PANTS_LORD30_NAME",
+      "priority": 302494,
+      "slot_name": "slot_Pants"
+    },
+    {
+      "id": "a582ffb51d609fea",
+      "image": "icon_eq_events_harrenhal3_ring_1.png",
+      "level": 30,
+      "name": "eq_events_harrenhal3_30_ring_lord30",
+      "name_placeholder": "EQ_EVENTS_HARRENHAL3_30_RING_LORD30_NAME",
+      "priority": 302495,
+      "slot_name": "slot_Ring"
+    },
+    {
+      "id": "c6498140425efa62",
+      "image": "icon_eq_events_harrenhal3_weapon_1.png",
+      "level": 30,
+      "name": "eq_events_harrenhal3_30_weapon_lord30",
+      "name_placeholder": "EQ_EVENTS_HARRENHAL3_30_WEAPON_LORD30_NAME",
+      "priority": 302496,
+      "slot_name": "slot_Weapon"
+    },
+    {
+      "id": "5b3404a4c851595f",
+      "image": "icon_eq_events_harrenhal3_boots_1.png",
+      "level": 35,
+      "name": "eq_events_harrenhal3_35_boots_lord35",
+      "name_placeholder": "EQ_EVENTS_HARRENHAL3_35_BOOTS_LORD35_NAME",
+      "priority": 302497,
+      "slot_name": "slot_Boots"
+    },
+    {
+      "id": "147e814c9fd522ef",
+      "image": "icon_eq_events_harrenhal3_chest_1.png",
+      "level": 35,
+      "name": "eq_events_harrenhal3_35_chest_lord35",
+      "name_placeholder": "EQ_EVENTS_HARRENHAL3_35_CHEST_LORD35_NAME",
+      "priority": 302498,
+      "slot_name": "slot_Chest"
+    },
+    {
+      "id": "4abbc006af28e225",
+      "image": "icon_eq_events_harrenhal3_helmet_1.png",
+      "level": 35,
+      "name": "eq_events_harrenhal3_35_helmet_lord35",
+      "name_placeholder": "EQ_EVENTS_HARRENHAL3_35_HELMET_LORD35_NAME",
+      "priority": 302499,
+      "slot_name": "slot_Helmet"
+    },
+    {
+      "id": "cc59965139a3260e",
+      "image": "icon_eq_events_harrenhal3_pants_1.png",
+      "level": 35,
+      "name": "eq_events_harrenhal3_35_pants_lord35",
+      "name_placeholder": "EQ_EVENTS_HARRENHAL3_35_PANTS_LORD35_NAME",
+      "priority": 302500,
+      "slot_name": "slot_Pants"
+    },
+    {
+      "id": "dae5829ba4acaf3b",
+      "image": "icon_eq_events_harrenhal3_ring_1.png",
+      "level": 35,
+      "name": "eq_events_harrenhal3_35_ring_lord35",
+      "name_placeholder": "EQ_EVENTS_HARRENHAL3_35_RING_LORD35_NAME",
+      "priority": 302501,
+      "slot_name": "slot_Ring"
+    },
+    {
+      "id": "f183c6d8a59d4c07",
+      "image": "icon_eq_events_harrenhal3_weapon_1.png",
+      "level": 35,
+      "name": "eq_events_harrenhal3_35_weapon_lord35",
+      "name_placeholder": "EQ_EVENTS_HARRENHAL3_35_WEAPON_LORD35_NAME",
+      "priority": 302502,
+      "slot_name": "slot_Weapon"
+    },
+    {
+      "id": "580a255a3c29f2c0",
+      "image": "icon_eq_events_harrenhal3_boots_1.png",
+      "level": 40,
+      "name": "eq_events_harrenhal3_40_boots_lord40",
+      "name_placeholder": "EQ_EVENTS_HARRENHAL3_40_BOOTS_LORD40_NAME",
+      "priority": 302503,
+      "slot_name": "slot_Boots"
+    },
+    {
+      "id": "1740a0b26bad8970",
+      "image": "icon_eq_events_harrenhal3_chest_1.png",
+      "level": 40,
+      "name": "eq_events_harrenhal3_40_chest_lord40",
+      "name_placeholder": "EQ_EVENTS_HARRENHAL3_40_CHEST_LORD40_NAME",
+      "priority": 302504,
+      "slot_name": "slot_Chest"
+    },
+    {
+      "id": "940423e39d5f702b",
+      "image": "icon_eq_events_harrenhal3_helmet_1.png",
+      "level": 40,
+      "name": "eq_events_harrenhal3_40_helmet_lord40",
+      "name_placeholder": "EQ_EVENTS_HARRENHAL3_40_HELMET_LORD40_NAME",
+      "priority": 302505,
+      "slot_name": "slot_Helmet"
+    },
+    {
+      "id": "cf67b7afcddb8d91",
+      "image": "icon_eq_events_harrenhal3_pants_1.png",
+      "level": 40,
+      "name": "eq_events_harrenhal3_40_pants_lord40",
+      "name_placeholder": "EQ_EVENTS_HARRENHAL3_40_PANTS_LORD40_NAME",
+      "priority": 302506,
+      "slot_name": "slot_Pants"
+    },
+    {
+      "id": "a3bb6a19eef21f45",
+      "image": "icon_eq_events_harrenhal3_ring_1.png",
+      "level": 40,
+      "name": "eq_events_harrenhal3_40_ring_lord40",
+      "name_placeholder": "EQ_EVENTS_HARRENHAL3_40_RING_LORD40_NAME",
+      "priority": 302507,
+      "slot_name": "slot_Ring"
+    },
+    {
+      "id": "2f3c253d97eade09",
+      "image": "icon_eq_events_harrenhal3_weapon_1.png",
+      "level": 40,
+      "name": "eq_events_harrenhal3_40_weapon_lord40",
+      "name_placeholder": "EQ_EVENTS_HARRENHAL3_40_WEAPON_LORD40_NAME",
+      "priority": 302508,
+      "slot_name": "slot_Weapon"
+    },
+    {
+      "id": "d2605d88cf7a1730",
+      "image": "icon_eq_events_harrenhal3_boots_1.png",
+      "level": 45,
+      "name": "eq_events_harrenhal3_45_boots_lord45",
+      "name_placeholder": "EQ_EVENTS_HARRENHAL3_45_BOOTS_LORD45_NAME",
+      "priority": 302509,
+      "slot_name": "slot_Boots"
+    },
+    {
+      "id": "9d2ad86098fe6c80",
+      "image": "icon_eq_events_harrenhal3_chest_1.png",
+      "level": 45,
+      "name": "eq_events_harrenhal3_45_chest_lord45",
+      "name_placeholder": "EQ_EVENTS_HARRENHAL3_45_CHEST_LORD45_NAME",
+      "priority": 302510,
+      "slot_name": "slot_Chest"
+    },
+    {
+      "id": "a3ce647b7a9cc64e",
+      "image": "icon_eq_events_harrenhal3_helmet_1.png",
+      "level": 45,
+      "name": "eq_events_harrenhal3_45_helmet_lord45",
+      "name_placeholder": "EQ_EVENTS_HARRENHAL3_45_HELMET_LORD45_NAME",
+      "priority": 302511,
+      "slot_name": "slot_Helmet"
+    },
+    {
+      "id": "450dcf7d3e886861",
+      "image": "icon_eq_events_harrenhal3_pants_1.png",
+      "level": 45,
+      "name": "eq_events_harrenhal3_45_pants_lord45",
+      "name_placeholder": "EQ_EVENTS_HARRENHAL3_45_PANTS_LORD45_NAME",
+      "priority": 302512,
+      "slot_name": "slot_Pants"
+    },
+    {
+      "id": "dcdc1737573e2f94",
+      "image": "icon_eq_events_harrenhal3_ring_1.png",
+      "level": 45,
+      "name": "eq_events_harrenhal3_45_ring_lord45",
+      "name_placeholder": "EQ_EVENTS_HARRENHAL3_45_RING_LORD45_NAME",
+      "priority": 302513,
+      "slot_name": "slot_Ring"
+    },
+    {
+      "id": "18f662a57029686c",
+      "image": "icon_eq_events_harrenhal3_weapon_1.png",
+      "level": 45,
+      "name": "eq_events_harrenhal3_45_weapon_lord45",
+      "name_placeholder": "EQ_EVENTS_HARRENHAL3_45_WEAPON_LORD45_NAME",
+      "priority": 302514,
+      "slot_name": "slot_Weapon"
+    },
+    {
+      "id": "8154170aa3011bc6",
+      "image": "icon_eq_events_harrenhal3_boots_1.png",
+      "level": 50,
+      "name": "eq_events_harrenhal3_50_boots_lord50",
+      "name_placeholder": "EQ_EVENTS_HARRENHAL3_50_BOOTS_LORD50_NAME",
+      "priority": 302515,
+      "slot_name": "slot_Boots"
+    },
+    {
+      "id": "ce1e92e2f4856076",
+      "image": "icon_eq_events_harrenhal3_chest_1.png",
+      "level": 50,
+      "name": "eq_events_harrenhal3_50_chest_lord50",
+      "name_placeholder": "EQ_EVENTS_HARRENHAL3_50_CHEST_LORD50_NAME",
+      "priority": 302516,
+      "slot_name": "slot_Chest"
+    },
+    {
+      "id": "b715c247da637c3e",
+      "image": "icon_eq_events_harrenhal3_helmet_1.png",
+      "level": 50,
+      "name": "eq_events_harrenhal3_50_helmet_lord50",
+      "name_placeholder": "EQ_EVENTS_HARRENHAL3_50_HELMET_LORD50_NAME",
+      "priority": 302517,
+      "slot_name": "slot_Helmet"
+    },
+    {
+      "id": "163985ff52f36497",
+      "image": "icon_eq_events_harrenhal3_pants_1.png",
+      "level": 50,
+      "name": "eq_events_harrenhal3_50_pants_lord50",
+      "name_placeholder": "EQ_EVENTS_HARRENHAL3_50_PANTS_LORD50_NAME",
+      "priority": 302518,
+      "slot_name": "slot_Pants"
+    },
+    {
+      "id": "a2de8096a5199f7c",
+      "image": "icon_eq_events_harrenhal3_ring_1.png",
+      "level": 50,
+      "name": "eq_events_harrenhal3_50_ring_lord50",
+      "name_placeholder": "EQ_EVENTS_HARRENHAL3_50_RING_LORD50_NAME",
+      "priority": 302519,
+      "slot_name": "slot_Ring"
+    },
+    {
+      "id": "c2dc499d0d6d21c",
+      "image": "icon_eq_events_harrenhal3_weapon_1.png",
+      "level": 50,
+      "name": "eq_events_harrenhal3_50_weapon_lord50",
+      "name_placeholder": "EQ_EVENTS_HARRENHAL3_50_WEAPON_LORD50_NAME",
+      "priority": 302520,
+      "slot_name": "slot_Weapon"
     }
   ]
 }

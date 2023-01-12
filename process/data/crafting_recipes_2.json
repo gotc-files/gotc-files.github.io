@@ -58548,6 +58548,1434 @@
       "steel_cost": 520000000,
       "template_level": 45,
       "upgrade_time_seconds": 345600
+    },
+    {
+      "id": "5b9af3234355f41a",
+      "ingredients": [
+        {
+          "item_name": "mat_event_harrenhal3_1",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_weirwood",
+          "quantity": 10
+        }
+      ],
+      "name": "eq_events_harrenhal3_5_boots_lord5",
+      "steel_cost": 4000,
+      "template_level": 1,
+      "upgrade_time_seconds": 3600
+    },
+    {
+      "id": "4b30a47b6cf2ea8d",
+      "ingredients": [
+        {
+          "item_name": "mat_event_harrenhal3_1",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 10
+        }
+      ],
+      "name": "eq_events_harrenhal3_5_chest_lord5",
+      "steel_cost": 4000,
+      "template_level": 1,
+      "upgrade_time_seconds": 3600
+    },
+    {
+      "id": "f3b7ee50902f8b62",
+      "ingredients": [
+        {
+          "item_name": "mat_event_harrenhal3_1",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_kingswoodoak",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_hide",
+          "quantity": 10
+        }
+      ],
+      "name": "eq_events_harrenhal3_5_helmet_lord5",
+      "steel_cost": 4000,
+      "template_level": 1,
+      "upgrade_time_seconds": 3600
+    },
+    {
+      "id": "9818e6581e0a2396",
+      "ingredients": [
+        {
+          "item_name": "mat_event_harrenhal3_1",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 10
+        }
+      ],
+      "name": "eq_events_harrenhal3_5_pants_lord5",
+      "steel_cost": 4000,
+      "template_level": 1,
+      "upgrade_time_seconds": 3600
+    },
+    {
+      "id": "260af90dbdaf7c96",
+      "ingredients": [
+        {
+          "item_name": "mat_event_harrenhal3_1",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 10
+        }
+      ],
+      "name": "eq_events_harrenhal3_5_ring_lord5",
+      "steel_cost": 4000,
+      "template_level": 1,
+      "upgrade_time_seconds": 3600
+    },
+    {
+      "id": "946a7667d9f0d5ef",
+      "ingredients": [
+        {
+          "item_name": "mat_event_harrenhal3_1",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 10
+        }
+      ],
+      "name": "eq_events_harrenhal3_5_weapon_lord5",
+      "steel_cost": 4000,
+      "template_level": 1,
+      "upgrade_time_seconds": 3600
+    },
+    {
+      "id": "e1585aa24cfc2188",
+      "ingredients": [
+        {
+          "item_name": "mat_event_harrenhal3_1",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_weirwood",
+          "quantity": 20
+        }
+      ],
+      "name": "eq_events_harrenhal3_10_boots_lord10",
+      "steel_cost": 36500,
+      "template_level": 5,
+      "upgrade_time_seconds": 7200
+    },
+    {
+      "id": "ae12df4a1b785a38",
+      "ingredients": [
+        {
+          "item_name": "mat_event_harrenhal3_1",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 20
+        }
+      ],
+      "name": "eq_events_harrenhal3_10_chest_lord10",
+      "steel_cost": 36500,
+      "template_level": 5,
+      "upgrade_time_seconds": 7200
+    },
+    {
+      "id": "3b5244d6c6934c6a",
+      "ingredients": [
+        {
+          "item_name": "mat_event_harrenhal3_1",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_kingswoodoak",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_hide",
+          "quantity": 20
+        }
+      ],
+      "name": "eq_events_harrenhal3_10_helmet_lord10",
+      "steel_cost": 36500,
+      "template_level": 5,
+      "upgrade_time_seconds": 7200
+    },
+    {
+      "id": "7635c857bd0e5ed9",
+      "ingredients": [
+        {
+          "item_name": "mat_event_harrenhal3_1",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 20
+        }
+      ],
+      "name": "eq_events_harrenhal3_10_pants_lord10",
+      "steel_cost": 36500,
+      "template_level": 5,
+      "upgrade_time_seconds": 7200
+    },
+    {
+      "id": "a7492aab8ab79f98",
+      "ingredients": [
+        {
+          "item_name": "mat_event_harrenhal3_1",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 20
+        }
+      ],
+      "name": "eq_events_harrenhal3_10_ring_lord10",
+      "steel_cost": 36500,
+      "template_level": 5,
+      "upgrade_time_seconds": 7200
+    },
+    {
+      "id": "806a4208cc26e248",
+      "ingredients": [
+        {
+          "item_name": "mat_event_harrenhal3_1",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 20
+        }
+      ],
+      "name": "eq_events_harrenhal3_10_weapon_lord10",
+      "steel_cost": 36500,
+      "template_level": 5,
+      "upgrade_time_seconds": 7200
+    },
+    {
+      "id": "6b322270bfafc478",
+      "ingredients": [
+        {
+          "item_name": "mat_event_harrenhal3_1",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_weirwood",
+          "quantity": 120
+        }
+      ],
+      "name": "eq_events_harrenhal3_15_boots_lord15",
+      "steel_cost": 148000,
+      "template_level": 10,
+      "upgrade_time_seconds": 21600
+    },
+    {
+      "id": "2478a798e82bbfc8",
+      "ingredients": [
+        {
+          "item_name": "mat_event_harrenhal3_1",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 120
+        }
+      ],
+      "name": "eq_events_harrenhal3_15_chest_lord15",
+      "steel_cost": 148000,
+      "template_level": 10,
+      "upgrade_time_seconds": 21600
+    },
+    {
+      "id": "c98034e2150fa0f",
+      "ingredients": [
+        {
+          "item_name": "mat_event_harrenhal3_1",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_kingswoodoak",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_hide",
+          "quantity": 120
+        }
+      ],
+      "name": "eq_events_harrenhal3_15_helmet_lord15",
+      "steel_cost": 148000,
+      "template_level": 10,
+      "upgrade_time_seconds": 21600
+    },
+    {
+      "id": "fc5fb0854e5dbb29",
+      "ingredients": [
+        {
+          "item_name": "mat_event_harrenhal3_1",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 120
+        }
+      ],
+      "name": "eq_events_harrenhal3_15_pants_lord15",
+      "steel_cost": 148000,
+      "template_level": 10,
+      "upgrade_time_seconds": 21600
+    },
+    {
+      "id": "d82e5785337baf49",
+      "ingredients": [
+        {
+          "item_name": "mat_event_harrenhal3_1",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 120
+        }
+      ],
+      "name": "eq_events_harrenhal3_15_ring_lord15",
+      "steel_cost": 148000,
+      "template_level": 10,
+      "upgrade_time_seconds": 21600
+    },
+    {
+      "id": "b7a005902be5542d",
+      "ingredients": [
+        {
+          "item_name": "mat_event_harrenhal3_1",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 120
+        }
+      ],
+      "name": "eq_events_harrenhal3_15_weapon_lord15",
+      "steel_cost": 148000,
+      "template_level": 10,
+      "upgrade_time_seconds": 21600
+    },
+    {
+      "id": "8004e26a42a55a9",
+      "ingredients": [
+        {
+          "item_name": "mat_event_harrenhal3_1",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_weirwood",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 400
+        }
+      ],
+      "name": "eq_events_harrenhal3_20_boots_lord20",
+      "steel_cost": 534000,
+      "template_level": 15,
+      "upgrade_time_seconds": 43200
+    },
+    {
+      "id": "474acbcef3ae2e19",
+      "ingredients": [
+        {
+          "item_name": "mat_event_harrenhal3_1",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 400
+        }
+      ],
+      "name": "eq_events_harrenhal3_20_chest_lord20",
+      "steel_cost": 534000,
+      "template_level": 15,
+      "upgrade_time_seconds": 43200
+    },
+    {
+      "id": "5e60663a0fd75855",
+      "ingredients": [
+        {
+          "item_name": "mat_event_harrenhal3_1",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_kingswoodoak",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_hide",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 400
+        }
+      ],
+      "name": "eq_events_harrenhal3_20_helmet_lord20",
+      "steel_cost": 534000,
+      "template_level": 15,
+      "upgrade_time_seconds": 43200
+    },
+    {
+      "id": "9f6ddcd355d82af8",
+      "ingredients": [
+        {
+          "item_name": "mat_event_harrenhal3_1",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 400
+        }
+      ],
+      "name": "eq_events_harrenhal3_20_pants_lord20",
+      "steel_cost": 534000,
+      "template_level": 15,
+      "upgrade_time_seconds": 43200
+    },
+    {
+      "id": "a4e7153a568b1fd3",
+      "ingredients": [
+        {
+          "item_name": "mat_event_harrenhal3_1",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_weirwood",
+          "quantity": 400
+        }
+      ],
+      "name": "eq_events_harrenhal3_20_ring_lord20",
+      "steel_cost": 534000,
+      "template_level": 15,
+      "upgrade_time_seconds": 43200
+    },
+    {
+      "id": "e55860e40562f677",
+      "ingredients": [
+        {
+          "item_name": "mat_event_harrenhal3_1",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 400
+        }
+      ],
+      "name": "eq_events_harrenhal3_20_weapon_lord20",
+      "steel_cost": 534000,
+      "template_level": 15,
+      "upgrade_time_seconds": 43200
+    },
+    {
+      "id": "826a36f45779b059",
+      "ingredients": [
+        {
+          "item_name": "mat_event_harrenhal3_1",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_weirwood",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 1200
+        }
+      ],
+      "name": "eq_events_harrenhal3_25_boots_lord25",
+      "steel_cost": 1800000,
+      "template_level": 20,
+      "upgrade_time_seconds": 64800
+    },
+    {
+      "id": "cd20b31c00fdcbe9",
+      "ingredients": [
+        {
+          "item_name": "mat_event_harrenhal3_1",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 1200
+        }
+      ],
+      "name": "eq_events_harrenhal3_25_chest_lord25",
+      "steel_cost": 1800000,
+      "template_level": 20,
+      "upgrade_time_seconds": 64800
+    },
+    {
+      "id": "69aa21a2e814ee30",
+      "ingredients": [
+        {
+          "item_name": "mat_event_harrenhal3_1",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_kingswoodoak",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_hide",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 1200
+        }
+      ],
+      "name": "eq_events_harrenhal3_25_helmet_lord25",
+      "steel_cost": 1800000,
+      "template_level": 20,
+      "upgrade_time_seconds": 64800
+    },
+    {
+      "id": "1507a401a68bcf08",
+      "ingredients": [
+        {
+          "item_name": "mat_event_harrenhal3_1",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 1200
+        }
+      ],
+      "name": "eq_events_harrenhal3_25_pants_lord25",
+      "steel_cost": 1800000,
+      "template_level": 20,
+      "upgrade_time_seconds": 64800
+    },
+    {
+      "id": "db806814ef472f02",
+      "ingredients": [
+        {
+          "item_name": "mat_event_harrenhal3_1",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_weirwood",
+          "quantity": 1200
+        }
+      ],
+      "name": "eq_events_harrenhal3_25_ring_lord25",
+      "steel_cost": 1800000,
+      "template_level": 20,
+      "upgrade_time_seconds": 64800
+    },
+    {
+      "id": "d292277ce2a14012",
+      "ingredients": [
+        {
+          "item_name": "mat_event_harrenhal3_1",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 1200
+        }
+      ],
+      "name": "eq_events_harrenhal3_25_weapon_lord25",
+      "steel_cost": 1800000,
+      "template_level": 20,
+      "upgrade_time_seconds": 64800
+    },
+    {
+      "id": "d15e7c763b02bcaf",
+      "ingredients": [
+        {
+          "item_name": "mat_event_harrenhal3_1",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_weirwood",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 3000
+        }
+      ],
+      "name": "eq_events_harrenhal3_30_boots_lord30",
+      "steel_cost": 5850000,
+      "template_level": 25,
+      "upgrade_time_seconds": 86400
+    },
+    {
+      "id": "9e14f99e6c86c71f",
+      "ingredients": [
+        {
+          "item_name": "mat_event_harrenhal3_1",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 3000
+        }
+      ],
+      "name": "eq_events_harrenhal3_30_chest_lord30",
+      "steel_cost": 5850000,
+      "template_level": 25,
+      "upgrade_time_seconds": 86400
+    },
+    {
+      "id": "7d71879e48eb5440",
+      "ingredients": [
+        {
+          "item_name": "mat_event_harrenhal3_1",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_kingswoodoak",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_hide",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 3000
+        }
+      ],
+      "name": "eq_events_harrenhal3_30_helmet_lord30",
+      "steel_cost": 5850000,
+      "template_level": 25,
+      "upgrade_time_seconds": 86400
+    },
+    {
+      "id": "4633ee83caf0c3fe",
+      "ingredients": [
+        {
+          "item_name": "mat_event_harrenhal3_1",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 3000
+        }
+      ],
+      "name": "eq_events_harrenhal3_30_pants_lord30",
+      "steel_cost": 5850000,
+      "template_level": 25,
+      "upgrade_time_seconds": 86400
+    },
+    {
+      "id": "a582ffb51d609fea",
+      "ingredients": [
+        {
+          "item_name": "mat_event_harrenhal3_1",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_weirwood",
+          "quantity": 3000
+        }
+      ],
+      "name": "eq_events_harrenhal3_30_ring_lord30",
+      "steel_cost": 5850000,
+      "template_level": 25,
+      "upgrade_time_seconds": 86400
+    },
+    {
+      "id": "c6498140425efa62",
+      "ingredients": [
+        {
+          "item_name": "mat_event_harrenhal3_1",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 3000
+        }
+      ],
+      "name": "eq_events_harrenhal3_30_weapon_lord30",
+      "steel_cost": 5850000,
+      "template_level": 25,
+      "upgrade_time_seconds": 86400
+    },
+    {
+      "id": "5b3404a4c851595f",
+      "ingredients": [
+        {
+          "item_name": "mat_event_harrenhal3_1",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_weirwood",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 12000
+        }
+      ],
+      "name": "eq_events_harrenhal3_35_boots_lord35",
+      "steel_cost": 18400000,
+      "template_level": 30,
+      "upgrade_time_seconds": 129600
+    },
+    {
+      "id": "147e814c9fd522ef",
+      "ingredients": [
+        {
+          "item_name": "mat_event_harrenhal3_1",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 12000
+        }
+      ],
+      "name": "eq_events_harrenhal3_35_chest_lord35",
+      "steel_cost": 18400000,
+      "template_level": 30,
+      "upgrade_time_seconds": 129600
+    },
+    {
+      "id": "4abbc006af28e225",
+      "ingredients": [
+        {
+          "item_name": "mat_event_harrenhal3_1",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_kingswoodoak",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_hide",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 12000
+        }
+      ],
+      "name": "eq_events_harrenhal3_35_helmet_lord35",
+      "steel_cost": 18400000,
+      "template_level": 30,
+      "upgrade_time_seconds": 129600
+    },
+    {
+      "id": "cc59965139a3260e",
+      "ingredients": [
+        {
+          "item_name": "mat_event_harrenhal3_1",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 12000
+        }
+      ],
+      "name": "eq_events_harrenhal3_35_pants_lord35",
+      "steel_cost": 18400000,
+      "template_level": 30,
+      "upgrade_time_seconds": 129600
+    },
+    {
+      "id": "dae5829ba4acaf3b",
+      "ingredients": [
+        {
+          "item_name": "mat_event_harrenhal3_1",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_weirwood",
+          "quantity": 12000
+        }
+      ],
+      "name": "eq_events_harrenhal3_35_ring_lord35",
+      "steel_cost": 18400000,
+      "template_level": 30,
+      "upgrade_time_seconds": 129600
+    },
+    {
+      "id": "f183c6d8a59d4c07",
+      "ingredients": [
+        {
+          "item_name": "mat_event_harrenhal3_1",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 12000
+        }
+      ],
+      "name": "eq_events_harrenhal3_35_weapon_lord35",
+      "steel_cost": 18400000,
+      "template_level": 30,
+      "upgrade_time_seconds": 129600
+    },
+    {
+      "id": "580a255a3c29f2c0",
+      "ingredients": [
+        {
+          "item_name": "mat_event_harrenhal3_1",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_weirwood",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 45000
+        }
+      ],
+      "name": "eq_events_harrenhal3_40_boots_lord40",
+      "steel_cost": 56900000,
+      "template_level": 35,
+      "upgrade_time_seconds": 172800
+    },
+    {
+      "id": "1740a0b26bad8970",
+      "ingredients": [
+        {
+          "item_name": "mat_event_harrenhal3_1",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 45000
+        }
+      ],
+      "name": "eq_events_harrenhal3_40_chest_lord40",
+      "steel_cost": 56900000,
+      "template_level": 35,
+      "upgrade_time_seconds": 172800
+    },
+    {
+      "id": "940423e39d5f702b",
+      "ingredients": [
+        {
+          "item_name": "mat_event_harrenhal3_1",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_kingswoodoak",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_hide",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 45000
+        }
+      ],
+      "name": "eq_events_harrenhal3_40_helmet_lord40",
+      "steel_cost": 56900000,
+      "template_level": 35,
+      "upgrade_time_seconds": 172800
+    },
+    {
+      "id": "cf67b7afcddb8d91",
+      "ingredients": [
+        {
+          "item_name": "mat_event_harrenhal3_1",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 45000
+        }
+      ],
+      "name": "eq_events_harrenhal3_40_pants_lord40",
+      "steel_cost": 56900000,
+      "template_level": 35,
+      "upgrade_time_seconds": 172800
+    },
+    {
+      "id": "a3bb6a19eef21f45",
+      "ingredients": [
+        {
+          "item_name": "mat_event_harrenhal3_1",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_weirwood",
+          "quantity": 45000
+        }
+      ],
+      "name": "eq_events_harrenhal3_40_ring_lord40",
+      "steel_cost": 56900000,
+      "template_level": 35,
+      "upgrade_time_seconds": 172800
+    },
+    {
+      "id": "2f3c253d97eade09",
+      "ingredients": [
+        {
+          "item_name": "mat_event_harrenhal3_1",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 45000
+        }
+      ],
+      "name": "eq_events_harrenhal3_40_weapon_lord40",
+      "steel_cost": 56900000,
+      "template_level": 35,
+      "upgrade_time_seconds": 172800
+    },
+    {
+      "id": "d2605d88cf7a1730",
+      "ingredients": [
+        {
+          "item_name": "mat_event_harrenhal3_1",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_weirwood",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 120000
+        }
+      ],
+      "name": "eq_events_harrenhal3_45_boots_lord45",
+      "steel_cost": 173000000,
+      "template_level": 40,
+      "upgrade_time_seconds": 259200
+    },
+    {
+      "id": "9d2ad86098fe6c80",
+      "ingredients": [
+        {
+          "item_name": "mat_event_harrenhal3_1",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 120000
+        }
+      ],
+      "name": "eq_events_harrenhal3_45_chest_lord45",
+      "steel_cost": 173000000,
+      "template_level": 40,
+      "upgrade_time_seconds": 259200
+    },
+    {
+      "id": "a3ce647b7a9cc64e",
+      "ingredients": [
+        {
+          "item_name": "mat_event_harrenhal3_1",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_kingswoodoak",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_hide",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 120000
+        }
+      ],
+      "name": "eq_events_harrenhal3_45_helmet_lord45",
+      "steel_cost": 173000000,
+      "template_level": 40,
+      "upgrade_time_seconds": 259200
+    },
+    {
+      "id": "450dcf7d3e886861",
+      "ingredients": [
+        {
+          "item_name": "mat_event_harrenhal3_1",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 120000
+        }
+      ],
+      "name": "eq_events_harrenhal3_45_pants_lord45",
+      "steel_cost": 173000000,
+      "template_level": 40,
+      "upgrade_time_seconds": 259200
+    },
+    {
+      "id": "dcdc1737573e2f94",
+      "ingredients": [
+        {
+          "item_name": "mat_event_harrenhal3_1",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_weirwood",
+          "quantity": 120000
+        }
+      ],
+      "name": "eq_events_harrenhal3_45_ring_lord45",
+      "steel_cost": 173000000,
+      "template_level": 40,
+      "upgrade_time_seconds": 259200
+    },
+    {
+      "id": "18f662a57029686c",
+      "ingredients": [
+        {
+          "item_name": "mat_event_harrenhal3_1",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 120000
+        }
+      ],
+      "name": "eq_events_harrenhal3_45_weapon_lord45",
+      "steel_cost": 173000000,
+      "template_level": 40,
+      "upgrade_time_seconds": 259200
+    },
+    {
+      "id": "8154170aa3011bc6",
+      "ingredients": [
+        {
+          "item_name": "mat_event_harrenhal3_1",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_weirwood",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 450000
+        }
+      ],
+      "name": "eq_events_harrenhal3_50_boots_lord50",
+      "steel_cost": 520000000,
+      "template_level": 45,
+      "upgrade_time_seconds": 345600
+    },
+    {
+      "id": "ce1e92e2f4856076",
+      "ingredients": [
+        {
+          "item_name": "mat_event_harrenhal3_1",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 450000
+        }
+      ],
+      "name": "eq_events_harrenhal3_50_chest_lord50",
+      "steel_cost": 520000000,
+      "template_level": 45,
+      "upgrade_time_seconds": 345600
+    },
+    {
+      "id": "b715c247da637c3e",
+      "ingredients": [
+        {
+          "item_name": "mat_event_harrenhal3_1",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_kingswoodoak",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_hide",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 450000
+        }
+      ],
+      "name": "eq_events_harrenhal3_50_helmet_lord50",
+      "steel_cost": 520000000,
+      "template_level": 45,
+      "upgrade_time_seconds": 345600
+    },
+    {
+      "id": "163985ff52f36497",
+      "ingredients": [
+        {
+          "item_name": "mat_event_harrenhal3_1",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 450000
+        }
+      ],
+      "name": "eq_events_harrenhal3_50_pants_lord50",
+      "steel_cost": 520000000,
+      "template_level": 45,
+      "upgrade_time_seconds": 345600
+    },
+    {
+      "id": "a2de8096a5199f7c",
+      "ingredients": [
+        {
+          "item_name": "mat_event_harrenhal3_1",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_weirwood",
+          "quantity": 450000
+        }
+      ],
+      "name": "eq_events_harrenhal3_50_ring_lord50",
+      "steel_cost": 520000000,
+      "template_level": 45,
+      "upgrade_time_seconds": 345600
+    },
+    {
+      "id": "c2dc499d0d6d21c",
+      "ingredients": [
+        {
+          "item_name": "mat_event_harrenhal3_1",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 450000
+        }
+      ],
+      "name": "eq_events_harrenhal3_50_weapon_lord50",
+      "steel_cost": 520000000,
+      "template_level": 45,
+      "upgrade_time_seconds": 345600
     }
   ]
 }

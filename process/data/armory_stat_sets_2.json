@@ -1230,6 +1230,36 @@
           "progression": "prog_armory_bonus_SpecificTroop_1"
         }
       ]
+    },
+    {
+      "id": "eea7c66e4d174715",
+      "name": "armcol_events_harrenhal3_1",
+      "stats": [
+        {
+          "name": "property_CavalryDefenseVsPlayersInfantry_armory",
+          "progression": "prog_armory_bonus_SpecificTroop_1"
+        }
+      ]
+    },
+    {
+      "id": "9bb59a8594e2b51b",
+      "name": "armcol_events_harrenhal3_2",
+      "stats": [
+        {
+          "name": "property_MarcherCavalryAttackVsPlayer_armory",
+          "progression": "prog_armory_bouns_MarcherTroop_1"
+        }
+      ]
+    },
+    {
+      "id": "b744512323b1e4e1",
+      "name": "armcol_events_harrenhal3_3",
+      "stats": [
+        {
+          "name": "property_CavalryHealthVsPlayer_armory",
+          "progression": "prog_armory_bonus_SpecificTroop_1"
+        }
+      ]
     }
   ]
 }
