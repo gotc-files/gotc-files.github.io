@@ -2,6 +2,248 @@
   "description": "Sets of stats with names and progression",
   "values": [
     {
+      "id": "93d4127488137c59",
+      "name": "eq_events_trinket_artstub_1_trinket_lord1",
+      "stats": [
+        {
+          "name": "property_RangedAttack_gear",
+          "progression": "prog_gear_event3_RangedAttack_1"
+        },
+        {
+          "name": "property_RangedHealthVsPlayer_gear",
+          "progression": "prog_gear_event3_RangedHealthVsPlayer_1"
+        },
+        {
+          "name": "property_RangedAttackVsPlayersInfantry_gear",
+          "progression": "prog_gear_event3_RangedAttackVsPlayersInfantry_1"
+        },
+        {
+          "name": "property_MarchingSpeed_gear",
+          "progression": "prog_gear_Event3.5_MarchingSpeed_1"
+        }
+      ]
+    },
+    {
+      "id": "5492c05cdea9c233",
+      "name": "eq_events_trinket_artstub_5_trinket_lord5",
+      "stats": [
+        {
+          "name": "property_RangedAttack_gear",
+          "progression": "prog_gear_event3_RangedAttack_5"
+        },
+        {
+          "name": "property_RangedHealthVsPlayer_gear",
+          "progression": "prog_gear_event3_RangedHealthVsPlayer_5"
+        },
+        {
+          "name": "property_RangedAttackVsPlayersInfantry_gear",
+          "progression": "prog_gear_event3_RangedAttackVsPlayersInfantry_5"
+        },
+        {
+          "name": "property_MarchingSpeed_gear",
+          "progression": "prog_gear_Event3.5_MarchingSpeed_5"
+        }
+      ]
+    },
+    {
+      "id": "70c385b10ccde02e",
+      "name": "eq_events_trinket_artstub_10_trinket_lord10",
+      "stats": [
+        {
+          "name": "property_RangedAttack_gear",
+          "progression": "prog_gear_event3_RangedAttack_10"
+        },
+        {
+          "name": "property_RangedHealthVsPlayer_gear",
+          "progression": "prog_gear_event3_RangedHealthVsPlayer_10"
+        },
+        {
+          "name": "property_RangedAttackVsPlayersInfantry_gear",
+          "progression": "prog_gear_event3_RangedAttackVsPlayersInfantry_10"
+        },
+        {
+          "name": "property_MarchingSpeed_gear",
+          "progression": "prog_gear_Event3.5_MarchingSpeed_10"
+        }
+      ]
+    },
+    {
+      "id": "510ddae4c017b942",
+      "name": "eq_events_trinket_artstub_15_trinket_lord15",
+      "stats": [
+        {
+          "name": "property_RangedAttack_gear",
+          "progression": "prog_gear_event3_RangedAttack_15"
+        },
+        {
+          "name": "property_RangedHealthVsPlayer_gear",
+          "progression": "prog_gear_event3_RangedHealthVsPlayer_15"
+        },
+        {
+          "name": "property_RangedAttackVsPlayersInfantry_gear",
+          "progression": "prog_gear_event3_RangedAttackVsPlayersInfantry_15"
+        },
+        {
+          "name": "property_MarchingSpeed_gear",
+          "progression": "prog_gear_Event3.5_MarchingSpeed_15"
+        }
+      ]
+    },
+    {
+      "id": "52bf170842b28c4b",
+      "name": "eq_events_trinket_artstub_20_trinket_lord20",
+      "stats": [
+        {
+          "name": "property_RangedAttack_gear",
+          "progression": "prog_gear_event3_RangedAttack_20"
+        },
+        {
+          "name": "property_RangedHealthVsPlayer_gear",
+          "progression": "prog_gear_event3_RangedHealthVsPlayer_20"
+        },
+        {
+          "name": "property_RangedAttackVsPlayersInfantry_gear",
+          "progression": "prog_gear_event3_RangedAttackVsPlayersInfantry_20"
+        },
+        {
+          "name": "property_MarchingSpeed_gear",
+          "progression": "prog_gear_Event3.5_MarchingSpeed_20"
+        }
+      ]
+    },
+    {
+      "id": "7371485d8e68d527",
+      "name": "eq_events_trinket_artstub_25_trinket_lord25",
+      "stats": [
+        {
+          "name": "property_RangedAttack_gear",
+          "progression": "prog_gear_event3_RangedAttack_25"
+        },
+        {
+          "name": "property_RangedHealthVsPlayer_gear",
+          "progression": "prog_gear_event3_RangedHealthVsPlayer_25"
+        },
+        {
+          "name": "property_RangedAttackVsPlayersInfantry_gear",
+          "progression": "prog_gear_event3_RangedAttackVsPlayersInfantry_25"
+        },
+        {
+          "name": "property_MarchingSpeed_gear",
+          "progression": "prog_gear_Event3.5_MarchingSpeed_25"
+        }
+      ]
+    },
+    {
+      "id": "4c9499608767a868",
+      "name": "eq_events_trinket_artstub_30_trinket_lord30",
+      "stats": [
+        {
+          "name": "property_RangedAttack_gear",
+          "progression": "prog_gear_event3_RangedAttack_30"
+        },
+        {
+          "name": "property_RangedHealthVsPlayer_gear",
+          "progression": "prog_gear_event3_RangedHealthVsPlayer_30"
+        },
+        {
+          "name": "property_RangedAttackVsPlayersInfantry_gear",
+          "progression": "prog_gear_event3_RangedAttackVsPlayersInfantry_30"
+        },
+        {
+          "name": "property_MarchingSpeed_gear",
+          "progression": "prog_gear_Event3.5_MarchingSpeed_30"
+        }
+      ]
+    },
+    {
+      "id": "6d5ac6354bbdf104",
+      "name": "eq_events_trinket_artstub_35_trinket_lord35",
+      "stats": [
+        {
+          "name": "property_RangedAttack_gear",
+          "progression": "prog_gear_event3_RangedAttack_35"
+        },
+        {
+          "name": "property_RangedHealthVsPlayer_gear",
+          "progression": "prog_gear_event3_RangedHealthVsPlayer_35"
+        },
+        {
+          "name": "property_RangedAttackVsPlayersInfantry_gear",
+          "progression": "prog_gear_event3_RangedAttackVsPlayersInfantry_35"
+        },
+        {
+          "name": "property_MarchingSpeed_gear",
+          "progression": "prog_gear_Event3.5_MarchingSpeed_35"
+        }
+      ]
+    },
+    {
+      "id": "1646327ade4c5481",
+      "name": "eq_events_trinket_artstub_40_trinket_lord40",
+      "stats": [
+        {
+          "name": "property_RangedAttack_gear",
+          "progression": "prog_gear_event3_RangedAttack_40"
+        },
+        {
+          "name": "property_RangedHealthVsPlayer_gear",
+          "progression": "prog_gear_event3_RangedHealthVsPlayer_40"
+        },
+        {
+          "name": "property_RangedAttackVsPlayersInfantry_gear",
+          "progression": "prog_gear_event3_RangedAttackVsPlayersInfantry_40"
+        },
+        {
+          "name": "property_MarchingSpeed_gear",
+          "progression": "prog_gear_Event3.5_MarchingSpeed_40"
+        }
+      ]
+    },
+    {
+      "id": "37886d2f12960ded",
+      "name": "eq_events_trinket_artstub_45_trinket_lord45",
+      "stats": [
+        {
+          "name": "property_RangedAttack_gear",
+          "progression": "prog_gear_event3_RangedAttack_45"
+        },
+        {
+          "name": "property_RangedHealthVsPlayer_gear",
+          "progression": "prog_gear_event3_RangedHealthVsPlayer_45"
+        },
+        {
+          "name": "property_RangedAttackVsPlayersInfantry_gear",
+          "progression": "prog_gear_event3_RangedAttackVsPlayersInfantry_45"
+        },
+        {
+          "name": "property_MarchingSpeed_gear",
+          "progression": "prog_gear_Event3.5_MarchingSpeed_45"
+        }
+      ]
+    },
+    {
+      "id": "86dbc121b9970a2",
+      "name": "eq_events_trinket_artstub_50_trinket_lord50",
+      "stats": [
+        {
+          "name": "property_RangedAttack_gear",
+          "progression": "prog_gear_event3_RangedAttack_50"
+        },
+        {
+          "name": "property_RangedHealthVsPlayer_gear",
+          "progression": "prog_gear_event3_RangedHealthVsPlayer_50"
+        },
+        {
+          "name": "property_RangedAttackVsPlayersInfantry_gear",
+          "progression": "prog_gear_event3_RangedAttackVsPlayersInfantry_50"
+        },
+        {
+          "name": "property_MarchingSpeed_gear",
+          "progression": "prog_gear_Event3.5_MarchingSpeed_50"
+        }
+      ]
+    },
+    {
       "id": "747e84af26644865",
       "name": "eq_quiver_1_trinket_lord1",
       "stats": [
@@ -10320,6 +10562,268 @@
         {
           "name": "property_TroopDefenseVsPlayer_gear",
           "progression": "prog_gear_Event6.5_TroopDefenseVsPlayer_50"
+        }
+      ]
+    },
+    {
+      "id": "af534ffad7f54596",
+      "name": "eq_events_trinket_harrenhal3_1_trinket_lord1",
+      "stats": [
+        {
+          "name": "property_CavalryAttack_gear",
+          "progression": "prog_gear_Event6_CavalryAttack_1"
+        },
+        {
+          "name": "property_CavalryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event6_CavalryHealthVsPlayer_1"
+        },
+        {
+          "name": "property_CavalryAttackVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event6_CavalryAttackVsPlayersInfantry_1"
+        },
+        {
+          "name": "property_CavalryDefenseVsSeatOfPower_gear",
+          "progression": "prog_gear_Event6_CavalryDefenseVsSeatOfPower_1"
+        }
+      ]
+    },
+    {
+      "id": "68159dd2814ffbfc",
+      "name": "eq_events_trinket_harrenhal3_5_trinket_lord5",
+      "stats": [
+        {
+          "name": "property_CavalryAttack_gear",
+          "progression": "prog_gear_Event6_CavalryAttack_5"
+        },
+        {
+          "name": "property_CavalryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event6_CavalryHealthVsPlayer_5"
+        },
+        {
+          "name": "property_CavalryAttackVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event6_CavalryAttackVsPlayersInfantry_5"
+        },
+        {
+          "name": "property_CavalryDefenseVsSeatOfPower_gear",
+          "progression": "prog_gear_Event6_CavalryDefenseVsSeatOfPower_5"
+        }
+      ]
+    },
+    {
+      "id": "8e9a3928b0da33f9",
+      "name": "eq_events_trinket_harrenhal3_10_trinket_lord10",
+      "stats": [
+        {
+          "name": "property_CavalryAttack_gear",
+          "progression": "prog_gear_Event6_CavalryAttack_10"
+        },
+        {
+          "name": "property_CavalryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event6_CavalryHealthVsPlayer_10"
+        },
+        {
+          "name": "property_CavalryAttackVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event6_CavalryAttackVsPlayersInfantry_10"
+        },
+        {
+          "name": "property_CavalryDefenseVsSeatOfPower_gear",
+          "progression": "prog_gear_Event6_CavalryDefenseVsSeatOfPower_10"
+        }
+      ]
+    },
+    {
+      "id": "af54667d7c006a95",
+      "name": "eq_events_trinket_harrenhal3_15_trinket_lord15",
+      "stats": [
+        {
+          "name": "property_CavalryAttack_gear",
+          "progression": "prog_gear_Event6_CavalryAttack_15"
+        },
+        {
+          "name": "property_CavalryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event6_CavalryHealthVsPlayer_15"
+        },
+        {
+          "name": "property_CavalryAttackVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event6_CavalryAttackVsPlayersInfantry_15"
+        },
+        {
+          "name": "property_CavalryDefenseVsSeatOfPower_gear",
+          "progression": "prog_gear_Event6_CavalryDefenseVsSeatOfPower_15"
+        }
+      ]
+    },
+    {
+      "id": "ace6ab91fea55f9c",
+      "name": "eq_events_trinket_harrenhal3_20_trinket_lord20",
+      "stats": [
+        {
+          "name": "property_CavalryAttack_gear",
+          "progression": "prog_gear_Event6_CavalryAttack_20"
+        },
+        {
+          "name": "property_CavalryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event6_CavalryHealthVsPlayer_20"
+        },
+        {
+          "name": "property_CavalryAttackVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event6_CavalryAttackVsPlayersInfantry_20"
+        },
+        {
+          "name": "property_CavalryDefenseVsSeatOfPower_gear",
+          "progression": "prog_gear_Event6_CavalryDefenseVsSeatOfPower_20"
+        }
+      ]
+    },
+    {
+      "id": "8d28f4c4327f06f0",
+      "name": "eq_events_trinket_harrenhal3_25_trinket_lord25",
+      "stats": [
+        {
+          "name": "property_CavalryAttack_gear",
+          "progression": "prog_gear_Event6_CavalryAttack_25"
+        },
+        {
+          "name": "property_CavalryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event6_CavalryHealthVsPlayer_25"
+        },
+        {
+          "name": "property_CavalryAttackVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event6_CavalryAttackVsPlayersInfantry_25"
+        },
+        {
+          "name": "property_CavalryDefenseVsSeatOfPower_gear",
+          "progression": "prog_gear_Event6_CavalryDefenseVsSeatOfPower_25"
+        }
+      ]
+    },
+    {
+      "id": "b2cd25f93b707bbf",
+      "name": "eq_events_trinket_harrenhal3_30_trinket_lord30",
+      "stats": [
+        {
+          "name": "property_CavalryAttack_gear",
+          "progression": "prog_gear_Event6_CavalryAttack_30"
+        },
+        {
+          "name": "property_CavalryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event6_CavalryHealthVsPlayer_30"
+        },
+        {
+          "name": "property_CavalryAttackVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event6_CavalryAttackVsPlayersInfantry_30"
+        },
+        {
+          "name": "property_CavalryDefenseVsSeatOfPower_gear",
+          "progression": "prog_gear_Event6_CavalryDefenseVsSeatOfPower_30"
+        },
+        {
+          "name": "property_CavalryHealth_gear",
+          "progression": "prog_gear_Event6.5_CavalryHealth_30"
+        }
+      ]
+    },
+    {
+      "id": "93037aacf7aa22d3",
+      "name": "eq_events_trinket_harrenhal3_35_trinket_lord35",
+      "stats": [
+        {
+          "name": "property_CavalryAttack_gear",
+          "progression": "prog_gear_Event6_CavalryAttack_35"
+        },
+        {
+          "name": "property_CavalryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event6_CavalryHealthVsPlayer_35"
+        },
+        {
+          "name": "property_CavalryAttackVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event6_CavalryAttackVsPlayersInfantry_35"
+        },
+        {
+          "name": "property_CavalryDefenseVsSeatOfPower_gear",
+          "progression": "prog_gear_Event6_CavalryDefenseVsSeatOfPower_35"
+        },
+        {
+          "name": "property_CavalryHealth_gear",
+          "progression": "prog_gear_Event6.5_CavalryHealth_35"
+        }
+      ]
+    },
+    {
+      "id": "e81f8ee3625b8756",
+      "name": "eq_events_trinket_harrenhal3_40_trinket_lord40",
+      "stats": [
+        {
+          "name": "property_CavalryAttack_gear",
+          "progression": "prog_gear_Event6_CavalryAttack_40"
+        },
+        {
+          "name": "property_CavalryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event6_CavalryHealthVsPlayer_40"
+        },
+        {
+          "name": "property_CavalryAttackVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event6_CavalryAttackVsPlayersInfantry_40"
+        },
+        {
+          "name": "property_CavalryDefenseVsSeatOfPower_gear",
+          "progression": "prog_gear_Event6_CavalryDefenseVsSeatOfPower_40"
+        },
+        {
+          "name": "property_CavalryHealth_gear",
+          "progression": "prog_gear_Event6.5_CavalryHealth_40"
+        }
+      ]
+    },
+    {
+      "id": "c9d1d1b6ae81de3a",
+      "name": "eq_events_trinket_harrenhal3_45_trinket_lord45",
+      "stats": [
+        {
+          "name": "property_CavalryAttack_gear",
+          "progression": "prog_gear_Event6_CavalryAttack_45"
+        },
+        {
+          "name": "property_CavalryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event6_CavalryHealthVsPlayer_45"
+        },
+        {
+          "name": "property_CavalryAttackVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event6_CavalryAttackVsPlayersInfantry_45"
+        },
+        {
+          "name": "property_CavalryDefenseVsSeatOfPower_gear",
+          "progression": "prog_gear_Event6_CavalryDefenseVsSeatOfPower_45"
+        },
+        {
+          "name": "property_CavalryHealth_gear",
+          "progression": "prog_gear_Event6.5_CavalryHealth_45"
+        }
+      ]
+    },
+    {
+      "id": "f634008ba78ea375",
+      "name": "eq_events_trinket_harrenhal3_50_trinket_lord50",
+      "stats": [
+        {
+          "name": "property_CavalryAttack_gear",
+          "progression": "prog_gear_Event6_CavalryAttack_50"
+        },
+        {
+          "name": "property_CavalryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event6_CavalryHealthVsPlayer_50"
+        },
+        {
+          "name": "property_CavalryAttackVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event6_CavalryAttackVsPlayersInfantry_50"
+        },
+        {
+          "name": "property_CavalryDefenseVsSeatOfPower_gear",
+          "progression": "prog_gear_Event6_CavalryDefenseVsSeatOfPower_50"
+        },
+        {
+          "name": "property_CavalryHealth_gear",
+          "progression": "prog_gear_Event6.5_CavalryHealth_50"
         }
       ]
     }

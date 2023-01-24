@@ -2,12 +2,111 @@
   "description": "Gears (event and non event)",
   "values": [
     {
+      "id": "93d4127488137c59",
+      "image": "icon_eq_events_trinket_artstub_trinket_1.png",
+      "level": 1,
+      "name": "eq_events_trinket_artstub_1_trinket_lord1",
+      "name_placeholder": "EQ_EVENTS_TRINKET_ARTSTUB_1_TRINKET_LORD1_NAME",
+      "priority": 300001,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "5492c05cdea9c233",
+      "image": "icon_eq_events_trinket_artstub_trinket_1.png",
+      "level": 5,
+      "name": "eq_events_trinket_artstub_5_trinket_lord5",
+      "name_placeholder": "EQ_EVENTS_TRINKET_ARTSTUB_5_TRINKET_LORD5_NAME",
+      "priority": 300002,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "70c385b10ccde02e",
+      "image": "icon_eq_events_trinket_artstub_trinket_1.png",
+      "level": 10,
+      "name": "eq_events_trinket_artstub_10_trinket_lord10",
+      "name_placeholder": "EQ_EVENTS_TRINKET_ARTSTUB_10_TRINKET_LORD10_NAME",
+      "priority": 300003,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "510ddae4c017b942",
+      "image": "icon_eq_events_trinket_artstub_trinket_1.png",
+      "level": 15,
+      "name": "eq_events_trinket_artstub_15_trinket_lord15",
+      "name_placeholder": "EQ_EVENTS_TRINKET_ARTSTUB_15_TRINKET_LORD15_NAME",
+      "priority": 300004,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "52bf170842b28c4b",
+      "image": "icon_eq_events_trinket_artstub_trinket_1.png",
+      "level": 20,
+      "name": "eq_events_trinket_artstub_20_trinket_lord20",
+      "name_placeholder": "EQ_EVENTS_TRINKET_ARTSTUB_20_TRINKET_LORD20_NAME",
+      "priority": 300005,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "7371485d8e68d527",
+      "image": "icon_eq_events_trinket_artstub_trinket_1.png",
+      "level": 25,
+      "name": "eq_events_trinket_artstub_25_trinket_lord25",
+      "name_placeholder": "EQ_EVENTS_TRINKET_ARTSTUB_25_TRINKET_LORD25_NAME",
+      "priority": 300006,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "4c9499608767a868",
+      "image": "icon_eq_events_trinket_artstub_trinket_1.png",
+      "level": 30,
+      "name": "eq_events_trinket_artstub_30_trinket_lord30",
+      "name_placeholder": "EQ_EVENTS_TRINKET_ARTSTUB_30_TRINKET_LORD30_NAME",
+      "priority": 300007,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "6d5ac6354bbdf104",
+      "image": "icon_eq_events_trinket_artstub_trinket_1.png",
+      "level": 35,
+      "name": "eq_events_trinket_artstub_35_trinket_lord35",
+      "name_placeholder": "EQ_EVENTS_TRINKET_ARTSTUB_35_TRINKET_LORD35_NAME",
+      "priority": 300008,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "1646327ade4c5481",
+      "image": "icon_eq_events_trinket_artstub_trinket_1.png",
+      "level": 40,
+      "name": "eq_events_trinket_artstub_40_trinket_lord40",
+      "name_placeholder": "EQ_EVENTS_TRINKET_ARTSTUB_40_TRINKET_LORD40_NAME",
+      "priority": 300009,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "37886d2f12960ded",
+      "image": "icon_eq_events_trinket_artstub_trinket_1.png",
+      "level": 45,
+      "name": "eq_events_trinket_artstub_45_trinket_lord45",
+      "name_placeholder": "EQ_EVENTS_TRINKET_ARTSTUB_45_TRINKET_LORD45_NAME",
+      "priority": 300010,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "86dbc121b9970a2",
+      "image": "icon_eq_events_trinket_artstub_trinket_1.png",
+      "level": 50,
+      "name": "eq_events_trinket_artstub_50_trinket_lord50",
+      "name_placeholder": "EQ_EVENTS_TRINKET_ARTSTUB_50_TRINKET_LORD50_NAME",
+      "priority": 300011,
+      "slot_name": "slot_Trinket"
+    },
+    {
       "id": "747e84af26644865",
       "image": "icon_eq_quiver_trinket_1.png",
       "level": 1,
       "name": "eq_quiver_1_trinket_lord1",
       "name_placeholder": "EQ_QUIVER_1_TRINKET_LORD1_NAME",
-      "priority": 300001,
+      "priority": 300012,
       "slot_name": "slot_Trinket"
     },
     {
@@ -16,7 +115,7 @@
       "level": 5,
       "name": "eq_quiver_5_trinket_lord5",
       "name_placeholder": "EQ_QUIVER_5_TRINKET_LORD5_NAME",
-      "priority": 300002,
+      "priority": 300013,
       "slot_name": "slot_Trinket"
     },
     {
@@ -25,7 +124,7 @@
       "level": 10,
       "name": "eq_quiver_10_trinket_lord10",
       "name_placeholder": "EQ_QUIVER_10_TRINKET_LORD10_NAME",
-      "priority": 300003,
+      "priority": 300014,
       "slot_name": "slot_Trinket"
     },
     {
@@ -34,7 +133,7 @@
       "level": 15,
       "name": "eq_quiver_15_trinket_lord15",
       "name_placeholder": "EQ_QUIVER_15_TRINKET_LORD15_NAME",
-      "priority": 300004,
+      "priority": 300015,
       "slot_name": "slot_Trinket"
     },
     {
@@ -43,7 +142,7 @@
       "level": 20,
       "name": "eq_quiver_20_trinket_lord20",
       "name_placeholder": "EQ_QUIVER_20_TRINKET_LORD20_NAME",
-      "priority": 300005,
+      "priority": 300016,
       "slot_name": "slot_Trinket"
     },
     {
@@ -52,7 +151,7 @@
       "level": 25,
       "name": "eq_quiver_25_trinket_lord25",
       "name_placeholder": "EQ_QUIVER_25_TRINKET_LORD25_NAME",
-      "priority": 300006,
+      "priority": 300017,
       "slot_name": "slot_Trinket"
     },
     {
@@ -61,7 +160,7 @@
       "level": 30,
       "name": "eq_quiver_30_trinket_lord30",
       "name_placeholder": "EQ_QUIVER_30_TRINKET_LORD30_NAME",
-      "priority": 300007,
+      "priority": 300018,
       "slot_name": "slot_Trinket"
     },
     {
@@ -70,7 +169,7 @@
       "level": 35,
       "name": "eq_quiver_35_trinket_lord35",
       "name_placeholder": "EQ_QUIVER_35_TRINKET_LORD35_NAME",
-      "priority": 300008,
+      "priority": 300019,
       "slot_name": "slot_Trinket"
     },
     {
@@ -79,7 +178,7 @@
       "level": 40,
       "name": "eq_quiver_40_trinket_lord40",
       "name_placeholder": "EQ_QUIVER_40_TRINKET_LORD40_NAME",
-      "priority": 300009,
+      "priority": 300020,
       "slot_name": "slot_Trinket"
     },
     {
@@ -88,7 +187,7 @@
       "level": 45,
       "name": "eq_quiver_45_trinket_lord45",
       "name_placeholder": "EQ_QUIVER_45_TRINKET_LORD45_NAME",
-      "priority": 300010,
+      "priority": 300021,
       "slot_name": "slot_Trinket"
     },
     {
@@ -97,7 +196,7 @@
       "level": 50,
       "name": "eq_quiver_50_trinket_lord50",
       "name_placeholder": "EQ_QUIVER_50_TRINKET_LORD50_NAME",
-      "priority": 300011,
+      "priority": 300022,
       "slot_name": "slot_Trinket"
     },
     {
@@ -106,7 +205,7 @@
       "level": 1,
       "name": "eq_lantern_1_trinket_lord1",
       "name_placeholder": "EQ_LANTERN_1_TRINKET_LORD1_NAME",
-      "priority": 300012,
+      "priority": 300023,
       "slot_name": "slot_Trinket"
     },
     {
@@ -115,7 +214,7 @@
       "level": 5,
       "name": "eq_lantern_5_trinket_lord5",
       "name_placeholder": "EQ_LANTERN_5_TRINKET_LORD5_NAME",
-      "priority": 300013,
+      "priority": 300024,
       "slot_name": "slot_Trinket"
     },
     {
@@ -124,7 +223,7 @@
       "level": 10,
       "name": "eq_lantern_10_trinket_lord10",
       "name_placeholder": "EQ_LANTERN_10_TRINKET_LORD10_NAME",
-      "priority": 300014,
+      "priority": 300025,
       "slot_name": "slot_Trinket"
     },
     {
@@ -133,7 +232,7 @@
       "level": 15,
       "name": "eq_lantern_15_trinket_lord15",
       "name_placeholder": "EQ_LANTERN_15_TRINKET_LORD15_NAME",
-      "priority": 300015,
+      "priority": 300026,
       "slot_name": "slot_Trinket"
     },
     {
@@ -142,7 +241,7 @@
       "level": 20,
       "name": "eq_lantern_20_trinket_lord20",
       "name_placeholder": "EQ_LANTERN_20_TRINKET_LORD20_NAME",
-      "priority": 300016,
+      "priority": 300027,
       "slot_name": "slot_Trinket"
     },
     {
@@ -151,7 +250,7 @@
       "level": 25,
       "name": "eq_lantern_25_trinket_lord25",
       "name_placeholder": "EQ_LANTERN_25_TRINKET_LORD25_NAME",
-      "priority": 300017,
+      "priority": 300028,
       "slot_name": "slot_Trinket"
     },
     {
@@ -160,7 +259,7 @@
       "level": 30,
       "name": "eq_lantern_30_trinket_lord30",
       "name_placeholder": "EQ_LANTERN_30_TRINKET_LORD30_NAME",
-      "priority": 300018,
+      "priority": 300029,
       "slot_name": "slot_Trinket"
     },
     {
@@ -169,7 +268,7 @@
       "level": 35,
       "name": "eq_lantern_35_trinket_lord35",
       "name_placeholder": "EQ_LANTERN_35_TRINKET_LORD35_NAME",
-      "priority": 300019,
+      "priority": 300030,
       "slot_name": "slot_Trinket"
     },
     {
@@ -178,7 +277,7 @@
       "level": 40,
       "name": "eq_lantern_40_trinket_lord40",
       "name_placeholder": "EQ_LANTERN_40_TRINKET_LORD40_NAME",
-      "priority": 300020,
+      "priority": 300031,
       "slot_name": "slot_Trinket"
     },
     {
@@ -187,7 +286,7 @@
       "level": 45,
       "name": "eq_lantern_45_trinket_lord45",
       "name_placeholder": "EQ_LANTERN_45_TRINKET_LORD45_NAME",
-      "priority": 300021,
+      "priority": 300032,
       "slot_name": "slot_Trinket"
     },
     {
@@ -196,7 +295,7 @@
       "level": 50,
       "name": "eq_lantern_50_trinket_lord50",
       "name_placeholder": "EQ_LANTERN_50_TRINKET_LORD50_NAME",
-      "priority": 300022,
+      "priority": 300033,
       "slot_name": "slot_Trinket"
     },
     {
@@ -205,7 +304,7 @@
       "level": 1,
       "name": "eq_events_falconshield_1_trinket_lord1",
       "name_placeholder": "EQ_EVENTS_FALCONSHIELD_1_TRINKET_LORD1_NAME",
-      "priority": 300023,
+      "priority": 300034,
       "slot_name": "slot_Trinket"
     },
     {
@@ -214,7 +313,7 @@
       "level": 5,
       "name": "eq_events_falconshield_5_trinket_lord5",
       "name_placeholder": "EQ_EVENTS_FALCONSHIELD_5_TRINKET_LORD5_NAME",
-      "priority": 300024,
+      "priority": 300035,
       "slot_name": "slot_Trinket"
     },
     {
@@ -223,7 +322,7 @@
       "level": 10,
       "name": "eq_events_falconshield_10_trinket_lord10",
       "name_placeholder": "EQ_EVENTS_FALCONSHIELD_10_TRINKET_LORD10_NAME",
-      "priority": 300025,
+      "priority": 300036,
       "slot_name": "slot_Trinket"
     },
     {
@@ -232,7 +331,7 @@
       "level": 15,
       "name": "eq_events_falconshield_15_trinket_lord15",
       "name_placeholder": "EQ_EVENTS_FALCONSHIELD_15_TRINKET_LORD15_NAME",
-      "priority": 300026,
+      "priority": 300037,
       "slot_name": "slot_Trinket"
     },
     {
@@ -241,7 +340,7 @@
       "level": 20,
       "name": "eq_events_falconshield_20_trinket_lord20",
       "name_placeholder": "EQ_EVENTS_FALCONSHIELD_20_TRINKET_LORD20_NAME",
-      "priority": 300027,
+      "priority": 300038,
       "slot_name": "slot_Trinket"
     },
     {
@@ -250,7 +349,7 @@
       "level": 25,
       "name": "eq_events_falconshield_25_trinket_lord25",
       "name_placeholder": "EQ_EVENTS_FALCONSHIELD_25_TRINKET_LORD25_NAME",
-      "priority": 300028,
+      "priority": 300039,
       "slot_name": "slot_Trinket"
     },
     {
@@ -259,7 +358,7 @@
       "level": 30,
       "name": "eq_events_falconshield_30_trinket_lord30",
       "name_placeholder": "EQ_EVENTS_FALCONSHIELD_30_TRINKET_LORD30_NAME",
-      "priority": 300029,
+      "priority": 300040,
       "slot_name": "slot_Trinket"
     },
     {
@@ -268,7 +367,7 @@
       "level": 35,
       "name": "eq_events_falconshield_35_trinket_lord35",
       "name_placeholder": "EQ_EVENTS_FALCONSHIELD_35_TRINKET_LORD35_NAME",
-      "priority": 300030,
+      "priority": 300041,
       "slot_name": "slot_Trinket"
     },
     {
@@ -277,7 +376,7 @@
       "level": 40,
       "name": "eq_events_falconshield_40_trinket_lord40",
       "name_placeholder": "EQ_EVENTS_FALCONSHIELD_40_TRINKET_LORD40_NAME",
-      "priority": 300031,
+      "priority": 300042,
       "slot_name": "slot_Trinket"
     },
     {
@@ -286,7 +385,7 @@
       "level": 45,
       "name": "eq_events_falconshield_45_trinket_lord45",
       "name_placeholder": "EQ_EVENTS_FALCONSHIELD_45_TRINKET_LORD45_NAME",
-      "priority": 300032,
+      "priority": 300043,
       "slot_name": "slot_Trinket"
     },
     {
@@ -295,7 +394,7 @@
       "level": 50,
       "name": "eq_events_falconshield_50_trinket_lord50",
       "name_placeholder": "EQ_EVENTS_FALCONSHIELD_50_TRINKET_LORD50_NAME",
-      "priority": 300033,
+      "priority": 300044,
       "slot_name": "slot_Trinket"
     },
     {
@@ -304,7 +403,7 @@
       "level": 1,
       "name": "eq_events_caliper_1_trinket_lord1",
       "name_placeholder": "EQ_EVENTS_CALIPER_1_TRINKET_LORD1_NAME",
-      "priority": 300034,
+      "priority": 300045,
       "slot_name": "slot_Trinket"
     },
     {
@@ -313,7 +412,7 @@
       "level": 5,
       "name": "eq_events_caliper_5_trinket_lord5",
       "name_placeholder": "EQ_EVENTS_CALIPER_5_TRINKET_LORD5_NAME",
-      "priority": 300035,
+      "priority": 300046,
       "slot_name": "slot_Trinket"
     },
     {
@@ -322,7 +421,7 @@
       "level": 10,
       "name": "eq_events_caliper_10_trinket_lord10",
       "name_placeholder": "EQ_EVENTS_CALIPER_10_TRINKET_LORD10_NAME",
-      "priority": 300036,
+      "priority": 300047,
       "slot_name": "slot_Trinket"
     },
     {
@@ -331,7 +430,7 @@
       "level": 15,
       "name": "eq_events_caliper_15_trinket_lord15",
       "name_placeholder": "EQ_EVENTS_CALIPER_15_TRINKET_LORD15_NAME",
-      "priority": 300037,
+      "priority": 300048,
       "slot_name": "slot_Trinket"
     },
     {
@@ -340,7 +439,7 @@
       "level": 20,
       "name": "eq_events_caliper_20_trinket_lord20",
       "name_placeholder": "EQ_EVENTS_CALIPER_20_TRINKET_LORD20_NAME",
-      "priority": 300038,
+      "priority": 300049,
       "slot_name": "slot_Trinket"
     },
     {
@@ -349,7 +448,7 @@
       "level": 25,
       "name": "eq_events_caliper_25_trinket_lord25",
       "name_placeholder": "EQ_EVENTS_CALIPER_25_TRINKET_LORD25_NAME",
-      "priority": 300039,
+      "priority": 300050,
       "slot_name": "slot_Trinket"
     },
     {
@@ -358,7 +457,7 @@
       "level": 30,
       "name": "eq_events_caliper_30_trinket_lord30",
       "name_placeholder": "EQ_EVENTS_CALIPER_30_TRINKET_LORD30_NAME",
-      "priority": 300040,
+      "priority": 300051,
       "slot_name": "slot_Trinket"
     },
     {
@@ -367,7 +466,7 @@
       "level": 35,
       "name": "eq_events_caliper_35_trinket_lord35",
       "name_placeholder": "EQ_EVENTS_CALIPER_35_TRINKET_LORD35_NAME",
-      "priority": 300041,
+      "priority": 300052,
       "slot_name": "slot_Trinket"
     },
     {
@@ -376,7 +475,7 @@
       "level": 40,
       "name": "eq_events_caliper_40_trinket_lord40",
       "name_placeholder": "EQ_EVENTS_CALIPER_40_TRINKET_LORD40_NAME",
-      "priority": 300042,
+      "priority": 300053,
       "slot_name": "slot_Trinket"
     },
     {
@@ -385,7 +484,7 @@
       "level": 45,
       "name": "eq_events_caliper_45_trinket_lord45",
       "name_placeholder": "EQ_EVENTS_CALIPER_45_TRINKET_LORD45_NAME",
-      "priority": 300043,
+      "priority": 300054,
       "slot_name": "slot_Trinket"
     },
     {
@@ -394,7 +493,7 @@
       "level": 50,
       "name": "eq_events_caliper_50_trinket_lord50",
       "name_placeholder": "EQ_EVENTS_CALIPER_50_TRINKET_LORD50_NAME",
-      "priority": 300044,
+      "priority": 300055,
       "slot_name": "slot_Trinket"
     },
     {
@@ -403,7 +502,7 @@
       "level": 1,
       "name": "eq_events_bookofbrothers_1_trinket_lord1",
       "name_placeholder": "EQ_EVENTS_BOOKOFBROTHERS_1_TRINKET_LORD1_NAME",
-      "priority": 300045,
+      "priority": 300056,
       "slot_name": "slot_Trinket"
     },
     {
@@ -412,7 +511,7 @@
       "level": 5,
       "name": "eq_events_bookofbrothers_5_trinket_lord5",
       "name_placeholder": "EQ_EVENTS_BOOKOFBROTHERS_5_TRINKET_LORD5_NAME",
-      "priority": 300046,
+      "priority": 300057,
       "slot_name": "slot_Trinket"
     },
     {
@@ -421,7 +520,7 @@
       "level": 10,
       "name": "eq_events_bookofbrothers_10_trinket_lord10",
       "name_placeholder": "EQ_EVENTS_BOOKOFBROTHERS_10_TRINKET_LORD10_NAME",
-      "priority": 300047,
+      "priority": 300058,
       "slot_name": "slot_Trinket"
     },
     {
@@ -430,7 +529,7 @@
       "level": 15,
       "name": "eq_events_bookofbrothers_15_trinket_lord15",
       "name_placeholder": "EQ_EVENTS_BOOKOFBROTHERS_15_TRINKET_LORD15_NAME",
-      "priority": 300048,
+      "priority": 300059,
       "slot_name": "slot_Trinket"
     },
     {
@@ -439,7 +538,7 @@
       "level": 20,
       "name": "eq_events_bookofbrothers_20_trinket_lord20",
       "name_placeholder": "EQ_EVENTS_BOOKOFBROTHERS_20_TRINKET_LORD20_NAME",
-      "priority": 300049,
+      "priority": 300060,
       "slot_name": "slot_Trinket"
     },
     {
@@ -448,7 +547,7 @@
       "level": 25,
       "name": "eq_events_bookofbrothers_25_trinket_lord25",
       "name_placeholder": "EQ_EVENTS_BOOKOFBROTHERS_25_TRINKET_LORD25_NAME",
-      "priority": 300050,
+      "priority": 300061,
       "slot_name": "slot_Trinket"
     },
     {
@@ -457,7 +556,7 @@
       "level": 30,
       "name": "eq_events_bookofbrothers_30_trinket_lord30",
       "name_placeholder": "EQ_EVENTS_BOOKOFBROTHERS_30_TRINKET_LORD30_NAME",
-      "priority": 300051,
+      "priority": 300062,
       "slot_name": "slot_Trinket"
     },
     {
@@ -466,7 +565,7 @@
       "level": 35,
       "name": "eq_events_bookofbrothers_35_trinket_lord35",
       "name_placeholder": "EQ_EVENTS_BOOKOFBROTHERS_35_TRINKET_LORD35_NAME",
-      "priority": 300052,
+      "priority": 300063,
       "slot_name": "slot_Trinket"
     },
     {
@@ -475,7 +574,7 @@
       "level": 40,
       "name": "eq_events_bookofbrothers_40_trinket_lord40",
       "name_placeholder": "EQ_EVENTS_BOOKOFBROTHERS_40_TRINKET_LORD40_NAME",
-      "priority": 300053,
+      "priority": 300064,
       "slot_name": "slot_Trinket"
     },
     {
@@ -484,7 +583,7 @@
       "level": 45,
       "name": "eq_events_bookofbrothers_45_trinket_lord45",
       "name_placeholder": "EQ_EVENTS_BOOKOFBROTHERS_45_TRINKET_LORD45_NAME",
-      "priority": 300054,
+      "priority": 300065,
       "slot_name": "slot_Trinket"
     },
     {
@@ -493,7 +592,7 @@
       "level": 50,
       "name": "eq_events_bookofbrothers_50_trinket_lord50",
       "name_placeholder": "EQ_EVENTS_BOOKOFBROTHERS_50_TRINKET_LORD50_NAME",
-      "priority": 300055,
+      "priority": 300066,
       "slot_name": "slot_Trinket"
     },
     {
@@ -502,7 +601,7 @@
       "level": 1,
       "name": "eq_events_dragonpendant_1_trinket_lord1",
       "name_placeholder": "EQ_EVENTS_DRAGONPENDANT_1_TRINKET_LORD1_NAME",
-      "priority": 300056,
+      "priority": 300067,
       "slot_name": "slot_Trinket"
     },
     {
@@ -511,7 +610,7 @@
       "level": 5,
       "name": "eq_events_dragonpendant_5_trinket_lord5",
       "name_placeholder": "EQ_EVENTS_DRAGONPENDANT_5_TRINKET_LORD5_NAME",
-      "priority": 300057,
+      "priority": 300068,
       "slot_name": "slot_Trinket"
     },
     {
@@ -520,7 +619,7 @@
       "level": 10,
       "name": "eq_events_dragonpendant_10_trinket_lord10",
       "name_placeholder": "EQ_EVENTS_DRAGONPENDANT_10_TRINKET_LORD10_NAME",
-      "priority": 300058,
+      "priority": 300069,
       "slot_name": "slot_Trinket"
     },
     {
@@ -529,7 +628,7 @@
       "level": 15,
       "name": "eq_events_dragonpendant_15_trinket_lord15",
       "name_placeholder": "EQ_EVENTS_DRAGONPENDANT_15_TRINKET_LORD15_NAME",
-      "priority": 300059,
+      "priority": 300070,
       "slot_name": "slot_Trinket"
     },
     {
@@ -538,7 +637,7 @@
       "level": 20,
       "name": "eq_events_dragonpendant_20_trinket_lord20",
       "name_placeholder": "EQ_EVENTS_DRAGONPENDANT_20_TRINKET_LORD20_NAME",
-      "priority": 300060,
+      "priority": 300071,
       "slot_name": "slot_Trinket"
     },
     {
@@ -547,7 +646,7 @@
       "level": 25,
       "name": "eq_events_dragonpendant_25_trinket_lord25",
       "name_placeholder": "EQ_EVENTS_DRAGONPENDANT_25_TRINKET_LORD25_NAME",
-      "priority": 300061,
+      "priority": 300072,
       "slot_name": "slot_Trinket"
     },
     {
@@ -556,7 +655,7 @@
       "level": 30,
       "name": "eq_events_dragonpendant_30_trinket_lord30",
       "name_placeholder": "EQ_EVENTS_DRAGONPENDANT_30_TRINKET_LORD30_NAME",
-      "priority": 300062,
+      "priority": 300073,
       "slot_name": "slot_Trinket"
     },
     {
@@ -565,7 +664,7 @@
       "level": 35,
       "name": "eq_events_dragonpendant_35_trinket_lord35",
       "name_placeholder": "EQ_EVENTS_DRAGONPENDANT_35_TRINKET_LORD35_NAME",
-      "priority": 300063,
+      "priority": 300074,
       "slot_name": "slot_Trinket"
     },
     {
@@ -574,7 +673,7 @@
       "level": 40,
       "name": "eq_events_dragonpendant_40_trinket_lord40",
       "name_placeholder": "EQ_EVENTS_DRAGONPENDANT_40_TRINKET_LORD40_NAME",
-      "priority": 300064,
+      "priority": 300075,
       "slot_name": "slot_Trinket"
     },
     {
@@ -583,7 +682,7 @@
       "level": 45,
       "name": "eq_events_dragonpendant_45_trinket_lord45",
       "name_placeholder": "EQ_EVENTS_DRAGONPENDANT_45_TRINKET_LORD45_NAME",
-      "priority": 300065,
+      "priority": 300076,
       "slot_name": "slot_Trinket"
     },
     {
@@ -592,7 +691,7 @@
       "level": 50,
       "name": "eq_events_dragonpendant_50_trinket_lord50",
       "name_placeholder": "EQ_EVENTS_DRAGONPENDANT_50_TRINKET_LORD50_NAME",
-      "priority": 300066,
+      "priority": 300077,
       "slot_name": "slot_Trinket"
     },
     {
@@ -601,7 +700,7 @@
       "level": 1,
       "name": "eq_events_dragonfeeder_1_trinket_lord1",
       "name_placeholder": "EQ_EVENTS_DRAGONFEEDER_1_TRINKET_LORD1_NAME",
-      "priority": 300067,
+      "priority": 300078,
       "slot_name": "slot_Trinket"
     },
     {
@@ -610,7 +709,7 @@
       "level": 5,
       "name": "eq_events_dragonfeeder_5_trinket_lord5",
       "name_placeholder": "EQ_EVENTS_DRAGONFEEDER_5_TRINKET_LORD5_NAME",
-      "priority": 300068,
+      "priority": 300079,
       "slot_name": "slot_Trinket"
     },
     {
@@ -619,7 +718,7 @@
       "level": 10,
       "name": "eq_events_dragonfeeder_10_trinket_lord10",
       "name_placeholder": "EQ_EVENTS_DRAGONFEEDER_10_TRINKET_LORD10_NAME",
-      "priority": 300069,
+      "priority": 300080,
       "slot_name": "slot_Trinket"
     },
     {
@@ -628,7 +727,7 @@
       "level": 15,
       "name": "eq_events_dragonfeeder_15_trinket_lord15",
       "name_placeholder": "EQ_EVENTS_DRAGONFEEDER_15_TRINKET_LORD15_NAME",
-      "priority": 300070,
+      "priority": 300081,
       "slot_name": "slot_Trinket"
     },
     {
@@ -637,7 +736,7 @@
       "level": 20,
       "name": "eq_events_dragonfeeder_20_trinket_lord20",
       "name_placeholder": "EQ_EVENTS_DRAGONFEEDER_20_TRINKET_LORD20_NAME",
-      "priority": 300071,
+      "priority": 300082,
       "slot_name": "slot_Trinket"
     },
     {
@@ -646,7 +745,7 @@
       "level": 25,
       "name": "eq_events_dragonfeeder_25_trinket_lord25",
       "name_placeholder": "EQ_EVENTS_DRAGONFEEDER_25_TRINKET_LORD25_NAME",
-      "priority": 300072,
+      "priority": 300083,
       "slot_name": "slot_Trinket"
     },
     {
@@ -655,7 +754,7 @@
       "level": 30,
       "name": "eq_events_dragonfeeder_30_trinket_lord30",
       "name_placeholder": "EQ_EVENTS_DRAGONFEEDER_30_TRINKET_LORD30_NAME",
-      "priority": 300073,
+      "priority": 300084,
       "slot_name": "slot_Trinket"
     },
     {
@@ -664,7 +763,7 @@
       "level": 35,
       "name": "eq_events_dragonfeeder_35_trinket_lord35",
       "name_placeholder": "EQ_EVENTS_DRAGONFEEDER_35_TRINKET_LORD35_NAME",
-      "priority": 300074,
+      "priority": 300085,
       "slot_name": "slot_Trinket"
     },
     {
@@ -673,7 +772,7 @@
       "level": 40,
       "name": "eq_events_dragonfeeder_40_trinket_lord40",
       "name_placeholder": "EQ_EVENTS_DRAGONFEEDER_40_TRINKET_LORD40_NAME",
-      "priority": 300075,
+      "priority": 300086,
       "slot_name": "slot_Trinket"
     },
     {
@@ -682,7 +781,7 @@
       "level": 45,
       "name": "eq_events_dragonfeeder_45_trinket_lord45",
       "name_placeholder": "EQ_EVENTS_DRAGONFEEDER_45_TRINKET_LORD45_NAME",
-      "priority": 300076,
+      "priority": 300087,
       "slot_name": "slot_Trinket"
     },
     {
@@ -691,7 +790,7 @@
       "level": 50,
       "name": "eq_events_dragonfeeder_50_trinket_lord50",
       "name_placeholder": "EQ_EVENTS_DRAGONFEEDER_50_TRINKET_LORD50_NAME",
-      "priority": 300077,
+      "priority": 300088,
       "slot_name": "slot_Trinket"
     },
     {
@@ -700,7 +799,7 @@
       "level": 1,
       "name": "eq_events_ridingcrop_1_trinket_lord1",
       "name_placeholder": "EQ_EVENTS_RIDINGCROP_1_TRINKET_LORD1_NAME",
-      "priority": 300078,
+      "priority": 300089,
       "slot_name": "slot_Trinket"
     },
     {
@@ -709,7 +808,7 @@
       "level": 5,
       "name": "eq_events_ridingcrop_5_trinket_lord5",
       "name_placeholder": "EQ_EVENTS_RIDINGCROP_5_TRINKET_LORD5_NAME",
-      "priority": 300079,
+      "priority": 300090,
       "slot_name": "slot_Trinket"
     },
     {
@@ -718,7 +817,7 @@
       "level": 10,
       "name": "eq_events_ridingcrop_10_trinket_lord10",
       "name_placeholder": "EQ_EVENTS_RIDINGCROP_10_TRINKET_LORD10_NAME",
-      "priority": 300080,
+      "priority": 300091,
       "slot_name": "slot_Trinket"
     },
     {
@@ -727,7 +826,7 @@
       "level": 15,
       "name": "eq_events_ridingcrop_15_trinket_lord15",
       "name_placeholder": "EQ_EVENTS_RIDINGCROP_15_TRINKET_LORD15_NAME",
-      "priority": 300081,
+      "priority": 300092,
       "slot_name": "slot_Trinket"
     },
     {
@@ -736,7 +835,7 @@
       "level": 20,
       "name": "eq_events_ridingcrop_20_trinket_lord20",
       "name_placeholder": "EQ_EVENTS_RIDINGCROP_20_TRINKET_LORD20_NAME",
-      "priority": 300082,
+      "priority": 300093,
       "slot_name": "slot_Trinket"
     },
     {
@@ -745,7 +844,7 @@
       "level": 25,
       "name": "eq_events_ridingcrop_25_trinket_lord25",
       "name_placeholder": "EQ_EVENTS_RIDINGCROP_25_TRINKET_LORD25_NAME",
-      "priority": 300083,
+      "priority": 300094,
       "slot_name": "slot_Trinket"
     },
     {
@@ -754,7 +853,7 @@
       "level": 30,
       "name": "eq_events_ridingcrop_30_trinket_lord30",
       "name_placeholder": "EQ_EVENTS_RIDINGCROP_30_TRINKET_LORD30_NAME",
-      "priority": 300084,
+      "priority": 300095,
       "slot_name": "slot_Trinket"
     },
     {
@@ -763,7 +862,7 @@
       "level": 35,
       "name": "eq_events_ridingcrop_35_trinket_lord35",
       "name_placeholder": "EQ_EVENTS_RIDINGCROP_35_TRINKET_LORD35_NAME",
-      "priority": 300085,
+      "priority": 300096,
       "slot_name": "slot_Trinket"
     },
     {
@@ -772,7 +871,7 @@
       "level": 40,
       "name": "eq_events_ridingcrop_40_trinket_lord40",
       "name_placeholder": "EQ_EVENTS_RIDINGCROP_40_TRINKET_LORD40_NAME",
-      "priority": 300086,
+      "priority": 300097,
       "slot_name": "slot_Trinket"
     },
     {
@@ -781,7 +880,7 @@
       "level": 45,
       "name": "eq_events_ridingcrop_45_trinket_lord45",
       "name_placeholder": "EQ_EVENTS_RIDINGCROP_45_TRINKET_LORD45_NAME",
-      "priority": 300087,
+      "priority": 300098,
       "slot_name": "slot_Trinket"
     },
     {
@@ -790,7 +889,7 @@
       "level": 50,
       "name": "eq_events_ridingcrop_50_trinket_lord50",
       "name_placeholder": "EQ_EVENTS_RIDINGCROP_50_TRINKET_LORD50_NAME",
-      "priority": 300088,
+      "priority": 300099,
       "slot_name": "slot_Trinket"
     },
     {
@@ -799,7 +898,7 @@
       "level": 1,
       "name": "eq_events_rosenecklace_1_trinket_lord1",
       "name_placeholder": "EQ_EVENTS_ROSENECKLACE_1_TRINKET_LORD1_NAME",
-      "priority": 300089,
+      "priority": 300100,
       "slot_name": "slot_Trinket"
     },
     {
@@ -808,7 +907,7 @@
       "level": 5,
       "name": "eq_events_rosenecklace_5_trinket_lord5",
       "name_placeholder": "EQ_EVENTS_ROSENECKLACE_5_TRINKET_LORD5_NAME",
-      "priority": 300090,
+      "priority": 300101,
       "slot_name": "slot_Trinket"
     },
     {
@@ -817,7 +916,7 @@
       "level": 10,
       "name": "eq_events_rosenecklace_10_trinket_lord10",
       "name_placeholder": "EQ_EVENTS_ROSENECKLACE_10_TRINKET_LORD10_NAME",
-      "priority": 300091,
+      "priority": 300102,
       "slot_name": "slot_Trinket"
     },
     {
@@ -826,7 +925,7 @@
       "level": 15,
       "name": "eq_events_rosenecklace_15_trinket_lord15",
       "name_placeholder": "EQ_EVENTS_ROSENECKLACE_15_TRINKET_LORD15_NAME",
-      "priority": 300092,
+      "priority": 300103,
       "slot_name": "slot_Trinket"
     },
     {
@@ -835,7 +934,7 @@
       "level": 20,
       "name": "eq_events_rosenecklace_20_trinket_lord20",
       "name_placeholder": "EQ_EVENTS_ROSENECKLACE_20_TRINKET_LORD20_NAME",
-      "priority": 300093,
+      "priority": 300104,
       "slot_name": "slot_Trinket"
     },
     {
@@ -844,7 +943,7 @@
       "level": 25,
       "name": "eq_events_rosenecklace_25_trinket_lord25",
       "name_placeholder": "EQ_EVENTS_ROSENECKLACE_25_TRINKET_LORD25_NAME",
-      "priority": 300094,
+      "priority": 300105,
       "slot_name": "slot_Trinket"
     },
     {
@@ -853,7 +952,7 @@
       "level": 30,
       "name": "eq_events_rosenecklace_30_trinket_lord30",
       "name_placeholder": "EQ_EVENTS_ROSENECKLACE_30_TRINKET_LORD30_NAME",
-      "priority": 300095,
+      "priority": 300106,
       "slot_name": "slot_Trinket"
     },
     {
@@ -862,7 +961,7 @@
       "level": 35,
       "name": "eq_events_rosenecklace_35_trinket_lord35",
       "name_placeholder": "EQ_EVENTS_ROSENECKLACE_35_TRINKET_LORD35_NAME",
-      "priority": 300096,
+      "priority": 300107,
       "slot_name": "slot_Trinket"
     },
     {
@@ -871,7 +970,7 @@
       "level": 40,
       "name": "eq_events_rosenecklace_40_trinket_lord40",
       "name_placeholder": "EQ_EVENTS_ROSENECKLACE_40_TRINKET_LORD40_NAME",
-      "priority": 300097,
+      "priority": 300108,
       "slot_name": "slot_Trinket"
     },
     {
@@ -880,7 +979,7 @@
       "level": 45,
       "name": "eq_events_rosenecklace_45_trinket_lord45",
       "name_placeholder": "EQ_EVENTS_ROSENECKLACE_45_TRINKET_LORD45_NAME",
-      "priority": 300098,
+      "priority": 300109,
       "slot_name": "slot_Trinket"
     },
     {
@@ -889,7 +988,7 @@
       "level": 50,
       "name": "eq_events_rosenecklace_50_trinket_lord50",
       "name_placeholder": "EQ_EVENTS_ROSENECKLACE_50_TRINKET_LORD50_NAME",
-      "priority": 300099,
+      "priority": 300110,
       "slot_name": "slot_Trinket"
     },
     {
@@ -898,7 +997,7 @@
       "level": 1,
       "name": "eq_events_vial_of_water_1_trinket_lord1",
       "name_placeholder": "EQ_EVENTS_VIAL_OF_WATER_1_TRINKET_LORD1_NAME",
-      "priority": 300100,
+      "priority": 300111,
       "slot_name": "slot_Trinket"
     },
     {
@@ -907,7 +1006,7 @@
       "level": 5,
       "name": "eq_events_vial_of_water_5_trinket_lord5",
       "name_placeholder": "EQ_EVENTS_VIAL_OF_WATER_5_TRINKET_LORD5_NAME",
-      "priority": 300101,
+      "priority": 300112,
       "slot_name": "slot_Trinket"
     },
     {
@@ -916,7 +1015,7 @@
       "level": 10,
       "name": "eq_events_vial_of_water_10_trinket_lord10",
       "name_placeholder": "EQ_EVENTS_VIAL_OF_WATER_10_TRINKET_LORD10_NAME",
-      "priority": 300102,
+      "priority": 300113,
       "slot_name": "slot_Trinket"
     },
     {
@@ -925,7 +1024,7 @@
       "level": 15,
       "name": "eq_events_vial_of_water_15_trinket_lord15",
       "name_placeholder": "EQ_EVENTS_VIAL_OF_WATER_15_TRINKET_LORD15_NAME",
-      "priority": 300103,
+      "priority": 300114,
       "slot_name": "slot_Trinket"
     },
     {
@@ -934,7 +1033,7 @@
       "level": 20,
       "name": "eq_events_vial_of_water_20_trinket_lord20",
       "name_placeholder": "EQ_EVENTS_VIAL_OF_WATER_20_TRINKET_LORD20_NAME",
-      "priority": 300104,
+      "priority": 300115,
       "slot_name": "slot_Trinket"
     },
     {
@@ -943,7 +1042,7 @@
       "level": 25,
       "name": "eq_events_vial_of_water_25_trinket_lord25",
       "name_placeholder": "EQ_EVENTS_VIAL_OF_WATER_25_TRINKET_LORD25_NAME",
-      "priority": 300105,
+      "priority": 300116,
       "slot_name": "slot_Trinket"
     },
     {
@@ -952,7 +1051,7 @@
       "level": 30,
       "name": "eq_events_vial_of_water_30_trinket_lord30",
       "name_placeholder": "EQ_EVENTS_VIAL_OF_WATER_30_TRINKET_LORD30_NAME",
-      "priority": 300106,
+      "priority": 300117,
       "slot_name": "slot_Trinket"
     },
     {
@@ -961,7 +1060,7 @@
       "level": 35,
       "name": "eq_events_vial_of_water_35_trinket_lord35",
       "name_placeholder": "EQ_EVENTS_VIAL_OF_WATER_35_TRINKET_LORD35_NAME",
-      "priority": 300107,
+      "priority": 300118,
       "slot_name": "slot_Trinket"
     },
     {
@@ -970,7 +1069,7 @@
       "level": 40,
       "name": "eq_events_vial_of_water_40_trinket_lord40",
       "name_placeholder": "EQ_EVENTS_VIAL_OF_WATER_40_TRINKET_LORD40_NAME",
-      "priority": 300108,
+      "priority": 300119,
       "slot_name": "slot_Trinket"
     },
     {
@@ -979,7 +1078,7 @@
       "level": 45,
       "name": "eq_events_vial_of_water_45_trinket_lord45",
       "name_placeholder": "EQ_EVENTS_VIAL_OF_WATER_45_TRINKET_LORD45_NAME",
-      "priority": 300109,
+      "priority": 300120,
       "slot_name": "slot_Trinket"
     },
     {
@@ -988,7 +1087,7 @@
       "level": 50,
       "name": "eq_events_vial_of_water_50_trinket_lord50",
       "name_placeholder": "EQ_EVENTS_VIAL_OF_WATER_50_TRINKET_LORD50_NAME",
-      "priority": 300110,
+      "priority": 300121,
       "slot_name": "slot_Trinket"
     },
     {
@@ -997,7 +1096,7 @@
       "level": 1,
       "name": "eq_events_dance_of_dragons_1_trinket_lord1",
       "name_placeholder": "EQ_EVENTS_DANCE_OF_DRAGONS_1_TRINKET_LORD1_NAME",
-      "priority": 300111,
+      "priority": 300122,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1006,7 +1105,7 @@
       "level": 5,
       "name": "eq_events_dance_of_dragons_5_trinket_lord5",
       "name_placeholder": "EQ_EVENTS_DANCE_OF_DRAGONS_5_TRINKET_LORD5_NAME",
-      "priority": 300112,
+      "priority": 300123,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1015,7 +1114,7 @@
       "level": 10,
       "name": "eq_events_dance_of_dragons_10_trinket_lord10",
       "name_placeholder": "EQ_EVENTS_DANCE_OF_DRAGONS_10_TRINKET_LORD10_NAME",
-      "priority": 300113,
+      "priority": 300124,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1024,7 +1123,7 @@
       "level": 15,
       "name": "eq_events_dance_of_dragons_15_trinket_lord15",
       "name_placeholder": "EQ_EVENTS_DANCE_OF_DRAGONS_15_TRINKET_LORD15_NAME",
-      "priority": 300114,
+      "priority": 300125,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1033,7 +1132,7 @@
       "level": 20,
       "name": "eq_events_dance_of_dragons_20_trinket_lord20",
       "name_placeholder": "EQ_EVENTS_DANCE_OF_DRAGONS_20_TRINKET_LORD20_NAME",
-      "priority": 300115,
+      "priority": 300126,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1042,7 +1141,7 @@
       "level": 25,
       "name": "eq_events_dance_of_dragons_25_trinket_lord25",
       "name_placeholder": "EQ_EVENTS_DANCE_OF_DRAGONS_25_TRINKET_LORD25_NAME",
-      "priority": 300116,
+      "priority": 300127,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1051,7 +1150,7 @@
       "level": 30,
       "name": "eq_events_dance_of_dragons_30_trinket_lord30",
       "name_placeholder": "EQ_EVENTS_DANCE_OF_DRAGONS_30_TRINKET_LORD30_NAME",
-      "priority": 300117,
+      "priority": 300128,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1060,7 +1159,7 @@
       "level": 35,
       "name": "eq_events_dance_of_dragons_35_trinket_lord35",
       "name_placeholder": "EQ_EVENTS_DANCE_OF_DRAGONS_35_TRINKET_LORD35_NAME",
-      "priority": 300118,
+      "priority": 300129,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1069,7 +1168,7 @@
       "level": 40,
       "name": "eq_events_dance_of_dragons_40_trinket_lord40",
       "name_placeholder": "EQ_EVENTS_DANCE_OF_DRAGONS_40_TRINKET_LORD40_NAME",
-      "priority": 300119,
+      "priority": 300130,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1078,7 +1177,7 @@
       "level": 45,
       "name": "eq_events_dance_of_dragons_45_trinket_lord45",
       "name_placeholder": "EQ_EVENTS_DANCE_OF_DRAGONS_45_TRINKET_LORD45_NAME",
-      "priority": 300120,
+      "priority": 300131,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1087,7 +1186,7 @@
       "level": 50,
       "name": "eq_events_dance_of_dragons_50_trinket_lord50",
       "name_placeholder": "EQ_EVENTS_DANCE_OF_DRAGONS_50_TRINKET_LORD50_NAME",
-      "priority": 300121,
+      "priority": 300132,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1096,7 +1195,7 @@
       "level": 1,
       "name": "eq_events_eyepatch_1_trinket_lord1",
       "name_placeholder": "EQ_EVENTS_EYEPATCH_1_TRINKET_LORD1_NAME",
-      "priority": 300122,
+      "priority": 300133,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1105,7 +1204,7 @@
       "level": 5,
       "name": "eq_events_eyepatch_5_trinket_lord5",
       "name_placeholder": "EQ_EVENTS_EYEPATCH_5_TRINKET_LORD5_NAME",
-      "priority": 300123,
+      "priority": 300134,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1114,7 +1213,7 @@
       "level": 10,
       "name": "eq_events_eyepatch_10_trinket_lord10",
       "name_placeholder": "EQ_EVENTS_EYEPATCH_10_TRINKET_LORD10_NAME",
-      "priority": 300124,
+      "priority": 300135,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1123,7 +1222,7 @@
       "level": 15,
       "name": "eq_events_eyepatch_15_trinket_lord15",
       "name_placeholder": "EQ_EVENTS_EYEPATCH_15_TRINKET_LORD15_NAME",
-      "priority": 300125,
+      "priority": 300136,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1132,7 +1231,7 @@
       "level": 20,
       "name": "eq_events_eyepatch_20_trinket_lord20",
       "name_placeholder": "EQ_EVENTS_EYEPATCH_20_TRINKET_LORD20_NAME",
-      "priority": 300126,
+      "priority": 300137,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1141,7 +1240,7 @@
       "level": 25,
       "name": "eq_events_eyepatch_25_trinket_lord25",
       "name_placeholder": "EQ_EVENTS_EYEPATCH_25_TRINKET_LORD25_NAME",
-      "priority": 300127,
+      "priority": 300138,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1150,7 +1249,7 @@
       "level": 30,
       "name": "eq_events_eyepatch_30_trinket_lord30",
       "name_placeholder": "EQ_EVENTS_EYEPATCH_30_TRINKET_LORD30_NAME",
-      "priority": 300128,
+      "priority": 300139,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1159,7 +1258,7 @@
       "level": 35,
       "name": "eq_events_eyepatch_35_trinket_lord35",
       "name_placeholder": "EQ_EVENTS_EYEPATCH_35_TRINKET_LORD35_NAME",
-      "priority": 300129,
+      "priority": 300140,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1168,7 +1267,7 @@
       "level": 40,
       "name": "eq_events_eyepatch_40_trinket_lord40",
       "name_placeholder": "EQ_EVENTS_EYEPATCH_40_TRINKET_LORD40_NAME",
-      "priority": 300130,
+      "priority": 300141,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1177,7 +1276,7 @@
       "level": 45,
       "name": "eq_events_eyepatch_45_trinket_lord45",
       "name_placeholder": "EQ_EVENTS_EYEPATCH_45_TRINKET_LORD45_NAME",
-      "priority": 300131,
+      "priority": 300142,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1186,7 +1285,7 @@
       "level": 50,
       "name": "eq_events_eyepatch_50_trinket_lord50",
       "name_placeholder": "EQ_EVENTS_EYEPATCH_50_TRINKET_LORD50_NAME",
-      "priority": 300132,
+      "priority": 300143,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1195,7 +1294,7 @@
       "level": 1,
       "name": "eq_events_books_1_trinket_lord1",
       "name_placeholder": "EQ_EVENTS_BOOKS_1_TRINKET_LORD1_NAME",
-      "priority": 300133,
+      "priority": 300144,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1204,7 +1303,7 @@
       "level": 5,
       "name": "eq_events_books_5_trinket_lord5",
       "name_placeholder": "EQ_EVENTS_BOOKS_5_TRINKET_LORD5_NAME",
-      "priority": 300134,
+      "priority": 300145,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1213,7 +1312,7 @@
       "level": 10,
       "name": "eq_events_books_10_trinket_lord10",
       "name_placeholder": "EQ_EVENTS_BOOKS_10_TRINKET_LORD10_NAME",
-      "priority": 300135,
+      "priority": 300146,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1222,7 +1321,7 @@
       "level": 15,
       "name": "eq_events_books_15_trinket_lord15",
       "name_placeholder": "EQ_EVENTS_BOOKS_15_TRINKET_LORD15_NAME",
-      "priority": 300136,
+      "priority": 300147,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1231,7 +1330,7 @@
       "level": 20,
       "name": "eq_events_books_20_trinket_lord20",
       "name_placeholder": "EQ_EVENTS_BOOKS_20_TRINKET_LORD20_NAME",
-      "priority": 300137,
+      "priority": 300148,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1240,7 +1339,7 @@
       "level": 25,
       "name": "eq_events_books_25_trinket_lord25",
       "name_placeholder": "EQ_EVENTS_BOOKS_25_TRINKET_LORD25_NAME",
-      "priority": 300138,
+      "priority": 300149,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1249,7 +1348,7 @@
       "level": 30,
       "name": "eq_events_books_30_trinket_lord30",
       "name_placeholder": "EQ_EVENTS_BOOKS_30_TRINKET_LORD30_NAME",
-      "priority": 300139,
+      "priority": 300150,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1258,7 +1357,7 @@
       "level": 35,
       "name": "eq_events_books_35_trinket_lord35",
       "name_placeholder": "EQ_EVENTS_BOOKS_35_TRINKET_LORD35_NAME",
-      "priority": 300140,
+      "priority": 300151,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1267,7 +1366,7 @@
       "level": 40,
       "name": "eq_events_books_40_trinket_lord40",
       "name_placeholder": "EQ_EVENTS_BOOKS_40_TRINKET_LORD40_NAME",
-      "priority": 300141,
+      "priority": 300152,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1276,7 +1375,7 @@
       "level": 45,
       "name": "eq_events_books_45_trinket_lord45",
       "name_placeholder": "EQ_EVENTS_BOOKS_45_TRINKET_LORD45_NAME",
-      "priority": 300142,
+      "priority": 300153,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1285,7 +1384,7 @@
       "level": 50,
       "name": "eq_events_books_50_trinket_lord50",
       "name_placeholder": "EQ_EVENTS_BOOKS_50_TRINKET_LORD50_NAME",
-      "priority": 300143,
+      "priority": 300154,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1294,7 +1393,7 @@
       "level": 1,
       "name": "eq_events_bloodycrown_1_trinket_lord1",
       "name_placeholder": "EQ_EVENTS_BLOODYCROWN_1_TRINKET_LORD1_NAME",
-      "priority": 300144,
+      "priority": 300155,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1303,7 +1402,7 @@
       "level": 5,
       "name": "eq_events_bloodycrown_5_trinket_lord5",
       "name_placeholder": "EQ_EVENTS_BLOODYCROWN_5_TRINKET_LORD5_NAME",
-      "priority": 300145,
+      "priority": 300156,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1312,7 +1411,7 @@
       "level": 10,
       "name": "eq_events_bloodycrown_10_trinket_lord10",
       "name_placeholder": "EQ_EVENTS_BLOODYCROWN_10_TRINKET_LORD10_NAME",
-      "priority": 300146,
+      "priority": 300157,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1321,7 +1420,7 @@
       "level": 15,
       "name": "eq_events_bloodycrown_15_trinket_lord15",
       "name_placeholder": "EQ_EVENTS_BLOODYCROWN_15_TRINKET_LORD15_NAME",
-      "priority": 300147,
+      "priority": 300158,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1330,7 +1429,7 @@
       "level": 20,
       "name": "eq_events_bloodycrown_20_trinket_lord20",
       "name_placeholder": "EQ_EVENTS_BLOODYCROWN_20_TRINKET_LORD20_NAME",
-      "priority": 300148,
+      "priority": 300159,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1339,7 +1438,7 @@
       "level": 25,
       "name": "eq_events_bloodycrown_25_trinket_lord25",
       "name_placeholder": "EQ_EVENTS_BLOODYCROWN_25_TRINKET_LORD25_NAME",
-      "priority": 300149,
+      "priority": 300160,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1348,7 +1447,7 @@
       "level": 30,
       "name": "eq_events_bloodycrown_30_trinket_lord30",
       "name_placeholder": "EQ_EVENTS_BLOODYCROWN_30_TRINKET_LORD30_NAME",
-      "priority": 300150,
+      "priority": 300161,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1357,7 +1456,7 @@
       "level": 35,
       "name": "eq_events_bloodycrown_35_trinket_lord35",
       "name_placeholder": "EQ_EVENTS_BLOODYCROWN_35_TRINKET_LORD35_NAME",
-      "priority": 300151,
+      "priority": 300162,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1366,7 +1465,7 @@
       "level": 40,
       "name": "eq_events_bloodycrown_40_trinket_lord40",
       "name_placeholder": "EQ_EVENTS_BLOODYCROWN_40_TRINKET_LORD40_NAME",
-      "priority": 300152,
+      "priority": 300163,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1375,7 +1474,7 @@
       "level": 45,
       "name": "eq_events_bloodycrown_45_trinket_lord45",
       "name_placeholder": "EQ_EVENTS_BLOODYCROWN_45_TRINKET_LORD45_NAME",
-      "priority": 300153,
+      "priority": 300164,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1384,7 +1483,7 @@
       "level": 50,
       "name": "eq_events_bloodycrown_50_trinket_lord50",
       "name_placeholder": "EQ_EVENTS_BLOODYCROWN_50_TRINKET_LORD50_NAME",
-      "priority": 300154,
+      "priority": 300165,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1393,7 +1492,7 @@
       "level": 1,
       "name": "eq_events_snakewhip_1_trinket_lord1",
       "name_placeholder": "EQ_EVENTS_SNAKEWHIP_1_TRINKET_LORD1_NAME",
-      "priority": 300155,
+      "priority": 300166,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1402,7 +1501,7 @@
       "level": 5,
       "name": "eq_events_snakewhip_5_trinket_lord5",
       "name_placeholder": "EQ_EVENTS_SNAKEWHIP_5_TRINKET_LORD5_NAME",
-      "priority": 300156,
+      "priority": 300167,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1411,7 +1510,7 @@
       "level": 10,
       "name": "eq_events_snakewhip_10_trinket_lord10",
       "name_placeholder": "EQ_EVENTS_SNAKEWHIP_10_TRINKET_LORD10_NAME",
-      "priority": 300157,
+      "priority": 300168,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1420,7 +1519,7 @@
       "level": 15,
       "name": "eq_events_snakewhip_15_trinket_lord15",
       "name_placeholder": "EQ_EVENTS_SNAKEWHIP_15_TRINKET_LORD15_NAME",
-      "priority": 300158,
+      "priority": 300169,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1429,7 +1528,7 @@
       "level": 20,
       "name": "eq_events_snakewhip_20_trinket_lord20",
       "name_placeholder": "EQ_EVENTS_SNAKEWHIP_20_TRINKET_LORD20_NAME",
-      "priority": 300159,
+      "priority": 300170,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1438,7 +1537,7 @@
       "level": 25,
       "name": "eq_events_snakewhip_25_trinket_lord25",
       "name_placeholder": "EQ_EVENTS_SNAKEWHIP_25_TRINKET_LORD25_NAME",
-      "priority": 300160,
+      "priority": 300171,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1447,7 +1546,7 @@
       "level": 30,
       "name": "eq_events_snakewhip_30_trinket_lord30",
       "name_placeholder": "EQ_EVENTS_SNAKEWHIP_30_TRINKET_LORD30_NAME",
-      "priority": 300161,
+      "priority": 300172,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1456,7 +1555,7 @@
       "level": 35,
       "name": "eq_events_snakewhip_35_trinket_lord35",
       "name_placeholder": "EQ_EVENTS_SNAKEWHIP_35_TRINKET_LORD35_NAME",
-      "priority": 300162,
+      "priority": 300173,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1465,7 +1564,7 @@
       "level": 40,
       "name": "eq_events_snakewhip_40_trinket_lord40",
       "name_placeholder": "EQ_EVENTS_SNAKEWHIP_40_TRINKET_LORD40_NAME",
-      "priority": 300163,
+      "priority": 300174,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1474,7 +1573,7 @@
       "level": 45,
       "name": "eq_events_snakewhip_45_trinket_lord45",
       "name_placeholder": "EQ_EVENTS_SNAKEWHIP_45_TRINKET_LORD45_NAME",
-      "priority": 300164,
+      "priority": 300175,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1483,7 +1582,7 @@
       "level": 50,
       "name": "eq_events_snakewhip_50_trinket_lord50",
       "name_placeholder": "EQ_EVENTS_SNAKEWHIP_50_TRINKET_LORD50_NAME",
-      "priority": 300165,
+      "priority": 300176,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1492,7 +1591,7 @@
       "level": 1,
       "name": "eq_events_storybook_1_trinket_lord1",
       "name_placeholder": "EQ_EVENTS_STORYBOOK_1_TRINKET_LORD1_NAME",
-      "priority": 300166,
+      "priority": 300177,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1501,7 +1600,7 @@
       "level": 5,
       "name": "eq_events_storybook_5_trinket_lord5",
       "name_placeholder": "EQ_EVENTS_STORYBOOK_5_TRINKET_LORD5_NAME",
-      "priority": 300167,
+      "priority": 300178,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1510,7 +1609,7 @@
       "level": 10,
       "name": "eq_events_storybook_10_trinket_lord10",
       "name_placeholder": "EQ_EVENTS_STORYBOOK_10_TRINKET_LORD10_NAME",
-      "priority": 300168,
+      "priority": 300179,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1519,7 +1618,7 @@
       "level": 15,
       "name": "eq_events_storybook_15_trinket_lord15",
       "name_placeholder": "EQ_EVENTS_STORYBOOK_15_TRINKET_LORD15_NAME",
-      "priority": 300169,
+      "priority": 300180,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1528,7 +1627,7 @@
       "level": 20,
       "name": "eq_events_storybook_20_trinket_lord20",
       "name_placeholder": "EQ_EVENTS_STORYBOOK_20_TRINKET_LORD20_NAME",
-      "priority": 300170,
+      "priority": 300181,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1537,7 +1636,7 @@
       "level": 25,
       "name": "eq_events_storybook_25_trinket_lord25",
       "name_placeholder": "EQ_EVENTS_STORYBOOK_25_TRINKET_LORD25_NAME",
-      "priority": 300171,
+      "priority": 300182,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1546,7 +1645,7 @@
       "level": 30,
       "name": "eq_events_storybook_30_trinket_lord30",
       "name_placeholder": "EQ_EVENTS_STORYBOOK_30_TRINKET_LORD30_NAME",
-      "priority": 300172,
+      "priority": 300183,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1555,7 +1654,7 @@
       "level": 35,
       "name": "eq_events_storybook_35_trinket_lord35",
       "name_placeholder": "EQ_EVENTS_STORYBOOK_35_TRINKET_LORD35_NAME",
-      "priority": 300173,
+      "priority": 300184,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1564,7 +1663,7 @@
       "level": 40,
       "name": "eq_events_storybook_40_trinket_lord40",
       "name_placeholder": "EQ_EVENTS_STORYBOOK_40_TRINKET_LORD40_NAME",
-      "priority": 300174,
+      "priority": 300185,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1573,7 +1672,7 @@
       "level": 45,
       "name": "eq_events_storybook_45_trinket_lord45",
       "name_placeholder": "EQ_EVENTS_STORYBOOK_45_TRINKET_LORD45_NAME",
-      "priority": 300175,
+      "priority": 300186,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1582,7 +1681,7 @@
       "level": 50,
       "name": "eq_events_storybook_50_trinket_lord50",
       "name_placeholder": "EQ_EVENTS_STORYBOOK_50_TRINKET_LORD50_NAME",
-      "priority": 300176,
+      "priority": 300187,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1591,7 +1690,7 @@
       "level": 1,
       "name": "eq_events_drinkinghorn_1_trinket_lord1",
       "name_placeholder": "EQ_EVENTS_DRINKINGHORN_1_TRINKET_LORD1_NAME",
-      "priority": 300177,
+      "priority": 300188,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1600,7 +1699,7 @@
       "level": 5,
       "name": "eq_events_drinkinghorn_5_trinket_lord5",
       "name_placeholder": "EQ_EVENTS_DRINKINGHORN_5_TRINKET_LORD5_NAME",
-      "priority": 300178,
+      "priority": 300189,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1609,7 +1708,7 @@
       "level": 10,
       "name": "eq_events_drinkinghorn_10_trinket_lord10",
       "name_placeholder": "EQ_EVENTS_DRINKINGHORN_10_TRINKET_LORD10_NAME",
-      "priority": 300179,
+      "priority": 300190,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1618,7 +1717,7 @@
       "level": 15,
       "name": "eq_events_drinkinghorn_15_trinket_lord15",
       "name_placeholder": "EQ_EVENTS_DRINKINGHORN_15_TRINKET_LORD15_NAME",
-      "priority": 300180,
+      "priority": 300191,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1627,7 +1726,7 @@
       "level": 20,
       "name": "eq_events_drinkinghorn_20_trinket_lord20",
       "name_placeholder": "EQ_EVENTS_DRINKINGHORN_20_TRINKET_LORD20_NAME",
-      "priority": 300181,
+      "priority": 300192,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1636,7 +1735,7 @@
       "level": 25,
       "name": "eq_events_drinkinghorn_25_trinket_lord25",
       "name_placeholder": "EQ_EVENTS_DRINKINGHORN_25_TRINKET_LORD25_NAME",
-      "priority": 300182,
+      "priority": 300193,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1645,7 +1744,7 @@
       "level": 30,
       "name": "eq_events_drinkinghorn_30_trinket_lord30",
       "name_placeholder": "EQ_EVENTS_DRINKINGHORN_30_TRINKET_LORD30_NAME",
-      "priority": 300183,
+      "priority": 300194,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1654,7 +1753,7 @@
       "level": 35,
       "name": "eq_events_drinkinghorn_35_trinket_lord35",
       "name_placeholder": "EQ_EVENTS_DRINKINGHORN_35_TRINKET_LORD35_NAME",
-      "priority": 300184,
+      "priority": 300195,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1663,7 +1762,7 @@
       "level": 40,
       "name": "eq_events_drinkinghorn_40_trinket_lord40",
       "name_placeholder": "EQ_EVENTS_DRINKINGHORN_40_TRINKET_LORD40_NAME",
-      "priority": 300185,
+      "priority": 300196,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1672,7 +1771,7 @@
       "level": 45,
       "name": "eq_events_drinkinghorn_45_trinket_lord45",
       "name_placeholder": "EQ_EVENTS_DRINKINGHORN_45_TRINKET_LORD45_NAME",
-      "priority": 300186,
+      "priority": 300197,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1681,7 +1780,7 @@
       "level": 50,
       "name": "eq_events_drinkinghorn_50_trinket_lord50",
       "name_placeholder": "EQ_EVENTS_DRINKINGHORN_50_TRINKET_LORD50_NAME",
-      "priority": 300187,
+      "priority": 300198,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1690,7 +1789,7 @@
       "level": 1,
       "name": "eq_events_blueprints_1_trinket_lord1",
       "name_placeholder": "EQ_EVENTS_BLUEPRINTS_1_TRINKET_LORD1_NAME",
-      "priority": 300188,
+      "priority": 300199,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1699,7 +1798,7 @@
       "level": 5,
       "name": "eq_events_blueprints_5_trinket_lord5",
       "name_placeholder": "EQ_EVENTS_BLUEPRINTS_5_TRINKET_LORD5_NAME",
-      "priority": 300189,
+      "priority": 300200,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1708,7 +1807,7 @@
       "level": 10,
       "name": "eq_events_blueprints_10_trinket_lord10",
       "name_placeholder": "EQ_EVENTS_BLUEPRINTS_10_TRINKET_LORD10_NAME",
-      "priority": 300190,
+      "priority": 300201,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1717,7 +1816,7 @@
       "level": 15,
       "name": "eq_events_blueprints_15_trinket_lord15",
       "name_placeholder": "EQ_EVENTS_BLUEPRINTS_15_TRINKET_LORD15_NAME",
-      "priority": 300191,
+      "priority": 300202,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1726,7 +1825,7 @@
       "level": 20,
       "name": "eq_events_blueprints_20_trinket_lord20",
       "name_placeholder": "EQ_EVENTS_BLUEPRINTS_20_TRINKET_LORD20_NAME",
-      "priority": 300192,
+      "priority": 300203,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1735,7 +1834,7 @@
       "level": 25,
       "name": "eq_events_blueprints_25_trinket_lord25",
       "name_placeholder": "EQ_EVENTS_BLUEPRINTS_25_TRINKET_LORD25_NAME",
-      "priority": 300193,
+      "priority": 300204,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1744,7 +1843,7 @@
       "level": 30,
       "name": "eq_events_blueprints_30_trinket_lord30",
       "name_placeholder": "EQ_EVENTS_BLUEPRINTS_30_TRINKET_LORD30_NAME",
-      "priority": 300194,
+      "priority": 300205,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1753,7 +1852,7 @@
       "level": 35,
       "name": "eq_events_blueprints_35_trinket_lord35",
       "name_placeholder": "EQ_EVENTS_BLUEPRINTS_35_TRINKET_LORD35_NAME",
-      "priority": 300195,
+      "priority": 300206,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1762,7 +1861,7 @@
       "level": 40,
       "name": "eq_events_blueprints_40_trinket_lord40",
       "name_placeholder": "EQ_EVENTS_BLUEPRINTS_40_TRINKET_LORD40_NAME",
-      "priority": 300196,
+      "priority": 300207,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1771,7 +1870,7 @@
       "level": 45,
       "name": "eq_events_blueprints_45_trinket_lord45",
       "name_placeholder": "EQ_EVENTS_BLUEPRINTS_45_TRINKET_LORD45_NAME",
-      "priority": 300197,
+      "priority": 300208,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1780,7 +1879,7 @@
       "level": 50,
       "name": "eq_events_blueprints_50_trinket_lord50",
       "name_placeholder": "EQ_EVENTS_BLUEPRINTS_50_TRINKET_LORD50_NAME",
-      "priority": 300198,
+      "priority": 300209,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1789,7 +1888,7 @@
       "level": 1,
       "name": "eq_events_toysoldier_1_trinket_lord1",
       "name_placeholder": "EQ_EVENTS_TOYSOLDIER_1_TRINKET_LORD1_NAME",
-      "priority": 300199,
+      "priority": 300210,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1798,7 +1897,7 @@
       "level": 5,
       "name": "eq_events_toysoldier_5_trinket_lord5",
       "name_placeholder": "EQ_EVENTS_TOYSOLDIER_5_TRINKET_LORD5_NAME",
-      "priority": 300200,
+      "priority": 300211,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1807,7 +1906,7 @@
       "level": 10,
       "name": "eq_events_toysoldier_10_trinket_lord10",
       "name_placeholder": "EQ_EVENTS_TOYSOLDIER_10_TRINKET_LORD10_NAME",
-      "priority": 300201,
+      "priority": 300212,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1816,7 +1915,7 @@
       "level": 15,
       "name": "eq_events_toysoldier_15_trinket_lord15",
       "name_placeholder": "EQ_EVENTS_TOYSOLDIER_15_TRINKET_LORD15_NAME",
-      "priority": 300202,
+      "priority": 300213,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1825,7 +1924,7 @@
       "level": 20,
       "name": "eq_events_toysoldier_20_trinket_lord20",
       "name_placeholder": "EQ_EVENTS_TOYSOLDIER_20_TRINKET_LORD20_NAME",
-      "priority": 300203,
+      "priority": 300214,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1834,7 +1933,7 @@
       "level": 25,
       "name": "eq_events_toysoldier_25_trinket_lord25",
       "name_placeholder": "EQ_EVENTS_TOYSOLDIER_25_TRINKET_LORD25_NAME",
-      "priority": 300204,
+      "priority": 300215,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1843,7 +1942,7 @@
       "level": 30,
       "name": "eq_events_toysoldier_30_trinket_lord30",
       "name_placeholder": "EQ_EVENTS_TOYSOLDIER_30_TRINKET_LORD30_NAME",
-      "priority": 300205,
+      "priority": 300216,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1852,7 +1951,7 @@
       "level": 35,
       "name": "eq_events_toysoldier_35_trinket_lord35",
       "name_placeholder": "EQ_EVENTS_TOYSOLDIER_35_TRINKET_LORD35_NAME",
-      "priority": 300206,
+      "priority": 300217,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1861,7 +1960,7 @@
       "level": 40,
       "name": "eq_events_toysoldier_40_trinket_lord40",
       "name_placeholder": "EQ_EVENTS_TOYSOLDIER_40_TRINKET_LORD40_NAME",
-      "priority": 300207,
+      "priority": 300218,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1870,7 +1969,7 @@
       "level": 45,
       "name": "eq_events_toysoldier_45_trinket_lord45",
       "name_placeholder": "EQ_EVENTS_TOYSOLDIER_45_TRINKET_LORD45_NAME",
-      "priority": 300208,
+      "priority": 300219,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1879,7 +1978,7 @@
       "level": 50,
       "name": "eq_events_toysoldier_50_trinket_lord50",
       "name_placeholder": "EQ_EVENTS_TOYSOLDIER_50_TRINKET_LORD50_NAME",
-      "priority": 300209,
+      "priority": 300220,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1888,7 +1987,7 @@
       "level": 1,
       "name": "eq_events_trinket_queenlb_1_trinket_lord1",
       "name_placeholder": "EQ_EVENTS_TRINKET_QUEENLB_1_TRINKET_LORD1_NAME",
-      "priority": 300210,
+      "priority": 300221,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1897,7 +1996,7 @@
       "level": 5,
       "name": "eq_events_trinket_queenlb_5_trinket_lord5",
       "name_placeholder": "EQ_EVENTS_TRINKET_QUEENLB_5_TRINKET_LORD5_NAME",
-      "priority": 300211,
+      "priority": 300222,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1906,7 +2005,7 @@
       "level": 10,
       "name": "eq_events_trinket_queenlb_10_trinket_lord10",
       "name_placeholder": "EQ_EVENTS_TRINKET_QUEENLB_10_TRINKET_LORD10_NAME",
-      "priority": 300212,
+      "priority": 300223,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1915,7 +2014,7 @@
       "level": 15,
       "name": "eq_events_trinket_queenlb_15_trinket_lord15",
       "name_placeholder": "EQ_EVENTS_TRINKET_QUEENLB_15_TRINKET_LORD15_NAME",
-      "priority": 300213,
+      "priority": 300224,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1924,7 +2023,7 @@
       "level": 20,
       "name": "eq_events_trinket_queenlb_20_trinket_lord20",
       "name_placeholder": "EQ_EVENTS_TRINKET_QUEENLB_20_TRINKET_LORD20_NAME",
-      "priority": 300214,
+      "priority": 300225,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1933,7 +2032,7 @@
       "level": 25,
       "name": "eq_events_trinket_queenlb_25_trinket_lord25",
       "name_placeholder": "EQ_EVENTS_TRINKET_QUEENLB_25_TRINKET_LORD25_NAME",
-      "priority": 300215,
+      "priority": 300226,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1942,7 +2041,7 @@
       "level": 30,
       "name": "eq_events_trinket_queenlb_30_trinket_lord30",
       "name_placeholder": "EQ_EVENTS_TRINKET_QUEENLB_30_TRINKET_LORD30_NAME",
-      "priority": 300216,
+      "priority": 300227,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1951,7 +2050,7 @@
       "level": 35,
       "name": "eq_events_trinket_queenlb_35_trinket_lord35",
       "name_placeholder": "EQ_EVENTS_TRINKET_QUEENLB_35_TRINKET_LORD35_NAME",
-      "priority": 300217,
+      "priority": 300228,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1960,7 +2059,7 @@
       "level": 40,
       "name": "eq_events_trinket_queenlb_40_trinket_lord40",
       "name_placeholder": "EQ_EVENTS_TRINKET_QUEENLB_40_TRINKET_LORD40_NAME",
-      "priority": 300218,
+      "priority": 300229,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1969,7 +2068,7 @@
       "level": 45,
       "name": "eq_events_trinket_queenlb_45_trinket_lord45",
       "name_placeholder": "EQ_EVENTS_TRINKET_QUEENLB_45_TRINKET_LORD45_NAME",
-      "priority": 300219,
+      "priority": 300230,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1978,7 +2077,7 @@
       "level": 50,
       "name": "eq_events_trinket_queenlb_50_trinket_lord50",
       "name_placeholder": "EQ_EVENTS_TRINKET_QUEENLB_50_TRINKET_LORD50_NAME",
-      "priority": 300220,
+      "priority": 300231,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1987,7 +2086,7 @@
       "level": 1,
       "name": "eq_events_trinket_rhllor_1_trinket_lord1",
       "name_placeholder": "EQ_EVENTS_TRINKET_RHLLOR_1_TRINKET_LORD1_NAME",
-      "priority": 300221,
+      "priority": 300232,
       "slot_name": "slot_Trinket"
     },
     {
@@ -1996,7 +2095,7 @@
       "level": 5,
       "name": "eq_events_trinket_rhllor_5_trinket_lord5",
       "name_placeholder": "EQ_EVENTS_TRINKET_RHLLOR_5_TRINKET_LORD5_NAME",
-      "priority": 300222,
+      "priority": 300233,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2005,7 +2104,7 @@
       "level": 10,
       "name": "eq_events_trinket_rhllor_10_trinket_lord10",
       "name_placeholder": "EQ_EVENTS_TRINKET_RHLLOR_10_TRINKET_LORD10_NAME",
-      "priority": 300223,
+      "priority": 300234,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2014,7 +2113,7 @@
       "level": 15,
       "name": "eq_events_trinket_rhllor_15_trinket_lord15",
       "name_placeholder": "EQ_EVENTS_TRINKET_RHLLOR_15_TRINKET_LORD15_NAME",
-      "priority": 300224,
+      "priority": 300235,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2023,7 +2122,7 @@
       "level": 20,
       "name": "eq_events_trinket_rhllor_20_trinket_lord20",
       "name_placeholder": "EQ_EVENTS_TRINKET_RHLLOR_20_TRINKET_LORD20_NAME",
-      "priority": 300225,
+      "priority": 300236,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2032,7 +2131,7 @@
       "level": 25,
       "name": "eq_events_trinket_rhllor_25_trinket_lord25",
       "name_placeholder": "EQ_EVENTS_TRINKET_RHLLOR_25_TRINKET_LORD25_NAME",
-      "priority": 300226,
+      "priority": 300237,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2041,7 +2140,7 @@
       "level": 30,
       "name": "eq_events_trinket_rhllor_30_trinket_lord30",
       "name_placeholder": "EQ_EVENTS_TRINKET_RHLLOR_30_TRINKET_LORD30_NAME",
-      "priority": 300227,
+      "priority": 300238,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2050,7 +2149,7 @@
       "level": 35,
       "name": "eq_events_trinket_rhllor_35_trinket_lord35",
       "name_placeholder": "EQ_EVENTS_TRINKET_RHLLOR_35_TRINKET_LORD35_NAME",
-      "priority": 300228,
+      "priority": 300239,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2059,7 +2158,7 @@
       "level": 40,
       "name": "eq_events_trinket_rhllor_40_trinket_lord40",
       "name_placeholder": "EQ_EVENTS_TRINKET_RHLLOR_40_TRINKET_LORD40_NAME",
-      "priority": 300229,
+      "priority": 300240,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2068,7 +2167,7 @@
       "level": 45,
       "name": "eq_events_trinket_rhllor_45_trinket_lord45",
       "name_placeholder": "EQ_EVENTS_TRINKET_RHLLOR_45_TRINKET_LORD45_NAME",
-      "priority": 300230,
+      "priority": 300241,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2077,7 +2176,7 @@
       "level": 50,
       "name": "eq_events_trinket_rhllor_50_trinket_lord50",
       "name_placeholder": "EQ_EVENTS_TRINKET_RHLLOR_50_TRINKET_LORD50_NAME",
-      "priority": 300231,
+      "priority": 300242,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2086,7 +2185,7 @@
       "level": 1,
       "name": "eq_events_trinket_ironann_1_trinket_lord1",
       "name_placeholder": "EQ_EVENTS_TRINKET_IRONANN_1_TRINKET_LORD1_NAME",
-      "priority": 300232,
+      "priority": 300243,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2095,7 +2194,7 @@
       "level": 5,
       "name": "eq_events_trinket_ironann_5_trinket_lord5",
       "name_placeholder": "EQ_EVENTS_TRINKET_IRONANN_5_TRINKET_LORD5_NAME",
-      "priority": 300233,
+      "priority": 300244,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2104,7 +2203,7 @@
       "level": 10,
       "name": "eq_events_trinket_ironann_10_trinket_lord10",
       "name_placeholder": "EQ_EVENTS_TRINKET_IRONANN_10_TRINKET_LORD10_NAME",
-      "priority": 300234,
+      "priority": 300245,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2113,7 +2212,7 @@
       "level": 15,
       "name": "eq_events_trinket_ironann_15_trinket_lord15",
       "name_placeholder": "EQ_EVENTS_TRINKET_IRONANN_15_TRINKET_LORD15_NAME",
-      "priority": 300235,
+      "priority": 300246,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2122,7 +2221,7 @@
       "level": 20,
       "name": "eq_events_trinket_ironann_20_trinket_lord20",
       "name_placeholder": "EQ_EVENTS_TRINKET_IRONANN_20_TRINKET_LORD20_NAME",
-      "priority": 300236,
+      "priority": 300247,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2131,7 +2230,7 @@
       "level": 25,
       "name": "eq_events_trinket_ironann_25_trinket_lord25",
       "name_placeholder": "EQ_EVENTS_TRINKET_IRONANN_25_TRINKET_LORD25_NAME",
-      "priority": 300237,
+      "priority": 300248,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2140,7 +2239,7 @@
       "level": 30,
       "name": "eq_events_trinket_ironann_30_trinket_lord30",
       "name_placeholder": "EQ_EVENTS_TRINKET_IRONANN_30_TRINKET_LORD30_NAME",
-      "priority": 300238,
+      "priority": 300249,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2149,7 +2248,7 @@
       "level": 35,
       "name": "eq_events_trinket_ironann_35_trinket_lord35",
       "name_placeholder": "EQ_EVENTS_TRINKET_IRONANN_35_TRINKET_LORD35_NAME",
-      "priority": 300239,
+      "priority": 300250,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2158,7 +2257,7 @@
       "level": 40,
       "name": "eq_events_trinket_ironann_40_trinket_lord40",
       "name_placeholder": "EQ_EVENTS_TRINKET_IRONANN_40_TRINKET_LORD40_NAME",
-      "priority": 300240,
+      "priority": 300251,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2167,7 +2266,7 @@
       "level": 45,
       "name": "eq_events_trinket_ironann_45_trinket_lord45",
       "name_placeholder": "EQ_EVENTS_TRINKET_IRONANN_45_TRINKET_LORD45_NAME",
-      "priority": 300241,
+      "priority": 300252,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2176,7 +2275,7 @@
       "level": 50,
       "name": "eq_events_trinket_ironann_50_trinket_lord50",
       "name_placeholder": "EQ_EVENTS_TRINKET_IRONANN_50_TRINKET_LORD50_NAME",
-      "priority": 300242,
+      "priority": 300253,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2185,7 +2284,7 @@
       "level": 1,
       "name": "eq_events_trinket_cersei_1_trinket_lord1",
       "name_placeholder": "EQ_EVENTS_TRINKET_CERSEI_1_TRINKET_LORD1_NAME",
-      "priority": 300243,
+      "priority": 300254,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2194,7 +2293,7 @@
       "level": 5,
       "name": "eq_events_trinket_cersei_5_trinket_lord5",
       "name_placeholder": "EQ_EVENTS_TRINKET_CERSEI_5_TRINKET_LORD5_NAME",
-      "priority": 300244,
+      "priority": 300255,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2203,7 +2302,7 @@
       "level": 10,
       "name": "eq_events_trinket_cersei_10_trinket_lord10",
       "name_placeholder": "EQ_EVENTS_TRINKET_CERSEI_10_TRINKET_LORD10_NAME",
-      "priority": 300245,
+      "priority": 300256,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2212,7 +2311,7 @@
       "level": 15,
       "name": "eq_events_trinket_cersei_15_trinket_lord15",
       "name_placeholder": "EQ_EVENTS_TRINKET_CERSEI_15_TRINKET_LORD15_NAME",
-      "priority": 300246,
+      "priority": 300257,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2221,7 +2320,7 @@
       "level": 20,
       "name": "eq_events_trinket_cersei_20_trinket_lord20",
       "name_placeholder": "EQ_EVENTS_TRINKET_CERSEI_20_TRINKET_LORD20_NAME",
-      "priority": 300247,
+      "priority": 300258,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2230,7 +2329,7 @@
       "level": 25,
       "name": "eq_events_trinket_cersei_25_trinket_lord25",
       "name_placeholder": "EQ_EVENTS_TRINKET_CERSEI_25_TRINKET_LORD25_NAME",
-      "priority": 300248,
+      "priority": 300259,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2239,7 +2338,7 @@
       "level": 30,
       "name": "eq_events_trinket_cersei_30_trinket_lord30",
       "name_placeholder": "EQ_EVENTS_TRINKET_CERSEI_30_TRINKET_LORD30_NAME",
-      "priority": 300249,
+      "priority": 300260,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2248,7 +2347,7 @@
       "level": 35,
       "name": "eq_events_trinket_cersei_35_trinket_lord35",
       "name_placeholder": "EQ_EVENTS_TRINKET_CERSEI_35_TRINKET_LORD35_NAME",
-      "priority": 300250,
+      "priority": 300261,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2257,7 +2356,7 @@
       "level": 40,
       "name": "eq_events_trinket_cersei_40_trinket_lord40",
       "name_placeholder": "EQ_EVENTS_TRINKET_CERSEI_40_TRINKET_LORD40_NAME",
-      "priority": 300251,
+      "priority": 300262,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2266,7 +2365,7 @@
       "level": 45,
       "name": "eq_events_trinket_cersei_45_trinket_lord45",
       "name_placeholder": "EQ_EVENTS_TRINKET_CERSEI_45_TRINKET_LORD45_NAME",
-      "priority": 300252,
+      "priority": 300263,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2275,7 +2374,7 @@
       "level": 50,
       "name": "eq_events_trinket_cersei_50_trinket_lord50",
       "name_placeholder": "EQ_EVENTS_TRINKET_CERSEI_50_TRINKET_LORD50_NAME",
-      "priority": 300253,
+      "priority": 300264,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2284,7 +2383,7 @@
       "level": 1,
       "name": "eq_events_trinket_kingsmoot_1_trinket_lord1",
       "name_placeholder": "EQ_EVENTS_TRINKET_KINGSMOOT_1_TRINKET_LORD1_NAME",
-      "priority": 300254,
+      "priority": 300265,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2293,7 +2392,7 @@
       "level": 5,
       "name": "eq_events_trinket_kingsmoot_5_trinket_lord5",
       "name_placeholder": "EQ_EVENTS_TRINKET_KINGSMOOT_5_TRINKET_LORD5_NAME",
-      "priority": 300255,
+      "priority": 300266,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2302,7 +2401,7 @@
       "level": 10,
       "name": "eq_events_trinket_kingsmoot_10_trinket_lord10",
       "name_placeholder": "EQ_EVENTS_TRINKET_KINGSMOOT_10_TRINKET_LORD10_NAME",
-      "priority": 300256,
+      "priority": 300267,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2311,7 +2410,7 @@
       "level": 15,
       "name": "eq_events_trinket_kingsmoot_15_trinket_lord15",
       "name_placeholder": "EQ_EVENTS_TRINKET_KINGSMOOT_15_TRINKET_LORD15_NAME",
-      "priority": 300257,
+      "priority": 300268,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2320,7 +2419,7 @@
       "level": 20,
       "name": "eq_events_trinket_kingsmoot_20_trinket_lord20",
       "name_placeholder": "EQ_EVENTS_TRINKET_KINGSMOOT_20_TRINKET_LORD20_NAME",
-      "priority": 300258,
+      "priority": 300269,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2329,7 +2428,7 @@
       "level": 25,
       "name": "eq_events_trinket_kingsmoot_25_trinket_lord25",
       "name_placeholder": "EQ_EVENTS_TRINKET_KINGSMOOT_25_TRINKET_LORD25_NAME",
-      "priority": 300259,
+      "priority": 300270,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2338,7 +2437,7 @@
       "level": 30,
       "name": "eq_events_trinket_kingsmoot_30_trinket_lord30",
       "name_placeholder": "EQ_EVENTS_TRINKET_KINGSMOOT_30_TRINKET_LORD30_NAME",
-      "priority": 300260,
+      "priority": 300271,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2347,7 +2446,7 @@
       "level": 35,
       "name": "eq_events_trinket_kingsmoot_35_trinket_lord35",
       "name_placeholder": "EQ_EVENTS_TRINKET_KINGSMOOT_35_TRINKET_LORD35_NAME",
-      "priority": 300261,
+      "priority": 300272,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2356,7 +2455,7 @@
       "level": 40,
       "name": "eq_events_trinket_kingsmoot_40_trinket_lord40",
       "name_placeholder": "EQ_EVENTS_TRINKET_KINGSMOOT_40_TRINKET_LORD40_NAME",
-      "priority": 300262,
+      "priority": 300273,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2365,7 +2464,7 @@
       "level": 45,
       "name": "eq_events_trinket_kingsmoot_45_trinket_lord45",
       "name_placeholder": "EQ_EVENTS_TRINKET_KINGSMOOT_45_TRINKET_LORD45_NAME",
-      "priority": 300263,
+      "priority": 300274,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2374,7 +2473,7 @@
       "level": 50,
       "name": "eq_events_trinket_kingsmoot_50_trinket_lord50",
       "name_placeholder": "EQ_EVENTS_TRINKET_KINGSMOOT_50_TRINKET_LORD50_NAME",
-      "priority": 300264,
+      "priority": 300275,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2383,7 +2482,7 @@
       "level": 1,
       "name": "eq_events_trinket_freedom_1_trinket_lord1",
       "name_placeholder": "EQ_EVENTS_TRINKET_FREEDOM_1_TRINKET_LORD1_NAME",
-      "priority": 300265,
+      "priority": 300276,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2392,7 +2491,7 @@
       "level": 5,
       "name": "eq_events_trinket_freedom_5_trinket_lord5",
       "name_placeholder": "EQ_EVENTS_TRINKET_FREEDOM_5_TRINKET_LORD5_NAME",
-      "priority": 300266,
+      "priority": 300277,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2401,7 +2500,7 @@
       "level": 10,
       "name": "eq_events_trinket_freedom_10_trinket_lord10",
       "name_placeholder": "EQ_EVENTS_TRINKET_FREEDOM_10_TRINKET_LORD10_NAME",
-      "priority": 300267,
+      "priority": 300278,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2410,7 +2509,7 @@
       "level": 15,
       "name": "eq_events_trinket_freedom_15_trinket_lord15",
       "name_placeholder": "EQ_EVENTS_TRINKET_FREEDOM_15_TRINKET_LORD15_NAME",
-      "priority": 300268,
+      "priority": 300279,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2419,7 +2518,7 @@
       "level": 20,
       "name": "eq_events_trinket_freedom_20_trinket_lord20",
       "name_placeholder": "EQ_EVENTS_TRINKET_FREEDOM_20_TRINKET_LORD20_NAME",
-      "priority": 300269,
+      "priority": 300280,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2428,7 +2527,7 @@
       "level": 25,
       "name": "eq_events_trinket_freedom_25_trinket_lord25",
       "name_placeholder": "EQ_EVENTS_TRINKET_FREEDOM_25_TRINKET_LORD25_NAME",
-      "priority": 300270,
+      "priority": 300281,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2437,7 +2536,7 @@
       "level": 30,
       "name": "eq_events_trinket_freedom_30_trinket_lord30",
       "name_placeholder": "EQ_EVENTS_TRINKET_FREEDOM_30_TRINKET_LORD30_NAME",
-      "priority": 300271,
+      "priority": 300282,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2446,7 +2545,7 @@
       "level": 35,
       "name": "eq_events_trinket_freedom_35_trinket_lord35",
       "name_placeholder": "EQ_EVENTS_TRINKET_FREEDOM_35_TRINKET_LORD35_NAME",
-      "priority": 300272,
+      "priority": 300283,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2455,7 +2554,7 @@
       "level": 40,
       "name": "eq_events_trinket_freedom_40_trinket_lord40",
       "name_placeholder": "EQ_EVENTS_TRINKET_FREEDOM_40_TRINKET_LORD40_NAME",
-      "priority": 300273,
+      "priority": 300284,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2464,7 +2563,7 @@
       "level": 45,
       "name": "eq_events_trinket_freedom_45_trinket_lord45",
       "name_placeholder": "EQ_EVENTS_TRINKET_FREEDOM_45_TRINKET_LORD45_NAME",
-      "priority": 300274,
+      "priority": 300285,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2473,7 +2572,7 @@
       "level": 50,
       "name": "eq_events_trinket_freedom_50_trinket_lord50",
       "name_placeholder": "EQ_EVENTS_TRINKET_FREEDOM_50_TRINKET_LORD50_NAME",
-      "priority": 300275,
+      "priority": 300286,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2482,7 +2581,7 @@
       "level": 1,
       "name": "eq_events_trinket_dawn_1_trinket_lord1",
       "name_placeholder": "EQ_EVENTS_TRINKET_DAWN_1_TRINKET_LORD1_NAME",
-      "priority": 300276,
+      "priority": 300287,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2491,7 +2590,7 @@
       "level": 5,
       "name": "eq_events_trinket_dawn_5_trinket_lord5",
       "name_placeholder": "EQ_EVENTS_TRINKET_DAWN_5_TRINKET_LORD5_NAME",
-      "priority": 300277,
+      "priority": 300288,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2500,7 +2599,7 @@
       "level": 10,
       "name": "eq_events_trinket_dawn_10_trinket_lord10",
       "name_placeholder": "EQ_EVENTS_TRINKET_DAWN_10_TRINKET_LORD10_NAME",
-      "priority": 300278,
+      "priority": 300289,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2509,7 +2608,7 @@
       "level": 15,
       "name": "eq_events_trinket_dawn_15_trinket_lord15",
       "name_placeholder": "EQ_EVENTS_TRINKET_DAWN_15_TRINKET_LORD15_NAME",
-      "priority": 300279,
+      "priority": 300290,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2518,7 +2617,7 @@
       "level": 20,
       "name": "eq_events_trinket_dawn_20_trinket_lord20",
       "name_placeholder": "EQ_EVENTS_TRINKET_DAWN_20_TRINKET_LORD20_NAME",
-      "priority": 300280,
+      "priority": 300291,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2527,7 +2626,7 @@
       "level": 25,
       "name": "eq_events_trinket_dawn_25_trinket_lord25",
       "name_placeholder": "EQ_EVENTS_TRINKET_DAWN_25_TRINKET_LORD25_NAME",
-      "priority": 300281,
+      "priority": 300292,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2536,7 +2635,7 @@
       "level": 30,
       "name": "eq_events_trinket_dawn_30_trinket_lord30",
       "name_placeholder": "EQ_EVENTS_TRINKET_DAWN_30_TRINKET_LORD30_NAME",
-      "priority": 300282,
+      "priority": 300293,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2545,7 +2644,7 @@
       "level": 35,
       "name": "eq_events_trinket_dawn_35_trinket_lord35",
       "name_placeholder": "EQ_EVENTS_TRINKET_DAWN_35_TRINKET_LORD35_NAME",
-      "priority": 300283,
+      "priority": 300294,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2554,7 +2653,7 @@
       "level": 40,
       "name": "eq_events_trinket_dawn_40_trinket_lord40",
       "name_placeholder": "EQ_EVENTS_TRINKET_DAWN_40_TRINKET_LORD40_NAME",
-      "priority": 300284,
+      "priority": 300295,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2563,7 +2662,7 @@
       "level": 45,
       "name": "eq_events_trinket_dawn_45_trinket_lord45",
       "name_placeholder": "EQ_EVENTS_TRINKET_DAWN_45_TRINKET_LORD45_NAME",
-      "priority": 300285,
+      "priority": 300296,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2572,7 +2671,7 @@
       "level": 50,
       "name": "eq_events_trinket_dawn_50_trinket_lord50",
       "name_placeholder": "EQ_EVENTS_TRINKET_DAWN_50_TRINKET_LORD50_NAME",
-      "priority": 300286,
+      "priority": 300297,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2581,7 +2680,7 @@
       "level": 1,
       "name": "eq_events_trinket_stark_1_trinket_lord1",
       "name_placeholder": "EQ_EVENTS_TRINKET_STARK_1_TRINKET_LORD1_NAME",
-      "priority": 300287,
+      "priority": 300298,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2590,7 +2689,7 @@
       "level": 5,
       "name": "eq_events_trinket_stark_5_trinket_lord5",
       "name_placeholder": "EQ_EVENTS_TRINKET_STARK_5_TRINKET_LORD5_NAME",
-      "priority": 300288,
+      "priority": 300299,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2599,7 +2698,7 @@
       "level": 10,
       "name": "eq_events_trinket_stark_10_trinket_lord10",
       "name_placeholder": "EQ_EVENTS_TRINKET_STARK_10_TRINKET_LORD10_NAME",
-      "priority": 300289,
+      "priority": 300300,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2608,7 +2707,7 @@
       "level": 15,
       "name": "eq_events_trinket_stark_15_trinket_lord15",
       "name_placeholder": "EQ_EVENTS_TRINKET_STARK_15_TRINKET_LORD15_NAME",
-      "priority": 300290,
+      "priority": 300301,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2617,7 +2716,7 @@
       "level": 20,
       "name": "eq_events_trinket_stark_20_trinket_lord20",
       "name_placeholder": "EQ_EVENTS_TRINKET_STARK_20_TRINKET_LORD20_NAME",
-      "priority": 300291,
+      "priority": 300302,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2626,7 +2725,7 @@
       "level": 25,
       "name": "eq_events_trinket_stark_25_trinket_lord25",
       "name_placeholder": "EQ_EVENTS_TRINKET_STARK_25_TRINKET_LORD25_NAME",
-      "priority": 300292,
+      "priority": 300303,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2635,7 +2734,7 @@
       "level": 30,
       "name": "eq_events_trinket_stark_30_trinket_lord30",
       "name_placeholder": "EQ_EVENTS_TRINKET_STARK_30_TRINKET_LORD30_NAME",
-      "priority": 300293,
+      "priority": 300304,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2644,7 +2743,7 @@
       "level": 35,
       "name": "eq_events_trinket_stark_35_trinket_lord35",
       "name_placeholder": "EQ_EVENTS_TRINKET_STARK_35_TRINKET_LORD35_NAME",
-      "priority": 300294,
+      "priority": 300305,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2653,7 +2752,7 @@
       "level": 40,
       "name": "eq_events_trinket_stark_40_trinket_lord40",
       "name_placeholder": "EQ_EVENTS_TRINKET_STARK_40_TRINKET_LORD40_NAME",
-      "priority": 300295,
+      "priority": 300306,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2662,7 +2761,7 @@
       "level": 45,
       "name": "eq_events_trinket_stark_45_trinket_lord45",
       "name_placeholder": "EQ_EVENTS_TRINKET_STARK_45_TRINKET_LORD45_NAME",
-      "priority": 300296,
+      "priority": 300307,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2671,7 +2770,7 @@
       "level": 50,
       "name": "eq_events_trinket_stark_50_trinket_lord50",
       "name_placeholder": "EQ_EVENTS_TRINKET_STARK_50_TRINKET_LORD50_NAME",
-      "priority": 300297,
+      "priority": 300308,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2680,7 +2779,7 @@
       "level": 1,
       "name": "eq_events_trinket_oldnan3_1_trinket_lord1",
       "name_placeholder": "EQ_EVENTS_TRINKET_OLDNAN3_1_TRINKET_LORD1_NAME",
-      "priority": 300298,
+      "priority": 300309,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2689,7 +2788,7 @@
       "level": 5,
       "name": "eq_events_trinket_oldnan3_5_trinket_lord5",
       "name_placeholder": "EQ_EVENTS_TRINKET_OLDNAN3_5_TRINKET_LORD5_NAME",
-      "priority": 300299,
+      "priority": 300310,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2698,7 +2797,7 @@
       "level": 10,
       "name": "eq_events_trinket_oldnan3_10_trinket_lord10",
       "name_placeholder": "EQ_EVENTS_TRINKET_OLDNAN3_10_TRINKET_LORD10_NAME",
-      "priority": 300300,
+      "priority": 300311,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2707,7 +2806,7 @@
       "level": 15,
       "name": "eq_events_trinket_oldnan3_15_trinket_lord15",
       "name_placeholder": "EQ_EVENTS_TRINKET_OLDNAN3_15_TRINKET_LORD15_NAME",
-      "priority": 300301,
+      "priority": 300312,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2716,7 +2815,7 @@
       "level": 20,
       "name": "eq_events_trinket_oldnan3_20_trinket_lord20",
       "name_placeholder": "EQ_EVENTS_TRINKET_OLDNAN3_20_TRINKET_LORD20_NAME",
-      "priority": 300302,
+      "priority": 300313,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2725,7 +2824,7 @@
       "level": 25,
       "name": "eq_events_trinket_oldnan3_25_trinket_lord25",
       "name_placeholder": "EQ_EVENTS_TRINKET_OLDNAN3_25_TRINKET_LORD25_NAME",
-      "priority": 300303,
+      "priority": 300314,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2734,7 +2833,7 @@
       "level": 30,
       "name": "eq_events_trinket_oldnan3_30_trinket_lord30",
       "name_placeholder": "EQ_EVENTS_TRINKET_OLDNAN3_30_TRINKET_LORD30_NAME",
-      "priority": 300304,
+      "priority": 300315,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2743,7 +2842,7 @@
       "level": 35,
       "name": "eq_events_trinket_oldnan3_35_trinket_lord35",
       "name_placeholder": "EQ_EVENTS_TRINKET_OLDNAN3_35_TRINKET_LORD35_NAME",
-      "priority": 300305,
+      "priority": 300316,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2752,7 +2851,7 @@
       "level": 40,
       "name": "eq_events_trinket_oldnan3_40_trinket_lord40",
       "name_placeholder": "EQ_EVENTS_TRINKET_OLDNAN3_40_TRINKET_LORD40_NAME",
-      "priority": 300306,
+      "priority": 300317,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2761,7 +2860,7 @@
       "level": 45,
       "name": "eq_events_trinket_oldnan3_45_trinket_lord45",
       "name_placeholder": "EQ_EVENTS_TRINKET_OLDNAN3_45_TRINKET_LORD45_NAME",
-      "priority": 300307,
+      "priority": 300318,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2770,7 +2869,7 @@
       "level": 50,
       "name": "eq_events_trinket_oldnan3_50_trinket_lord50",
       "name_placeholder": "EQ_EVENTS_TRINKET_OLDNAN3_50_TRINKET_LORD50_NAME",
-      "priority": 300308,
+      "priority": 300319,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2779,7 +2878,7 @@
       "level": 1,
       "name": "eq_events_trinket_harvest_1_trinket_lord1",
       "name_placeholder": "EQ_EVENTS_TRINKET_HARVEST_1_TRINKET_LORD1_NAME",
-      "priority": 300309,
+      "priority": 300320,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2788,7 +2887,7 @@
       "level": 5,
       "name": "eq_events_trinket_harvest_5_trinket_lord5",
       "name_placeholder": "EQ_EVENTS_TRINKET_HARVEST_5_TRINKET_LORD5_NAME",
-      "priority": 300310,
+      "priority": 300321,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2797,7 +2896,7 @@
       "level": 10,
       "name": "eq_events_trinket_harvest_10_trinket_lord10",
       "name_placeholder": "EQ_EVENTS_TRINKET_HARVEST_10_TRINKET_LORD10_NAME",
-      "priority": 300311,
+      "priority": 300322,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2806,7 +2905,7 @@
       "level": 15,
       "name": "eq_events_trinket_harvest_15_trinket_lord15",
       "name_placeholder": "EQ_EVENTS_TRINKET_HARVEST_15_TRINKET_LORD15_NAME",
-      "priority": 300312,
+      "priority": 300323,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2815,7 +2914,7 @@
       "level": 20,
       "name": "eq_events_trinket_harvest_20_trinket_lord20",
       "name_placeholder": "EQ_EVENTS_TRINKET_HARVEST_20_TRINKET_LORD20_NAME",
-      "priority": 300313,
+      "priority": 300324,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2824,7 +2923,7 @@
       "level": 25,
       "name": "eq_events_trinket_harvest_25_trinket_lord25",
       "name_placeholder": "EQ_EVENTS_TRINKET_HARVEST_25_TRINKET_LORD25_NAME",
-      "priority": 300314,
+      "priority": 300325,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2833,7 +2932,7 @@
       "level": 30,
       "name": "eq_events_trinket_harvest_30_trinket_lord30",
       "name_placeholder": "EQ_EVENTS_TRINKET_HARVEST_30_TRINKET_LORD30_NAME",
-      "priority": 300315,
+      "priority": 300326,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2842,7 +2941,7 @@
       "level": 35,
       "name": "eq_events_trinket_harvest_35_trinket_lord35",
       "name_placeholder": "EQ_EVENTS_TRINKET_HARVEST_35_TRINKET_LORD35_NAME",
-      "priority": 300316,
+      "priority": 300327,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2851,7 +2950,7 @@
       "level": 40,
       "name": "eq_events_trinket_harvest_40_trinket_lord40",
       "name_placeholder": "EQ_EVENTS_TRINKET_HARVEST_40_TRINKET_LORD40_NAME",
-      "priority": 300317,
+      "priority": 300328,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2860,7 +2959,7 @@
       "level": 45,
       "name": "eq_events_trinket_harvest_45_trinket_lord45",
       "name_placeholder": "EQ_EVENTS_TRINKET_HARVEST_45_TRINKET_LORD45_NAME",
-      "priority": 300318,
+      "priority": 300329,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2869,7 +2968,7 @@
       "level": 50,
       "name": "eq_events_trinket_harvest_50_trinket_lord50",
       "name_placeholder": "EQ_EVENTS_TRINKET_HARVEST_50_TRINKET_LORD50_NAME",
-      "priority": 300319,
+      "priority": 300330,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2878,7 +2977,7 @@
       "level": 1,
       "name": "eq_events_trinket_yara_1_trinket_lord1",
       "name_placeholder": "EQ_EVENTS_TRINKET_YARA_1_TRINKET_LORD1_NAME",
-      "priority": 300320,
+      "priority": 300331,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2887,7 +2986,7 @@
       "level": 5,
       "name": "eq_events_trinket_yara_5_trinket_lord5",
       "name_placeholder": "EQ_EVENTS_TRINKET_YARA_5_TRINKET_LORD5_NAME",
-      "priority": 300321,
+      "priority": 300332,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2896,7 +2995,7 @@
       "level": 10,
       "name": "eq_events_trinket_yara_10_trinket_lord10",
       "name_placeholder": "EQ_EVENTS_TRINKET_YARA_10_TRINKET_LORD10_NAME",
-      "priority": 300322,
+      "priority": 300333,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2905,7 +3004,7 @@
       "level": 15,
       "name": "eq_events_trinket_yara_15_trinket_lord15",
       "name_placeholder": "EQ_EVENTS_TRINKET_YARA_15_TRINKET_LORD15_NAME",
-      "priority": 300323,
+      "priority": 300334,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2914,7 +3013,7 @@
       "level": 20,
       "name": "eq_events_trinket_yara_20_trinket_lord20",
       "name_placeholder": "EQ_EVENTS_TRINKET_YARA_20_TRINKET_LORD20_NAME",
-      "priority": 300324,
+      "priority": 300335,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2923,7 +3022,7 @@
       "level": 25,
       "name": "eq_events_trinket_yara_25_trinket_lord25",
       "name_placeholder": "EQ_EVENTS_TRINKET_YARA_25_TRINKET_LORD25_NAME",
-      "priority": 300325,
+      "priority": 300336,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2932,7 +3031,7 @@
       "level": 30,
       "name": "eq_events_trinket_yara_30_trinket_lord30",
       "name_placeholder": "EQ_EVENTS_TRINKET_YARA_30_TRINKET_LORD30_NAME",
-      "priority": 300326,
+      "priority": 300337,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2941,7 +3040,7 @@
       "level": 35,
       "name": "eq_events_trinket_yara_35_trinket_lord35",
       "name_placeholder": "EQ_EVENTS_TRINKET_YARA_35_TRINKET_LORD35_NAME",
-      "priority": 300327,
+      "priority": 300338,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2950,7 +3049,7 @@
       "level": 40,
       "name": "eq_events_trinket_yara_40_trinket_lord40",
       "name_placeholder": "EQ_EVENTS_TRINKET_YARA_40_TRINKET_LORD40_NAME",
-      "priority": 300328,
+      "priority": 300339,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2959,7 +3058,7 @@
       "level": 45,
       "name": "eq_events_trinket_yara_45_trinket_lord45",
       "name_placeholder": "EQ_EVENTS_TRINKET_YARA_45_TRINKET_LORD45_NAME",
-      "priority": 300329,
+      "priority": 300340,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2968,7 +3067,7 @@
       "level": 50,
       "name": "eq_events_trinket_yara_50_trinket_lord50",
       "name_placeholder": "EQ_EVENTS_TRINKET_YARA_50_TRINKET_LORD50_NAME",
-      "priority": 300330,
+      "priority": 300341,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2977,7 +3076,7 @@
       "level": 1,
       "name": "eq_events_trinket_harrenhal2_1_trinket_lord1",
       "name_placeholder": "EQ_EVENTS_TRINKET_HARRENHAL2_1_TRINKET_LORD1_NAME",
-      "priority": 300331,
+      "priority": 300342,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2986,7 +3085,7 @@
       "level": 5,
       "name": "eq_events_trinket_harrenhal2_5_trinket_lord5",
       "name_placeholder": "EQ_EVENTS_TRINKET_HARRENHAL2_5_TRINKET_LORD5_NAME",
-      "priority": 300332,
+      "priority": 300343,
       "slot_name": "slot_Trinket"
     },
     {
@@ -2995,7 +3094,7 @@
       "level": 10,
       "name": "eq_events_trinket_harrenhal2_10_trinket_lord10",
       "name_placeholder": "EQ_EVENTS_TRINKET_HARRENHAL2_10_TRINKET_LORD10_NAME",
-      "priority": 300333,
+      "priority": 300344,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3004,7 +3103,7 @@
       "level": 15,
       "name": "eq_events_trinket_harrenhal2_15_trinket_lord15",
       "name_placeholder": "EQ_EVENTS_TRINKET_HARRENHAL2_15_TRINKET_LORD15_NAME",
-      "priority": 300334,
+      "priority": 300345,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3013,7 +3112,7 @@
       "level": 20,
       "name": "eq_events_trinket_harrenhal2_20_trinket_lord20",
       "name_placeholder": "EQ_EVENTS_TRINKET_HARRENHAL2_20_TRINKET_LORD20_NAME",
-      "priority": 300335,
+      "priority": 300346,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3022,7 +3121,7 @@
       "level": 25,
       "name": "eq_events_trinket_harrenhal2_25_trinket_lord25",
       "name_placeholder": "EQ_EVENTS_TRINKET_HARRENHAL2_25_TRINKET_LORD25_NAME",
-      "priority": 300336,
+      "priority": 300347,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3031,7 +3130,7 @@
       "level": 30,
       "name": "eq_events_trinket_harrenhal2_30_trinket_lord30",
       "name_placeholder": "EQ_EVENTS_TRINKET_HARRENHAL2_30_TRINKET_LORD30_NAME",
-      "priority": 300337,
+      "priority": 300348,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3040,7 +3139,7 @@
       "level": 35,
       "name": "eq_events_trinket_harrenhal2_35_trinket_lord35",
       "name_placeholder": "EQ_EVENTS_TRINKET_HARRENHAL2_35_TRINKET_LORD35_NAME",
-      "priority": 300338,
+      "priority": 300349,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3049,7 +3148,7 @@
       "level": 40,
       "name": "eq_events_trinket_harrenhal2_40_trinket_lord40",
       "name_placeholder": "EQ_EVENTS_TRINKET_HARRENHAL2_40_TRINKET_LORD40_NAME",
-      "priority": 300339,
+      "priority": 300350,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3058,7 +3157,7 @@
       "level": 45,
       "name": "eq_events_trinket_harrenhal2_45_trinket_lord45",
       "name_placeholder": "EQ_EVENTS_TRINKET_HARRENHAL2_45_TRINKET_LORD45_NAME",
-      "priority": 300340,
+      "priority": 300351,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3067,7 +3166,7 @@
       "level": 50,
       "name": "eq_events_trinket_harrenhal2_50_trinket_lord50",
       "name_placeholder": "EQ_EVENTS_TRINKET_HARRENHAL2_50_TRINKET_LORD50_NAME",
-      "priority": 300341,
+      "priority": 300352,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3076,7 +3175,7 @@
       "level": 1,
       "name": "eq_events_trinket_oldtown_1_trinket_lord1",
       "name_placeholder": "EQ_EVENTS_TRINKET_OLDTOWN_1_TRINKET_LORD1_NAME",
-      "priority": 300342,
+      "priority": 300353,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3085,7 +3184,7 @@
       "level": 5,
       "name": "eq_events_trinket_oldtown_5_trinket_lord5",
       "name_placeholder": "EQ_EVENTS_TRINKET_OLDTOWN_5_TRINKET_LORD5_NAME",
-      "priority": 300343,
+      "priority": 300354,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3094,7 +3193,7 @@
       "level": 10,
       "name": "eq_events_trinket_oldtown_10_trinket_lord10",
       "name_placeholder": "EQ_EVENTS_TRINKET_OLDTOWN_10_TRINKET_LORD10_NAME",
-      "priority": 300344,
+      "priority": 300355,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3103,7 +3202,7 @@
       "level": 15,
       "name": "eq_events_trinket_oldtown_15_trinket_lord15",
       "name_placeholder": "EQ_EVENTS_TRINKET_OLDTOWN_15_TRINKET_LORD15_NAME",
-      "priority": 300345,
+      "priority": 300356,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3112,7 +3211,7 @@
       "level": 20,
       "name": "eq_events_trinket_oldtown_20_trinket_lord20",
       "name_placeholder": "EQ_EVENTS_TRINKET_OLDTOWN_20_TRINKET_LORD20_NAME",
-      "priority": 300346,
+      "priority": 300357,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3121,7 +3220,7 @@
       "level": 25,
       "name": "eq_events_trinket_oldtown_25_trinket_lord25",
       "name_placeholder": "EQ_EVENTS_TRINKET_OLDTOWN_25_TRINKET_LORD25_NAME",
-      "priority": 300347,
+      "priority": 300358,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3130,7 +3229,7 @@
       "level": 30,
       "name": "eq_events_trinket_oldtown_30_trinket_lord30",
       "name_placeholder": "EQ_EVENTS_TRINKET_OLDTOWN_30_TRINKET_LORD30_NAME",
-      "priority": 300348,
+      "priority": 300359,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3139,7 +3238,7 @@
       "level": 35,
       "name": "eq_events_trinket_oldtown_35_trinket_lord35",
       "name_placeholder": "EQ_EVENTS_TRINKET_OLDTOWN_35_TRINKET_LORD35_NAME",
-      "priority": 300349,
+      "priority": 300360,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3148,7 +3247,7 @@
       "level": 40,
       "name": "eq_events_trinket_oldtown_40_trinket_lord40",
       "name_placeholder": "EQ_EVENTS_TRINKET_OLDTOWN_40_TRINKET_LORD40_NAME",
-      "priority": 300350,
+      "priority": 300361,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3157,7 +3256,7 @@
       "level": 45,
       "name": "eq_events_trinket_oldtown_45_trinket_lord45",
       "name_placeholder": "EQ_EVENTS_TRINKET_OLDTOWN_45_TRINKET_LORD45_NAME",
-      "priority": 300351,
+      "priority": 300362,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3166,7 +3265,7 @@
       "level": 50,
       "name": "eq_events_trinket_oldtown_50_trinket_lord50",
       "name_placeholder": "EQ_EVENTS_TRINKET_OLDTOWN_50_TRINKET_LORD50_NAME",
-      "priority": 300352,
+      "priority": 300363,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3175,7 +3274,7 @@
       "level": 1,
       "name": "eq_events_trinket_artofcombat_1_trinket_lord1",
       "name_placeholder": "EQ_EVENTS_TRINKET_ARTOFCOMBAT_1_TRINKET_LORD1_NAME",
-      "priority": 300353,
+      "priority": 300364,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3184,7 +3283,7 @@
       "level": 5,
       "name": "eq_events_trinket_artofcombat_5_trinket_lord5",
       "name_placeholder": "EQ_EVENTS_TRINKET_ARTOFCOMBAT_5_TRINKET_LORD5_NAME",
-      "priority": 300354,
+      "priority": 300365,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3193,7 +3292,7 @@
       "level": 10,
       "name": "eq_events_trinket_artofcombat_10_trinket_lord10",
       "name_placeholder": "EQ_EVENTS_TRINKET_ARTOFCOMBAT_10_TRINKET_LORD10_NAME",
-      "priority": 300355,
+      "priority": 300366,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3202,7 +3301,7 @@
       "level": 15,
       "name": "eq_events_trinket_artofcombat_15_trinket_lord15",
       "name_placeholder": "EQ_EVENTS_TRINKET_ARTOFCOMBAT_15_TRINKET_LORD15_NAME",
-      "priority": 300356,
+      "priority": 300367,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3211,7 +3310,7 @@
       "level": 20,
       "name": "eq_events_trinket_artofcombat_20_trinket_lord20",
       "name_placeholder": "EQ_EVENTS_TRINKET_ARTOFCOMBAT_20_TRINKET_LORD20_NAME",
-      "priority": 300357,
+      "priority": 300368,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3220,7 +3319,7 @@
       "level": 25,
       "name": "eq_events_trinket_artofcombat_25_trinket_lord25",
       "name_placeholder": "EQ_EVENTS_TRINKET_ARTOFCOMBAT_25_TRINKET_LORD25_NAME",
-      "priority": 300358,
+      "priority": 300369,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3229,7 +3328,7 @@
       "level": 30,
       "name": "eq_events_trinket_artofcombat_30_trinket_lord30",
       "name_placeholder": "EQ_EVENTS_TRINKET_ARTOFCOMBAT_30_TRINKET_LORD30_NAME",
-      "priority": 300359,
+      "priority": 300370,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3238,7 +3337,7 @@
       "level": 35,
       "name": "eq_events_trinket_artofcombat_35_trinket_lord35",
       "name_placeholder": "EQ_EVENTS_TRINKET_ARTOFCOMBAT_35_TRINKET_LORD35_NAME",
-      "priority": 300360,
+      "priority": 300371,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3247,7 +3346,7 @@
       "level": 40,
       "name": "eq_events_trinket_artofcombat_40_trinket_lord40",
       "name_placeholder": "EQ_EVENTS_TRINKET_ARTOFCOMBAT_40_TRINKET_LORD40_NAME",
-      "priority": 300361,
+      "priority": 300372,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3256,7 +3355,7 @@
       "level": 45,
       "name": "eq_events_trinket_artofcombat_45_trinket_lord45",
       "name_placeholder": "EQ_EVENTS_TRINKET_ARTOFCOMBAT_45_TRINKET_LORD45_NAME",
-      "priority": 300362,
+      "priority": 300373,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3265,7 +3364,7 @@
       "level": 50,
       "name": "eq_events_trinket_artofcombat_50_trinket_lord50",
       "name_placeholder": "EQ_EVENTS_TRINKET_ARTOFCOMBAT_50_TRINKET_LORD50_NAME",
-      "priority": 300363,
+      "priority": 300374,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3274,7 +3373,7 @@
       "level": 1,
       "name": "eq_events_trinket_deadwalk_1_trinket_lord1",
       "name_placeholder": "EQ_EVENTS_TRINKET_DEADWALK_1_TRINKET_LORD1_NAME",
-      "priority": 300364,
+      "priority": 300375,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3283,7 +3382,7 @@
       "level": 5,
       "name": "eq_events_trinket_deadwalk_5_trinket_lord5",
       "name_placeholder": "EQ_EVENTS_TRINKET_DEADWALK_5_TRINKET_LORD5_NAME",
-      "priority": 300365,
+      "priority": 300376,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3292,7 +3391,7 @@
       "level": 10,
       "name": "eq_events_trinket_deadwalk_10_trinket_lord10",
       "name_placeholder": "EQ_EVENTS_TRINKET_DEADWALK_10_TRINKET_LORD10_NAME",
-      "priority": 300366,
+      "priority": 300377,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3301,7 +3400,7 @@
       "level": 15,
       "name": "eq_events_trinket_deadwalk_15_trinket_lord15",
       "name_placeholder": "EQ_EVENTS_TRINKET_DEADWALK_15_TRINKET_LORD15_NAME",
-      "priority": 300367,
+      "priority": 300378,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3310,7 +3409,7 @@
       "level": 20,
       "name": "eq_events_trinket_deadwalk_20_trinket_lord20",
       "name_placeholder": "EQ_EVENTS_TRINKET_DEADWALK_20_TRINKET_LORD20_NAME",
-      "priority": 300368,
+      "priority": 300379,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3319,7 +3418,7 @@
       "level": 25,
       "name": "eq_events_trinket_deadwalk_25_trinket_lord25",
       "name_placeholder": "EQ_EVENTS_TRINKET_DEADWALK_25_TRINKET_LORD25_NAME",
-      "priority": 300369,
+      "priority": 300380,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3328,7 +3427,7 @@
       "level": 30,
       "name": "eq_events_trinket_deadwalk_30_trinket_lord30",
       "name_placeholder": "EQ_EVENTS_TRINKET_DEADWALK_30_TRINKET_LORD30_NAME",
-      "priority": 300370,
+      "priority": 300381,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3337,7 +3436,7 @@
       "level": 35,
       "name": "eq_events_trinket_deadwalk_35_trinket_lord35",
       "name_placeholder": "EQ_EVENTS_TRINKET_DEADWALK_35_TRINKET_LORD35_NAME",
-      "priority": 300371,
+      "priority": 300382,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3346,7 +3445,7 @@
       "level": 40,
       "name": "eq_events_trinket_deadwalk_40_trinket_lord40",
       "name_placeholder": "EQ_EVENTS_TRINKET_DEADWALK_40_TRINKET_LORD40_NAME",
-      "priority": 300372,
+      "priority": 300383,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3355,7 +3454,7 @@
       "level": 45,
       "name": "eq_events_trinket_deadwalk_45_trinket_lord45",
       "name_placeholder": "EQ_EVENTS_TRINKET_DEADWALK_45_TRINKET_LORD45_NAME",
-      "priority": 300373,
+      "priority": 300384,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3364,7 +3463,7 @@
       "level": 50,
       "name": "eq_events_trinket_deadwalk_50_trinket_lord50",
       "name_placeholder": "EQ_EVENTS_TRINKET_DEADWALK_50_TRINKET_LORD50_NAME",
-      "priority": 300374,
+      "priority": 300385,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3373,7 +3472,7 @@
       "level": 1,
       "name": "eq_events_trinket_baratheon2_1_trinket_lord1",
       "name_placeholder": "EQ_EVENTS_TRINKET_BARATHEON2_1_TRINKET_LORD1_NAME",
-      "priority": 300375,
+      "priority": 300386,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3382,7 +3481,7 @@
       "level": 5,
       "name": "eq_events_trinket_baratheon2_5_trinket_lord5",
       "name_placeholder": "EQ_EVENTS_TRINKET_BARATHEON2_5_TRINKET_LORD5_NAME",
-      "priority": 300376,
+      "priority": 300387,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3391,7 +3490,7 @@
       "level": 10,
       "name": "eq_events_trinket_baratheon2_10_trinket_lord10",
       "name_placeholder": "EQ_EVENTS_TRINKET_BARATHEON2_10_TRINKET_LORD10_NAME",
-      "priority": 300377,
+      "priority": 300388,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3400,7 +3499,7 @@
       "level": 15,
       "name": "eq_events_trinket_baratheon2_15_trinket_lord15",
       "name_placeholder": "EQ_EVENTS_TRINKET_BARATHEON2_15_TRINKET_LORD15_NAME",
-      "priority": 300378,
+      "priority": 300389,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3409,7 +3508,7 @@
       "level": 20,
       "name": "eq_events_trinket_baratheon2_20_trinket_lord20",
       "name_placeholder": "EQ_EVENTS_TRINKET_BARATHEON2_20_TRINKET_LORD20_NAME",
-      "priority": 300379,
+      "priority": 300390,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3418,7 +3517,7 @@
       "level": 25,
       "name": "eq_events_trinket_baratheon2_25_trinket_lord25",
       "name_placeholder": "EQ_EVENTS_TRINKET_BARATHEON2_25_TRINKET_LORD25_NAME",
-      "priority": 300380,
+      "priority": 300391,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3427,7 +3526,7 @@
       "level": 30,
       "name": "eq_events_trinket_baratheon2_30_trinket_lord30",
       "name_placeholder": "EQ_EVENTS_TRINKET_BARATHEON2_30_TRINKET_LORD30_NAME",
-      "priority": 300381,
+      "priority": 300392,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3436,7 +3535,7 @@
       "level": 35,
       "name": "eq_events_trinket_baratheon2_35_trinket_lord35",
       "name_placeholder": "EQ_EVENTS_TRINKET_BARATHEON2_35_TRINKET_LORD35_NAME",
-      "priority": 300382,
+      "priority": 300393,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3445,7 +3544,7 @@
       "level": 40,
       "name": "eq_events_trinket_baratheon2_40_trinket_lord40",
       "name_placeholder": "EQ_EVENTS_TRINKET_BARATHEON2_40_TRINKET_LORD40_NAME",
-      "priority": 300383,
+      "priority": 300394,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3454,7 +3553,7 @@
       "level": 45,
       "name": "eq_events_trinket_baratheon2_45_trinket_lord45",
       "name_placeholder": "EQ_EVENTS_TRINKET_BARATHEON2_45_TRINKET_LORD45_NAME",
-      "priority": 300384,
+      "priority": 300395,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3463,7 +3562,7 @@
       "level": 50,
       "name": "eq_events_trinket_baratheon2_50_trinket_lord50",
       "name_placeholder": "EQ_EVENTS_TRINKET_BARATHEON2_50_TRINKET_LORD50_NAME",
-      "priority": 300385,
+      "priority": 300396,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3472,7 +3571,7 @@
       "level": 1,
       "name": "eq_events_trinket_ironbank_1_trinket_lord1",
       "name_placeholder": "EQ_EVENTS_TRINKET_IRONBANK_1_TRINKET_LORD1_NAME",
-      "priority": 300386,
+      "priority": 300397,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3481,7 +3580,7 @@
       "level": 5,
       "name": "eq_events_trinket_ironbank_5_trinket_lord5",
       "name_placeholder": "EQ_EVENTS_TRINKET_IRONBANK_5_TRINKET_LORD5_NAME",
-      "priority": 300387,
+      "priority": 300398,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3490,7 +3589,7 @@
       "level": 10,
       "name": "eq_events_trinket_ironbank_10_trinket_lord10",
       "name_placeholder": "EQ_EVENTS_TRINKET_IRONBANK_10_TRINKET_LORD10_NAME",
-      "priority": 300388,
+      "priority": 300399,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3499,7 +3598,7 @@
       "level": 15,
       "name": "eq_events_trinket_ironbank_15_trinket_lord15",
       "name_placeholder": "EQ_EVENTS_TRINKET_IRONBANK_15_TRINKET_LORD15_NAME",
-      "priority": 300389,
+      "priority": 300400,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3508,7 +3607,7 @@
       "level": 20,
       "name": "eq_events_trinket_ironbank_20_trinket_lord20",
       "name_placeholder": "EQ_EVENTS_TRINKET_IRONBANK_20_TRINKET_LORD20_NAME",
-      "priority": 300390,
+      "priority": 300401,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3517,7 +3616,7 @@
       "level": 25,
       "name": "eq_events_trinket_ironbank_25_trinket_lord25",
       "name_placeholder": "EQ_EVENTS_TRINKET_IRONBANK_25_TRINKET_LORD25_NAME",
-      "priority": 300391,
+      "priority": 300402,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3526,7 +3625,7 @@
       "level": 30,
       "name": "eq_events_trinket_ironbank_30_trinket_lord30",
       "name_placeholder": "EQ_EVENTS_TRINKET_IRONBANK_30_TRINKET_LORD30_NAME",
-      "priority": 300392,
+      "priority": 300403,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3535,7 +3634,7 @@
       "level": 35,
       "name": "eq_events_trinket_ironbank_35_trinket_lord35",
       "name_placeholder": "EQ_EVENTS_TRINKET_IRONBANK_35_TRINKET_LORD35_NAME",
-      "priority": 300393,
+      "priority": 300404,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3544,7 +3643,7 @@
       "level": 40,
       "name": "eq_events_trinket_ironbank_40_trinket_lord40",
       "name_placeholder": "EQ_EVENTS_TRINKET_IRONBANK_40_TRINKET_LORD40_NAME",
-      "priority": 300394,
+      "priority": 300405,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3553,7 +3652,7 @@
       "level": 45,
       "name": "eq_events_trinket_ironbank_45_trinket_lord45",
       "name_placeholder": "EQ_EVENTS_TRINKET_IRONBANK_45_TRINKET_LORD45_NAME",
-      "priority": 300395,
+      "priority": 300406,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3562,7 +3661,7 @@
       "level": 50,
       "name": "eq_events_trinket_ironbank_50_trinket_lord50",
       "name_placeholder": "EQ_EVENTS_TRINKET_IRONBANK_50_TRINKET_LORD50_NAME",
-      "priority": 300396,
+      "priority": 300407,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3571,7 +3670,7 @@
       "level": 1,
       "name": "eq_events_trinket_motherofdragons2_1_trinket_lord1",
       "name_placeholder": "EQ_EVENTS_TRINKET_MOTHEROFDRAGONS2_1_TRINKET_LORD1_NAME",
-      "priority": 300397,
+      "priority": 300408,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3580,7 +3679,7 @@
       "level": 5,
       "name": "eq_events_trinket_motherofdragons2_5_trinket_lord5",
       "name_placeholder": "EQ_EVENTS_TRINKET_MOTHEROFDRAGONS2_5_TRINKET_LORD5_NAME",
-      "priority": 300398,
+      "priority": 300409,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3589,7 +3688,7 @@
       "level": 10,
       "name": "eq_events_trinket_motherofdragons2_10_trinket_lord10",
       "name_placeholder": "EQ_EVENTS_TRINKET_MOTHEROFDRAGONS2_10_TRINKET_LORD10_NAME",
-      "priority": 300399,
+      "priority": 300410,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3598,7 +3697,7 @@
       "level": 15,
       "name": "eq_events_trinket_motherofdragons2_15_trinket_lord15",
       "name_placeholder": "EQ_EVENTS_TRINKET_MOTHEROFDRAGONS2_15_TRINKET_LORD15_NAME",
-      "priority": 300400,
+      "priority": 300411,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3607,7 +3706,7 @@
       "level": 20,
       "name": "eq_events_trinket_motherofdragons2_20_trinket_lord20",
       "name_placeholder": "EQ_EVENTS_TRINKET_MOTHEROFDRAGONS2_20_TRINKET_LORD20_NAME",
-      "priority": 300401,
+      "priority": 300412,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3616,7 +3715,7 @@
       "level": 25,
       "name": "eq_events_trinket_motherofdragons2_25_trinket_lord25",
       "name_placeholder": "EQ_EVENTS_TRINKET_MOTHEROFDRAGONS2_25_TRINKET_LORD25_NAME",
-      "priority": 300402,
+      "priority": 300413,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3625,7 +3724,7 @@
       "level": 30,
       "name": "eq_events_trinket_motherofdragons2_30_trinket_lord30",
       "name_placeholder": "EQ_EVENTS_TRINKET_MOTHEROFDRAGONS2_30_TRINKET_LORD30_NAME",
-      "priority": 300403,
+      "priority": 300414,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3634,7 +3733,7 @@
       "level": 35,
       "name": "eq_events_trinket_motherofdragons2_35_trinket_lord35",
       "name_placeholder": "EQ_EVENTS_TRINKET_MOTHEROFDRAGONS2_35_TRINKET_LORD35_NAME",
-      "priority": 300404,
+      "priority": 300415,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3643,7 +3742,7 @@
       "level": 40,
       "name": "eq_events_trinket_motherofdragons2_40_trinket_lord40",
       "name_placeholder": "EQ_EVENTS_TRINKET_MOTHEROFDRAGONS2_40_TRINKET_LORD40_NAME",
-      "priority": 300405,
+      "priority": 300416,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3652,7 +3751,7 @@
       "level": 45,
       "name": "eq_events_trinket_motherofdragons2_45_trinket_lord45",
       "name_placeholder": "EQ_EVENTS_TRINKET_MOTHEROFDRAGONS2_45_TRINKET_LORD45_NAME",
-      "priority": 300406,
+      "priority": 300417,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3661,7 +3760,7 @@
       "level": 50,
       "name": "eq_events_trinket_motherofdragons2_50_trinket_lord50",
       "name_placeholder": "EQ_EVENTS_TRINKET_MOTHEROFDRAGONS2_50_TRINKET_LORD50_NAME",
-      "priority": 300407,
+      "priority": 300418,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3670,7 +3769,7 @@
       "level": 1,
       "name": "eq_events_trinket_bookofconquest_1_trinket_lord1",
       "name_placeholder": "EQ_EVENTS_TRINKET_BOOKOFCONQUEST_1_TRINKET_LORD1_NAME",
-      "priority": 300408,
+      "priority": 300419,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3679,7 +3778,7 @@
       "level": 5,
       "name": "eq_events_trinket_bookofconquest_5_trinket_lord5",
       "name_placeholder": "EQ_EVENTS_TRINKET_BOOKOFCONQUEST_5_TRINKET_LORD5_NAME",
-      "priority": 300409,
+      "priority": 300420,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3688,7 +3787,7 @@
       "level": 10,
       "name": "eq_events_trinket_bookofconquest_10_trinket_lord10",
       "name_placeholder": "EQ_EVENTS_TRINKET_BOOKOFCONQUEST_10_TRINKET_LORD10_NAME",
-      "priority": 300410,
+      "priority": 300421,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3697,7 +3796,7 @@
       "level": 15,
       "name": "eq_events_trinket_bookofconquest_15_trinket_lord15",
       "name_placeholder": "EQ_EVENTS_TRINKET_BOOKOFCONQUEST_15_TRINKET_LORD15_NAME",
-      "priority": 300411,
+      "priority": 300422,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3706,7 +3805,7 @@
       "level": 20,
       "name": "eq_events_trinket_bookofconquest_20_trinket_lord20",
       "name_placeholder": "EQ_EVENTS_TRINKET_BOOKOFCONQUEST_20_TRINKET_LORD20_NAME",
-      "priority": 300412,
+      "priority": 300423,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3715,7 +3814,7 @@
       "level": 25,
       "name": "eq_events_trinket_bookofconquest_25_trinket_lord25",
       "name_placeholder": "EQ_EVENTS_TRINKET_BOOKOFCONQUEST_25_TRINKET_LORD25_NAME",
-      "priority": 300413,
+      "priority": 300424,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3724,7 +3823,7 @@
       "level": 30,
       "name": "eq_events_trinket_bookofconquest_30_trinket_lord30",
       "name_placeholder": "EQ_EVENTS_TRINKET_BOOKOFCONQUEST_30_TRINKET_LORD30_NAME",
-      "priority": 300414,
+      "priority": 300425,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3733,7 +3832,7 @@
       "level": 35,
       "name": "eq_events_trinket_bookofconquest_35_trinket_lord35",
       "name_placeholder": "EQ_EVENTS_TRINKET_BOOKOFCONQUEST_35_TRINKET_LORD35_NAME",
-      "priority": 300415,
+      "priority": 300426,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3742,7 +3841,7 @@
       "level": 40,
       "name": "eq_events_trinket_bookofconquest_40_trinket_lord40",
       "name_placeholder": "EQ_EVENTS_TRINKET_BOOKOFCONQUEST_40_TRINKET_LORD40_NAME",
-      "priority": 300416,
+      "priority": 300427,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3751,7 +3850,7 @@
       "level": 45,
       "name": "eq_events_trinket_bookofconquest_45_trinket_lord45",
       "name_placeholder": "EQ_EVENTS_TRINKET_BOOKOFCONQUEST_45_TRINKET_LORD45_NAME",
-      "priority": 300417,
+      "priority": 300428,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3760,7 +3859,7 @@
       "level": 50,
       "name": "eq_events_trinket_bookofconquest_50_trinket_lord50",
       "name_placeholder": "EQ_EVENTS_TRINKET_BOOKOFCONQUEST_50_TRINKET_LORD50_NAME",
-      "priority": 300418,
+      "priority": 300429,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3769,7 +3868,7 @@
       "level": 1,
       "name": "eq_events_trinket_harvest2_1_trinket_lord1",
       "name_placeholder": "EQ_EVENTS_TRINKET_HARVEST2_1_TRINKET_LORD1_NAME",
-      "priority": 300419,
+      "priority": 300430,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3778,7 +3877,7 @@
       "level": 5,
       "name": "eq_events_trinket_harvest2_5_trinket_lord5",
       "name_placeholder": "EQ_EVENTS_TRINKET_HARVEST2_5_TRINKET_LORD5_NAME",
-      "priority": 300420,
+      "priority": 300431,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3787,7 +3886,7 @@
       "level": 10,
       "name": "eq_events_trinket_harvest2_10_trinket_lord10",
       "name_placeholder": "EQ_EVENTS_TRINKET_HARVEST2_10_TRINKET_LORD10_NAME",
-      "priority": 300421,
+      "priority": 300432,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3796,7 +3895,7 @@
       "level": 15,
       "name": "eq_events_trinket_harvest2_15_trinket_lord15",
       "name_placeholder": "EQ_EVENTS_TRINKET_HARVEST2_15_TRINKET_LORD15_NAME",
-      "priority": 300422,
+      "priority": 300433,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3805,7 +3904,7 @@
       "level": 20,
       "name": "eq_events_trinket_harvest2_20_trinket_lord20",
       "name_placeholder": "EQ_EVENTS_TRINKET_HARVEST2_20_TRINKET_LORD20_NAME",
-      "priority": 300423,
+      "priority": 300434,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3814,7 +3913,7 @@
       "level": 25,
       "name": "eq_events_trinket_harvest2_25_trinket_lord25",
       "name_placeholder": "EQ_EVENTS_TRINKET_HARVEST2_25_TRINKET_LORD25_NAME",
-      "priority": 300424,
+      "priority": 300435,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3823,7 +3922,7 @@
       "level": 30,
       "name": "eq_events_trinket_harvest2_30_trinket_lord30",
       "name_placeholder": "EQ_EVENTS_TRINKET_HARVEST2_30_TRINKET_LORD30_NAME",
-      "priority": 300425,
+      "priority": 300436,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3832,7 +3931,7 @@
       "level": 35,
       "name": "eq_events_trinket_harvest2_35_trinket_lord35",
       "name_placeholder": "EQ_EVENTS_TRINKET_HARVEST2_35_TRINKET_LORD35_NAME",
-      "priority": 300426,
+      "priority": 300437,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3841,7 +3940,7 @@
       "level": 40,
       "name": "eq_events_trinket_harvest2_40_trinket_lord40",
       "name_placeholder": "EQ_EVENTS_TRINKET_HARVEST2_40_TRINKET_LORD40_NAME",
-      "priority": 300427,
+      "priority": 300438,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3850,7 +3949,7 @@
       "level": 45,
       "name": "eq_events_trinket_harvest2_45_trinket_lord45",
       "name_placeholder": "EQ_EVENTS_TRINKET_HARVEST2_45_TRINKET_LORD45_NAME",
-      "priority": 300428,
+      "priority": 300439,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3859,7 +3958,7 @@
       "level": 50,
       "name": "eq_events_trinket_harvest2_50_trinket_lord50",
       "name_placeholder": "EQ_EVENTS_TRINKET_HARVEST2_50_TRINKET_LORD50_NAME",
-      "priority": 300429,
+      "priority": 300440,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3868,7 +3967,7 @@
       "level": 1,
       "name": "eq_events_trinket_conquest5_1_trinket_lord1",
       "name_placeholder": "EQ_EVENTS_TRINKET_CONQUEST5_1_TRINKET_LORD1_NAME",
-      "priority": 300430,
+      "priority": 300441,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3877,7 +3976,7 @@
       "level": 5,
       "name": "eq_events_trinket_conquest5_5_trinket_lord5",
       "name_placeholder": "EQ_EVENTS_TRINKET_CONQUEST5_5_TRINKET_LORD5_NAME",
-      "priority": 300431,
+      "priority": 300442,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3886,7 +3985,7 @@
       "level": 10,
       "name": "eq_events_trinket_conquest5_10_trinket_lord10",
       "name_placeholder": "EQ_EVENTS_TRINKET_CONQUEST5_10_TRINKET_LORD10_NAME",
-      "priority": 300432,
+      "priority": 300443,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3895,7 +3994,7 @@
       "level": 15,
       "name": "eq_events_trinket_conquest5_15_trinket_lord15",
       "name_placeholder": "EQ_EVENTS_TRINKET_CONQUEST5_15_TRINKET_LORD15_NAME",
-      "priority": 300433,
+      "priority": 300444,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3904,7 +4003,7 @@
       "level": 20,
       "name": "eq_events_trinket_conquest5_20_trinket_lord20",
       "name_placeholder": "EQ_EVENTS_TRINKET_CONQUEST5_20_TRINKET_LORD20_NAME",
-      "priority": 300434,
+      "priority": 300445,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3913,7 +4012,7 @@
       "level": 25,
       "name": "eq_events_trinket_conquest5_25_trinket_lord25",
       "name_placeholder": "EQ_EVENTS_TRINKET_CONQUEST5_25_TRINKET_LORD25_NAME",
-      "priority": 300435,
+      "priority": 300446,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3922,7 +4021,7 @@
       "level": 30,
       "name": "eq_events_trinket_conquest5_30_trinket_lord30",
       "name_placeholder": "EQ_EVENTS_TRINKET_CONQUEST5_30_TRINKET_LORD30_NAME",
-      "priority": 300436,
+      "priority": 300447,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3931,7 +4030,7 @@
       "level": 35,
       "name": "eq_events_trinket_conquest5_35_trinket_lord35",
       "name_placeholder": "EQ_EVENTS_TRINKET_CONQUEST5_35_TRINKET_LORD35_NAME",
-      "priority": 300437,
+      "priority": 300448,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3940,7 +4039,7 @@
       "level": 40,
       "name": "eq_events_trinket_conquest5_40_trinket_lord40",
       "name_placeholder": "EQ_EVENTS_TRINKET_CONQUEST5_40_TRINKET_LORD40_NAME",
-      "priority": 300438,
+      "priority": 300449,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3949,7 +4048,7 @@
       "level": 45,
       "name": "eq_events_trinket_conquest5_45_trinket_lord45",
       "name_placeholder": "EQ_EVENTS_TRINKET_CONQUEST5_45_TRINKET_LORD45_NAME",
-      "priority": 300439,
+      "priority": 300450,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3958,7 +4057,7 @@
       "level": 50,
       "name": "eq_events_trinket_conquest5_50_trinket_lord50",
       "name_placeholder": "EQ_EVENTS_TRINKET_CONQUEST5_50_TRINKET_LORD50_NAME",
-      "priority": 300440,
+      "priority": 300451,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3967,7 +4066,7 @@
       "level": 1,
       "name": "eq_events_trinket_summerhall_1_trinket_lord1",
       "name_placeholder": "EQ_EVENTS_TRINKET_SUMMERHALL_1_TRINKET_LORD1_NAME",
-      "priority": 300441,
+      "priority": 300452,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3976,7 +4075,7 @@
       "level": 5,
       "name": "eq_events_trinket_summerhall_5_trinket_lord5",
       "name_placeholder": "EQ_EVENTS_TRINKET_SUMMERHALL_5_TRINKET_LORD5_NAME",
-      "priority": 300442,
+      "priority": 300453,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3985,7 +4084,7 @@
       "level": 10,
       "name": "eq_events_trinket_summerhall_10_trinket_lord10",
       "name_placeholder": "EQ_EVENTS_TRINKET_SUMMERHALL_10_TRINKET_LORD10_NAME",
-      "priority": 300443,
+      "priority": 300454,
       "slot_name": "slot_Trinket"
     },
     {
@@ -3994,7 +4093,7 @@
       "level": 15,
       "name": "eq_events_trinket_summerhall_15_trinket_lord15",
       "name_placeholder": "EQ_EVENTS_TRINKET_SUMMERHALL_15_TRINKET_LORD15_NAME",
-      "priority": 300444,
+      "priority": 300455,
       "slot_name": "slot_Trinket"
     },
     {
@@ -4003,7 +4102,7 @@
       "level": 20,
       "name": "eq_events_trinket_summerhall_20_trinket_lord20",
       "name_placeholder": "EQ_EVENTS_TRINKET_SUMMERHALL_20_TRINKET_LORD20_NAME",
-      "priority": 300445,
+      "priority": 300456,
       "slot_name": "slot_Trinket"
     },
     {
@@ -4012,7 +4111,7 @@
       "level": 25,
       "name": "eq_events_trinket_summerhall_25_trinket_lord25",
       "name_placeholder": "EQ_EVENTS_TRINKET_SUMMERHALL_25_TRINKET_LORD25_NAME",
-      "priority": 300446,
+      "priority": 300457,
       "slot_name": "slot_Trinket"
     },
     {
@@ -4021,7 +4120,7 @@
       "level": 30,
       "name": "eq_events_trinket_summerhall_30_trinket_lord30",
       "name_placeholder": "EQ_EVENTS_TRINKET_SUMMERHALL_30_TRINKET_LORD30_NAME",
-      "priority": 300447,
+      "priority": 300458,
       "slot_name": "slot_Trinket"
     },
     {
@@ -4030,7 +4129,7 @@
       "level": 35,
       "name": "eq_events_trinket_summerhall_35_trinket_lord35",
       "name_placeholder": "EQ_EVENTS_TRINKET_SUMMERHALL_35_TRINKET_LORD35_NAME",
-      "priority": 300448,
+      "priority": 300459,
       "slot_name": "slot_Trinket"
     },
     {
@@ -4039,7 +4138,7 @@
       "level": 40,
       "name": "eq_events_trinket_summerhall_40_trinket_lord40",
       "name_placeholder": "EQ_EVENTS_TRINKET_SUMMERHALL_40_TRINKET_LORD40_NAME",
-      "priority": 300449,
+      "priority": 300460,
       "slot_name": "slot_Trinket"
     },
     {
@@ -4048,7 +4147,7 @@
       "level": 45,
       "name": "eq_events_trinket_summerhall_45_trinket_lord45",
       "name_placeholder": "EQ_EVENTS_TRINKET_SUMMERHALL_45_TRINKET_LORD45_NAME",
-      "priority": 300450,
+      "priority": 300461,
       "slot_name": "slot_Trinket"
     },
     {
@@ -4057,7 +4156,106 @@
       "level": 50,
       "name": "eq_events_trinket_summerhall_50_trinket_lord50",
       "name_placeholder": "EQ_EVENTS_TRINKET_SUMMERHALL_50_TRINKET_LORD50_NAME",
-      "priority": 300451,
+      "priority": 300462,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "af534ffad7f54596",
+      "image": "icon_eq_events_harrenhal3_trinket_1.png",
+      "level": 1,
+      "name": "eq_events_trinket_harrenhal3_1_trinket_lord1",
+      "name_placeholder": "EQ_EVENTS_TRINKET_HARRENHAL3_1_TRINKET_LORD1_NAME",
+      "priority": 300463,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "68159dd2814ffbfc",
+      "image": "icon_eq_events_harrenhal3_trinket_1.png",
+      "level": 5,
+      "name": "eq_events_trinket_harrenhal3_5_trinket_lord5",
+      "name_placeholder": "EQ_EVENTS_TRINKET_HARRENHAL3_5_TRINKET_LORD5_NAME",
+      "priority": 300464,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "8e9a3928b0da33f9",
+      "image": "icon_eq_events_harrenhal3_trinket_1.png",
+      "level": 10,
+      "name": "eq_events_trinket_harrenhal3_10_trinket_lord10",
+      "name_placeholder": "EQ_EVENTS_TRINKET_HARRENHAL3_10_TRINKET_LORD10_NAME",
+      "priority": 300465,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "af54667d7c006a95",
+      "image": "icon_eq_events_harrenhal3_trinket_1.png",
+      "level": 15,
+      "name": "eq_events_trinket_harrenhal3_15_trinket_lord15",
+      "name_placeholder": "EQ_EVENTS_TRINKET_HARRENHAL3_15_TRINKET_LORD15_NAME",
+      "priority": 300466,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "ace6ab91fea55f9c",
+      "image": "icon_eq_events_harrenhal3_trinket_1.png",
+      "level": 20,
+      "name": "eq_events_trinket_harrenhal3_20_trinket_lord20",
+      "name_placeholder": "EQ_EVENTS_TRINKET_HARRENHAL3_20_TRINKET_LORD20_NAME",
+      "priority": 300467,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "8d28f4c4327f06f0",
+      "image": "icon_eq_events_harrenhal3_trinket_1.png",
+      "level": 25,
+      "name": "eq_events_trinket_harrenhal3_25_trinket_lord25",
+      "name_placeholder": "EQ_EVENTS_TRINKET_HARRENHAL3_25_TRINKET_LORD25_NAME",
+      "priority": 300468,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "b2cd25f93b707bbf",
+      "image": "icon_eq_events_harrenhal3_trinket_1.png",
+      "level": 30,
+      "name": "eq_events_trinket_harrenhal3_30_trinket_lord30",
+      "name_placeholder": "EQ_EVENTS_TRINKET_HARRENHAL3_30_TRINKET_LORD30_NAME",
+      "priority": 300469,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "93037aacf7aa22d3",
+      "image": "icon_eq_events_harrenhal3_trinket_1.png",
+      "level": 35,
+      "name": "eq_events_trinket_harrenhal3_35_trinket_lord35",
+      "name_placeholder": "EQ_EVENTS_TRINKET_HARRENHAL3_35_TRINKET_LORD35_NAME",
+      "priority": 300470,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "e81f8ee3625b8756",
+      "image": "icon_eq_events_harrenhal3_trinket_1.png",
+      "level": 40,
+      "name": "eq_events_trinket_harrenhal3_40_trinket_lord40",
+      "name_placeholder": "EQ_EVENTS_TRINKET_HARRENHAL3_40_TRINKET_LORD40_NAME",
+      "priority": 300471,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "c9d1d1b6ae81de3a",
+      "image": "icon_eq_events_harrenhal3_trinket_1.png",
+      "level": 45,
+      "name": "eq_events_trinket_harrenhal3_45_trinket_lord45",
+      "name_placeholder": "EQ_EVENTS_TRINKET_HARRENHAL3_45_TRINKET_LORD45_NAME",
+      "priority": 300472,
+      "slot_name": "slot_Trinket"
+    },
+    {
+      "id": "f634008ba78ea375",
+      "image": "icon_eq_events_harrenhal3_trinket_1.png",
+      "level": 50,
+      "name": "eq_events_trinket_harrenhal3_50_trinket_lord50",
+      "name_placeholder": "EQ_EVENTS_TRINKET_HARRENHAL3_50_TRINKET_LORD50_NAME",
+      "priority": 300473,
       "slot_name": "slot_Trinket"
     }
   ]

@@ -46813,6 +46813,664 @@
             ]
           }
         ]
+      },
+      {
+        "gear_with_level": [
+          {
+            "level": 1,
+            "name": "n:EQ_EVENTS_TRINKET_HARRENHAL3_1_TRINKET_LORD1_NAME",
+            "stats": [
+              {
+                "description": "Cavalry attack bonus.",
+                "name": "Cavalry Attack",
+                "progression": [
+                  0.0342720000000001,
+                  0.0367200000000001,
+                  0.0391680000000001,
+                  0.0416160000000001,
+                  0.0440640000000001,
+                  0.0489600000000001
+                ]
+              },
+              {
+                "description": "Cavalry Health in Player-to-Player combat.",
+                "name": "Cavalry Health vs. Player",
+                "progression": [
+                  0.0342720000000001,
+                  0.0367200000000001,
+                  0.0391680000000001,
+                  0.0416160000000001,
+                  0.0440640000000001,
+                  0.0489600000000001
+                ]
+              },
+              {
+                "description": "Cavalry Attack vs. another player's Infantry.",
+                "name": "Cavalry Attack vs. Player's Infantry",
+                "progression": [
+                  0.0342720000000001,
+                  0.0367200000000001,
+                  0.0391680000000001,
+                  0.0416160000000001,
+                  0.0440640000000001,
+                  0.0489600000000001
+                ]
+              },
+              {
+                "description": "Cavalry defense bonus in combat at a Seat of Power",
+                "name": "Cavalry Defense at Seats of Power",
+                "progression": [
+                  0.0342720000000001,
+                  0.0367200000000001,
+                  0.0391680000000001,
+                  0.0416160000000001,
+                  0.0440640000000001,
+                  0.0489600000000001
+                ]
+              }
+            ]
+          },
+          {
+            "level": 5,
+            "name": "n:EQ_EVENTS_TRINKET_HARRENHAL3_5_TRINKET_LORD5_NAME",
+            "stats": [
+              {
+                "description": "Cavalry attack bonus.",
+                "name": "Cavalry Attack",
+                "progression": [
+                  0.0651168000000001,
+                  0.0697680000000001,
+                  0.0744192000000001,
+                  0.0790704000000001,
+                  0.0837216000000001,
+                  0.0930240000000001
+                ]
+              },
+              {
+                "description": "Cavalry Health in Player-to-Player combat.",
+                "name": "Cavalry Health vs. Player",
+                "progression": [
+                  0.0651168000000001,
+                  0.0697680000000001,
+                  0.0744192000000001,
+                  0.0790704000000001,
+                  0.0837216000000001,
+                  0.0930240000000001
+                ]
+              },
+              {
+                "description": "Cavalry Attack vs. another player's Infantry.",
+                "name": "Cavalry Attack vs. Player's Infantry",
+                "progression": [
+                  0.0651168000000001,
+                  0.0697680000000001,
+                  0.0744192000000001,
+                  0.0790704000000001,
+                  0.0837216000000001,
+                  0.0930240000000001
+                ]
+              },
+              {
+                "description": "Cavalry defense bonus in combat at a Seat of Power",
+                "name": "Cavalry Defense at Seats of Power",
+                "progression": [
+                  0.0651168000000001,
+                  0.0697680000000001,
+                  0.0744192000000001,
+                  0.0790704000000001,
+                  0.0837216000000001,
+                  0.0930240000000001
+                ]
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "name": "n:EQ_EVENTS_TRINKET_HARRENHAL3_10_TRINKET_LORD10_NAME",
+            "stats": [
+              {
+                "description": "Cavalry attack bonus.",
+                "name": "Cavalry Attack",
+                "progression": [
+                  0.0959616000000001,
+                  0.102816,
+                  0.1096704,
+                  0.1165248,
+                  0.1233792,
+                  0.137088
+                ]
+              },
+              {
+                "description": "Cavalry Health in Player-to-Player combat.",
+                "name": "Cavalry Health vs. Player",
+                "progression": [
+                  0.0959616000000001,
+                  0.102816,
+                  0.1096704,
+                  0.1165248,
+                  0.1233792,
+                  0.137088
+                ]
+              },
+              {
+                "description": "Cavalry Attack vs. another player's Infantry.",
+                "name": "Cavalry Attack vs. Player's Infantry",
+                "progression": [
+                  0.0959616000000001,
+                  0.102816,
+                  0.1096704,
+                  0.1165248,
+                  0.1233792,
+                  0.137088
+                ]
+              },
+              {
+                "description": "Cavalry defense bonus in combat at a Seat of Power",
+                "name": "Cavalry Defense at Seats of Power",
+                "progression": [
+                  0.0959616000000001,
+                  0.102816,
+                  0.1096704,
+                  0.1165248,
+                  0.1233792,
+                  0.137088
+                ]
+              }
+            ]
+          },
+          {
+            "level": 15,
+            "name": "n:EQ_EVENTS_TRINKET_HARRENHAL3_15_TRINKET_LORD15_NAME",
+            "stats": [
+              {
+                "description": "Cavalry attack bonus.",
+                "name": "Cavalry Attack",
+                "progression": [
+                  0.1268064,
+                  0.135864,
+                  0.1449216,
+                  0.1539792,
+                  0.1630368,
+                  0.181152
+                ]
+              },
+              {
+                "description": "Cavalry Health in Player-to-Player combat.",
+                "name": "Cavalry Health vs. Player",
+                "progression": [
+                  0.1268064,
+                  0.135864,
+                  0.1449216,
+                  0.1539792,
+                  0.1630368,
+                  0.181152
+                ]
+              },
+              {
+                "description": "Cavalry Attack vs. another player's Infantry.",
+                "name": "Cavalry Attack vs. Player's Infantry",
+                "progression": [
+                  0.1268064,
+                  0.135864,
+                  0.1449216,
+                  0.1539792,
+                  0.1630368,
+                  0.181152
+                ]
+              },
+              {
+                "description": "Cavalry defense bonus in combat at a Seat of Power",
+                "name": "Cavalry Defense at Seats of Power",
+                "progression": [
+                  0.1268064,
+                  0.135864,
+                  0.1449216,
+                  0.1539792,
+                  0.1630368,
+                  0.181152
+                ]
+              }
+            ]
+          },
+          {
+            "level": 20,
+            "name": "n:EQ_EVENTS_TRINKET_HARRENHAL3_20_TRINKET_LORD20_NAME",
+            "stats": [
+              {
+                "description": "Cavalry attack bonus.",
+                "name": "Cavalry Attack",
+                "progression": [
+                  0.1576512,
+                  0.168912,
+                  0.1801728,
+                  0.1914336,
+                  0.2026944,
+                  0.225216
+                ]
+              },
+              {
+                "description": "Cavalry Health in Player-to-Player combat.",
+                "name": "Cavalry Health vs. Player",
+                "progression": [
+                  0.1576512,
+                  0.168912,
+                  0.1801728,
+                  0.1914336,
+                  0.2026944,
+                  0.225216
+                ]
+              },
+              {
+                "description": "Cavalry Attack vs. another player's Infantry.",
+                "name": "Cavalry Attack vs. Player's Infantry",
+                "progression": [
+                  0.1576512,
+                  0.168912,
+                  0.1801728,
+                  0.1914336,
+                  0.2026944,
+                  0.225216
+                ]
+              },
+              {
+                "description": "Cavalry defense bonus in combat at a Seat of Power",
+                "name": "Cavalry Defense at Seats of Power",
+                "progression": [
+                  0.1576512,
+                  0.168912,
+                  0.1801728,
+                  0.1914336,
+                  0.2026944,
+                  0.225216
+                ]
+              }
+            ]
+          },
+          {
+            "level": 25,
+            "name": "n:EQ_EVENTS_TRINKET_HARRENHAL3_25_TRINKET_LORD25_NAME",
+            "stats": [
+              {
+                "description": "Cavalry attack bonus.",
+                "name": "Cavalry Attack",
+                "progression": [
+                  0.188496,
+                  0.20196,
+                  0.215424,
+                  0.228888,
+                  0.242352,
+                  0.26928
+                ]
+              },
+              {
+                "description": "Cavalry Health in Player-to-Player combat.",
+                "name": "Cavalry Health vs. Player",
+                "progression": [
+                  0.188496,
+                  0.20196,
+                  0.215424,
+                  0.228888,
+                  0.242352,
+                  0.26928
+                ]
+              },
+              {
+                "description": "Cavalry Attack vs. another player's Infantry.",
+                "name": "Cavalry Attack vs. Player's Infantry",
+                "progression": [
+                  0.188496,
+                  0.20196,
+                  0.215424,
+                  0.228888,
+                  0.242352,
+                  0.26928
+                ]
+              },
+              {
+                "description": "Cavalry defense bonus in combat at a Seat of Power",
+                "name": "Cavalry Defense at Seats of Power",
+                "progression": [
+                  0.188496,
+                  0.20196,
+                  0.215424,
+                  0.228888,
+                  0.242352,
+                  0.26928
+                ]
+              }
+            ]
+          },
+          {
+            "level": 30,
+            "name": "n:EQ_EVENTS_TRINKET_HARRENHAL3_30_TRINKET_LORD30_NAME",
+            "stats": [
+              {
+                "description": "Cavalry attack bonus.",
+                "name": "Cavalry Attack",
+                "progression": [
+                  0.2193408,
+                  0.235008,
+                  0.2506752,
+                  0.2663424,
+                  0.2820096,
+                  0.313344
+                ]
+              },
+              {
+                "description": "Cavalry Health in Player-to-Player combat.",
+                "name": "Cavalry Health vs. Player",
+                "progression": [
+                  0.2193408,
+                  0.235008,
+                  0.2506752,
+                  0.2663424,
+                  0.2820096,
+                  0.313344
+                ]
+              },
+              {
+                "description": "Cavalry Attack vs. another player's Infantry.",
+                "name": "Cavalry Attack vs. Player's Infantry",
+                "progression": [
+                  0.2193408,
+                  0.235008,
+                  0.2506752,
+                  0.2663424,
+                  0.2820096,
+                  0.313344
+                ]
+              },
+              {
+                "description": "Cavalry defense bonus in combat at a Seat of Power",
+                "name": "Cavalry Defense at Seats of Power",
+                "progression": [
+                  0.2193408,
+                  0.235008,
+                  0.2506752,
+                  0.2663424,
+                  0.2820096,
+                  0.313344
+                ]
+              },
+              {
+                "description": "Cavalry health bonus.",
+                "name": "Cavalry Health",
+                "progression": [
+                  0.1096704,
+                  0.117504,
+                  0.1253376,
+                  0.1331712,
+                  0.1410048,
+                  0.156672
+                ]
+              }
+            ]
+          },
+          {
+            "level": 35,
+            "name": "n:EQ_EVENTS_TRINKET_HARRENHAL3_35_TRINKET_LORD35_NAME",
+            "stats": [
+              {
+                "description": "Cavalry attack bonus.",
+                "name": "Cavalry Attack",
+                "progression": [
+                  0.2501856,
+                  0.268056,
+                  0.2859264,
+                  0.3037968,
+                  0.3216672,
+                  0.357408
+                ]
+              },
+              {
+                "description": "Cavalry Health in Player-to-Player combat.",
+                "name": "Cavalry Health vs. Player",
+                "progression": [
+                  0.2501856,
+                  0.268056,
+                  0.2859264,
+                  0.3037968,
+                  0.3216672,
+                  0.357408
+                ]
+              },
+              {
+                "description": "Cavalry Attack vs. another player's Infantry.",
+                "name": "Cavalry Attack vs. Player's Infantry",
+                "progression": [
+                  0.2501856,
+                  0.268056,
+                  0.2859264,
+                  0.3037968,
+                  0.3216672,
+                  0.357408
+                ]
+              },
+              {
+                "description": "Cavalry defense bonus in combat at a Seat of Power",
+                "name": "Cavalry Defense at Seats of Power",
+                "progression": [
+                  0.2501856,
+                  0.268056,
+                  0.2859264,
+                  0.3037968,
+                  0.3216672,
+                  0.357408
+                ]
+              },
+              {
+                "description": "Cavalry health bonus.",
+                "name": "Cavalry Health",
+                "progression": [
+                  0.1250928,
+                  0.134028,
+                  0.1429632,
+                  0.1518984,
+                  0.1608336,
+                  0.178704
+                ]
+              }
+            ]
+          },
+          {
+            "level": 40,
+            "name": "n:EQ_EVENTS_TRINKET_HARRENHAL3_40_TRINKET_LORD40_NAME",
+            "stats": [
+              {
+                "description": "Cavalry attack bonus.",
+                "name": "Cavalry Attack",
+                "progression": [
+                  0.2810304,
+                  0.301104,
+                  0.3211776,
+                  0.3412512,
+                  0.3613248,
+                  0.401472
+                ]
+              },
+              {
+                "description": "Cavalry Health in Player-to-Player combat.",
+                "name": "Cavalry Health vs. Player",
+                "progression": [
+                  0.2810304,
+                  0.301104,
+                  0.3211776,
+                  0.3412512,
+                  0.3613248,
+                  0.401472
+                ]
+              },
+              {
+                "description": "Cavalry Attack vs. another player's Infantry.",
+                "name": "Cavalry Attack vs. Player's Infantry",
+                "progression": [
+                  0.2810304,
+                  0.301104,
+                  0.3211776,
+                  0.3412512,
+                  0.3613248,
+                  0.401472
+                ]
+              },
+              {
+                "description": "Cavalry defense bonus in combat at a Seat of Power",
+                "name": "Cavalry Defense at Seats of Power",
+                "progression": [
+                  0.2810304,
+                  0.301104,
+                  0.3211776,
+                  0.3412512,
+                  0.3613248,
+                  0.401472
+                ]
+              },
+              {
+                "description": "Cavalry health bonus.",
+                "name": "Cavalry Health",
+                "progression": [
+                  0.1405152,
+                  0.150552,
+                  0.1605888,
+                  0.1706256,
+                  0.1806624,
+                  0.200736
+                ]
+              }
+            ]
+          },
+          {
+            "level": 45,
+            "name": "n:EQ_EVENTS_TRINKET_HARRENHAL3_45_TRINKET_LORD45_NAME",
+            "stats": [
+              {
+                "description": "Cavalry attack bonus.",
+                "name": "Cavalry Attack",
+                "progression": [
+                  0.3118752,
+                  0.334152,
+                  0.3564288,
+                  0.3787056,
+                  0.4009824,
+                  0.445536
+                ]
+              },
+              {
+                "description": "Cavalry Health in Player-to-Player combat.",
+                "name": "Cavalry Health vs. Player",
+                "progression": [
+                  0.3118752,
+                  0.334152,
+                  0.3564288,
+                  0.3787056,
+                  0.4009824,
+                  0.445536
+                ]
+              },
+              {
+                "description": "Cavalry Attack vs. another player's Infantry.",
+                "name": "Cavalry Attack vs. Player's Infantry",
+                "progression": [
+                  0.3118752,
+                  0.334152,
+                  0.3564288,
+                  0.3787056,
+                  0.4009824,
+                  0.445536
+                ]
+              },
+              {
+                "description": "Cavalry defense bonus in combat at a Seat of Power",
+                "name": "Cavalry Defense at Seats of Power",
+                "progression": [
+                  0.3118752,
+                  0.334152,
+                  0.3564288,
+                  0.3787056,
+                  0.4009824,
+                  0.445536
+                ]
+              },
+              {
+                "description": "Cavalry health bonus.",
+                "name": "Cavalry Health",
+                "progression": [
+                  0.1559376,
+                  0.167076,
+                  0.1782144,
+                  0.1893528,
+                  0.2004912,
+                  0.222768
+                ]
+              }
+            ]
+          },
+          {
+            "level": 50,
+            "name": "n:EQ_EVENTS_TRINKET_HARRENHAL3_50_TRINKET_LORD50_NAME",
+            "stats": [
+              {
+                "description": "Cavalry attack bonus.",
+                "name": "Cavalry Attack",
+                "progression": [
+                  0.34272,
+                  0.3672,
+                  0.39168,
+                  0.41616,
+                  0.44064,
+                  0.4896
+                ]
+              },
+              {
+                "description": "Cavalry Health in Player-to-Player combat.",
+                "name": "Cavalry Health vs. Player",
+                "progression": [
+                  0.34272,
+                  0.3672,
+                  0.39168,
+                  0.41616,
+                  0.44064,
+                  0.4896
+                ]
+              },
+              {
+                "description": "Cavalry Attack vs. another player's Infantry.",
+                "name": "Cavalry Attack vs. Player's Infantry",
+                "progression": [
+                  0.34272,
+                  0.3672,
+                  0.39168,
+                  0.41616,
+                  0.44064,
+                  0.4896
+                ]
+              },
+              {
+                "description": "Cavalry defense bonus in combat at a Seat of Power",
+                "name": "Cavalry Defense at Seats of Power",
+                "progression": [
+                  0.34272,
+                  0.3672,
+                  0.39168,
+                  0.41616,
+                  0.44064,
+                  0.4896
+                ]
+              },
+              {
+                "description": "Cavalry health bonus.",
+                "name": "Cavalry Health",
+                "progression": [
+                  0.17136,
+                  0.1836,
+                  0.19584,
+                  0.20808,
+                  0.22032,
+                  0.2448
+                ]
+              }
+            ]
+          }
+        ]
       }
     ]
   }

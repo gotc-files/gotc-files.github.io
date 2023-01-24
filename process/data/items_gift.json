@@ -972,6 +972,42 @@
       "name_placeholder": "ITEM_PERSONALGIFT_T1BONUS_FESTIVAL_3_NAME",
       "priority": 3014800,
       "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_T1BONUS_SYC_RESEARCH_1_DESCRIPTION",
+      "id": "19c6e32ef1b6cd65",
+      "image": "icon_mail_gift.png",
+      "name": "item_personalgift_t1bonus_syc_research_1",
+      "name_placeholder": "ITEM_PERSONALGIFT_T1BONUS_SYC_1_NAME",
+      "priority": 3016400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_T1BONUS_SYC_RESEARCH_2_DESCRIPTION",
+      "id": "6cd4bfc528433f6b",
+      "image": "icon_mail_gift.png",
+      "name": "item_personalgift_t1bonus_syc_research_2",
+      "name_placeholder": "ITEM_PERSONALGIFT_T1BONUS_SYC_2_NAME",
+      "priority": 3016500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_T1BONUS_SYC_BUILDING_3_DESCRIPTION",
+      "id": "29e204798eb6f6db",
+      "image": "icon_mail_gift.png",
+      "name": "item_personalgift_t1bonus_syc_building_3",
+      "name_placeholder": "ITEM_PERSONALGIFT_T1BONUS_SYC_3_NAME",
+      "priority": 3016600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_PERSONALGIFT_T1BONUS_SYC_BUILDING_4_DESCRIPTION",
+      "id": "ef3776088a0e433d",
+      "image": "icon_mail_gift.png",
+      "name": "item_personalgift_t1bonus_syc_building_4",
+      "name_placeholder": "ITEM_PERSONALGIFT_T1BONUS_SYC_4_NAME",
+      "priority": 3016700,
+      "type": "item"
     }
   ]
 }
