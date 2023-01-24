@@ -2,6 +2,1446 @@
   "description": "Sets of stats with names and progression",
   "values": [
     {
+      "id": "156812d608fb4e6f",
+      "name": "eq_events_artstub_5_boots_lord5",
+      "stats": [
+        {
+          "name": "property_MarcherRangedAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_MarcherRangedAttackVsPlayer_5"
+        },
+        {
+          "name": "property_TroopAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_TroopAttackVsPlayer_5"
+        },
+        {
+          "name": "property_RalliedTroopCapacity_gear",
+          "progression": "prog_gear_Event3.5_RalliedTroopCapacity_5"
+        }
+      ]
+    },
+    {
+      "id": "5c2458e275c50f8",
+      "name": "eq_events_artstub_5_chest_lord5",
+      "stats": [
+        {
+          "name": "property_TroopAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_TroopAttackVsPlayer_5"
+        },
+        {
+          "name": "property_RalliedTroopCapacity_gear",
+          "progression": "prog_gear_event3_RalliedTroopCapacity_5"
+        },
+        {
+          "name": "property_MarcherCavalryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event3.5_MarcherCavalryAttackVsPlayer_5"
+        }
+      ]
+    },
+    {
+      "id": "144acd37098b14f2",
+      "name": "eq_events_artstub_5_helmet_lord5",
+      "stats": [
+        {
+          "name": "property_MarcherInfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_MarcherInfantryAttackVsPlayer_5"
+        },
+        {
+          "name": "property_MarchingSpeed_gear",
+          "progression": "prog_gear_event3_MarchingSpeed_5"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event3.5_MaxMarchSize_5"
+        }
+      ]
+    },
+    {
+      "id": "d6ea07ad55a499e3",
+      "name": "eq_events_artstub_5_pants_lord5",
+      "stats": [
+        {
+          "name": "property_RalliedTroopCapacity_gear",
+          "progression": "prog_gear_event3_RalliedTroopCapacity_5"
+        },
+        {
+          "name": "property_MarchingSpeed_gear",
+          "progression": "prog_gear_event3_MarchingSpeed_5"
+        },
+        {
+          "name": "property_MarcherInfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event3.5_MarcherInfantryAttackVsPlayer_5"
+        }
+      ]
+    },
+    {
+      "id": "c7ef13cf166e82a",
+      "name": "eq_events_artstub_5_ring_lord5",
+      "stats": [
+        {
+          "name": "property_TroopHealthVsPlayer_gear",
+          "progression": "prog_gear_event3_TroopHealthVsPlayer_5"
+        },
+        {
+          "name": "property_MarcherRangedAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_MarcherRangedAttackVsPlayer_5"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event3.5_MaxMarchSize_5"
+        }
+      ]
+    },
+    {
+      "id": "7397550040544a7f",
+      "name": "eq_events_artstub_5_weapon_lord5",
+      "stats": [
+        {
+          "name": "property_MarcherCavalryAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_MarcherCavalryAttackVsPlayer_5"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_event3_MaxMarchSize_5"
+        },
+        {
+          "name": "property_RalliedTroopCapacity_gear",
+          "progression": "prog_gear_Event3.5_RalliedTroopCapacity_5"
+        }
+      ]
+    },
+    {
+      "id": "6830fa4f2076ec5f",
+      "name": "eq_events_artstub_10_boots_lord10",
+      "stats": [
+        {
+          "name": "property_MarcherRangedAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_MarcherRangedAttackVsPlayer_10"
+        },
+        {
+          "name": "property_TroopAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_TroopAttackVsPlayer_10"
+        },
+        {
+          "name": "property_RalliedTroopCapacity_gear",
+          "progression": "prog_gear_Event3.5_RalliedTroopCapacity_10"
+        }
+      ]
+    },
+    {
+      "id": "277a7fa777f297ef",
+      "name": "eq_events_artstub_10_chest_lord10",
+      "stats": [
+        {
+          "name": "property_TroopAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_TroopAttackVsPlayer_10"
+        },
+        {
+          "name": "property_RalliedTroopCapacity_gear",
+          "progression": "prog_gear_event3_RalliedTroopCapacity_10"
+        },
+        {
+          "name": "property_MarcherCavalryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event3.5_MarcherCavalryAttackVsPlayer_10"
+        }
+      ]
+    },
+    {
+      "id": "d572b26ed2e86e56",
+      "name": "eq_events_artstub_10_helmet_lord10",
+      "stats": [
+        {
+          "name": "property_MarcherInfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_MarcherInfantryAttackVsPlayer_10"
+        },
+        {
+          "name": "property_MarchingSpeed_gear",
+          "progression": "prog_gear_event3_MarchingSpeed_10"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event3.5_MaxMarchSize_10"
+        }
+      ]
+    },
+    {
+      "id": "ff5d68bad184930e",
+      "name": "eq_events_artstub_10_pants_lord10",
+      "stats": [
+        {
+          "name": "property_RalliedTroopCapacity_gear",
+          "progression": "prog_gear_event3_RalliedTroopCapacity_10"
+        },
+        {
+          "name": "property_MarchingSpeed_gear",
+          "progression": "prog_gear_event3_MarchingSpeed_10"
+        },
+        {
+          "name": "property_MarcherInfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event3.5_MarcherInfantryAttackVsPlayer_10"
+        }
+      ]
+    },
+    {
+      "id": "40b409cc13130008",
+      "name": "eq_events_artstub_10_ring_lord10",
+      "stats": [
+        {
+          "name": "property_TroopHealthVsPlayer_gear",
+          "progression": "prog_gear_event3_TroopHealthVsPlayer_10"
+        },
+        {
+          "name": "property_MarcherRangedAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_MarcherRangedAttackVsPlayer_10"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event3.5_MaxMarchSize_10"
+        }
+      ]
+    },
+    {
+      "id": "6e4ab4b0d85dc074",
+      "name": "eq_events_artstub_10_weapon_lord10",
+      "stats": [
+        {
+          "name": "property_MarcherCavalryAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_MarcherCavalryAttackVsPlayer_10"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_event3_MaxMarchSize_10"
+        },
+        {
+          "name": "property_RalliedTroopCapacity_gear",
+          "progression": "prog_gear_Event3.5_RalliedTroopCapacity_10"
+        }
+      ]
+    },
+    {
+      "id": "e25a829dd32509af",
+      "name": "eq_events_artstub_15_boots_lord15",
+      "stats": [
+        {
+          "name": "property_MarcherRangedAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_MarcherRangedAttackVsPlayer_15"
+        },
+        {
+          "name": "property_TroopAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_TroopAttackVsPlayer_15"
+        },
+        {
+          "name": "property_RalliedTroopCapacity_gear",
+          "progression": "prog_gear_Event3.5_RalliedTroopCapacity_15"
+        }
+      ]
+    },
+    {
+      "id": "ad10077584a1721f",
+      "name": "eq_events_artstub_15_chest_lord15",
+      "stats": [
+        {
+          "name": "property_TroopAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_TroopAttackVsPlayer_15"
+        },
+        {
+          "name": "property_RalliedTroopCapacity_gear",
+          "progression": "prog_gear_event3_RalliedTroopCapacity_15"
+        },
+        {
+          "name": "property_MarcherCavalryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event3.5_MarcherCavalryAttackVsPlayer_15"
+        }
+      ]
+    },
+    {
+      "id": "e2b8f5f6352bd833",
+      "name": "eq_events_artstub_15_helmet_lord15",
+      "stats": [
+        {
+          "name": "property_MarcherInfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_MarcherInfantryAttackVsPlayer_15"
+        },
+        {
+          "name": "property_MarchingSpeed_gear",
+          "progression": "prog_gear_event3_MarchingSpeed_15"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event3.5_MaxMarchSize_15"
+        }
+      ]
+    },
+    {
+      "id": "7537106822d776fe",
+      "name": "eq_events_artstub_15_pants_lord15",
+      "stats": [
+        {
+          "name": "property_RalliedTroopCapacity_gear",
+          "progression": "prog_gear_event3_RalliedTroopCapacity_15"
+        },
+        {
+          "name": "property_MarchingSpeed_gear",
+          "progression": "prog_gear_event3_MarchingSpeed_15"
+        },
+        {
+          "name": "property_MarcherInfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event3.5_MarcherInfantryAttackVsPlayer_15"
+        }
+      ]
+    },
+    {
+      "id": "3fd374e2aadf30d9",
+      "name": "eq_events_artstub_15_ring_lord15",
+      "stats": [
+        {
+          "name": "property_TroopHealthVsPlayer_gear",
+          "progression": "prog_gear_event3_TroopHealthVsPlayer_15"
+        },
+        {
+          "name": "property_MarcherRangedAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_MarcherRangedAttackVsPlayer_15"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event3.5_MaxMarchSize_15"
+        }
+      ]
+    },
+    {
+      "id": "5980f3283f9e7611",
+      "name": "eq_events_artstub_15_weapon_lord15",
+      "stats": [
+        {
+          "name": "property_MarcherCavalryAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_MarcherCavalryAttackVsPlayer_15"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_event3_MaxMarchSize_15"
+        },
+        {
+          "name": "property_RalliedTroopCapacity_gear",
+          "progression": "prog_gear_Event3.5_RalliedTroopCapacity_15"
+        }
+      ]
+    },
+    {
+      "id": "8168eecbc8a0987e",
+      "name": "eq_events_artstub_20_boots_lord20",
+      "stats": [
+        {
+          "name": "property_MarcherRangedAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_MarcherRangedAttackVsPlayer_20"
+        },
+        {
+          "name": "property_TroopAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_TroopAttackVsPlayer_20"
+        },
+        {
+          "name": "property_RalliedTroopCapacity_gear",
+          "progression": "prog_gear_Event3.5_RalliedTroopCapacity_20"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_event3_MaxMarchSize_20"
+        }
+      ]
+    },
+    {
+      "id": "ce226b239f24e3ce",
+      "name": "eq_events_artstub_20_chest_lord20",
+      "stats": [
+        {
+          "name": "property_TroopAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_TroopAttackVsPlayer_20"
+        },
+        {
+          "name": "property_RalliedTroopCapacity_gear",
+          "progression": "prog_gear_event3_RalliedTroopCapacity_20"
+        },
+        {
+          "name": "property_MarcherCavalryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event3.5_MarcherCavalryAttackVsPlayer_20"
+        },
+        {
+          "name": "property_CavalryAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_CavalryAttackVsPlayer_20"
+        }
+      ]
+    },
+    {
+      "id": "b04090821bac7a69",
+      "name": "eq_events_artstub_20_helmet_lord20",
+      "stats": [
+        {
+          "name": "property_MarcherInfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_MarcherInfantryAttackVsPlayer_20"
+        },
+        {
+          "name": "property_MarchingSpeed_gear",
+          "progression": "prog_gear_event3_MarchingSpeed_20"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event3.5_MaxMarchSize_20"
+        },
+        {
+          "name": "property_RalliedTroopCapacity_gear",
+          "progression": "prog_gear_event3_RalliedTroopCapacity_20"
+        }
+      ]
+    },
+    {
+      "id": "16057c3e3952e72f",
+      "name": "eq_events_artstub_20_pants_lord20",
+      "stats": [
+        {
+          "name": "property_RalliedTroopCapacity_gear",
+          "progression": "prog_gear_event3_RalliedTroopCapacity_20"
+        },
+        {
+          "name": "property_MarchingSpeed_gear",
+          "progression": "prog_gear_event3_MarchingSpeed_20"
+        },
+        {
+          "name": "property_MarcherInfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event3.5_MarcherInfantryAttackVsPlayer_20"
+        },
+        {
+          "name": "property_MarcherInfantryHealthVsPlayer_gear",
+          "progression": "prog_gear_event3_MarcherInfantryHealthVsPlayer_20"
+        }
+      ]
+    },
+    {
+      "id": "431a365dcf2f8043",
+      "name": "eq_events_artstub_20_ring_lord20",
+      "stats": [
+        {
+          "name": "property_TroopHealthVsPlayer_gear",
+          "progression": "prog_gear_event3_TroopHealthVsPlayer_20"
+        },
+        {
+          "name": "property_MarcherRangedAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_MarcherRangedAttackVsPlayer_20"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event3.5_MaxMarchSize_20"
+        },
+        {
+          "name": "property_RangedAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_RangedAttackVsPlayer_20"
+        }
+      ]
+    },
+    {
+      "id": "b78965c1119d44b",
+      "name": "eq_events_artstub_20_weapon_lord20",
+      "stats": [
+        {
+          "name": "property_MarcherCavalryAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_MarcherCavalryAttackVsPlayer_20"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_event3_MaxMarchSize_20"
+        },
+        {
+          "name": "property_RalliedTroopCapacity_gear",
+          "progression": "prog_gear_Event3.5_RalliedTroopCapacity_20"
+        },
+        {
+          "name": "property_MarchingSpeed_gear",
+          "progression": "prog_gear_event3_MarchingSpeed_20"
+        }
+      ]
+    },
+    {
+      "id": "b0296193bf37d8e",
+      "name": "eq_events_artstub_25_boots_lord25",
+      "stats": [
+        {
+          "name": "property_MarcherRangedAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_MarcherRangedAttackVsPlayer_25"
+        },
+        {
+          "name": "property_TroopAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_TroopAttackVsPlayer_25"
+        },
+        {
+          "name": "property_RalliedTroopCapacity_gear",
+          "progression": "prog_gear_Event3.5_RalliedTroopCapacity_25"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_event3_MaxMarchSize_25"
+        }
+      ]
+    },
+    {
+      "id": "444813f16c77063e",
+      "name": "eq_events_artstub_25_chest_lord25",
+      "stats": [
+        {
+          "name": "property_TroopAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_TroopAttackVsPlayer_25"
+        },
+        {
+          "name": "property_RalliedTroopCapacity_gear",
+          "progression": "prog_gear_event3_RalliedTroopCapacity_25"
+        },
+        {
+          "name": "property_MarcherCavalryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event3.5_MarcherCavalryAttackVsPlayer_25"
+        },
+        {
+          "name": "property_CavalryAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_CavalryAttackVsPlayer_25"
+        }
+      ]
+    },
+    {
+      "id": "878ad71afc6fcc0c",
+      "name": "eq_events_artstub_25_helmet_lord25",
+      "stats": [
+        {
+          "name": "property_MarcherInfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_MarcherInfantryAttackVsPlayer_25"
+        },
+        {
+          "name": "property_MarchingSpeed_gear",
+          "progression": "prog_gear_event3_MarchingSpeed_25"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event3.5_MaxMarchSize_25"
+        },
+        {
+          "name": "property_RalliedTroopCapacity_gear",
+          "progression": "prog_gear_event3_RalliedTroopCapacity_25"
+        }
+      ]
+    },
+    {
+      "id": "9c6f04ecca0102df",
+      "name": "eq_events_artstub_25_pants_lord25",
+      "stats": [
+        {
+          "name": "property_RalliedTroopCapacity_gear",
+          "progression": "prog_gear_event3_RalliedTroopCapacity_25"
+        },
+        {
+          "name": "property_MarchingSpeed_gear",
+          "progression": "prog_gear_event3_MarchingSpeed_25"
+        },
+        {
+          "name": "property_MarcherInfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event3.5_MarcherInfantryAttackVsPlayer_25"
+        },
+        {
+          "name": "property_MarcherInfantryHealthVsPlayer_gear",
+          "progression": "prog_gear_event3_MarcherInfantryHealthVsPlayer_25"
+        }
+      ]
+    },
+    {
+      "id": "3c7d4b7376e3b092",
+      "name": "eq_events_artstub_25_ring_lord25",
+      "stats": [
+        {
+          "name": "property_TroopHealthVsPlayer_gear",
+          "progression": "prog_gear_event3_TroopHealthVsPlayer_25"
+        },
+        {
+          "name": "property_MarcherRangedAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_MarcherRangedAttackVsPlayer_25"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event3.5_MaxMarchSize_25"
+        },
+        {
+          "name": "property_RangedAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_RangedAttackVsPlayer_25"
+        }
+      ]
+    },
+    {
+      "id": "3cb2d1c4f6da622e",
+      "name": "eq_events_artstub_25_weapon_lord25",
+      "stats": [
+        {
+          "name": "property_MarcherCavalryAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_MarcherCavalryAttackVsPlayer_25"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_event3_MaxMarchSize_25"
+        },
+        {
+          "name": "property_RalliedTroopCapacity_gear",
+          "progression": "prog_gear_Event3.5_RalliedTroopCapacity_25"
+        },
+        {
+          "name": "property_MarchingSpeed_gear",
+          "progression": "prog_gear_event3_MarchingSpeed_25"
+        }
+      ]
+    },
+    {
+      "id": "5836dc9b57887178",
+      "name": "eq_events_artstub_30_boots_lord30",
+      "stats": [
+        {
+          "name": "property_MarcherRangedAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_MarcherRangedAttackVsPlayer_30"
+        },
+        {
+          "name": "property_TroopAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_TroopAttackVsPlayer_30"
+        },
+        {
+          "name": "property_RalliedTroopCapacity_gear",
+          "progression": "prog_gear_Event3.5_RalliedTroopCapacity_30"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_event3_MaxMarchSize_30"
+        },
+        {
+          "name": "property_MarchingSpeedJoinRally_gear",
+          "progression": "prog_gear_event3.5_MarchingSpeedJoinRally_30"
+        }
+      ]
+    },
+    {
+      "id": "177c5973000c0ac8",
+      "name": "eq_events_artstub_30_chest_lord30",
+      "stats": [
+        {
+          "name": "property_TroopAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_TroopAttackVsPlayer_30"
+        },
+        {
+          "name": "property_RalliedTroopCapacity_gear",
+          "progression": "prog_gear_event3_RalliedTroopCapacity_30"
+        },
+        {
+          "name": "property_MarcherCavalryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event3.5_MarcherCavalryAttackVsPlayer_30"
+        },
+        {
+          "name": "property_CavalryAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_CavalryAttackVsPlayer_30"
+        },
+        {
+          "name": "property_MarchingSpeedJoinRally_gear",
+          "progression": "prog_gear_event3.5_MarchingSpeedJoinRally_30"
+        }
+      ]
+    },
+    {
+      "id": "935171265c90767c",
+      "name": "eq_events_artstub_30_helmet_lord30",
+      "stats": [
+        {
+          "name": "property_MarcherInfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_MarcherInfantryAttackVsPlayer_30"
+        },
+        {
+          "name": "property_MarchingSpeed_gear",
+          "progression": "prog_gear_event3_MarchingSpeed_30"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event3.5_MaxMarchSize_30"
+        },
+        {
+          "name": "property_RalliedTroopCapacity_gear",
+          "progression": "prog_gear_event3_RalliedTroopCapacity_30"
+        },
+        {
+          "name": "property_MarchingSpeedJoinRally_gear",
+          "progression": "prog_gear_event3.5_MarchingSpeedJoinRally_30"
+        }
+      ]
+    },
+    {
+      "id": "cf5b4e6ea67a0e29",
+      "name": "eq_events_artstub_30_pants_lord30",
+      "stats": [
+        {
+          "name": "property_RalliedTroopCapacity_gear",
+          "progression": "prog_gear_event3_RalliedTroopCapacity_30"
+        },
+        {
+          "name": "property_MarchingSpeed_gear",
+          "progression": "prog_gear_event3_MarchingSpeed_30"
+        },
+        {
+          "name": "property_MarcherInfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event3.5_MarcherInfantryAttackVsPlayer_30"
+        },
+        {
+          "name": "property_MarcherInfantryHealthVsPlayer_gear",
+          "progression": "prog_gear_event3_MarcherInfantryHealthVsPlayer_30"
+        },
+        {
+          "name": "property_MarchingSpeedJoinRally_gear",
+          "progression": "prog_gear_event3.5_MarchingSpeedJoinRally_30"
+        }
+      ]
+    },
+    {
+      "id": "427fdcd284c4007a",
+      "name": "eq_events_artstub_30_ring_lord30",
+      "stats": [
+        {
+          "name": "property_TroopHealthVsPlayer_gear",
+          "progression": "prog_gear_event3_TroopHealthVsPlayer_30"
+        },
+        {
+          "name": "property_MarcherRangedAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_MarcherRangedAttackVsPlayer_30"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event3.5_MaxMarchSize_30"
+        },
+        {
+          "name": "property_RangedAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_RangedAttackVsPlayer_30"
+        },
+        {
+          "name": "property_MarchingSpeedJoinRally_gear",
+          "progression": "prog_gear_event3.5_MarchingSpeedJoinRally_30"
+        }
+      ]
+    },
+    {
+      "id": "286977f85625d85e",
+      "name": "eq_events_artstub_30_weapon_lord30",
+      "stats": [
+        {
+          "name": "property_MarcherCavalryAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_MarcherCavalryAttackVsPlayer_30"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_event3_MaxMarchSize_30"
+        },
+        {
+          "name": "property_RalliedTroopCapacity_gear",
+          "progression": "prog_gear_Event3.5_RalliedTroopCapacity_30"
+        },
+        {
+          "name": "property_MarchingSpeed_gear",
+          "progression": "prog_gear_event3_MarchingSpeed_30"
+        },
+        {
+          "name": "property_MarchingSpeedJoinRally_gear",
+          "progression": "prog_gear_event3.5_MarchingSpeedJoinRally_30"
+        }
+      ]
+    },
+    {
+      "id": "d25ca449a4db9488",
+      "name": "eq_events_artstub_35_boots_lord35",
+      "stats": [
+        {
+          "name": "property_MarcherRangedAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_MarcherRangedAttackVsPlayer_35"
+        },
+        {
+          "name": "property_TroopAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_TroopAttackVsPlayer_35"
+        },
+        {
+          "name": "property_RalliedTroopCapacity_gear",
+          "progression": "prog_gear_Event3.5_RalliedTroopCapacity_35"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_event3_MaxMarchSize_35"
+        },
+        {
+          "name": "property_MarchingSpeedJoinRally_gear",
+          "progression": "prog_gear_event3.5_MarchingSpeedJoinRally_35"
+        }
+      ]
+    },
+    {
+      "id": "9d1621a1f35fef38",
+      "name": "eq_events_artstub_35_chest_lord35",
+      "stats": [
+        {
+          "name": "property_TroopAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_TroopAttackVsPlayer_35"
+        },
+        {
+          "name": "property_RalliedTroopCapacity_gear",
+          "progression": "prog_gear_event3_RalliedTroopCapacity_35"
+        },
+        {
+          "name": "property_MarcherCavalryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event3.5_MarcherCavalryAttackVsPlayer_35"
+        },
+        {
+          "name": "property_CavalryAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_CavalryAttackVsPlayer_35"
+        },
+        {
+          "name": "property_MarchingSpeedJoinRally_gear",
+          "progression": "prog_gear_event3.5_MarchingSpeedJoinRally_35"
+        }
+      ]
+    },
+    {
+      "id": "a49b36bebb53c019",
+      "name": "eq_events_artstub_35_helmet_lord35",
+      "stats": [
+        {
+          "name": "property_MarcherInfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_MarcherInfantryAttackVsPlayer_35"
+        },
+        {
+          "name": "property_MarchingSpeed_gear",
+          "progression": "prog_gear_event3_MarchingSpeed_35"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event3.5_MaxMarchSize_35"
+        },
+        {
+          "name": "property_RalliedTroopCapacity_gear",
+          "progression": "prog_gear_event3_RalliedTroopCapacity_35"
+        },
+        {
+          "name": "property_MarchingSpeedJoinRally_gear",
+          "progression": "prog_gear_event3.5_MarchingSpeedJoinRally_35"
+        }
+      ]
+    },
+    {
+      "id": "453136bc5529ebd9",
+      "name": "eq_events_artstub_35_pants_lord35",
+      "stats": [
+        {
+          "name": "property_RalliedTroopCapacity_gear",
+          "progression": "prog_gear_event3_RalliedTroopCapacity_35"
+        },
+        {
+          "name": "property_MarchingSpeed_gear",
+          "progression": "prog_gear_event3_MarchingSpeed_35"
+        },
+        {
+          "name": "property_MarcherInfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event3.5_MarcherInfantryAttackVsPlayer_35"
+        },
+        {
+          "name": "property_MarcherInfantryHealthVsPlayer_gear",
+          "progression": "prog_gear_event3_MarcherInfantryHealthVsPlayer_35"
+        },
+        {
+          "name": "property_MarchingSpeedJoinRally_gear",
+          "progression": "prog_gear_event3.5_MarchingSpeedJoinRally_35"
+        }
+      ]
+    },
+    {
+      "id": "3d18a1fc3d0830ab",
+      "name": "eq_events_artstub_35_ring_lord35",
+      "stats": [
+        {
+          "name": "property_TroopHealthVsPlayer_gear",
+          "progression": "prog_gear_event3_TroopHealthVsPlayer_35"
+        },
+        {
+          "name": "property_MarcherRangedAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_MarcherRangedAttackVsPlayer_35"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event3.5_MaxMarchSize_35"
+        },
+        {
+          "name": "property_RangedAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_RangedAttackVsPlayer_35"
+        },
+        {
+          "name": "property_MarchingSpeedJoinRally_gear",
+          "progression": "prog_gear_event3.5_MarchingSpeedJoinRally_35"
+        }
+      ]
+    },
+    {
+      "id": "1fa33060b1e66e3b",
+      "name": "eq_events_artstub_35_weapon_lord35",
+      "stats": [
+        {
+          "name": "property_MarcherCavalryAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_MarcherCavalryAttackVsPlayer_35"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_event3_MaxMarchSize_35"
+        },
+        {
+          "name": "property_RalliedTroopCapacity_gear",
+          "progression": "prog_gear_Event3.5_RalliedTroopCapacity_35"
+        },
+        {
+          "name": "property_MarchingSpeed_gear",
+          "progression": "prog_gear_event3_MarchingSpeed_35"
+        },
+        {
+          "name": "property_MarchingSpeedJoinRally_gear",
+          "progression": "prog_gear_event3.5_MarchingSpeedJoinRally_35"
+        }
+      ]
+    },
+    {
+      "id": "d16285b750a33f17",
+      "name": "eq_events_artstub_40_boots_lord40",
+      "stats": [
+        {
+          "name": "property_MarcherRangedAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_MarcherRangedAttackVsPlayer_40"
+        },
+        {
+          "name": "property_TroopAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_TroopAttackVsPlayer_40"
+        },
+        {
+          "name": "property_RalliedTroopCapacity_gear",
+          "progression": "prog_gear_Event3.5_RalliedTroopCapacity_40"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_event3_MaxMarchSize_40"
+        },
+        {
+          "name": "property_MarchingSpeedJoinRally_gear",
+          "progression": "prog_gear_event3.5_MarchingSpeedJoinRally_40"
+        },
+        {
+          "name": "property_MarcherRangedHealthVsPlayer_gear",
+          "progression": "prog_gear_event3_MarcherRangedHealthVsPlayer_40"
+        }
+      ]
+    },
+    {
+      "id": "9e28005f072744a7",
+      "name": "eq_events_artstub_40_chest_lord40",
+      "stats": [
+        {
+          "name": "property_TroopAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_TroopAttackVsPlayer_40"
+        },
+        {
+          "name": "property_RalliedTroopCapacity_gear",
+          "progression": "prog_gear_event3_RalliedTroopCapacity_40"
+        },
+        {
+          "name": "property_MarcherCavalryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event3.5_MarcherCavalryAttackVsPlayer_40"
+        },
+        {
+          "name": "property_CavalryAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_CavalryAttackVsPlayer_40"
+        },
+        {
+          "name": "property_MarchingSpeedJoinRally_gear",
+          "progression": "prog_gear_event3.5_MarchingSpeedJoinRally_40"
+        },
+        {
+          "name": "property_TroopDefenseVsPlayer_gear",
+          "progression": "prog_gear_event3_TroopDefenseVsPlayer_40"
+        }
+      ]
+    },
+    {
+      "id": "7a24d55b89245217",
+      "name": "eq_events_artstub_40_helmet_lord40",
+      "stats": [
+        {
+          "name": "property_MarcherInfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_MarcherInfantryAttackVsPlayer_40"
+        },
+        {
+          "name": "property_MarchingSpeed_gear",
+          "progression": "prog_gear_event3_MarchingSpeed_40"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event3.5_MaxMarchSize_40"
+        },
+        {
+          "name": "property_RalliedTroopCapacity_gear",
+          "progression": "prog_gear_event3_RalliedTroopCapacity_40"
+        },
+        {
+          "name": "property_MarchingSpeedJoinRally_gear",
+          "progression": "prog_gear_event3.5_MarchingSpeedJoinRally_40"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_InfantryAttackVsPlayer_40"
+        }
+      ]
+    },
+    {
+      "id": "460f1742a1514046",
+      "name": "eq_events_artstub_40_pants_lord40",
+      "stats": [
+        {
+          "name": "property_RalliedTroopCapacity_gear",
+          "progression": "prog_gear_event3_RalliedTroopCapacity_40"
+        },
+        {
+          "name": "property_MarchingSpeed_gear",
+          "progression": "prog_gear_event3_MarchingSpeed_40"
+        },
+        {
+          "name": "property_MarcherInfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event3.5_MarcherInfantryAttackVsPlayer_40"
+        },
+        {
+          "name": "property_MarcherInfantryHealthVsPlayer_gear",
+          "progression": "prog_gear_event3_MarcherInfantryHealthVsPlayer_40"
+        },
+        {
+          "name": "property_MarchingSpeedJoinRally_gear",
+          "progression": "prog_gear_event3.5_MarchingSpeedJoinRally_40"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_event3_MaxMarchSize_40"
+        }
+      ]
+    },
+    {
+      "id": "4446497e775680d5",
+      "name": "eq_events_artstub_40_ring_lord40",
+      "stats": [
+        {
+          "name": "property_TroopHealthVsPlayer_gear",
+          "progression": "prog_gear_event3_TroopHealthVsPlayer_40"
+        },
+        {
+          "name": "property_MarcherRangedAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_MarcherRangedAttackVsPlayer_40"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event3.5_MaxMarchSize_40"
+        },
+        {
+          "name": "property_RangedAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_RangedAttackVsPlayer_40"
+        },
+        {
+          "name": "property_MarchingSpeedJoinRally_gear",
+          "progression": "prog_gear_event3.5_MarchingSpeedJoinRally_40"
+        },
+        {
+          "name": "property_RalliedTroopCapacity_gear",
+          "progression": "prog_gear_event3_RalliedTroopCapacity_40"
+        }
+      ]
+    },
+    {
+      "id": "c11cd3858391fc35",
+      "name": "eq_events_artstub_40_weapon_lord40",
+      "stats": [
+        {
+          "name": "property_MarcherCavalryAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_MarcherCavalryAttackVsPlayer_40"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_event3_MaxMarchSize_40"
+        },
+        {
+          "name": "property_RalliedTroopCapacity_gear",
+          "progression": "prog_gear_Event3.5_RalliedTroopCapacity_40"
+        },
+        {
+          "name": "property_MarchingSpeed_gear",
+          "progression": "prog_gear_event3_MarchingSpeed_40"
+        },
+        {
+          "name": "property_MarchingSpeedJoinRally_gear",
+          "progression": "prog_gear_event3.5_MarchingSpeedJoinRally_40"
+        },
+        {
+          "name": "property_MarcherCavalryDefenseVsPlayer_gear",
+          "progression": "prog_gear_event3_MarcherCavalryDefenseVsPlayer_40"
+        }
+      ]
+    },
+    {
+      "id": "5b08fd65a3f0dae7",
+      "name": "eq_events_artstub_45_boots_lord45",
+      "stats": [
+        {
+          "name": "property_MarcherRangedAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_MarcherRangedAttackVsPlayer_45"
+        },
+        {
+          "name": "property_TroopAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_TroopAttackVsPlayer_45"
+        },
+        {
+          "name": "property_RalliedTroopCapacity_gear",
+          "progression": "prog_gear_Event3.5_RalliedTroopCapacity_45"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_event3_MaxMarchSize_45"
+        },
+        {
+          "name": "property_MarchingSpeedJoinRally_gear",
+          "progression": "prog_gear_event3.5_MarchingSpeedJoinRally_45"
+        },
+        {
+          "name": "property_MarcherRangedHealthVsPlayer_gear",
+          "progression": "prog_gear_event3_MarcherRangedHealthVsPlayer_45"
+        }
+      ]
+    },
+    {
+      "id": "1442788df474a157",
+      "name": "eq_events_artstub_45_chest_lord45",
+      "stats": [
+        {
+          "name": "property_TroopAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_TroopAttackVsPlayer_45"
+        },
+        {
+          "name": "property_RalliedTroopCapacity_gear",
+          "progression": "prog_gear_event3_RalliedTroopCapacity_45"
+        },
+        {
+          "name": "property_MarcherCavalryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event3.5_MarcherCavalryAttackVsPlayer_45"
+        },
+        {
+          "name": "property_CavalryAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_CavalryAttackVsPlayer_45"
+        },
+        {
+          "name": "property_MarchingSpeedJoinRally_gear",
+          "progression": "prog_gear_event3.5_MarchingSpeedJoinRally_45"
+        },
+        {
+          "name": "property_TroopDefenseVsPlayer_gear",
+          "progression": "prog_gear_event3_TroopDefenseVsPlayer_45"
+        }
+      ]
+    },
+    {
+      "id": "4dee92c36ee7e472",
+      "name": "eq_events_artstub_45_helmet_lord45",
+      "stats": [
+        {
+          "name": "property_MarcherInfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_MarcherInfantryAttackVsPlayer_45"
+        },
+        {
+          "name": "property_MarchingSpeed_gear",
+          "progression": "prog_gear_event3_MarchingSpeed_45"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event3.5_MaxMarchSize_45"
+        },
+        {
+          "name": "property_RalliedTroopCapacity_gear",
+          "progression": "prog_gear_event3_RalliedTroopCapacity_45"
+        },
+        {
+          "name": "property_MarchingSpeedJoinRally_gear",
+          "progression": "prog_gear_event3.5_MarchingSpeedJoinRally_45"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_InfantryAttackVsPlayer_45"
+        }
+      ]
+    },
+    {
+      "id": "cc656f905202a5b6",
+      "name": "eq_events_artstub_45_pants_lord45",
+      "stats": [
+        {
+          "name": "property_RalliedTroopCapacity_gear",
+          "progression": "prog_gear_event3_RalliedTroopCapacity_45"
+        },
+        {
+          "name": "property_MarchingSpeed_gear",
+          "progression": "prog_gear_event3_MarchingSpeed_45"
+        },
+        {
+          "name": "property_MarcherInfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event3.5_MarcherInfantryAttackVsPlayer_45"
+        },
+        {
+          "name": "property_MarcherInfantryHealthVsPlayer_gear",
+          "progression": "prog_gear_event3_MarcherInfantryHealthVsPlayer_45"
+        },
+        {
+          "name": "property_MarchingSpeedJoinRally_gear",
+          "progression": "prog_gear_event3.5_MarchingSpeedJoinRally_45"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_event3_MaxMarchSize_45"
+        }
+      ]
+    },
+    {
+      "id": "3b213450ce9ab004",
+      "name": "eq_events_artstub_45_ring_lord45",
+      "stats": [
+        {
+          "name": "property_TroopHealthVsPlayer_gear",
+          "progression": "prog_gear_event3_TroopHealthVsPlayer_45"
+        },
+        {
+          "name": "property_MarcherRangedAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_MarcherRangedAttackVsPlayer_45"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event3.5_MaxMarchSize_45"
+        },
+        {
+          "name": "property_RangedAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_RangedAttackVsPlayer_45"
+        },
+        {
+          "name": "property_MarchingSpeedJoinRally_gear",
+          "progression": "prog_gear_event3.5_MarchingSpeedJoinRally_45"
+        },
+        {
+          "name": "property_RalliedTroopCapacity_gear",
+          "progression": "prog_gear_event3_RalliedTroopCapacity_45"
+        }
+      ]
+    },
+    {
+      "id": "f6d6941d64524a50",
+      "name": "eq_events_artstub_45_weapon_lord45",
+      "stats": [
+        {
+          "name": "property_MarcherCavalryAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_MarcherCavalryAttackVsPlayer_45"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_event3_MaxMarchSize_45"
+        },
+        {
+          "name": "property_RalliedTroopCapacity_gear",
+          "progression": "prog_gear_Event3.5_RalliedTroopCapacity_45"
+        },
+        {
+          "name": "property_MarchingSpeed_gear",
+          "progression": "prog_gear_event3_MarchingSpeed_45"
+        },
+        {
+          "name": "property_MarchingSpeedJoinRally_gear",
+          "progression": "prog_gear_event3.5_MarchingSpeedJoinRally_45"
+        },
+        {
+          "name": "property_MarcherCavalryDefenseVsPlayer_gear",
+          "progression": "prog_gear_event3_MarcherCavalryDefenseVsPlayer_45"
+        }
+      ]
+    },
+    {
+      "id": "83cb7e7cf8bd611",
+      "name": "eq_events_artstub_50_boots_lord50",
+      "stats": [
+        {
+          "name": "property_MarcherRangedAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_MarcherRangedAttackVsPlayer_50"
+        },
+        {
+          "name": "property_TroopAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_TroopAttackVsPlayer_50"
+        },
+        {
+          "name": "property_RalliedTroopCapacity_gear",
+          "progression": "prog_gear_Event3.5_RalliedTroopCapacity_50"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_event3_MaxMarchSize_50"
+        },
+        {
+          "name": "property_MarchingSpeedJoinRally_gear",
+          "progression": "prog_gear_Event3.5_MarchingSpeedJoinRally_50"
+        },
+        {
+          "name": "property_MarcherRangedHealthVsPlayer_gear",
+          "progression": "prog_gear_event3_MarcherRangedHealthVsPlayer_50"
+        }
+      ]
+    },
+    {
+      "id": "4776320f980fada1",
+      "name": "eq_events_artstub_50_chest_lord50",
+      "stats": [
+        {
+          "name": "property_TroopAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_TroopAttackVsPlayer_50"
+        },
+        {
+          "name": "property_RalliedTroopCapacity_gear",
+          "progression": "prog_gear_event3_RalliedTroopCapacity_50"
+        },
+        {
+          "name": "property_MarcherCavalryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event3.5_MarcherCavalryAttackVsPlayer_50"
+        },
+        {
+          "name": "property_CavalryAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_CavalryAttackVsPlayer_50"
+        },
+        {
+          "name": "property_MarchingSpeedJoinRally_gear",
+          "progression": "prog_gear_Event3.5_MarchingSpeedJoinRally_50"
+        },
+        {
+          "name": "property_TroopDefenseVsPlayer_gear",
+          "progression": "prog_gear_event3_TroopDefenseVsPlayer_50"
+        }
+      ]
+    },
+    {
+      "id": "593534ffce185e02",
+      "name": "eq_events_artstub_50_helmet_lord50",
+      "stats": [
+        {
+          "name": "property_MarcherInfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_MarcherInfantryAttackVsPlayer_50"
+        },
+        {
+          "name": "property_MarchingSpeed_gear",
+          "progression": "prog_gear_event3_MarchingSpeed_50"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event3.5_MaxMarchSize_50"
+        },
+        {
+          "name": "property_RalliedTroopCapacity_gear",
+          "progression": "prog_gear_event3_RalliedTroopCapacity_50"
+        },
+        {
+          "name": "property_MarchingSpeedJoinRally_gear",
+          "progression": "prog_gear_Event3.5_MarchingSpeedJoinRally_50"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_InfantryAttackVsPlayer_50"
+        }
+      ]
+    },
+    {
+      "id": "9f5125123e79a940",
+      "name": "eq_events_artstub_50_pants_lord50",
+      "stats": [
+        {
+          "name": "property_RalliedTroopCapacity_gear",
+          "progression": "prog_gear_event3_RalliedTroopCapacity_50"
+        },
+        {
+          "name": "property_MarchingSpeed_gear",
+          "progression": "prog_gear_event3_MarchingSpeed_50"
+        },
+        {
+          "name": "property_MarcherInfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event3.5_MarcherInfantryAttackVsPlayer_50"
+        },
+        {
+          "name": "property_MarcherInfantryHealthVsPlayer_gear",
+          "progression": "prog_gear_event3_MarcherInfantryHealthVsPlayer_50"
+        },
+        {
+          "name": "property_MarchingSpeedJoinRally_gear",
+          "progression": "prog_gear_Event3.5_MarchingSpeedJoinRally_50"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_event3_MaxMarchSize_50"
+        }
+      ]
+    },
+    {
+      "id": "4523a3f13cbd00ec",
+      "name": "eq_events_artstub_50_ring_lord50",
+      "stats": [
+        {
+          "name": "property_TroopHealthVsPlayer_gear",
+          "progression": "prog_gear_event3_TroopHealthVsPlayer_50"
+        },
+        {
+          "name": "property_MarcherRangedAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_MarcherRangedAttackVsPlayer_50"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event3.5_MaxMarchSize_50"
+        },
+        {
+          "name": "property_RangedAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_RangedAttackVsPlayer_50"
+        },
+        {
+          "name": "property_MarchingSpeedJoinRally_gear",
+          "progression": "prog_gear_Event3.5_MarchingSpeedJoinRally_50"
+        },
+        {
+          "name": "property_RalliedTroopCapacity_gear",
+          "progression": "prog_gear_event3_RalliedTroopCapacity_50"
+        }
+      ]
+    },
+    {
+      "id": "e20d3221c4adf020",
+      "name": "eq_events_artstub_50_weapon_lord50",
+      "stats": [
+        {
+          "name": "property_MarcherCavalryAttackVsPlayer_gear",
+          "progression": "prog_gear_event3_MarcherCavalryAttackVsPlayer_50"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_event3_MaxMarchSize_50"
+        },
+        {
+          "name": "property_RalliedTroopCapacity_gear",
+          "progression": "prog_gear_Event3.5_RalliedTroopCapacity_50"
+        },
+        {
+          "name": "property_MarchingSpeed_gear",
+          "progression": "prog_gear_event3_MarchingSpeed_50"
+        },
+        {
+          "name": "property_MarchingSpeedJoinRally_gear",
+          "progression": "prog_gear_Event3.5_MarchingSpeedJoinRally_50"
+        },
+        {
+          "name": "property_MarcherCavalryDefenseVsPlayer_gear",
+          "progression": "prog_gear_event3_MarcherCavalryDefenseVsPlayer_50"
+        }
+      ]
+    },
+    {
       "id": "c0c40976cc43639",
       "name": "eq_events_aftermath_5_boots_lord5",
       "stats": [

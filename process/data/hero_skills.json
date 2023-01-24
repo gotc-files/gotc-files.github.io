@@ -4136,6 +4136,126 @@
       "skill_type": "COUNCIL",
       "stat_name": "property_RangedAttackVsPlayer_hero",
       "unlock_level": 0
+    },
+    {
+      "id": "343ca36e9b261991",
+      "name": "heroskill_visgen_hero_mythic_artstub_3",
+      "skill_type": "COUNCIL",
+      "star_skill_value": 1.22399997711182,
+      "stat_name": "property_TrainingSpeed_hero",
+      "unlock_level": 10
+    },
+    {
+      "id": "f2e9d11f9f9eac77",
+      "name": "heroskill_visgen_hero_mythic_artstub_4",
+      "skill_type": "COUNCIL",
+      "star_skill_value": 0.458999991416931,
+      "stat_name": "property_MarchSpeedVsPlayer_hero",
+      "unlock_level": 20
+    },
+    {
+      "id": "de181ab928cdfd8d",
+      "name": "heroskill_visgen_hero_mythic_artstub_5",
+      "skill_type": "COUNCIL",
+      "star_skill_value": 0.305999994277954,
+      "stat_name": "property_DragonInfantryDefense_hero",
+      "unlock_level": 30
+    },
+    {
+      "id": "ab0a4652f1380f83",
+      "name": "heroskill_visgen_hero_mythic_artstub_6",
+      "skill_type": "COUNCIL",
+      "star_skill_value": 0.35699999332428,
+      "stat_name": "property_MarcherInfantryAttackVsPlayer_hero",
+      "unlock_level": 40
+    },
+    {
+      "id": "87fb8df4466b5e79",
+      "name": "heroskill_visgen_hero_mythic_artstub_7",
+      "skill_type": "COUNCIL",
+      "star_skill_value": 0.305999994277954,
+      "stat_name": "property_InfantryAttackVsSeatOfPower_hero",
+      "unlock_level": 50
+    },
+    {
+      "id": "a41ae0c5b1e62b64",
+      "name": "heroskill_visgen_hero_mythic_artstub_8",
+      "skill_type": "COUNCIL",
+      "star_skill_value": 0.305999994277954,
+      "stat_name": "property_RangedAttackVsPlayersRanged_hero",
+      "unlock_level": 60
+    },
+    {
+      "id": "6ddf3423f580ba65",
+      "name": "heroskill_visgen_hero_mythic_artstub_1",
+      "signature_skill_progression_name": "heropropertyprog_visgen_hero_mythic_artstub_1",
+      "skill_type": "MARCH",
+      "stat_name": "driven_MaxMarchSize",
+      "unlock_level": 0
+    },
+    {
+      "id": "18cd68c82c75486b",
+      "name": "heroskill_visgen_hero_mythic_artstub_2",
+      "signature_skill_progression_name": "heropropertyprog_visgen_hero_mythic_artstub_2",
+      "skill_type": "COUNCIL",
+      "stat_name": "property_RangedHealthVsPlayer_hero",
+      "unlock_level": 0
+    },
+    {
+      "id": "abc56d8c997971bc",
+      "name": "heroskill_visgen_hero_heroic_artstub_3",
+      "skill_type": "COUNCIL",
+      "star_skill_value": 0.244800001382828,
+      "stat_name": "property_DragonCavalryHealth_hero",
+      "unlock_level": 10
+    },
+    {
+      "id": "6d101ffd9dc1c45a",
+      "name": "heroskill_visgen_hero_heroic_artstub_4",
+      "skill_type": "COUNCIL",
+      "star_skill_value": 1836.0,
+      "stat_name": "property_MarchSizeVsPlayer_hero",
+      "unlock_level": 20
+    },
+    {
+      "id": "41e1d45b2a9295a0",
+      "name": "heroskill_visgen_hero_heroic_artstub_5",
+      "skill_type": "COUNCIL",
+      "star_skill_value": 0.244800001382828,
+      "stat_name": "property_CavalryHealthVsPlayer_hero",
+      "unlock_level": 30
+    },
+    {
+      "id": "34f388b0f36767ae",
+      "name": "heroskill_visgen_hero_heroic_artstub_6",
+      "skill_type": "COUNCIL",
+      "star_skill_value": 0.244800001382828,
+      "stat_name": "property_InfantryAttackVsPlayersInfantry_hero",
+      "unlock_level": 40
+    },
+    {
+      "id": "1802431644343654",
+      "name": "heroskill_visgen_hero_heroic_artstub_7",
+      "skill_type": "COUNCIL",
+      "star_skill_value": 0.244800001382828,
+      "stat_name": "property_RangedHealthVsPlayerSeatOfPower_hero",
+      "unlock_level": 50
+    },
+    {
+      "id": "f226fac1f7dfd248",
+      "name": "heroskill_visgen_hero_heroic_artstub_1",
+      "signature_skill_progression_name": "heropropertyprog_visgen_hero_heroic_artstub_1",
+      "skill_type": "MARCH",
+      "stat_name": "driven_MaxMarchSize",
+      "unlock_level": 0
+    },
+    {
+      "id": "8734a62a2e2a2046",
+      "name": "heroskill_visgen_hero_heroic_artstub_2",
+      "signature_skill_progression_name": "heropropertyprog_visgen_hero_heroic_artstub_2",
+      "skill_type": "COUNCIL",
+      "stat_name": "property_InfantryDefenseVsPlayer_hero",
+      "unlock_level": 0
     }
   ]
 }

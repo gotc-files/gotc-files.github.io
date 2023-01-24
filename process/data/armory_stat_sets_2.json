@@ -2,6 +2,36 @@
   "description": "Sets of stats with names and progression",
   "values": [
     {
+      "id": "2328c9edffe96311",
+      "name": "armcol_events_artstub_1",
+      "stats": [
+        {
+          "name": "property_MarchingSpeedJoinRally_armory",
+          "progression": "prog_armory_bonus_SpecificTroop_1"
+        }
+      ]
+    },
+    {
+      "id": "563a9506261c911f",
+      "name": "armcol_events_artstub_2",
+      "stats": [
+        {
+          "name": "property_RalliedTroopCapacity_armory",
+          "progression": "prog_armory_bonus_RallySize_1"
+        }
+      ]
+    },
+    {
+      "id": "7acb5ea0914fc0e5",
+      "name": "armcol_events_artstub_3",
+      "stats": [
+        {
+          "name": "property_MaxMarchSize_armory",
+          "progression": "prog_armory_bonus_MarchSize_1"
+        }
+      ]
+    },
+    {
       "id": "748437cd2d4892a9",
       "name": "armcol_events_aftermath_1",
       "stats": [

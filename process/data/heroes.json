@@ -1883,6 +1883,59 @@
         "herotrait_stark"
       ],
       "xp_progression_name": "prog_heroxp_heroic"
+    },
+    {
+      "description_placeholder": "HERO_MYTHIC_ARTSTUB_DESC",
+      "event_score_progression_name": "prog_hero_eventscore_mythic_1",
+      "id": "742524901e45b488",
+      "max_stars": 6,
+      "name": "hero_mythic_artstub",
+      "name_placeholder": "HERO_MYTHIC_ARTSTUB_NAME",
+      "oath_progression_name": "prog_hero_adv_stones_cost_mythic_1",
+      "rarity": 4,
+      "relic_name": "item_hero_adv_mythic_artstub_1",
+      "relic_progression_name": "prog_shardcost_mythic",
+      "skills": [
+        "heroskill_visgen_hero_mythic_artstub_3",
+        "heroskill_visgen_hero_mythic_artstub_4",
+        "heroskill_visgen_hero_mythic_artstub_5",
+        "heroskill_visgen_hero_mythic_artstub_6",
+        "heroskill_visgen_hero_mythic_artstub_7",
+        "heroskill_visgen_hero_mythic_artstub_8",
+        "heroskill_visgen_hero_mythic_artstub_1",
+        "heroskill_visgen_hero_mythic_artstub_2"
+      ],
+      "traits": [
+        "herotrait_lordcommander",
+        "herotrait_facelessmen"
+      ],
+      "xp_progression_name": "prog_heroxp_mythic"
+    },
+    {
+      "description_placeholder": "HERO_HEROIC_ARTSTUB_DESC",
+      "event_score_progression_name": "prog_hero_eventscore_heroic_1",
+      "id": "90c6a34020568c2d",
+      "max_stars": 5,
+      "name": "hero_heroic_artstub",
+      "name_placeholder": "HERO_HEROIC_ARTSTUB_NAME",
+      "oath_progression_name": "prog_hero_adv_stones_cost_heroic_1",
+      "rarity": 3,
+      "relic_name": "item_hero_adv_heroic_artstub_1",
+      "relic_progression_name": "prog_shardcost_heroic",
+      "skills": [
+        "heroskill_visgen_hero_heroic_artstub_3",
+        "heroskill_visgen_hero_heroic_artstub_4",
+        "heroskill_visgen_hero_heroic_artstub_5",
+        "heroskill_visgen_hero_heroic_artstub_6",
+        "heroskill_visgen_hero_heroic_artstub_7",
+        "heroskill_visgen_hero_heroic_artstub_1",
+        "heroskill_visgen_hero_heroic_artstub_2"
+      ],
+      "traits": [
+        "herotrait_hand",
+        "herotrait_martell"
+      ],
+      "xp_progression_name": "prog_heroxp_heroic"
     }
   ]
 }

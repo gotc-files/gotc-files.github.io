@@ -3,6 +3,18 @@
   "values": [
     {
       "bonuses": [
+        "armcol_events_artstub_1",
+        "armcol_events_artstub_2",
+        "armcol_events_artstub_3"
+      ],
+      "gear_set_name": "gearset_events_artstub",
+      "id": "6108ee20709d3f56",
+      "name": "armcol_events_artstub",
+      "name_placeholder": "EQ_EVENTS_ARTSTUB_SET_NAME",
+      "priority": 300
+    },
+    {
+      "bonuses": [
         "armcol_events_Aftermath_1",
         "armcol_events_Aftermath_2",
         "armcol_events_Aftermath_3"
@@ -11,7 +23,7 @@
       "id": "ef12b50a186692b7",
       "name": "armcol_events_Aftermath",
       "name_placeholder": "EQ_EVENTS_AFTERMATH_SET_NAME",
-      "priority": 300
+      "priority": 900
     },
     {
       "bonuses": [
@@ -23,7 +35,7 @@
       "id": "ed3d93ca1396ceb1",
       "name": "armcol_events_FalconKnight",
       "name_placeholder": "EQ_EVENTS_FALCONKNIGHT_SET_NAME",
-      "priority": 900
+      "priority": 1500
     },
     {
       "bonuses": [
@@ -35,7 +47,7 @@
       "id": "8d838d7dd3e78e0f",
       "name": "armcol_events_Foundations",
       "name_placeholder": "EQ_EVENTS_FOUNDATIONS_SET_NAME",
-      "priority": 1500
+      "priority": 2100
     },
     {
       "bonuses": [
@@ -47,7 +59,7 @@
       "id": "f61772d1b88af65f",
       "name": "armcol_events_Kingsguard",
       "name_placeholder": "EQ_EVENTS_KINGSGUARD_SET_NAME",
-      "priority": 2100
+      "priority": 2700
     },
     {
       "bonuses": [
@@ -59,7 +71,7 @@
       "id": "fdb39850623f8ee5",
       "name": "armcol_events_Conqueror",
       "name_placeholder": "EQ_EVENTS_CONQUEROR_SET_NAME",
-      "priority": 2700
+      "priority": 3300
     },
     {
       "bonuses": [
@@ -71,7 +83,7 @@
       "id": "8ca495f23a35937f",
       "name": "armcol_events_Tyrell",
       "name_placeholder": "EQ_EVENTS_TYRELL_SET_NAME",
-      "priority": 3300
+      "priority": 3900
     },
     {
       "bonuses": [
@@ -83,7 +95,7 @@
       "id": "84c45a6c4eb108d3",
       "name": "armcol_events_Baelish",
       "name_placeholder": "EQ_EVENTS_BAELISH_SET_NAME",
-      "priority": 3900
+      "priority": 4500
     },
     {
       "bonuses": [
@@ -95,7 +107,7 @@
       "id": "49f01d195f103882",
       "name": "armcol_events_PurpleWedding",
       "name_placeholder": "EQ_EVENTS_PURPLEWEDDING_SET_NAME",
-      "priority": 4500
+      "priority": 5100
     },
     {
       "bonuses": [
@@ -107,7 +119,7 @@
       "id": "6501821e95c67ff2",
       "name": "armcol_events_faceless",
       "name_placeholder": "EQ_EVENTS_FACELESS_SET_NAME",
-      "priority": 5100
+      "priority": 5700
     },
     {
       "bonuses": [
@@ -119,7 +131,7 @@
       "id": "257b0b06d9c2c0b6",
       "name": "armcol_events_dragonkeeper",
       "name_placeholder": "EQ_EVENTS_DRAGONKEEPER_SET_NAME",
-      "priority": 5700
+      "priority": 6300
     },
     {
       "bonuses": [
@@ -131,7 +143,7 @@
       "id": "ceef1b7d4278a614",
       "name": "armcol_events_brothers",
       "name_placeholder": "EQ_EVENTS_BROTHERS_SET_NAME",
-      "priority": 6300
+      "priority": 6900
     },
     {
       "bonuses": [
@@ -143,7 +155,7 @@
       "id": "80f9c36e550d03b0",
       "name": "armcol_events_tyrion",
       "name_placeholder": "EQ_EVENTS_TYRION_SET_NAME",
-      "priority": 6900
+      "priority": 7500
     },
     {
       "bonuses": [
@@ -155,7 +167,7 @@
       "id": "f34427bdf08e8735",
       "name": "armcol_events_baratheon",
       "name_placeholder": "EQ_EVENTS_BARATHEON_SET_NAME",
-      "priority": 7500
+      "priority": 8100
     },
     {
       "bonuses": [
@@ -167,7 +179,7 @@
       "id": "a01becd2448e40f9",
       "name": "armcol_events_martell",
       "name_placeholder": "EQ_EVENTS_MARTELL_SET_NAME",
-      "priority": 8100
+      "priority": 8700
     },
     {
       "bonuses": [
@@ -179,7 +191,7 @@
       "id": "93ab014c5868321a",
       "name": "armcol_events_oldnan",
       "name_placeholder": "EQ_EVENTS_OLDNAN_SET_NAME",
-      "priority": 8700
+      "priority": 9300
     },
     {
       "bonuses": [
@@ -191,7 +203,7 @@
       "id": "8185c3bc8da9a73",
       "name": "armcol_events_rattleshirt",
       "name_placeholder": "EQ_EVENTS_RATTLESHIRT_SET_NAME",
-      "priority": 9300
+      "priority": 9900
     },
     {
       "bonuses": [
@@ -203,7 +215,7 @@
       "id": "e4c751665af0d314",
       "name": "armcol_events_conquest2",
       "name_placeholder": "EQ_EVENTS_CONQUEST2_SET_NAME",
-      "priority": 9900
+      "priority": 10500
     },
     {
       "bonuses": [
@@ -215,7 +227,7 @@
       "id": "bcdfd4c1c1c7a91a",
       "name": "armcol_events_hound",
       "name_placeholder": "EQ_EVENTS_HOUND_SET_NAME",
-      "priority": 10500
+      "priority": 11100
     },
     {
       "bonuses": [
@@ -227,7 +239,7 @@
       "id": "d8bf81059fd0aa90",
       "name": "armcol_events_queenlb",
       "name_placeholder": "EQ_EVENTS_QUEENLB_SET_NAME",
-      "priority": 11100
+      "priority": 11700
     },
     {
       "bonuses": [
@@ -239,7 +251,7 @@
       "id": "4a84572f2407f072",
       "name": "armcol_events_rhllor",
       "name_placeholder": "EQ_EVENTS_RHLLOR_SET_NAME",
-      "priority": 11700
+      "priority": 12300
     },
     {
       "bonuses": [
@@ -251,7 +263,7 @@
       "id": "fe47d96644b1e29",
       "name": "armcol_events_ironann",
       "name_placeholder": "EQ_EVENTS_IRONANN_SET_NAME",
-      "priority": 12300
+      "priority": 12900
     },
     {
       "bonuses": [
@@ -263,7 +275,7 @@
       "id": "9fff5bf2048970a6",
       "name": "armcol_events_cersei",
       "name_placeholder": "EQ_EVENTS_CERSEI_SET_NAME",
-      "priority": 12900
+      "priority": 13500
     },
     {
       "bonuses": [
@@ -275,7 +287,7 @@
       "id": "f6eac71b6f87e189",
       "name": "armcol_events_kingsmoot",
       "name_placeholder": "EQ_EVENTS_KINGSMOOT_SET_NAME",
-      "priority": 13500
+      "priority": 14100
     },
     {
       "bonuses": [
@@ -287,7 +299,7 @@
       "id": "7edee3f5dd414656",
       "name": "armcol_events_freedom",
       "name_placeholder": "EQ_EVENTS_FREEDOM_SET_NAME",
-      "priority": 14100
+      "priority": 14700
     },
     {
       "bonuses": [
@@ -299,7 +311,7 @@
       "id": "dd0b73bbfa901914",
       "name": "armcol_events_dawn",
       "name_placeholder": "EQ_EVENTS_DAWN_SET_NAME",
-      "priority": 14700
+      "priority": 15300
     },
     {
       "bonuses": [
@@ -311,7 +323,7 @@
       "id": "ff529c388cde91c6",
       "name": "armcol_events_stark",
       "name_placeholder": "EQ_EVENTS_STARK_SET_NAME",
-      "priority": 15300
+      "priority": 15900
     },
     {
       "bonuses": [
@@ -323,7 +335,7 @@
       "id": "58f2860e57b76489",
       "name": "armcol_events_oldnan3",
       "name_placeholder": "EQ_EVENTS_OLDNAN3_SET_NAME",
-      "priority": 15900
+      "priority": 16500
     },
     {
       "bonuses": [
@@ -335,7 +347,7 @@
       "id": "86159f26327d6cd1",
       "name": "armcol_events_harvest",
       "name_placeholder": "EQ_EVENTS_HARVEST_SET_NAME",
-      "priority": 16500
+      "priority": 17100
     },
     {
       "bonuses": [
@@ -347,7 +359,7 @@
       "id": "991cdb15077dbd4c",
       "name": "armcol_events_yara",
       "name_placeholder": "EQ_EVENTS_YARA_SET_NAME",
-      "priority": 17100
+      "priority": 17700
     },
     {
       "bonuses": [
@@ -359,7 +371,7 @@
       "id": "e69baa93cf3c1f80",
       "name": "armcol_events_harrenhal2",
       "name_placeholder": "EQ_EVENTS_HARRENHAL2_SET_NAME",
-      "priority": 17700
+      "priority": 18300
     },
     {
       "bonuses": [
@@ -371,7 +383,7 @@
       "id": "315e0cd26f379e89",
       "name": "armcol_events_oldtown",
       "name_placeholder": "EQ_EVENTS_OLDTOWN_SET_NAME",
-      "priority": 18300
+      "priority": 18900
     },
     {
       "bonuses": [
@@ -383,7 +395,7 @@
       "id": "16e677a949b37c11",
       "name": "armcol_events_artofcombat",
       "name_placeholder": "EQ_EVENTS_ARTOFCOMBAT_SET_NAME",
-      "priority": 18900
+      "priority": 19500
     },
     {
       "bonuses": [
@@ -395,7 +407,7 @@
       "id": "fde59ac88ee95b56",
       "name": "armcol_events_maygearset",
       "name_placeholder": "EQ_EVENTS_MAYGEARSET_SET_NAME",
-      "priority": 19500
+      "priority": 20100
     },
     {
       "bonuses": [
@@ -407,7 +419,7 @@
       "id": "d731bd3baef2d9c5",
       "name": "armcol_events_deadwalk",
       "name_placeholder": "EQ_EVENTS_DEADWALK_SET_NAME",
-      "priority": 20100
+      "priority": 20700
     },
     {
       "bonuses": [
@@ -419,7 +431,7 @@
       "id": "c6263656b9483b61",
       "name": "armcol_events_baratheon2",
       "name_placeholder": "EQ_EVENTS_BARATHEON2_SET_NAME",
-      "priority": 20700
+      "priority": 21300
     },
     {
       "bonuses": [
@@ -431,7 +443,7 @@
       "id": "323a7a6e39823a60",
       "name": "armcol_events_ironbank",
       "name_placeholder": "EQ_EVENTS_IRONBANK_SET_NAME",
-      "priority": 21300
+      "priority": 21900
     },
     {
       "bonuses": [
@@ -443,7 +455,7 @@
       "id": "fb17ee47aa943c1d",
       "name": "armcol_events_motherofdragons2",
       "name_placeholder": "EQ_EVENTS_MOTHEROFDRAGONS2_SET_NAME",
-      "priority": 21900
+      "priority": 22500
     },
     {
       "bonuses": [
@@ -455,7 +467,7 @@
       "id": "70628e6fa4c43cd7",
       "name": "armcol_events_bookofconquest",
       "name_placeholder": "EQ_EVENTS_BOOKOFCONQUEST_SET_NAME",
-      "priority": 22500
+      "priority": 23100
     },
     {
       "bonuses": [
@@ -467,7 +479,7 @@
       "id": "849e2000f225c112",
       "name": "armcol_events_harvest2",
       "name_placeholder": "EQ_EVENTS_HARVEST2_SET_NAME",
-      "priority": 23100
+      "priority": 23700
     },
     {
       "bonuses": [
@@ -479,7 +491,7 @@
       "id": "221223175e4866f2",
       "name": "armcol_events_conquest5",
       "name_placeholder": "EQ_EVENTS_CONQUEST5_SET_NAME",
-      "priority": 23700
+      "priority": 24300
     },
     {
       "bonuses": [
@@ -491,7 +503,7 @@
       "id": "4cc4b9c709183997",
       "name": "armcol_events_summerhall",
       "name_placeholder": "EQ_EVENTS_SUMMERHALL_SET_NAME",
-      "priority": 24300
+      "priority": 24900
     },
     {
       "bonuses": [
@@ -503,7 +515,7 @@
       "id": "ca6a6135786f4e7a",
       "name": "armcol_events_harrenhal3",
       "name_placeholder": "EQ_EVENTS_HARRENHAL3_SET_NAME",
-      "priority": 24900
+      "priority": 25500
     }
   ]
 }
