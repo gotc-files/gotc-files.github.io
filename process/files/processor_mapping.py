@@ -475,6 +475,7 @@ FILE_PROCESSOR_MAPPING_CONFIG = {
     ("TroopTable", "pb", "troops", TroopsProcessor),
     ("PropertyTable", ("pb", "json"), "properties", PropertiesProcessor),
     ("enUS", "txt", "translations", TranslationsProcessor),
+    ("Deltas_enUS", "txt", "translations_delta", TranslationsProcessor),
 }
 
 

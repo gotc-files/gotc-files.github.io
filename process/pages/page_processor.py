@@ -7,11 +7,13 @@ class PageProcessor:
         self.data_manager = data_manager
 
     def translate(self, key):
-        translation = self.lookup_file('translations', 'name', key)
-        return translation if translation else 'n:%s' % key
+        translation = self.lookup_files(
+            ["translations", "translations_delta"], "name", key
+        )
+        return translation if translation else "n:%s" % key
 
     def try_translate(self, key):
-        return self.lookup_file('translations', 'name', key)
+        return self.lookup_files(["translations", "translations_delta"], "name", key)
 
     def lookup_file(self, file_id, key_name, key):
         return self.lookup_files([file_id], key_name, key)
