@@ -86,8 +86,36 @@
       "value": "Level up Young Ned, Tyrion, Varys and Sansa!"
     },
     {
+      "name": "ACTIVITY_DESCRIPTION_MTX_HEROES_133",
+      "value": "Accelerate Rhaegal's growth with this pack!"
+    },
+    {
+      "name": "ACTIVITY_DESCRIPTION_MTX_HEROES_134",
+      "value": "Level up Rhaegal, Margaery, Theon and Yara!"
+    },
+    {
+      "name": "ACTIVITY_DESCRIPTION_MTX_HEROES_135",
+      "value": "Level up Night King, Benjen, Three-Eyed Raven and Leaf!"
+    },
+    {
+      "name": "ACTIVITY_DESCRIPTION_MTX_HEROES_136",
+      "value": "Level up Barristan, Walder, Cersei and Tycho!"
+    },
+    {
+      "name": "ACTIVITY_DESCRIPTION_MTX_HEROES_137",
+      "value": "Level up Jon Snow, Qyburn, Jaime and Tyrion!"
+    },
+    {
       "name": "ACTIVITY_DESCRIPTION_NIGHTKING_NARRATIVE_1",
       "value": "Thousands of blades defended against the onslaught, and one blade ended it. Death's cold blue eyes are closed.\n\nIn a few days we will release more information about the Battle of Winterfell event, including <<DESCRIBE ANALYTICS HERE>>. Check back soon!\n\nPart of the 'Battle of Winterfell' Event"
+    },
+    {
+      "name": "ACTIVITY_DESCRIPTION_NWM_KOTH_2",
+      "value": "The mutineers are trapped in an unfortified castle with low morale and dwindling supplies. Your allies have given you every possible advantage in this fight. Now is the time to strike!\n\nCapture event-limited Seats of Power to earn points! Eastwatch-by-the-Sea, the Shadow Tower, the Nightfort, and Castle Black will unlock for short windows of time during each Hour of the Wolf round event. To help you capture these Seats of Power, special Boosts are available in the Item Exchange tab of your Inventory. While you hold one of these Seats of Power, you and any Bannermen to whom you assign titles will receive points every minute. Maintain control of your Seat of Power for as long as possible to earn maximum points!\nPart of the 'Night's Watch Mutiny' Event"
+    },
+    {
+      "name": "ACTIVITY_DESCRIPTION_VALENTINES_GEMS_1",
+      "value": "\"Merchants from the Jade Sea have arrived on the shores of Westeros with abundant stores of gold!\n\nCelebrate Valentine's Day with EVEN MORE GOLD! Using Gems to redeem bundles in the Store awards points towards this event.\nIf the purchases made with Gems contain Gold, that Gold will contribute to the progress of the separate Valentines Day Celebration Event. Daily Deliveries and Rewards Passes only award points for initial gold received at the time of purchase. Rewards must be collected before the promotion ends.\""
     },
     {
       "name": "ACTIVITY_DESC_WARFORTHETHRONE_PVP_ST_1",
@@ -166,6 +194,10 @@
       "value": "Missandei Milestone Achievement Pack"
     },
     {
+      "name": "ACTIVITY_NAME_MTX_HEROES_133",
+      "value": "Rhaegal Milestone Achievement Pack"
+    },
+    {
       "name": "ACTIVITY_NAME_WARFORTHETHRONE_PVP_1",
       "value": "War for the Throne: Open War"
     },
@@ -212,6 +244,10 @@
     {
       "name": "ACTIVITY_SPLASH_MTX_HEROES_130",
       "value": "More Missandei Relics!"
+    },
+    {
+      "name": "ACTIVITY_SPLASH_MTX_HEROES_133",
+      "value": "More Rhaegal Relics!"
     },
     {
       "name": "ALCHEMY_RECIPE_EVENT_HARRENHAL3_TROPHY_GENERIC_DESC",
@@ -1390,6 +1426,70 @@
       "value": "Riding Spurs Components"
     },
     {
+      "name": "ITEM_PERSONALGIFT_T1BONUS_SYC_1_NAME",
+      "value": "Stake Your Claim Liege Gift (1)"
+    },
+    {
+      "name": "ITEM_PERSONALGIFT_T1BONUS_SYC_1_SUBJECT",
+      "value": "Stake Your Claim Liege Gift (1)"
+    },
+    {
+      "name": "ITEM_PERSONALGIFT_T1BONUS_SYC_2_NAME",
+      "value": "Stake Your Claim Liege Gift (2)"
+    },
+    {
+      "name": "ITEM_PERSONALGIFT_T1BONUS_SYC_2_SUBJECT",
+      "value": "Stake Your Claim Liege Gift (2)"
+    },
+    {
+      "name": "ITEM_PERSONALGIFT_T1BONUS_SYC_3_NAME",
+      "value": "Stake Your Claim Liege Gift (3)"
+    },
+    {
+      "name": "ITEM_PERSONALGIFT_T1BONUS_SYC_3_SUBJECT",
+      "value": "Stake Your Claim Liege Gift (3)"
+    },
+    {
+      "name": "ITEM_PERSONALGIFT_T1BONUS_SYC_4_NAME",
+      "value": "Stake Your Claim Liege Gift (4)"
+    },
+    {
+      "name": "ITEM_PERSONALGIFT_T1BONUS_SYC_4_SUBJECT",
+      "value": "Stake Your Claim Liege Gift (4)"
+    },
+    {
+      "name": "ITEM_PERSONALGIFT_T1BONUS_SYC_BUILDING_3_BODY",
+      "value": "Your Allegiance performed well in a recent event. Honor your loyal banners with this Personal Gift! Personal Gifts can be sent to another player by tapping the gift icon in their profile.\n\nContents: -1,000 1hr Brick Cost Instant Boost, 500 Braavosi Iron Squares, 2,500 Meereenese Honors, 25,000 Volantene Honors, and 2nd 1d Builder."
+    },
+    {
+      "name": "ITEM_PERSONALGIFT_T1BONUS_SYC_BUILDING_3_DESCRIPTION",
+      "value": "Your Allegiance performed well in a recent event. Honor your loyal banners with this Personal Gift! Personal Gifts can be sent to another player by tapping the gift icon in their profile.\n\nContents: -1,000 1hr Brick Cost Instant Boost, 500 Braavosi Iron Squares, 2,500 Meereenese Honors, 25,000 Volantene Honors, and 2nd 1d Builder."
+    },
+    {
+      "name": "ITEM_PERSONALGIFT_T1BONUS_SYC_BUILDING_4_BODY",
+      "value": "Your Allegiance performed well in a recent event. Honor your loyal banners with this Personal Gift! Personal Gifts can be sent to another player by tapping the gift icon in their profile.\n\nContents: 10% 1hr Keystone Cost Efficiency Instant Boost, 500 Braavosi Iron Squares, 2,500 Meereenese Honors, 25,000 Volantene Honors, and 2nd 1d Builder."
+    },
+    {
+      "name": "ITEM_PERSONALGIFT_T1BONUS_SYC_BUILDING_4_DESCRIPTION",
+      "value": "Your Allegiance performed well in a recent event. Honor your loyal banners with this Personal Gift! Personal Gifts can be sent to another player by tapping the gift icon in their profile.\n\nContents: 10% 1hr Keystone Cost Efficiency Instant Boost, 500 Braavosi Iron Squares, 2,500 Meereenese Honors, 25,000 Volantene Honors, and 2nd 1d Builder."
+    },
+    {
+      "name": "ITEM_PERSONALGIFT_T1BONUS_SYC_RESEARCH_1_BODY",
+      "value": "Your Allegiance performed well in a recent event. Honor your loyal banners with this Personal Gift! Personal Gifts can be sent to another player by tapping the gift icon in their profile.\n\nContents: -1,000 1hr Scholarly Fragment Cost Instant Boost, 500 Braavosi Iron Squares, 2,500 Meereenese Honors, 25,000 Volantene Honors, and 2nd 1d Maester."
+    },
+    {
+      "name": "ITEM_PERSONALGIFT_T1BONUS_SYC_RESEARCH_1_DESCRIPTION",
+      "value": "Your Allegiance performed well in a recent event. Honor your loyal banners with this Personal Gift! Personal Gifts can be sent to another player by tapping the gift icon in their profile.\n\nContents: -1,000 1hr Scholarly Fragment Cost Instant Boost, 500 Braavosi Iron Squares, 2,500 Meereenese Honors, 25,000 Volantene Honors, and 2nd 1d Maester."
+    },
+    {
+      "name": "ITEM_PERSONALGIFT_T1BONUS_SYC_RESEARCH_2_BODY",
+      "value": "Your Allegiance performed well in a recent event. Honor your loyal banners with this Personal Gift! Personal Gifts can be sent to another player by tapping the gift icon in their profile.\n\nContents: 10% 1hr Red Gold Cost Efficiency Instant Boost, 500 Braavosi Iron Squares, 2,500 Meereenese Honors, 25,000 Volantene Honors, and 2nd 1d Maester."
+    },
+    {
+      "name": "ITEM_PERSONALGIFT_T1BONUS_SYC_RESEARCH_2_DESCRIPTION",
+      "value": "Your Allegiance performed well in a recent event. Honor your loyal banners with this Personal Gift! Personal Gifts can be sent to another player by tapping the gift icon in their profile.\n\nContents: 10% 1hr Red Gold Cost Efficiency Instant Boost, 500 Braavosi Iron Squares, 2,500 Meereenese Honors, 25,000 Volantene Honors, and 2nd 1d Maester."
+    },
+    {
       "name": "LEADERBOARD_DRAGONPAST_CRAFT_ALB_2_PRIZE_TITLE",
       "value": "Storming of the Dragonpit (Allegiance)"
     },
@@ -1444,6 +1544,10 @@
     {
       "name": "LEADERBOARD_HOTD_4_HEROPOWER_LB_1_PRIZE_TITLE",
       "value": "The Dragon Pits (Dragons of King's Landing)"
+    },
+    {
+      "name": "LEADERBOARD_STAKECLAIM_PVP_LB_T1BONUS_1_PRIZE_TITLE",
+      "value": "Stake Your Claim (Liege Rewards)"
     },
     {
       "name": "LEADERBOARD_WARFORTHETHRONE_PVP_ALB_1_PRIZE_TITLE",
@@ -1708,6 +1812,14 @@
     {
       "name": "SYSTEM_MESSAGE_NOTIFICATION_SHIELD_NWM",
       "value": "Your Peace Shield is About to Expire - While there's time, prepare for Night's Watch Mutiny!"
+    },
+    {
+      "name": "SYSTEM_MESSAGE_TITLE_STAKEYOURCLAIM_DAY2_BODY_V2",
+      "value": "1- Star, 1.5 Star, 2- Star, 2.5-Star, 3-Star, and 3.5-Star Seats of Power are now unlocked in the new kingdoms."
+    },
+    {
+      "name": "SYSTEM_MESSAGE_TITLE_STAKEYOURCLAIM_DAY3_BODY_V2",
+      "value": "King's Landing, 3.5-Star, 4-Star, 4.5-Star Seats of Power are now unlocked in the new kingdoms."
     },
     {
       "name": "TROOP_DISMISSAL_TIER_RESTRICTION_MESSAGE",
