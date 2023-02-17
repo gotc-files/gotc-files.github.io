@@ -9,6 +9,9 @@ EQUIPMENT_SLOT_NAMES = {
     "boots",
     "ring",
     "weapon",
+    "saddle",
+    "chanfron",
+    "peytral",
 }
 
 

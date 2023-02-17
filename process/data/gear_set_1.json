@@ -2,6 +2,8 @@
   "description": "Basic information about an event armory gear set",
   "values": [
     {
+      "chanfron_id": "5134428f2a41ce7f",
+      "chanfron_name": "prog_gearset_dragongear01_chanfron",
       "color": {
         "alpha": 255,
         "blue": 44,
@@ -14,7 +16,11 @@
       "material_name": "mat_valyrianschematic",
       "name": "gearset_event_dragongear01",
       "name_placeholder": "EQ_EVENTS_DRAGONGEAR01_SET_NAME",
-      "priority": 0
+      "peytral_id": "a4f8ba1b5c4ce56e",
+      "peytral_name": "prog_gearset_dragongear01_peytral",
+      "priority": 0,
+      "saddle_id": "9ae2e27d38684b12",
+      "saddle_name": "prog_gearset_dragongear01_saddle"
     },
     {
       "boots_id": "9eb392bf0558f75a",

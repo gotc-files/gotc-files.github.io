@@ -10,8 +10,16 @@
       "value": "The mutineers are trapped in an unfortified castle with low morale and dwindling supplies. Your allies have given you every possible advantage in this fight. Now is the time to strike!\n\nCapture event-limited Seats of Power to earn points! Eastwatch-by-the-Sea, the Shadow Tower, the Nightfort, and Castle Black will unlock for short windows of time during each Hour of the Wolf round event. To help you capture these Seats of Power, special Boosts are available in the Item Exchange tab of your Inventory. While you hold one of these Seats of Power, you and any Bannermen to whom you assign titles will receive points every minute. Maintain control of your Seat of Power for as long as possible to earn maximum points!\nPart of the 'Night's Watch Mutiny' Event"
     },
     {
+      "name": "ACTIVITY_DESCRIPTION_TESTYOURMETTLE_1",
+      "value": "In the throes of battle, a legend is born! From the most unlikely of contenders, a Lord can ascend to the summit of power and glory. For a 24 hours, they put everything on the line against rival Lords, risking their name for the promise of glory, and perhaps even infamy. The opportunity is yours to seize, to enter the crucible and test your mettle against other mighty Lords from other kingdoms. Journey forth and claim a Seat of Power, defend it with all your might, and inscribe your name in the annals of history. At the end, your actions will judge your valor by how long your capable of holding onto a Seat of Power. But beware, others are vying for glory. Are you prepared to Test Your Mettle?"
+    },
+    {
       "name": "ACTIVITY_NAME_MTX_TRINKET_86",
       "value": "Riding Spurs Materials Pack"
+    },
+    {
+      "name": "ACTIVITY_SPLASH_TESTYOURMETTLE_1",
+      "value": "Prove your strength by testing your mettle!"
     },
     {
       "name": "ALCHEMY_RECIPE_EVENT_HARRENHAL3_TROPHY_GENERIC_DESC",
@@ -22,8 +30,64 @@
       "value": "Saddle"
     },
     {
+      "name": "CAT_RESEARCH_DRAGONCARE_DESCRIPTION",
+      "value": "Dragon Care"
+    },
+    {
+      "name": "CAT_RESEARCH_DRAGONCARE_NAME",
+      "value": "Dragon Care"
+    },
+    {
       "name": "CHANFRON",
       "value": "CHANFRON"
+    },
+    {
+      "name": "DRAGONRESEARCH_DRAGONCARE_DRAGON_CAVALRYATTACKVSPLAYERSOP_1_NAME",
+      "value": "Dragon Cavalry Attack Versus Player Seat of Power "
+    },
+    {
+      "name": "DRAGONRESEARCH_DRAGONCARE_DRAGON_INFANTRYATTACKVSPLAYERSOP_1_NAME",
+      "value": "Dragon Infantry Attack Versus Player Seat of Power  "
+    },
+    {
+      "name": "DRAGONRESEARCH_DRAGONCARE_DRAGON_INFANTRYDEFENSEVSPLAYERSOP_1_NAME",
+      "value": "Dragon Infantry Defense Versus Player Seat of Power "
+    },
+    {
+      "name": "DRAGONRESEARCH_DRAGONCARE_DRAGON_INFANTRYHEALTHVSPLAYERSOP_1_NAME",
+      "value": "Dragon Infantry Health Versus Player Seat of Power "
+    },
+    {
+      "name": "DRAGONRESEARCH_DRAGONCARE_DRAGON_MARCHERCAVALRYATTACKVSPLAYERSOP_1_NAME",
+      "value": "Dragon Marcher Cavalry Attack Versus Player Seat of Power "
+    },
+    {
+      "name": "DRAGONRESEARCH_DRAGONCARE_DRAGON_MARCHERCAVALRYDEFENSEVSPLAYERSOP_1_NAME",
+      "value": "Dragon Marcher Cavalry Defense Versus Player Seat of Power "
+    },
+    {
+      "name": "DRAGONRESEARCH_DRAGONCARE_DRAGON_MARCHERCAVALRYHEALTHVSPLAYERSOP_1_NAME",
+      "value": "Dragon Marcher Cavalry Health Versus Player Seat of Power "
+    },
+    {
+      "name": "DRAGONRESEARCH_DRAGONCARE_DRAGON_MARCHERINFANTRYATTACKVSPLAYERSOP_1_NAME",
+      "value": "Dragon Marcher Infantry Attack Versus Player Seat of Power"
+    },
+    {
+      "name": "DRAGONRESEARCH_DRAGONCARE_DRAGON_MARCHERRANGEDATTACKVSPLAYERSOP_1_NAME",
+      "value": "Dragon Marcher Ranged Attack Versus Player Seat of Power"
+    },
+    {
+      "name": "DRAGONRESEARCH_DRAGONCARE_DRAGON_MARCHERTROOPHEALTHVSPLAYERSOP_1_NAME",
+      "value": "Dragon Marcher Troop Health Versus Player Seat of Power "
+    },
+    {
+      "name": "DRAGONRESEARCH_DRAGONCARE_DRAGON_RANGEDATTACKVSPLAYERSOP_1_NAME",
+      "value": "Dragon Ranged Attack Versus Player Seat of Power"
+    },
+    {
+      "name": "DRAGON_INFO_EQUIPMENT_PARAGRAPH_5",
+      "value": "In addition to 3 gear slots for the Dragon Gear, you can gain access to an additional trinket slot. This slot is unlocked by researching the node on the new research tree, Dragon Care.\n\nThis trinket slot allows players to equip an additional trinket from their equipment list to further empower their kingdom and army."
     },
     {
       "name": "DRAGON_INFO_TRAINING_PARAGRAPH_1",
@@ -32,6 +96,18 @@
     {
       "name": "DRAGON_INFO_TREES_PARAGRAPH_2",
       "value": "The dragon Research trees allow you to strengthen your dragon and their influence on your troops, your keep\u2019s defense, resource gathering, and overall power.\n\nThere are 6 research trees to study, those are:\n* Nurturing\n* Hatchling\n* Whelp\n* Adolescent\n* Adult\n* Dragon Care\n\nAs you level up your dragon, more research trees will become available. With the addition of dragon Gear, the new Dragon Care tree will allow you to further strengthen your dragon and give you access to a second trinket slot."
+    },
+    {
+      "name": "GEAR_PRESETS_ERROR",
+      "value": "Preset item is no longer in your inventory: {0}"
+    },
+    {
+      "name": "HERO_GHOST_LOYALCOMPANION_DESC",
+      "value": "Loyal Companion"
+    },
+    {
+      "name": "HERO_GHOST_LOYALCOMPANION_NAME",
+      "value": "Ghost"
     },
     {
       "name": "HIDE_FILLED_RALLIES",
@@ -44,6 +120,10 @@
     {
       "name": "ITEM_EVENT_TROPHY_REUSABLE_1_NAME",
       "value": "Braavosi Loan"
+    },
+    {
+      "name": "ITEM_HERO_ADV_GHOST_LOYALCOMPANION_1_NAME",
+      "value": "Ghost, <i>Loyal Companion</i>, Relic."
     },
     {
       "name": "MESSAGE_PLAYERVERSION_1_BODY",
@@ -70,6 +150,18 @@
       "value": "Saddle"
     },
     {
+      "name": "SLOT_CHANFRON",
+      "value": "Chanfron"
+    },
+    {
+      "name": "SLOT_PEYTRAL",
+      "value": "Peytral"
+    },
+    {
+      "name": "SLOT_SADDLE",
+      "value": "Saddle"
+    },
+    {
       "name": "SYSTEM_MESSAGE_ STAKEYOURCLAIM_PREEVENT",
       "value": "Soon, the allegiances in your kingdom, along with those in two other kingdoms, will set forth on a new adventure. You will leave your current kingdoms behind as you look for new territory to stake your claim in. \nWhen the event starts, owners of Seats of Power will be evicted from their seats as everyone in the kingdom prepares to look for a new permanent home to conquer. During this time, Seats of Power in your home kingdom cannot be attacked or taken. Allegiances compete by holding as many Seats of Power as possible in any of the new kingdoms, rewarding them with event points. Points earned will not be lost when traveling to another kingdom. In the new kingdoms, Seats of Power will unlock using an accelerated schedule, each day providing better seats to conquer. Points earned during the event will depend on the seat being held by the allegiance. Bonus points are earned if your T1 is on the same kingdom. When the event ends, allegiances and their members will win rewards based on the total number of points earned. The Seat of Power unlock schedule will return to normal at the conclusion of the event.\nThere will be 2 new kingdoms available to pick from while the event is active, and you can freely travel to any of these kingdoms throughout the event. The event panel will include a \"Stake Your Claim\" teleport action allowing you to select a kingdom. Once you leave your original kingdom you cannot return as travel is only permitted between the new kingdoms.\nIt's important for you to know that at the end of the event you will be moved to the kingdom your T1 resides.\nIf you have not selected a new kingdom by the end of the event, you will be randomly moved to one. If a kingdom is overpopulated at the conclusion of the event, some allegiances will be moved to another kingdom. \n\nGood luck and thank you for playing Game of Thrones: Conquest!"
     },
@@ -80,6 +172,10 @@
     {
       "name": "SYSTEM_MESSAGE_BODY_SYC_WARNING_TMRW",
       "value": "Greetings! A great battle looms on the  horizon- prepare to stake your claim by tapping the button below and reading through our event guide!<a href=\"https://www.gotconquest.com/news/2022/09/26/stake-your-claim-guide/\">Stake Your Claim Guide</a>"
+    },
+    {
+      "name": "SYSTEM_MESSAGE_TESTYOURMETTLE_PREEVENT",
+      "value": "Coming Soon! Test Your Mettle Event"
     },
     {
       "name": "SYSTEM_MESSAGE_TITLE_SYC_WARNING_2_WKS",

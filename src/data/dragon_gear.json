@@ -1,0 +1,1461 @@
+[
+  {
+    "chanfron": {
+      "gear_with_level": [
+        {
+          "level": 5,
+          "name": "n:EQ_EVENTS_DRAGONGEAR01_5_CHANFRON_LORD5_NAME",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                0.0781401600000001,
+                0.0837216000000001,
+                0.0893030400000001,
+                0.0948844800000001,
+                0.10046592,
+                0.1116288
+              ]
+            },
+            {
+              "description": "Dragon: Troop Attack vs. a Player while in combat with another player",
+              "name": "Dragon: Troop Attack vs. Player",
+              "progression": [
+                0.0586051200000001,
+                0.0627912000000001,
+                0.0669772800000001,
+                0.0711633600000001,
+                0.0753494400000001,
+                0.0837216000000001
+              ]
+            }
+          ]
+        },
+        {
+          "level": 10,
+          "name": "n:EQ_EVENTS_DRAGONGEAR01_10_CHANFRON_LORD10_NAME",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                0.11515392,
+                0.1233792,
+                0.13160448,
+                0.13982976,
+                0.14805504,
+                0.1645056
+              ]
+            },
+            {
+              "description": "Dragon: Troop Attack vs. a Player while in combat with another player",
+              "name": "Dragon: Troop Attack vs. Player",
+              "progression": [
+                0.0863654400000001,
+                0.0925344000000001,
+                0.0987033600000001,
+                0.10487232,
+                0.11104128,
+                0.1233792
+              ]
+            }
+          ]
+        },
+        {
+          "level": 15,
+          "name": "n:EQ_EVENTS_DRAGONGEAR01_15_CHANFRON_LORD15_NAME",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                0.15216768,
+                0.1630368,
+                0.17390592,
+                0.18477504,
+                0.19564416,
+                0.2173824
+              ]
+            },
+            {
+              "description": "Dragon: Troop Attack vs. a Player while in combat with another player",
+              "name": "Dragon: Troop Attack vs. Player",
+              "progression": [
+                0.11412576,
+                0.1222776,
+                0.13042944,
+                0.13858128,
+                0.14673312,
+                0.1630368
+              ]
+            }
+          ]
+        },
+        {
+          "level": 20,
+          "name": "n:EQ_EVENTS_DRAGONGEAR01_20_CHANFRON_LORD20_NAME",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                0.18918144,
+                0.2026944,
+                0.21620736,
+                0.22972032,
+                0.24323328,
+                0.2702592
+              ]
+            },
+            {
+              "description": "Dragon: Troop Attack vs. a Player while in combat with another player",
+              "name": "Dragon: Troop Attack vs. Player",
+              "progression": [
+                0.14188608,
+                0.1520208,
+                0.16215552,
+                0.17229024,
+                0.18242496,
+                0.2026944
+              ]
+            },
+            {
+              "description": "Max March Size bonus when your dragon is present.",
+              "name": "Dragon: Max March Size",
+              "progression": [
+                1891,
+                2026,
+                2162,
+                2297,
+                2432,
+                2702
+              ]
+            }
+          ]
+        },
+        {
+          "level": 25,
+          "name": "n:EQ_EVENTS_DRAGONGEAR01_25_CHANFRON_LORD25_NAME",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                0.2261952,
+                0.242352,
+                0.2585088,
+                0.2746656,
+                0.2908224,
+                0.323136
+              ]
+            },
+            {
+              "description": "Dragon: Troop Attack vs. a Player while in combat with another player",
+              "name": "Dragon: Troop Attack vs. Player",
+              "progression": [
+                0.1696464,
+                0.181764,
+                0.1938816,
+                0.2059992,
+                0.2181168,
+                0.242352
+              ]
+            },
+            {
+              "description": "Max March Size bonus when your dragon is present.",
+              "name": "Dragon: Max March Size",
+              "progression": [
+                2261,
+                2423,
+                2585,
+                2746,
+                2908,
+                3231
+              ]
+            }
+          ]
+        },
+        {
+          "level": 30,
+          "name": "n:EQ_EVENTS_DRAGONGEAR01_30_CHANFRON_LORD30_NAME",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                0.26320896,
+                0.2820096,
+                0.30081024,
+                0.31961088,
+                0.33841152,
+                0.3760128
+              ]
+            },
+            {
+              "description": "Dragon: Troop Attack vs. a Player while in combat with another player",
+              "name": "Dragon: Troop Attack vs. Player",
+              "progression": [
+                0.19740672,
+                0.2115072,
+                0.22560768,
+                0.23970816,
+                0.25380864,
+                0.2820096
+              ]
+            },
+            {
+              "description": "Max March Size bonus when your dragon is present.",
+              "name": "Dragon: Max March Size",
+              "progression": [
+                2632,
+                2820,
+                3008,
+                3196,
+                3384,
+                3760
+              ]
+            },
+            {
+              "description": "Dragon: Troop Health vs. a Player while in combat with another player",
+              "name": "Dragon: Troop Health vs. Player",
+              "progression": [
+                0.19740672,
+                0.2115072,
+                0.22560768,
+                0.23970816,
+                0.25380864,
+                0.2820096
+              ]
+            }
+          ]
+        },
+        {
+          "level": 35,
+          "name": "n:EQ_EVENTS_DRAGONGEAR01_35_CHANFRON_LORD35_NAME",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                0.30022272,
+                0.3216672,
+                0.34311168,
+                0.36455616,
+                0.38600064,
+                0.4288896
+              ]
+            },
+            {
+              "description": "Dragon: Troop Attack vs. a Player while in combat with another player",
+              "name": "Dragon: Troop Attack vs. Player",
+              "progression": [
+                0.22516704,
+                0.2412504,
+                0.25733376,
+                0.27341712,
+                0.28950048,
+                0.3216672
+              ]
+            },
+            {
+              "description": "Max March Size bonus when your dragon is present.",
+              "name": "Dragon: Max March Size",
+              "progression": [
+                3002,
+                3216,
+                3431,
+                3645,
+                3860,
+                4288
+              ]
+            },
+            {
+              "description": "Dragon: Troop Health vs. a Player while in combat with another player",
+              "name": "Dragon: Troop Health vs. Player",
+              "progression": [
+                0.22516704,
+                0.2412504,
+                0.25733376,
+                0.27341712,
+                0.28950048,
+                0.3216672
+              ]
+            }
+          ]
+        },
+        {
+          "level": 40,
+          "name": "n:EQ_EVENTS_DRAGONGEAR01_40_CHANFRON_LORD40_NAME",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                0.33723648,
+                0.3613248,
+                0.38541312,
+                0.40950144,
+                0.43358976,
+                0.4817664
+              ]
+            },
+            {
+              "description": "Dragon: Troop Attack vs. a Player while in combat with another player",
+              "name": "Dragon: Troop Attack vs. Player",
+              "progression": [
+                0.25292736,
+                0.2709936,
+                0.28905984,
+                0.30712608,
+                0.32519232,
+                0.3613248
+              ]
+            },
+            {
+              "description": "Max March Size bonus when your dragon is present.",
+              "name": "Dragon: Max March Size",
+              "progression": [
+                3372,
+                3613,
+                3854,
+                4095,
+                4335,
+                4817
+              ]
+            },
+            {
+              "description": "Dragon: Troop Health vs. a Player while in combat with another player",
+              "name": "Dragon: Troop Health vs. Player",
+              "progression": [
+                0.25292736,
+                0.2709936,
+                0.28905984,
+                0.30712608,
+                0.32519232,
+                0.3613248
+              ]
+            },
+            {
+              "description": "Dragon: Troop Defense vs. a Player while in combat with another player",
+              "name": "Dragon: Troop Defense vs. Player",
+              "progression": [
+                0.25292736,
+                0.2709936,
+                0.28905984,
+                0.30712608,
+                0.32519232,
+                0.3613248
+              ]
+            }
+          ]
+        },
+        {
+          "level": 45,
+          "name": "n:EQ_EVENTS_DRAGONGEAR01_45_CHANFRON_LORD45_NAME",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                0.37425024,
+                0.4009824,
+                0.42771456,
+                0.45444672,
+                0.48117888,
+                0.5346432
+              ]
+            },
+            {
+              "description": "Dragon: Troop Attack vs. a Player while in combat with another player",
+              "name": "Dragon: Troop Attack vs. Player",
+              "progression": [
+                0.28068768,
+                0.3007368,
+                0.32078592,
+                0.34083504,
+                0.36088416,
+                0.4009824
+              ]
+            },
+            {
+              "description": "Max March Size bonus when your dragon is present.",
+              "name": "Dragon: Max March Size",
+              "progression": [
+                3742,
+                4009,
+                4277,
+                4544,
+                4811,
+                5346
+              ]
+            },
+            {
+              "description": "Dragon: Troop Health vs. a Player while in combat with another player",
+              "name": "Dragon: Troop Health vs. Player",
+              "progression": [
+                0.28068768,
+                0.3007368,
+                0.32078592,
+                0.34083504,
+                0.36088416,
+                0.4009824
+              ]
+            },
+            {
+              "description": "Dragon: Troop Defense vs. a Player while in combat with another player",
+              "name": "Dragon: Troop Defense vs. Player",
+              "progression": [
+                0.28068768,
+                0.3007368,
+                0.32078592,
+                0.34083504,
+                0.36088416,
+                0.4009824
+              ]
+            }
+          ]
+        },
+        {
+          "level": 50,
+          "name": "n:EQ_EVENTS_DRAGONGEAR01_50_CHANFRON_LORD50_NAME",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                0.411264,
+                0.44064,
+                0.470016,
+                0.499392,
+                0.528768,
+                0.58752
+              ]
+            },
+            {
+              "description": "Dragon: Troop Attack vs. a Player while in combat with another player",
+              "name": "Dragon: Troop Attack vs. Player",
+              "progression": [
+                0.308448,
+                0.33048,
+                0.352512,
+                0.374544,
+                0.396576,
+                0.44064
+              ]
+            },
+            {
+              "description": "Max March Size bonus when your dragon is present.",
+              "name": "Dragon: Max March Size",
+              "progression": [
+                4112,
+                4406,
+                4700,
+                4993,
+                5287,
+                5875
+              ]
+            },
+            {
+              "description": "Dragon: Troop Health vs. a Player while in combat with another player",
+              "name": "Dragon: Troop Health vs. Player",
+              "progression": [
+                0.308448,
+                0.33048,
+                0.352512,
+                0.374544,
+                0.396576,
+                0.44064
+              ]
+            },
+            {
+              "description": "Dragon: Troop Defense vs. a Player while in combat with another player",
+              "name": "Dragon: Troop Defense vs. Player",
+              "progression": [
+                0.308448,
+                0.33048,
+                0.352512,
+                0.374544,
+                0.396576,
+                0.44064
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "color": "#36492c",
+    "description": "n:EQ_EVENTS_DRAGONGEAR01_SET_DESCRIPTION",
+    "id": "5c09f04925b422fb",
+    "material_name": "n:ITEM_MATERIALS_VALYRIANSCHEMATIC",
+    "name": "n:EQ_EVENTS_DRAGONGEAR01_SET_NAME",
+    "peytral": {
+      "gear_with_level": [
+        {
+          "level": 5,
+          "name": "n:EQ_EVENTS_DRAGONGEAR01_5_PEYTRAL_LORD5_NAME",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                0.0781401600000001,
+                0.0837216000000001,
+                0.0893030400000001,
+                0.0948844800000001,
+                0.10046592,
+                0.1116288
+              ]
+            },
+            {
+              "description": "Dragon: Troop Attack vs. a Player while in combat with another player",
+              "name": "Dragon: Troop Attack vs. Player",
+              "progression": [
+                0.0586051200000001,
+                0.0627912000000001,
+                0.0669772800000001,
+                0.0711633600000001,
+                0.0753494400000001,
+                0.0837216000000001
+              ]
+            }
+          ]
+        },
+        {
+          "level": 10,
+          "name": "n:EQ_EVENTS_DRAGONGEAR01_10_PEYTRAL_LORD10_NAME",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                0.11515392,
+                0.1233792,
+                0.13160448,
+                0.13982976,
+                0.14805504,
+                0.1645056
+              ]
+            },
+            {
+              "description": "Dragon: Troop Attack vs. a Player while in combat with another player",
+              "name": "Dragon: Troop Attack vs. Player",
+              "progression": [
+                0.0863654400000001,
+                0.0925344000000001,
+                0.0987033600000001,
+                0.10487232,
+                0.11104128,
+                0.1233792
+              ]
+            }
+          ]
+        },
+        {
+          "level": 15,
+          "name": "n:EQ_EVENTS_DRAGONGEAR01_15_PEYTRAL_LORD15_NAME",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                0.15216768,
+                0.1630368,
+                0.17390592,
+                0.18477504,
+                0.19564416,
+                0.2173824
+              ]
+            },
+            {
+              "description": "Dragon: Troop Attack vs. a Player while in combat with another player",
+              "name": "Dragon: Troop Attack vs. Player",
+              "progression": [
+                0.11412576,
+                0.1222776,
+                0.13042944,
+                0.13858128,
+                0.14673312,
+                0.1630368
+              ]
+            }
+          ]
+        },
+        {
+          "level": 20,
+          "name": "n:EQ_EVENTS_DRAGONGEAR01_20_PEYTRAL_LORD20_NAME",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                0.18918144,
+                0.2026944,
+                0.21620736,
+                0.22972032,
+                0.24323328,
+                0.2702592
+              ]
+            },
+            {
+              "description": "Dragon: Troop Attack vs. a Player while in combat with another player",
+              "name": "Dragon: Troop Attack vs. Player",
+              "progression": [
+                0.14188608,
+                0.1520208,
+                0.16215552,
+                0.17229024,
+                0.18242496,
+                0.2026944
+              ]
+            },
+            {
+              "description": "Max March Size bonus when your dragon is present.",
+              "name": "Dragon: Max March Size",
+              "progression": [
+                1891,
+                2026,
+                2162,
+                2297,
+                2432,
+                2702
+              ]
+            }
+          ]
+        },
+        {
+          "level": 25,
+          "name": "n:EQ_EVENTS_DRAGONGEAR01_25_PEYTRAL_LORD25_NAME",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                0.2261952,
+                0.242352,
+                0.2585088,
+                0.2746656,
+                0.2908224,
+                0.323136
+              ]
+            },
+            {
+              "description": "Dragon: Troop Attack vs. a Player while in combat with another player",
+              "name": "Dragon: Troop Attack vs. Player",
+              "progression": [
+                0.1696464,
+                0.181764,
+                0.1938816,
+                0.2059992,
+                0.2181168,
+                0.242352
+              ]
+            },
+            {
+              "description": "Max March Size bonus when your dragon is present.",
+              "name": "Dragon: Max March Size",
+              "progression": [
+                2261,
+                2423,
+                2585,
+                2746,
+                2908,
+                3231
+              ]
+            }
+          ]
+        },
+        {
+          "level": 30,
+          "name": "n:EQ_EVENTS_DRAGONGEAR01_30_PEYTRAL_LORD30_NAME",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                0.26320896,
+                0.2820096,
+                0.30081024,
+                0.31961088,
+                0.33841152,
+                0.3760128
+              ]
+            },
+            {
+              "description": "Dragon: Troop Attack vs. a Player while in combat with another player",
+              "name": "Dragon: Troop Attack vs. Player",
+              "progression": [
+                0.19740672,
+                0.2115072,
+                0.22560768,
+                0.23970816,
+                0.25380864,
+                0.2820096
+              ]
+            },
+            {
+              "description": "Max March Size bonus when your dragon is present.",
+              "name": "Dragon: Max March Size",
+              "progression": [
+                2632,
+                2820,
+                3008,
+                3196,
+                3384,
+                3760
+              ]
+            },
+            {
+              "description": "Dragon: Troop Health vs. a Player while in combat with another player",
+              "name": "Dragon: Troop Health vs. Player",
+              "progression": [
+                0.19740672,
+                0.2115072,
+                0.22560768,
+                0.23970816,
+                0.25380864,
+                0.2820096
+              ]
+            }
+          ]
+        },
+        {
+          "level": 35,
+          "name": "n:EQ_EVENTS_DRAGONGEAR01_35_PEYTRAL_LORD35_NAME",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                0.30022272,
+                0.3216672,
+                0.34311168,
+                0.36455616,
+                0.38600064,
+                0.4288896
+              ]
+            },
+            {
+              "description": "Dragon: Troop Attack vs. a Player while in combat with another player",
+              "name": "Dragon: Troop Attack vs. Player",
+              "progression": [
+                0.22516704,
+                0.2412504,
+                0.25733376,
+                0.27341712,
+                0.28950048,
+                0.3216672
+              ]
+            },
+            {
+              "description": "Max March Size bonus when your dragon is present.",
+              "name": "Dragon: Max March Size",
+              "progression": [
+                3002,
+                3216,
+                3431,
+                3645,
+                3860,
+                4288
+              ]
+            },
+            {
+              "description": "Dragon: Troop Health vs. a Player while in combat with another player",
+              "name": "Dragon: Troop Health vs. Player",
+              "progression": [
+                0.22516704,
+                0.2412504,
+                0.25733376,
+                0.27341712,
+                0.28950048,
+                0.3216672
+              ]
+            }
+          ]
+        },
+        {
+          "level": 40,
+          "name": "n:EQ_EVENTS_DRAGONGEAR01_40_PEYTRAL_LORD40_NAME",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                0.33723648,
+                0.3613248,
+                0.38541312,
+                0.40950144,
+                0.43358976,
+                0.4817664
+              ]
+            },
+            {
+              "description": "Dragon: Troop Attack vs. a Player while in combat with another player",
+              "name": "Dragon: Troop Attack vs. Player",
+              "progression": [
+                0.25292736,
+                0.2709936,
+                0.28905984,
+                0.30712608,
+                0.32519232,
+                0.3613248
+              ]
+            },
+            {
+              "description": "Max March Size bonus when your dragon is present.",
+              "name": "Dragon: Max March Size",
+              "progression": [
+                3372,
+                3613,
+                3854,
+                4095,
+                4335,
+                4817
+              ]
+            },
+            {
+              "description": "Dragon: Troop Health vs. a Player while in combat with another player",
+              "name": "Dragon: Troop Health vs. Player",
+              "progression": [
+                0.25292736,
+                0.2709936,
+                0.28905984,
+                0.30712608,
+                0.32519232,
+                0.3613248
+              ]
+            },
+            {
+              "description": "Dragon: Troop Defense vs. a Player while in combat with another player",
+              "name": "Dragon: Troop Defense vs. Player",
+              "progression": [
+                0.25292736,
+                0.2709936,
+                0.28905984,
+                0.30712608,
+                0.32519232,
+                0.3613248
+              ]
+            }
+          ]
+        },
+        {
+          "level": 45,
+          "name": "n:EQ_EVENTS_DRAGONGEAR01_45_PEYTRAL_LORD45_NAME",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                0.37425024,
+                0.4009824,
+                0.42771456,
+                0.45444672,
+                0.48117888,
+                0.5346432
+              ]
+            },
+            {
+              "description": "Dragon: Troop Attack vs. a Player while in combat with another player",
+              "name": "Dragon: Troop Attack vs. Player",
+              "progression": [
+                0.28068768,
+                0.3007368,
+                0.32078592,
+                0.34083504,
+                0.36088416,
+                0.4009824
+              ]
+            },
+            {
+              "description": "Max March Size bonus when your dragon is present.",
+              "name": "Dragon: Max March Size",
+              "progression": [
+                3742,
+                4009,
+                4277,
+                4544,
+                4811,
+                5346
+              ]
+            },
+            {
+              "description": "Dragon: Troop Health vs. a Player while in combat with another player",
+              "name": "Dragon: Troop Health vs. Player",
+              "progression": [
+                0.28068768,
+                0.3007368,
+                0.32078592,
+                0.34083504,
+                0.36088416,
+                0.4009824
+              ]
+            },
+            {
+              "description": "Dragon: Troop Defense vs. a Player while in combat with another player",
+              "name": "Dragon: Troop Defense vs. Player",
+              "progression": [
+                0.28068768,
+                0.3007368,
+                0.32078592,
+                0.34083504,
+                0.36088416,
+                0.4009824
+              ]
+            }
+          ]
+        },
+        {
+          "level": 50,
+          "name": "n:EQ_EVENTS_DRAGONGEAR01_50_PEYTRAL_LORD50_NAME",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                0.411264,
+                0.44064,
+                0.470016,
+                0.499392,
+                0.528768,
+                0.58752
+              ]
+            },
+            {
+              "description": "Dragon: Troop Attack vs. a Player while in combat with another player",
+              "name": "Dragon: Troop Attack vs. Player",
+              "progression": [
+                0.308448,
+                0.33048,
+                0.352512,
+                0.374544,
+                0.396576,
+                0.44064
+              ]
+            },
+            {
+              "description": "Max March Size bonus when your dragon is present.",
+              "name": "Dragon: Max March Size",
+              "progression": [
+                4112,
+                4406,
+                4700,
+                4993,
+                5287,
+                5875
+              ]
+            },
+            {
+              "description": "Dragon: Troop Health vs. a Player while in combat with another player",
+              "name": "Dragon: Troop Health vs. Player",
+              "progression": [
+                0.308448,
+                0.33048,
+                0.352512,
+                0.374544,
+                0.396576,
+                0.44064
+              ]
+            },
+            {
+              "description": "Dragon: Troop Defense vs. a Player while in combat with another player",
+              "name": "Dragon: Troop Defense vs. Player",
+              "progression": [
+                0.308448,
+                0.33048,
+                0.352512,
+                0.374544,
+                0.396576,
+                0.44064
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "saddle": {
+      "gear_with_level": [
+        {
+          "level": 5,
+          "name": "n:EQ_EVENTS_DRAGONGEAR01_5_SADDLE_LORD5_NAME",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                0.0781401600000001,
+                0.0837216000000001,
+                0.0893030400000001,
+                0.0948844800000001,
+                0.10046592,
+                0.1116288
+              ]
+            },
+            {
+              "description": "Dragon: Troop Attack vs. a Player while in combat with another player",
+              "name": "Dragon: Troop Attack vs. Player",
+              "progression": [
+                0.0586051200000001,
+                0.0627912000000001,
+                0.0669772800000001,
+                0.0711633600000001,
+                0.0753494400000001,
+                0.0837216000000001
+              ]
+            }
+          ]
+        },
+        {
+          "level": 10,
+          "name": "n:EQ_EVENTS_DRAGONGEAR01_10_SADDLE_LORD10_NAME",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                0.11515392,
+                0.1233792,
+                0.13160448,
+                0.13982976,
+                0.14805504,
+                0.1645056
+              ]
+            },
+            {
+              "description": "Dragon: Troop Attack vs. a Player while in combat with another player",
+              "name": "Dragon: Troop Attack vs. Player",
+              "progression": [
+                0.0863654400000001,
+                0.0925344000000001,
+                0.0987033600000001,
+                0.10487232,
+                0.11104128,
+                0.1233792
+              ]
+            }
+          ]
+        },
+        {
+          "level": 15,
+          "name": "n:EQ_EVENTS_DRAGONGEAR01_15_SADDLE_LORD15_NAME",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                0.15216768,
+                0.1630368,
+                0.17390592,
+                0.18477504,
+                0.19564416,
+                0.2173824
+              ]
+            },
+            {
+              "description": "Dragon: Troop Attack vs. a Player while in combat with another player",
+              "name": "Dragon: Troop Attack vs. Player",
+              "progression": [
+                0.11412576,
+                0.1222776,
+                0.13042944,
+                0.13858128,
+                0.14673312,
+                0.1630368
+              ]
+            }
+          ]
+        },
+        {
+          "level": 20,
+          "name": "n:EQ_EVENTS_DRAGONGEAR01_20_SADDLE_LORD20_NAME",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                0.18918144,
+                0.2026944,
+                0.21620736,
+                0.22972032,
+                0.24323328,
+                0.2702592
+              ]
+            },
+            {
+              "description": "Dragon: Troop Attack vs. a Player while in combat with another player",
+              "name": "Dragon: Troop Attack vs. Player",
+              "progression": [
+                0.14188608,
+                0.1520208,
+                0.16215552,
+                0.17229024,
+                0.18242496,
+                0.2026944
+              ]
+            },
+            {
+              "description": "Max March Size bonus when your dragon is present.",
+              "name": "Dragon: Max March Size",
+              "progression": [
+                1891,
+                2026,
+                2162,
+                2297,
+                2432,
+                2702
+              ]
+            }
+          ]
+        },
+        {
+          "level": 25,
+          "name": "n:EQ_EVENTS_DRAGONGEAR01_25_SADDLE_LORD25_NAME",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                0.2261952,
+                0.242352,
+                0.2585088,
+                0.2746656,
+                0.2908224,
+                0.323136
+              ]
+            },
+            {
+              "description": "Dragon: Troop Attack vs. a Player while in combat with another player",
+              "name": "Dragon: Troop Attack vs. Player",
+              "progression": [
+                0.1696464,
+                0.181764,
+                0.1938816,
+                0.2059992,
+                0.2181168,
+                0.242352
+              ]
+            },
+            {
+              "description": "Max March Size bonus when your dragon is present.",
+              "name": "Dragon: Max March Size",
+              "progression": [
+                2261,
+                2423,
+                2585,
+                2746,
+                2908,
+                3231
+              ]
+            }
+          ]
+        },
+        {
+          "level": 30,
+          "name": "n:EQ_EVENTS_DRAGONGEAR01_30_SADDLE_LORD30_NAME",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                0.26320896,
+                0.2820096,
+                0.30081024,
+                0.31961088,
+                0.33841152,
+                0.3760128
+              ]
+            },
+            {
+              "description": "Dragon: Troop Attack vs. a Player while in combat with another player",
+              "name": "Dragon: Troop Attack vs. Player",
+              "progression": [
+                0.19740672,
+                0.2115072,
+                0.22560768,
+                0.23970816,
+                0.25380864,
+                0.2820096
+              ]
+            },
+            {
+              "description": "Max March Size bonus when your dragon is present.",
+              "name": "Dragon: Max March Size",
+              "progression": [
+                2632,
+                2820,
+                3008,
+                3196,
+                3384,
+                3760
+              ]
+            },
+            {
+              "description": "Dragon: Troop Health vs. a Player while in combat with another player",
+              "name": "Dragon: Troop Health vs. Player",
+              "progression": [
+                0.19740672,
+                0.2115072,
+                0.22560768,
+                0.23970816,
+                0.25380864,
+                0.2820096
+              ]
+            }
+          ]
+        },
+        {
+          "level": 35,
+          "name": "n:EQ_EVENTS_DRAGONGEAR01_35_SADDLE_LORD35_NAME",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                0.30022272,
+                0.3216672,
+                0.34311168,
+                0.36455616,
+                0.38600064,
+                0.4288896
+              ]
+            },
+            {
+              "description": "Dragon: Troop Attack vs. a Player while in combat with another player",
+              "name": "Dragon: Troop Attack vs. Player",
+              "progression": [
+                0.22516704,
+                0.2412504,
+                0.25733376,
+                0.27341712,
+                0.28950048,
+                0.3216672
+              ]
+            },
+            {
+              "description": "Max March Size bonus when your dragon is present.",
+              "name": "Dragon: Max March Size",
+              "progression": [
+                3002,
+                3216,
+                3431,
+                3645,
+                3860,
+                4288
+              ]
+            },
+            {
+              "description": "Dragon: Troop Health vs. a Player while in combat with another player",
+              "name": "Dragon: Troop Health vs. Player",
+              "progression": [
+                0.22516704,
+                0.2412504,
+                0.25733376,
+                0.27341712,
+                0.28950048,
+                0.3216672
+              ]
+            }
+          ]
+        },
+        {
+          "level": 40,
+          "name": "n:EQ_EVENTS_DRAGONGEAR01_40_SADDLE_LORD40_NAME",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                0.33723648,
+                0.3613248,
+                0.38541312,
+                0.40950144,
+                0.43358976,
+                0.4817664
+              ]
+            },
+            {
+              "description": "Dragon: Troop Attack vs. a Player while in combat with another player",
+              "name": "Dragon: Troop Attack vs. Player",
+              "progression": [
+                0.25292736,
+                0.2709936,
+                0.28905984,
+                0.30712608,
+                0.32519232,
+                0.3613248
+              ]
+            },
+            {
+              "description": "Max March Size bonus when your dragon is present.",
+              "name": "Dragon: Max March Size",
+              "progression": [
+                3372,
+                3613,
+                3854,
+                4095,
+                4335,
+                4817
+              ]
+            },
+            {
+              "description": "Dragon: Troop Health vs. a Player while in combat with another player",
+              "name": "Dragon: Troop Health vs. Player",
+              "progression": [
+                0.25292736,
+                0.2709936,
+                0.28905984,
+                0.30712608,
+                0.32519232,
+                0.3613248
+              ]
+            },
+            {
+              "description": "Dragon: Troop Defense vs. a Player while in combat with another player",
+              "name": "Dragon: Troop Defense vs. Player",
+              "progression": [
+                0.25292736,
+                0.2709936,
+                0.28905984,
+                0.30712608,
+                0.32519232,
+                0.3613248
+              ]
+            }
+          ]
+        },
+        {
+          "level": 45,
+          "name": "n:EQ_EVENTS_DRAGONGEAR01_45_SADDLE_LORD45_NAME",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                0.37425024,
+                0.4009824,
+                0.42771456,
+                0.45444672,
+                0.48117888,
+                0.5346432
+              ]
+            },
+            {
+              "description": "Dragon: Troop Attack vs. a Player while in combat with another player",
+              "name": "Dragon: Troop Attack vs. Player",
+              "progression": [
+                0.28068768,
+                0.3007368,
+                0.32078592,
+                0.34083504,
+                0.36088416,
+                0.4009824
+              ]
+            },
+            {
+              "description": "Max March Size bonus when your dragon is present.",
+              "name": "Dragon: Max March Size",
+              "progression": [
+                3742,
+                4009,
+                4277,
+                4544,
+                4811,
+                5346
+              ]
+            },
+            {
+              "description": "Dragon: Troop Health vs. a Player while in combat with another player",
+              "name": "Dragon: Troop Health vs. Player",
+              "progression": [
+                0.28068768,
+                0.3007368,
+                0.32078592,
+                0.34083504,
+                0.36088416,
+                0.4009824
+              ]
+            },
+            {
+              "description": "Dragon: Troop Defense vs. a Player while in combat with another player",
+              "name": "Dragon: Troop Defense vs. Player",
+              "progression": [
+                0.28068768,
+                0.3007368,
+                0.32078592,
+                0.34083504,
+                0.36088416,
+                0.4009824
+              ]
+            }
+          ]
+        },
+        {
+          "level": 50,
+          "name": "n:EQ_EVENTS_DRAGONGEAR01_50_SADDLE_LORD50_NAME",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                0.411264,
+                0.44064,
+                0.470016,
+                0.499392,
+                0.528768,
+                0.58752
+              ]
+            },
+            {
+              "description": "Dragon: Troop Attack vs. a Player while in combat with another player",
+              "name": "Dragon: Troop Attack vs. Player",
+              "progression": [
+                0.308448,
+                0.33048,
+                0.352512,
+                0.374544,
+                0.396576,
+                0.44064
+              ]
+            },
+            {
+              "description": "Max March Size bonus when your dragon is present.",
+              "name": "Dragon: Max March Size",
+              "progression": [
+                4112,
+                4406,
+                4700,
+                4993,
+                5287,
+                5875
+              ]
+            },
+            {
+              "description": "Dragon: Troop Health vs. a Player while in combat with another player",
+              "name": "Dragon: Troop Health vs. Player",
+              "progression": [
+                0.308448,
+                0.33048,
+                0.352512,
+                0.374544,
+                0.396576,
+                0.44064
+              ]
+            },
+            {
+              "description": "Dragon: Troop Defense vs. a Player while in combat with another player",
+              "name": "Dragon: Troop Defense vs. Player",
+              "progression": [
+                0.308448,
+                0.33048,
+                0.352512,
+                0.374544,
+                0.396576,
+                0.44064
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

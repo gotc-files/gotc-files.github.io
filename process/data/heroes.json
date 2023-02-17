@@ -1936,6 +1936,33 @@
         "herotrait_martell"
       ],
       "xp_progression_name": "prog_heroxp_heroic"
+    },
+    {
+      "description_placeholder": "HERO_GHOST_LOYALCOMPANION_DESC",
+      "event_score_progression_name": "prog_hero_eventscore_mythic_1",
+      "id": "3d48982a73be340e",
+      "max_stars": 6,
+      "name": "hero_ghost_loyalcompanion",
+      "name_placeholder": "HERO_GHOST_LOYALCOMPANION_NAME",
+      "oath_progression_name": "prog_hero_adv_stones_cost_mythic_1",
+      "rarity": 4,
+      "relic_name": "item_hero_adv_ghost_loyalcompanion_1",
+      "relic_progression_name": "prog_shardcost_mythic",
+      "skills": [
+        "heroskill_visgen_hero_ghost_loyalcompanion_3",
+        "heroskill_visgen_hero_ghost_loyalcompanion_4",
+        "heroskill_visgen_hero_ghost_loyalcompanion_5",
+        "heroskill_visgen_hero_ghost_loyalcompanion_6",
+        "heroskill_visgen_hero_ghost_loyalcompanion_7",
+        "heroskill_visgen_hero_ghost_loyalcompanion_8",
+        "heroskill_visgen_hero_ghost_loyalcompanion_1",
+        "heroskill_visgen_hero_ghost_loyalcompanion_2"
+      ],
+      "traits": [
+        "herotrait_hand",
+        "herotrait_stark"
+      ],
+      "xp_progression_name": "prog_heroxp_mythic"
     }
   ]
 }

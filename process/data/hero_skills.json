@@ -4256,6 +4256,70 @@
       "skill_type": "COUNCIL",
       "stat_name": "property_InfantryDefenseVsPlayer_hero",
       "unlock_level": 0
+    },
+    {
+      "id": "389236bd619aa1ac",
+      "name": "heroskill_visgen_hero_ghost_loyalcompanion_3",
+      "skill_type": "MARCH",
+      "star_skill_value": 0.282000005245209,
+      "stat_name": "driven_MarchingSpeedVsStrategicTerrain",
+      "unlock_level": 10
+    },
+    {
+      "id": "fe4744cc6522144a",
+      "name": "heroskill_visgen_hero_ghost_loyalcompanion_4",
+      "skill_type": "MARCH",
+      "star_skill_value": 0.550000011920929,
+      "stat_name": "driven_StrategicResourceGathering",
+      "unlock_level": 20
+    },
+    {
+      "id": "d2b68f6ad27145b0",
+      "name": "heroskill_visgen_hero_ghost_loyalcompanion_5",
+      "skill_type": "MARCH",
+      "star_skill_value": 0.411264002323151,
+      "stat_name": "driven_MarcherTroopAttackVsPlayer",
+      "unlock_level": 30
+    },
+    {
+      "id": "a7a4d3810b84b7be",
+      "name": "heroskill_visgen_hero_ghost_loyalcompanion_6",
+      "skill_type": "MARCH",
+      "star_skill_value": 984.0,
+      "stat_name": "driven_MaxMarchSizeVsStrategicTerrain",
+      "unlock_level": 40
+    },
+    {
+      "id": "8b551827bcd7e644",
+      "name": "heroskill_visgen_hero_ghost_loyalcompanion_7",
+      "skill_type": "MARCH",
+      "star_skill_value": 0.345167994499207,
+      "stat_name": "driven_TroopDefenseVsPlayer",
+      "unlock_level": 50
+    },
+    {
+      "id": "a8b475164b5a9359",
+      "name": "heroskill_visgen_hero_ghost_loyalcompanion_8",
+      "skill_type": "MARCH",
+      "star_skill_value": 2864.15991210938,
+      "stat_name": "driven_MarchSizeVsPlayer",
+      "unlock_level": 60
+    },
+    {
+      "id": "6171a1f00f3c0258",
+      "name": "heroskill_visgen_hero_ghost_loyalcompanion_1",
+      "signature_skill_progression_name": "heropropertyprog_visgen_hero_ghost_loyalcompanion_1",
+      "skill_type": "MARCH",
+      "stat_name": "driven_MaxMarchSize",
+      "unlock_level": 0
+    },
+    {
+      "id": "1463fd1bd6c9f056",
+      "name": "heroskill_visgen_hero_ghost_loyalcompanion_2",
+      "signature_skill_progression_name": "heropropertyprog_visgen_hero_ghost_loyalcompanion_2",
+      "skill_type": "MARCH",
+      "stat_name": "driven_MarcherTroopDefenseVsPlayer",
+      "unlock_level": 0
     }
   ]
 }

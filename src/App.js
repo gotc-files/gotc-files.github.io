@@ -9,6 +9,7 @@ import Armory from "./pages/Armory";
 import Building from "./pages/Building";
 import DailyDeliveryDetails from "./pages/DailyDeliveryDetails";
 import DailyDeliveryTable from "./pages/DailyDeliveryTable";
+import DragonGear from "./pages/DragonGear";
 import Enhancement from "./pages/Enhancement";
 import Hero from "./pages/Hero";
 import HeroCollectionAction from "./pages/HeroCollectionAction";
@@ -58,6 +59,11 @@ function App() {
             <Route
               path="/trinket-armory/:trinketArmoryId"
               element={<TrinketArmory />}
+            />
+            <Route path="/dragon-gear" element={<DragonGear />} />
+            <Route
+              path="/dragon-gear/:dragonGearSetId"
+              element={<DragonGear />}
             />
             <Route path="/hero" element={<Hero />} />
             <Route

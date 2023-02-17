@@ -1,6 +1,7 @@
 from pages.armory import ArmoryProcessor
 from pages.building import BuildingProcessor
 from pages.daily_delivery import DailyDeliveryProcessor
+from pages.dragon_gear import DragonGearProcessor
 from pages.enhancement import EnhancementProcessor
 from pages.hero import HeroProcessor
 from pages.hero_collection_action import HeroCollectionActionProcessor
@@ -15,6 +16,7 @@ def page_processor_list():
     return (
         ("armory", ArmoryProcessor),
         ("trinket_armory", TrinketArmoryProcessor),
+        ("dragon_gear", DragonGearProcessor),
         ("hero", HeroProcessor),
         ("summon", SummonProcessor),
         ("daily_delivery", DailyDeliveryProcessor),
