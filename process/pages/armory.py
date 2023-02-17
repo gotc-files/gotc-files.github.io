@@ -3,6 +3,9 @@ from pages.page_processor import InsufficientDataException
 from files.util import convert_numbers
 
 
+PIECE_NAMES = ["ring", "weapon", "boots", "pants", "helmet", "chest"]
+
+
 def _color_to_rgb(color):
     return "#" + "".join(
         [("%02x" % color.get(key, 0)) for key in ("red", "green", "blue")]
@@ -13,6 +16,13 @@ class ArmoryProcessor(PageProcessor):
     def process(self):
         armory_sets = []
         for raw_armory_set in self.iterate_files(["gear_set_1", "gear_set_2"]):
+            if any(
+                [
+                    (piece_name + "_name") not in raw_armory_set
+                    for piece_name in PIECE_NAMES
+                ]
+            ):
+                continue
             try:
                 armory_sets.append(self._process_armory_set(raw_armory_set))
             except InsufficientDataException:
@@ -25,7 +35,7 @@ class ArmoryProcessor(PageProcessor):
             "gear_set_name",
             raw_armory_set["name"],
         )
-        return {
+        armory_set = {
             "id": raw_armory_set["id"],
             "name": self.translate(raw_armory_set["name_placeholder"]),
             "description": self.translate(raw_armory_set["description_placeholder"]),
@@ -35,16 +45,18 @@ class ArmoryProcessor(PageProcessor):
                 ]
             ),
             "color": _color_to_rgb(raw_armory_set["color"]),
-            "ring": self._process_gear_piece(raw_armory_set["ring_name"]),
-            "weapon": self._process_gear_piece(raw_armory_set["weapon_name"]),
-            "boots": self._process_gear_piece(raw_armory_set["boots_name"]),
-            "pants": self._process_gear_piece(raw_armory_set["pants_name"]),
-            "helmet": self._process_gear_piece(raw_armory_set["helmet_name"]),
-            "chest": self._process_gear_piece(raw_armory_set["chest_name"]),
-            "bonus_1": self._process_armory_stat(armory_collection["bonuses"][0]),
-            "bonus_2": self._process_armory_stat(armory_collection["bonuses"][1]),
-            "bonus_3": self._process_armory_stat(armory_collection["bonuses"][2]),
         }
+        for piece_name in PIECE_NAMES:
+            armory_set[piece_name] = self._process_gear_piece(
+                raw_armory_set[piece_name + "_name"]
+            )
+
+        for i in range(3):
+            armory_set["bonus_" + str(i + 1)] = self._process_armory_stat(
+                armory_collection["bonuses"][i]
+            )
+
+        return armory_set
 
     def _process_gear_piece(self, gear_piece_name):
         gear = self.lookup_files(

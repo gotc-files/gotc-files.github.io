@@ -516,6 +516,18 @@
       "name": "armcol_events_harrenhal3",
       "name_placeholder": "EQ_EVENTS_HARRENHAL3_SET_NAME",
       "priority": 25500
+    },
+    {
+      "bonuses": [
+        "armcol_events_snow1_1",
+        "armcol_events_snow1_2",
+        "armcol_events_snow1_3"
+      ],
+      "gear_set_name": "gearset_events_snow1",
+      "id": "3f8b73d28cd29544",
+      "name": "armcol_events_snow1",
+      "name_placeholder": "EQ_EVENTS_SNOW1_SET_NAME",
+      "priority": 26100
     }
   ]
 }

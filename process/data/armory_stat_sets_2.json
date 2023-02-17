@@ -1290,6 +1290,36 @@
           "progression": "prog_armory_bonus_SpecificTroop_1"
         }
       ]
+    },
+    {
+      "id": "9776db54a6f8a8a8",
+      "name": "armcol_events_snow1_1",
+      "stats": [
+        {
+          "name": "property_MarcherTroopDefenseVsPlayer_armory",
+          "progression": "prog_armory_bouns_MarcherTroop_1"
+        }
+      ]
+    },
+    {
+      "id": "e26487bf7f0d5aa6",
+      "name": "armcol_events_snow1_2",
+      "stats": [
+        {
+          "name": "property_MarchingSpeedVsSeatOfPower_armory",
+          "progression": "prog_armory_bonus_SpecificTroop_1"
+        }
+      ]
+    },
+    {
+      "id": "ce954c19c85e0b5c",
+      "name": "armcol_events_snow1_3",
+      "stats": [
+        {
+          "name": "property_DragonTroopDefenseVsPlayer_armory",
+          "progression": "prog_armory_bonus_GeneralTroop_1"
+        }
+      ]
     }
   ]
 }

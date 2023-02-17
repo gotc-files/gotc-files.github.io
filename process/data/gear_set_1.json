@@ -2,6 +2,21 @@
   "description": "Basic information about an event armory gear set",
   "values": [
     {
+      "color": {
+        "alpha": 255,
+        "blue": 44,
+        "green": 73,
+        "red": 54
+      },
+      "description_placeholder": "EQ_EVENTS_DRAGONGEAR01_SET_DESCRIPTION",
+      "id": "5c09f04925b422fb",
+      "material_id": 14149021608447419188,
+      "material_name": "mat_valyrianschematic",
+      "name": "gearset_event_dragongear01",
+      "name_placeholder": "EQ_EVENTS_DRAGONGEAR01_SET_NAME",
+      "priority": 0
+    },
+    {
       "boots_id": "9eb392bf0558f75a",
       "boots_name": "prog_gearset_winter_coming_boots",
       "chest_id": "a2c82e1531c7c662",

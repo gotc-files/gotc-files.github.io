@@ -1161,6 +1161,33 @@
       "ring_name": "prog_gearset_events_harrenhal3_ring",
       "weapon_id": "13761ce512319e26",
       "weapon_name": "prog_gearset_events_harrenhal3_weapon"
+    },
+    {
+      "boots_id": "2c9bc5a3e786821b",
+      "boots_name": "prog_gearset_events_snow1_boots",
+      "chest_id": "10e07909d319b323",
+      "chest_name": "prog_gearset_events_snow1_chest",
+      "color": {
+        "alpha": 255,
+        "blue": 135,
+        "green": 135,
+        "red": 36
+      },
+      "description_placeholder": "EQ_EVENTS_SNOW1_SET_DESCRIPTION",
+      "helmet_id": "253b6bfc90e4349c",
+      "helmet_name": "prog_gearset_events_snow1_helmet",
+      "id": "c59cf6123b50f308",
+      "material_id": 17398488616331460748,
+      "material_name": "mat_event_snow1_1",
+      "name": "gearset_events_snow1",
+      "name_placeholder": "EQ_EVENTS_SNOW1_SET_NAME",
+      "pants_id": "95a8af0135c12352",
+      "pants_name": "prog_gearset_events_snow1_pants",
+      "priority": 26100,
+      "ring_id": "aa3a8039ec356823",
+      "ring_name": "prog_gearset_events_snow1_ring",
+      "weapon_id": "576ead45f926824f",
+      "weapon_name": "prog_gearset_events_snow1_weapon"
     }
   ]
 }

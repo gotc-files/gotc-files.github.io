@@ -30194,6 +30194,606 @@
           "progression": "prog_gear_event1_MarchingSpeedVsNPC_50"
         }
       ]
+    },
+    {
+      "id": "48d2b34cf53c7b19",
+      "name": "eq_events_dragongear01_5_saddle_lord5",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_5"
+        },
+        {
+          "name": "property_DragonTroopAttackVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonTroopAttackVsPlayer_5"
+        }
+      ]
+    },
+    {
+      "id": "db504dfe32daeb06",
+      "name": "eq_events_dragongear01_5_peytral_lord5",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_5"
+        },
+        {
+          "name": "property_DragonTroopAttackVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonTroopAttackVsPlayer_5"
+        }
+      ]
+    },
+    {
+      "id": "fba96d31ddcebb1f",
+      "name": "eq_events_dragongear01_5_chanfron_lord5",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_5"
+        },
+        {
+          "name": "property_DragonTroopAttackVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonTroopAttackVsPlayer_5"
+        }
+      ]
+    },
+    {
+      "id": "b090ccf641657436",
+      "name": "eq_events_dragongear01_10_saddle_lord10",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_10"
+        },
+        {
+          "name": "property_DragonTroopAttackVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonTroopAttackVsPlayer_10"
+        }
+      ]
+    },
+    {
+      "id": "4259e40fe432ebb3",
+      "name": "eq_events_dragongear01_10_peytral_lord10",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_10"
+        },
+        {
+          "name": "property_DragonTroopAttackVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonTroopAttackVsPlayer_10"
+        }
+      ]
+    },
+    {
+      "id": "74bdd5d3958172f8",
+      "name": "eq_events_dragongear01_10_chanfron_lord10",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_10"
+        },
+        {
+          "name": "property_DragonTroopAttackVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonTroopAttackVsPlayer_10"
+        }
+      ]
+    },
+    {
+      "id": "875a8b6ea6a6c253",
+      "name": "eq_events_dragongear01_15_saddle_lord15",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_15"
+        },
+        {
+          "name": "property_DragonTroopAttackVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonTroopAttackVsPlayer_15"
+        }
+      ]
+    },
+    {
+      "id": "6397bb5a28e8b2df",
+      "name": "eq_events_dragongear01_15_peytral_lord15",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_15"
+        },
+        {
+          "name": "property_DragonTroopAttackVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonTroopAttackVsPlayer_15"
+        }
+      ]
+    },
+    {
+      "id": "9ca05a78d016a37a",
+      "name": "eq_events_dragongear01_15_chanfron_lord15",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_15"
+        },
+        {
+          "name": "property_DragonTroopAttackVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonTroopAttackVsPlayer_15"
+        }
+      ]
+    },
+    {
+      "id": "d5a2ee1a88216009",
+      "name": "eq_events_dragongear01_20_saddle_lord20",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_20"
+        },
+        {
+          "name": "property_DragonTroopAttackVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonTroopAttackVsPlayer_20"
+        },
+        {
+          "name": "property_DragonMaxMarchSize_gear",
+          "progression": "prog_gear_Event7_DragonMaxMarchSize_20"
+        }
+      ]
+    },
+    {
+      "id": "602576b6aa4d87d6",
+      "name": "eq_events_dragongear01_20_peytral_lord20",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_20"
+        },
+        {
+          "name": "property_DragonTroopAttackVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonTroopAttackVsPlayer_20"
+        },
+        {
+          "name": "property_DragonMaxMarchSize_gear",
+          "progression": "prog_gear_Event7_DragonMaxMarchSize_20"
+        }
+      ]
+    },
+    {
+      "id": "3704c844a92fc68",
+      "name": "eq_events_dragongear01_20_chanfron_lord20",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_20"
+        },
+        {
+          "name": "property_DragonTroopAttackVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonTroopAttackVsPlayer_20"
+        },
+        {
+          "name": "property_DragonMaxMarchSize_gear",
+          "progression": "prog_gear_Event7_DragonMaxMarchSize_20"
+        }
+      ]
+    },
+    {
+      "id": "e268a9826fe2d66c",
+      "name": "eq_events_dragongear01_25_saddle_lord25",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_25"
+        },
+        {
+          "name": "property_DragonTroopAttackVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonTroopAttackVsPlayer_25"
+        },
+        {
+          "name": "property_DragonMaxMarchSize_gear",
+          "progression": "prog_gear_Event7_DragonMaxMarchSize_25"
+        }
+      ]
+    },
+    {
+      "id": "41eb29e36697deba",
+      "name": "eq_events_dragongear01_25_peytral_lord25",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_25"
+        },
+        {
+          "name": "property_DragonTroopAttackVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonTroopAttackVsPlayer_25"
+        },
+        {
+          "name": "property_DragonMaxMarchSize_gear",
+          "progression": "prog_gear_Event7_DragonMaxMarchSize_25"
+        }
+      ]
+    },
+    {
+      "id": "eb6dc32f0f052dea",
+      "name": "eq_events_dragongear01_25_chanfron_lord25",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_25"
+        },
+        {
+          "name": "property_DragonTroopAttackVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonTroopAttackVsPlayer_25"
+        },
+        {
+          "name": "property_DragonMaxMarchSize_gear",
+          "progression": "prog_gear_Event7_DragonMaxMarchSize_25"
+        }
+      ]
+    },
+    {
+      "id": "f6b30fbecf1d6c1c",
+      "name": "eq_events_dragongear01_30_saddle_lord30",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_30"
+        },
+        {
+          "name": "property_DragonTroopAttackVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonTroopAttackVsPlayer_30"
+        },
+        {
+          "name": "property_DragonMaxMarchSize_gear",
+          "progression": "prog_gear_Event7_DragonMaxMarchSize_30"
+        },
+        {
+          "name": "property_DragonTroopHealthVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonTroopHealthVsPlayer_30"
+        }
+      ]
+    },
+    {
+      "id": "7e0ef8de6f98a3f5",
+      "name": "eq_events_dragongear01_30_peytral_lord30",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_30"
+        },
+        {
+          "name": "property_DragonTroopAttackVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonTroopAttackVsPlayer_30"
+        },
+        {
+          "name": "property_DragonMaxMarchSize_gear",
+          "progression": "prog_gear_Event7_DragonMaxMarchSize_30"
+        },
+        {
+          "name": "property_DragonTroopHealthVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonTroopHealthVsPlayer_30"
+        }
+      ]
+    },
+    {
+      "id": "2e34c44900638618",
+      "name": "eq_events_dragongear01_30_chanfron_lord30",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_30"
+        },
+        {
+          "name": "property_DragonTroopAttackVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonTroopAttackVsPlayer_30"
+        },
+        {
+          "name": "property_DragonMaxMarchSize_gear",
+          "progression": "prog_gear_Event7_DragonMaxMarchSize_30"
+        },
+        {
+          "name": "property_DragonTroopHealthVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonTroopHealthVsPlayer_30"
+        }
+      ]
+    },
+    {
+      "id": "c179482628deda79",
+      "name": "eq_events_dragongear01_35_saddle_lord35",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_35"
+        },
+        {
+          "name": "property_DragonTroopAttackVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonTroopAttackVsPlayer_35"
+        },
+        {
+          "name": "property_DragonMaxMarchSize_gear",
+          "progression": "prog_gear_Event7_DragonMaxMarchSize_35"
+        },
+        {
+          "name": "property_DragonTroopHealthVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonTroopHealthVsPlayer_35"
+        }
+      ]
+    },
+    {
+      "id": "5fc0a78ba342fa99",
+      "name": "eq_events_dragongear01_35_peytral_lord35",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_35"
+        },
+        {
+          "name": "property_DragonTroopAttackVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonTroopAttackVsPlayer_35"
+        },
+        {
+          "name": "property_DragonMaxMarchSize_gear",
+          "progression": "prog_gear_Event7_DragonMaxMarchSize_35"
+        },
+        {
+          "name": "property_DragonTroopHealthVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonTroopHealthVsPlayer_35"
+        }
+      ]
+    },
+    {
+      "id": "c6294be245f4579a",
+      "name": "eq_events_dragongear01_35_chanfron_lord35",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_35"
+        },
+        {
+          "name": "property_DragonTroopAttackVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonTroopAttackVsPlayer_35"
+        },
+        {
+          "name": "property_DragonMaxMarchSize_gear",
+          "progression": "prog_gear_Event7_DragonMaxMarchSize_35"
+        },
+        {
+          "name": "property_DragonTroopHealthVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonTroopHealthVsPlayer_35"
+        }
+      ]
+    },
+    {
+      "id": "1fc6abc31aa94877",
+      "name": "eq_events_dragongear01_40_saddle_lord40",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_40"
+        },
+        {
+          "name": "property_DragonTroopAttackVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonTroopAttackVsPlayer_40"
+        },
+        {
+          "name": "property_DragonMaxMarchSize_gear",
+          "progression": "prog_gear_Event7_DragonMaxMarchSize_40"
+        },
+        {
+          "name": "property_DragonTroopHealthVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonTroopHealthVsPlayer_40"
+        },
+        {
+          "name": "property_DragonTroopDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonTroopDefenseVsPlayer_40"
+        }
+      ]
+    },
+    {
+      "id": "24dc53c436b35f1c",
+      "name": "eq_events_dragongear01_40_peytral_lord40",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_40"
+        },
+        {
+          "name": "property_DragonTroopAttackVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonTroopAttackVsPlayer_40"
+        },
+        {
+          "name": "property_DragonMaxMarchSize_gear",
+          "progression": "prog_gear_Event7_DragonMaxMarchSize_40"
+        },
+        {
+          "name": "property_DragonTroopHealthVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonTroopHealthVsPlayer_40"
+        },
+        {
+          "name": "property_DragonTroopDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonTroopDefenseVsPlayer_40"
+        }
+      ]
+    },
+    {
+      "id": "eceb7e2bf4b5e148",
+      "name": "eq_events_dragongear01_40_chanfron_lord40",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_40"
+        },
+        {
+          "name": "property_DragonTroopAttackVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonTroopAttackVsPlayer_40"
+        },
+        {
+          "name": "property_DragonMaxMarchSize_gear",
+          "progression": "prog_gear_Event7_DragonMaxMarchSize_40"
+        },
+        {
+          "name": "property_DragonTroopHealthVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonTroopHealthVsPlayer_40"
+        },
+        {
+          "name": "property_DragonTroopDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonTroopDefenseVsPlayer_40"
+        }
+      ]
+    },
+    {
+      "id": "280cec5bfd6afe12",
+      "name": "eq_events_dragongear01_45_saddle_lord45",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_45"
+        },
+        {
+          "name": "property_DragonTroopAttackVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonTroopAttackVsPlayer_45"
+        },
+        {
+          "name": "property_DragonMaxMarchSize_gear",
+          "progression": "prog_gear_Event7_DragonMaxMarchSize_45"
+        },
+        {
+          "name": "property_DragonTroopHealthVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonTroopHealthVsPlayer_45"
+        },
+        {
+          "name": "property_DragonTroopDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonTroopDefenseVsPlayer_45"
+        }
+      ]
+    },
+    {
+      "id": "5120c91fa690670",
+      "name": "eq_events_dragongear01_45_peytral_lord45",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_45"
+        },
+        {
+          "name": "property_DragonTroopAttackVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonTroopAttackVsPlayer_45"
+        },
+        {
+          "name": "property_DragonMaxMarchSize_gear",
+          "progression": "prog_gear_Event7_DragonMaxMarchSize_45"
+        },
+        {
+          "name": "property_DragonTroopHealthVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonTroopHealthVsPlayer_45"
+        },
+        {
+          "name": "property_DragonTroopDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonTroopDefenseVsPlayer_45"
+        }
+      ]
+    },
+    {
+      "id": "4f6f180b12230ca",
+      "name": "eq_events_dragongear01_45_chanfron_lord45",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_45"
+        },
+        {
+          "name": "property_DragonTroopAttackVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonTroopAttackVsPlayer_45"
+        },
+        {
+          "name": "property_DragonMaxMarchSize_gear",
+          "progression": "prog_gear_Event7_DragonMaxMarchSize_45"
+        },
+        {
+          "name": "property_DragonTroopHealthVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonTroopHealthVsPlayer_45"
+        },
+        {
+          "name": "property_DragonTroopDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonTroopDefenseVsPlayer_45"
+        }
+      ]
+    },
+    {
+      "id": "3cd74a675d954462",
+      "name": "eq_events_dragongear01_50_saddle_lord50",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_50"
+        },
+        {
+          "name": "property_DragonTroopAttackVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonTroopAttackVsPlayer_50"
+        },
+        {
+          "name": "property_DragonMaxMarchSize_gear",
+          "progression": "prog_gear_Event7_DragonMaxMarchSize_50"
+        },
+        {
+          "name": "property_DragonTroopHealthVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonTroopHealthVsPlayer_50"
+        },
+        {
+          "name": "property_DragonTroopDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonTroopDefenseVsPlayer_50"
+        }
+      ]
+    },
+    {
+      "id": "3af7ddacf3667b3f",
+      "name": "eq_events_dragongear01_50_peytral_lord50",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_50"
+        },
+        {
+          "name": "property_DragonTroopAttackVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonTroopAttackVsPlayer_50"
+        },
+        {
+          "name": "property_DragonMaxMarchSize_gear",
+          "progression": "prog_gear_Event7_DragonMaxMarchSize_50"
+        },
+        {
+          "name": "property_DragonTroopHealthVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonTroopHealthVsPlayer_50"
+        },
+        {
+          "name": "property_DragonTroopDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonTroopDefenseVsPlayer_50"
+        }
+      ]
+    },
+    {
+      "id": "c1aff6e6be449b38",
+      "name": "eq_events_dragongear01_50_chanfron_lord50",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_50"
+        },
+        {
+          "name": "property_DragonTroopAttackVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonTroopAttackVsPlayer_50"
+        },
+        {
+          "name": "property_DragonMaxMarchSize_gear",
+          "progression": "prog_gear_Event7_DragonMaxMarchSize_50"
+        },
+        {
+          "name": "property_DragonTroopHealthVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonTroopHealthVsPlayer_50"
+        },
+        {
+          "name": "property_DragonTroopDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonTroopDefenseVsPlayer_50"
+        }
+      ]
     }
   ]
 }
