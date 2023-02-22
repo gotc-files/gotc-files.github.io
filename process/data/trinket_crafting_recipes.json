@@ -10793,6 +10793,257 @@
       "steel_cost": 520000000,
       "template_level": 45,
       "upgrade_time_seconds": 345600
+    },
+    {
+      "id": "fd1e8e54ac7c34a5",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_snow1_1",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 10
+        }
+      ],
+      "name": "eq_events_trinket_snow1_1_trinket_lord1",
+      "steel_cost": 500,
+      "template_level": 0,
+      "upgrade_time_seconds": 3600
+    },
+    {
+      "id": "3a585c7cfac68acf",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_snow1_1",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 10
+        }
+      ],
+      "name": "eq_events_trinket_snow1_5_trinket_lord5",
+      "steel_cost": 4000,
+      "template_level": 1,
+      "upgrade_time_seconds": 3600
+    },
+    {
+      "id": "23d06c08dbacfef7",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_snow1_1",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 20
+        }
+      ],
+      "name": "eq_events_trinket_snow1_10_trinket_lord10",
+      "steel_cost": 36500,
+      "template_level": 5,
+      "upgrade_time_seconds": 7200
+    },
+    {
+      "id": "21e335d1776a79b",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_snow1_1",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 120
+        }
+      ],
+      "name": "eq_events_trinket_snow1_15_trinket_lord15",
+      "steel_cost": 148000,
+      "template_level": 10,
+      "upgrade_time_seconds": 21600
+    },
+    {
+      "id": "1acfeb195d39292",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_snow1_1",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 400
+        }
+      ],
+      "name": "eq_events_trinket_snow1_20_trinket_lord20",
+      "steel_cost": 534000,
+      "template_level": 15,
+      "upgrade_time_seconds": 43200
+    },
+    {
+      "id": "2062a1e45909cbfe",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_snow1_1",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 1200
+        }
+      ],
+      "name": "eq_events_trinket_snow1_25_trinket_lord25",
+      "steel_cost": 1800000,
+      "template_level": 20,
+      "upgrade_time_seconds": 64800
+    },
+    {
+      "id": "1f8770d95006b6b1",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_snow1_1",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 3000
+        }
+      ],
+      "name": "eq_events_trinket_snow1_30_trinket_lord30",
+      "steel_cost": 5850000,
+      "template_level": 25,
+      "upgrade_time_seconds": 86400
+    },
+    {
+      "id": "3e492f8c9cdcefdd",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_snow1_1",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 12000
+        }
+      ],
+      "name": "eq_events_trinket_snow1_35_trinket_lord35",
+      "steel_cost": 18400000,
+      "template_level": 30,
+      "upgrade_time_seconds": 129600
+    },
+    {
+      "id": "4555dbc3092d4a58",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_snow1_1",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 45000
+        }
+      ],
+      "name": "eq_events_trinket_snow1_40_trinket_lord40",
+      "steel_cost": 56900000,
+      "template_level": 35,
+      "upgrade_time_seconds": 172800
+    },
+    {
+      "id": "649b8496c5f71334",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_snow1_1",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 120000
+        }
+      ],
+      "name": "eq_events_trinket_snow1_45_trinket_lord45",
+      "steel_cost": 173000000,
+      "template_level": 40,
+      "upgrade_time_seconds": 259200
+    },
+    {
+      "id": "5b7e55abccf86e7b",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_snow1_1",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 450000
+        }
+      ],
+      "name": "eq_events_trinket_snow1_50_trinket_lord50",
+      "steel_cost": 520000000,
+      "template_level": 45,
+      "upgrade_time_seconds": 345600
     }
   ]
 }

@@ -489,6 +489,19 @@
       "name": "armcol_trinket_dragonriderartifacts_1",
       "name_placeholder": "EQ_TRINKET_DRAGONRIDERARTIFACTS_1_SET_NAME",
       "priority": 21
+    },
+    {
+      "bonuses": [
+        "armcol_trinket_northernartifacts_1_1",
+        "armcol_trinket_northernartifacts_1_2",
+        "armcol_trinket_northernartifacts_1_3",
+        "armcol_trinket_northernartifacts_1_4"
+      ],
+      "gear_set_name": "gearset_trinketarmory_northernartifacts_1",
+      "id": "5001278c261efaf4",
+      "name": "armcol_trinket_northernartifacts_1",
+      "name_placeholder": "EQ_TRINKET_NORTHERNARTIFACTS_1_SET_NAME",
+      "priority": 22
     }
   ]
 }
