@@ -2800,6 +2800,28 @@
         "summon_purchase_royal_JonSnowQyburnFEB23_Gold_10x_top"
       ],
       "time_str": "FEB23"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "id": "8da16ebb7def715",
+      "name": "summon_noble_GreyWormLuwinFEB23VARIANT_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_GreyWormLuwinFEB23VARIANT_Hero_1x_top",
+        "summon_purchase_noble_GreyWormLuwinFEB23VARIANT_Hero_10x_top"
+      ]
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "id": "7560828290928587",
+      "name": "summon_royal_GreyWormLuwinFEB23VARIANT_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_GreyWormLuwinFEB23VARIANT_Gold_1x_top",
+        "summon_purchase_royal_GreyWormLuwinFEB23VARIANT_Gold_10x_top"
+      ]
     }
   ]
 }

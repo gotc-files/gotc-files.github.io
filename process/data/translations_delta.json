@@ -242,6 +242,62 @@
       "value": "Active Rally"
     },
     {
+      "name": "ACTIVITY_DESCRIPTION_MTX_ARCGEAR_184",
+      "value": "Prepare for the new Living Mountain gear set!"
+    },
+    {
+      "name": "ACTIVITY_DESCRIPTION_MTX_ARCGEAR_185",
+      "value": "Use Dark Steel Plate to craft this imposing gear!"
+    },
+    {
+      "name": "ACTIVITY_DESCRIPTION_MTX_ARCGEAR_186",
+      "value": "\"No other knight in the realm inspires such terror in our enemies.\""
+    },
+    {
+      "name": "ACTIVITY_DESCRIPTION_MTX_ARCGEAR_187",
+      "value": "Craft this armor and sow fear on the field of battle!"
+    },
+    {
+      "name": "ACTIVITY_DESCRIPTION_MTX_HEROES_129",
+      "value": "Enough Relics to get Missandei and Roose to level 20!"
+    },
+    {
+      "name": "ACTIVITY_DESCRIPTION_MTX_HEROES_130",
+      "value": "Accelerate Missandei's growth with this pack!"
+    },
+    {
+      "name": "ACTIVITY_DESCRIPTION_MTX_HEROES_131",
+      "value": "Level up Daenerys, Eddard, Grey Worm and Arya!"
+    },
+    {
+      "name": "ACTIVITY_DESCRIPTION_MTX_HEROES_132",
+      "value": "Level up Young Ned, Tyrion, Varys and Sansa!"
+    },
+    {
+      "name": "ACTIVITY_DESCRIPTION_MTX_HEROES_133",
+      "value": "Accelerate Rhaegal's growth with this pack!"
+    },
+    {
+      "name": "ACTIVITY_DESCRIPTION_MTX_HEROES_134",
+      "value": "Level up Rhaegal, Margaery, Theon and Yara!"
+    },
+    {
+      "name": "ACTIVITY_DESCRIPTION_MTX_HEROES_135",
+      "value": "Level up Night King, Benjen, Three-Eyed Raven and Leaf!"
+    },
+    {
+      "name": "ACTIVITY_DESCRIPTION_MTX_HEROES_136",
+      "value": "Level up Barristan, Walder, Cersei and Tycho!"
+    },
+    {
+      "name": "ACTIVITY_DESCRIPTION_MTX_HEROES_137",
+      "value": "Level up Jon Snow, Qyburn, Jaime and Tyrion!"
+    },
+    {
+      "name": "ACTIVITY_DESCRIPTION_MTX_HEROES_138",
+      "value": "Level up Grey Worm, Maester Luwin, Arya and Missandei!"
+    },
+    {
       "name": "ACTIVITY_DESCRIPTION_MTX_TRINKET_86",
       "value": "Craft this trinket and lead your cavalry to glory!"
     },
@@ -290,6 +346,38 @@
       "value": "In the throes of battle, a legend is born! From the most unlikely of contenders, a Lord can ascend to the summit of power and glory. For a 24 hours, they put everything on the line against rival Lords, risking their name for the promise of glory, and perhaps even infamy. The opportunity is yours to seize, to enter the crucible and test your mettle against other mighty Lords from other kingdoms. Journey forth and claim a Seat of Power, defend it with all your might, and inscribe your name in the annals of history. At the end, your actions will judge your valor by how long your capable of holding onto a Seat of Power. But beware, others are vying for glory. Are you prepared to Test Your Mettle?"
     },
     {
+      "name": "ACTIVITY_DESCRIPTION_VALENTINES_GEMS_1",
+      "value": "\"Merchants from the Jade Sea have arrived on the shores of Westeros with abundant stores of gold!\n\nCelebrate Valentine's Day with EVEN MORE GOLD! Using Gems to redeem bundles in the Store awards points towards this event.\nIf the purchases made with Gems contain Gold, that Gold will contribute to the progress of the separate Valentines Day Celebration Event. Daily Deliveries and Rewards Passes only award points for initial gold received at the time of purchase. Rewards must be collected before the promotion ends.\""
+    },
+    {
+      "name": "ACTIVITY_NAME_MTX_ARCGEAR_184",
+      "value": "Living Mountain Daily Delivery"
+    },
+    {
+      "name": "ACTIVITY_NAME_MTX_ARCGEAR_185",
+      "value": "Living Mountain Materials Pack"
+    },
+    {
+      "name": "ACTIVITY_NAME_MTX_ARCGEAR_186",
+      "value": "Living Mountain's Cruel Claymore"
+    },
+    {
+      "name": "ACTIVITY_NAME_MTX_ARCGEAR_187",
+      "value": "Living Mountain's Dark Steel Field Plate"
+    },
+    {
+      "name": "ACTIVITY_NAME_MTX_HEROES_129",
+      "value": "The Missandei and Roose Launch Pack"
+    },
+    {
+      "name": "ACTIVITY_NAME_MTX_HEROES_130",
+      "value": "Missandei Milestone Achievement Pack"
+    },
+    {
+      "name": "ACTIVITY_NAME_MTX_HEROES_133",
+      "value": "Rhaegal Milestone Achievement Pack"
+    },
+    {
       "name": "ACTIVITY_NAME_MTX_TRINKET_86",
       "value": "Riding Spurs Materials Pack"
     },
@@ -324,6 +412,14 @@
     {
       "name": "ACTIVITY_NAME_SNOW1_UMBRELLA_1",
       "value": "As The Crow Flies"
+    },
+    {
+      "name": "ACTIVITY_SPLASH_MTX_HEROES_130",
+      "value": "More Missandei Relics!"
+    },
+    {
+      "name": "ACTIVITY_SPLASH_MTX_HEROES_133",
+      "value": "More Rhaegal Relics!"
     },
     {
       "name": "ACTIVITY_SPLASH_SNOW1_CRAFT_1",
@@ -16210,6 +16306,10 @@
       "value": "Rampant Emblem (L5)"
     },
     {
+      "name": "EQ_TRINKET_NORTHERNARTIFACTS_1_SET_NAME",
+      "value": "Northern Artifacts"
+    },
+    {
       "name": "EQ_TRINKET_POUCH_ALPHA_LORD10_NAME",
       "value": "Banker's Pouch (L10)"
     },
@@ -29775,7 +29875,7 @@
     },
     {
       "name": "SYSTEM_MESSAGE_TITLE_TESTYOURMETTLE_1_BODY",
-      "value": "All Seats of Power, except King's Landing, on the Test Your Mettle neutral kings are unlocked."
+      "value": "All Seats of Power on the Test Your Mettle neutral kingdoms are unlocked."
     },
     {
       "name": "SYSTEM_MESSAGE_TITLE_TESTYOURMETTLE_1_TITLE",
@@ -29783,7 +29883,7 @@
     },
     {
       "name": "SYSTEM_MESSAGE_TITLE_TESTYOURMETTLE_2_BODY",
-      "value": "All Seats of Power on the Test Your Mettle neutral kings are unlocked."
+      "value": "All Seats of Power on the Test Your Mettle neutral kingdoms are unlocked."
     },
     {
       "name": "SYSTEM_MESSAGE_TITLE_TESTYOURMETTLE_2_TITLE",
