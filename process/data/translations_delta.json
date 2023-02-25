@@ -258,6 +258,22 @@
       "value": "Craft this armor and sow fear on the field of battle!"
     },
     {
+      "name": "ACTIVITY_DESCRIPTION_MTX_ARCGEAR_188",
+      "value": "Prepare for the new Northern Noble gear set!"
+    },
+    {
+      "name": "ACTIVITY_DESCRIPTION_MTX_ARCGEAR_189",
+      "value": "Use Northern Fox Pelts to craft this splendid gear!"
+    },
+    {
+      "name": "ACTIVITY_DESCRIPTION_MTX_ARCGEAR_190",
+      "value": "\u201cShow me the path I must walk and do not let me stumble in the dark places that lie ahead.\u201d"
+    },
+    {
+      "name": "ACTIVITY_DESCRIPTION_MTX_ARCGEAR_191",
+      "value": "Craft this ring and brace your troops for the coming frost!"
+    },
+    {
       "name": "ACTIVITY_DESCRIPTION_MTX_HEROES_129",
       "value": "Enough Relics to get Missandei and Roose to level 20!"
     },
@@ -323,7 +339,7 @@
     },
     {
       "name": "ACTIVITY_DESCRIPTION_SNOW1_PVE_RALLY_1",
-      "value": "Dark wings, dark words\u2014Lord Eddard Stark has been executed by the Lannisters. With all haste, Jon rides off to meet his brother Robb and march south to war... but his oath requires he stay or be executed. His brothers in black ride after him, pleading he reconsider. Yet it is in the recitation of their oath that Jon accepts the true weight of his vow, and with a solemn heart, returns home to Castle Black\n\nDefeat  to earn points! \nPart of the 'As Crow Flies' Event"
+      "value": "Dark wings, dark words\u2014Lord Eddard Stark has been executed by the Lannisters. With all haste, Jon rides off to meet his brother Robb and march south to war... but his oath requires he stay or be executed. His brothers in black ride after him, pleading he reconsider. Yet it is in the recitation of their oath that Jon accepts the true weight of his vow, and with a solemn heart, returns home to Castle Black\n\nDefeat Night's Watch Master-At-Arms to earn points! \nPart of the 'As Crow Flies' Event"
     },
     {
       "name": "ACTIVITY_DESCRIPTION_SNOW1_TRADE_1",
@@ -331,7 +347,7 @@
     },
     {
       "name": "ACTIVITY_DESCRIPTION_SNOW1_TRADE_2",
-      "value": "With Benjen Stark missing, Jon joins the Lord Commander's march Beyond the Wall in hopes of finding him.Jon's strength and conviction have already been tested, but now he must face dangers far greater than any before. He knows nothing of what lies beyond the wall...\n\nExchange Braavosi Loan trophies in the Recipes tab of your Inventory to earn points. This event's Recipes are your last chance to use Braavosi Loan trophies before they can only be exchanged for Trader's Scrip! \nPart of the 'As Crow Flies' Event"
+      "value": "With Benjen Stark missing, Jon joins the Lord Commander's march Beyond the Wall in hopes of finding him.Jon's strength and conviction have already been tested, but now he must face dangers far greater than any before. He knows nothing of what lies beyond the wall...\n\nExchange Braavosi Loan trophies in the Recipes tab of your Inventory to earn points. This event's Recipes are your last chance to use Braavosi Loan trophies before they are converted into Trader's Scrip! \nPart of the 'As Crow Flies' Event"
     },
     {
       "name": "ACTIVITY_DESCRIPTION_SNOW1_UMBRELLA_1",
@@ -364,6 +380,22 @@
     {
       "name": "ACTIVITY_NAME_MTX_ARCGEAR_187",
       "value": "Living Mountain's Dark Steel Field Plate"
+    },
+    {
+      "name": "ACTIVITY_NAME_MTX_ARCGEAR_188",
+      "value": "Northern Noble Daily Delivery"
+    },
+    {
+      "name": "ACTIVITY_NAME_MTX_ARCGEAR_189",
+      "value": "Northern Noble Materials Pack"
+    },
+    {
+      "name": "ACTIVITY_NAME_MTX_ARCGEAR_190",
+      "value": "Northern Noble's Ironwood Crossbow"
+    },
+    {
+      "name": "ACTIVITY_NAME_MTX_ARCGEAR_191",
+      "value": "Northern Noble's Silver Ring"
     },
     {
       "name": "ACTIVITY_NAME_MTX_HEROES_129",
@@ -6051,7 +6083,7 @@
     },
     {
       "name": "DRAGONRESEARCH_DRAGONCARE_DRAGON_MARCHERCAVALRYATTACKVSPLAYER_1_NAME",
-      "value": "Dragon Marcher Cavalry Attack Versus Player I"
+      "value": "Dragon Marcher Cavalry Attack Versus Player"
     },
     {
       "name": "DRAGONRESEARCH_DRAGONCARE_DRAGON_MARCHERCAVALRYDEFENSEVSPLAYERSOP_1_NAME",
@@ -6059,7 +6091,7 @@
     },
     {
       "name": "DRAGONRESEARCH_DRAGONCARE_DRAGON_MARCHERCAVALRYDEFENSEVSPLAYER_1_NAME",
-      "value": "Dragon Marcher Cavalry Defense Versus Player I"
+      "value": "Dragon Marcher Cavalry Defense Versus Player"
     },
     {
       "name": "DRAGONRESEARCH_DRAGONCARE_DRAGON_MARCHERCAVALRYHEALTHVSPLAYERSOP_1_NAME",
@@ -6067,7 +6099,7 @@
     },
     {
       "name": "DRAGONRESEARCH_DRAGONCARE_DRAGON_MARCHERCAVALRYHEALTHVSPLAYER_1_NAME",
-      "value": "Dragon Marcher Cavalry Health Versus Player I"
+      "value": "Dragon Marcher Cavalry Health Versus Player"
     },
     {
       "name": "DRAGONRESEARCH_DRAGONCARE_DRAGON_MARCHERINFANTRYATTACKVSPLAYERSOP_1_NAME",
@@ -6075,15 +6107,15 @@
     },
     {
       "name": "DRAGONRESEARCH_DRAGONCARE_DRAGON_MARCHERINFANTRYATTACKVSPLAYER_1_NAME",
-      "value": "Dragon Marcher Infantry Attack Versus Player I"
+      "value": "Dragon Marcher Infantry Attack Versus Player"
     },
     {
       "name": "DRAGONRESEARCH_DRAGONCARE_DRAGON_MARCHERINFANTRYDEFENSEVSPLAYER_1_NAME",
-      "value": "Dragon Marcher Infantry Defense Versus Player I"
+      "value": "Dragon Marcher Infantry Defense Versus Player"
     },
     {
       "name": "DRAGONRESEARCH_DRAGONCARE_DRAGON_MARCHERINFANTRYHEALTHVSPLAYER_1_NAME",
-      "value": "Dragon Marcher Infantry Health Versus Player I"
+      "value": "Dragon Marcher Infantry Health Versus Player"
     },
     {
       "name": "DRAGONRESEARCH_DRAGONCARE_DRAGON_MARCHERRANGEDATTACKVSPLAYERSOP_1_NAME",
@@ -6091,15 +6123,15 @@
     },
     {
       "name": "DRAGONRESEARCH_DRAGONCARE_DRAGON_MARCHERRANGEDATTACKVSPLAYER_1_NAME",
-      "value": "Dragon Marcher Ranged Attack Versus Player I"
+      "value": "Dragon Marcher Ranged Attack Versus Player"
     },
     {
       "name": "DRAGONRESEARCH_DRAGONCARE_DRAGON_MARCHERRANGEDDEFENSEVSPLAYER_1_NAME",
-      "value": "Dragon Marcher Ranged Defense Versus Player I"
+      "value": "Dragon Marcher Ranged Defense Versus Player"
     },
     {
       "name": "DRAGONRESEARCH_DRAGONCARE_DRAGON_MARCHERRANGEDHEALTHVSPLAYER_1_NAME",
-      "value": "Dragon Marcher Ranged Health Versus Player I"
+      "value": "Dragon Marcher Ranged Health Versus Player"
     },
     {
       "name": "DRAGONRESEARCH_DRAGONCARE_DRAGON_MARCHERTROOPHEALTHVSPLAYERSOP_1_NAME",
@@ -6107,7 +6139,7 @@
     },
     {
       "name": "DRAGONRESEARCH_DRAGONCARE_DRAGON_MARCHERTROOPHEALTHVSPLAYER_1_NAME",
-      "value": "Dragon Marcher Troop Health Versus Player I"
+      "value": "Dragon Marcher Troop Health Versus Player"
     },
     {
       "name": "DRAGONRESEARCH_DRAGONCARE_DRAGON_MARCHSPEED_1_NAME",
@@ -6118,12 +6150,16 @@
       "value": "Dragon March Speed II"
     },
     {
+      "name": "DRAGONRESEARCH_DRAGONCARE_DRAGON_MAXMARCHSIZEVSSOP_1_NAME",
+      "value": "Dragon March Size vs Player II"
+    },
+    {
       "name": "DRAGONRESEARCH_DRAGONCARE_DRAGON_MAXMARCHSIZE_1_NAME",
-      "value": "Dragon March Size I"
+      "value": "Dragon March Size vs Player I"
     },
     {
       "name": "DRAGONRESEARCH_DRAGONCARE_DRAGON_MAXMARCHSIZE_2_NAME",
-      "value": "Dragon March Size II"
+      "value": "Dragon March Size vs Player III"
     },
     {
       "name": "DRAGONRESEARCH_DRAGONCARE_DRAGON_RANGEDATTACKVSPLAYERSOP_1_NAME",
@@ -6190,8 +6226,16 @@
       "value": "Dragon Siege Health Versus Player III"
     },
     {
+      "name": "DRAGONRESEARCH_DRAGONCARE_DRAGON_TROOPATTACKVSPLAYER_1_NAME",
+      "value": "Dragon Troop Attack Versus Player I"
+    },
+    {
       "name": "DRAGONRESEARCH_DRAGONCARE_DRAGON_TROOPATTACKVSSTRATEGICTERRAIN_1_NAME",
       "value": "Dragon Troop Attack Versus Player II"
+    },
+    {
+      "name": "DRAGONRESEARCH_DRAGONCARE_DRAGON_TROOPDEFENSEVSPLAYER_1_NAME",
+      "value": "Dragon Troop Defense Versus Player I"
     },
     {
       "name": "DRAGONRESEARCH_DRAGONCARE_DRAGON_TROOPDEFENSEVSSTRATEGICTERRAIN_1_NAME",
@@ -6456,6 +6500,18 @@
     {
       "name": "DRAGON_STOKE",
       "value": "Feed"
+    },
+    {
+      "name": "DRAGON_TENACITY_RECHARGE_100",
+      "value": "Refill All"
+    },
+    {
+      "name": "DRAGON_WEAPON_RECHARGE_BODY",
+      "value": "Successfully added charges"
+    },
+    {
+      "name": "DRAGON_WEAPON_RECHARGE_HEADER",
+      "value": "Recharge Complete"
     },
     {
       "name": "DRAGON_XP",
@@ -13791,11 +13847,11 @@
     },
     {
       "name": "EQ_EVENTS_SNOW1_10_CHEST_LORD10_NAME",
-      "value": "Norther Noble's Fox-fur Gown (L10)"
+      "value": "Northern Noble's Fox-fur Gown (L10)"
     },
     {
       "name": "EQ_EVENTS_SNOW1_10_HELMET_LORD10_NAME",
-      "value": "Norther Noble's Round Cap (L10)"
+      "value": "Northern Noble's Round Cap (L10)"
     },
     {
       "name": "EQ_EVENTS_SNOW1_10_PANTS_LORD10_NAME",
@@ -13807,7 +13863,7 @@
     },
     {
       "name": "EQ_EVENTS_SNOW1_10_WEAPON_LORD10_NAME",
-      "value": "Norther Noble's Ironwood Crossbow (L10)"
+      "value": "Northern Noble's Ironwood Crossbow (L10)"
     },
     {
       "name": "EQ_EVENTS_SNOW1_15_BOOTS_LORD15_NAME",
@@ -13815,11 +13871,11 @@
     },
     {
       "name": "EQ_EVENTS_SNOW1_15_CHEST_LORD15_NAME",
-      "value": "Norther Noble's Fox-fur Gown (L15)"
+      "value": "Northern Noble's Fox-fur Gown (L15)"
     },
     {
       "name": "EQ_EVENTS_SNOW1_15_HELMET_LORD15_NAME",
-      "value": "Norther Noble's Round Cap (L15)"
+      "value": "Northern Noble's Round Cap (L15)"
     },
     {
       "name": "EQ_EVENTS_SNOW1_15_PANTS_LORD15_NAME",
@@ -13831,7 +13887,7 @@
     },
     {
       "name": "EQ_EVENTS_SNOW1_15_WEAPON_LORD15_NAME",
-      "value": "Norther Noble's Ironwood Crossbow (L15)"
+      "value": "Northern Noble's Ironwood Crossbow (L15)"
     },
     {
       "name": "EQ_EVENTS_SNOW1_20_BOOTS_LORD20_NAME",
@@ -13839,11 +13895,11 @@
     },
     {
       "name": "EQ_EVENTS_SNOW1_20_CHEST_LORD20_NAME",
-      "value": "Norther Noble's Fox-fur Gown (L20)"
+      "value": "Northern Noble's Fox-fur Gown (L20)"
     },
     {
       "name": "EQ_EVENTS_SNOW1_20_HELMET_LORD20_NAME",
-      "value": "Norther Noble's Round Cap (L20)"
+      "value": "Northern Noble's Round Cap (L20)"
     },
     {
       "name": "EQ_EVENTS_SNOW1_20_PANTS_LORD20_NAME",
@@ -13855,7 +13911,7 @@
     },
     {
       "name": "EQ_EVENTS_SNOW1_20_WEAPON_LORD20_NAME",
-      "value": "Norther Noble's Ironwood Crossbow (L20)"
+      "value": "Northern Noble's Ironwood Crossbow (L20)"
     },
     {
       "name": "EQ_EVENTS_SNOW1_25_BOOTS_LORD25_NAME",
@@ -13863,11 +13919,11 @@
     },
     {
       "name": "EQ_EVENTS_SNOW1_25_CHEST_LORD25_NAME",
-      "value": "Norther Noble's Fox-fur Gown (L25)"
+      "value": "Northern Noble's Fox-fur Gown (L25)"
     },
     {
       "name": "EQ_EVENTS_SNOW1_25_HELMET_LORD25_NAME",
-      "value": "Norther Noble's Round Cap (L25)"
+      "value": "Northern Noble's Round Cap (L25)"
     },
     {
       "name": "EQ_EVENTS_SNOW1_25_PANTS_LORD25_NAME",
@@ -13879,7 +13935,7 @@
     },
     {
       "name": "EQ_EVENTS_SNOW1_25_WEAPON_LORD25_NAME",
-      "value": "Norther Noble's Ironwood Crossbow (L25)"
+      "value": "Northern Noble's Ironwood Crossbow (L25)"
     },
     {
       "name": "EQ_EVENTS_SNOW1_30_BOOTS_LORD30_NAME",
@@ -13887,11 +13943,11 @@
     },
     {
       "name": "EQ_EVENTS_SNOW1_30_CHEST_LORD30_NAME",
-      "value": "Norther Noble's Fox-fur Gown (L30)"
+      "value": "Northern Noble's Fox-fur Gown (L30)"
     },
     {
       "name": "EQ_EVENTS_SNOW1_30_HELMET_LORD30_NAME",
-      "value": "Norther Noble's Round Cap (L30)"
+      "value": "Northern Noble's Round Cap (L30)"
     },
     {
       "name": "EQ_EVENTS_SNOW1_30_PANTS_LORD30_NAME",
@@ -13903,7 +13959,7 @@
     },
     {
       "name": "EQ_EVENTS_SNOW1_30_WEAPON_LORD30_NAME",
-      "value": "Norther Noble's Ironwood Crossbow (L30)"
+      "value": "Northern Noble's Ironwood Crossbow (L30)"
     },
     {
       "name": "EQ_EVENTS_SNOW1_35_BOOTS_LORD35_NAME",
@@ -13911,11 +13967,11 @@
     },
     {
       "name": "EQ_EVENTS_SNOW1_35_CHEST_LORD35_NAME",
-      "value": "Norther Noble's Fox-fur Gown (L35)"
+      "value": "Northern Noble's Fox-fur Gown (L35)"
     },
     {
       "name": "EQ_EVENTS_SNOW1_35_HELMET_LORD35_NAME",
-      "value": "Norther Noble's Round Cap (L35)"
+      "value": "Northern Noble's Round Cap (L35)"
     },
     {
       "name": "EQ_EVENTS_SNOW1_35_PANTS_LORD35_NAME",
@@ -13927,7 +13983,7 @@
     },
     {
       "name": "EQ_EVENTS_SNOW1_35_WEAPON_LORD35_NAME",
-      "value": "Norther Noble's Ironwood Crossbow (L35)"
+      "value": "Northern Noble's Ironwood Crossbow (L35)"
     },
     {
       "name": "EQ_EVENTS_SNOW1_40_BOOTS_LORD40_NAME",
@@ -13935,11 +13991,11 @@
     },
     {
       "name": "EQ_EVENTS_SNOW1_40_CHEST_LORD40_NAME",
-      "value": "Norther Noble's Fox-fur Gown (L40)"
+      "value": "Northern Noble's Fox-fur Gown (L40)"
     },
     {
       "name": "EQ_EVENTS_SNOW1_40_HELMET_LORD40_NAME",
-      "value": "Norther Noble's Round Cap (L40)"
+      "value": "Northern Noble's Round Cap (L40)"
     },
     {
       "name": "EQ_EVENTS_SNOW1_40_PANTS_LORD40_NAME",
@@ -13951,7 +14007,7 @@
     },
     {
       "name": "EQ_EVENTS_SNOW1_40_WEAPON_LORD40_NAME",
-      "value": "Norther Noble's Ironwood Crossbow (L40)"
+      "value": "Northern Noble's Ironwood Crossbow (L40)"
     },
     {
       "name": "EQ_EVENTS_SNOW1_45_BOOTS_LORD45_NAME",
@@ -13959,11 +14015,11 @@
     },
     {
       "name": "EQ_EVENTS_SNOW1_45_CHEST_LORD45_NAME",
-      "value": "Norther Noble's Fox-fur Gown (L45)"
+      "value": "Northern Noble's Fox-fur Gown (L45)"
     },
     {
       "name": "EQ_EVENTS_SNOW1_45_HELMET_LORD45_NAME",
-      "value": "Norther Noble's Round Cap (L45)"
+      "value": "Northern Noble's Round Cap (L45)"
     },
     {
       "name": "EQ_EVENTS_SNOW1_45_PANTS_LORD45_NAME",
@@ -13975,7 +14031,7 @@
     },
     {
       "name": "EQ_EVENTS_SNOW1_45_WEAPON_LORD45_NAME",
-      "value": "Norther Noble's Ironwood Crossbow (L45)"
+      "value": "Northern Noble's Ironwood Crossbow (L45)"
     },
     {
       "name": "EQ_EVENTS_SNOW1_50_BOOTS_LORD50_NAME",
@@ -13983,11 +14039,11 @@
     },
     {
       "name": "EQ_EVENTS_SNOW1_50_CHEST_LORD50_NAME",
-      "value": "Norther Noble's Fox-fur Gown (L50)"
+      "value": "Northern Noble's Fox-fur Gown (L50)"
     },
     {
       "name": "EQ_EVENTS_SNOW1_50_HELMET_LORD50_NAME",
-      "value": "Norther Noble's Round Cap (L50)"
+      "value": "Northern Noble's Round Cap (L50)"
     },
     {
       "name": "EQ_EVENTS_SNOW1_50_PANTS_LORD50_NAME",
@@ -13999,7 +14055,7 @@
     },
     {
       "name": "EQ_EVENTS_SNOW1_50_WEAPON_LORD50_NAME",
-      "value": "Norther Noble's Ironwood Crossbow (L50)"
+      "value": "Northern Noble's Ironwood Crossbow (L50)"
     },
     {
       "name": "EQ_EVENTS_SNOW1_5_BOOTS_LORD5_NAME",
@@ -14007,11 +14063,11 @@
     },
     {
       "name": "EQ_EVENTS_SNOW1_5_CHEST_LORD5_NAME",
-      "value": "Norther Noble's Fox-fur Gown (L5)"
+      "value": "Northern Noble's Fox-fur Gown (L5)"
     },
     {
       "name": "EQ_EVENTS_SNOW1_5_HELMET_LORD5_NAME",
-      "value": "Norther Noble's Round Cap (L5)"
+      "value": "Northern Noble's Round Cap (L5)"
     },
     {
       "name": "EQ_EVENTS_SNOW1_5_PANTS_LORD5_NAME",
@@ -14023,7 +14079,7 @@
     },
     {
       "name": "EQ_EVENTS_SNOW1_5_WEAPON_LORD5_NAME",
-      "value": "Norther Noble's Ironwood Crossbow (L5)"
+      "value": "Northern Noble's Ironwood Crossbow (L5)"
     },
     {
       "name": "EQ_EVENTS_SNOW1_SET_DESCRIPTION",
@@ -14122,47 +14178,47 @@
       "value": "Toy Soldier (L5)"
     },
     {
-      "name": "EQ_EVENTS_TRINKET_ARCNAME_10_TRINKET_LORD10_NAME",
+      "name": "EQ_EVENTS_TRINKET_SNOW1_10_TRINKET_LORD10_NAME",
       "value": "Mormont Pommel (L10)"
     },
     {
-      "name": "EQ_EVENTS_TRINKET_ARCNAME_15_TRINKET_LORD15_NAME",
+      "name": "EQ_EVENTS_TRINKET_SNOW1_15_TRINKET_LORD15_NAME",
       "value": "Mormont Pommel (L15)"
     },
     {
-      "name": "EQ_EVENTS_TRINKET_ARCNAME_1_TRINKET_LORD1_NAME",
+      "name": "EQ_EVENTS_TRINKET_SNOW1_1_TRINKET_LORD1_NAME",
       "value": "Mormont Pommel (L1)"
     },
     {
-      "name": "EQ_EVENTS_TRINKET_ARCNAME_20_TRINKET_LORD20_NAME",
+      "name": "EQ_EVENTS_TRINKET_SNOW1_20_TRINKET_LORD20_NAME",
       "value": "Mormont Pommel (L20)"
     },
     {
-      "name": "EQ_EVENTS_TRINKET_ARCNAME_25_TRINKET_LORD25_NAME",
+      "name": "EQ_EVENTS_TRINKET_SNOW1_25_TRINKET_LORD25_NAME",
       "value": "Mormont Pommel (L25)"
     },
     {
-      "name": "EQ_EVENTS_TRINKET_ARCNAME_30_TRINKET_LORD30_NAME",
+      "name": "EQ_EVENTS_TRINKET_SNOW1_30_TRINKET_LORD30_NAME",
       "value": "Mormont Pommel (L30)"
     },
     {
-      "name": "EQ_EVENTS_TRINKET_ARCNAME_35_TRINKET_LORD35_NAME",
+      "name": "EQ_EVENTS_TRINKET_SNOW1_35_TRINKET_LORD35_NAME",
       "value": "Mormont Pommel (L35)"
     },
     {
-      "name": "EQ_EVENTS_TRINKET_ARCNAME_40_TRINKET_LORD40_NAME",
+      "name": "EQ_EVENTS_TRINKET_SNOW1_40_TRINKET_LORD40_NAME",
       "value": "Mormont Pommel (L40)"
     },
     {
-      "name": "EQ_EVENTS_TRINKET_ARCNAME_45_TRINKET_LORD45_NAME",
+      "name": "EQ_EVENTS_TRINKET_SNOW1_45_TRINKET_LORD45_NAME",
       "value": "Mormont Pommel (L45)"
     },
     {
-      "name": "EQ_EVENTS_TRINKET_ARCNAME_50_TRINKET_LORD50_NAME",
+      "name": "EQ_EVENTS_TRINKET_SNOW1_50_TRINKET_LORD50_NAME",
       "value": "Mormont Pommel (L50)"
     },
     {
-      "name": "EQ_EVENTS_TRINKET_ARCNAME_5_TRINKET_LORD5_NAME",
+      "name": "EQ_EVENTS_TRINKET_SNOW1_5_TRINKET_LORD5_NAME",
       "value": "Mormont Pommel (L5)"
     },
     {
@@ -20346,6 +20402,10 @@
       "value": "Used to order your returning marching army back to your Keep instantly."
     },
     {
+      "name": "ITEM_MATERIALDRAGON_DESC",
+      "value": "Ancient schematics and plans used for crafting dragon equipment."
+    },
+    {
       "name": "ITEM_MATERIALS_EVENT_AFTERMATH_1_NAME",
       "value": "Battered Ringmail"
     },
@@ -20460,6 +20520,10 @@
     {
       "name": "ITEM_MATERIALS_EVENT_WRATHOFWINTER_1_NAME",
       "value": "Pinecone"
+    },
+    {
+      "name": "ITEM_MATERIALS_VALYRIANSCHEMATIC",
+      "value": "Valyrian Schematics"
     },
     {
       "name": "ITEM_MAT_TRINKET_BOLT_ALPHA_1_NAME",
