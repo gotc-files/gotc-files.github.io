@@ -446,6 +446,10 @@
       "value": "As The Crow Flies"
     },
     {
+      "name": "ACTIVITY_NAME_TESTYOURMETTLE",
+      "value": "Test Your Mettle"
+    },
+    {
       "name": "ACTIVITY_SPLASH_MTX_HEROES_130",
       "value": "More Missandei Relics!"
     },
@@ -18642,6 +18646,14 @@
       "value": "An infantry troop, good at attacking cavalry troops."
     },
     {
+      "name": "HOUSE_OF_THE_DRAGON_EVENT_DESC",
+      "value": "Join us for a multiple-month adventure looking at the life and times of one Jon Snow. Keep your eyes peeled for special rewards available during this time."
+    },
+    {
+      "name": "HOUSE_OF_THE_DRAGON_EVENT_HEADER",
+      "value": "Jon Snow"
+    },
+    {
       "name": "HOW_IT_WORKS",
       "value": "How it works"
     },
@@ -23790,6 +23802,10 @@
       "value": "{0}"
     },
     {
+      "name": "LEADERBOARD_TESTYOURMETTLE_PVP_LB_1_PRIZE_TITLE",
+      "value": "Test Your Mettle"
+    },
+    {
       "name": "LEADERBOARD_TGH_T1BONUS_1_PRIZE_TITLE",
       "value": "The Great Hunt Allegiance Reward"
     },
@@ -27066,6 +27082,10 @@
       "value": "Dragon Siege Health vs. a Player while attacking another player"
     },
     {
+      "name": "PROPERTY_DRAGONMARCHERTROOPATTACKVSPLAYER",
+      "value": "Dragon Marcher Troop Attack vs. Player"
+    },
+    {
       "name": "PROPERTY_DRAGONMARCHERTROOPATTACKVSPLAYERSEATOFPOWER",
       "value": "Dragon Marcher Troop Attack vs. Player at a Seat Of Power"
     },
@@ -27074,12 +27094,20 @@
       "value": "Dragon Troop Attack vs. a Player while attacking another player at a Seat of Power"
     },
     {
+      "name": "PROPERTY_DRAGONMARCHERTROOPDEFENSEVSPLAYER",
+      "value": "Dragon Marcher Troop Defense vs. Player"
+    },
+    {
       "name": "PROPERTY_DRAGONMARCHERTROOPDEFENSEVSPLAYERSEATOFPOWER",
       "value": "Dragon Marcher Troop Defense vs. Player at a Seat Of Power"
     },
     {
       "name": "PROPERTY_DRAGONMARCHERTROOPDEFENSEVSPLAYERSEATOFPOWER_DESC",
       "value": "Dragon Troop Defense vs. a Player while attacking another player at a Seat of Power"
+    },
+    {
+      "name": "PROPERTY_DRAGONMARCHERTROOPHEALTHVSPLAYER",
+      "value": "Dragon Marcher Troop Health vs. Player"
     },
     {
       "name": "PROPERTY_DRAGONMARCHERTROOPHEALTHVSPLAYERSEATOFPOWER",
