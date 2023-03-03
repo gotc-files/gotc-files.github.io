@@ -2,8 +2,176 @@
   "description": "Translations for a specific language",
   "values": [
     {
-      "name": "DUMMY_STRINGGEN_EMPTYMAP_TOKEN",
-      "value": "Unused"
+      "name": "ACTIVITY_DESCRIPTION_MTX_ARCGEAR_188",
+      "value": "Prepare for the new Northern Noble gear set!"
+    },
+    {
+      "name": "ACTIVITY_DESCRIPTION_MTX_ARCGEAR_189",
+      "value": "Use Northern Fox Pelts to craft this splendid gear!"
+    },
+    {
+      "name": "ACTIVITY_DESCRIPTION_MTX_ARCGEAR_190",
+      "value": "\u201cShow me the path I must walk and do not let me stumble in the dark places that lie ahead.\u201d"
+    },
+    {
+      "name": "ACTIVITY_DESCRIPTION_MTX_ARCGEAR_191",
+      "value": "Craft this ring and brace your troops for the coming frost!"
+    },
+    {
+      "name": "ACTIVITY_DESCRIPTION_MTX_HEROES_138",
+      "value": "Level up Grey Worm, Maester Luwin, Arya and Missandei!"
+    },
+    {
+      "name": "ACTIVITY_DESCRIPTION_SNOW1_PVE_RALLY_1",
+      "value": "Dark wings, dark words\u2014Lord Eddard Stark has been executed by the Lannisters. With all haste, Jon rides off to meet his brother Robb and march south to war... but his oath requires he stay or be executed. His brothers in black ride after him, pleading he reconsider. Yet it is in the recitation of their oath that Jon accepts the true weight of his vow, and with a solemn heart, returns home to Castle Black\n\nDefeat Night's Watch Master-At-Arms to earn points! \nPart of the 'As Crow Flies' Event"
+    },
+    {
+      "name": "ACTIVITY_DESCRIPTION_SNOW1_TRADE_2",
+      "value": "With Benjen Stark missing, Jon joins the Lord Commander's march Beyond the Wall in hopes of finding him.Jon's strength and conviction have already been tested, but now he must face dangers far greater than any before. He knows nothing of what lies beyond the wall...\n\nExchange Braavosi Loan trophies in the Recipes tab of your Inventory to earn points. This event's Recipes are your last chance to use Braavosi Loan trophies before they are converted into Trader's Scrip! \nPart of the 'As Crow Flies' Event"
+    },
+    {
+      "name": "ACTIVITY_DESCRIPTION_TESTYOURMETTLE",
+      "value": "In the throes of battle, a legend is born! From the most unlikely of contenders, a Lord can ascend to the summit of power and glory. For a 24 hours, they put everything on the line against rival Lords, risking their name for the promise of glory, and perhaps even infamy. The opportunity is yours to seize, to enter the crucible and test your mettle against other mighty Lords from other kingdoms. Journey forth and claim a Seat of Power, defend it with all your might, and inscribe your name in the annals of history. At the end, your actions will judge your valor by how long your capable of holding onto a Seat of Power. But beware, others are vying for glory. Are you prepared to Test Your Mettle?"
+    },
+    {
+      "name": "ACTIVITY_NAME_MTX_ARCGEAR_188",
+      "value": "Northern Noble Daily Delivery"
+    },
+    {
+      "name": "ACTIVITY_NAME_MTX_ARCGEAR_189",
+      "value": "Northern Noble Materials Pack"
+    },
+    {
+      "name": "ACTIVITY_NAME_MTX_ARCGEAR_190",
+      "value": "Northern Noble's Ironwood Crossbow"
+    },
+    {
+      "name": "ACTIVITY_NAME_MTX_ARCGEAR_191",
+      "value": "Northern Noble's Silver Ring"
+    },
+    {
+      "name": "ACTIVITY_NAME_TESTYOURMETTLE",
+      "value": "Test Your Mettle"
+    },
+    {
+      "name": "ALCHEMY_RECIPE_EVENT_SNOW1_TROPHY_GENERIC_DESC",
+      "value": "Spend your Braavosi Loan Trophies before the event ends and this recipe disappears!"
+    },
+    {
+      "name": "DRAGONRESEARCH_DRAGONCARE_DRAGON_MAXMARCHSIZEVSSOP_1_NAME",
+      "value": "Dragon March Size vs Player II"
+    },
+    {
+      "name": "DRAGONRESEARCH_DRAGONCARE_DRAGON_MAXMARCHSIZE_1_NAME",
+      "value": "Dragon March Size vs Player I"
+    },
+    {
+      "name": "DRAGONRESEARCH_DRAGONCARE_DRAGON_MAXMARCHSIZE_2_NAME",
+      "value": "Dragon March Size vs Player III"
+    },
+    {
+      "name": "DRAGONRESEARCH_DRAGONCARE_DRAGON_TROOPATTACKVSPLAYER_1_NAME",
+      "value": "Dragon Troop Attack Versus Player I"
+    },
+    {
+      "name": "DRAGONRESEARCH_DRAGONCARE_DRAGON_TROOPDEFENSEVSPLAYER_1_NAME",
+      "value": "Dragon Troop Defense Versus Player I"
+    },
+    {
+      "name": "DRAGON_TENACITY_RECHARGE_100",
+      "value": "Refill All"
+    },
+    {
+      "name": "DRAGON_WEAPON_RECHARGE_BODY",
+      "value": "Successfully added charges"
+    },
+    {
+      "name": "DRAGON_WEAPON_RECHARGE_HEADER",
+      "value": "Recharge Complete"
+    },
+    {
+      "name": "EQ_TRINKET_NORTHERNARTIFACTS_1_SET_NAME",
+      "value": "Northern Artifacts"
+    },
+    {
+      "name": "HOUSE_OF_THE_DRAGON_EVENT_DESC",
+      "value": "Join us for a multiple-month adventure looking at the life and times of one Jon Snow. Keep your eyes peeled for special rewards available during this time."
+    },
+    {
+      "name": "HOUSE_OF_THE_DRAGON_EVENT_HEADER",
+      "value": "Jon Snow"
+    },
+    {
+      "name": "ITEM_MATERIALDRAGON_DESC",
+      "value": "Ancient schematics and plans used for crafting dragon equipment."
+    },
+    {
+      "name": "ITEM_MATERIALS_VALYRIANSCHEMATIC",
+      "value": "Valyrian Schematics"
+    },
+    {
+      "name": "NPC_COUNT_SETTINGS",
+      "value": "NPC Slider"
+    },
+    {
+      "name": "NPC_COUNT_SETTINGS_DESCRIPTION",
+      "value": "NPC Slider description"
+    },
+    {
+      "name": "PROPERTY_DRAGONMARCHERTROOPATTACKVSPLAYER",
+      "value": "Dragon Marcher Troop Attack vs. Player"
+    },
+    {
+      "name": "PROPERTY_DRAGONMARCHERTROOPDEFENSEVSPLAYER",
+      "value": "Dragon Marcher Troop Defense vs. Player"
+    },
+    {
+      "name": "PROPERTY_DRAGONMARCHERTROOPHEALTHVSPLAYER",
+      "value": "Dragon Marcher Troop Health vs. Player"
+    },
+    {
+      "name": "SESSIONREWARD_CSR_ES_SNOW1_CLAIM",
+      "value": "As The Crow Flies (Ready!)"
+    },
+    {
+      "name": "SESSIONREWARD_CSR_ES_SNOW1_DESC",
+      "value": "Claim up to four rewards every 24 hours from the As The Crow Flies event. The fourth reward contains a valuable instant Boost!"
+    },
+    {
+      "name": "SESSIONREWARD_CSR_ES_SNOW1_NAME",
+      "value": "As The Crow Flies"
+    },
+    {
+      "name": "SESSIONREWARD_CSR_ES_SNOW1_TIMER",
+      "value": "As The Crow Flies"
+    },
+    {
+      "name": "SYSTEM_MESSAGE_ TESTYOURMETTLE_PREEVENT",
+      "value": "The time to Test Your Mettle is soon upon you. During this event, players of similar lord level compete for Seats of Power on a neutral kingdom. Specific buffs will be applied to you to help you in your cause, but taking and defending your seat will require one to be steadfast and ruthless."
+    },
+    {
+      "name": "SYSTEM_MESSAGE_BODY_WINBACK_SUBDIVE_23",
+      "value": "Now is the best time to stay tuned in with our email newsletters.<b>If you are not already a subscriber, tap the button below to do so now.</b>\n\n<b>Lucky email subscribers may get an exclusive</b>\u2026subscribe to find out soon!\n\nReminder, if you are already subscribed to emails, no need to sign up again. You will be automatically eligible for the gift. \n<a href=\"https://pub.s6.exacttarget.com/tavy50mjtzx?UID={PLAYER_ID}&NAME={PLAYER_NAME}\">Sign up now</a>\n"
+    },
+    {
+      "name": "SYSTEM_MESSAGE_NOTIF_WINBACK_FEB_23",
+      "value": "New gift package in inventory: Claim before it expires! "
+    },
+    {
+      "name": "SYSTEM_MESSAGE_TESTYOURMETTLE_STARTEVENT",
+      "value": "Lords from across multiple kingdoms compete against each other by taking and holding Seats of Power! This competition is bracketed by Lord level, providing a neutral kingdom where players of similar power can participate in the event to earn points and rewards. Players can only join the neutral kingdom that is appropriate for their level and they can return to their home kingdom at any point during the event. At the end of the event, lords will automatically return to their home kingdoms. \nSpecial buffs are provided to those traveling to the neutral kingdom, protecting their troops from dying and also providing combat bonuses for attacking and defending Seats of Power. In this event, the number of troops, type of gear, gear quality, and strategic timing will make all the difference.\n\nEvent Rules\n-> Capture Seats of Power in the new kingdom to gain event points.\n-> Seats will lock and unlock on a schedule.\n-> At the end of the event, the top players will be rewarded the best rewards.\n\nGood luck and thank you for playing Games of Thrones: Conquest\n"
+    },
+    {
+      "name": "SYSTEM_MESSAGE_TITLE_TESTYOURMETTLEPREEVENT",
+      "value": "Coming Soon: Test Your Mettle Event!"
+    },
+    {
+      "name": "SYSTEM_MESSAGE_TITLE_TESTYOURMETTLE_STARTEVENT",
+      "value": "The \"Test Your Mettle\" event has officially started!"
+    },
+    {
+      "name": "SYSTEM_MESSAGE_TITLE_WINBACK_FEB_23",
+      "value": "Claim your gift and grow your power!"
     },
     {
       "name": "DRIVEN_DRAGONFEEDXPBONUS_ALPHA_DESCRIPTION",
