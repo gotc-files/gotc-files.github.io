@@ -22,12 +22,36 @@
       "value": "Level up Grey Worm, Maester Luwin, Arya and Missandei!"
     },
     {
+      "name": "ACTIVITY_DESCRIPTION_MTX_HEROES_139",
+      "value": "Enough Relics to get Hodor and Daenerys to level 20!"
+    },
+    {
+      "name": "ACTIVITY_DESCRIPTION_MTX_HEROES_140",
+      "value": "Accelerate Hodor's growth with this pack!"
+    },
+    {
+      "name": "ACTIVITY_DESCRIPTION_MTX_HEROES_141",
+      "value": "Level up Sandor, Varys, Syrio and Arya!"
+    },
+    {
+      "name": "ACTIVITY_DESCRIPTION_MTX_HEROES_142",
+      "value": "Level up Gregor, Salladhor, Doran and Ellaria!"
+    },
+    {
+      "name": "ACTIVITY_DESCRIPTION_MTX_TRINKET_87",
+      "value": "Craft this trinket and show your foes a bear's pride!"
+    },
+    {
       "name": "ACTIVITY_DESCRIPTION_SNOW1_PVE_RALLY_1",
       "value": "Dark wings, dark words\u2014Lord Eddard Stark has been executed by the Lannisters. With all haste, Jon rides off to meet his brother Robb and march south to war... but his oath requires he stay or be executed. His brothers in black ride after him, pleading he reconsider. Yet it is in the recitation of their oath that Jon accepts the true weight of his vow, and with a solemn heart, returns home to Castle Black\n\nDefeat Night's Watch Master-At-Arms to earn points! \nPart of the 'As Crow Flies' Event"
     },
     {
       "name": "ACTIVITY_DESCRIPTION_SNOW1_TRADE_2",
       "value": "With Benjen Stark missing, Jon joins the Lord Commander's march Beyond the Wall in hopes of finding him.Jon's strength and conviction have already been tested, but now he must face dangers far greater than any before. He knows nothing of what lies beyond the wall...\n\nExchange Braavosi Loan trophies in the Recipes tab of your Inventory to earn points. This event's Recipes are your last chance to use Braavosi Loan trophies before they are converted into Trader's Scrip! \nPart of the 'As Crow Flies' Event"
+    },
+    {
+      "name": "ACTIVITY_DESCRIPTION_STPATRICKS_GEMS_1",
+      "value": "\"Merchants from the Jade Sea have arrived on the shores of Westeros with abundant stores of gold!\n\nCelebrate St. Patrick's Day with EVEN MORE GOLD! Using Gems to redeem bundles in the Store awards points towards this event.\nIf the purchases made with Gems contain Gold, that Gold will contribute to the progress of the separate St. Patrick's Day Day Celebration Event. Daily Deliveries and Rewards Passes only award points for initial gold received at the time of purchase. Rewards must be collected before the promotion ends.\""
     },
     {
       "name": "ACTIVITY_DESCRIPTION_TESTYOURMETTLE",
@@ -50,8 +74,44 @@
       "value": "Northern Noble's Silver Ring"
     },
     {
+      "name": "ACTIVITY_NAME_MTX_HEROES_139",
+      "value": "The Hodor and Daenerys Launch Pack"
+    },
+    {
+      "name": "ACTIVITY_NAME_MTX_HEROES_140",
+      "value": "Hodor Milestone Achievement Pack"
+    },
+    {
+      "name": "ACTIVITY_NAME_MTX_HEROES_17",
+      "value": "Sansa Stark, Little Bird Pack"
+    },
+    {
+      "name": "ACTIVITY_NAME_MTX_HEROES_19",
+      "value": "Gendry, Apprentice Blacksmith Pack"
+    },
+    {
+      "name": "ACTIVITY_NAME_MTX_NPE_30",
+      "value": "Monthly Holiday Super Sale"
+    },
+    {
+      "name": "ACTIVITY_NAME_MTX_STARTER_18",
+      "value": "Daenerys Pack"
+    },
+    {
+      "name": "ACTIVITY_NAME_MTX_TRINKET_87",
+      "value": "Mormont Pommel Materials Pack"
+    },
+    {
       "name": "ACTIVITY_NAME_TESTYOURMETTLE",
       "value": "Test Your Mettle"
+    },
+    {
+      "name": "ACTIVITY_NAME_WARFORTHETHRONE_PVP_1",
+      "value": "War for the Throne: Open War"
+    },
+    {
+      "name": "ACTIVITY_SPLASH_MTX_HEROES_140",
+      "value": "More Hodor Relics!"
     },
     {
       "name": "ALCHEMY_RECIPE_EVENT_SNOW1_TROPHY_GENERIC_DESC",
@@ -90,6 +150,134 @@
       "value": "Recharge Complete"
     },
     {
+      "name": "EQ_EVENTS_SNOW1_10_CHEST_LORD10_NAME",
+      "value": "Northern Noble's Fox-fur Gown (L10)"
+    },
+    {
+      "name": "EQ_EVENTS_SNOW1_10_HELMET_LORD10_NAME",
+      "value": "Northern Noble's Round Cap (L10)"
+    },
+    {
+      "name": "EQ_EVENTS_SNOW1_10_WEAPON_LORD10_NAME",
+      "value": "Northern Noble's Ironwood Crossbow (L10)"
+    },
+    {
+      "name": "EQ_EVENTS_SNOW1_15_CHEST_LORD15_NAME",
+      "value": "Northern Noble's Fox-fur Gown (L15)"
+    },
+    {
+      "name": "EQ_EVENTS_SNOW1_15_HELMET_LORD15_NAME",
+      "value": "Northern Noble's Round Cap (L15)"
+    },
+    {
+      "name": "EQ_EVENTS_SNOW1_15_WEAPON_LORD15_NAME",
+      "value": "Northern Noble's Ironwood Crossbow (L15)"
+    },
+    {
+      "name": "EQ_EVENTS_SNOW1_20_CHEST_LORD20_NAME",
+      "value": "Northern Noble's Fox-fur Gown (L20)"
+    },
+    {
+      "name": "EQ_EVENTS_SNOW1_20_HELMET_LORD20_NAME",
+      "value": "Northern Noble's Round Cap (L20)"
+    },
+    {
+      "name": "EQ_EVENTS_SNOW1_20_WEAPON_LORD20_NAME",
+      "value": "Northern Noble's Ironwood Crossbow (L20)"
+    },
+    {
+      "name": "EQ_EVENTS_SNOW1_25_CHEST_LORD25_NAME",
+      "value": "Northern Noble's Fox-fur Gown (L25)"
+    },
+    {
+      "name": "EQ_EVENTS_SNOW1_25_HELMET_LORD25_NAME",
+      "value": "Northern Noble's Round Cap (L25)"
+    },
+    {
+      "name": "EQ_EVENTS_SNOW1_25_WEAPON_LORD25_NAME",
+      "value": "Northern Noble's Ironwood Crossbow (L25)"
+    },
+    {
+      "name": "EQ_EVENTS_SNOW1_30_CHEST_LORD30_NAME",
+      "value": "Northern Noble's Fox-fur Gown (L30)"
+    },
+    {
+      "name": "EQ_EVENTS_SNOW1_30_HELMET_LORD30_NAME",
+      "value": "Northern Noble's Round Cap (L30)"
+    },
+    {
+      "name": "EQ_EVENTS_SNOW1_30_WEAPON_LORD30_NAME",
+      "value": "Northern Noble's Ironwood Crossbow (L30)"
+    },
+    {
+      "name": "EQ_EVENTS_SNOW1_35_CHEST_LORD35_NAME",
+      "value": "Northern Noble's Fox-fur Gown (L35)"
+    },
+    {
+      "name": "EQ_EVENTS_SNOW1_35_HELMET_LORD35_NAME",
+      "value": "Northern Noble's Round Cap (L35)"
+    },
+    {
+      "name": "EQ_EVENTS_SNOW1_35_WEAPON_LORD35_NAME",
+      "value": "Northern Noble's Ironwood Crossbow (L35)"
+    },
+    {
+      "name": "EQ_EVENTS_SNOW1_40_CHEST_LORD40_NAME",
+      "value": "Northern Noble's Fox-fur Gown (L40)"
+    },
+    {
+      "name": "EQ_EVENTS_SNOW1_40_HELMET_LORD40_NAME",
+      "value": "Northern Noble's Round Cap (L40)"
+    },
+    {
+      "name": "EQ_EVENTS_SNOW1_40_WEAPON_LORD40_NAME",
+      "value": "Northern Noble's Ironwood Crossbow (L40)"
+    },
+    {
+      "name": "EQ_EVENTS_SNOW1_45_CHEST_LORD45_NAME",
+      "value": "Northern Noble's Fox-fur Gown (L45)"
+    },
+    {
+      "name": "EQ_EVENTS_SNOW1_45_HELMET_LORD45_NAME",
+      "value": "Northern Noble's Round Cap (L45)"
+    },
+    {
+      "name": "EQ_EVENTS_SNOW1_45_WEAPON_LORD45_NAME",
+      "value": "Northern Noble's Ironwood Crossbow (L45)"
+    },
+    {
+      "name": "EQ_EVENTS_SNOW1_50_CHEST_LORD50_NAME",
+      "value": "Northern Noble's Fox-fur Gown (L50)"
+    },
+    {
+      "name": "EQ_EVENTS_SNOW1_50_HELMET_LORD50_NAME",
+      "value": "Northern Noble's Round Cap (L50)"
+    },
+    {
+      "name": "EQ_EVENTS_SNOW1_50_RING_LORD50_NAME",
+      "value": "Northern Noble's Silver Ring (L50)"
+    },
+    {
+      "name": "EQ_EVENTS_SNOW1_50_WEAPON_LORD50_NAME",
+      "value": "Northern Noble's Ironwood Crossbow (L50)"
+    },
+    {
+      "name": "EQ_EVENTS_SNOW1_5_CHEST_LORD5_NAME",
+      "value": "Northern Noble's Fox-fur Gown (L5)"
+    },
+    {
+      "name": "EQ_EVENTS_SNOW1_5_HELMET_LORD5_NAME",
+      "value": "Northern Noble's Round Cap (L5)"
+    },
+    {
+      "name": "EQ_EVENTS_SNOW1_5_WEAPON_LORD5_NAME",
+      "value": "Northern Noble's Ironwood Crossbow (L5)"
+    },
+    {
+      "name": "EQ_EVENTS_SNOW1_SET_NAME",
+      "value": "Northern Noble"
+    },
+    {
       "name": "EQ_TRINKET_NORTHERNARTIFACTS_1_SET_NAME",
       "value": "Northern Artifacts"
     },
@@ -102,6 +290,10 @@
       "value": "Jon Snow"
     },
     {
+      "name": "ITEM_HERO_ADV_HODOR_STALWARTGUARDIAN_1_NAME",
+      "value": "Hodor, <i>Stalwart Guardian</i>, Relic."
+    },
+    {
       "name": "ITEM_MATERIALDRAGON_DESC",
       "value": "Ancient schematics and plans used for crafting dragon equipment."
     },
@@ -110,12 +302,28 @@
       "value": "Valyrian Schematics"
     },
     {
+      "name": "LEADERBOARD_WARFORTHETHRONE_PVP_ALB_1_PRIZE_TITLE",
+      "value": "War for the Throne: Open War (Allegiance)"
+    },
+    {
+      "name": "LEADERBOARD_WARFORTHETHRONE_PVP_LB_1_PRIZE_TITLE",
+      "value": "War for the Throne: Open War"
+    },
+    {
+      "name": "MAPMARKER_NIGHTSWATCH",
+      "value": "Night's Watch"
+    },
+    {
+      "name": "MAPMARKER_SOLDIER",
+      "value": "Soldier"
+    },
+    {
       "name": "NPC_COUNT_SETTINGS",
-      "value": "NPC Slider"
+      "value": "Object Density at City"
     },
     {
       "name": "NPC_COUNT_SETTINGS_DESCRIPTION",
-      "value": "NPC Slider description"
+      "value": "Modify the number of non-playable characters and objects in your city to optimize app performance on your device."
     },
     {
       "name": "PROPERTY_DRAGONMARCHERTROOPATTACKVSPLAYER",
@@ -144,6 +352,10 @@
     {
       "name": "SESSIONREWARD_CSR_ES_SNOW1_TIMER",
       "value": "As The Crow Flies"
+    },
+    {
+      "name": "SUCCESS",
+      "value": "Success!"
     },
     {
       "name": "SYSTEM_MESSAGE_ TESTYOURMETTLE_PREEVENT",
