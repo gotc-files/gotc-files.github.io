@@ -51,7 +51,7 @@
     },
     {
       "name": "ACTIVITY_DESCRIPTION_STPATRICKS_GEMS_1",
-      "value": "\"Merchants from the Jade Sea have arrived on the shores of Westeros with abundant stores of gold!\n\nCelebrate St. Patrick's Day with EVEN MORE GOLD! Using Gems to redeem bundles in the Store awards points towards this event.\nIf the purchases made with Gems contain Gold, that Gold will contribute to the progress of the separate St. Patrick's Day Day Celebration Event. Daily Deliveries and Rewards Passes only award points for initial gold received at the time of purchase. Rewards must be collected before the promotion ends.\""
+      "value": "\"Merchants from the Jade Sea have arrived on the shores of Westeros with abundant stores of gold!\n\nCelebrate St. Patrick's Day with EVEN MORE GOLD! Using Gems to redeem bundles in the Store awards points towards this event.\nIf the purchases made with Gems contain Gold, that Gold will contribute to the progress of the separate St. Patrick's Day Celebration Event. Daily Deliveries and Rewards Passes only award points for initial gold received at the time of purchase. Rewards must be collected before the promotion ends.\""
     },
     {
       "name": "ACTIVITY_DESCRIPTION_TESTYOURMETTLE",
@@ -116,6 +116,14 @@
     {
       "name": "ALCHEMY_RECIPE_EVENT_SNOW1_TROPHY_GENERIC_DESC",
       "value": "Spend your Braavosi Loan Trophies before the event ends and this recipe disappears!"
+    },
+    {
+      "name": "BATTLEGROUND_MONSTER_TOOLTIP_HEALING_TIME",
+      "value": "Regenerates hits after {0} seconds."
+    },
+    {
+      "name": "BATTLEGROUND_MONSTER_TOOLTIP_REQUIRED_VICTORIES",
+      "value": "Requires {0} hits to defeat."
     },
     {
       "name": "DRAGONRESEARCH_DRAGONCARE_DRAGON_MAXMARCHSIZEVSSOP_1_NAME",
@@ -326,6 +334,10 @@
       "value": "Modify the number of non-playable characters and objects in your city to optimize app performance on your device."
     },
     {
+      "name": "NPC_COUNT_SETTINGS_NOTIFICATION",
+      "value": "Your city has been successfully updated"
+    },
+    {
       "name": "PROPERTY_DRAGONMARCHERTROOPATTACKVSPLAYER",
       "value": "Dragon Marcher Troop Attack vs. Player"
     },
@@ -352,6 +364,10 @@
     {
       "name": "SESSIONREWARD_CSR_ES_SNOW1_TIMER",
       "value": "As The Crow Flies"
+    },
+    {
+      "name": "SHUFFLE_CHAT_INFOHEADER",
+      "value": "Event Chat"
     },
     {
       "name": "SUCCESS",
@@ -384,6 +400,26 @@
     {
       "name": "SYSTEM_MESSAGE_TITLE_WINBACK_FEB_23",
       "value": "Claim your gift and grow your power!"
+    },
+    {
+      "name": "TYM_CHAT_TAB_DESC",
+      "value": "This chat allows you to talk with all players participating in the current event, regardless of current kingdom."
+    },
+    {
+      "name": "TYM_CHAT_TAB_NAME",
+      "value": "Event Chat"
+    },
+    {
+      "name": "TYM_CHAT_TAB_WELCOME",
+      "value": "Welcome to the event chat! Here you can converse with players on all participating kingdoms."
+    },
+    {
+      "name": "TYM_KINGDOMS",
+      "value": "Kingdoms"
+    },
+    {
+      "name": "TYM_REWARDS",
+      "value": "Rewards"
     },
     {
       "name": "DRIVEN_DRAGONFEEDXPBONUS_ALPHA_DESCRIPTION",
