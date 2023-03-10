@@ -414,8 +414,16 @@
       "value": "Welcome to the event chat! Here you can converse with players on all participating kingdoms."
     },
     {
+      "name": "TYM_DESCRIPTION_FULL",
+      "value": "This is a \"Test Your Mettle\" event. Compete against players with similar keeps to hold Seats of Power.\n\nSeats of Power in Kingdom {0} are now locked, while Seats of Power within the event kingdoms are open. These seats are much easier to capture than normal.\n\nPoints are acquired periodically by holding Seats of Power. Seats with higher star count are worth more points. At the end of the event, rewards are distributed to the players in the event kingdom with the highest point totals.\n\nGood luck, and thank you for playing Game of Thrones: Conquest!"
+    },
+    {
       "name": "TYM_KINGDOMS",
       "value": "Kingdoms"
+    },
+    {
+      "name": "TYM_KINGDOM_NAME",
+      "value": "{0}: Keeps {1}-{2}"
     },
     {
       "name": "TYM_REWARDS",

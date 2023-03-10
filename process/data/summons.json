@@ -2822,6 +2822,84 @@
         "summon_purchase_royal_GreyWormLuwinFEB23VARIANT_Gold_1x_top",
         "summon_purchase_royal_GreyWormLuwinFEB23VARIANT_Gold_10x_top"
       ]
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "HodorDaenerys",
+      "id": "3c3449849323c082",
+      "name": "summon_noble_HodorDaenerysMAR23_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_HodorDaenerysMAR23_Hero_1x_top",
+        "summon_purchase_noble_HodorDaenerysMAR23_Hero_10x_top"
+      ],
+      "time_str": "MAR23"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "SandorVarys",
+      "id": "6174589cd1921c5a",
+      "name": "summon_noble_SandorVarysMAR23_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_SandorVarysMAR23_Hero_1x_top",
+        "summon_purchase_noble_SandorVarysMAR23_Hero_10x_top"
+      ],
+      "time_str": "MAR23"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "GregorSalladhor",
+      "id": "477a00f2923965df",
+      "name": "summon_noble_GregorSalladhorMAR23_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_GregorSalladhorMAR23_Hero_1x_top",
+        "summon_purchase_noble_GregorSalladhorMAR23_Hero_10x_top"
+      ],
+      "time_str": "MAR23"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "HodorDaenerys",
+      "id": "136e704887374f6e",
+      "name": "summon_royal_HodorDaenerysMAR23_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_HodorDaenerysMAR23_Gold_1x_top",
+        "summon_purchase_royal_HodorDaenerysMAR23_Gold_10x_top"
+      ],
+      "time_str": "MAR23"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "SandorVarys",
+      "id": "d1243874e40cbe50",
+      "name": "summon_royal_SandorVarysMAR23_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_SandorVarysMAR23_Gold_1x_top",
+        "summon_purchase_royal_SandorVarysMAR23_Gold_10x_top"
+      ],
+      "time_str": "MAR23"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "GregorSalladhor",
+      "id": "e539f2e53d58e7b6",
+      "name": "summon_royal_GregorSalladhorMAR23_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_GregorSalladhorMAR23_Gold_1x_top",
+        "summon_purchase_royal_GregorSalladhorMAR23_Gold_10x_top"
+      ],
+      "time_str": "MAR23"
     }
   ]
 }
