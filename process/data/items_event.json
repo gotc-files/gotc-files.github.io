@@ -2792,12 +2792,282 @@
       "type": "item"
     },
     {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_Q1_DESC",
+      "id": "6fb6d324b0086c53",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s8_amount1_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT1_MINQUALITY1_NAME",
+      "priority": 1035000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_Q1_DESC",
+      "id": "8374d8b299f0f53f",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s8_amount10_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT10_MINQUALITY1_NAME",
+      "priority": 1035100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_Q1_DESC",
+      "id": "e53c632d88946350",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s8_amount100_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT100_MINQUALITY1_NAME",
+      "priority": 1035200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_Q1_DESC",
+      "id": "f6ec0ee9493d9b3e",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s8_amount1000_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT1000_MINQUALITY1_NAME",
+      "priority": 1035300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_Q1_DESC",
+      "id": "c9b8305d6417ffc4",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s8_amount10000_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT10000_MINQUALITY1_NAME",
+      "priority": 1035400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_Q1_DESC",
+      "id": "cc88f9eeef8f3602",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s8_amount100000_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT100000_MINQUALITY1_NAME",
+      "priority": 1035500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_Q1_DESC",
+      "id": "4607e06dbd84991d",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s8_amount1000000_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT1000000_MINQUALITY1_NAME",
+      "priority": 1035600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_Q1_DESC",
+      "id": "2dbe7eb1669f2972",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s8_amount10000000_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT10000000_MINQUALITY1_NAME",
+      "priority": 1035700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_Q1_DESC",
+      "id": "3e63e250e4fcae3a",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s8_amount100000000_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT100000000_MINQUALITY1_NAME",
+      "priority": 1035800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_Q1_DESC",
+      "id": "7ab7912b00f77919",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s8_amount1000000000_minquality1",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT1000000000_MINQUALITY1_NAME",
+      "priority": 1035900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_Q2_DESC",
+      "id": "1aa48fcf69fd9e5d",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s8_amount1_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT1_MINQUALITY2_NAME",
+      "priority": 1036100,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_Q2_DESC",
+      "id": "f666845940050731",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s8_amount10_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT10_MINQUALITY2_NAME",
+      "priority": 1036200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_Q2_DESC",
+      "id": "902e3fc65161915e",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s8_amount100_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT100_MINQUALITY2_NAME",
+      "priority": 1036300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_Q2_DESC",
+      "id": "83fe520290c86930",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s8_amount1000_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT1000_MINQUALITY2_NAME",
+      "priority": 1036400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_Q2_DESC",
+      "id": "bcaa6cb6bde20dca",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s8_amount10000_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT10000_MINQUALITY2_NAME",
+      "priority": 1036500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_Q2_DESC",
+      "id": "b99aa505367ac40c",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s8_amount100000_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT100000_MINQUALITY2_NAME",
+      "priority": 1036600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_Q2_DESC",
+      "id": "3315bc8664716b13",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s8_amount1000000_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT1000000_MINQUALITY2_NAME",
+      "priority": 1036700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_Q2_DESC",
+      "id": "58ac225abf6adb7c",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s8_amount10000000_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT10000000_MINQUALITY2_NAME",
+      "priority": 1036800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_Q2_DESC",
+      "id": "4b71bebb3d095c34",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s8_amount100000000_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT100000000_MINQUALITY2_NAME",
+      "priority": 1036900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_Q2_DESC",
+      "id": "fa5cdc0d9028b17",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s8_amount1000000000_minquality2",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT1000000000_MINQUALITY2_NAME",
+      "priority": 1037000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_Q3_DESC",
+      "id": "36554469deaecfa7",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s8_amount1_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT1_MINQUALITY3_NAME",
+      "priority": 1037200,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_Q3_DESC",
+      "id": "da974ffff75656cb",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s8_amount10_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT10_MINQUALITY3_NAME",
+      "priority": 1037300,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_Q3_DESC",
+      "id": "bcdff460e632c0a4",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s8_amount100_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT100_MINQUALITY3_NAME",
+      "priority": 1037400,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_Q3_DESC",
+      "id": "af0f99a4279b38ca",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s8_amount1000_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT1000_MINQUALITY3_NAME",
+      "priority": 1037500,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_Q3_DESC",
+      "id": "905ba7100ab15c30",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s8_amount10000_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT10000_MINQUALITY3_NAME",
+      "priority": 1037600,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_Q3_DESC",
+      "id": "956b6ea3812995f6",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s8_amount100000_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT100000_MINQUALITY3_NAME",
+      "priority": 1037700,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_Q3_DESC",
+      "id": "1fe47720d3223ae9",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s8_amount1000000_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT1000000_MINQUALITY3_NAME",
+      "priority": 1037800,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_Q3_DESC",
+      "id": "745de9fc08398a86",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s8_amount10000000_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT10000000_MINQUALITY3_NAME",
+      "priority": 1037900,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_Q3_DESC",
+      "id": "6780751d8a5a0dce",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s8_amount100000000_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT100000000_MINQUALITY3_NAME",
+      "priority": 1038000,
+      "type": "item"
+    },
+    {
+      "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_Q3_DESC",
+      "id": "235406666e51daed",
+      "image": "icon_lootbox_crafting.png",
+      "name": "item_event_rewardbox_randomeventmaterials_s8_amount1000000000_minquality3",
+      "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT1000000000_MINQUALITY3_NAME",
+      "priority": 1038100,
+      "type": "item"
+    },
+    {
       "description_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA1_Q1_DESC",
       "id": "f0a15388b59dbb0f",
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta1_amount1_minquality1",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA1_AMOUNT1_MINQUALITY1_NAME",
-      "priority": 1035400,
+      "priority": 1038600,
       "type": "item"
     },
     {
@@ -2806,7 +3076,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta1_amount10_minquality1",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA1_AMOUNT10_MINQUALITY1_NAME",
-      "priority": 1035500,
+      "priority": 1038700,
       "type": "item"
     },
     {
@@ -2815,7 +3085,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta1_amount100_minquality1",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA1_AMOUNT100_MINQUALITY1_NAME",
-      "priority": 1035600,
+      "priority": 1038800,
       "type": "item"
     },
     {
@@ -2824,7 +3094,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta1_amount1000_minquality1",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA1_AMOUNT1000_MINQUALITY1_NAME",
-      "priority": 1035700,
+      "priority": 1038900,
       "type": "item"
     },
     {
@@ -2833,7 +3103,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta1_amount10000_minquality1",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA1_AMOUNT10000_MINQUALITY1_NAME",
-      "priority": 1035800,
+      "priority": 1039000,
       "type": "item"
     },
     {
@@ -2842,7 +3112,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta1_amount100000_minquality1",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA1_AMOUNT100000_MINQUALITY1_NAME",
-      "priority": 1035900,
+      "priority": 1039100,
       "type": "item"
     },
     {
@@ -2851,7 +3121,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta1_amount1_minquality2",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA1_AMOUNT1_MINQUALITY2_NAME",
-      "priority": 1036100,
+      "priority": 1039300,
       "type": "item"
     },
     {
@@ -2860,7 +3130,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta1_amount10_minquality2",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA1_AMOUNT10_MINQUALITY2_NAME",
-      "priority": 1036200,
+      "priority": 1039400,
       "type": "item"
     },
     {
@@ -2869,7 +3139,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta1_amount100_minquality2",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA1_AMOUNT100_MINQUALITY2_NAME",
-      "priority": 1036300,
+      "priority": 1039500,
       "type": "item"
     },
     {
@@ -2878,7 +3148,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta1_amount1000_minquality2",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA1_AMOUNT1000_MINQUALITY2_NAME",
-      "priority": 1036400,
+      "priority": 1039600,
       "type": "item"
     },
     {
@@ -2887,7 +3157,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta1_amount10000_minquality2",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA1_AMOUNT10000_MINQUALITY2_NAME",
-      "priority": 1036500,
+      "priority": 1039700,
       "type": "item"
     },
     {
@@ -2896,7 +3166,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta1_amount100000_minquality2",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA1_AMOUNT100000_MINQUALITY2_NAME",
-      "priority": 1036600,
+      "priority": 1039800,
       "type": "item"
     },
     {
@@ -2905,7 +3175,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta1_amount1_minquality3",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA1_AMOUNT1_MINQUALITY3_NAME",
-      "priority": 1036800,
+      "priority": 1040000,
       "type": "item"
     },
     {
@@ -2914,7 +3184,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta1_amount10_minquality3",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA1_AMOUNT10_MINQUALITY3_NAME",
-      "priority": 1036900,
+      "priority": 1040100,
       "type": "item"
     },
     {
@@ -2923,7 +3193,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta1_amount100_minquality3",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA1_AMOUNT100_MINQUALITY3_NAME",
-      "priority": 1037000,
+      "priority": 1040200,
       "type": "item"
     },
     {
@@ -2932,7 +3202,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta1_amount1000_minquality3",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA1_AMOUNT1000_MINQUALITY3_NAME",
-      "priority": 1037100,
+      "priority": 1040300,
       "type": "item"
     },
     {
@@ -2941,7 +3211,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta1_amount10000_minquality3",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA1_AMOUNT10000_MINQUALITY3_NAME",
-      "priority": 1037200,
+      "priority": 1040400,
       "type": "item"
     },
     {
@@ -2950,7 +3220,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta1_amount100000_minquality3",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA1_AMOUNT100000_MINQUALITY3_NAME",
-      "priority": 1037300,
+      "priority": 1040500,
       "type": "item"
     },
     {
@@ -2959,7 +3229,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta2_amount1_minquality1",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA2_AMOUNT1_MINQUALITY1_NAME",
-      "priority": 1037500,
+      "priority": 1040700,
       "type": "item"
     },
     {
@@ -2968,7 +3238,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta2_amount10_minquality1",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA2_AMOUNT10_MINQUALITY1_NAME",
-      "priority": 1037600,
+      "priority": 1040800,
       "type": "item"
     },
     {
@@ -2977,7 +3247,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta2_amount100_minquality1",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA2_AMOUNT100_MINQUALITY1_NAME",
-      "priority": 1037700,
+      "priority": 1040900,
       "type": "item"
     },
     {
@@ -2986,7 +3256,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta2_amount1000_minquality1",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA2_AMOUNT1000_MINQUALITY1_NAME",
-      "priority": 1037800,
+      "priority": 1041000,
       "type": "item"
     },
     {
@@ -2995,7 +3265,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta2_amount10000_minquality1",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA2_AMOUNT10000_MINQUALITY1_NAME",
-      "priority": 1037900,
+      "priority": 1041100,
       "type": "item"
     },
     {
@@ -3004,7 +3274,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta2_amount100000_minquality1",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA2_AMOUNT100000_MINQUALITY1_NAME",
-      "priority": 1038000,
+      "priority": 1041200,
       "type": "item"
     },
     {
@@ -3013,7 +3283,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta2_amount1_minquality2",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA2_AMOUNT1_MINQUALITY2_NAME",
-      "priority": 1038200,
+      "priority": 1041400,
       "type": "item"
     },
     {
@@ -3022,7 +3292,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta2_amount10_minquality2",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA2_AMOUNT10_MINQUALITY2_NAME",
-      "priority": 1038300,
+      "priority": 1041500,
       "type": "item"
     },
     {
@@ -3031,7 +3301,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta2_amount100_minquality2",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA2_AMOUNT100_MINQUALITY2_NAME",
-      "priority": 1038400,
+      "priority": 1041600,
       "type": "item"
     },
     {
@@ -3040,7 +3310,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta2_amount1000_minquality2",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA2_AMOUNT1000_MINQUALITY2_NAME",
-      "priority": 1038500,
+      "priority": 1041700,
       "type": "item"
     },
     {
@@ -3049,7 +3319,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta2_amount10000_minquality2",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA2_AMOUNT10000_MINQUALITY2_NAME",
-      "priority": 1038600,
+      "priority": 1041800,
       "type": "item"
     },
     {
@@ -3058,7 +3328,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta2_amount100000_minquality2",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA2_AMOUNT100000_MINQUALITY2_NAME",
-      "priority": 1038700,
+      "priority": 1041900,
       "type": "item"
     },
     {
@@ -3067,7 +3337,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta2_amount1_minquality3",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA2_AMOUNT1_MINQUALITY3_NAME",
-      "priority": 1038900,
+      "priority": 1042100,
       "type": "item"
     },
     {
@@ -3076,7 +3346,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta2_amount10_minquality3",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA2_AMOUNT10_MINQUALITY3_NAME",
-      "priority": 1039000,
+      "priority": 1042200,
       "type": "item"
     },
     {
@@ -3085,7 +3355,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta2_amount100_minquality3",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA2_AMOUNT100_MINQUALITY3_NAME",
-      "priority": 1039100,
+      "priority": 1042300,
       "type": "item"
     },
     {
@@ -3094,7 +3364,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta2_amount1000_minquality3",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA2_AMOUNT1000_MINQUALITY3_NAME",
-      "priority": 1039200,
+      "priority": 1042400,
       "type": "item"
     },
     {
@@ -3103,7 +3373,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta2_amount10000_minquality3",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA2_AMOUNT10000_MINQUALITY3_NAME",
-      "priority": 1039300,
+      "priority": 1042500,
       "type": "item"
     },
     {
@@ -3112,7 +3382,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta2_amount100000_minquality3",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA2_AMOUNT100000_MINQUALITY3_NAME",
-      "priority": 1039400,
+      "priority": 1042600,
       "type": "item"
     },
     {
@@ -3121,7 +3391,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta3_amount1_minquality1",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA3_AMOUNT1_MINQUALITY1_NAME",
-      "priority": 1039600,
+      "priority": 1042800,
       "type": "item"
     },
     {
@@ -3130,7 +3400,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta3_amount10_minquality1",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA3_AMOUNT10_MINQUALITY1_NAME",
-      "priority": 1039700,
+      "priority": 1042900,
       "type": "item"
     },
     {
@@ -3139,7 +3409,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta3_amount100_minquality1",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA3_AMOUNT100_MINQUALITY1_NAME",
-      "priority": 1039800,
+      "priority": 1043000,
       "type": "item"
     },
     {
@@ -3148,7 +3418,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta3_amount1000_minquality1",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA3_AMOUNT1000_MINQUALITY1_NAME",
-      "priority": 1039900,
+      "priority": 1043100,
       "type": "item"
     },
     {
@@ -3157,7 +3427,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta3_amount10000_minquality1",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA3_AMOUNT10000_MINQUALITY1_NAME",
-      "priority": 1040000,
+      "priority": 1043200,
       "type": "item"
     },
     {
@@ -3166,7 +3436,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta3_amount100000_minquality1",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA3_AMOUNT100000_MINQUALITY1_NAME",
-      "priority": 1040100,
+      "priority": 1043300,
       "type": "item"
     },
     {
@@ -3175,7 +3445,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta3_amount1_minquality2",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA3_AMOUNT1_MINQUALITY2_NAME",
-      "priority": 1040300,
+      "priority": 1043500,
       "type": "item"
     },
     {
@@ -3184,7 +3454,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta3_amount10_minquality2",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA3_AMOUNT10_MINQUALITY2_NAME",
-      "priority": 1040400,
+      "priority": 1043600,
       "type": "item"
     },
     {
@@ -3193,7 +3463,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta3_amount100_minquality2",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA3_AMOUNT100_MINQUALITY2_NAME",
-      "priority": 1040500,
+      "priority": 1043700,
       "type": "item"
     },
     {
@@ -3202,7 +3472,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta3_amount1000_minquality2",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA3_AMOUNT1000_MINQUALITY2_NAME",
-      "priority": 1040600,
+      "priority": 1043800,
       "type": "item"
     },
     {
@@ -3211,7 +3481,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta3_amount10000_minquality2",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA3_AMOUNT10000_MINQUALITY2_NAME",
-      "priority": 1040700,
+      "priority": 1043900,
       "type": "item"
     },
     {
@@ -3220,7 +3490,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta3_amount100000_minquality2",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA3_AMOUNT100000_MINQUALITY2_NAME",
-      "priority": 1040800,
+      "priority": 1044000,
       "type": "item"
     },
     {
@@ -3229,7 +3499,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta3_amount1_minquality3",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA3_AMOUNT1_MINQUALITY3_NAME",
-      "priority": 1041000,
+      "priority": 1044200,
       "type": "item"
     },
     {
@@ -3238,7 +3508,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta3_amount10_minquality3",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA3_AMOUNT10_MINQUALITY3_NAME",
-      "priority": 1041100,
+      "priority": 1044300,
       "type": "item"
     },
     {
@@ -3247,7 +3517,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta3_amount100_minquality3",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA3_AMOUNT100_MINQUALITY3_NAME",
-      "priority": 1041200,
+      "priority": 1044400,
       "type": "item"
     },
     {
@@ -3256,7 +3526,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta3_amount1000_minquality3",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA3_AMOUNT1000_MINQUALITY3_NAME",
-      "priority": 1041300,
+      "priority": 1044500,
       "type": "item"
     },
     {
@@ -3265,7 +3535,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta3_amount10000_minquality3",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA3_AMOUNT10000_MINQUALITY3_NAME",
-      "priority": 1041400,
+      "priority": 1044600,
       "type": "item"
     },
     {
@@ -3274,7 +3544,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta3_amount100000_minquality3",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA3_AMOUNT100000_MINQUALITY3_NAME",
-      "priority": 1041500,
+      "priority": 1044700,
       "type": "item"
     },
     {
@@ -3283,7 +3553,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta4_amount1_minquality1",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA4_AMOUNT1_MINQUALITY1_NAME",
-      "priority": 1041700,
+      "priority": 1044900,
       "type": "item"
     },
     {
@@ -3292,7 +3562,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta4_amount10_minquality1",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA4_AMOUNT10_MINQUALITY1_NAME",
-      "priority": 1041800,
+      "priority": 1045000,
       "type": "item"
     },
     {
@@ -3301,7 +3571,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta4_amount100_minquality1",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA4_AMOUNT100_MINQUALITY1_NAME",
-      "priority": 1041900,
+      "priority": 1045100,
       "type": "item"
     },
     {
@@ -3310,7 +3580,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta4_amount1000_minquality1",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA4_AMOUNT1000_MINQUALITY1_NAME",
-      "priority": 1042000,
+      "priority": 1045200,
       "type": "item"
     },
     {
@@ -3319,7 +3589,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta4_amount10000_minquality1",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA4_AMOUNT10000_MINQUALITY1_NAME",
-      "priority": 1042100,
+      "priority": 1045300,
       "type": "item"
     },
     {
@@ -3328,7 +3598,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta4_amount100000_minquality1",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA4_AMOUNT100000_MINQUALITY1_NAME",
-      "priority": 1042200,
+      "priority": 1045400,
       "type": "item"
     },
     {
@@ -3337,7 +3607,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta4_amount1_minquality2",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA4_AMOUNT1_MINQUALITY2_NAME",
-      "priority": 1042400,
+      "priority": 1045600,
       "type": "item"
     },
     {
@@ -3346,7 +3616,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta4_amount10_minquality2",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA4_AMOUNT10_MINQUALITY2_NAME",
-      "priority": 1042500,
+      "priority": 1045700,
       "type": "item"
     },
     {
@@ -3355,7 +3625,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta4_amount100_minquality2",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA4_AMOUNT100_MINQUALITY2_NAME",
-      "priority": 1042600,
+      "priority": 1045800,
       "type": "item"
     },
     {
@@ -3364,7 +3634,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta4_amount1000_minquality2",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA4_AMOUNT1000_MINQUALITY2_NAME",
-      "priority": 1042700,
+      "priority": 1045900,
       "type": "item"
     },
     {
@@ -3373,7 +3643,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta4_amount10000_minquality2",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA4_AMOUNT10000_MINQUALITY2_NAME",
-      "priority": 1042800,
+      "priority": 1046000,
       "type": "item"
     },
     {
@@ -3382,7 +3652,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta4_amount100000_minquality2",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA4_AMOUNT100000_MINQUALITY2_NAME",
-      "priority": 1042900,
+      "priority": 1046100,
       "type": "item"
     },
     {
@@ -3391,7 +3661,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta4_amount1_minquality3",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA4_AMOUNT1_MINQUALITY3_NAME",
-      "priority": 1043100,
+      "priority": 1046300,
       "type": "item"
     },
     {
@@ -3400,7 +3670,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta4_amount10_minquality3",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA4_AMOUNT10_MINQUALITY3_NAME",
-      "priority": 1043200,
+      "priority": 1046400,
       "type": "item"
     },
     {
@@ -3409,7 +3679,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta4_amount100_minquality3",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA4_AMOUNT100_MINQUALITY3_NAME",
-      "priority": 1043300,
+      "priority": 1046500,
       "type": "item"
     },
     {
@@ -3418,7 +3688,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta4_amount1000_minquality3",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA4_AMOUNT1000_MINQUALITY3_NAME",
-      "priority": 1043400,
+      "priority": 1046600,
       "type": "item"
     },
     {
@@ -3427,7 +3697,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta4_amount10000_minquality3",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA4_AMOUNT10000_MINQUALITY3_NAME",
-      "priority": 1043500,
+      "priority": 1046700,
       "type": "item"
     },
     {
@@ -3436,7 +3706,7 @@
       "image": "icon_lootbox_crafting.png",
       "name": "item_event_rewardbox_randomtrinketmaterials_trinfecta4_amount100000_minquality3",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_RANDOMTRINKETMATERIALS_TRINFECTA4_AMOUNT100000_MINQUALITY3_NAME",
-      "priority": 1043600,
+      "priority": 1046800,
       "type": "item"
     },
     {
@@ -3445,7 +3715,7 @@
       "image": "icon_lootbox_alchemy_01.png",
       "name": "item_event_rewardbox_buildingenhancement_1",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_BUILDINGENHANCEMENT_1_NAME",
-      "priority": 1043800,
+      "priority": 1047000,
       "type": "item"
     },
     {
@@ -3454,7 +3724,7 @@
       "image": "icon_lootbox_alchemy_01.png",
       "name": "item_event_rewardbox_buildingenhancement_2",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_BUILDINGENHANCEMENT_2_NAME",
-      "priority": 1044000,
+      "priority": 1047200,
       "type": "item"
     },
     {
@@ -3463,7 +3733,7 @@
       "image": "icon_lootbox_alchemy_01.png",
       "name": "item_event_rewardbox_buildingenhancement_3",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_BUILDINGENHANCEMENT_3_NAME",
-      "priority": 1044100,
+      "priority": 1047300,
       "type": "item"
     },
     {
@@ -3481,7 +3751,7 @@
       "image": "icon_lootbox_alchemy_01.png",
       "name": "item_event_rewardbox_craftingmaterial_1",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_CRAFTINGMATERIAL_1_NAME",
-      "priority": 1044400,
+      "priority": 1047600,
       "type": "item"
     },
     {
@@ -3490,7 +3760,7 @@
       "image": "icon_lootbox_alchemy_01.png",
       "name": "item_event_rewardbox_craftingmaterial_2",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_CRAFTINGMATERIAL_2_NAME",
-      "priority": 1044500,
+      "priority": 1047700,
       "type": "item"
     },
     {
@@ -3499,7 +3769,7 @@
       "image": "icon_lootbox_dragon_materials_01.png",
       "name": "item_event_rewardbox_livestock_1",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_LIVESTOCK_1_NAME",
-      "priority": 1044700,
+      "priority": 1047900,
       "type": "item"
     },
     {
@@ -3508,7 +3778,7 @@
       "image": "icon_lootbox_dragon_materials_01.png",
       "name": "item_event_rewardbox_livestock_2",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_LIVESTOCK_2_NAME",
-      "priority": 1044800,
+      "priority": 1048000,
       "type": "item"
     },
     {
@@ -3517,7 +3787,7 @@
       "image": "icon_lootbox_dragon_materials_01.png",
       "name": "item_event_rewardbox_livestock_3",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_LIVESTOCK_3_NAME",
-      "priority": 1044900,
+      "priority": 1048100,
       "type": "item"
     },
     {
@@ -3526,7 +3796,7 @@
       "image": "icon_lootbox_alchemy_01.png",
       "name": "item_event_rewardbox_combatboost_1",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_COMBATBOOST_1_NAME",
-      "priority": 1045100,
+      "priority": 1048300,
       "type": "item"
     },
     {
@@ -3535,7 +3805,7 @@
       "image": "icon_lootbox_alchemy_01.png",
       "name": "item_event_rewardbox_plotboost_1",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_PLOTBOOST_1_NAME",
-      "priority": 1045200,
+      "priority": 1048400,
       "type": "item"
     },
     {
@@ -3544,7 +3814,7 @@
       "image": "icon_item_favor_masquerade.png",
       "name": "item_event_favor_tyrell_1",
       "name_placeholder": "ITEM_EVENT_FAVOR_TYRELL_1_NAME",
-      "priority": 1045400,
+      "priority": 1048600,
       "type": "item"
     },
     {
@@ -3553,7 +3823,7 @@
       "image": "icon_item_favor_battleplans.png",
       "name": "item_event_favor_nwm_1",
       "name_placeholder": "ITEM_EVENT_FAVOR_NWM_1_NAME",
-      "priority": 1045600,
+      "priority": 1048800,
       "type": "item"
     },
     {
@@ -3562,7 +3832,7 @@
       "image": "icon_event_lootbox_nwm_boosts_eastwatch.png",
       "name": "item_event_rewardbox_nwm_boosts_eastwatch_xs",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_EASTWATCH_XS_NAME",
-      "priority": 1045800,
+      "priority": 1049000,
       "type": "item"
     },
     {
@@ -3571,7 +3841,7 @@
       "image": "icon_event_lootbox_nwm_boosts_eastwatch.png",
       "name": "item_event_rewardbox_nwm_boosts_eastwatch_s",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_EASTWATCH_S_NAME",
-      "priority": 1045900,
+      "priority": 1049100,
       "type": "item"
     },
     {
@@ -3580,7 +3850,7 @@
       "image": "icon_event_lootbox_nwm_boosts_eastwatch.png",
       "name": "item_event_rewardbox_nwm_boosts_eastwatch_m",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_EASTWATCH_M_NAME",
-      "priority": 1046000,
+      "priority": 1049200,
       "type": "item"
     },
     {
@@ -3589,7 +3859,7 @@
       "image": "icon_event_lootbox_nwm_boosts_eastwatch.png",
       "name": "item_event_rewardbox_nwm_boosts_eastwatch_l",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_EASTWATCH_L_NAME",
-      "priority": 1046100,
+      "priority": 1049300,
       "type": "item"
     },
     {
@@ -3598,7 +3868,7 @@
       "image": "icon_event_lootbox_nwm_boosts_eastwatch.png",
       "name": "item_event_rewardbox_nwm_boosts_eastwatch_xl",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_EASTWATCH_XL_NAME",
-      "priority": 1046200,
+      "priority": 1049400,
       "type": "item"
     },
     {
@@ -3607,7 +3877,7 @@
       "image": "icon_event_lootbox_nwm_boosts_eastwatch.png",
       "name": "item_event_rewardbox_nwm_boosts_eastwatch_xxl",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_EASTWATCH_XXL_NAME",
-      "priority": 1046300,
+      "priority": 1049500,
       "type": "item"
     },
     {
@@ -3616,7 +3886,7 @@
       "image": "icon_event_lootbox_nwm_boosts_shadowtower.png",
       "name": "item_event_rewardbox_nwm_boosts_shadowtower_xs",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_SHADOWTOWER_XS_NAME",
-      "priority": 1046400,
+      "priority": 1049600,
       "type": "item"
     },
     {
@@ -3625,7 +3895,7 @@
       "image": "icon_event_lootbox_nwm_boosts_shadowtower.png",
       "name": "item_event_rewardbox_nwm_boosts_shadowtower_s",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_SHADOWTOWER_S_NAME",
-      "priority": 1046500,
+      "priority": 1049700,
       "type": "item"
     },
     {
@@ -3634,7 +3904,7 @@
       "image": "icon_event_lootbox_nwm_boosts_shadowtower.png",
       "name": "item_event_rewardbox_nwm_boosts_shadowtower_m",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_SHADOWTOWER_M_NAME",
-      "priority": 1046600,
+      "priority": 1049800,
       "type": "item"
     },
     {
@@ -3643,7 +3913,7 @@
       "image": "icon_event_lootbox_nwm_boosts_shadowtower.png",
       "name": "item_event_rewardbox_nwm_boosts_shadowtower_l",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_SHADOWTOWER_L_NAME",
-      "priority": 1046700,
+      "priority": 1049900,
       "type": "item"
     },
     {
@@ -3652,7 +3922,7 @@
       "image": "icon_event_lootbox_nwm_boosts_shadowtower.png",
       "name": "item_event_rewardbox_nwm_boosts_shadowtower_xl",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_SHADOWTOWER_XL_NAME",
-      "priority": 1046800,
+      "priority": 1050000,
       "type": "item"
     },
     {
@@ -3661,7 +3931,7 @@
       "image": "icon_event_lootbox_nwm_boosts_shadowtower.png",
       "name": "item_event_rewardbox_nwm_boosts_shadowtower_xxl",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_SHADOWTOWER_XXL_NAME",
-      "priority": 1046900,
+      "priority": 1050100,
       "type": "item"
     },
     {
@@ -3670,7 +3940,7 @@
       "image": "icon_event_lootbox_nwm_boosts_nightfort.png",
       "name": "item_event_rewardbox_nwm_boosts_nightfort_xs",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_NIGHTFORT_XS_NAME",
-      "priority": 1047000,
+      "priority": 1050200,
       "type": "item"
     },
     {
@@ -3679,7 +3949,7 @@
       "image": "icon_event_lootbox_nwm_boosts_nightfort.png",
       "name": "item_event_rewardbox_nwm_boosts_nightfort_s",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_NIGHTFORT_S_NAME",
-      "priority": 1047100,
+      "priority": 1050300,
       "type": "item"
     },
     {
@@ -3688,7 +3958,7 @@
       "image": "icon_event_lootbox_nwm_boosts_nightfort.png",
       "name": "item_event_rewardbox_nwm_boosts_nightfort_m",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_NIGHTFORT_M_NAME",
-      "priority": 1047200,
+      "priority": 1050400,
       "type": "item"
     },
     {
@@ -3697,7 +3967,7 @@
       "image": "icon_event_lootbox_nwm_boosts_nightfort.png",
       "name": "item_event_rewardbox_nwm_boosts_nightfort_l",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_NIGHTFORT_L_NAME",
-      "priority": 1047300,
+      "priority": 1050500,
       "type": "item"
     },
     {
@@ -3706,7 +3976,7 @@
       "image": "icon_event_lootbox_nwm_boosts_nightfort.png",
       "name": "item_event_rewardbox_nwm_boosts_nightfort_xl",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_NIGHTFORT_XL_NAME",
-      "priority": 1047400,
+      "priority": 1050600,
       "type": "item"
     },
     {
@@ -3715,7 +3985,7 @@
       "image": "icon_event_lootbox_nwm_boosts_nightfort.png",
       "name": "item_event_rewardbox_nwm_boosts_nightfort_xxl",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_NIGHTFORT_XXL_NAME",
-      "priority": 1047500,
+      "priority": 1050700,
       "type": "item"
     },
     {
@@ -3724,7 +3994,7 @@
       "image": "icon_event_lootbox_nwm_boosts_castleblack.png",
       "name": "item_event_rewardbox_nwm_boosts_castleblack_xs",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_CASTLEBLACK_XS_NAME",
-      "priority": 1047600,
+      "priority": 1050800,
       "type": "item"
     },
     {
@@ -3733,7 +4003,7 @@
       "image": "icon_event_lootbox_nwm_boosts_castleblack.png",
       "name": "item_event_rewardbox_nwm_boosts_castleblack_s",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_CASTLEBLACK_S_NAME",
-      "priority": 1047700,
+      "priority": 1050900,
       "type": "item"
     },
     {
@@ -3742,7 +4012,7 @@
       "image": "icon_event_lootbox_nwm_boosts_castleblack.png",
       "name": "item_event_rewardbox_nwm_boosts_castleblack_m",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_CASTLEBLACK_M_NAME",
-      "priority": 1047800,
+      "priority": 1051000,
       "type": "item"
     },
     {
@@ -3751,7 +4021,7 @@
       "image": "icon_event_lootbox_nwm_boosts_castleblack.png",
       "name": "item_event_rewardbox_nwm_boosts_castleblack_l",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_CASTLEBLACK_L_NAME",
-      "priority": 1047900,
+      "priority": 1051100,
       "type": "item"
     },
     {
@@ -3760,7 +4030,7 @@
       "image": "icon_event_lootbox_nwm_boosts_castleblack.png",
       "name": "item_event_rewardbox_nwm_boosts_castleblack_xl",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_CASTLEBLACK_XL_NAME",
-      "priority": 1048000,
+      "priority": 1051200,
       "type": "item"
     },
     {
@@ -3769,7 +4039,7 @@
       "image": "icon_event_lootbox_nwm_boosts_castleblack.png",
       "name": "item_event_rewardbox_nwm_boosts_castleblack_xxl",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_CASTLEBLACK_XXL_NAME",
-      "priority": 1048100,
+      "priority": 1051300,
       "type": "item"
     },
     {
@@ -3778,7 +4048,7 @@
       "image": "icon_event_lootbox_nwm_boosts_wall.png",
       "name": "item_event_rewardbox_nwm_boosts_wall_s",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_WALL_S_NAME",
-      "priority": 1048300,
+      "priority": 1051500,
       "type": "item"
     },
     {
@@ -3787,7 +4057,7 @@
       "image": "icon_event_lootbox_nwm_boosts_wall.png",
       "name": "item_event_rewardbox_nwm_boosts_wall_m",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_WALL_M_NAME",
-      "priority": 1048400,
+      "priority": 1051600,
       "type": "item"
     },
     {
@@ -3796,7 +4066,7 @@
       "image": "icon_event_lootbox_nwm_boosts_wall.png",
       "name": "item_event_rewardbox_nwm_boosts_wall_l",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_WALL_L_NAME",
-      "priority": 1048500,
+      "priority": 1051700,
       "type": "item"
     },
     {
@@ -3805,7 +4075,7 @@
       "image": "icon_event_lootbox_nwm_boosts_wall.png",
       "name": "item_event_rewardbox_nwm_boosts_wall_s_a",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_WALL_S_A_NAME",
-      "priority": 1048700,
+      "priority": 1051900,
       "type": "item"
     },
     {
@@ -3814,7 +4084,7 @@
       "image": "icon_event_lootbox_nwm_boosts_wall.png",
       "name": "item_event_rewardbox_nwm_boosts_wall_s_d",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_WALL_S_D_NAME",
-      "priority": 1048800,
+      "priority": 1052000,
       "type": "item"
     },
     {
@@ -3823,7 +4093,7 @@
       "image": "icon_event_lootbox_nwm_boosts_wall.png",
       "name": "item_event_rewardbox_nwm_boosts_wall_s_h",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_WALL_S_H_NAME",
-      "priority": 1048900,
+      "priority": 1052100,
       "type": "item"
     },
     {
@@ -3832,7 +4102,7 @@
       "image": "icon_event_lootbox_nwm_boosts_wall.png",
       "name": "item_event_rewardbox_nwm_boosts_wall_m_a",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_WALL_M_A_NAME",
-      "priority": 1049000,
+      "priority": 1052200,
       "type": "item"
     },
     {
@@ -3841,7 +4111,7 @@
       "image": "icon_event_lootbox_nwm_boosts_wall.png",
       "name": "item_event_rewardbox_nwm_boosts_wall_m_d",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_WALL_M_D_NAME",
-      "priority": 1049100,
+      "priority": 1052300,
       "type": "item"
     },
     {
@@ -3850,7 +4120,7 @@
       "image": "icon_event_lootbox_nwm_boosts_wall.png",
       "name": "item_event_rewardbox_nwm_boosts_wall_m_h",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_WALL_M_H_NAME",
-      "priority": 1049200,
+      "priority": 1052400,
       "type": "item"
     },
     {
@@ -3859,7 +4129,7 @@
       "image": "icon_event_lootbox_nwm_boosts_wall.png",
       "name": "item_event_rewardbox_nwm_boosts_wall_l_a",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_WALL_L_A_NAME",
-      "priority": 1049300,
+      "priority": 1052500,
       "type": "item"
     },
     {
@@ -3868,7 +4138,7 @@
       "image": "icon_event_lootbox_nwm_boosts_wall.png",
       "name": "item_event_rewardbox_nwm_boosts_wall_l_d",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_WALL_L_D_NAME",
-      "priority": 1049400,
+      "priority": 1052600,
       "type": "item"
     },
     {
@@ -3877,7 +4147,7 @@
       "image": "icon_event_lootbox_nwm_boosts_wall.png",
       "name": "item_event_rewardbox_nwm_boosts_wall_l_h",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_NWM_BOOSTS_WALL_L_H_NAME",
-      "priority": 1049500,
+      "priority": 1052700,
       "type": "item"
     },
     {
@@ -3895,7 +4165,7 @@
       "image": "icon_item_lunar_lantern_material.png",
       "name": "item_event_favor_lunar_1",
       "name_placeholder": "ITEM_EVENT_FAVOR_LUNAR_1_NAME",
-      "priority": 1049900,
+      "priority": 1053100,
       "type": "item"
     },
     {
@@ -3904,7 +4174,7 @@
       "image": "icon_alchemy_direwolf_bread_trophy.png",
       "name": "item_event_rewardbox_hotpie_direwolf_bread_basic_1",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_HOTPIE_DIREWOLF_BREAD_BASIC_1_NAME",
-      "priority": 1050100,
+      "priority": 1053300,
       "type": "item"
     },
     {
@@ -3913,7 +4183,7 @@
       "image": "icon_alchemy_direwolf_bread_frosted_trophy.png",
       "name": "item_event_rewardbox_hotpie_direwolf_bread_rare_1",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_HOTPIE_DIREWOLF_BREAD_RARE_1_NAME",
-      "priority": 1050200,
+      "priority": 1053400,
       "type": "item"
     },
     {
@@ -3922,7 +4192,7 @@
       "image": "icon_alchemy_direwolf_bread_jellyfilled_trophy.png",
       "name": "item_event_rewardbox_hotpie_direwolf_bread_epic_1",
       "name_placeholder": "ITEM_EVENT_REWARDBOX_HOTPIE_DIREWOLF_BREAD_EPIC_1_NAME",
-      "priority": 1050300,
+      "priority": 1053500,
       "type": "item"
     },
     {
@@ -3931,7 +4201,7 @@
       "image": "icon_coin_ironCrown.png",
       "name": "item_event_favor_ironcrown_1",
       "name_placeholder": "ITEM_EVENT_COIN_IRONANN_NAME",
-      "priority": 1050500,
+      "priority": 1053700,
       "type": "item"
     },
     {
@@ -3940,7 +4210,7 @@
       "image": "icon_item_token_festival_common.png",
       "name": "item_event_favor_festival_1",
       "name_placeholder": "ITEM_EVENT_COIN_FESTIVAL_1_NAME",
-      "priority": 1050700,
+      "priority": 1053900,
       "type": "item"
     },
     {
@@ -3949,7 +4219,7 @@
       "image": "icon_item_token_festival_fine.png",
       "name": "item_event_favor_festival_2",
       "name_placeholder": "ITEM_EVENT_COIN_FESTIVAL_2_NAME",
-      "priority": 1050800,
+      "priority": 1054000,
       "type": "item"
     },
     {
@@ -3958,7 +4228,7 @@
       "image": "icon_item_bakery_ingredients.png",
       "name": "item_event_favor_feast_cakes_1",
       "name_placeholder": "ITEM_EVENT_FAVOR_FEAST_CAKES_1_NAME",
-      "priority": 1051000,
+      "priority": 1054200,
       "type": "item"
     }
   ]

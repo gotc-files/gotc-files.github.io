@@ -114,8 +114,112 @@
       "value": "More Hodor Relics!"
     },
     {
+      "name": "ALCHEMY_ENTRY__ITEM_FLUX_8__MAT_EVENT_BOOKOFCONQUEST_10000_NAME",
+      "value": "1,000,000 Gilded Plates"
+    },
+    {
+      "name": "ALCHEMY_ENTRY__ITEM_FLUX_8__MAT_EVENT_BOOKOFCONQUEST_100_NAME",
+      "value": "10,000 Gilded Plates"
+    },
+    {
+      "name": "ALCHEMY_ENTRY__ITEM_FLUX_8__MAT_EVENT_BOOKOFCONQUEST_1_NAME",
+      "value": "100 Gilded Plates"
+    },
+    {
+      "name": "ALCHEMY_ENTRY__ITEM_FLUX_8__MAT_EVENT_CONQUEST5_10000_NAME",
+      "value": "1,000,000 Dragon Tempered Fabrics"
+    },
+    {
+      "name": "ALCHEMY_ENTRY__ITEM_FLUX_8__MAT_EVENT_CONQUEST5_100_NAME",
+      "value": "10,000 Dragon Tempered Fabrics"
+    },
+    {
+      "name": "ALCHEMY_ENTRY__ITEM_FLUX_8__MAT_EVENT_CONQUEST5_1_NAME",
+      "value": "100 Dragon Tempered Fabrics"
+    },
+    {
+      "name": "ALCHEMY_ENTRY__ITEM_FLUX_8__MAT_EVENT_HARRENHAL3_10000_NAME",
+      "value": "1,000,000 Dark Steel Plate"
+    },
+    {
+      "name": "ALCHEMY_ENTRY__ITEM_FLUX_8__MAT_EVENT_HARRENHAL3_100_NAME",
+      "value": "10,000 Dark Steel Plate"
+    },
+    {
+      "name": "ALCHEMY_ENTRY__ITEM_FLUX_8__MAT_EVENT_HARRENHAL3_1_NAME",
+      "value": "100 Dark Steel Plate"
+    },
+    {
+      "name": "ALCHEMY_ENTRY__ITEM_FLUX_8__MAT_EVENT_HARVEST2_10000_NAME",
+      "value": "1,000,000 Silk Brocade"
+    },
+    {
+      "name": "ALCHEMY_ENTRY__ITEM_FLUX_8__MAT_EVENT_HARVEST2_100_NAME",
+      "value": "10,000 Silk Brocade"
+    },
+    {
+      "name": "ALCHEMY_ENTRY__ITEM_FLUX_8__MAT_EVENT_HARVEST2_1_NAME",
+      "value": "100 Silk Brocade"
+    },
+    {
+      "name": "ALCHEMY_ENTRY__ITEM_FLUX_8__MAT_EVENT_MOTHEROFDRAGONS2_10000_NAME",
+      "value": "1,000,000 Targaryen Embroidery"
+    },
+    {
+      "name": "ALCHEMY_ENTRY__ITEM_FLUX_8__MAT_EVENT_MOTHEROFDRAGONS2_100_NAME",
+      "value": "10,000 Targaryen Embroidery"
+    },
+    {
+      "name": "ALCHEMY_ENTRY__ITEM_FLUX_8__MAT_EVENT_MOTHEROFDRAGONS2_1_NAME",
+      "value": "100 Targaryen Embroidery"
+    },
+    {
+      "name": "ALCHEMY_ENTRY__ITEM_FLUX_8__MAT_EVENT_SNOW1_10000_NAME",
+      "value": "1,000,000 Northern Fox Pelts"
+    },
+    {
+      "name": "ALCHEMY_ENTRY__ITEM_FLUX_8__MAT_EVENT_SNOW1_100_NAME",
+      "value": "10,000 Northern Fox Pelts"
+    },
+    {
+      "name": "ALCHEMY_ENTRY__ITEM_FLUX_8__MAT_EVENT_SNOW1_1_NAME",
+      "value": "100 Northern Fox Pelts"
+    },
+    {
+      "name": "ALCHEMY_ENTRY__ITEM_FLUX_8__MAT_EVENT_SUMMERHALL_10000_NAME",
+      "value": "1,000,000 Ritual Cloths"
+    },
+    {
+      "name": "ALCHEMY_ENTRY__ITEM_FLUX_8__MAT_EVENT_SUMMERHALL_100_NAME",
+      "value": "10,000 Ritual Cloths"
+    },
+    {
+      "name": "ALCHEMY_ENTRY__ITEM_FLUX_8__MAT_EVENT_SUMMERHALL_1_NAME",
+      "value": "100 Ritual Cloths"
+    },
+    {
+      "name": "ALCHEMY_RECIPE_EVENT_ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT10000_MINQUALITY2_AMOUNT_1_NAME",
+      "value": "Recipe: 10,000 Common+ Season VIII Event Crafting Materials"
+    },
+    {
+      "name": "ALCHEMY_RECIPE_EVENT_ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT10000_MINQUALITY2_DESC",
+      "value": "Chest contains 10,000 of one type of Season VIII crafting material, such as Targaryen Embroidery, Gilded Plates, Silk Brocade, Dragon Tempered Fabrics, Ritual Cloths, Dark Steel Plate, and Northern Fox Pelts. It can be opened in your Inventory."
+    },
+    {
+      "name": "ALCHEMY_RECIPE_EVENT_ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT1000_MINQUALITY1_AMOUNT_1_NAME",
+      "value": "Recipe: 1,000 Season VIII Event Crafting Materials"
+    },
+    {
+      "name": "ALCHEMY_RECIPE_EVENT_ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT1000_MINQUALITY1_DESC",
+      "value": "Chest contains 1,000 of one type of Season VIII crafting material, such as Targaryen Embroidery, Gilded Plates, Silk Brocade, Dragon Tempered Fabrics, Ritual Cloths, Dark Steel Plate, and Northern Fox Pelts. It can be opened in your Inventory."
+    },
+    {
       "name": "ALCHEMY_RECIPE_EVENT_SNOW1_TROPHY_GENERIC_DESC",
       "value": "Spend your Braavosi Loan Trophies before the event ends and this recipe disappears!"
+    },
+    {
+      "name": "ALCHEMY_RECIPE_FLUX_8_DESC",
+      "value": "Convert your Season VII Flux to specific Crafting Materials!"
     },
     {
       "name": "BATTLEGROUND_MONSTER_TOOLTIP_HEALING_TIME",
@@ -124,6 +228,54 @@
     {
       "name": "BATTLEGROUND_MONSTER_TOOLTIP_REQUIRED_VICTORIES",
       "value": "Requires {0} hits to defeat."
+    },
+    {
+      "name": "CROSSKINGDOMCHAT_DISABLE_SHRT",
+      "value": "Cross-Kingdom Chat Disabled"
+    },
+    {
+      "name": "DISPLAYGROUP_ALCHEMY_ENTRY__ITEM_FLUX_8__MAT_EVENT_BOOKOFCONQUEST_NAME",
+      "value": "Gilded Plates"
+    },
+    {
+      "name": "DISPLAYGROUP_ALCHEMY_ENTRY__ITEM_FLUX_8__MAT_EVENT_CONQUEST5_NAME",
+      "value": "Dragon Tempered Fabrics"
+    },
+    {
+      "name": "DISPLAYGROUP_ALCHEMY_ENTRY__ITEM_FLUX_8__MAT_EVENT_HARRENHAL3_NAME",
+      "value": "Dark Steel Plate"
+    },
+    {
+      "name": "DISPLAYGROUP_ALCHEMY_ENTRY__ITEM_FLUX_8__MAT_EVENT_HARVEST2_NAME",
+      "value": "Silk Brocade"
+    },
+    {
+      "name": "DISPLAYGROUP_ALCHEMY_ENTRY__ITEM_FLUX_8__MAT_EVENT_MOTHEROFDRAGONS2_NAME",
+      "value": "Targaryen Embroidery"
+    },
+    {
+      "name": "DISPLAYGROUP_ALCHEMY_ENTRY__ITEM_FLUX_8__MAT_EVENT_SNOW1_NAME",
+      "value": "Northern Fox Pelts"
+    },
+    {
+      "name": "DISPLAYGROUP_ALCHEMY_ENTRY__ITEM_FLUX_8__MAT_EVENT_SUMMERHALL_NAME",
+      "value": "Ritual Cloths"
+    },
+    {
+      "name": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_CLIMB_QLR_ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT1000_MINQUALITY1_NAME",
+      "value": "Recipe: 1,000 Season VIII Event Crafting Materials"
+    },
+    {
+      "name": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_REPEATABLE_SALVAGE_ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT10000_MINQUALITY2_NAME",
+      "value": "Recipe: 10,000 Common+ Season VIII Event Crafting Material Chest"
+    },
+    {
+      "name": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_REPEATABLE_SALVAGE_ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT1000_MINQUALITY1_NAME",
+      "value": "Recipe: 1,000 Season VIII Event Crafting Material Chest"
+    },
+    {
+      "name": "DISPLAYGROUP_ALCHEMY_RECIPE_ITEM_FLUX_8_NAME",
+      "value": "Season VII Flux"
     },
     {
       "name": "DRAGONRESEARCH_DRAGONCARE_DRAGON_MAXMARCHSIZEVSSOP_1_NAME",
@@ -298,8 +450,140 @@
       "value": "Jon Snow"
     },
     {
+      "name": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT1000000000_MINQUALITY1_NAME",
+      "value": "1,000,000,000 Season VIII Event Crafting Materials"
+    },
+    {
+      "name": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT1000000000_MINQUALITY2_NAME",
+      "value": "1,000,000,000 Season VIII Common+ Event Crafting Materials"
+    },
+    {
+      "name": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT1000000000_MINQUALITY3_NAME",
+      "value": "1,000,000,000 Season VIII Fine+ Event Crafting Materials"
+    },
+    {
+      "name": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT100000000_MINQUALITY1_NAME",
+      "value": "100,000,000 Season VIII Event Crafting Materials"
+    },
+    {
+      "name": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT100000000_MINQUALITY2_NAME",
+      "value": "100,000,000 Season VIII Common+ Event Crafting Materials"
+    },
+    {
+      "name": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT100000000_MINQUALITY3_NAME",
+      "value": "100,000,000 Season VIII Fine+ Event Crafting Materials"
+    },
+    {
+      "name": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT10000000_MINQUALITY1_NAME",
+      "value": "10,000,000 Season VIII Event Crafting Materials"
+    },
+    {
+      "name": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT10000000_MINQUALITY2_NAME",
+      "value": "10,000,000 Season VIII Common+ Event Crafting Materials"
+    },
+    {
+      "name": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT10000000_MINQUALITY3_NAME",
+      "value": "10,000,000 Season VIII Fine+ Event Crafting Materials"
+    },
+    {
+      "name": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT1000000_MINQUALITY1_NAME",
+      "value": "1,000,000 Season VIII Event Crafting Materials"
+    },
+    {
+      "name": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT1000000_MINQUALITY2_NAME",
+      "value": "1,000,000 Season VIII Common+ Event Crafting Materials"
+    },
+    {
+      "name": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT1000000_MINQUALITY3_NAME",
+      "value": "1,000,000 Season VIII Fine+ Event Crafting Materials"
+    },
+    {
+      "name": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT100000_MINQUALITY1_NAME",
+      "value": "100,000 Season VIII Event Crafting Materials"
+    },
+    {
+      "name": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT100000_MINQUALITY2_NAME",
+      "value": "100,000 Season VIII Common+ Event Crafting Materials"
+    },
+    {
+      "name": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT10000_MINQUALITY1_NAME",
+      "value": "10,000 Season VIII Event Crafting Materials"
+    },
+    {
+      "name": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT10000_MINQUALITY2_NAME",
+      "value": "10,000 Season VIII Common+ Event Crafting Materials"
+    },
+    {
+      "name": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT10000_MINQUALITY3_NAME",
+      "value": "10,000 Season VIII Fine+ Event Crafting Materials"
+    },
+    {
+      "name": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT1000_MINQUALITY1_NAME",
+      "value": "1,000 Season VIII Event Crafting Materials"
+    },
+    {
+      "name": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT1000_MINQUALITY2_NAME",
+      "value": "1,000 Season VIII Common+ Event Crafting Materials"
+    },
+    {
+      "name": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT1000_MINQUALITY3_NAME",
+      "value": "1,000 Season VIII Fine+ Event Crafting Materials"
+    },
+    {
+      "name": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT100_MINQUALITY1_NAME",
+      "value": "100 Season VIII Event Crafting Materials"
+    },
+    {
+      "name": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT100_MINQUALITY2_NAME",
+      "value": "100 Season VIII Common+ Event Crafting Materials"
+    },
+    {
+      "name": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT100_MINQUALITY3_NAME",
+      "value": "100 Season VIII Fine+ Event Crafting Materials"
+    },
+    {
+      "name": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT10_MINQUALITY1_NAME",
+      "value": "10 Season VIII Event Crafting Materials"
+    },
+    {
+      "name": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT10_MINQUALITY2_NAME",
+      "value": "10 Season VIII Common+ Event Crafting Materials"
+    },
+    {
+      "name": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT10_MINQUALITY3_NAME",
+      "value": "10 Season VIII Fine+ Event Crafting Materials"
+    },
+    {
+      "name": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT1_MINQUALITY1_NAME",
+      "value": "1 Season VIII Event Crafting Material"
+    },
+    {
+      "name": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT1_MINQUALITY2_NAME",
+      "value": "1 Season VIII Common+ Event Crafting Material"
+    },
+    {
+      "name": "ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT1_MINQUALITY3_NAME",
+      "value": "1 Season VIII Fine+ Event Crafting Materials"
+    },
+    {
+      "name": "ITEM_FLUX_8_DESCRIPTION",
+      "value": "Exchange this in Inventory Recipes to get Season VII crafting materials while recipes are active. Flux recipes are usable in future events. Keep an eye on Inventory:Recipes for when these are enabled. (Does not apply to trinket materials.)"
+    },
+    {
+      "name": "ITEM_FLUX_8_NAME",
+      "value": "Season VII Flux"
+    },
+    {
       "name": "ITEM_HERO_ADV_HODOR_STALWARTGUARDIAN_1_NAME",
       "value": "Hodor, <i>Stalwart Guardian</i>, Relic."
+    },
+    {
+      "name": "ITEM_MAPMARKER_UNLOCK_LONGCLAW_1_TRACK_1_DESC",
+      "value": "Collect enough shards to unlock the Longclaw Pommel March Pawn! These shards are a limited-time reward from the Jon Snow event!"
+    },
+    {
+      "name": "ITEM_MAPMARKER_UNLOCK_LONGCLAW_1_TRACK_1_NAME",
+      "value": "Longclaw Pommel March Pawn"
     },
     {
       "name": "ITEM_MATERIALDRAGON_DESC",
@@ -348,6 +632,30 @@
     {
       "name": "PROPERTY_DRAGONMARCHERTROOPHEALTHVSPLAYER",
       "value": "Dragon Marcher Troop Health vs. Player"
+    },
+    {
+      "name": "PROPERTY_UNLOCK_MAPMARKER_LONGCLAW_DESCRIPTION",
+      "value": "Collect enough shards to unlock the Longclaw Pommel March Pawn! These shards are a limited-time reward and can be acquired by earning points from events throughout the 'Jon Snow' celebration!"
+    },
+    {
+      "name": "PROPERTY_UNLOCK_MAPMARKER_LONGCLAW_NAME",
+      "value": "Longclaw Pommel March Pawn"
+    },
+    {
+      "name": "S8_CARAVAN_DESC",
+      "value": "A guarded caravan full of Steel and Season 8 Crafting Materials."
+    },
+    {
+      "name": "S8_CARAVAN_NAME",
+      "value": "Season 8 Crafting Materials Caravan"
+    },
+    {
+      "name": "SEASON",
+      "value": "Season"
+    },
+    {
+      "name": "SEASON_NUMBER",
+      "value": "Season {0}"
     },
     {
       "name": "SESSIONREWARD_CSR_ES_SNOW1_CLAIM",
@@ -402,6 +710,14 @@
       "value": "Claim your gift and grow your power!"
     },
     {
+      "name": "TYM_CHAT_CURRENT_HEADER",
+      "value": "Current Kingdom ({0})"
+    },
+    {
+      "name": "TYM_CHAT_NATIVE_HEADER",
+      "value": "Home Kingdom ({0})"
+    },
+    {
       "name": "TYM_CHAT_TAB_DESC",
       "value": "This chat allows you to talk with all players participating in the current event, regardless of current kingdom."
     },
@@ -415,7 +731,15 @@
     },
     {
       "name": "TYM_DESCRIPTION_FULL",
-      "value": "This is a \"Test Your Mettle\" event. Compete against players with similar keeps to hold Seats of Power.\n\nSeats of Power in Kingdom {0} are now locked, while Seats of Power within the event kingdoms are open. These seats are much easier to capture than normal.\n\nPoints are acquired periodically by holding Seats of Power. Seats with higher star count are worth more points. At the end of the event, rewards are distributed to the players in the event kingdom with the highest point totals.\n\nGood luck, and thank you for playing Game of Thrones: Conquest!"
+      "value": "This is a \"Test Your Mettle\" event. Compete against players with similar keeps to hold Seats of Power.\n\nSeats of Power in your home kingdom are locked, while Seats of Power within the event kingdoms are open. These seats are much easier to capture than normal.\n\nPoints are acquired periodically by holding Seats of Power. Seats with higher star count are worth more points. At the end of the event, rewards are distributed to the players in the event kingdom with the highest point totals."
+    },
+    {
+      "name": "TYM_HEADER",
+      "value": "Test Your Mettle"
+    },
+    {
+      "name": "TYM_HOME",
+      "value": "(Home)"
     },
     {
       "name": "TYM_KINGDOMS",
@@ -426,8 +750,16 @@
       "value": "{0}: Keeps {1}-{2}"
     },
     {
+      "name": "TYM_KINGDOM_NAME_MAX",
+      "value": "{0}: Keeps {1}+"
+    },
+    {
       "name": "TYM_REWARDS",
       "value": "Rewards"
+    },
+    {
+      "name": "TYM_SCORE_TO_SEE",
+      "value": "You must score points in this event to see the rewards."
     },
     {
       "name": "DRIVEN_DRAGONFEEDXPBONUS_ALPHA_DESCRIPTION",
