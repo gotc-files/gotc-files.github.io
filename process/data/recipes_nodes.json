@@ -380,6 +380,20 @@
       "target_quantity": 1
     },
     {
+      "description_placeholder": "ALCHEMY_RECIPE_EVENT_ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT10000_MINQUALITY2_DESC",
+      "display_group_name": "displayGroup_alchemy_recipe_event_repeatable_salvage_item_event_rewardbox_randomeventmaterials_s8_amount10000_minquality2",
+      "event_name": "strategicterrain",
+      "event_points": 120000,
+      "id": "7c06fc0cb4b0a493",
+      "ingredients_name": "recipe_alchemy_recipe_event_repeatable_salvage_item_event_rewardbox_randomeventmaterials_s8_amount10000_minquality2_1",
+      "limit": 0,
+      "name": "alchemy_recipe_event_repeatable_salvage_item_event_rewardbox_randomeventmaterials_s8_amount10000_minquality2_1",
+      "name_placeholder": "ALCHEMY_RECIPE_EVENT_ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT10000_MINQUALITY2_AMOUNT_1_NAME",
+      "priority": 277,
+      "target_quality": 2,
+      "target_quantity": 1
+    },
+    {
       "description_placeholder": "ALCHEMY_RECIPE_EVENT_REPEATABLE_SALVAGE_GENERIC_DESC",
       "display_group_name": "displayGroup_alchemy_recipe_event_cotf_qlr_item_Resource_Food_1000000",
       "event_name": "strategicterrain",
@@ -388,7 +402,7 @@
       "ingredients_name": "recipe_alchemy_recipe_event_cotf_qlr_item_Resource_Food_1000000_1",
       "limit": 10,
       "name": "alchemy_recipe_event_cotf_qlr_item_Resource_Food_1000000_1",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_COTF_QLR_ITEM_RESOURCE_FOOD_1000000_1_NAME",
+      "name_placeholder": "",
       "priority": 201,
       "target_quality": 3,
       "target_quantity": 10
@@ -402,7 +416,7 @@
       "ingredients_name": "recipe_alchemy_recipe_event_cotf_qlr_item_Resource_Wood_1000000_1",
       "limit": 10,
       "name": "alchemy_recipe_event_cotf_qlr_item_Resource_Wood_1000000_1",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_COTF_QLR_ITEM_RESOURCE_WOOD_1000000_1_NAME",
+      "name_placeholder": "",
       "priority": 202,
       "target_quality": 3,
       "target_quantity": 10
@@ -416,7 +430,7 @@
       "ingredients_name": "recipe_alchemy_recipe_event_cotf_qlr_item_Resource_Stone_150000_1",
       "limit": 10,
       "name": "alchemy_recipe_event_cotf_qlr_item_Resource_Stone_150000_1",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_COTF_QLR_ITEM_RESOURCE_STONE_150000_1_NAME",
+      "name_placeholder": "",
       "priority": 203,
       "target_quality": 3,
       "target_quantity": 10
@@ -430,7 +444,7 @@
       "ingredients_name": "recipe_alchemy_recipe_event_cotf_qlr_item_Resource_Iron_40000_1",
       "limit": 10,
       "name": "alchemy_recipe_event_cotf_qlr_item_Resource_Iron_40000_1",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_COTF_QLR_ITEM_RESOURCE_IRON_40000_1_NAME",
+      "name_placeholder": "",
       "priority": 204,
       "target_quality": 3,
       "target_quantity": 10
@@ -444,7 +458,7 @@
       "ingredients_name": "recipe_alchemy_recipe_event_cotf_qlr_item_buildreq_brick_1_1",
       "limit": 10,
       "name": "alchemy_recipe_event_cotf_qlr_item_buildreq_brick_1_1",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_COTF_QLR_ITEM_BUILDREQ_BRICK_1_1_NAME",
+      "name_placeholder": "",
       "priority": 212,
       "target_quality": 3,
       "target_quantity": 1500
@@ -458,7 +472,7 @@
       "ingredients_name": "recipe_alchemy_recipe_event_cotf_qlr_item_buildreq_soldierpine_1_1",
       "limit": 10,
       "name": "alchemy_recipe_event_cotf_qlr_item_buildreq_soldierpine_1_1",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_COTF_QLR_ITEM_BUILDREQ_SOLDIERPINE_1_1_NAME",
+      "name_placeholder": "",
       "priority": 222,
       "target_quality": 4,
       "target_quantity": 300
@@ -472,7 +486,7 @@
       "ingredients_name": "recipe_alchemy_recipe_event_cotf_qlr_item_buildreq_keystone_1_1",
       "limit": 10,
       "name": "alchemy_recipe_event_cotf_qlr_item_buildreq_keystone_1_1",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_COTF_QLR_ITEM_BUILDREQ_KEYSTONE_1_1_NAME",
+      "name_placeholder": "",
       "priority": 232,
       "target_quality": 5,
       "target_quantity": 100
@@ -486,7 +500,7 @@
       "ingredients_name": "recipe_alchemy_recipe_event_cotf_qlr_item_buildreq_levelcap_1_1",
       "limit": 10,
       "name": "alchemy_recipe_event_cotf_qlr_item_buildreq_levelcap_1_1",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_COTF_QLR_ITEM_BUILDREQ_LEVELCAP_1_1_NAME",
+      "name_placeholder": "",
       "priority": 233,
       "target_quality": 5,
       "target_quantity": 200
@@ -500,7 +514,7 @@
       "ingredients_name": "recipe_alchemy_recipe_event_cotf_qlr_item_buildreq_scholarly_fragment_1_1",
       "limit": 10,
       "name": "alchemy_recipe_event_cotf_qlr_item_buildreq_scholarly_fragment_1_1",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_COTF_QLR_ITEM_BUILDREQ_SCHOLARLY_FRAGMENT_1_1_NAME",
+      "name_placeholder": "",
       "priority": 211,
       "target_quality": 3,
       "target_quantity": 1500
@@ -514,7 +528,7 @@
       "ingredients_name": "recipe_alchemy_recipe_event_cotf_qlr_item_buildreq_pale_steel_1_1",
       "limit": 10,
       "name": "alchemy_recipe_event_cotf_qlr_item_buildreq_pale_steel_1_1",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_COTF_QLR_ITEM_BUILDREQ_PALE_STEEL_1_1_NAME",
+      "name_placeholder": "",
       "priority": 221,
       "target_quality": 4,
       "target_quantity": 300
@@ -528,7 +542,7 @@
       "ingredients_name": "recipe_alchemy_recipe_event_cotf_qlr_item_buildreq_red_gold_1_1",
       "limit": 10,
       "name": "alchemy_recipe_event_cotf_qlr_item_buildreq_red_gold_1_1",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_COTF_QLR_ITEM_BUILDREQ_RED_GOLD_1_1_NAME",
+      "name_placeholder": "",
       "priority": 231,
       "target_quality": 5,
       "target_quantity": 100
@@ -542,7 +556,7 @@
       "ingredients_name": "recipe_alchemy_recipe_event_cotf_qlr_item_enhancereq_basic_1_1",
       "limit": 10,
       "name": "alchemy_recipe_event_cotf_qlr_item_enhancereq_basic_1_1",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_COTF_QLR_ITEM_ENHANCEREQ_BASIC_1_1_NAME",
+      "name_placeholder": "",
       "priority": 213,
       "target_quality": 3,
       "target_quantity": 80000
@@ -556,7 +570,7 @@
       "ingredients_name": "recipe_alchemy_recipe_event_cotf_qlr_item_enhancereq_advanced_1_1",
       "limit": 10,
       "name": "alchemy_recipe_event_cotf_qlr_item_enhancereq_advanced_1_1",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_COTF_QLR_ITEM_ENHANCEREQ_ADVANCED_1_1_NAME",
+      "name_placeholder": "",
       "priority": 223,
       "target_quality": 4,
       "target_quantity": 4000
@@ -570,7 +584,7 @@
       "ingredients_name": "recipe_alchemy_recipe_event_cotf_qlr_curr_steel_1",
       "limit": 10,
       "name": "alchemy_recipe_event_cotf_qlr_curr_steel_1",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_COTF_QLR_CURR_STEEL_1_NAME",
+      "name_placeholder": "",
       "priority": 205,
       "target_quality": 1,
       "target_quantity": 100000
@@ -584,7 +598,7 @@
       "ingredients_name": "recipe_alchemy_recipe_event_repeatable_salvage_item_personalgift_nwm_common_1_1",
       "limit": 0,
       "name": "alchemy_recipe_event_repeatable_salvage_item_personalgift_nwm_common_1_1",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_REPEATABLE_SALVAGE_ITEM_PERSONALGIFT_NWM_COMMON_1_1_NAME",
+      "name_placeholder": "",
       "priority": 1001,
       "target_quality": 1,
       "target_quantity": 1
@@ -598,7 +612,7 @@
       "ingredients_name": "recipe_alchemy_recipe_event_repeatable_salvage_item_personalgift_nwm_common_1_100",
       "limit": 0,
       "name": "alchemy_recipe_event_repeatable_salvage_item_personalgift_nwm_common_1_100",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_REPEATABLE_SALVAGE_ITEM_PERSONALGIFT_NWM_COMMON_1_100_NAME",
+      "name_placeholder": "",
       "priority": 1001,
       "target_quality": 1,
       "target_quantity": 100
@@ -612,13 +626,13 @@
       "ingredients_name": "recipe_alchemy_recipe_event_repeatable_salvage_item_personalgift_nwm_common_1_10000",
       "limit": 0,
       "name": "alchemy_recipe_event_repeatable_salvage_item_personalgift_nwm_common_1_10000",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_REPEATABLE_SALVAGE_ITEM_PERSONALGIFT_NWM_COMMON_1_10000_NAME",
+      "name_placeholder": "",
       "priority": 1001,
       "target_quality": 1,
       "target_quantity": 10000
     },
     {
-      "description_placeholder": "ALCHEMY_RECIPE_EVENT_NWM_ITEM_EVENT_REWARDBOX_NWM_BOOSTS_EASTWATCH_XS_1_DESCRIPTION",
+      "description_placeholder": "",
       "display_group_name": "",
       "event_name": "nwm",
       "event_points": 100,
@@ -626,13 +640,13 @@
       "ingredients_name": "recipe_alchemy_recipe_event_nwm_item_event_rewardbox_nwm_boosts_eastwatch_xs_1",
       "limit": 0,
       "name": "alchemy_recipe_event_nwm_item_event_rewardbox_nwm_boosts_eastwatch_xs_1",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_NWM_ITEM_EVENT_REWARDBOX_NWM_BOOSTS_EASTWATCH_XS_1_NAME",
+      "name_placeholder": "",
       "priority": 1011,
       "target_quality": 1,
       "target_quantity": 0
     },
     {
-      "description_placeholder": "ALCHEMY_RECIPE_EVENT_NWM_ITEM_EVENT_REWARDBOX_NWM_BOOSTS_EASTWATCH_S_1_DESCRIPTION",
+      "description_placeholder": "",
       "display_group_name": "",
       "event_name": "nwm",
       "event_points": 100,
@@ -640,13 +654,13 @@
       "ingredients_name": "recipe_alchemy_recipe_event_nwm_item_event_rewardbox_nwm_boosts_eastwatch_s_1",
       "limit": 0,
       "name": "alchemy_recipe_event_nwm_item_event_rewardbox_nwm_boosts_eastwatch_s_1",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_NWM_ITEM_EVENT_REWARDBOX_NWM_BOOSTS_EASTWATCH_S_1_NAME",
+      "name_placeholder": "",
       "priority": 1012,
       "target_quality": 2,
       "target_quantity": 0
     },
     {
-      "description_placeholder": "ALCHEMY_RECIPE_EVENT_NWM_ITEM_EVENT_REWARDBOX_NWM_BOOSTS_EASTWATCH_M_1_DESCRIPTION",
+      "description_placeholder": "",
       "display_group_name": "",
       "event_name": "nwm",
       "event_points": 100,
@@ -654,13 +668,13 @@
       "ingredients_name": "recipe_alchemy_recipe_event_nwm_item_event_rewardbox_nwm_boosts_eastwatch_m_1",
       "limit": 0,
       "name": "alchemy_recipe_event_nwm_item_event_rewardbox_nwm_boosts_eastwatch_m_1",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_NWM_ITEM_EVENT_REWARDBOX_NWM_BOOSTS_EASTWATCH_M_1_NAME",
+      "name_placeholder": "",
       "priority": 1013,
       "target_quality": 3,
       "target_quantity": 0
     },
     {
-      "description_placeholder": "ALCHEMY_RECIPE_EVENT_NWM_ITEM_EVENT_REWARDBOX_NWM_BOOSTS_EASTWATCH_L_1_DESCRIPTION",
+      "description_placeholder": "",
       "display_group_name": "",
       "event_name": "nwm",
       "event_points": 100,
@@ -668,13 +682,13 @@
       "ingredients_name": "recipe_alchemy_recipe_event_nwm_item_event_rewardbox_nwm_boosts_eastwatch_l_1",
       "limit": 0,
       "name": "alchemy_recipe_event_nwm_item_event_rewardbox_nwm_boosts_eastwatch_l_1",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_NWM_ITEM_EVENT_REWARDBOX_NWM_BOOSTS_EASTWATCH_L_1_NAME",
+      "name_placeholder": "",
       "priority": 1014,
       "target_quality": 4,
       "target_quantity": 0
     },
     {
-      "description_placeholder": "ALCHEMY_RECIPE_EVENT_NWM_ITEM_EVENT_REWARDBOX_NWM_BOOSTS_EASTWATCH_XL_1_DESCRIPTION",
+      "description_placeholder": "",
       "display_group_name": "",
       "event_name": "nwm",
       "event_points": 100,
@@ -682,13 +696,13 @@
       "ingredients_name": "recipe_alchemy_recipe_event_nwm_item_event_rewardbox_nwm_boosts_eastwatch_xl_1",
       "limit": 0,
       "name": "alchemy_recipe_event_nwm_item_event_rewardbox_nwm_boosts_eastwatch_xl_1",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_NWM_ITEM_EVENT_REWARDBOX_NWM_BOOSTS_EASTWATCH_XL_1_NAME",
+      "name_placeholder": "",
       "priority": 1015,
       "target_quality": 5,
       "target_quantity": 0
     },
     {
-      "description_placeholder": "ALCHEMY_RECIPE_EVENT_NWM_ITEM_EVENT_REWARDBOX_NWM_BOOSTS_EASTWATCH_XXL_1_DESCRIPTION",
+      "description_placeholder": "",
       "display_group_name": "",
       "event_name": "nwm",
       "event_points": 100,
@@ -696,13 +710,13 @@
       "ingredients_name": "recipe_alchemy_recipe_event_nwm_item_event_rewardbox_nwm_boosts_eastwatch_xxl_1",
       "limit": 0,
       "name": "alchemy_recipe_event_nwm_item_event_rewardbox_nwm_boosts_eastwatch_xxl_1",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_NWM_ITEM_EVENT_REWARDBOX_NWM_BOOSTS_EASTWATCH_XXL_1_NAME",
+      "name_placeholder": "",
       "priority": 1016,
       "target_quality": 6,
       "target_quantity": 0
     },
     {
-      "description_placeholder": "ALCHEMY_RECIPE_EVENT_NWM_ITEM_EVENT_REWARDBOX_NWM_BOOSTS_SHADOWTOWER_XS_1_DESCRIPTION",
+      "description_placeholder": "",
       "display_group_name": "",
       "event_name": "nwm",
       "event_points": 100,
@@ -710,13 +724,13 @@
       "ingredients_name": "recipe_alchemy_recipe_event_nwm_item_event_rewardbox_nwm_boosts_shadowtower_xs_1",
       "limit": 0,
       "name": "alchemy_recipe_event_nwm_item_event_rewardbox_nwm_boosts_shadowtower_xs_1",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_NWM_ITEM_EVENT_REWARDBOX_NWM_BOOSTS_SHADOWTOWER_XS_1_NAME",
+      "name_placeholder": "",
       "priority": 1021,
       "target_quality": 1,
       "target_quantity": 0
     },
     {
-      "description_placeholder": "ALCHEMY_RECIPE_EVENT_NWM_ITEM_EVENT_REWARDBOX_NWM_BOOSTS_SHADOWTOWER_S_1_DESCRIPTION",
+      "description_placeholder": "",
       "display_group_name": "",
       "event_name": "nwm",
       "event_points": 100,
@@ -724,13 +738,13 @@
       "ingredients_name": "recipe_alchemy_recipe_event_nwm_item_event_rewardbox_nwm_boosts_shadowtower_s_1",
       "limit": 0,
       "name": "alchemy_recipe_event_nwm_item_event_rewardbox_nwm_boosts_shadowtower_s_1",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_NWM_ITEM_EVENT_REWARDBOX_NWM_BOOSTS_SHADOWTOWER_S_1_NAME",
+      "name_placeholder": "",
       "priority": 1022,
       "target_quality": 2,
       "target_quantity": 0
     },
     {
-      "description_placeholder": "ALCHEMY_RECIPE_EVENT_NWM_ITEM_EVENT_REWARDBOX_NWM_BOOSTS_SHADOWTOWER_M_1_DESCRIPTION",
+      "description_placeholder": "",
       "display_group_name": "",
       "event_name": "nwm",
       "event_points": 100,
@@ -738,13 +752,13 @@
       "ingredients_name": "recipe_alchemy_recipe_event_nwm_item_event_rewardbox_nwm_boosts_shadowtower_m_1",
       "limit": 0,
       "name": "alchemy_recipe_event_nwm_item_event_rewardbox_nwm_boosts_shadowtower_m_1",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_NWM_ITEM_EVENT_REWARDBOX_NWM_BOOSTS_SHADOWTOWER_M_1_NAME",
+      "name_placeholder": "",
       "priority": 1023,
       "target_quality": 3,
       "target_quantity": 0
     },
     {
-      "description_placeholder": "ALCHEMY_RECIPE_EVENT_NWM_ITEM_EVENT_REWARDBOX_NWM_BOOSTS_SHADOWTOWER_L_1_DESCRIPTION",
+      "description_placeholder": "",
       "display_group_name": "",
       "event_name": "nwm",
       "event_points": 100,
@@ -752,13 +766,13 @@
       "ingredients_name": "recipe_alchemy_recipe_event_nwm_item_event_rewardbox_nwm_boosts_shadowtower_l_1",
       "limit": 0,
       "name": "alchemy_recipe_event_nwm_item_event_rewardbox_nwm_boosts_shadowtower_l_1",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_NWM_ITEM_EVENT_REWARDBOX_NWM_BOOSTS_SHADOWTOWER_L_1_NAME",
+      "name_placeholder": "",
       "priority": 1024,
       "target_quality": 4,
       "target_quantity": 0
     },
     {
-      "description_placeholder": "ALCHEMY_RECIPE_EVENT_NWM_ITEM_EVENT_REWARDBOX_NWM_BOOSTS_SHADOWTOWER_XL_1_DESCRIPTION",
+      "description_placeholder": "",
       "display_group_name": "",
       "event_name": "nwm",
       "event_points": 100,
@@ -766,13 +780,13 @@
       "ingredients_name": "recipe_alchemy_recipe_event_nwm_item_event_rewardbox_nwm_boosts_shadowtower_xl_1",
       "limit": 0,
       "name": "alchemy_recipe_event_nwm_item_event_rewardbox_nwm_boosts_shadowtower_xl_1",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_NWM_ITEM_EVENT_REWARDBOX_NWM_BOOSTS_SHADOWTOWER_XL_1_NAME",
+      "name_placeholder": "",
       "priority": 1025,
       "target_quality": 5,
       "target_quantity": 0
     },
     {
-      "description_placeholder": "ALCHEMY_RECIPE_EVENT_NWM_ITEM_EVENT_REWARDBOX_NWM_BOOSTS_SHADOWTOWER_XXL_1_DESCRIPTION",
+      "description_placeholder": "",
       "display_group_name": "",
       "event_name": "nwm",
       "event_points": 100,
@@ -780,13 +794,13 @@
       "ingredients_name": "recipe_alchemy_recipe_event_nwm_item_event_rewardbox_nwm_boosts_shadowtower_xxl_1",
       "limit": 0,
       "name": "alchemy_recipe_event_nwm_item_event_rewardbox_nwm_boosts_shadowtower_xxl_1",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_NWM_ITEM_EVENT_REWARDBOX_NWM_BOOSTS_SHADOWTOWER_XXL_1_NAME",
+      "name_placeholder": "",
       "priority": 1026,
       "target_quality": 6,
       "target_quantity": 0
     },
     {
-      "description_placeholder": "ALCHEMY_RECIPE_EVENT_NWM_ITEM_EVENT_REWARDBOX_NWM_BOOSTS_NIGHTFORT_XS_1_DESCRIPTION",
+      "description_placeholder": "",
       "display_group_name": "",
       "event_name": "nwm",
       "event_points": 100,
@@ -794,13 +808,13 @@
       "ingredients_name": "recipe_alchemy_recipe_event_nwm_item_event_rewardbox_nwm_boosts_nightfort_xs_1",
       "limit": 0,
       "name": "alchemy_recipe_event_nwm_item_event_rewardbox_nwm_boosts_nightfort_xs_1",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_NWM_ITEM_EVENT_REWARDBOX_NWM_BOOSTS_NIGHTFORT_XS_1_NAME",
+      "name_placeholder": "",
       "priority": 1031,
       "target_quality": 1,
       "target_quantity": 0
     },
     {
-      "description_placeholder": "ALCHEMY_RECIPE_EVENT_NWM_ITEM_EVENT_REWARDBOX_NWM_BOOSTS_NIGHTFORT_S_1_DESCRIPTION",
+      "description_placeholder": "",
       "display_group_name": "",
       "event_name": "nwm",
       "event_points": 100,
@@ -808,13 +822,13 @@
       "ingredients_name": "recipe_alchemy_recipe_event_nwm_item_event_rewardbox_nwm_boosts_nightfort_s_1",
       "limit": 0,
       "name": "alchemy_recipe_event_nwm_item_event_rewardbox_nwm_boosts_nightfort_s_1",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_NWM_ITEM_EVENT_REWARDBOX_NWM_BOOSTS_NIGHTFORT_S_1_NAME",
+      "name_placeholder": "",
       "priority": 1032,
       "target_quality": 2,
       "target_quantity": 0
     },
     {
-      "description_placeholder": "ALCHEMY_RECIPE_EVENT_NWM_ITEM_EVENT_REWARDBOX_NWM_BOOSTS_NIGHTFORT_M_1_DESCRIPTION",
+      "description_placeholder": "",
       "display_group_name": "",
       "event_name": "nwm",
       "event_points": 100,
@@ -822,13 +836,13 @@
       "ingredients_name": "recipe_alchemy_recipe_event_nwm_item_event_rewardbox_nwm_boosts_nightfort_m_1",
       "limit": 0,
       "name": "alchemy_recipe_event_nwm_item_event_rewardbox_nwm_boosts_nightfort_m_1",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_NWM_ITEM_EVENT_REWARDBOX_NWM_BOOSTS_NIGHTFORT_M_1_NAME",
+      "name_placeholder": "",
       "priority": 1033,
       "target_quality": 3,
       "target_quantity": 0
     },
     {
-      "description_placeholder": "ALCHEMY_RECIPE_EVENT_NWM_ITEM_EVENT_REWARDBOX_NWM_BOOSTS_NIGHTFORT_L_1_DESCRIPTION",
+      "description_placeholder": "",
       "display_group_name": "",
       "event_name": "nwm",
       "event_points": 100,
@@ -836,13 +850,13 @@
       "ingredients_name": "recipe_alchemy_recipe_event_nwm_item_event_rewardbox_nwm_boosts_nightfort_l_1",
       "limit": 0,
       "name": "alchemy_recipe_event_nwm_item_event_rewardbox_nwm_boosts_nightfort_l_1",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_NWM_ITEM_EVENT_REWARDBOX_NWM_BOOSTS_NIGHTFORT_L_1_NAME",
+      "name_placeholder": "",
       "priority": 1034,
       "target_quality": 4,
       "target_quantity": 0
     },
     {
-      "description_placeholder": "ALCHEMY_RECIPE_EVENT_NWM_ITEM_EVENT_REWARDBOX_NWM_BOOSTS_NIGHTFORT_XL_1_DESCRIPTION",
+      "description_placeholder": "",
       "display_group_name": "",
       "event_name": "nwm",
       "event_points": 100,
@@ -850,13 +864,13 @@
       "ingredients_name": "recipe_alchemy_recipe_event_nwm_item_event_rewardbox_nwm_boosts_nightfort_xl_1",
       "limit": 0,
       "name": "alchemy_recipe_event_nwm_item_event_rewardbox_nwm_boosts_nightfort_xl_1",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_NWM_ITEM_EVENT_REWARDBOX_NWM_BOOSTS_NIGHTFORT_XL_1_NAME",
+      "name_placeholder": "",
       "priority": 1035,
       "target_quality": 5,
       "target_quantity": 0
     },
     {
-      "description_placeholder": "ALCHEMY_RECIPE_EVENT_NWM_ITEM_EVENT_REWARDBOX_NWM_BOOSTS_NIGHTFORT_XXL_1_DESCRIPTION",
+      "description_placeholder": "",
       "display_group_name": "",
       "event_name": "nwm",
       "event_points": 100,
@@ -864,13 +878,13 @@
       "ingredients_name": "recipe_alchemy_recipe_event_nwm_item_event_rewardbox_nwm_boosts_nightfort_xxl_1",
       "limit": 0,
       "name": "alchemy_recipe_event_nwm_item_event_rewardbox_nwm_boosts_nightfort_xxl_1",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_NWM_ITEM_EVENT_REWARDBOX_NWM_BOOSTS_NIGHTFORT_XXL_1_NAME",
+      "name_placeholder": "",
       "priority": 1036,
       "target_quality": 6,
       "target_quantity": 0
     },
     {
-      "description_placeholder": "ALCHEMY_RECIPE_EVENT_NWM_ITEM_EVENT_REWARDBOX_NWM_BOOSTS_CASTLEBLACK_XS_1_DESCRIPTION",
+      "description_placeholder": "",
       "display_group_name": "",
       "event_name": "nwm",
       "event_points": 100,
@@ -878,13 +892,13 @@
       "ingredients_name": "recipe_alchemy_recipe_event_nwm_item_event_rewardbox_nwm_boosts_castleblack_xs_1",
       "limit": 0,
       "name": "alchemy_recipe_event_nwm_item_event_rewardbox_nwm_boosts_castleblack_xs_1",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_NWM_ITEM_EVENT_REWARDBOX_NWM_BOOSTS_CASTLEBLACK_XS_1_NAME",
+      "name_placeholder": "",
       "priority": 1041,
       "target_quality": 1,
       "target_quantity": 0
     },
     {
-      "description_placeholder": "ALCHEMY_RECIPE_EVENT_NWM_ITEM_EVENT_REWARDBOX_NWM_BOOSTS_CASTLEBLACK_S_1_DESCRIPTION",
+      "description_placeholder": "",
       "display_group_name": "",
       "event_name": "nwm",
       "event_points": 100,
@@ -892,13 +906,13 @@
       "ingredients_name": "recipe_alchemy_recipe_event_nwm_item_event_rewardbox_nwm_boosts_castleblack_s_1",
       "limit": 0,
       "name": "alchemy_recipe_event_nwm_item_event_rewardbox_nwm_boosts_castleblack_s_1",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_NWM_ITEM_EVENT_REWARDBOX_NWM_BOOSTS_CASTLEBLACK_S_1_NAME",
+      "name_placeholder": "",
       "priority": 1042,
       "target_quality": 2,
       "target_quantity": 0
     },
     {
-      "description_placeholder": "ALCHEMY_RECIPE_EVENT_NWM_ITEM_EVENT_REWARDBOX_NWM_BOOSTS_CASTLEBLACK_M_1_DESCRIPTION",
+      "description_placeholder": "",
       "display_group_name": "",
       "event_name": "nwm",
       "event_points": 100,
@@ -906,13 +920,13 @@
       "ingredients_name": "recipe_alchemy_recipe_event_nwm_item_event_rewardbox_nwm_boosts_castleblack_m_1",
       "limit": 0,
       "name": "alchemy_recipe_event_nwm_item_event_rewardbox_nwm_boosts_castleblack_m_1",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_NWM_ITEM_EVENT_REWARDBOX_NWM_BOOSTS_CASTLEBLACK_M_1_NAME",
+      "name_placeholder": "",
       "priority": 1043,
       "target_quality": 3,
       "target_quantity": 0
     },
     {
-      "description_placeholder": "ALCHEMY_RECIPE_EVENT_NWM_ITEM_EVENT_REWARDBOX_NWM_BOOSTS_CASTLEBLACK_L_1_DESCRIPTION",
+      "description_placeholder": "",
       "display_group_name": "",
       "event_name": "nwm",
       "event_points": 100,
@@ -920,13 +934,13 @@
       "ingredients_name": "recipe_alchemy_recipe_event_nwm_item_event_rewardbox_nwm_boosts_castleblack_l_1",
       "limit": 0,
       "name": "alchemy_recipe_event_nwm_item_event_rewardbox_nwm_boosts_castleblack_l_1",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_NWM_ITEM_EVENT_REWARDBOX_NWM_BOOSTS_CASTLEBLACK_L_1_NAME",
+      "name_placeholder": "",
       "priority": 1044,
       "target_quality": 4,
       "target_quantity": 0
     },
     {
-      "description_placeholder": "ALCHEMY_RECIPE_EVENT_NWM_ITEM_EVENT_REWARDBOX_NWM_BOOSTS_CASTLEBLACK_XL_1_DESCRIPTION",
+      "description_placeholder": "",
       "display_group_name": "",
       "event_name": "nwm",
       "event_points": 100,
@@ -934,13 +948,13 @@
       "ingredients_name": "recipe_alchemy_recipe_event_nwm_item_event_rewardbox_nwm_boosts_castleblack_xl_1",
       "limit": 0,
       "name": "alchemy_recipe_event_nwm_item_event_rewardbox_nwm_boosts_castleblack_xl_1",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_NWM_ITEM_EVENT_REWARDBOX_NWM_BOOSTS_CASTLEBLACK_XL_1_NAME",
+      "name_placeholder": "",
       "priority": 1045,
       "target_quality": 5,
       "target_quantity": 0
     },
     {
-      "description_placeholder": "ALCHEMY_RECIPE_EVENT_NWM_ITEM_EVENT_REWARDBOX_NWM_BOOSTS_CASTLEBLACK_XXL_1_DESCRIPTION",
+      "description_placeholder": "",
       "display_group_name": "",
       "event_name": "nwm",
       "event_points": 100,
@@ -948,7 +962,7 @@
       "ingredients_name": "recipe_alchemy_recipe_event_nwm_item_event_rewardbox_nwm_boosts_castleblack_xxl_1",
       "limit": 0,
       "name": "alchemy_recipe_event_nwm_item_event_rewardbox_nwm_boosts_castleblack_xxl_1",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_NWM_ITEM_EVENT_REWARDBOX_NWM_BOOSTS_CASTLEBLACK_XXL_1_NAME",
+      "name_placeholder": "",
       "priority": 1046,
       "target_quality": 6,
       "target_quantity": 0
@@ -962,7 +976,7 @@
       "ingredients_name": "recipe_alchemy_recipe_event_climb_qlr_boost_MaxMarchSizeVsResource_alchemy_1",
       "limit": 1,
       "name": "alchemy_recipe_event_climb_qlr_boost_MaxMarchSizeVsResource_alchemy_1",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_CLIMB_QLR_BOOST_MAXMARCHSIZEVSRESOURCE_ALCHEMY_1_NAME",
+      "name_placeholder": "",
       "priority": 11,
       "target_quality": 3,
       "target_quantity": 108000
@@ -976,7 +990,7 @@
       "ingredients_name": "recipe_alchemy_recipe_event_climb_qlr_boost_DefenderAttack_alchemy_1",
       "limit": 1,
       "name": "alchemy_recipe_event_climb_qlr_boost_DefenderAttack_alchemy_1",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_CLIMB_QLR_BOOST_DEFENDERATTACK_ALCHEMY_1_NAME",
+      "name_placeholder": "",
       "priority": 12,
       "target_quality": 3,
       "target_quantity": 108000
@@ -990,7 +1004,7 @@
       "ingredients_name": "recipe_alchemy_recipe_event_climb_qlr_boost_DefenderDefense_alchemy_1",
       "limit": 1,
       "name": "alchemy_recipe_event_climb_qlr_boost_DefenderDefense_alchemy_1",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_CLIMB_QLR_BOOST_DEFENDERDEFENSE_ALCHEMY_1_NAME",
+      "name_placeholder": "",
       "priority": 13,
       "target_quality": 3,
       "target_quantity": 108000
@@ -1004,7 +1018,7 @@
       "ingredients_name": "recipe_alchemy_recipe_event_climb_qlr_boost_DefenderHealth_alchemy_1",
       "limit": 1,
       "name": "alchemy_recipe_event_climb_qlr_boost_DefenderHealth_alchemy_1",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_CLIMB_QLR_BOOST_DEFENDERHEALTH_ALCHEMY_1_NAME",
+      "name_placeholder": "",
       "priority": 14,
       "target_quality": 3,
       "target_quantity": 108000
@@ -1284,7 +1298,7 @@
       "ingredients_name": "recipe_alchemy_recipe_event_pfc_qlr_boost_MaxMarchSizeVsStrategicTerrain_alchemy_1",
       "limit": 1,
       "name": "alchemy_recipe_event_pfc_qlr_boost_MaxMarchSizeVsStrategicTerrain_alchemy_1",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_PFC_QLR_BOOST_MAXMARCHSIZEVSSTRATEGICTERRAIN_ALCHEMY_1_NAME",
+      "name_placeholder": "",
       "priority": 11,
       "target_quality": 3,
       "target_quantity": 86400
@@ -1298,7 +1312,7 @@
       "ingredients_name": "recipe_alchemy_recipe_event_pfc_qlr_boost_DefenderTroopAttackVsPlayerStrategicTerrain_alchemy_1",
       "limit": 1,
       "name": "alchemy_recipe_event_pfc_qlr_boost_DefenderTroopAttackVsPlayerStrategicTerrain_alchemy_1",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_PFC_QLR_BOOST_DEFENDERTROOPATTACKVSPLAYERSTRATEGICTERRAIN_ALCHEMY_1_NAME",
+      "name_placeholder": "",
       "priority": 12,
       "target_quality": 3,
       "target_quantity": 86400
@@ -1312,7 +1326,7 @@
       "ingredients_name": "recipe_alchemy_recipe_event_pfc_qlr_boost_DefenderTroopDefenseVsPlayerStrategicTerrain_alchemy_1",
       "limit": 1,
       "name": "alchemy_recipe_event_pfc_qlr_boost_DefenderTroopDefenseVsPlayerStrategicTerrain_alchemy_1",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_PFC_QLR_BOOST_DEFENDERTROOPDEFENSEVSPLAYERSTRATEGICTERRAIN_ALCHEMY_1_NAME",
+      "name_placeholder": "",
       "priority": 13,
       "target_quality": 3,
       "target_quantity": 86400
@@ -1326,7 +1340,7 @@
       "ingredients_name": "recipe_alchemy_recipe_event_pfc_qlr_boost_DefenderTroopHealthVsPlayerStrategicTerrain_alchemy_1",
       "limit": 1,
       "name": "alchemy_recipe_event_pfc_qlr_boost_DefenderTroopHealthVsPlayerStrategicTerrain_alchemy_1",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_PFC_QLR_BOOST_DEFENDERTROOPHEALTHVSPLAYERSTRATEGICTERRAIN_ALCHEMY_1_NAME",
+      "name_placeholder": "",
       "priority": 14,
       "target_quality": 3,
       "target_quantity": 86400
@@ -1340,7 +1354,7 @@
       "ingredients_name": "recipe_alchemy_recipe_event_pfc_qlr_boost_MaxMarchSizeVsSOP_alchemy_1",
       "limit": 1,
       "name": "alchemy_recipe_event_pfc_qlr_boost_MaxMarchSizeVsSOP_alchemy_1",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_PFC_QLR_BOOST_MAXMARCHSIZEVSSOP_ALCHEMY_1_NAME",
+      "name_placeholder": "",
       "priority": 15,
       "target_quality": 3,
       "target_quantity": 86400
@@ -1354,7 +1368,7 @@
       "ingredients_name": "recipe_alchemy_recipe_event_pfc_qlr_boost_MarchingSpeedVsSeatOfPower_alchemy_1",
       "limit": 1,
       "name": "alchemy_recipe_event_pfc_qlr_boost_MarchingSpeedVsSeatOfPower_alchemy_1",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_PFC_QLR_BOOST_MARCHINGSPEEDVSSEATOFPOWER_ALCHEMY_1_NAME",
+      "name_placeholder": "",
       "priority": 16,
       "target_quality": 3,
       "target_quantity": 86400
@@ -1536,7 +1550,7 @@
       "ingredients_name": "recipe_alchemy_recipe_event_repeatable_salvage_2_item_personalgift_nwm_common_1_1",
       "limit": 0,
       "name": "alchemy_recipe_event_repeatable_salvage_2_item_personalgift_nwm_common_1_1",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_REPEATABLE_SALVAGE_2_ITEM_PERSONALGIFT_NWM_COMMON_1_1_NAME",
+      "name_placeholder": "",
       "priority": 1001,
       "target_quality": 1,
       "target_quantity": 1
@@ -1550,7 +1564,7 @@
       "ingredients_name": "recipe_alchemy_recipe_event_repeatable_salvage_2_item_personalgift_nwm_common_1_10",
       "limit": 0,
       "name": "alchemy_recipe_event_repeatable_salvage_2_item_personalgift_nwm_common_1_10",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_REPEATABLE_SALVAGE_2_ITEM_PERSONALGIFT_NWM_COMMON_1_10_NAME",
+      "name_placeholder": "",
       "priority": 1001,
       "target_quality": 1,
       "target_quantity": 10
@@ -1564,13 +1578,13 @@
       "ingredients_name": "recipe_alchemy_recipe_event_repeatable_salvage_2_item_personalgift_nwm_common_1_100",
       "limit": 0,
       "name": "alchemy_recipe_event_repeatable_salvage_2_item_personalgift_nwm_common_1_100",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_REPEATABLE_SALVAGE_2_ITEM_PERSONALGIFT_NWM_COMMON_1_100_NAME",
+      "name_placeholder": "",
       "priority": 1001,
       "target_quality": 1,
       "target_quantity": 100
     },
     {
-      "description_placeholder": "ALCHEMY_RECIPE_EVENT_NWM_ITEM_EVENT_REWARDBOX_NWM_BOOSTS_WALL_S_1_DESCRIPTION",
+      "description_placeholder": "",
       "display_group_name": "",
       "event_name": "nwm",
       "event_points": 100,
@@ -1578,13 +1592,13 @@
       "ingredients_name": "recipe_alchemy_recipe_event_nwm_item_event_rewardbox_nwm_boosts_wall_s_1",
       "limit": 0,
       "name": "alchemy_recipe_event_nwm_item_event_rewardbox_nwm_boosts_wall_s_1",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_NWM_ITEM_EVENT_REWARDBOX_NWM_BOOSTS_WALL_S_1_NAME",
+      "name_placeholder": "",
       "priority": 1111,
       "target_quality": 1,
       "target_quantity": 0
     },
     {
-      "description_placeholder": "ALCHEMY_RECIPE_EVENT_NWM_ITEM_EVENT_REWARDBOX_NWM_BOOSTS_WALL_M_1_DESCRIPTION",
+      "description_placeholder": "",
       "display_group_name": "",
       "event_name": "nwm",
       "event_points": 100,
@@ -1592,13 +1606,13 @@
       "ingredients_name": "recipe_alchemy_recipe_event_nwm_item_event_rewardbox_nwm_boosts_wall_m_1",
       "limit": 0,
       "name": "alchemy_recipe_event_nwm_item_event_rewardbox_nwm_boosts_wall_m_1",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_NWM_ITEM_EVENT_REWARDBOX_NWM_BOOSTS_WALL_M_1_NAME",
+      "name_placeholder": "",
       "priority": 1112,
       "target_quality": 2,
       "target_quantity": 0
     },
     {
-      "description_placeholder": "ALCHEMY_RECIPE_EVENT_NWM_ITEM_EVENT_REWARDBOX_NWM_BOOSTS_WALL_L_1_DESCRIPTION",
+      "description_placeholder": "",
       "display_group_name": "",
       "event_name": "nwm",
       "event_points": 100,
@@ -1606,7 +1620,7 @@
       "ingredients_name": "recipe_alchemy_recipe_event_nwm_item_event_rewardbox_nwm_boosts_wall_l_1",
       "limit": 0,
       "name": "alchemy_recipe_event_nwm_item_event_rewardbox_nwm_boosts_wall_l_1",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_NWM_ITEM_EVENT_REWARDBOX_NWM_BOOSTS_WALL_L_1_NAME",
+      "name_placeholder": "",
       "priority": 1113,
       "target_quality": 3,
       "target_quantity": 0
@@ -1620,7 +1634,7 @@
       "ingredients_name": "recipe_alchemy_recipe_event_nwm_boost_DefenderTroopAttackVsPlayerStrategicTerrain_alchemy_1",
       "limit": 0,
       "name": "alchemy_recipe_event_nwm_boost_DefenderTroopAttackVsPlayerStrategicTerrain_alchemy_1",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_NWM_BOOST_DEFENDERTROOPATTACKVSPLAYERSTRATEGICTERRAIN_ALCHEMY_1_NAME",
+      "name_placeholder": "",
       "priority": 1002,
       "target_quality": 2,
       "target_quantity": 3600
@@ -1634,7 +1648,7 @@
       "ingredients_name": "recipe_alchemy_recipe_event_nwm_boost_DefenderTroopDefenseVsPlayerStrategicTerrain_alchemy_1",
       "limit": 0,
       "name": "alchemy_recipe_event_nwm_boost_DefenderTroopDefenseVsPlayerStrategicTerrain_alchemy_1",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_NWM_BOOST_DEFENDERTROOPDEFENSEVSPLAYERSTRATEGICTERRAIN_ALCHEMY_1_NAME",
+      "name_placeholder": "",
       "priority": 1003,
       "target_quality": 2,
       "target_quantity": 3600
@@ -1648,7 +1662,7 @@
       "ingredients_name": "recipe_alchemy_recipe_event_nwm_boost_DefenderTroopHealthVsPlayerStrategicTerrain_alchemy_1",
       "limit": 0,
       "name": "alchemy_recipe_event_nwm_boost_DefenderTroopHealthVsPlayerStrategicTerrain_alchemy_1",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_NWM_BOOST_DEFENDERTROOPHEALTHVSPLAYERSTRATEGICTERRAIN_ALCHEMY_1_NAME",
+      "name_placeholder": "",
       "priority": 1004,
       "target_quality": 2,
       "target_quantity": 3600
@@ -1662,7 +1676,7 @@
       "ingredients_name": "recipe_alchemy_recipe_event_nwm_boost_MaxMarchSizeVsStrategicTerrain_alchemy_1",
       "limit": 0,
       "name": "alchemy_recipe_event_nwm_boost_MaxMarchSizeVsStrategicTerrain_alchemy_1",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_NWM_BOOST_MAXMARCHSIZEVSSTRATEGICTERRAIN_ALCHEMY_1_NAME",
+      "name_placeholder": "",
       "priority": 1005,
       "target_quality": 3,
       "target_quantity": 3600
@@ -1676,7 +1690,7 @@
       "ingredients_name": "recipe_alchemy_recipe_event_nwm_boost_TroopAttackVsSoPWall_alchemy_1",
       "limit": 0,
       "name": "alchemy_recipe_event_nwm_boost_TroopAttackVsSoPWall_alchemy_1",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_NWM_BOOST_TROOPATTACKVSSOPWALL_ALCHEMY_1_NAME",
+      "name_placeholder": "",
       "priority": 1006,
       "target_quality": 4,
       "target_quantity": 1800
@@ -1690,7 +1704,7 @@
       "ingredients_name": "recipe_alchemy_recipe_event_nwm_boost_TroopDefenseVsSoPWall_alchemy_1",
       "limit": 0,
       "name": "alchemy_recipe_event_nwm_boost_TroopDefenseVsSoPWall_alchemy_1",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_NWM_BOOST_TROOPDEFENSEVSSOPWALL_ALCHEMY_1_NAME",
+      "name_placeholder": "",
       "priority": 1007,
       "target_quality": 4,
       "target_quantity": 1800
@@ -1704,7 +1718,7 @@
       "ingredients_name": "recipe_alchemy_recipe_event_nwm_boost_TroopHealthVsSoPWall_alchemy_1",
       "limit": 0,
       "name": "alchemy_recipe_event_nwm_boost_TroopHealthVsSoPWall_alchemy_1",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_NWM_BOOST_TROOPHEALTHVSSOPWALL_ALCHEMY_1_NAME",
+      "name_placeholder": "",
       "priority": 1008,
       "target_quality": 4,
       "target_quantity": 1800
@@ -1718,7 +1732,7 @@
       "ingredients_name": "recipe_alchemy_recipe_event_nwm_boost_MaxMarchSizeVsSoPWall_alchemy_1",
       "limit": 0,
       "name": "alchemy_recipe_event_nwm_boost_MaxMarchSizeVsSoPWall_alchemy_1",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_NWM_BOOST_MAXMARCHSIZEVSSOPWALL_ALCHEMY_1_NAME",
+      "name_placeholder": "",
       "priority": 1009,
       "target_quality": 5,
       "target_quantity": 1800
@@ -1732,7 +1746,7 @@
       "ingredients_name": "recipe_alchemy_recipe_event_nwm_boost_RalliedTroopCapacityVsSoPWall_alchemy_1",
       "limit": 0,
       "name": "alchemy_recipe_event_nwm_boost_RalliedTroopCapacityVsSoPWall_alchemy_1",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_NWM_BOOST_RALLIEDTROOPCAPACITYVSSOPWALL_ALCHEMY_1_NAME",
+      "name_placeholder": "",
       "priority": 1010,
       "target_quality": 5,
       "target_quantity": 1800
@@ -1746,7 +1760,7 @@
       "ingredients_name": "recipe_alchemy_recipe_event_nwm_boost_TroopsDeadtoWoundedVsSoPWall_alchemy_1",
       "limit": 0,
       "name": "alchemy_recipe_event_nwm_boost_TroopsDeadtoWoundedVsSoPWall_alchemy_1",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_NWM_BOOST_TROOPSDEADTOWOUNDEDVSSOPWALL_ALCHEMY_1_NAME",
+      "name_placeholder": "",
       "priority": 1011,
       "target_quality": 5,
       "target_quantity": 1800
@@ -1760,7 +1774,7 @@
       "ingredients_name": "recipe_alchemy_recipe_event_nwm_boost_RallySlotVsSoPWall_alchemy_1",
       "limit": 0,
       "name": "alchemy_recipe_event_nwm_boost_RallySlotVsSoPWall_alchemy_1",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_NWM_BOOST_RALLYSLOTVSSOPWALL_ALCHEMY_1_NAME",
+      "name_placeholder": "",
       "priority": 1012,
       "target_quality": 6,
       "target_quantity": 1800
@@ -1774,7 +1788,7 @@
       "ingredients_name": "recipe_alchemy_recipe_event_nwm_item_Advanced_Teleport_1",
       "limit": 2,
       "name": "alchemy_recipe_event_nwm_item_Advanced_Teleport_1",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_NWM_ITEM_ADVANCED_TELEPORT_1_NAME",
+      "name_placeholder": "",
       "priority": 1013,
       "target_quality": 5,
       "target_quantity": 1
@@ -1788,7 +1802,7 @@
       "ingredients_name": "recipe_alchemy_recipe_event_nwm_item_Advanced_Teleport_2_1",
       "limit": 4,
       "name": "alchemy_recipe_event_nwm_item_Advanced_Teleport_2_1",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_NWM_ITEM_ADVANCED_TELEPORT_2_1_NAME",
+      "name_placeholder": "",
       "priority": 1014,
       "target_quality": 5,
       "target_quantity": 1
@@ -1802,7 +1816,7 @@
       "ingredients_name": "recipe_alchemy_recipe_event_nwm_item_Random_Teleport_1",
       "limit": 10,
       "name": "alchemy_recipe_event_nwm_item_Random_Teleport_1",
-      "name_placeholder": "ALCHEMY_RECIPE_EVENT_NWM_ITEM_RANDOM_TELEPORT_1_NAME",
+      "name_placeholder": "",
       "priority": 1015,
       "target_quality": 4,
       "target_quantity": 1

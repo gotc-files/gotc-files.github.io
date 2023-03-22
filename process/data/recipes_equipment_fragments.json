@@ -115,6 +115,20 @@
     },
     {
       "description_placeholder": "ALCHEMY_RECIPE_EQUIPMENTFRAGMENTS_GENERIC_DESC",
+      "display_group_name": "displayGroup_alchemy_recipe_item_EquipmentFragments_1_to_item_flux_8",
+      "event_name": "",
+      "event_points": 0,
+      "id": "e6906346065ba3fe",
+      "ingredients_name": "recipe_alchemy_recipe_item_EquipmentFragments_1_to_item_flux_8_1",
+      "limit": 50,
+      "name": "alchemy_recipe_item_EquipmentFragments_1_to_item_flux_8_1",
+      "name_placeholder": "ALCHEMY_RECIPE_ITEM_FLUX_8_AMOUNT_10000_NAME",
+      "priority": 9,
+      "target_quality": 1,
+      "target_quantity": 10000
+    },
+    {
+      "description_placeholder": "ALCHEMY_RECIPE_EQUIPMENTFRAGMENTS_GENERIC_DESC",
       "display_group_name": "displayGroup_alchemy_recipe_item_EquipmentFragments_1_to_item_flux_trinket_1",
       "event_name": "",
       "event_points": 0,
@@ -123,7 +137,7 @@
       "limit": 50,
       "name": "alchemy_recipe_item_EquipmentFragments_1_to_item_flux_trinket_1_1",
       "name_placeholder": "ALCHEMY_RECIPE_ITEM_FLUX_TRINKET_1_AMOUNT_10000_NAME",
-      "priority": 9,
+      "priority": 10,
       "target_quality": 1,
       "target_quantity": 10000
     },
@@ -137,7 +151,7 @@
       "limit": 50,
       "name": "alchemy_recipe_item_EquipmentFragments_1_to_item_flux_trinket_2_1",
       "name_placeholder": "ALCHEMY_RECIPE_ITEM_FLUX_TRINKET_2_AMOUNT_10000_NAME",
-      "priority": 10,
+      "priority": 11,
       "target_quality": 1,
       "target_quantity": 10000
     },
@@ -151,7 +165,7 @@
       "limit": 50,
       "name": "alchemy_recipe_item_EquipmentFragments_1_to_item_flux_trinket_3_1",
       "name_placeholder": "ALCHEMY_RECIPE_ITEM_FLUX_TRINKET_3_AMOUNT_10000_NAME",
-      "priority": 11,
+      "priority": 12,
       "target_quality": 1,
       "target_quantity": 10000
     },
@@ -165,7 +179,7 @@
       "limit": 50,
       "name": "alchemy_recipe_item_EquipmentFragments_1_to_item_flux_trinket_4_1",
       "name_placeholder": "ALCHEMY_RECIPE_ITEM_FLUX_TRINKET_4_AMOUNT_10000_NAME",
-      "priority": 12,
+      "priority": 13,
       "target_quality": 1,
       "target_quantity": 10000
     },
@@ -179,7 +193,7 @@
       "limit": 30,
       "name": "alchemy_recipe_item_EquipmentFragments_1_to_item_speedup_Crafting_60m_1",
       "name_placeholder": "ALCHEMY_RECIPE_ITEM_SPEEDUP_CRAFTING_60M_AMOUNT_1_NAME",
-      "priority": 13,
+      "priority": 14,
       "target_quality": 2,
       "target_quantity": 1
     },
@@ -193,7 +207,7 @@
       "limit": 50,
       "name": "alchemy_recipe_item_EquipmentFragments_1_to_curr_Steel_1",
       "name_placeholder": "ALCHEMY_RECIPE_CURR_STEEL_AMOUNT_100000_NAME",
-      "priority": 14,
+      "priority": 15,
       "target_quality": 1,
       "target_quantity": 100000
     }
