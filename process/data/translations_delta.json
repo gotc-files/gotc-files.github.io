@@ -670,6 +670,22 @@
       "value": "Dragon Troop Defense Versus Player I"
     },
     {
+      "name": "DRAGON_INFO_CUSTOMIZE_BODYCOLOR_LEVEL",
+      "value": "Dragon Lvl. 1"
+    },
+    {
+      "name": "DRAGON_INFO_CUSTOMIZE_EYECOLOR_LEVEL",
+      "value": "Dragon Lvl. 2"
+    },
+    {
+      "name": "DRAGON_INFO_CUSTOMIZE_HORNCOLOR_LEVEL",
+      "value": "Dragon Lvl. 20"
+    },
+    {
+      "name": "DRAGON_INFO_CUSTOMIZE_PATTERNCOLOR_LEVEL",
+      "value": "Dragon Lvl. 10"
+    },
+    {
       "name": "DRAGON_TENACITY_RECHARGE_100",
       "value": "Refill All"
     },
@@ -819,7 +835,7 @@
     },
     {
       "name": "HOUSE_OF_THE_DRAGON_EVENT_DESC",
-      "value": "Join us for a multiple-month adventure looking at the life and times of one Jon Snow. Keep your eyes peeled for special rewards available during this time."
+      "value": "Join us for a multiple-month adventure looking at the life and times of one Jon Snow. Keep your eyes peeled for limited-time rewards available during this time!"
     },
     {
       "name": "HOUSE_OF_THE_DRAGON_EVENT_HEADER",
@@ -1218,6 +1234,126 @@
       "value": "While recipes are active, exchange this item to get trinket materials from Trinket IV armory collections, including House Baelish, Dothraki Heirlooms, House Tyrell, Conqueror's Heirlooms, and Targaryen Prince Artifacts. Flux recipes are useable in future events."
     },
     {
+      "name": "ITEM_GIFT_ANNIVERSARY_YEAR_10_NAME",
+      "value": "10 Year Anniversary Gift"
+    },
+    {
+      "name": "ITEM_GIFT_ANNIVERSARY_YEAR_11_NAME",
+      "value": "11 Year Anniversary Gift"
+    },
+    {
+      "name": "ITEM_GIFT_ANNIVERSARY_YEAR_12_NAME",
+      "value": "12 Year Anniversary Gift"
+    },
+    {
+      "name": "ITEM_GIFT_ANNIVERSARY_YEAR_13_NAME",
+      "value": "13 Year Anniversary Gift"
+    },
+    {
+      "name": "ITEM_GIFT_ANNIVERSARY_YEAR_14_NAME",
+      "value": "14 Year Anniversary Gift"
+    },
+    {
+      "name": "ITEM_GIFT_ANNIVERSARY_YEAR_15_NAME",
+      "value": "15 Year Anniversary Gift"
+    },
+    {
+      "name": "ITEM_GIFT_ANNIVERSARY_YEAR_16_NAME",
+      "value": "16 Year Anniversary Gift"
+    },
+    {
+      "name": "ITEM_GIFT_ANNIVERSARY_YEAR_17_NAME",
+      "value": "17 Year Anniversary Gift"
+    },
+    {
+      "name": "ITEM_GIFT_ANNIVERSARY_YEAR_18_NAME",
+      "value": "18 Year Anniversary Gift"
+    },
+    {
+      "name": "ITEM_GIFT_ANNIVERSARY_YEAR_19_NAME",
+      "value": "19 Year Anniversary Gift"
+    },
+    {
+      "name": "ITEM_GIFT_ANNIVERSARY_YEAR_1_NAME",
+      "value": "1 Year Anniversary Gift"
+    },
+    {
+      "name": "ITEM_GIFT_ANNIVERSARY_YEAR_20_NAME",
+      "value": "20 Year Anniversary Gift"
+    },
+    {
+      "name": "ITEM_GIFT_ANNIVERSARY_YEAR_21_NAME",
+      "value": "21 Year Anniversary Gift"
+    },
+    {
+      "name": "ITEM_GIFT_ANNIVERSARY_YEAR_22_NAME",
+      "value": "22 Year Anniversary Gift"
+    },
+    {
+      "name": "ITEM_GIFT_ANNIVERSARY_YEAR_23_NAME",
+      "value": "23 Year Anniversary Gift"
+    },
+    {
+      "name": "ITEM_GIFT_ANNIVERSARY_YEAR_24_NAME",
+      "value": "24 Year Anniversary Gift"
+    },
+    {
+      "name": "ITEM_GIFT_ANNIVERSARY_YEAR_25_NAME",
+      "value": "25 Year Anniversary Gift"
+    },
+    {
+      "name": "ITEM_GIFT_ANNIVERSARY_YEAR_26_NAME",
+      "value": "26 Year Anniversary Gift"
+    },
+    {
+      "name": "ITEM_GIFT_ANNIVERSARY_YEAR_27_NAME",
+      "value": "27 Year Anniversary Gift"
+    },
+    {
+      "name": "ITEM_GIFT_ANNIVERSARY_YEAR_28_NAME",
+      "value": "28 Year Anniversary Gift"
+    },
+    {
+      "name": "ITEM_GIFT_ANNIVERSARY_YEAR_29_NAME",
+      "value": "29 Year Anniversary Gift"
+    },
+    {
+      "name": "ITEM_GIFT_ANNIVERSARY_YEAR_2_NAME",
+      "value": "2 Year Anniversary Gift"
+    },
+    {
+      "name": "ITEM_GIFT_ANNIVERSARY_YEAR_30_NAME",
+      "value": "30 Year Anniversary Gift"
+    },
+    {
+      "name": "ITEM_GIFT_ANNIVERSARY_YEAR_3_NAME",
+      "value": "3 Year Anniversary Gift"
+    },
+    {
+      "name": "ITEM_GIFT_ANNIVERSARY_YEAR_4_NAME",
+      "value": "4 Year Anniversary Gift"
+    },
+    {
+      "name": "ITEM_GIFT_ANNIVERSARY_YEAR_5_NAME",
+      "value": "5 Year Anniversary Gift"
+    },
+    {
+      "name": "ITEM_GIFT_ANNIVERSARY_YEAR_6_NAME",
+      "value": "6 Year Anniversary Gift"
+    },
+    {
+      "name": "ITEM_GIFT_ANNIVERSARY_YEAR_7_NAME",
+      "value": "7 Year Anniversary Gift"
+    },
+    {
+      "name": "ITEM_GIFT_ANNIVERSARY_YEAR_8_NAME",
+      "value": "8 Year Anniversary Gift"
+    },
+    {
+      "name": "ITEM_GIFT_ANNIVERSARY_YEAR_9_NAME",
+      "value": "9 Year Anniversary Gift"
+    },
+    {
       "name": "ITEM_HERO_ADV_HODOR_STALWARTGUARDIAN_1_NAME",
       "value": "Hodor, <i>Stalwart Guardian</i>, Relic."
     },
@@ -1390,12 +1526,72 @@
       "value": "War for the Throne: Open War"
     },
     {
+      "name": "LEGAL_TEXT_1",
+      "value": "GAME OF THRONES: CONQUEST Software \u00a9 2023 Warner Bros. Entertainment Inc. Game of Thrones series title, artwork and photographs \u00a9 2023 Home Box Office, Inc. HBO and related trademarks are the property of Home Box Office, Inc. Official HBO Licensed Product."
+    },
+    {
+      "name": "LEGAL_TEXT_2",
+      "value": "WARNER BROS. GAMES LOGO, WB SHIELD: \u2122 & \u00a9 Warner Bros. Entertainment Inc. (s23)"
+    },
+    {
+      "name": "MAPMARKER_BARATHEON",
+      "value": "Baratheon"
+    },
+    {
+      "name": "MAPMARKER_BOLTON",
+      "value": "Bolton"
+    },
+    {
+      "name": "MAPMARKER_FREY",
+      "value": "Frey"
+    },
+    {
+      "name": "MAPMARKER_GREYJOY",
+      "value": "Greyjoy"
+    },
+    {
+      "name": "MAPMARKER_KARSTARK",
+      "value": "Karstark"
+    },
+    {
+      "name": "MAPMARKER_KVK",
+      "value": "KVK"
+    },
+    {
+      "name": "MAPMARKER_LANNISTER",
+      "value": "Lannister"
+    },
+    {
+      "name": "MAPMARKER_LONGCLAW",
+      "value": ""
+    },
+    {
+      "name": "MAPMARKER_MARTELL",
+      "value": "Martell"
+    },
+    {
       "name": "MAPMARKER_NIGHTSWATCH",
       "value": "Night's Watch"
     },
     {
       "name": "MAPMARKER_SOLDIER",
       "value": "Soldier"
+    },
+    {
+      "name": "MAPMARKER_STARK",
+      "value": "Stark"
+    },
+    {
+      "name": "MAPMARKER_TARGARYEN",
+      "value": "Targaryen"
+    },
+    {
+      "name": "MAPMARKER_TULLY",
+      "value": "Tully"
+    },
+    {
+      "name": "MAPMARKER_TYRELL",
+      "value": "Tyrell"
     },
     {
       "name": "NPC_COUNT_SETTINGS",
@@ -1568,6 +1764,10 @@
     {
       "name": "TYM_NO_KINGDOMS",
       "value": "No event kingdoms available. Try raising your keep level."
+    },
+    {
+      "name": "TYM_POINTS_BREAKDOWN",
+      "value": "Points Breakdown"
     },
     {
       "name": "TYM_REWARDS",
