@@ -1,6 +1,6 @@
 from files.unified_processor import UnifiedProcessor
 from files.stat_sets.stat_sets_pb2 import StatSets
-from files.util import id_int64_to_hex
+from files.util import id_int64_to_hex, id_int64_str_to_hex
 
 
 class StatSetsProcessor(UnifiedProcessor):

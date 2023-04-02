@@ -2,6 +2,14 @@ from files.unified_processor import UnifiedProcessor
 from files.progressions.progressions_pb2 import Progressions
 from files.util import id_int64_to_hex, id_int64_str_to_hex
 
+def parse_progression_value(s):
+    if s.isnumeric():
+        return int(s)
+    try:
+        return float(s)
+    except:
+        pass
+    return s
 
 class ProgressionsProcessor(UnifiedProcessor):
     def proto_template(self):
@@ -37,7 +45,7 @@ class ProgressionsProcessor(UnifiedProcessor):
                 {
                     "id": id_int64_str_to_hex(raw_progression["DID"]["ID"]),
                     "name": raw_progression["DID"]["Name"],
-                    "values": raw_progression["Entries"],
+                    "values": [parse_progression_value(s) for s in raw_progression["Entries"]],
                 }
             )
         return progressions

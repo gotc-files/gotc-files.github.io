@@ -34,7 +34,7 @@ class GearsProcessor(UnifiedProcessor):
                     "id": id_int64_str_to_hex(raw_gear["DID"]["ID"]),
                     "name": raw_gear["DID"]["Name"].lower(),
                     "name_placeholder": raw_gear["Name"],
-                    "image": raw_gear["Sprite"],
+                    "image": raw_gear["Sprite"] if "Sprite" in raw_gear else "",
                     "priority": raw_gear["SortPriority"],
                     "slot_name": raw_gear["EquipmentSlot"]["Name"],
                     "level": raw_gear["RequiredLordLevel"],

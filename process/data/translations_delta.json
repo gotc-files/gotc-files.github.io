@@ -830,6 +830,38 @@
       "value": "Northern Artifacts"
     },
     {
+      "name": "EVENT_STAT_VERB_SOP_EVENTSCORE_AUTOCLAIM_NWM_CASTLEBLACK",
+      "value": "Occupy Castle Black"
+    },
+    {
+      "name": "EVENT_STAT_VERB_SOP_EVENTSCORE_AUTOCLAIM_NWM_CASTLEBLACK_PTS",
+      "value": "+16,667 Points per Minute"
+    },
+    {
+      "name": "EVENT_STAT_VERB_SOP_EVENTSCORE_AUTOCLAIM_NWM_EASTWATCH",
+      "value": "Occupy Eastwatch-by-the-Sea"
+    },
+    {
+      "name": "EVENT_STAT_VERB_SOP_EVENTSCORE_AUTOCLAIM_NWM_EASTWATCH_PTS",
+      "value": "+3,333 Points per Minute"
+    },
+    {
+      "name": "EVENT_STAT_VERB_SOP_EVENTSCORE_AUTOCLAIM_NWM_NIGHTFORT",
+      "value": "Occupy the Nightfort"
+    },
+    {
+      "name": "EVENT_STAT_VERB_SOP_EVENTSCORE_AUTOCLAIM_NWM_NIGHTFORT_PTS",
+      "value": "+8,333 Points per Minute"
+    },
+    {
+      "name": "EVENT_STAT_VERB_SOP_EVENTSCORE_AUTOCLAIM_NWM_SHADOWTOWER",
+      "value": "Occupy the Shadow Tower"
+    },
+    {
+      "name": "EVENT_STAT_VERB_SOP_EVENTSCORE_AUTOCLAIM_NWM_SHADOWTOWER_PTS",
+      "value": "+3,333 Points per Minute"
+    },
+    {
       "name": "HITS",
       "value": "Hits"
     },
@@ -1563,7 +1595,7 @@
     },
     {
       "name": "MAPMARKER_LONGCLAW",
-      "value": ""
+      "value": "Longclaw Pommel"
     },
     {
       "name": "MAPMARKER_MARTELL",
@@ -1642,6 +1674,10 @@
       "value": "Season {0}"
     },
     {
+      "name": "SEAT_OWNERSHIP_POINTS_FORMAT_WITHOUT_T1",
+      "value": "+{0}"
+    },
+    {
       "name": "SESSIONREWARD_CSR_ES_SNOW1_CLAIM",
       "value": "As The Crow Flies (Ready!)"
     },
@@ -1708,6 +1744,10 @@
     {
       "name": "SYSTEM_MESSAGE_TITLE_WINBACK_FEB_23",
       "value": "Claim your gift and grow your power!"
+    },
+    {
+      "name": "TYM_BUFFS_HEADER",
+      "value": "Event Kingdom Buffs"
     },
     {
       "name": "TYM_CHAT_CURRENT_HEADER",
@@ -1780,6 +1820,10 @@
     {
       "name": "TYM_SCORE_TO_SEE",
       "value": "You must score points in this event to see the rewards."
+    },
+    {
+      "name": "UNKNOWN_KINGDOM",
+      "value": "(expired"
     },
     {
       "name": "DRIVEN_DRAGONFEEDXPBONUS_ALPHA_DESCRIPTION",
