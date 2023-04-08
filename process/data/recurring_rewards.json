@@ -78319,6 +78319,246 @@
         }
       ],
       "tier": 6
+    },
+    {
+      "collection_interval_seconds": 86400,
+      "id": "553937db3ebf3182",
+      "items": [
+        {
+          "id": "efa1400b5a7edf27",
+          "quantity": 4400
+        },
+        {
+          "id": "f1505e35969e78f",
+          "quantity": 150
+        },
+        {
+          "id": "407ed532ee7a7dba",
+          "quantity": 300
+        },
+        {
+          "id": "da170670770a2f4d",
+          "quantity": 300
+        },
+        {
+          "id": "de637fd3bdd7f0d5",
+          "quantity": 300
+        },
+        {
+          "id": "a5a71fcb6d092f2e",
+          "quantity": 300
+        }
+      ],
+      "name": "annu_v1_APR23_EasterDD_7D_Annuity_Tier05",
+      "name_placeholder": "ACTIVITY_NAME_MTX_HOLIDAYANNUITY_54",
+      "num_collections": 7,
+      "summary": [
+        {
+          "id": "efa1400b5a7edf27",
+          "quantity": 30800
+        },
+        {
+          "id": "407ed532ee7a7dba",
+          "quantity": 2100
+        },
+        {
+          "id": "da170670770a2f4d",
+          "quantity": 2100
+        }
+      ],
+      "tier": 2
+    },
+    {
+      "collection_interval_seconds": 86400,
+      "id": "cf2cbea1cda39763",
+      "items": [
+        {
+          "id": "efa1400b5a7edf27",
+          "quantity": 11000
+        },
+        {
+          "id": "f1505e35969e78f",
+          "quantity": 450
+        },
+        {
+          "id": "13b14e9bf3c5f21e",
+          "quantity": 40
+        },
+        {
+          "id": "6c2640b917c2b707",
+          "quantity": 40
+        },
+        {
+          "id": "14fb31dd565962d4",
+          "quantity": 40
+        },
+        {
+          "id": "d1736261b3a47128",
+          "quantity": 40
+        }
+      ],
+      "name": "annu_v1_APR23_EasterDD_7D_Annuity_Tier10",
+      "name_placeholder": "ACTIVITY_NAME_MTX_HOLIDAYANNUITY_54",
+      "num_collections": 7,
+      "summary": [
+        {
+          "id": "efa1400b5a7edf27",
+          "quantity": 77000
+        },
+        {
+          "id": "13b14e9bf3c5f21e",
+          "quantity": 280
+        },
+        {
+          "id": "6c2640b917c2b707",
+          "quantity": 280
+        }
+      ],
+      "tier": 3
+    },
+    {
+      "collection_interval_seconds": 86400,
+      "id": "c0490a6a66a44676",
+      "items": [
+        {
+          "id": "efa1400b5a7edf27",
+          "quantity": 26000
+        },
+        {
+          "id": "1b98b4f93d632443",
+          "quantity": 200
+        },
+        {
+          "id": "13b14e9bf3c5f21e",
+          "quantity": 90
+        },
+        {
+          "id": "6c2640b917c2b707",
+          "quantity": 90
+        },
+        {
+          "id": "14fb31dd565962d4",
+          "quantity": 90
+        },
+        {
+          "id": "d1736261b3a47128",
+          "quantity": 90
+        }
+      ],
+      "name": "annu_v1_APR23_EasterDD_7D_Annuity_Tier20",
+      "name_placeholder": "ACTIVITY_NAME_MTX_HOLIDAYANNUITY_54",
+      "num_collections": 7,
+      "summary": [
+        {
+          "id": "efa1400b5a7edf27",
+          "quantity": 182000
+        },
+        {
+          "id": "13b14e9bf3c5f21e",
+          "quantity": 630
+        },
+        {
+          "id": "6c2640b917c2b707",
+          "quantity": 630
+        }
+      ],
+      "tier": 4
+    },
+    {
+      "collection_interval_seconds": 86400,
+      "id": "dba10fbba9a954af",
+      "items": [
+        {
+          "id": "efa1400b5a7edf27",
+          "quantity": 72000
+        },
+        {
+          "id": "1b98b4f93d632443",
+          "quantity": 500
+        },
+        {
+          "id": "13b14e9bf3c5f21e",
+          "quantity": 250
+        },
+        {
+          "id": "6c2640b917c2b707",
+          "quantity": 250
+        },
+        {
+          "id": "14fb31dd565962d4",
+          "quantity": 250
+        },
+        {
+          "id": "d1736261b3a47128",
+          "quantity": 250
+        }
+      ],
+      "name": "annu_v1_APR23_EasterDD_7D_Annuity_Tier50",
+      "name_placeholder": "ACTIVITY_NAME_MTX_HOLIDAYANNUITY_54",
+      "num_collections": 7,
+      "summary": [
+        {
+          "id": "efa1400b5a7edf27",
+          "quantity": 504000
+        },
+        {
+          "id": "13b14e9bf3c5f21e",
+          "quantity": 1750
+        },
+        {
+          "id": "6c2640b917c2b707",
+          "quantity": 1750
+        }
+      ],
+      "tier": 5
+    },
+    {
+      "collection_interval_seconds": 86400,
+      "id": "9cfcbd062140eb1b",
+      "items": [
+        {
+          "id": "efa1400b5a7edf27",
+          "quantity": 160000
+        },
+        {
+          "id": "e9a61364442e8d1b",
+          "quantity": 100
+        },
+        {
+          "id": "13b14e9bf3c5f21e",
+          "quantity": 575
+        },
+        {
+          "id": "6c2640b917c2b707",
+          "quantity": 575
+        },
+        {
+          "id": "14fb31dd565962d4",
+          "quantity": 575
+        },
+        {
+          "id": "d1736261b3a47128",
+          "quantity": 575
+        }
+      ],
+      "name": "annu_v1_APR23_EasterDD_7D_Annuity_Tier100",
+      "name_placeholder": "ACTIVITY_NAME_MTX_HOLIDAYANNUITY_54",
+      "num_collections": 7,
+      "summary": [
+        {
+          "id": "efa1400b5a7edf27",
+          "quantity": 1120000
+        },
+        {
+          "id": "13b14e9bf3c5f21e",
+          "quantity": 4025
+        },
+        {
+          "id": "6c2640b917c2b707",
+          "quantity": 4025
+        }
+      ],
+      "tier": 6
     }
   ]
 }

@@ -2900,6 +2900,110 @@
         "summon_purchase_royal_GregorSalladhorMAR23_Gold_10x_top"
       ],
       "time_str": "MAR23"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "ThorosLeaf",
+      "id": "a3044e6709927b7f",
+      "name": "summon_noble_ThorosLeafAPR23_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_ThorosLeafAPR23_Hero_1x_top",
+        "summon_purchase_noble_ThorosLeafAPR23_Hero_10x_top"
+      ],
+      "time_str": "APR23"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "ThreeEyedRavenAnguy",
+      "id": "caf2e00a37674d21",
+      "name": "summon_noble_ThreeEyedRavenAnguyAPR23_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_ThreeEyedRavenAnguyAPR23_Hero_1x_top",
+        "summon_purchase_noble_ThreeEyedRavenAnguyAPR23_Hero_10x_top"
+      ],
+      "time_str": "APR23"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "TheonTycho",
+      "id": "b58ec43422c39004",
+      "name": "summon_noble_TheonTychoAPR23_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_TheonTychoAPR23_Hero_1x_top",
+        "summon_purchase_noble_TheonTychoAPR23_Hero_10x_top"
+      ],
+      "time_str": "APR23"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "JaqenLoras",
+      "id": "d0a662cd1cdd924c",
+      "name": "summon_noble_JaqenLorasAPR23_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_JaqenLorasAPR23_Hero_1x_top",
+        "summon_purchase_noble_JaqenLorasAPR23_Hero_10x_top"
+      ],
+      "time_str": "APR23"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "ThorosLeaf",
+      "id": "831ca7bbb5068646",
+      "name": "summon_royal_ThorosLeafAPR23_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_ThorosLeafAPR23_Gold_1x_top",
+        "summon_purchase_royal_ThorosLeafAPR23_Gold_10x_top"
+      ],
+      "time_str": "APR23"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "ThreeEyedRavenAnguy",
+      "id": "48eda1cac3fec4c0",
+      "name": "summon_royal_ThreeEyedRavenAnguyAPR23_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_ThreeEyedRavenAnguyAPR23_Gold_1x_top",
+        "summon_purchase_royal_ThreeEyedRavenAnguyAPR23_Gold_10x_top"
+      ],
+      "time_str": "APR23"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "TheonTycho",
+      "id": "95962de89e576d3d",
+      "name": "summon_royal_TheonTychoAPR23_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_TheonTychoAPR23_Gold_1x_top",
+        "summon_purchase_royal_TheonTychoAPR23_Gold_10x_top"
+      ],
+      "time_str": "APR23"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "JaqenLoras",
+      "id": "f0be8b11a0496f75",
+      "name": "summon_royal_JaqenLorasAPR23_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_JaqenLorasAPR23_Gold_1x_top",
+        "summon_purchase_royal_JaqenLorasAPR23_Gold_10x_top"
+      ],
+      "time_str": "APR23"
     }
   ]
 }
