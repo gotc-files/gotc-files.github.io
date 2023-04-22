@@ -5922,6 +5922,18 @@
         }
       ],
       "name": "recipe_alchemy_recipe_repeatable_rssexchange_event_item_event_rewardbox_craftingmaterial_1_to_item_event_rewardbox_craftingmaterial_fixed_outcome1_100"
+    },
+    {
+      "id": "2f76b1e8ccc11185",
+      "ingredients": [
+        {
+          "id": "3cd35cf32f45e193",
+          "name": "item_elite_monster_writ",
+          "quantity": 150,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_repeatable_bountyexchange_item_elite_monster_writ_into__boost_MarchSlots_alchemy__0d8h0m_1"
     }
   ]
 }

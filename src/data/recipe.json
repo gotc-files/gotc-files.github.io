@@ -16774,6 +16774,931 @@
     "description": "Spend your Braavosi Loan Trophies before the event ends and this recipe disappears!",
     "event_name": "arctrade",
     "event_points": 1000000,
+    "id": "ee6ed2c3b21c0007",
+    "ingredients": [
+      {
+        "description": "Generously provided by the Iron Bank for use at your discretion. They will expect their dues in full some day... \n\nUsed in valuable Inventory Recipes for the duration of the current Arc. Any remaining Trophies will be automatically converted into Trader's Scrip once the current Arc has ended.",
+        "name": "Braavosi Loan",
+        "quantity": 1000000,
+        "type": "item"
+      },
+      {
+        "description": "A high-value currency from across the Narrow Sea. Most Westerosi will not accept these coins, but merchants will exchange them for goods in the Recipes tab of your Inventory.",
+        "name": "Meereenese Honor",
+        "quantity": 90000,
+        "type": "item"
+      }
+    ],
+    "limit": 0,
+    "name": "Recipe: 100 Peace Shields (24h)",
+    "target_quality": 4,
+    "target_quantity": 100
+  },
+  {
+    "category": "Monthly Trade 2",
+    "description": "Spend your Braavosi Loan Trophies before the event ends and this recipe disappears!",
+    "event_name": "arctrade",
+    "event_points": 10000,
+    "id": "1b13787a59ec4e1c",
+    "ingredients": [
+      {
+        "description": "Generously provided by the Iron Bank for use at your discretion. They will expect their dues in full some day... \n\nUsed in valuable Inventory Recipes for the duration of the current Arc. Any remaining Trophies will be automatically converted into Trader's Scrip once the current Arc has ended.",
+        "name": "Braavosi Loan",
+        "quantity": 10000,
+        "type": "item"
+      },
+      {
+        "description": "A high-value currency from across the Narrow Sea. Most Westerosi will not accept these coins, but merchants will exchange them for goods in the Recipes tab of your Inventory.",
+        "name": "Meereenese Honor",
+        "quantity": 900,
+        "type": "item"
+      }
+    ],
+    "limit": 0,
+    "name": "Recipe: 1 Peace Shield (24h)",
+    "target_quality": 4,
+    "target_quantity": 1
+  },
+  {
+    "category": "Monthly Trade 2",
+    "description": "Spend your Braavosi Loan Trophies before the event ends and this recipe disappears!",
+    "event_name": "arctrade",
+    "event_points": 150000,
+    "id": "c2d977d54490b781",
+    "ingredients": [
+      {
+        "description": "Generously provided by the Iron Bank for use at your discretion. They will expect their dues in full some day... \n\nUsed in valuable Inventory Recipes for the duration of the current Arc. Any remaining Trophies will be automatically converted into Trader's Scrip once the current Arc has ended.",
+        "name": "Braavosi Loan",
+        "quantity": 150000,
+        "type": "item"
+      },
+      {
+        "description": "A high-value currency from across the Narrow Sea. Most Westerosi will not accept these coins, but merchants will exchange them for goods in the Recipes tab of your Inventory.",
+        "name": "Meereenese Honor",
+        "quantity": 13500,
+        "type": "item"
+      }
+    ],
+    "limit": 0,
+    "name": "Recipe: 100 Second Maester (1d)",
+    "target_quality": 2,
+    "target_quantity": 100
+  },
+  {
+    "category": "Monthly Trade 2",
+    "description": "Spend your Braavosi Loan Trophies before the event ends and this recipe disappears!",
+    "event_name": "arctrade",
+    "event_points": 1500,
+    "id": "35c3183fecd53a29",
+    "ingredients": [
+      {
+        "description": "Generously provided by the Iron Bank for use at your discretion. They will expect their dues in full some day... \n\nUsed in valuable Inventory Recipes for the duration of the current Arc. Any remaining Trophies will be automatically converted into Trader's Scrip once the current Arc has ended.",
+        "name": "Braavosi Loan",
+        "quantity": 1500,
+        "type": "item"
+      },
+      {
+        "description": "A high-value currency from across the Narrow Sea. Most Westerosi will not accept these coins, but merchants will exchange them for goods in the Recipes tab of your Inventory.",
+        "name": "Meereenese Honor",
+        "quantity": 135,
+        "type": "item"
+      }
+    ],
+    "limit": 0,
+    "name": "Recipe: 1 Second Maester (1d)",
+    "target_quality": 2,
+    "target_quantity": 1
+  },
+  {
+    "category": "Monthly Trade 2",
+    "description": "Spend your Braavosi Loan Trophies before the event ends and this recipe disappears!",
+    "event_name": "arctrade",
+    "event_points": 15900,
+    "id": "d4a3ade5714eae89",
+    "ingredients": [
+      {
+        "description": "Generously provided by the Iron Bank for use at your discretion. They will expect their dues in full some day... \n\nUsed in valuable Inventory Recipes for the duration of the current Arc. Any remaining Trophies will be automatically converted into Trader's Scrip once the current Arc has ended.",
+        "name": "Braavosi Loan",
+        "quantity": 23800,
+        "type": "item"
+      },
+      {
+        "description": "A high-value currency from across the Narrow Sea. Most Westerosi will not accept these coins, but merchants will exchange them for goods in the Recipes tab of your Inventory.",
+        "name": "Meereenese Honor",
+        "quantity": 1300,
+        "type": "item"
+      }
+    ],
+    "limit": 0,
+    "name": "Recipe: 100 5m Research Speedup",
+    "target_quality": 1,
+    "target_quantity": 100
+  },
+  {
+    "category": "Monthly Trade 2",
+    "description": "Spend your Braavosi Loan Trophies before the event ends and this recipe disappears!",
+    "event_name": "arctrade",
+    "event_points": 159,
+    "id": "8deeb0d787d1ebd4",
+    "ingredients": [
+      {
+        "description": "Generously provided by the Iron Bank for use at your discretion. They will expect their dues in full some day... \n\nUsed in valuable Inventory Recipes for the duration of the current Arc. Any remaining Trophies will be automatically converted into Trader's Scrip once the current Arc has ended.",
+        "name": "Braavosi Loan",
+        "quantity": 238,
+        "type": "item"
+      },
+      {
+        "description": "A high-value currency from across the Narrow Sea. Most Westerosi will not accept these coins, but merchants will exchange them for goods in the Recipes tab of your Inventory.",
+        "name": "Meereenese Honor",
+        "quantity": 13,
+        "type": "item"
+      }
+    ],
+    "limit": 0,
+    "name": "Recipe: 1 5m Research Speedup",
+    "target_quality": 1,
+    "target_quantity": 1
+  },
+  {
+    "category": "Monthly Trade 2",
+    "description": "Spend your Braavosi Loan Trophies before the event ends and this recipe disappears!",
+    "event_name": "arctrade",
+    "event_points": 250000,
+    "id": "262829b4c46fa1e7",
+    "ingredients": [
+      {
+        "description": "Generously provided by the Iron Bank for use at your discretion. They will expect their dues in full some day... \n\nUsed in valuable Inventory Recipes for the duration of the current Arc. Any remaining Trophies will be automatically converted into Trader's Scrip once the current Arc has ended.",
+        "name": "Braavosi Loan",
+        "quantity": 250000,
+        "type": "item"
+      },
+      {
+        "description": "A high-value currency from across the Narrow Sea. Most Westerosi will not accept these coins, but merchants will exchange them for goods in the Recipes tab of your Inventory.",
+        "name": "Meereenese Honor",
+        "quantity": 22500,
+        "type": "item"
+      }
+    ],
+    "limit": 0,
+    "name": "Recipe: 100 Red Gold",
+    "target_quality": 5,
+    "target_quantity": 100
+  },
+  {
+    "category": "Monthly Trade 2",
+    "description": "Spend your Braavosi Loan Trophies before the event ends and this recipe disappears!",
+    "event_name": "arctrade",
+    "event_points": 2500,
+    "id": "c7a7d538fed2337",
+    "ingredients": [
+      {
+        "description": "Generously provided by the Iron Bank for use at your discretion. They will expect their dues in full some day... \n\nUsed in valuable Inventory Recipes for the duration of the current Arc. Any remaining Trophies will be automatically converted into Trader's Scrip once the current Arc has ended.",
+        "name": "Braavosi Loan",
+        "quantity": 2500,
+        "type": "item"
+      },
+      {
+        "description": "A high-value currency from across the Narrow Sea. Most Westerosi will not accept these coins, but merchants will exchange them for goods in the Recipes tab of your Inventory.",
+        "name": "Meereenese Honor",
+        "quantity": 225,
+        "type": "item"
+      }
+    ],
+    "limit": 0,
+    "name": "Recipe: 1 Red Gold",
+    "target_quality": 5,
+    "target_quantity": 1
+  },
+  {
+    "category": "Monthly Trade 2",
+    "description": "Spend your Braavosi Loan Trophies before the event ends and this recipe disappears!",
+    "event_name": "arctrade",
+    "event_points": 50000,
+    "id": "e74b8bd51c01a7cb",
+    "ingredients": [
+      {
+        "description": "Generously provided by the Iron Bank for use at your discretion. They will expect their dues in full some day... \n\nUsed in valuable Inventory Recipes for the duration of the current Arc. Any remaining Trophies will be automatically converted into Trader's Scrip once the current Arc has ended.",
+        "name": "Braavosi Loan",
+        "quantity": 50000,
+        "type": "item"
+      },
+      {
+        "description": "A low-value currency from across the Narrow Sea. Most Westerosi will not accept these coins, but merchants will exchange them for goods in the Recipes tab of your Inventory.",
+        "name": "Volantene Honor",
+        "quantity": 45000,
+        "type": "item"
+      }
+    ],
+    "limit": 0,
+    "name": "Recipe: 100 Pale Steel",
+    "target_quality": 4,
+    "target_quantity": 100
+  },
+  {
+    "category": "Monthly Trade 2",
+    "description": "Spend your Braavosi Loan Trophies before the event ends and this recipe disappears!",
+    "event_name": "arctrade",
+    "event_points": 500,
+    "id": "4a759a768c36ee72",
+    "ingredients": [
+      {
+        "description": "Generously provided by the Iron Bank for use at your discretion. They will expect their dues in full some day... \n\nUsed in valuable Inventory Recipes for the duration of the current Arc. Any remaining Trophies will be automatically converted into Trader's Scrip once the current Arc has ended.",
+        "name": "Braavosi Loan",
+        "quantity": 500,
+        "type": "item"
+      },
+      {
+        "description": "A low-value currency from across the Narrow Sea. Most Westerosi will not accept these coins, but merchants will exchange them for goods in the Recipes tab of your Inventory.",
+        "name": "Volantene Honor",
+        "quantity": 450,
+        "type": "item"
+      }
+    ],
+    "limit": 0,
+    "name": "Recipe: 1 Pale Steel",
+    "target_quality": 4,
+    "target_quantity": 1
+  },
+  {
+    "category": "Monthly Trade 2",
+    "description": "Spend your Braavosi Loan Trophies before the event ends and this recipe disappears!",
+    "event_name": "arctrade",
+    "event_points": 10000,
+    "id": "83207231849d7f4a",
+    "ingredients": [
+      {
+        "description": "Generously provided by the Iron Bank for use at your discretion. They will expect their dues in full some day... \n\nUsed in valuable Inventory Recipes for the duration of the current Arc. Any remaining Trophies will be automatically converted into Trader's Scrip once the current Arc has ended.",
+        "name": "Braavosi Loan",
+        "quantity": 10000,
+        "type": "item"
+      },
+      {
+        "description": "A low-value currency from across the Narrow Sea. Most Westerosi will not accept these coins, but merchants will exchange them for goods in the Recipes tab of your Inventory.",
+        "name": "Volantene Honor",
+        "quantity": 9000,
+        "type": "item"
+      }
+    ],
+    "limit": 0,
+    "name": "Recipe: 100 Scholarly Fragments",
+    "target_quality": 3,
+    "target_quantity": 100
+  },
+  {
+    "category": "Monthly Trade 2",
+    "description": "Spend your Braavosi Loan Trophies before the event ends and this recipe disappears!",
+    "event_name": "arctrade",
+    "event_points": 100,
+    "id": "d6bfeed20f5e2262",
+    "ingredients": [
+      {
+        "description": "Generously provided by the Iron Bank for use at your discretion. They will expect their dues in full some day... \n\nUsed in valuable Inventory Recipes for the duration of the current Arc. Any remaining Trophies will be automatically converted into Trader's Scrip once the current Arc has ended.",
+        "name": "Braavosi Loan",
+        "quantity": 100,
+        "type": "item"
+      },
+      {
+        "description": "A low-value currency from across the Narrow Sea. Most Westerosi will not accept these coins, but merchants will exchange them for goods in the Recipes tab of your Inventory.",
+        "name": "Volantene Honor",
+        "quantity": 90,
+        "type": "item"
+      }
+    ],
+    "limit": 0,
+    "name": "Recipe: 1 Scholarly Fragment",
+    "target_quality": 3,
+    "target_quantity": 1
+  },
+  {
+    "category": "Monthly Trade 2",
+    "description": "Spend your Braavosi Loan Trophies before the event ends and this recipe disappears!",
+    "event_name": "arctrade",
+    "event_points": 27200,
+    "id": "de69345ad7abab96",
+    "ingredients": [
+      {
+        "description": "Generously provided by the Iron Bank for use at your discretion. They will expect their dues in full some day... \n\nUsed in valuable Inventory Recipes for the duration of the current Arc. Any remaining Trophies will be automatically converted into Trader's Scrip once the current Arc has ended.",
+        "name": "Braavosi Loan",
+        "quantity": 54400,
+        "type": "item"
+      },
+      {
+        "description": "A low-value currency from across the Narrow Sea. Most Westerosi will not accept these coins, but merchants will exchange them for goods in the Recipes tab of your Inventory.",
+        "name": "Volantene Honor",
+        "quantity": 21700,
+        "type": "item"
+      }
+    ],
+    "limit": 0,
+    "name": "Recipe: 200,000 Stone",
+    "target_quality": 1,
+    "target_quantity": 200000
+  },
+  {
+    "category": "Monthly Trade 2",
+    "description": "Spend your Braavosi Loan Trophies before the event ends and this recipe disappears!",
+    "event_name": "arctrade",
+    "event_points": 272,
+    "id": "4c1c670345a201bc",
+    "ingredients": [
+      {
+        "description": "Generously provided by the Iron Bank for use at your discretion. They will expect their dues in full some day... \n\nUsed in valuable Inventory Recipes for the duration of the current Arc. Any remaining Trophies will be automatically converted into Trader's Scrip once the current Arc has ended.",
+        "name": "Braavosi Loan",
+        "quantity": 544,
+        "type": "item"
+      },
+      {
+        "description": "A low-value currency from across the Narrow Sea. Most Westerosi will not accept these coins, but merchants will exchange them for goods in the Recipes tab of your Inventory.",
+        "name": "Volantene Honor",
+        "quantity": 217,
+        "type": "item"
+      }
+    ],
+    "limit": 0,
+    "name": "Recipe: 2,000 Stone",
+    "target_quality": 1,
+    "target_quantity": 2000
+  },
+  {
+    "category": "Monthly Trade 2",
+    "description": "Spend your Braavosi Loan Trophies before the event ends and this recipe disappears!",
+    "event_name": "arctrade",
+    "event_points": 23000,
+    "id": "3e1793cb73deb0a9",
+    "ingredients": [
+      {
+        "description": "Generously provided by the Iron Bank for use at your discretion. They will expect their dues in full some day... \n\nUsed in valuable Inventory Recipes for the duration of the current Arc. Any remaining Trophies will be automatically converted into Trader's Scrip once the current Arc has ended.",
+        "name": "Braavosi Loan",
+        "quantity": 45900,
+        "type": "item"
+      },
+      {
+        "description": "A low-value currency from across the Narrow Sea. Most Westerosi will not accept these coins, but merchants will exchange them for goods in the Recipes tab of your Inventory.",
+        "name": "Volantene Honor",
+        "quantity": 18300,
+        "type": "item"
+      }
+    ],
+    "limit": 0,
+    "name": "Recipe: 1,000,000 Food",
+    "target_quality": 1,
+    "target_quantity": 1000000
+  },
+  {
+    "category": "Monthly Trade 2",
+    "description": "Spend your Braavosi Loan Trophies before the event ends and this recipe disappears!",
+    "event_name": "arctrade",
+    "event_points": 230,
+    "id": "2c54aa86bddf18df",
+    "ingredients": [
+      {
+        "description": "Generously provided by the Iron Bank for use at your discretion. They will expect their dues in full some day... \n\nUsed in valuable Inventory Recipes for the duration of the current Arc. Any remaining Trophies will be automatically converted into Trader's Scrip once the current Arc has ended.",
+        "name": "Braavosi Loan",
+        "quantity": 459,
+        "type": "item"
+      },
+      {
+        "description": "A low-value currency from across the Narrow Sea. Most Westerosi will not accept these coins, but merchants will exchange them for goods in the Recipes tab of your Inventory.",
+        "name": "Volantene Honor",
+        "quantity": 183,
+        "type": "item"
+      }
+    ],
+    "limit": 0,
+    "name": "Recipe: 10,000 Food",
+    "target_quality": 1,
+    "target_quantity": 10000
+  },
+  {
+    "category": "Monthly Trade 2",
+    "description": "Spend your Braavosi Loan Trophies before the event ends and this recipe disappears!",
+    "event_name": "arctrade",
+    "event_points": 33000,
+    "id": "9b3417239736de7d",
+    "ingredients": [
+      {
+        "description": "Generously provided by the Iron Bank for use at your discretion. They will expect their dues in full some day... \n\nUsed in valuable Inventory Recipes for the duration of the current Arc. Any remaining Trophies will be automatically converted into Trader's Scrip once the current Arc has ended.",
+        "name": "Braavosi Loan",
+        "quantity": 30000,
+        "type": "item"
+      },
+      {
+        "description": "A low-value currency from across the Narrow Sea. Most Westerosi will not accept these coins, but merchants will exchange them for goods in the Recipes tab of your Inventory.",
+        "name": "Volantene Honor",
+        "quantity": 30000,
+        "type": "item"
+      }
+    ],
+    "limit": 10,
+    "name": "Recipe: 1,500 Standard Seals",
+    "target_quality": 3,
+    "target_quantity": 1500
+  },
+  {
+    "category": "Monthly Trade 2",
+    "description": "Spend your Braavosi Loan Trophies before the event ends and this recipe disappears!",
+    "event_name": "arctrade",
+    "event_points": 5500,
+    "id": "57475893098bcdf5",
+    "ingredients": [
+      {
+        "description": "Generously provided by the Iron Bank for use at your discretion. They will expect their dues in full some day... \n\nUsed in valuable Inventory Recipes for the duration of the current Arc. Any remaining Trophies will be automatically converted into Trader's Scrip once the current Arc has ended.",
+        "name": "Braavosi Loan",
+        "quantity": 5000,
+        "type": "item"
+      },
+      {
+        "description": "A low-value currency from across the Narrow Sea. Most Westerosi will not accept these coins, but merchants will exchange them for goods in the Recipes tab of your Inventory.",
+        "name": "Volantene Honor",
+        "quantity": 5000,
+        "type": "item"
+      }
+    ],
+    "limit": 110,
+    "name": "Recipe: 1 Hero XP (100)",
+    "target_quality": 3,
+    "target_quantity": 1
+  },
+  {
+    "category": "Monthly Trade 2",
+    "description": "Spend your Braavosi Loan Trophies before the event ends and this recipe disappears!",
+    "event_name": "arctrade",
+    "event_points": 2000000,
+    "id": "9ca49a6e3318614d",
+    "ingredients": [
+      {
+        "description": "Generously provided by the Iron Bank for use at your discretion. They will expect their dues in full some day... \n\nUsed in valuable Inventory Recipes for the duration of the current Arc. Any remaining Trophies will be automatically converted into Trader's Scrip once the current Arc has ended.",
+        "name": "Braavosi Loan",
+        "quantity": 2000000,
+        "type": "item"
+      },
+      {
+        "description": "A high-value currency from across the Narrow Sea. Most Westerosi will not accept these coins, but merchants will exchange them for goods in the Recipes tab of your Inventory.",
+        "name": "Meereenese Honor",
+        "quantity": 180000,
+        "type": "item"
+      }
+    ],
+    "limit": 0,
+    "name": "Recipe: 100 Advanced Teleports",
+    "target_quality": 5,
+    "target_quantity": 100
+  },
+  {
+    "category": "Monthly Trade 2",
+    "description": "Spend your Braavosi Loan Trophies before the event ends and this recipe disappears!",
+    "event_name": "arctrade",
+    "event_points": 20000,
+    "id": "a5c6531f86e1e5bc",
+    "ingredients": [
+      {
+        "description": "Generously provided by the Iron Bank for use at your discretion. They will expect their dues in full some day... \n\nUsed in valuable Inventory Recipes for the duration of the current Arc. Any remaining Trophies will be automatically converted into Trader's Scrip once the current Arc has ended.",
+        "name": "Braavosi Loan",
+        "quantity": 20000,
+        "type": "item"
+      },
+      {
+        "description": "A high-value currency from across the Narrow Sea. Most Westerosi will not accept these coins, but merchants will exchange them for goods in the Recipes tab of your Inventory.",
+        "name": "Meereenese Honor",
+        "quantity": 1800,
+        "type": "item"
+      }
+    ],
+    "limit": 0,
+    "name": "Recipe: Advanced Teleport",
+    "target_quality": 5,
+    "target_quantity": 1
+  },
+  {
+    "category": "Monthly Trade 2",
+    "description": "Spend your Braavosi Loan Trophies before the event ends and this recipe disappears!",
+    "event_name": "arctrade",
+    "event_points": 150000,
+    "id": "5e083bd63386279e",
+    "ingredients": [
+      {
+        "description": "Generously provided by the Iron Bank for use at your discretion. They will expect their dues in full some day... \n\nUsed in valuable Inventory Recipes for the duration of the current Arc. Any remaining Trophies will be automatically converted into Trader's Scrip once the current Arc has ended.",
+        "name": "Braavosi Loan",
+        "quantity": 150000,
+        "type": "item"
+      },
+      {
+        "description": "A high-value currency from across the Narrow Sea. Most Westerosi will not accept these coins, but merchants will exchange them for goods in the Recipes tab of your Inventory.",
+        "name": "Meereenese Honor",
+        "quantity": 13500,
+        "type": "item"
+      }
+    ],
+    "limit": 0,
+    "name": "Recipe: 100 Second Builder (1 day)",
+    "target_quality": 2,
+    "target_quantity": 100
+  },
+  {
+    "category": "Monthly Trade 2",
+    "description": "Spend your Braavosi Loan Trophies before the event ends and this recipe disappears!",
+    "event_name": "arctrade",
+    "event_points": 1500,
+    "id": "5434e4f76e94e1a6",
+    "ingredients": [
+      {
+        "description": "Generously provided by the Iron Bank for use at your discretion. They will expect their dues in full some day... \n\nUsed in valuable Inventory Recipes for the duration of the current Arc. Any remaining Trophies will be automatically converted into Trader's Scrip once the current Arc has ended.",
+        "name": "Braavosi Loan",
+        "quantity": 1500,
+        "type": "item"
+      },
+      {
+        "description": "A high-value currency from across the Narrow Sea. Most Westerosi will not accept these coins, but merchants will exchange them for goods in the Recipes tab of your Inventory.",
+        "name": "Meereenese Honor",
+        "quantity": 135,
+        "type": "item"
+      }
+    ],
+    "limit": 0,
+    "name": "Recipe: 1 Second Builder (1 day)",
+    "target_quality": 2,
+    "target_quantity": 1
+  },
+  {
+    "category": "Monthly Trade 2",
+    "description": "Spend your Braavosi Loan Trophies before the event ends and this recipe disappears!",
+    "event_name": "arctrade",
+    "event_points": 15900,
+    "id": "39f2991aa395707e",
+    "ingredients": [
+      {
+        "description": "Generously provided by the Iron Bank for use at your discretion. They will expect their dues in full some day... \n\nUsed in valuable Inventory Recipes for the duration of the current Arc. Any remaining Trophies will be automatically converted into Trader's Scrip once the current Arc has ended.",
+        "name": "Braavosi Loan",
+        "quantity": 23800,
+        "type": "item"
+      },
+      {
+        "description": "A high-value currency from across the Narrow Sea. Most Westerosi will not accept these coins, but merchants will exchange them for goods in the Recipes tab of your Inventory.",
+        "name": "Meereenese Honor",
+        "quantity": 1300,
+        "type": "item"
+      }
+    ],
+    "limit": 0,
+    "name": "Recipe: 100 5m Building Speedup",
+    "target_quality": 1,
+    "target_quantity": 100
+  },
+  {
+    "category": "Monthly Trade 2",
+    "description": "Spend your Braavosi Loan Trophies before the event ends and this recipe disappears!",
+    "event_name": "arctrade",
+    "event_points": 159,
+    "id": "4c36162f007d636c",
+    "ingredients": [
+      {
+        "description": "Generously provided by the Iron Bank for use at your discretion. They will expect their dues in full some day... \n\nUsed in valuable Inventory Recipes for the duration of the current Arc. Any remaining Trophies will be automatically converted into Trader's Scrip once the current Arc has ended.",
+        "name": "Braavosi Loan",
+        "quantity": 238,
+        "type": "item"
+      },
+      {
+        "description": "A high-value currency from across the Narrow Sea. Most Westerosi will not accept these coins, but merchants will exchange them for goods in the Recipes tab of your Inventory.",
+        "name": "Meereenese Honor",
+        "quantity": 13,
+        "type": "item"
+      }
+    ],
+    "limit": 0,
+    "name": "Recipe: 1 5m Building Speedup",
+    "target_quality": 1,
+    "target_quantity": 1
+  },
+  {
+    "category": "Monthly Trade 2",
+    "description": "Spend your Braavosi Loan Trophies before the event ends and this recipe disappears!",
+    "event_name": "arctrade",
+    "event_points": 250000,
+    "id": "bf1414dc0522a912",
+    "ingredients": [
+      {
+        "description": "Generously provided by the Iron Bank for use at your discretion. They will expect their dues in full some day... \n\nUsed in valuable Inventory Recipes for the duration of the current Arc. Any remaining Trophies will be automatically converted into Trader's Scrip once the current Arc has ended.",
+        "name": "Braavosi Loan",
+        "quantity": 250000,
+        "type": "item"
+      },
+      {
+        "description": "A high-value currency from across the Narrow Sea. Most Westerosi will not accept these coins, but merchants will exchange them for goods in the Recipes tab of your Inventory.",
+        "name": "Meereenese Honor",
+        "quantity": 22500,
+        "type": "item"
+      }
+    ],
+    "limit": 0,
+    "name": "Recipe: 100 Keystone",
+    "target_quality": 5,
+    "target_quantity": 100
+  },
+  {
+    "category": "Monthly Trade 2",
+    "description": "Spend your Braavosi Loan Trophies before the event ends and this recipe disappears!",
+    "event_name": "arctrade",
+    "event_points": 2500,
+    "id": "3d2703262c368a37",
+    "ingredients": [
+      {
+        "description": "Generously provided by the Iron Bank for use at your discretion. They will expect their dues in full some day... \n\nUsed in valuable Inventory Recipes for the duration of the current Arc. Any remaining Trophies will be automatically converted into Trader's Scrip once the current Arc has ended.",
+        "name": "Braavosi Loan",
+        "quantity": 2500,
+        "type": "item"
+      },
+      {
+        "description": "A high-value currency from across the Narrow Sea. Most Westerosi will not accept these coins, but merchants will exchange them for goods in the Recipes tab of your Inventory.",
+        "name": "Meereenese Honor",
+        "quantity": 225,
+        "type": "item"
+      }
+    ],
+    "limit": 0,
+    "name": "Recipe: 1 Keystone",
+    "target_quality": 5,
+    "target_quantity": 1
+  },
+  {
+    "category": "Monthly Trade 2",
+    "description": "Spend your Braavosi Loan Trophies before the event ends and this recipe disappears!",
+    "event_name": "arctrade",
+    "event_points": 50000,
+    "id": "747aedcbc68ee56",
+    "ingredients": [
+      {
+        "description": "Generously provided by the Iron Bank for use at your discretion. They will expect their dues in full some day... \n\nUsed in valuable Inventory Recipes for the duration of the current Arc. Any remaining Trophies will be automatically converted into Trader's Scrip once the current Arc has ended.",
+        "name": "Braavosi Loan",
+        "quantity": 50000,
+        "type": "item"
+      },
+      {
+        "description": "A low-value currency from across the Narrow Sea. Most Westerosi will not accept these coins, but merchants will exchange them for goods in the Recipes tab of your Inventory.",
+        "name": "Volantene Honor",
+        "quantity": 45000,
+        "type": "item"
+      }
+    ],
+    "limit": 0,
+    "name": "Recipe: 100 Soldierpine",
+    "target_quality": 4,
+    "target_quantity": 100
+  },
+  {
+    "category": "Monthly Trade 2",
+    "description": "Spend your Braavosi Loan Trophies before the event ends and this recipe disappears!",
+    "event_name": "arctrade",
+    "event_points": 500,
+    "id": "32aaf396bc098a95",
+    "ingredients": [
+      {
+        "description": "Generously provided by the Iron Bank for use at your discretion. They will expect their dues in full some day... \n\nUsed in valuable Inventory Recipes for the duration of the current Arc. Any remaining Trophies will be automatically converted into Trader's Scrip once the current Arc has ended.",
+        "name": "Braavosi Loan",
+        "quantity": 500,
+        "type": "item"
+      },
+      {
+        "description": "A low-value currency from across the Narrow Sea. Most Westerosi will not accept these coins, but merchants will exchange them for goods in the Recipes tab of your Inventory.",
+        "name": "Volantene Honor",
+        "quantity": 450,
+        "type": "item"
+      }
+    ],
+    "limit": 0,
+    "name": "Recipe: 1 Soldierpine",
+    "target_quality": 4,
+    "target_quantity": 1
+  },
+  {
+    "category": "Monthly Trade 2",
+    "description": "Spend your Braavosi Loan Trophies before the event ends and this recipe disappears!",
+    "event_name": "arctrade",
+    "event_points": 10000,
+    "id": "9f7644562bdf9854",
+    "ingredients": [
+      {
+        "description": "Generously provided by the Iron Bank for use at your discretion. They will expect their dues in full some day... \n\nUsed in valuable Inventory Recipes for the duration of the current Arc. Any remaining Trophies will be automatically converted into Trader's Scrip once the current Arc has ended.",
+        "name": "Braavosi Loan",
+        "quantity": 10000,
+        "type": "item"
+      },
+      {
+        "description": "A low-value currency from across the Narrow Sea. Most Westerosi will not accept these coins, but merchants will exchange them for goods in the Recipes tab of your Inventory.",
+        "name": "Volantene Honor",
+        "quantity": 9000,
+        "type": "item"
+      }
+    ],
+    "limit": 0,
+    "name": "Recipe: 100 Brick",
+    "target_quality": 3,
+    "target_quantity": 100
+  },
+  {
+    "category": "Monthly Trade 2",
+    "description": "Spend your Braavosi Loan Trophies before the event ends and this recipe disappears!",
+    "event_name": "arctrade",
+    "event_points": 100,
+    "id": "ebe3698efbbe7ca9",
+    "ingredients": [
+      {
+        "description": "Generously provided by the Iron Bank for use at your discretion. They will expect their dues in full some day... \n\nUsed in valuable Inventory Recipes for the duration of the current Arc. Any remaining Trophies will be automatically converted into Trader's Scrip once the current Arc has ended.",
+        "name": "Braavosi Loan",
+        "quantity": 100,
+        "type": "item"
+      },
+      {
+        "description": "A low-value currency from across the Narrow Sea. Most Westerosi will not accept these coins, but merchants will exchange them for goods in the Recipes tab of your Inventory.",
+        "name": "Volantene Honor",
+        "quantity": 90,
+        "type": "item"
+      }
+    ],
+    "limit": 0,
+    "name": "Recipe: 1 Brick",
+    "target_quality": 3,
+    "target_quantity": 1
+  },
+  {
+    "category": "Monthly Trade 2",
+    "description": "Spend your Braavosi Loan Trophies before the event ends and this recipe disappears!",
+    "event_name": "arctrade",
+    "event_points": 32000,
+    "id": "7b65d8e03e5bfe0f",
+    "ingredients": [
+      {
+        "description": "Generously provided by the Iron Bank for use at your discretion. They will expect their dues in full some day... \n\nUsed in valuable Inventory Recipes for the duration of the current Arc. Any remaining Trophies will be automatically converted into Trader's Scrip once the current Arc has ended.",
+        "name": "Braavosi Loan",
+        "quantity": 64000,
+        "type": "item"
+      },
+      {
+        "description": "A low-value currency from across the Narrow Sea. Most Westerosi will not accept these coins, but merchants will exchange them for goods in the Recipes tab of your Inventory.",
+        "name": "Volantene Honor",
+        "quantity": 25600,
+        "type": "item"
+      }
+    ],
+    "limit": 0,
+    "name": "Recipe: 50,000 Iron",
+    "target_quality": 1,
+    "target_quantity": 50000
+  },
+  {
+    "category": "Monthly Trade 2",
+    "description": "Spend your Braavosi Loan Trophies before the event ends and this recipe disappears!",
+    "event_name": "arctrade",
+    "event_points": 320,
+    "id": "acc192cab269ed38",
+    "ingredients": [
+      {
+        "description": "Generously provided by the Iron Bank for use at your discretion. They will expect their dues in full some day... \n\nUsed in valuable Inventory Recipes for the duration of the current Arc. Any remaining Trophies will be automatically converted into Trader's Scrip once the current Arc has ended.",
+        "name": "Braavosi Loan",
+        "quantity": 640,
+        "type": "item"
+      },
+      {
+        "description": "A low-value currency from across the Narrow Sea. Most Westerosi will not accept these coins, but merchants will exchange them for goods in the Recipes tab of your Inventory.",
+        "name": "Volantene Honor",
+        "quantity": 256,
+        "type": "item"
+      }
+    ],
+    "limit": 0,
+    "name": "Recipe: 500 Iron",
+    "target_quality": 1,
+    "target_quantity": 500
+  },
+  {
+    "category": "Monthly Trade 2",
+    "description": "Spend your Braavosi Loan Trophies before the event ends and this recipe disappears!",
+    "event_name": "arctrade",
+    "event_points": 23000,
+    "id": "6ebc6007a879f756",
+    "ingredients": [
+      {
+        "description": "Generously provided by the Iron Bank for use at your discretion. They will expect their dues in full some day... \n\nUsed in valuable Inventory Recipes for the duration of the current Arc. Any remaining Trophies will be automatically converted into Trader's Scrip once the current Arc has ended.",
+        "name": "Braavosi Loan",
+        "quantity": 45900,
+        "type": "item"
+      },
+      {
+        "description": "A low-value currency from across the Narrow Sea. Most Westerosi will not accept these coins, but merchants will exchange them for goods in the Recipes tab of your Inventory.",
+        "name": "Volantene Honor",
+        "quantity": 18300,
+        "type": "item"
+      }
+    ],
+    "limit": 0,
+    "name": "Recipe: 1,000,000 Wood",
+    "target_quality": 1,
+    "target_quantity": 1000000
+  },
+  {
+    "category": "Monthly Trade 2",
+    "description": "Spend your Braavosi Loan Trophies before the event ends and this recipe disappears!",
+    "event_name": "arctrade",
+    "event_points": 230,
+    "id": "795d9f1b44c44602",
+    "ingredients": [
+      {
+        "description": "Generously provided by the Iron Bank for use at your discretion. They will expect their dues in full some day... \n\nUsed in valuable Inventory Recipes for the duration of the current Arc. Any remaining Trophies will be automatically converted into Trader's Scrip once the current Arc has ended.",
+        "name": "Braavosi Loan",
+        "quantity": 459,
+        "type": "item"
+      },
+      {
+        "description": "A low-value currency from across the Narrow Sea. Most Westerosi will not accept these coins, but merchants will exchange them for goods in the Recipes tab of your Inventory.",
+        "name": "Volantene Honor",
+        "quantity": 183,
+        "type": "item"
+      }
+    ],
+    "limit": 0,
+    "name": "Recipe: 10,000 Wood",
+    "target_quality": 1,
+    "target_quantity": 10000
+  },
+  {
+    "category": "Monthly Trade 2",
+    "description": "Chest contains a 90% chance of 35 Poor crafting material or a 10% chance of 350 Poor material instead. It can be opened in your Inventory.",
+    "event_name": "arctrade",
+    "event_points": 66,
+    "id": "ee2f0d60c9a75222",
+    "ingredients": [
+      {
+        "description": "Generously provided by the Iron Bank for use at your discretion. They will expect their dues in full some day... \n\nUsed in valuable Inventory Recipes for the duration of the current Arc. Any remaining Trophies will be automatically converted into Trader's Scrip once the current Arc has ended.",
+        "name": "Braavosi Loan",
+        "quantity": 132,
+        "type": "item"
+      },
+      {
+        "description": "A low-value currency from across the Narrow Sea. Most Westerosi will not accept these coins, but merchants will exchange them for goods in the Recipes tab of your Inventory.",
+        "name": "Volantene Honor",
+        "quantity": 52,
+        "type": "item"
+      }
+    ],
+    "limit": 0,
+    "name": "Recipe: 1 Poor Crafting Material Chest",
+    "target_quality": 1,
+    "target_quantity": 1
+  },
+  {
+    "category": "Monthly Trade 2",
+    "description": "Spend your Braavosi Loan Trophies before the event ends and this recipe disappears!",
+    "event_name": "arctrade",
+    "event_points": 1000,
+    "id": "ee07ca6a97b8ac0b",
+    "ingredients": [
+      {
+        "description": "Generously provided by the Iron Bank for use at your discretion. They will expect their dues in full some day... \n\nUsed in valuable Inventory Recipes for the duration of the current Arc. Any remaining Trophies will be automatically converted into Trader's Scrip once the current Arc has ended.",
+        "name": "Braavosi Loan",
+        "quantity": 2000,
+        "type": "item"
+      },
+      {
+        "description": "A low-value currency from across the Narrow Sea. Most Westerosi will not accept these coins, but merchants will exchange them for goods in the Recipes tab of your Inventory.",
+        "name": "Volantene Honor",
+        "quantity": 800,
+        "type": "item"
+      }
+    ],
+    "limit": 0,
+    "name": "n:ALCHEMY_RECIPE_EVENT_MAT_EVENT_SNOW3_1_AMOUNT_1000_NAME",
+    "target_quality": 1,
+    "target_quantity": 1000
+  },
+  {
+    "category": "Monthly Trade 2",
+    "description": "Spend your Braavosi Loan Trophies before the event ends and this recipe disappears!",
+    "event_name": "arctrade",
+    "event_points": 10,
+    "id": "b7655e1966aa5f7e",
+    "ingredients": [
+      {
+        "description": "Generously provided by the Iron Bank for use at your discretion. They will expect their dues in full some day... \n\nUsed in valuable Inventory Recipes for the duration of the current Arc. Any remaining Trophies will be automatically converted into Trader's Scrip once the current Arc has ended.",
+        "name": "Braavosi Loan",
+        "quantity": 20,
+        "type": "item"
+      },
+      {
+        "description": "A low-value currency from across the Narrow Sea. Most Westerosi will not accept these coins, but merchants will exchange them for goods in the Recipes tab of your Inventory.",
+        "name": "Volantene Honor",
+        "quantity": 8,
+        "type": "item"
+      }
+    ],
+    "limit": 0,
+    "name": "n:ALCHEMY_RECIPE_EVENT_MAT_EVENT_SNOW3_1_AMOUNT_10_NAME",
+    "target_quality": 1,
+    "target_quantity": 10
+  },
+  {
+    "category": "Monthly Trade 2",
+    "description": "Spend your Braavosi Loan Trophies before the event ends and this recipe disappears!",
+    "event_name": "arctrade",
+    "event_points": 1000000,
     "id": "251f012b334dd827",
     "ingredients": [
       {
@@ -35138,7 +36063,26 @@
   },
   {
     "category": "Repeatable",
-    "description": "Convert your Poor Crafting Materials Chests into Assorted Poor Crafting Materials Chests that contain a fixed amount of all basic crafting materials!",
+    "description": "n:",
+    "event_name": "",
+    "event_points": 0,
+    "id": "1efb3a1d35c20f8e",
+    "ingredients": [
+      {
+        "description": "The Hand of the King grants you some authority to requisition resources and bring criminals to justice.\n\nCheck Events and Inventory Recipes tab for Writ Recipes.",
+        "name": "Writ",
+        "quantity": 150,
+        "type": "item"
+      }
+    ],
+    "limit": 0,
+    "name": "n:",
+    "target_quality": 1,
+    "target_quantity": 28800
+  },
+  {
+    "category": "Repeatable",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "e99c0989b34792a1",
@@ -35151,13 +36095,13 @@
       }
     ],
     "limit": 0,
-    "name": "n:ALCHEMY_RECIPE_REPEATABLE_RSSEXCHANGE_EVENT_ITEM_EVENT_REWARDBOX_CRAFTINGMATERIAL_1_TO_ITEM_EVENT_REWARDBOX_CRAFTINGMATERIAL_FIXED_OUTCOME1_100_NAME",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 100
   },
   {
     "category": "Repeatable",
-    "description": "Convert your Poor Crafting Materials Chests into Assorted Poor Crafting Materials Chests that contain a fixed amount of all basic crafting materials!",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "91e8a5d7f2ef2011",
@@ -35170,13 +36114,13 @@
       }
     ],
     "limit": 0,
-    "name": "n:ALCHEMY_RECIPE_REPEATABLE_RSSEXCHANGE_EVENT_ITEM_EVENT_REWARDBOX_CRAFTINGMATERIAL_1_TO_ITEM_EVENT_REWARDBOX_CRAFTINGMATERIAL_FIXED_OUTCOME1_1_NAME",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 1
   },
   {
     "category": "Repeatable",
-    "description": "30-Day Peace Shield",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "6dbdf587d4516dd5",
@@ -35189,13 +36133,13 @@
       }
     ],
     "limit": 0,
-    "name": "30-Day Peace Shield",
+    "name": "n:",
     "target_quality": 6,
     "target_quantity": 2592000
   },
   {
     "category": "Repeatable",
-    "description": "30-Day Peace Shield",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "3fd05c293cf54995",
@@ -35208,13 +36152,13 @@
       }
     ],
     "limit": 0,
-    "name": "30-Day Peace Shield",
+    "name": "n:",
     "target_quality": 6,
     "target_quantity": 2592000
   },
   {
     "category": "Repeatable",
-    "description": "30-Day Peace Shield",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "46c5385254917fe6",
@@ -35227,13 +36171,13 @@
       }
     ],
     "limit": 0,
-    "name": "30-Day Peace Shield",
+    "name": "n:",
     "target_quality": 6,
     "target_quantity": 2592000
   },
   {
     "category": "Repeatable",
-    "description": "30-Day Peace Shield",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "3dd8c14f2d9adea0",
@@ -35246,13 +36190,13 @@
       }
     ],
     "limit": 0,
-    "name": "30-Day Peace Shield",
+    "name": "n:",
     "target_quality": 6,
     "target_quantity": 2592000
   },
   {
     "category": "Repeatable",
-    "description": "7-Day Peace Shield",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "e031990c9d962d0a",
@@ -35265,13 +36209,13 @@
       }
     ],
     "limit": 0,
-    "name": "7-Day Peace Shield",
+    "name": "n:",
     "target_quality": 6,
     "target_quantity": 604800
   },
   {
     "category": "Repeatable",
-    "description": "7-Day Peace Shield",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "f38e2280bd7993d7",
@@ -35284,13 +36228,13 @@
       }
     ],
     "limit": 0,
-    "name": "7-Day Peace Shield",
+    "name": "n:",
     "target_quality": 6,
     "target_quantity": 604800
   },
   {
     "category": "Repeatable",
-    "description": "7-Day Peace Shield",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "e164a19b61c7978c",
@@ -35303,13 +36247,13 @@
       }
     ],
     "limit": 0,
-    "name": "7-Day Peace Shield",
+    "name": "n:",
     "target_quality": 6,
     "target_quantity": 604800
   },
   {
     "category": "Repeatable",
-    "description": "7-Day Peace Shield",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "7cdd820e081f77aa",
@@ -35322,13 +36266,13 @@
       }
     ],
     "limit": 0,
-    "name": "7-Day Peace Shield",
+    "name": "n:",
     "target_quality": 6,
     "target_quantity": 604800
   },
   {
     "category": "Repeatable",
-    "description": "1 hour +450 Troop Training Capacity",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "1266cdd4bf3f3973",
@@ -35347,13 +36291,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 hour +450 Troop Training Capacity",
+    "name": "n:",
     "target_quality": 3,
     "target_quantity": 3600
   },
   {
     "category": "Repeatable",
-    "description": "1 hour +300 Troop Training Capacity",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "8a740f58e6f117c7",
@@ -35372,13 +36316,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 hour +300 Troop Training Capacity",
+    "name": "n:",
     "target_quality": 2,
     "target_quantity": 3600
   },
   {
     "category": "Repeatable",
-    "description": "1 hour +200 Troop Training Capacity",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "9565cc03db863e58",
@@ -35397,13 +36341,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 hour +200 Troop Training Capacity",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 3600
   },
   {
     "category": "Repeatable",
-    "description": "1 hour +450 Trap Maker Training Capacity",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "53a1c832b7a2b2b",
@@ -35422,13 +36366,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 hour +450 Trap Maker Training Capacity",
+    "name": "n:",
     "target_quality": 3,
     "target_quantity": 3600
   },
   {
     "category": "Repeatable",
-    "description": "1 hour +300 Trap Maker Training Capacity",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "9d28de0f72b4059f",
@@ -35447,13 +36391,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 hour +300 Trap Maker Training Capacity",
+    "name": "n:",
     "target_quality": 2,
     "target_quantity": 3600
   },
   {
     "category": "Repeatable",
-    "description": "1 hour +200 Trap Maker Training Capacity",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "f2b62b83da4473e6",
@@ -35472,13 +36416,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 hour +200 Trap Maker Training Capacity",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 3600
   },
   {
     "category": "Repeatable",
-    "description": "1 hour +450 Workshop Training Capacity",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "eaf5f080ae772e36",
@@ -35497,13 +36441,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 hour +450 Workshop Training Capacity",
+    "name": "n:",
     "target_quality": 3,
     "target_quantity": 3600
   },
   {
     "category": "Repeatable",
-    "description": "1 hour +300 Workshop Training Capacity",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "72e7320cf7b90082",
@@ -35522,13 +36466,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 hour +300 Workshop Training Capacity",
+    "name": "n:",
     "target_quality": 2,
     "target_quantity": 3600
   },
   {
     "category": "Repeatable",
-    "description": "1 hour +200 Workshop Training Capacity",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "167e728a8946d01a",
@@ -35547,13 +36491,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 hour +200 Workshop Training Capacity",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 3600
   },
   {
     "category": "Repeatable",
-    "description": "1 hour +450 Stable Training Capacity",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "dfc48f690507606d",
@@ -35572,13 +36516,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 hour +450 Stable Training Capacity",
+    "name": "n:",
     "target_quality": 3,
     "target_quantity": 3600
   },
   {
     "category": "Repeatable",
-    "description": "1 hour +300 Stable Training Capacity",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "47d64de55cc94ed9",
@@ -35597,13 +36541,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 hour +300 Stable Training Capacity",
+    "name": "n:",
     "target_quality": 2,
     "target_quantity": 3600
   },
   {
     "category": "Repeatable",
-    "description": "1 hour +200 Stable Training Capacity",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "7fd458b77902cc80",
@@ -35622,13 +36566,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 hour +200 Stable Training Capacity",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 3600
   },
   {
     "category": "Repeatable",
-    "description": "1 hour +450 Range Training Capacity",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "2f28bf99fb8f4b57",
@@ -35647,13 +36591,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 hour +450 Range Training Capacity",
+    "name": "n:",
     "target_quality": 3,
     "target_quantity": 3600
   },
   {
     "category": "Repeatable",
-    "description": "1 hour +300 Range Training Capacity",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "b73a7d15a24165e3",
@@ -35672,13 +36616,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 hour +300 Range Training Capacity",
+    "name": "n:",
     "target_quality": 2,
     "target_quantity": 3600
   },
   {
     "category": "Repeatable",
-    "description": "1 hour +200 Range Training Capacity",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "1b379e315ac8c94b",
@@ -35697,13 +36641,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 hour +200 Range Training Capacity",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 3600
   },
   {
     "category": "Repeatable",
-    "description": "1 hour +450 Barracks Training Capacity",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "e226f712ab2ebb32",
@@ -35722,13 +36666,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 hour +450 Barracks Training Capacity",
+    "name": "n:",
     "target_quality": 3,
     "target_quantity": 3600
   },
   {
     "category": "Repeatable",
-    "description": "1 hour +300 Barracks Training Capacity",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "7a34359ef2e09586",
@@ -35747,13 +36691,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 hour +300 Barracks Training Capacity",
+    "name": "n:",
     "target_quality": 2,
     "target_quantity": 3600
   },
   {
     "category": "Repeatable",
-    "description": "1 hour +200 Barracks Training Capacity",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "5d8c3c6f61e54093",
@@ -35772,13 +36716,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 hour +200 Barracks Training Capacity",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 3600
   },
   {
     "category": "Repeatable",
-    "description": "1 hour 15% Siege Health while Marching vs Player",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "ba952579370b73d5",
@@ -35797,13 +36741,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 hour 15% Siege Health while Marching vs Player",
+    "name": "n:",
     "target_quality": 4,
     "target_quantity": 3600
   },
   {
     "category": "Repeatable",
-    "description": "1 hour 10% Siege Health while Marching vs Player",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "2287e7f56ec55d61",
@@ -35822,13 +36766,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 hour 10% Siege Health while Marching vs Player",
+    "name": "n:",
     "target_quality": 3,
     "target_quantity": 3600
   },
   {
     "category": "Repeatable",
-    "description": "1 hour 5% Siege Health while Marching vs Player",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "8f7358e8ab211cba",
@@ -35847,13 +36791,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 hour 5% Siege Health while Marching vs Player",
+    "name": "n:",
     "target_quality": 2,
     "target_quantity": 3600
   },
   {
     "category": "Repeatable",
-    "description": "1 hour 15% Ranged Health while Marching vs Player",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "4967c393a603bdf0",
@@ -35872,13 +36816,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 hour 15% Ranged Health while Marching vs Player",
+    "name": "n:",
     "target_quality": 4,
     "target_quantity": 3600
   },
   {
     "category": "Repeatable",
-    "description": "1 hour 10% Ranged Health while Marching vs Player",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "d175011fffcd9344",
@@ -35897,13 +36841,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 hour 10% Ranged Health while Marching vs Player",
+    "name": "n:",
     "target_quality": 3,
     "target_quantity": 3600
   },
   {
     "category": "Repeatable",
-    "description": "1 hour 5% Ranged Health while Marching vs Player",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "f03200eb9b509827",
@@ -35922,13 +36866,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 hour 5% Ranged Health while Marching vs Player",
+    "name": "n:",
     "target_quality": 2,
     "target_quantity": 3600
   },
   {
     "category": "Repeatable",
-    "description": "1 hour 15% Infantry Health while Marching vs Player",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "a7a212fbccc9641c",
@@ -35947,13 +36891,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 hour 15% Infantry Health while Marching vs Player",
+    "name": "n:",
     "target_quality": 4,
     "target_quantity": 3600
   },
   {
     "category": "Repeatable",
-    "description": "1 hour 10% Infantry Health while Marching vs Player",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "3fb0d07795074aa8",
@@ -35972,13 +36916,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 hour 10% Infantry Health while Marching vs Player",
+    "name": "n:",
     "target_quality": 3,
     "target_quantity": 3600
   },
   {
     "category": "Repeatable",
-    "description": "1 hour 5% Infantry Health while Marching vs Player",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "9c7d7078462185f0",
@@ -35997,13 +36941,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 hour 5% Infantry Health while Marching vs Player",
+    "name": "n:",
     "target_quality": 2,
     "target_quantity": 3600
   },
   {
     "category": "Repeatable",
-    "description": "1 hour 15% Cavalry Health while Marching vs Player",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "3131ba20c2a86840",
@@ -36022,13 +36966,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 hour 15% Cavalry Health while Marching vs Player",
+    "name": "n:",
     "target_quality": 4,
     "target_quantity": 3600
   },
   {
     "category": "Repeatable",
-    "description": "1 hour 10% Cavalry Health while Marching vs Player",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "a92378ac9b6646f4",
@@ -36047,13 +36991,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 hour 10% Cavalry Health while Marching vs Player",
+    "name": "n:",
     "target_quality": 3,
     "target_quantity": 3600
   },
   {
     "category": "Repeatable",
-    "description": "1 hour 5% Cavalry Health while Marching vs Player",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "237f0989c1a21057",
@@ -36072,13 +37016,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 hour 5% Cavalry Health while Marching vs Player",
+    "name": "n:",
     "target_quality": 2,
     "target_quantity": 3600
   },
   {
     "category": "Repeatable",
-    "description": "1 hour 15% Siege Defense while Marching vs Player",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "1944ae2b0e99637d",
@@ -36097,13 +37041,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 hour 15% Siege Defense while Marching vs Player",
+    "name": "n:",
     "target_quality": 4,
     "target_quantity": 3600
   },
   {
     "category": "Repeatable",
-    "description": "1 hour 10% Siege Defense while Marching vs Player",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "81566ca757574dc9",
@@ -36122,13 +37066,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 hour 10% Siege Defense while Marching vs Player",
+    "name": "n:",
     "target_quality": 3,
     "target_quantity": 3600
   },
   {
     "category": "Repeatable",
-    "description": "1 hour 5% Siege Defense while Marching vs Player",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "2a876bb85fb43a87",
@@ -36147,13 +37091,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 hour 5% Siege Defense while Marching vs Player",
+    "name": "n:",
     "target_quality": 2,
     "target_quantity": 3600
   },
   {
     "category": "Repeatable",
-    "description": "1 hour 15% Ranged Defense while Marching vs Player",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "17254018d19fe01b",
@@ -36172,13 +37116,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 hour 15% Ranged Defense while Marching vs Player",
+    "name": "n:",
     "target_quality": 4,
     "target_quantity": 3600
   },
   {
     "category": "Repeatable",
-    "description": "1 hour 10% Ranged Defense while Marching vs Player",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "8f3782948851ceaf",
@@ -36197,13 +37141,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 hour 10% Ranged Defense while Marching vs Player",
+    "name": "n:",
     "target_quality": 3,
     "target_quantity": 3600
   },
   {
     "category": "Repeatable",
-    "description": "1 hour 5% Ranged Defense while Marching vs Player",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "d9758d52cebcf4a2",
@@ -36222,13 +37166,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 hour 5% Ranged Defense while Marching vs Player",
+    "name": "n:",
     "target_quality": 2,
     "target_quantity": 3600
   },
   {
     "category": "Repeatable",
-    "description": "1 hour 15% Infantry Defense while Marching vs Player",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "b032dd679a6fe3a1",
@@ -36247,13 +37191,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 hour 15% Infantry Defense while Marching vs Player",
+    "name": "n:",
     "target_quality": 4,
     "target_quantity": 3600
   },
   {
     "category": "Repeatable",
-    "description": "1 hour 10% Infantry Defense while Marching vs Player",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "28201febc3a1cd15",
@@ -36272,13 +37216,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 hour 10% Infantry Defense while Marching vs Player",
+    "name": "n:",
     "target_quality": 3,
     "target_quantity": 3600
   },
   {
     "category": "Repeatable",
-    "description": "1 hour 5% Infantry Defense while Marching vs Player",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "37b05c3aa4762d4e",
@@ -36297,13 +37241,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 hour 5% Infantry Defense while Marching vs Player",
+    "name": "n:",
     "target_quality": 2,
     "target_quantity": 3600
   },
   {
     "category": "Repeatable",
-    "description": "1 hour 15% Cavalry Defense while Marching vs Player",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "f76b2463661bf3c",
@@ -36322,13 +37266,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 hour 15% Cavalry Defense while Marching vs Player",
+    "name": "n:",
     "target_quality": 4,
     "target_quantity": 3600
   },
   {
     "category": "Repeatable",
-    "description": "1 hour 10% Cavalry Defense while Marching vs Player",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "976470ca6faf9188",
@@ -36347,13 +37291,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 hour 10% Cavalry Defense while Marching vs Player",
+    "name": "n:",
     "target_quality": 3,
     "target_quantity": 3600
   },
   {
     "category": "Repeatable",
-    "description": "1 hour 5% Cavalry Defense while Marching vs Player",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "a123f4e1aa172112",
@@ -36372,13 +37316,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 hour 5% Cavalry Defense while Marching vs Player",
+    "name": "n:",
     "target_quality": 2,
     "target_quantity": 3600
   },
   {
     "category": "Repeatable",
-    "description": "1 hour 15% Sege Attack while Marching vs Player",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "e67b63b2c26628a7",
@@ -36397,13 +37341,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 hour 15% Siege Attack while Marching vs Player",
+    "name": "n:",
     "target_quality": 4,
     "target_quantity": 3600
   },
   {
     "category": "Repeatable",
-    "description": "1 hour 10% Siege Attack while Marching vs Player",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "7e69a13e9ba80613",
@@ -36422,13 +37366,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 hour 10% Siege Attack while Marching vs Player",
+    "name": "n:",
     "target_quality": 3,
     "target_quantity": 3600
   },
   {
     "category": "Repeatable",
-    "description": "1 hour 5% Siege Attack while Marching vs Player",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "8d3f534cd53a3842",
@@ -36447,13 +37391,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 hour 5% Siege Attack while Marching vs Player",
+    "name": "n:",
     "target_quality": 2,
     "target_quantity": 3600
   },
   {
     "category": "Repeatable",
-    "description": "1 hour 15% Ranged Attack while Marching vs Player",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "15898558536ee682",
@@ -36472,13 +37416,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 hour 15% Ranged Attack while Marching vs Player",
+    "name": "n:",
     "target_quality": 4,
     "target_quantity": 3600
   },
   {
     "category": "Repeatable",
-    "description": "1 hour 10% Ranged Attack while Marching vs Player",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "8d9b47d40aa0c836",
@@ -36497,13 +37441,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 hour 10% Ranged Attack while Marching vs Player",
+    "name": "n:",
     "target_quality": 3,
     "target_quantity": 3600
   },
   {
     "category": "Repeatable",
-    "description": "1 hour 5% Ranged Attack while Marching vs Player",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "f27e0b4fe54bbcdf",
@@ -36522,13 +37466,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 hour 5% Ranged Attack while Marching vs Player",
+    "name": "n:",
     "target_quality": 2,
     "target_quantity": 3600
   },
   {
     "category": "Repeatable",
-    "description": "1 hour 15% Infantry Attack while Marching vs Player",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "fb4c543039a43f6e",
@@ -36547,13 +37491,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 hour 15% Infantry Attack while Marching vs Player",
+    "name": "n:",
     "target_quality": 4,
     "target_quantity": 3600
   },
   {
     "category": "Repeatable",
-    "description": "1 hour 10% Infantry Attack while Marching vs Player",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "635e96bc606a11da",
@@ -36572,13 +37516,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 hour 10% Infantry Attack while Marching vs Player",
+    "name": "n:",
     "target_quality": 3,
     "target_quantity": 3600
   },
   {
     "category": "Repeatable",
-    "description": "1 hour 5% Infantry Attack while Marching vs Player",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "9e317bdc383aa108",
@@ -36597,13 +37541,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 hour 5% Infantry Attack while Marching vs Player",
+    "name": "n:",
     "target_quality": 2,
     "target_quantity": 3600
   },
   {
     "category": "Repeatable",
-    "description": "1 hour 15% Cavalry Attack while Marching vs Player",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "6ddffceb37c53332",
@@ -36622,13 +37566,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 hour 15% Cavalry Attack while Marching vs Player",
+    "name": "n:",
     "target_quality": 4,
     "target_quantity": 3600
   },
   {
     "category": "Repeatable",
-    "description": "1 hour 10% Cavalry Attack while Marching vs Player",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "f5cd3e676e0b1d86",
@@ -36647,13 +37591,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 hour 10% Cavalry Attack while Marching vs Player",
+    "name": "n:",
     "target_quality": 3,
     "target_quantity": 3600
   },
   {
     "category": "Repeatable",
-    "description": "n:ALCHEMY_REPEATABLE_BOUNTYEXCHANGE_ITEM_ELITE_MONSTER_BOUNTY_INTO__BOOST_MARCHERCAVALRYATTACKVSPLAYER_BOUNTY_5_0D1H0M_1_DESCRIPTION",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "2133022dbfb934af",
@@ -36672,13 +37616,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 hour 5% Cavalry Attack while Marching vs Player",
+    "name": "n:",
     "target_quality": 2,
     "target_quantity": 3600
   },
   {
     "category": "Repeatable",
-    "description": "7 day 250,000 Protected Stone Instant Boost",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "84549408b9180a4d",
@@ -36691,13 +37635,13 @@
       }
     ],
     "limit": 0,
-    "name": "7 day 250,000 Protected Stone Instant Boost",
+    "name": "n:",
     "target_quality": 3,
     "target_quantity": 604800
   },
   {
     "category": "Repeatable",
-    "description": "3 day 250,000 Protected Stone Instant Boost",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "9129ba1aae88d671",
@@ -36710,13 +37654,13 @@
       }
     ],
     "limit": 0,
-    "name": "3 day 250,000 Protected Stone Instant Boost",
+    "name": "n:",
     "target_quality": 2,
     "target_quantity": 259200
   },
   {
     "category": "Repeatable",
-    "description": "1 day 250,000 Protected Stone Instant Boost",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "9b972d13a540b86f",
@@ -36729,13 +37673,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 day 250,000 Protected Stone Instant Boost",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 86400
   },
   {
     "category": "Repeatable",
-    "description": "7 day 125,000 Protected Iron Instant Boost",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "f85c8be7c674a947",
@@ -36748,13 +37692,13 @@
       }
     ],
     "limit": 0,
-    "name": "7 day 125,000 Protected Iron Instant Boost",
+    "name": "n:",
     "target_quality": 3,
     "target_quantity": 604800
   },
   {
     "category": "Repeatable",
-    "description": "3 day 125,000 Protected Iron Instant Boost",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "ed21a5f5d1e4757b",
@@ -36767,13 +37711,13 @@
       }
     ],
     "limit": 0,
-    "name": "3 day 125,000 Protected Iron Instant Boost",
+    "name": "n:",
     "target_quality": 2,
     "target_quantity": 259200
   },
   {
     "category": "Repeatable",
-    "description": "1 day 125,000 Protected Iron Instant Boost",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "e79f32fcda2c1b65",
@@ -36786,13 +37730,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 day 125,000 Protected Iron Instant Boost",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 86400
   },
   {
     "category": "Repeatable",
-    "description": "7 day 500,000 Protected Wood Instant Boost",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "90141fc1304df9d9",
@@ -36805,13 +37749,13 @@
       }
     ],
     "limit": 0,
-    "name": "7 day 500,000 Protected Wood Instant Boost",
+    "name": "n:",
     "target_quality": 3,
     "target_quantity": 604800
   },
   {
     "category": "Repeatable",
-    "description": "3 day 500,000 Protected Wood Instant Boost",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "856931d327dd25e5",
@@ -36824,13 +37768,13 @@
       }
     ],
     "limit": 0,
-    "name": "3 day 500,000 Protected Wood Instant Boost",
+    "name": "n:",
     "target_quality": 2,
     "target_quantity": 259200
   },
   {
     "category": "Repeatable",
-    "description": "1 day 500,000 Protected Wood Instant Boost",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "8fd7a6da2c154bfb",
@@ -36843,13 +37787,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 day 500,000 Protected Wood Instant Boost",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 86400
   },
   {
     "category": "Repeatable",
-    "description": "7 day 500,000 Protected Food Instant Boost",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "dbb80a486863623b",
@@ -36862,13 +37806,13 @@
       }
     ],
     "limit": 0,
-    "name": "7 day 500,000 Protected Food Instant Boost",
+    "name": "n:",
     "target_quality": 3,
     "target_quantity": 604800
   },
   {
     "category": "Repeatable",
-    "description": "3 day 500,000 Protected Food Instant Boost",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "cec5245a7ff3be07",
@@ -36881,13 +37825,13 @@
       }
     ],
     "limit": 0,
-    "name": "3 day 500,000 Protected Food Instant Boost",
+    "name": "n:",
     "target_quality": 2,
     "target_quantity": 259200
   },
   {
     "category": "Repeatable",
-    "description": "1 day 500,000 Protected Food Instant Boost",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "c47bb353743bd019",
@@ -36900,13 +37844,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 day 500,000 Protected Food Instant Boost",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 86400
   },
   {
     "category": "Repeatable",
-    "description": "1 hour 15% Research Speed Instant Boost",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "d93157ec32eaf77",
@@ -36919,13 +37863,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 hour 15% Research Speed Instant Boost",
+    "name": "n:",
     "target_quality": 3,
     "target_quantity": 3600
   },
   {
     "category": "Repeatable",
-    "description": "1 hour 10% Research Speed Instant Boost",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "9581d7f29ae081c3",
@@ -36938,13 +37882,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 hour 10% Research Speed Instant Boost",
+    "name": "n:",
     "target_quality": 2,
     "target_quantity": 3600
   },
   {
     "category": "Repeatable",
-    "description": "1 hour 5% Research Speed Instant Boost",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "c34a0a8b3ff6bb6f",
@@ -36957,13 +37901,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 hour 5% Research Speed Instant Boost",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 3600
   },
   {
     "category": "Repeatable",
-    "description": "1 hour 15% Healing Speed Instant Boost.",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "78abaf8a8ab20a0d",
@@ -36976,13 +37920,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 hour 15% Healing Speed Instant Boost",
+    "name": "n:",
     "target_quality": 3,
     "target_quantity": 3600
   },
   {
     "category": "Repeatable",
-    "description": "1 hour 10% Healing Speed Instant Boost.",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "e0b96d06d37c24b9",
@@ -36995,13 +37939,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 hour 10% Healing Speed Instant Boost",
+    "name": "n:",
     "target_quality": 2,
     "target_quantity": 3600
   },
   {
     "category": "Repeatable",
-    "description": "1 hour 5% Healing Speed Instant Boost.",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "e9ac151b56a1cf6c",
@@ -37014,13 +37958,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 hour 5% Healing Speed Instant Boost",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 3600
   },
   {
     "category": "Repeatable",
-    "description": "1 hour 15% Healing Cost Reduction.",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "12ef72736d8693ed",
@@ -37033,13 +37977,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 hour 15% Healing Cost Reduction",
+    "name": "n:",
     "target_quality": 3,
     "target_quantity": 3600
   },
   {
     "category": "Repeatable",
-    "description": "1 hour 10% Healing Cost Reduction.",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "8afdb0ff3448bd59",
@@ -37052,13 +37996,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 hour 10% Healing Cost Reduction",
+    "name": "n:",
     "target_quality": 2,
     "target_quantity": 3600
   },
   {
     "category": "Repeatable",
-    "description": "1 hour 5% Healing Cost Reduction.",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "1cda6bd1622ca058",
@@ -37071,13 +38015,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 hour 5% Healing Cost Reduction",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 3600
   },
   {
     "category": "Repeatable",
-    "description": "8 hour 15% Troop Load Instant Boost",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "640d4342437e89ad",
@@ -37090,13 +38034,13 @@
       }
     ],
     "limit": 0,
-    "name": "8 hour 15% Troop Load Instant Boost",
+    "name": "n:",
     "target_quality": 3,
     "target_quantity": 28800
   },
   {
     "category": "Repeatable",
-    "description": "8 hour 10% Troop Load Instant Boost",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "fc1f81ce1ab0a719",
@@ -37109,13 +38053,13 @@
       }
     ],
     "limit": 0,
-    "name": "8 hour 10% Troop Load Instant Boost",
+    "name": "n:",
     "target_quality": 2,
     "target_quantity": 28800
   },
   {
     "category": "Repeatable",
-    "description": "8 hour 5% Troop Load Instant Boost",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "b3fbdf5fcbbfee42",
@@ -37128,13 +38072,13 @@
       }
     ],
     "limit": 0,
-    "name": "8 hour 5% Troop Load Instant Boost",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 28800
   },
   {
     "category": "Repeatable",
-    "description": "1 hour 15% Steel Cost Efficiency. \n\nDecreases the amount of Steel required to forge equipment at the Smithy.",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "1e48bac4b8e15ad9",
@@ -37147,13 +38091,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 hour 15% Steel Cost Efficiency",
+    "name": "n:",
     "target_quality": 3,
     "target_quantity": 3600
   },
   {
     "category": "Repeatable",
-    "description": "1 hour 10% Steel Cost Efficiency.\n\nDecreases the amount of Steel required to forge equipment at the Smithy.",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "865a7848e12f746d",
@@ -37166,13 +38110,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 hour 10% Steel Cost Efficiency",
+    "name": "n:",
     "target_quality": 2,
     "target_quantity": 3600
   },
   {
     "category": "Repeatable",
-    "description": "1 hour 5% Steel Cost Efficiency.\n\nDecreases the amount of Steel required to forge equipment at the Smithy.",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "aec0cfae489fed00",
@@ -37185,13 +38129,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 hour 5% Steel Cost Efficiency",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 3600
   },
   {
     "category": "Repeatable",
-    "description": "1 hour 15% Training Speed Instant Boost",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "6302b06b497fbf86",
@@ -37204,13 +38148,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 hour 15% Training Speed Instant Boost",
+    "name": "n:",
     "target_quality": 3,
     "target_quantity": 3600
   },
   {
     "category": "Repeatable",
-    "description": "1 hour 10% Training Speed Instant Boost",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "fb1072e710b19132",
@@ -37223,13 +38167,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 hour 10% Training Speed Instant Boost",
+    "name": "n:",
     "target_quality": 2,
     "target_quantity": 3600
   },
   {
     "category": "Repeatable",
-    "description": "1 hour 5% Training Speed Instant Boost",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "6e63576692be288a",
@@ -37242,13 +38186,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 hour 5% Training Speed Instant Boost",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 3600
   },
   {
     "category": "Repeatable",
-    "description": "7 day 75%  Siege Upkeep Efficiency",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "9d5343a2639dc2d8",
@@ -37261,13 +38205,13 @@
       }
     ],
     "limit": 0,
-    "name": "7 day 75%  Siege Upkeep Efficiency",
+    "name": "n:",
     "target_quality": 3,
     "target_quantity": 604800
   },
   {
     "category": "Repeatable",
-    "description": "7 day 50%  Siege Upkeep Efficiency",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "41dc8ee292aa8b24",
@@ -37280,13 +38224,13 @@
       }
     ],
     "limit": 0,
-    "name": "7 day 50%  Siege Upkeep Efficiency",
+    "name": "n:",
     "target_quality": 2,
     "target_quantity": 604800
   },
   {
     "category": "Repeatable",
-    "description": "7 day 25%  Siege Upkeep Efficiency",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "3627dbdd6613bfec",
@@ -37299,13 +38243,13 @@
       }
     ],
     "limit": 0,
-    "name": "7 day 25%  Siege Upkeep Efficiency",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 604800
   },
   {
     "category": "Repeatable",
-    "description": "7 day 75%  Ranged Upkeep Efficiency",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "3ef7330518957567",
@@ -37318,13 +38262,13 @@
       }
     ],
     "limit": 0,
-    "name": "7 day 75%  Ranged Upkeep Efficiency",
+    "name": "n:",
     "target_quality": 3,
     "target_quantity": 604800
   },
   {
     "category": "Repeatable",
-    "description": "7 day 50%  Ranged Upkeep Efficiency",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "e278fe45e9a23c9b",
@@ -37337,13 +38281,13 @@
       }
     ],
     "limit": 0,
-    "name": "7 day 50%  Ranged Upkeep Efficiency",
+    "name": "n:",
     "target_quality": 2,
     "target_quantity": 604800
   },
   {
     "category": "Repeatable",
-    "description": "7 day 25%  Ranged Upkeep Efficiency",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "9583ab7a1d1b0853",
@@ -37356,13 +38300,13 @@
       }
     ],
     "limit": 0,
-    "name": "7 day 25%  Ranged Upkeep Efficiency",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 604800
   },
   {
     "category": "Repeatable",
-    "description": "7 day 75%  Cavalry Upkeep Efficiency",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "6e30461818fd22f3",
@@ -37375,13 +38319,13 @@
       }
     ],
     "limit": 0,
-    "name": "7 day 75%  Cavalry Upkeep Efficiency",
+    "name": "n:",
     "target_quality": 3,
     "target_quantity": 604800
   },
   {
     "category": "Repeatable",
-    "description": "7 day 50%  Cavalry Upkeep Efficiency",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "b2bf8b58e9ca6b0f",
@@ -37394,13 +38338,13 @@
       }
     ],
     "limit": 0,
-    "name": "7 day 50%  Cavalry Upkeep Efficiency",
+    "name": "n:",
     "target_quality": 2,
     "target_quantity": 604800
   },
   {
     "category": "Repeatable",
-    "description": "7 day 25%  Cavalry Upkeep Efficiency",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "c544de671d735fc7",
@@ -37413,13 +38357,13 @@
       }
     ],
     "limit": 0,
-    "name": "7 day 25%  Cavalry Upkeep Efficiency",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 604800
   },
   {
     "category": "Repeatable",
-    "description": "7 day 75%  Infantry Upkeep Efficiency",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "c2dfeae649add94d",
@@ -37432,13 +38376,13 @@
       }
     ],
     "limit": 0,
-    "name": "7 day 75%  Infantry Upkeep Efficiency",
+    "name": "n:",
     "target_quality": 3,
     "target_quantity": 604800
   },
   {
     "category": "Repeatable",
-    "description": "7 day 50%  Infantry Upkeep Efficiency",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "1e5027a6b89a90b1",
@@ -37451,13 +38395,13 @@
       }
     ],
     "limit": 0,
-    "name": "7 day 50%  Infantry Upkeep Efficiency",
+    "name": "n:",
     "target_quality": 2,
     "target_quantity": 604800
   },
   {
     "category": "Repeatable",
-    "description": "7 day 25%  Infantry Upkeep Efficiency",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "69ab72994c23a479",
@@ -37470,13 +38414,13 @@
       }
     ],
     "limit": 0,
-    "name": "7 day 25%  Infantry Upkeep Efficiency",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 604800
   },
   {
     "category": "Repeatable",
-    "description": "1 day 20% Iron Production Instant Boost",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "df2627f471c186aa",
@@ -37489,13 +38433,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 day 20% Iron Production Instant Boost",
+    "name": "n:",
     "target_quality": 3,
     "target_quantity": 86400
   },
   {
     "category": "Repeatable",
-    "description": "1 day 15% Iron Production Instant Boost",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "21e76d52d48a7cf2",
@@ -37508,13 +38452,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 day 15% Iron Production Instant Boost",
+    "name": "n:",
     "target_quality": 2,
     "target_quantity": 86400
   },
   {
     "category": "Repeatable",
-    "description": "1 day 10% Iron Production Instant Boost",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "b9f5afde8d445246",
@@ -37527,13 +38471,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 day 10% Iron Production Instant Boost",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 86400
   },
   {
     "category": "Repeatable",
-    "description": "1 day 20% Stone Production Instant Boost",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "f4e63deedd62174",
@@ -37546,13 +38490,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 day 20% Stone Production Instant Boost",
+    "name": "n:",
     "target_quality": 3,
     "target_quantity": 86400
   },
   {
     "category": "Repeatable",
-    "description": "1 day 15% Stone Production Instant Boost",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "f18f2978489ddb2c",
@@ -37565,13 +38509,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 day 15% Stone Production Instant Boost",
+    "name": "n:",
     "target_quality": 2,
     "target_quantity": 86400
   },
   {
     "category": "Repeatable",
-    "description": "1 day 10% Stone Production Instant Boost",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "699debf41153f598",
@@ -37584,13 +38528,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 day 10% Stone Production Instant Boost",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 86400
   },
   {
     "category": "Repeatable",
-    "description": "1 day 20% Wood Production Instant Boost",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "f45eea21f1019499",
@@ -37603,13 +38547,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 day 20% Wood Production Instant Boost",
+    "name": "n:",
     "target_quality": 3,
     "target_quantity": 86400
   },
   {
     "category": "Repeatable",
-    "description": "1 day 15% Wood Production Instant Boost",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "a9fa087544a6ec1",
@@ -37622,13 +38566,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 day 15% Wood Production Instant Boost",
+    "name": "n:",
     "target_quality": 2,
     "target_quantity": 86400
   },
   {
     "category": "Repeatable",
-    "description": "1 day 10% Wood Production Instant Boost",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "928d620b0d844075",
@@ -37641,13 +38585,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 day 10% Wood Production Instant Boost",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 86400
   },
   {
     "category": "Repeatable",
-    "description": "1 day 20% Food Production Instant Boost.",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "8f43133c880a35df",
@@ -37660,13 +38604,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 day 20% Food Production Instant Boost",
+    "name": "n:",
     "target_quality": 3,
     "target_quantity": 86400
   },
   {
     "category": "Repeatable",
-    "description": "1 day 15% Food Production Instant Boost.",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "7182599a2d41cf87",
@@ -37679,13 +38623,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 day 15% Food Production Instant Boost",
+    "name": "n:",
     "target_quality": 2,
     "target_quantity": 86400
   },
   {
     "category": "Repeatable",
-    "description": "1 day 10% Food Production Instant Boost.",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "e9909b16748fe133",
@@ -37698,13 +38642,13 @@
       }
     ],
     "limit": 0,
-    "name": "1 day 10% Food Production Instant Boost",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 86400
   },
   {
     "category": "Repeatable",
-    "description": "1 day 20% Iron Gather Speed Instant Boost.",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "9aff460d0287f21e",
@@ -37717,13 +38661,13 @@
       }
     ],
     "limit": 0,
-    "name": "24 hour 20% Iron Gather Speed Instant Boost",
+    "name": "n:",
     "target_quality": 3,
     "target_quantity": 86400
   },
   {
     "category": "Repeatable",
-    "description": "1 day 15% Iron Gather Speed Instant Boost.",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "643e0caba7cc0846",
@@ -37736,13 +38680,13 @@
       }
     ],
     "limit": 0,
-    "name": "24 hour 15% Iron Gather Speed Instant Boost",
+    "name": "n:",
     "target_quality": 2,
     "target_quantity": 86400
   },
   {
     "category": "Repeatable",
-    "description": "1 day 10% Iron Gather Speed Instant Boost.",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "fc2cce27fe0226f2",
@@ -37755,13 +38699,13 @@
       }
     ],
     "limit": 0,
-    "name": "24 hour 10% Iron Gather Speed Instant Boost",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 86400
   },
   {
     "category": "Repeatable",
-    "description": "1 day 20% Stone Gather Speed Instant Boost",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "9e71eff4a0ea908c",
@@ -37774,13 +38718,13 @@
       }
     ],
     "limit": 0,
-    "name": "24 hour 20% Stone Gather Speed Instant Boost",
+    "name": "n:",
     "target_quality": 3,
     "target_quantity": 86400
   },
   {
     "category": "Repeatable",
-    "description": "1 day 15% Stone Gather Speed Instant Boost",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "60b0a55205a16ad4",
@@ -37793,13 +38737,13 @@
       }
     ],
     "limit": 0,
-    "name": "24 hour 15% Stone Gather Speed Instant Boost",
+    "name": "n:",
     "target_quality": 2,
     "target_quantity": 86400
   },
   {
     "category": "Repeatable",
-    "description": "1 day 10% Stone Gather Speed Instant Boost",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "f8a267de5c6f4460",
@@ -37812,13 +38756,13 @@
       }
     ],
     "limit": 0,
-    "name": "24 hour 10% Stone Gather Speed Instant Boost",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 86400
   },
   {
     "category": "Repeatable",
-    "description": "1 day 20% Wood Gather Speed Instant Boost",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "9baa7e9afed64898",
@@ -37831,13 +38775,13 @@
       }
     ],
     "limit": 0,
-    "name": "24 hour 20% Wood Gather Speed Instant Boost",
+    "name": "n:",
     "target_quality": 3,
     "target_quantity": 86400
   },
   {
     "category": "Repeatable",
-    "description": "1 day 15% Wood Gather Speed Instant Boost",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "656b343c5b9db2c0",
@@ -37850,13 +38794,13 @@
       }
     ],
     "limit": 0,
-    "name": "24 hour 15% Wood Gather Speed Instant Boost",
+    "name": "n:",
     "target_quality": 2,
     "target_quantity": 86400
   },
   {
     "category": "Repeatable",
-    "description": "1 day 10% Wood Gather Speed Instant Boost",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "fd79f6b002539c74",
@@ -37869,13 +38813,13 @@
       }
     ],
     "limit": 0,
-    "name": "24 hour 10% Wood Gather Speed Instant Boost",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 86400
   },
   {
     "category": "Repeatable",
-    "description": "1 day 20% Food Gather Speed Instant Boost.",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "6135d0f970ea8be",
@@ -37888,13 +38832,13 @@
       }
     ],
     "limit": 0,
-    "name": "24 hour 20% Food Gather Speed Instant Boost",
+    "name": "n:",
     "target_quality": 3,
     "target_quantity": 86400
   },
   {
     "category": "Repeatable",
-    "description": "1 day 15% Food Gather Speed Instant Boost.",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "f8d217a9324552e6",
@@ -37907,13 +38851,13 @@
       }
     ],
     "limit": 0,
-    "name": "24 hour 15% Food Gather Speed Instant Boost",
+    "name": "n:",
     "target_quality": 2,
     "target_quantity": 86400
   },
   {
     "category": "Repeatable",
-    "description": "1 day 10% Food Gather Speed Instant Boost",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "60c0d5256b8b7c52",
@@ -37926,13 +38870,13 @@
       }
     ],
     "limit": 0,
-    "name": "24 hour 10% Food Gather Speed Instant Boost",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 86400
   },
   {
     "category": "Repeatable",
-    "description": "100 Red Gold from Pale Steel",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "4c293b5006199b49",
@@ -37951,13 +38895,13 @@
       }
     ],
     "limit": 0,
-    "name": "100 Red Gold",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 100
   },
   {
     "category": "Repeatable",
-    "description": "100 Red Gold from Scholarly Fragment",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "1e4f485a98b42f96",
@@ -37976,13 +38920,13 @@
       }
     ],
     "limit": 0,
-    "name": "100 Red Gold",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 100
   },
   {
     "category": "Repeatable",
-    "description": "100 Red Gold from Keystone",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "f80af891bd9ce916",
@@ -38001,13 +38945,13 @@
       }
     ],
     "limit": 0,
-    "name": "100 Red Gold",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 100
   },
   {
     "category": "Repeatable",
-    "description": "100 Red Gold from Soldier Pine",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "f33198be6cb1e96e",
@@ -38026,13 +38970,13 @@
       }
     ],
     "limit": 0,
-    "name": "100 Red Gold",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 100
   },
   {
     "category": "Repeatable",
-    "description": "100 Red Gold from Brick",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "98a896066b7d24b1",
@@ -38051,13 +38995,13 @@
       }
     ],
     "limit": 0,
-    "name": "100 Red Gold",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 100
   },
   {
     "category": "Repeatable",
-    "description": "100 Red Gold from Iron",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "e8702b7f7d5652c9",
@@ -38076,13 +39020,13 @@
       }
     ],
     "limit": 0,
-    "name": "100 Red Gold",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 100
   },
   {
     "category": "Repeatable",
-    "description": "100 Red Gold from Stone",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "c913679d5fd2e565",
@@ -38101,13 +39045,13 @@
       }
     ],
     "limit": 0,
-    "name": "100 Red Gold",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 100
   },
   {
     "category": "Repeatable",
-    "description": "100 Red Gold from Wood",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "8c557ecb54a4fc9e",
@@ -38126,13 +39070,13 @@
       }
     ],
     "limit": 0,
-    "name": "100 Red Gold",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 100
   },
   {
     "category": "Repeatable",
-    "description": "100 Red Gold from Food",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "f92cb9931a25ad37",
@@ -38151,13 +39095,13 @@
       }
     ],
     "limit": 0,
-    "name": "100 Red Gold",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 100
   },
   {
     "category": "Repeatable",
-    "description": "300 Pale Steel from Red Gold",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "feacc6736a37f8ec",
@@ -38176,13 +39120,13 @@
       }
     ],
     "limit": 0,
-    "name": "300 Pale Steel",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 300
   },
   {
     "category": "Repeatable",
-    "description": "300 Pale Steel from Scholarly Fragment",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "abb0b8df75ba7856",
@@ -38201,13 +39145,13 @@
       }
     ],
     "limit": 0,
-    "name": "300 Pale Steel",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 300
   },
   {
     "category": "Repeatable",
-    "description": "300 Pale Steel from Keystone",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "374292037f58c255",
@@ -38226,13 +39170,13 @@
       }
     ],
     "limit": 0,
-    "name": "300 Pale Steel",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 300
   },
   {
     "category": "Repeatable",
-    "description": "300 Pale Steel from Soldier Pine",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "2263e4656e1cf65b",
@@ -38251,13 +39195,13 @@
       }
     ],
     "limit": 0,
-    "name": "300 Pale Steel",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 300
   },
   {
     "category": "Repeatable",
-    "description": "300 Pale Steel from Brick",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "8413f0916e7db5d3",
@@ -38276,13 +39220,13 @@
       }
     ],
     "limit": 0,
-    "name": "300 Pale Steel",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 300
   },
   {
     "category": "Repeatable",
-    "description": "300 Pale Steel from Iron",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "3937079177585ff",
@@ -38301,13 +39245,13 @@
       }
     ],
     "limit": 0,
-    "name": "300 Pale Steel",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 300
   },
   {
     "category": "Repeatable",
-    "description": "300 Pale Steel from Stone",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "52ee3962dc5514a6",
@@ -38326,13 +39270,13 @@
       }
     ],
     "limit": 0,
-    "name": "300 Pale Steel",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 300
   },
   {
     "category": "Repeatable",
-    "description": "300 Pale Steel from Wood",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "dfc5f873af64dcc7",
@@ -38351,13 +39295,13 @@
       }
     ],
     "limit": 0,
-    "name": "300 Pale Steel",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 300
   },
   {
     "category": "Repeatable",
-    "description": "300 Pale Steel from Food",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "8438e88dacfff8c8",
@@ -38376,13 +39320,13 @@
       }
     ],
     "limit": 0,
-    "name": "300 Pale Steel",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 300
   },
   {
     "category": "Repeatable",
-    "description": "1,000 Scholarly Fragment from Red Gold",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "aa918c7a4844b055",
@@ -38401,13 +39345,13 @@
       }
     ],
     "limit": 0,
-    "name": "1,000 Scholarly Fragment",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 1000
   },
   {
     "category": "Repeatable",
-    "description": "1,000 Scholarly Fragment from Pale Steel",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "ca55dca03d83d77a",
@@ -38426,13 +39370,13 @@
       }
     ],
     "limit": 0,
-    "name": "1,000 Scholarly Fragment",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 1000
   },
   {
     "category": "Repeatable",
-    "description": "1,000 Scholarly Fragment from Keystone",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "f47cb49ce06082d4",
@@ -38451,13 +39395,13 @@
       }
     ],
     "limit": 0,
-    "name": "1,000 Scholarly Fragment",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 1000
   },
   {
     "category": "Repeatable",
-    "description": "1,000 Scholarly Fragment from Soldier Pine",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "9c1cfc1b2f7736b",
@@ -38476,13 +39420,13 @@
       }
     ],
     "limit": 0,
-    "name": "1,000 Scholarly Fragment",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 1000
   },
   {
     "category": "Repeatable",
-    "description": "1,000 Scholarly Fragment from Brick",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "d70e60f1afe9fca8",
@@ -38501,13 +39445,13 @@
       }
     ],
     "limit": 0,
-    "name": "1,000 Scholarly Fragment",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 1000
   },
   {
     "category": "Repeatable",
-    "description": "1,000 Scholarly Fragment from Iron",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "d6bb8cbffa7d40b7",
@@ -38526,13 +39470,13 @@
       }
     ],
     "limit": 0,
-    "name": "1,000 Scholarly Fragment",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 1000
   },
   {
     "category": "Repeatable",
-    "description": "1,000 Scholarly Fragment from Stone",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "43245681ce9f3798",
@@ -38551,13 +39495,13 @@
       }
     ],
     "limit": 0,
-    "name": "1,000 Scholarly Fragment",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 1000
   },
   {
     "category": "Repeatable",
-    "description": "1,000 Scholarly Fragment from Wood",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "d6f8258391f3be54",
@@ -38576,13 +39520,13 @@
       }
     ],
     "limit": 0,
-    "name": "1,000 Scholarly Fragment",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 1000
   },
   {
     "category": "Repeatable",
-    "description": "1,000 Scholarly Fragment from Food",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "3721fdd4ceb59f53",
@@ -38601,13 +39545,13 @@
       }
     ],
     "limit": 0,
-    "name": "1,000 Scholarly Fragment",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 1000
   },
   {
     "category": "Repeatable",
-    "description": "100 Keystone from Red Gold",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "30593afa89bcc090",
@@ -38626,13 +39570,13 @@
       }
     ],
     "limit": 0,
-    "name": "100 Keystone",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 100
   },
   {
     "category": "Repeatable",
-    "description": "100 Keystone from Pale Steel",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "7d744525a5c23249",
@@ -38651,13 +39595,13 @@
       }
     ],
     "limit": 0,
-    "name": "100 Keystone",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 100
   },
   {
     "category": "Repeatable",
-    "description": "100 Keystone from Scholarly Fragment",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "2f12362f3b6f8696",
@@ -38676,13 +39620,13 @@
       }
     ],
     "limit": 0,
-    "name": "100 Keystone",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 100
   },
   {
     "category": "Repeatable",
-    "description": "100 Keystone from Soldier Pine",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "c26ce6cbcf6a406e",
@@ -38701,13 +39645,13 @@
       }
     ],
     "limit": 0,
-    "name": "100 Keystone",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 100
   },
   {
     "category": "Repeatable",
-    "description": "100 Keystone from Brick",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "a9f5e873c8a68db1",
@@ -38726,13 +39670,13 @@
       }
     ],
     "limit": 0,
-    "name": "100 Keystone",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 100
   },
   {
     "category": "Repeatable",
-    "description": "100 Keystone from Iron",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "d92d550ade8dfbc9",
@@ -38751,13 +39695,13 @@
       }
     ],
     "limit": 0,
-    "name": "100 Keystone",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 100
   },
   {
     "category": "Repeatable",
-    "description": "100 Keystone from Stone",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "f84e19e8fc094c65",
@@ -38776,13 +39720,13 @@
       }
     ],
     "limit": 0,
-    "name": "100 Keystone",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 100
   },
   {
     "category": "Repeatable",
-    "description": "100 Keystone from Wood",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "bd0800bef77f559e",
@@ -38801,13 +39745,13 @@
       }
     ],
     "limit": 0,
-    "name": "100 Keystone",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 100
   },
   {
     "category": "Repeatable",
-    "description": "100 Keystone from Food",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "c871c7e6b9fe0437",
@@ -38826,13 +39770,13 @@
       }
     ],
     "limit": 0,
-    "name": "100 Keystone",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 100
   },
   {
     "category": "Repeatable",
-    "description": "300 Soldier Pine from Red Gold",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "b481d193f222c62c",
@@ -38851,13 +39795,13 @@
       }
     ],
     "limit": 0,
-    "name": "300 Soldier Pine",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 300
   },
   {
     "category": "Repeatable",
-    "description": "300 Soldier Pine from Pale Steel",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "38433d633da4852a",
@@ -38876,13 +39820,13 @@
       }
     ],
     "limit": 0,
-    "name": "300 Soldier Pine",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 300
   },
   {
     "category": "Repeatable",
-    "description": "300 Soldier Pine from Scholarly Fragment",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "1028e1c79734dc51",
@@ -38901,13 +39845,13 @@
       }
     ],
     "limit": 0,
-    "name": "300 Soldier Pine",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 300
   },
   {
     "category": "Repeatable",
-    "description": "300 Soldier Pine from Keystone",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "65a64f0692cbcce5",
@@ -38926,13 +39870,13 @@
       }
     ],
     "limit": 0,
-    "name": "300 Soldier Pine",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 300
   },
   {
     "category": "Repeatable",
-    "description": "300 Soldier Pine from Brick",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "4e6c868917e6aa1b",
@@ -38951,13 +39895,13 @@
       }
     ],
     "limit": 0,
-    "name": "300 Soldier Pine",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 300
   },
   {
     "category": "Repeatable",
-    "description": "300 Soldier Pine from Iron",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "89bcce3a8e6eb882",
@@ -38976,13 +39920,13 @@
       }
     ],
     "limit": 0,
-    "name": "300 Soldier Pine",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 300
   },
   {
     "category": "Repeatable",
-    "description": "300 Soldier Pine from Stone",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "a909aac688bbb390",
@@ -39001,13 +39945,13 @@
       }
     ],
     "limit": 0,
-    "name": "300 Soldier Pine",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 300
   },
   {
     "category": "Repeatable",
-    "description": "300 Soldier Pine from Wood",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "b52202ef87ae3a47",
@@ -39026,13 +39970,13 @@
       }
     ],
     "limit": 0,
-    "name": "300 Soldier Pine",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 300
   },
   {
     "category": "Repeatable",
-    "description": "300 Soldier Pine from Food",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "969892ce8e20d47e",
@@ -39051,13 +39995,13 @@
       }
     ],
     "limit": 0,
-    "name": "300 Soldier Pine",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 300
   },
   {
     "category": "Repeatable",
-    "description": "1,000 Brick from Red Gold",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "b60bd88f905e8050",
@@ -39076,13 +40020,13 @@
       }
     ],
     "limit": 0,
-    "name": "1,000 Brick",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 1000
   },
   {
     "category": "Repeatable",
-    "description": "1,000 Brick from Pale Steel",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "7a395d9adaf411c5",
@@ -39101,13 +40045,13 @@
       }
     ],
     "limit": 0,
-    "name": "1,000 Brick",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 1000
   },
   {
     "category": "Repeatable",
-    "description": "1,000 Brick from Scholarly Fragment",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "1971dd05eda84079",
@@ -39126,13 +40070,13 @@
       }
     ],
     "limit": 0,
-    "name": "1,000 Brick",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 1000
   },
   {
     "category": "Repeatable",
-    "description": "1,000 Brick from Keystone",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "27ec8fa402272b3f",
@@ -39151,13 +40095,13 @@
       }
     ],
     "limit": 0,
-    "name": "1,000 Brick",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 1000
   },
   {
     "category": "Repeatable",
-    "description": "1,000 Brick from Soldier Pine",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "8ba3674abd215cc0",
@@ -39176,13 +40120,13 @@
       }
     ],
     "limit": 0,
-    "name": "1,000 Brick",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 1000
   },
   {
     "category": "Repeatable",
-    "description": "1,000 Brick from Iron",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "24a4495430f51821",
@@ -39201,13 +40145,13 @@
       }
     ],
     "limit": 0,
-    "name": "1,000 Brick",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 1000
   },
   {
     "category": "Repeatable",
-    "description": "1,000 Brick from Stone",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "97e1681e3306bbd3",
@@ -39226,13 +40170,13 @@
       }
     ],
     "limit": 0,
-    "name": "1,000 Brick",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 1000
   },
   {
     "category": "Repeatable",
-    "description": "1,000 Brick from Wood",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "88ebe86fcccd795a",
@@ -39251,13 +40195,13 @@
       }
     ],
     "limit": 0,
-    "name": "1,000 Brick",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 1000
   },
   {
     "category": "Repeatable",
-    "description": "1,000 Brick from Food",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "c347fde694e3e2b8",
@@ -39276,13 +40220,13 @@
       }
     ],
     "limit": 0,
-    "name": "1,000 Brick",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 1000
   },
   {
     "category": "Repeatable",
-    "description": "100,000 Iron from Red Gold",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "cb262187efc3df9d",
@@ -39301,13 +40245,13 @@
       }
     ],
     "limit": 0,
-    "name": "100,000 Iron",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 100000
   },
   {
     "category": "Repeatable",
-    "description": "100,000 Iron from Pale Steel",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "82222bac06fdf17c",
@@ -39326,13 +40270,13 @@
       }
     ],
     "limit": 0,
-    "name": "100,000 Iron",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 100000
   },
   {
     "category": "Repeatable",
-    "description": "100,000 Iron from Scholarly Fragment",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "7158d323889e413d",
@@ -39351,13 +40295,13 @@
       }
     ],
     "limit": 0,
-    "name": "100,000 Iron",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 100000
   },
   {
     "category": "Repeatable",
-    "description": "100,000 Iron from Keystone",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "c7c95a37f8567bfc",
@@ -39376,13 +40320,13 @@
       }
     ],
     "limit": 0,
-    "name": "100,000 Iron",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 100000
   },
   {
     "category": "Repeatable",
-    "description": "100,000 Iron from Soldier Pine",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "e3ce21ffdb10d6a0",
@@ -39401,13 +40345,13 @@
       }
     ],
     "limit": 0,
-    "name": "100,000 Iron",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 100000
   },
   {
     "category": "Repeatable",
-    "description": "100,000 Iron from Brick",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "5dd92eceb3da6b5",
@@ -39426,13 +40370,13 @@
       }
     ],
     "limit": 0,
-    "name": "100,000 Iron",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 100000
   },
   {
     "category": "Repeatable",
-    "description": "100,000 Iron from Stone",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "a2274b24475443a1",
@@ -39451,13 +40395,13 @@
       }
     ],
     "limit": 0,
-    "name": "100,000 Iron",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 100000
   },
   {
     "category": "Repeatable",
-    "description": "100,000 Iron from Wood",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "425c5e9c7f2d6d79",
@@ -39476,13 +40420,13 @@
       }
     ],
     "limit": 0,
-    "name": "100,000 Iron",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 100000
   },
   {
     "category": "Repeatable",
-    "description": "100,000 Iron from Food",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "5d255cf17e7a7e83",
@@ -39501,13 +40445,13 @@
       }
     ],
     "limit": 0,
-    "name": "100,000 Iron",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 100000
   },
   {
     "category": "Repeatable",
-    "description": "200,000 Stone from Red Gold",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "83b4bd5f99bf87b3",
@@ -39526,13 +40470,13 @@
       }
     ],
     "limit": 0,
-    "name": "200,000 Stone",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 200000
   },
   {
     "category": "Repeatable",
-    "description": "200,000 Stone from Pale Steel",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "5e061b8708e7a617",
@@ -39551,13 +40495,13 @@
       }
     ],
     "limit": 0,
-    "name": "200,000 Stone",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 200000
   },
   {
     "category": "Repeatable",
-    "description": "200,000 Stone from Scholarly Fragment",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "d3f71b7ec686e002",
@@ -39576,13 +40520,13 @@
       }
     ],
     "limit": 0,
-    "name": "200,000 Stone",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 200000
   },
   {
     "category": "Repeatable",
-    "description": "200,000 Stone from Keystone",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "9f1ed1cc37ceaa08",
@@ -39601,13 +40545,13 @@
       }
     ],
     "limit": 0,
-    "name": "200,000 Stone",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 200000
   },
   {
     "category": "Repeatable",
-    "description": "200,000 Stone from Soldier Pine",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "20e82a3e88edd134",
@@ -39626,13 +40570,13 @@
       }
     ],
     "limit": 0,
-    "name": "200,000 Stone",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 200000
   },
   {
     "category": "Repeatable",
-    "description": "200,000 Stone from Brick",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "f7eaa0455e07248b",
@@ -39651,13 +40595,13 @@
       }
     ],
     "limit": 0,
-    "name": "200,000 Stone",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 200000
   },
   {
     "category": "Repeatable",
-    "description": "200,000 Stone from Iron",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "2df79b8a2719428d",
@@ -39676,13 +40620,13 @@
       }
     ],
     "limit": 0,
-    "name": "200,000 Stone",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 200000
   },
   {
     "category": "Repeatable",
-    "description": "200,000 Stone from Wood",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "c1f080ce52806099",
@@ -39701,13 +40645,13 @@
       }
     ],
     "limit": 0,
-    "name": "200,000 Stone",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 200000
   },
   {
     "category": "Repeatable",
-    "description": "200,000 Stone from Food",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "c4e064410034d428",
@@ -39726,13 +40670,13 @@
       }
     ],
     "limit": 0,
-    "name": "200,000 Stone",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 200000
   },
   {
     "category": "Repeatable",
-    "description": "1,000,000 Wood from Red Gold",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "1eba2c56196e74a7",
@@ -39751,13 +40695,13 @@
       }
     ],
     "limit": 0,
-    "name": "1,000,000 Wood",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 1000000
   },
   {
     "category": "Repeatable",
-    "description": "1,000,000 Wood from Pale Steel",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "57be267df0505a46",
@@ -39776,13 +40720,13 @@
       }
     ],
     "limit": 0,
-    "name": "1,000,000 Wood",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 1000000
   },
   {
     "category": "Repeatable",
-    "description": "1,000,000 Wood from Scholarly Fragment",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "a4c4def27e33ea07",
@@ -39801,13 +40745,13 @@
       }
     ],
     "limit": 0,
-    "name": "1,000,000 Wood",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 1000000
   },
   {
     "category": "Repeatable",
-    "description": "1,000,000 Wood from Keystone",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "125557e60efbd0c6",
@@ -39826,13 +40770,13 @@
       }
     ],
     "limit": 0,
-    "name": "1,000,000 Wood",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 1000000
   },
   {
     "category": "Repeatable",
-    "description": "1,000,000 Wood from Soldier Pine",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "36522c2e2dbd7d9a",
@@ -39851,13 +40795,13 @@
       }
     ],
     "limit": 0,
-    "name": "1,000,000 Wood",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 1000000
   },
   {
     "category": "Repeatable",
-    "description": "1,000,000 Wood from Brick",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "d0419f3d1d900d8f",
@@ -39876,13 +40820,13 @@
       }
     ],
     "limit": 0,
-    "name": "1,000,000 Wood",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 1000000
   },
   {
     "category": "Repeatable",
-    "description": "1,000,000 Wood from Iron",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "be8bc95eddfbf2e9",
@@ -39901,13 +40845,13 @@
       }
     ],
     "limit": 0,
-    "name": "1,000,000 Wood",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 1000000
   },
   {
     "category": "Repeatable",
-    "description": "1,000,000 Wood from Stone",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "77bb46f5b1f9e89b",
@@ -39926,13 +40870,13 @@
       }
     ],
     "limit": 0,
-    "name": "1,000,000 Wood",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 1000000
   },
   {
     "category": "Repeatable",
-    "description": "1,000,000 Wood from Food",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "88b9512088d7d5b9",
@@ -39951,13 +40895,13 @@
       }
     ],
     "limit": 0,
-    "name": "1,000,000 Wood",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 1000000
   },
   {
     "category": "Repeatable",
-    "description": "1,000,000 Food from Red Gold",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "4bb319cbe0752a7a",
@@ -39976,13 +40920,13 @@
       }
     ],
     "limit": 0,
-    "name": "1,000,000 Food",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 1000000
   },
   {
     "category": "Repeatable",
-    "description": "1,000,000 Food from Pale Steel",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "2b713e0094b049b",
@@ -40001,13 +40945,13 @@
       }
     ],
     "limit": 0,
-    "name": "1,000,000 Food",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 1000000
   },
   {
     "category": "Repeatable",
-    "description": "1,000,000 Food from Scholarly Fragment",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "f1cdeb6f8728b4da",
@@ -40026,13 +40970,13 @@
       }
     ],
     "limit": 0,
-    "name": "1,000,000 Food",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 1000000
   },
   {
     "category": "Repeatable",
-    "description": "1,000,000 Food from Keystone",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "475c627bf7e08e1b",
@@ -40051,13 +40995,13 @@
       }
     ],
     "limit": 0,
-    "name": "1,000,000 Food",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 1000000
   },
   {
     "category": "Repeatable",
-    "description": "1,000,000 Food from Soldier Pine",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "635b19b3d4a62347",
@@ -40076,13 +41020,13 @@
       }
     ],
     "limit": 0,
-    "name": "1,000,000 Food",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 1000000
   },
   {
     "category": "Repeatable",
-    "description": "1,000,000 Food from Brick",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "8548aaa0e48b5352",
@@ -40101,13 +41045,13 @@
       }
     ],
     "limit": 0,
-    "name": "1,000,000 Food",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 1000000
   },
   {
     "category": "Repeatable",
-    "description": "1,000,000 Food from Iron",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "eb82fcc324e0ac34",
@@ -40126,13 +41070,13 @@
       }
     ],
     "limit": 0,
-    "name": "1,000,000 Food",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 1000000
   },
   {
     "category": "Repeatable",
-    "description": "1,000,000 Food from Stone",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "22b2736848e2b646",
@@ -40151,13 +41095,13 @@
       }
     ],
     "limit": 0,
-    "name": "1,000,000 Food",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 1000000
   },
   {
     "category": "Repeatable",
-    "description": "1,000,000 Food from Wood",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "c2c966d0709b989e",
@@ -40176,7 +41120,7 @@
       }
     ],
     "limit": 0,
-    "name": "1,000,000 Food",
+    "name": "n:",
     "target_quality": 0,
     "target_quantity": 1000000
   },
@@ -40201,7 +41145,7 @@
       }
     ],
     "limit": 0,
-    "name": "1,000,000 Lavish Silk",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 1000000
   },
@@ -40226,7 +41170,7 @@
       }
     ],
     "limit": 0,
-    "name": "10,000 Lavish Silk",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 10000
   },
@@ -40251,7 +41195,7 @@
       }
     ],
     "limit": 0,
-    "name": "100 Lavish Silk",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 100
   },
@@ -40276,7 +41220,7 @@
       }
     ],
     "limit": 0,
-    "name": "1,000,000 Rimed Leather",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 1000000
   },
@@ -40301,7 +41245,7 @@
       }
     ],
     "limit": 0,
-    "name": "10,000 Rimed Leather",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 10000
   },
@@ -40326,7 +41270,7 @@
       }
     ],
     "limit": 0,
-    "name": "100 Rimed Leather",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 100
   },
@@ -40351,7 +41295,7 @@
       }
     ],
     "limit": 0,
-    "name": "1,000,000 Weirwood Sap",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 1000000
   },
@@ -40376,7 +41320,7 @@
       }
     ],
     "limit": 0,
-    "name": "10,000 Weirwood Sap",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 10000
   },
@@ -40401,7 +41345,7 @@
       }
     ],
     "limit": 0,
-    "name": "100 Weirwood Sap",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 100
   },
@@ -40426,7 +41370,7 @@
       }
     ],
     "limit": 0,
-    "name": "1,000,000 Alligator Skins",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 1000000
   },
@@ -40451,7 +41395,7 @@
       }
     ],
     "limit": 0,
-    "name": "10,000 Alligator Skins",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 10000
   },
@@ -40476,7 +41420,7 @@
       }
     ],
     "limit": 0,
-    "name": "100 Alligator Skins",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 100
   },
@@ -40501,7 +41445,7 @@
       }
     ],
     "limit": 0,
-    "name": "1,000,000 Hardened Leather",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 1000000
   },
@@ -40526,7 +41470,7 @@
       }
     ],
     "limit": 0,
-    "name": "10,000 Hardened Leather",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 10000
   },
@@ -40551,7 +41495,7 @@
       }
     ],
     "limit": 0,
-    "name": "100 Hardened Leather",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 100
   },
@@ -40576,7 +41520,7 @@
       }
     ],
     "limit": 0,
-    "name": "1,000,000 Seawater Cloth",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 1000000
   },
@@ -40601,7 +41545,7 @@
       }
     ],
     "limit": 0,
-    "name": "10,000 Seawater Cloth",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 10000
   },
@@ -40626,7 +41570,7 @@
       }
     ],
     "limit": 0,
-    "name": "100 Seawater Cloth",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 100
   },
@@ -40651,7 +41595,7 @@
       }
     ],
     "limit": 0,
-    "name": "1,000,000 Royal Velvet",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 1000000
   },
@@ -40676,7 +41620,7 @@
       }
     ],
     "limit": 0,
-    "name": "10,000 Royal Velvet",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 10000
   },
@@ -40701,7 +41645,7 @@
       }
     ],
     "limit": 0,
-    "name": "100 Royal Velvet",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 100
   },
@@ -40726,7 +41670,7 @@
       }
     ],
     "limit": 0,
-    "name": "1,000,000 Crimson Taffeta",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 1000000
   },
@@ -40751,7 +41695,7 @@
       }
     ],
     "limit": 0,
-    "name": "10,000 Crimson Taffeta",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 10000
   },
@@ -40776,7 +41720,7 @@
       }
     ],
     "limit": 0,
-    "name": "100 Crimson Taffeta",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 100
   },
@@ -40801,7 +41745,7 @@
       }
     ],
     "limit": 0,
-    "name": "1,000,000 Green Chiffon",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 1000000
   },
@@ -40826,7 +41770,7 @@
       }
     ],
     "limit": 0,
-    "name": "10,000 Green Chiffon",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 10000
   },
@@ -40851,7 +41795,7 @@
       }
     ],
     "limit": 0,
-    "name": "100 Green Chiffon",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 100
   },
@@ -40876,7 +41820,7 @@
       }
     ],
     "limit": 0,
-    "name": "1,000,000 Pilfered Boots",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 1000000
   },
@@ -40901,7 +41845,7 @@
       }
     ],
     "limit": 0,
-    "name": "10,000 Pilfered Boots",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 10000
   },
@@ -40926,7 +41870,7 @@
       }
     ],
     "limit": 0,
-    "name": "100 Pilfered Boots",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 100
   },
@@ -40951,7 +41895,7 @@
       }
     ],
     "limit": 0,
-    "name": "1,000,000 Red Clay Tiles",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 1000000
   },
@@ -40976,7 +41920,7 @@
       }
     ],
     "limit": 0,
-    "name": "10,000 Red Clay Tiles",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 10000
   },
@@ -41001,7 +41945,7 @@
       }
     ],
     "limit": 0,
-    "name": "100 Red Clay Tiles",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 100
   },
@@ -41026,7 +41970,7 @@
       }
     ],
     "limit": 0,
-    "name": "1,000,000 Scavenged Bones",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 1000000
   },
@@ -41051,7 +41995,7 @@
       }
     ],
     "limit": 0,
-    "name": "10,000 Scavenged Bones",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 10000
   },
@@ -41076,7 +42020,7 @@
       }
     ],
     "limit": 0,
-    "name": "100 Scavenged Bones",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 100
   },
@@ -41101,7 +42045,7 @@
       }
     ],
     "limit": 0,
-    "name": "1,000,000 Stitched Leather",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 1000000
   },
@@ -41126,7 +42070,7 @@
       }
     ],
     "limit": 0,
-    "name": "10,000 Stitched Leather",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 10000
   },
@@ -41151,7 +42095,7 @@
       }
     ],
     "limit": 0,
-    "name": "100 Stitched Leather",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 100
   },
@@ -41176,7 +42120,7 @@
       }
     ],
     "limit": 0,
-    "name": "1,000,000 Royal Samite",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 1000000
   },
@@ -41201,7 +42145,7 @@
       }
     ],
     "limit": 0,
-    "name": "10,000 Royal Samite",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 10000
   },
@@ -41226,7 +42170,7 @@
       }
     ],
     "limit": 0,
-    "name": "100 Royal Samite",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 100
   },
@@ -41251,7 +42195,7 @@
       }
     ],
     "limit": 0,
-    "name": "1,000,000 Stag Hide",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 1000000
   },
@@ -41276,7 +42220,7 @@
       }
     ],
     "limit": 0,
-    "name": "10,000 Stag Hide",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 10000
   },
@@ -41301,7 +42245,7 @@
       }
     ],
     "limit": 0,
-    "name": "100 Stag Hide",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 100
   },
@@ -41326,7 +42270,7 @@
       }
     ],
     "limit": 0,
-    "name": "1,000,000 Gilded Plates",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 1000000
   },
@@ -41351,7 +42295,7 @@
       }
     ],
     "limit": 0,
-    "name": "10,000 Gilded Plates",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 10000
   },
@@ -41376,7 +42320,7 @@
       }
     ],
     "limit": 0,
-    "name": "100 Gilded Plates",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 100
   },
@@ -41401,7 +42345,7 @@
       }
     ],
     "limit": 0,
-    "name": "1,000,000 Leather and Fletchings",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 1000000
   },
@@ -41426,7 +42370,7 @@
       }
     ],
     "limit": 0,
-    "name": "10,000 Leather and Fletching",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 10000
   },
@@ -41451,7 +42395,7 @@
       }
     ],
     "limit": 0,
-    "name": "100 Leather and Fletchings",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 100
   },
@@ -41476,7 +42420,7 @@
       }
     ],
     "limit": 0,
-    "name": "1,000,000 Black Scalemail",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 1000000
   },
@@ -41501,7 +42445,7 @@
       }
     ],
     "limit": 0,
-    "name": "10,000 Black Scalemail",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 10000
   },
@@ -41526,7 +42470,7 @@
       }
     ],
     "limit": 0,
-    "name": "100 Black Scalemail",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 100
   },
@@ -41551,7 +42495,7 @@
       }
     ],
     "limit": 0,
-    "name": "1,000,000 Composite Cloth",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 1000000
   },
@@ -41576,7 +42520,7 @@
       }
     ],
     "limit": 0,
-    "name": "10,000 Composite Cloth",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 10000
   },
@@ -41601,7 +42545,7 @@
       }
     ],
     "limit": 0,
-    "name": "100 Composite Cloth",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 100
   },
@@ -41626,7 +42570,7 @@
       }
     ],
     "limit": 0,
-    "name": "1,000,000 Cloth-of-Silver",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 1000000
   },
@@ -41651,7 +42595,7 @@
       }
     ],
     "limit": 0,
-    "name": "10,000 Cloth-of-Silver",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 10000
   },
@@ -41676,7 +42620,7 @@
       }
     ],
     "limit": 0,
-    "name": "100 Cloth-of-Silver",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 100
   },
@@ -41701,7 +42645,7 @@
       }
     ],
     "limit": 0,
-    "name": "1,000,000 Heavy Brocade",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 1000000
   },
@@ -41726,7 +42670,7 @@
       }
     ],
     "limit": 0,
-    "name": "10,000 Heavy Brocade",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 10000
   },
@@ -41751,7 +42695,7 @@
       }
     ],
     "limit": 0,
-    "name": "100 Heavy Brocade",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 100
   },
@@ -41776,7 +42720,7 @@
       }
     ],
     "limit": 0,
-    "name": "1,000,000 Golden Thread",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 1000000
   },
@@ -41801,7 +42745,7 @@
       }
     ],
     "limit": 0,
-    "name": "100,000 Golden Thread",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 100000
   },
@@ -41826,7 +42770,7 @@
       }
     ],
     "limit": 0,
-    "name": "10,000 Golden Thread",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 10000
   },
@@ -41851,7 +42795,7 @@
       }
     ],
     "limit": 0,
-    "name": "1,000 Golden Thread",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 1000
   },
@@ -41876,7 +42820,7 @@
       }
     ],
     "limit": 0,
-    "name": "100 Golden Thread",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 100
   },
@@ -41901,7 +42845,7 @@
       }
     ],
     "limit": 0,
-    "name": "1,000,000 Floral Silk",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 1000000
   },
@@ -41926,7 +42870,7 @@
       }
     ],
     "limit": 0,
-    "name": "100,000 Floral Silk",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 100000
   },
@@ -41951,7 +42895,7 @@
       }
     ],
     "limit": 0,
-    "name": "10,000 Floral Silk",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 10000
   },
@@ -41976,7 +42920,7 @@
       }
     ],
     "limit": 0,
-    "name": "1,000 Floral Silk",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 1000
   },
@@ -42001,7 +42945,7 @@
       }
     ],
     "limit": 0,
-    "name": "100 Floral Silk",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 100
   },
@@ -42026,7 +42970,7 @@
       }
     ],
     "limit": 0,
-    "name": "1,000,000 Conqueror's Shagreen",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 1000000
   },
@@ -42051,7 +42995,7 @@
       }
     ],
     "limit": 0,
-    "name": "100,000 Conqueror's Shagreen",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 100000
   },
@@ -42076,7 +43020,7 @@
       }
     ],
     "limit": 0,
-    "name": "10,000 Conqueror's Shagreen",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 10000
   },
@@ -42101,7 +43045,7 @@
       }
     ],
     "limit": 0,
-    "name": "1,000 Conqueror's Shagreen",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 1000
   },
@@ -42126,7 +43070,7 @@
       }
     ],
     "limit": 0,
-    "name": "100 Conqueror's Shagreen",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 100
   },
@@ -42151,7 +43095,7 @@
       }
     ],
     "limit": 0,
-    "name": "1,000,000 Kingsguard Emblems",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 1000000
   },
@@ -42176,7 +43120,7 @@
       }
     ],
     "limit": 0,
-    "name": "100,000 Kingsguard Emblems",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 100000
   },
@@ -42201,7 +43145,7 @@
       }
     ],
     "limit": 0,
-    "name": "10,000 Kingsguard Emblems",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 10000
   },
@@ -42226,7 +43170,7 @@
       }
     ],
     "limit": 0,
-    "name": "1,000 Kingsguard Emblems",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 1000
   },
@@ -42251,7 +43195,7 @@
       }
     ],
     "limit": 0,
-    "name": "100 Kingsguard Emblems",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 100
   },
@@ -42276,7 +43220,7 @@
       }
     ],
     "limit": 0,
-    "name": "1,000,000 Ancient Leather",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 1000000
   },
@@ -42301,7 +43245,7 @@
       }
     ],
     "limit": 0,
-    "name": "100,000 Ancient Leather",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 100000
   },
@@ -42326,7 +43270,7 @@
       }
     ],
     "limit": 0,
-    "name": "10,000 Ancient Leather",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 10000
   },
@@ -42351,7 +43295,7 @@
       }
     ],
     "limit": 0,
-    "name": "1,000 Ancient Leather",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 1000
   },
@@ -42376,7 +43320,7 @@
       }
     ],
     "limit": 0,
-    "name": "100 Ancient Leather",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 100
   },
@@ -42401,7 +43345,7 @@
       }
     ],
     "limit": 0,
-    "name": "1,000,000 Silvered Steel",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 1000000
   },
@@ -42426,7 +43370,7 @@
       }
     ],
     "limit": 0,
-    "name": "100,000 Silvered Steel",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 100000
   },
@@ -42451,7 +43395,7 @@
       }
     ],
     "limit": 0,
-    "name": "10,000 Silvered Steel",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 10000
   },
@@ -42476,7 +43420,7 @@
       }
     ],
     "limit": 0,
-    "name": "1,000 Silvered Steel",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 1000
   },
@@ -42501,7 +43445,7 @@
       }
     ],
     "limit": 0,
-    "name": "100 Silvered Steel",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 100
   },
@@ -42526,7 +43470,7 @@
       }
     ],
     "limit": 0,
-    "name": "1,000,000 Battered Ringmail",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 1000000
   },
@@ -42551,7 +43495,7 @@
       }
     ],
     "limit": 0,
-    "name": "100,000 Battered Ringmail",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 100000
   },
@@ -42576,7 +43520,7 @@
       }
     ],
     "limit": 0,
-    "name": "10,000 Battered Ringmail",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 10000
   },
@@ -42601,7 +43545,7 @@
       }
     ],
     "limit": 0,
-    "name": "1,000 Battered Ringmail",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 1000
   },
@@ -42626,7 +43570,7 @@
       }
     ],
     "limit": 0,
-    "name": "100 Battered Ringmail",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 100
   },
@@ -42651,7 +43595,7 @@
       }
     ],
     "limit": 0,
-    "name": "1,000,000 Black Leather",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 1000000
   },
@@ -42676,7 +43620,7 @@
       }
     ],
     "limit": 0,
-    "name": "100,000 Black Leather",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 100000
   },
@@ -42701,7 +43645,7 @@
       }
     ],
     "limit": 0,
-    "name": "10,000 Black Leather",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 10000
   },
@@ -42726,7 +43670,7 @@
       }
     ],
     "limit": 0,
-    "name": "1,000 Black Leather",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 1000
   },
@@ -42751,7 +43695,7 @@
       }
     ],
     "limit": 0,
-    "name": "100 Black Leather",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 100
   },
@@ -42871,7 +43815,7 @@
   },
   {
     "category": "Repeatable",
-    "description": "Trade Iron for Stone for a limited time!",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "c54765c9024a3416",
@@ -42884,13 +43828,13 @@
       }
     ],
     "limit": 0,
-    "name": "Recipe: 5,000,000 Stone",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 5000000
   },
   {
     "category": "Repeatable",
-    "description": "Trade Iron for Stone for a limited time!",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "cd2c0ceb704ee7bc",
@@ -42903,13 +43847,13 @@
       }
     ],
     "limit": 0,
-    "name": "Recipe: 50,000 Stone",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 50000
   },
   {
     "category": "Repeatable",
-    "description": "Trade Iron for Stone for a limited time!",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "dc752cccadcfcf21",
@@ -42922,13 +43866,13 @@
       }
     ],
     "limit": 0,
-    "name": "Recipe: 500 Stone",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 500
   },
   {
     "category": "Repeatable",
-    "description": "Trade Iron for Wood for a limited time!",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "fbdc0a1b3a331a0d",
@@ -42941,13 +43885,13 @@
       }
     ],
     "limit": 0,
-    "name": "Recipe: 50,000,000 Wood",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 50000000
   },
   {
     "category": "Repeatable",
-    "description": "Trade Iron for Wood for a limited time!",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "9da1aefef5a92539",
@@ -42960,13 +43904,13 @@
       }
     ],
     "limit": 0,
-    "name": "Recipe: 500,000 Wood",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 500000
   },
   {
     "category": "Repeatable",
-    "description": "Trade Iron for Wood for a limited time!",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "3655fbd9e9382e09",
@@ -42979,13 +43923,13 @@
       }
     ],
     "limit": 0,
-    "name": "Recipe: 5,000 Wood",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 5000
   },
   {
     "category": "Repeatable",
-    "description": "Trade Iron for Food for a limited time!",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "844b0439de345f14",
@@ -42998,13 +43942,13 @@
       }
     ],
     "limit": 0,
-    "name": "Recipe: 50,000,000 Food",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 50000000
   },
   {
     "category": "Repeatable",
-    "description": "Trade Iron for Food for a limited time!",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "cd0a5d322e0e62c6",
@@ -43017,13 +43961,13 @@
       }
     ],
     "limit": 0,
-    "name": "Recipe: 500,000 Food",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 500000
   },
   {
     "category": "Repeatable",
-    "description": "Trade Iron for Food for a limited time!",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "635cce44102370d4",
@@ -43036,13 +43980,13 @@
       }
     ],
     "limit": 0,
-    "name": "Recipe: 5,000 Food",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 5000
   },
   {
     "category": "Repeatable",
-    "description": "Trade Stone for Iron for a limited time!",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "dd20c62fb6ad1d27",
@@ -43055,13 +43999,13 @@
       }
     ],
     "limit": 0,
-    "name": "Recipe: 1,000,000 Iron",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 1000000
   },
   {
     "category": "Repeatable",
-    "description": "Trade Stone for Iron for a limited time!",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "95b6d773950f677d",
@@ -43074,13 +44018,13 @@
       }
     ],
     "limit": 0,
-    "name": "Recipe: 10,000 Iron",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 10000
   },
   {
     "category": "Repeatable",
-    "description": "Trade Stone for Iron for a limited time!",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "3fb0bc10a83cd335",
@@ -43093,13 +44037,13 @@
       }
     ],
     "limit": 0,
-    "name": "Recipe: 100 Iron",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 100
   },
   {
     "category": "Repeatable",
-    "description": "Trade Stone for Wood for a limited time!",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "a08a9ed8821351b4",
@@ -43112,13 +44056,13 @@
       }
     ],
     "limit": 0,
-    "name": "Recipe: 50,000,000 Wood",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 50000000
   },
   {
     "category": "Repeatable",
-    "description": "Trade Stone for Wood for a limited time!",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "806f6f94032d6e24",
@@ -43131,13 +44075,13 @@
       }
     ],
     "limit": 0,
-    "name": "Recipe: 500,000 Wood",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 500000
   },
   {
     "category": "Repeatable",
-    "description": "Trade Stone for Wood for a limited time!",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "ea2cb1c15e91780f",
@@ -43150,13 +44094,13 @@
       }
     ],
     "limit": 0,
-    "name": "Recipe: 5,000 Wood",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 5000
   },
   {
     "category": "Repeatable",
-    "description": "Trade Stone for Food for a limited time!",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "df1d90fa661414ad",
@@ -43169,13 +44113,13 @@
       }
     ],
     "limit": 0,
-    "name": "Recipe: 50,000,000 Food",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 50000000
   },
   {
     "category": "Repeatable",
-    "description": "Trade Stone for Food for a limited time!",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "d0c49c58d88a29db",
@@ -43188,13 +44132,13 @@
       }
     ],
     "limit": 0,
-    "name": "Recipe: 500,000 Food",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 500000
   },
   {
     "category": "Repeatable",
-    "description": "Trade Stone for Food for a limited time!",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "bf25845ca78a26d2",
@@ -43207,13 +44151,13 @@
       }
     ],
     "limit": 0,
-    "name": "Recipe: 5,000 Food",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 5000
   },
   {
     "category": "Repeatable",
-    "description": "Trade Wood for Iron for a limited time!",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "6a7149a87b14748a",
@@ -43226,13 +44170,13 @@
       }
     ],
     "limit": 0,
-    "name": "Recipe: 1,000,000 Iron",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 1000000
   },
   {
     "category": "Repeatable",
-    "description": "Trade Wood for Iron for a limited time!",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "3db42ec5fe0dde9b",
@@ -43245,13 +44189,13 @@
       }
     ],
     "limit": 0,
-    "name": "Recipe: 10,000 Iron",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 10000
   },
   {
     "category": "Repeatable",
-    "description": "Trade Wood for Iron for a limited time!",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "9e3c21905e156218",
@@ -43264,13 +44208,13 @@
       }
     ],
     "limit": 0,
-    "name": "Recipe: 100 Iron",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 100
   },
   {
     "category": "Repeatable",
-    "description": "Trade Wood for Stone for a limited time!",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "3ebe30bc34b62401",
@@ -43283,13 +44227,13 @@
       }
     ],
     "limit": 0,
-    "name": "Recipe: 5,000,000 Stone",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 5000000
   },
   {
     "category": "Repeatable",
-    "description": "Trade Wood for Stone for a limited time!",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "e46796f82435d316",
@@ -43302,13 +44246,13 @@
       }
     ],
     "limit": 0,
-    "name": "Recipe: 50,000 Stone",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 50000
   },
   {
     "category": "Repeatable",
-    "description": "Trade Wood for Stone for a limited time!",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "dd8a635940c7e089",
@@ -43321,13 +44265,13 @@
       }
     ],
     "limit": 0,
-    "name": "Recipe: 500 Stone",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 500
   },
   {
     "category": "Repeatable",
-    "description": "Trade Wood for Food for a limited time!",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "684c1f7dabad7d00",
@@ -43340,13 +44284,13 @@
       }
     ],
     "limit": 0,
-    "name": "Recipe: 50,000,000 Food",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 50000000
   },
   {
     "category": "Repeatable",
-    "description": "Trade Wood for Food for a limited time!",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "78c665eeb388903d",
@@ -43359,13 +44303,13 @@
       }
     ],
     "limit": 0,
-    "name": "Recipe: 500,000 Food",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 500000
   },
   {
     "category": "Repeatable",
-    "description": "Trade Wood for Food for a limited time!",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "1ea919dc51a397ff",
@@ -43378,13 +44322,13 @@
       }
     ],
     "limit": 0,
-    "name": "Recipe: 5,000 Food",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 5000
   },
   {
     "category": "Repeatable",
-    "description": "Trade Food for Iron for a limited time!",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "6f61ad2729a0c03b",
@@ -43397,13 +44341,13 @@
       }
     ],
     "limit": 0,
-    "name": "Recipe: 1,000,000 Iron",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 1000000
   },
   {
     "category": "Repeatable",
-    "description": "Trade Food for Iron for a limited time!",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "e7412f305cf8a5ac",
@@ -43416,13 +44360,13 @@
       }
     ],
     "limit": 0,
-    "name": "Recipe: 10,000 Iron",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 10000
   },
   {
     "category": "Repeatable",
-    "description": "Trade Food for Iron for a limited time!",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "f1abc0f0e596ab86",
@@ -43435,13 +44379,13 @@
       }
     ],
     "limit": 0,
-    "name": "Recipe: 100 Iron",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 100
   },
   {
     "category": "Repeatable",
-    "description": "Trade Food for Stone for a limited time!",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "a614fd9582d35bd",
@@ -43454,13 +44398,13 @@
       }
     ],
     "limit": 0,
-    "name": "Recipe: 5,000,000 Stone",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 5000000
   },
   {
     "category": "Repeatable",
-    "description": "Trade Food for Stone for a limited time!",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "fb1e94952562c0ec",
@@ -43473,13 +44417,13 @@
       }
     ],
     "limit": 0,
-    "name": "Recipe: 50,000 Stone",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 50000
   },
   {
     "category": "Repeatable",
-    "description": "Trade Food for Stone for a limited time!",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "5b7a0fe16bb12eef",
@@ -43492,13 +44436,13 @@
       }
     ],
     "limit": 0,
-    "name": "Recipe: 500 Stone",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 500
   },
   {
     "category": "Repeatable",
-    "description": "Trade Food for Wood for a limited time!",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "12cbf5d01d1e8ca8",
@@ -43511,13 +44455,13 @@
       }
     ],
     "limit": 0,
-    "name": "Recipe: 50,000,000 Wood",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 50000000
   },
   {
     "category": "Repeatable",
-    "description": "Trade Food for Wood for a limited time!",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "f29897d7cadaacf5",
@@ -43530,13 +44474,13 @@
       }
     ],
     "limit": 0,
-    "name": "Recipe: 500,000 Wood",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 500000
   },
   {
     "category": "Repeatable",
-    "description": "Trade Food for Wood for a limited time!",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "2437cd21133b00bc",
@@ -43549,13 +44493,13 @@
       }
     ],
     "limit": 0,
-    "name": "Recipe: 5,000 Wood",
+    "name": "n:",
     "target_quality": 1,
     "target_quantity": 5000
   },
   {
     "category": "Repeatable",
-    "description": "Trade Meereenese Honors for Marble! This limited-time recipe will disappear when the event is over.",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "7aec8e0503757b0c",
@@ -43568,13 +44512,13 @@
       }
     ],
     "limit": 0,
-    "name": "Recipe: 10,000 Marble",
+    "name": "n:",
     "target_quality": 4,
     "target_quantity": 10000
   },
   {
     "category": "Repeatable",
-    "description": "Trade Meereenese Honors for Marble! This limited-time recipe will disappear when the event is over.",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "dde782a7ba4dcce7",
@@ -43587,13 +44531,13 @@
       }
     ],
     "limit": 0,
-    "name": "Recipe: 100 Marble",
+    "name": "n:",
     "target_quality": 4,
     "target_quantity": 100
   },
   {
     "category": "Repeatable",
-    "description": "Trade Meereenese Honors for Slate! This limited-time recipe will disappear when the event is over.",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "494cb3e454b0c9",
@@ -43606,13 +44550,13 @@
       }
     ],
     "limit": 0,
-    "name": "Recipe: 1,000,000 Slate",
+    "name": "n:",
     "target_quality": 3,
     "target_quantity": 1000000
   },
   {
     "category": "Repeatable",
-    "description": "Trade Meereenese Honors for Slate! This limited-time recipe will disappear when the event is over.",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "1c75528e3da8a20b",
@@ -43625,13 +44569,13 @@
       }
     ],
     "limit": 0,
-    "name": "Recipe: 10,000 Slate",
+    "name": "n:",
     "target_quality": 3,
     "target_quantity": 10000
   },
   {
     "category": "Repeatable",
-    "description": "Trade Meereenese Honors for Slate! This limited-time recipe will disappear when the event is over.",
+    "description": "n:",
     "event_name": "",
     "event_points": 0,
     "id": "b8d824413c8073f4",
@@ -43644,7 +44588,7 @@
       }
     ],
     "limit": 0,
-    "name": "Recipe: 100 Slate",
+    "name": "n:",
     "target_quality": 3,
     "target_quantity": 100
   },

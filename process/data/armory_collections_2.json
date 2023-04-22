@@ -528,6 +528,18 @@
       "name": "armcol_events_snow1",
       "name_placeholder": "EQ_EVENTS_SNOW1_SET_NAME",
       "priority": 26100
+    },
+    {
+      "bonuses": [
+        "armcol_events_snow3_1",
+        "armcol_events_snow3_2",
+        "armcol_events_snow3_3"
+      ],
+      "gear_set_name": "gearset_events_snow3",
+      "id": "6668e49fe27436b0",
+      "name": "armcol_events_snow3",
+      "name_placeholder": "EQ_EVENTS_SNOW3_SET_NAME",
+      "priority": 26700
     }
   ]
 }

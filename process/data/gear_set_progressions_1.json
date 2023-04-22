@@ -2,6 +2,11 @@
   "description": "Gear set to gear names with level",
   "values": [
     {
+      "gear_names_with_level": [],
+      "id": "0",
+      "name": ""
+    },
+    {
       "gear_names_with_level": [
         "eq_events_winteriscoming_5_helmet_lord5",
         "eq_events_winteriscoming_10_helmet_lord10",
@@ -2851,7 +2856,17 @@
     },
     {
       "gear_names_with_level": [
-        "eq_trinket_comingsoon_1_alpha_lord1"
+        "eq_events_trinket_snow3_1_trinket_lord1",
+        "eq_events_trinket_snow3_5_trinket_lord5",
+        "eq_events_trinket_snow3_10_trinket_lord10",
+        "eq_events_trinket_snow3_15_trinket_lord15",
+        "eq_events_trinket_snow3_20_trinket_lord20",
+        "eq_events_trinket_snow3_25_trinket_lord25",
+        "eq_events_trinket_snow3_30_trinket_lord30",
+        "eq_events_trinket_snow3_35_trinket_lord35",
+        "eq_events_trinket_snow3_40_trinket_lord40",
+        "eq_events_trinket_snow3_45_trinket_lord45",
+        "eq_events_trinket_snow3_50_trinket_lord50"
       ],
       "id": "4626e704e3e4a7b9",
       "name": "prog_gearset_trinketarmory_northernartifacts_slot2"

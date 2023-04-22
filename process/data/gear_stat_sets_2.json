@@ -68400,6 +68400,1878 @@
           "progression": "prog_gear_Event8_CavalryDefenseVsPlayersInfantry_50"
         }
       ]
+    },
+    {
+      "id": "42c8c3cdf685fdb5",
+      "name": "eq_events_snow3_5_boots_lord5",
+      "stats": [
+        {
+          "name": "property_InfantryDefense_gear",
+          "progression": "prog_gear_Event9_InfantryDefense_5"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarchSpeedVsPlayer_5"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayersRanged_5"
+        }
+      ]
+    },
+    {
+      "id": "52629495d922e322",
+      "name": "eq_events_snow3_5_chest_lord5",
+      "stats": [
+        {
+          "name": "property_InfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayer_5"
+        },
+        {
+          "name": "property_InfantryHealth_gear",
+          "progression": "prog_gear_Event9_InfantryHealth_5"
+        },
+        {
+          "name": "property_MarcherInfantryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherInfantryHealthVsPlayer_5"
+        }
+      ]
+    },
+    {
+      "id": "80b6098272491459",
+      "name": "eq_events_snow3_5_helmet_lord5",
+      "stats": [
+        {
+          "name": "property_InfantryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event9_InfantryHealthVsPlayer_5"
+        },
+        {
+          "name": "property_MarcherInfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherInfantryAttackVsPlayer_5"
+        },
+        {
+          "name": "property_InfantryHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9_InfantryHealthVsPlayerSeatOfPower_5"
+        }
+      ]
+    },
+    {
+      "id": "814ad6b6abda2a39",
+      "name": "eq_events_snow3_5_pants_lord5",
+      "stats": [
+        {
+          "name": "property_InfantryHealth_gear",
+          "progression": "prog_gear_Event9_InfantryHealth_5"
+        },
+        {
+          "name": "property_InfantryDefense_gear",
+          "progression": "prog_gear_Event9_InfantryDefense_5"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayer_5"
+        }
+      ]
+    },
+    {
+      "id": "dd247299befd6e0d",
+      "name": "eq_events_snow3_5_ring_lord5",
+      "stats": [
+        {
+          "name": "property_InfantryAttack_gear",
+          "progression": "prog_gear_Event9_InfantryAttack_5"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_InfantryDefenseVsPlayersRanged_5"
+        },
+        {
+          "name": "property_InfantryHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9_InfantryHealthVsPlayerSeatOfPower_5"
+        }
+      ]
+    },
+    {
+      "id": "e76b91b53b964ad4",
+      "name": "eq_events_snow3_5_weapon_lord5",
+      "stats": [
+        {
+          "name": "property_InfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayer_5"
+        },
+        {
+          "name": "property_InfantryAttack_gear",
+          "progression": "prog_gear_Event9_InfantryAttack_5"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarchSpeedVsPlayer_5"
+        }
+      ]
+    },
+    {
+      "id": "a87b9df344932685",
+      "name": "eq_events_snow3_10_boots_lord10",
+      "stats": [
+        {
+          "name": "property_InfantryDefense_gear",
+          "progression": "prog_gear_Event9_InfantryDefense_10"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarchSpeedVsPlayer_10"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayersRanged_10"
+        }
+      ]
+    },
+    {
+      "id": "e731181b13175d35",
+      "name": "eq_events_snow3_10_chest_lord10",
+      "stats": [
+        {
+          "name": "property_InfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayer_10"
+        },
+        {
+          "name": "property_InfantryHealth_gear",
+          "progression": "prog_gear_Event9_InfantryHealth_10"
+        },
+        {
+          "name": "property_MarcherInfantryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherInfantryHealthVsPlayer_10"
+        }
+      ]
+    },
+    {
+      "id": "41199d6d0eb0f584",
+      "name": "eq_events_snow3_10_helmet_lord10",
+      "stats": [
+        {
+          "name": "property_InfantryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event9_InfantryHealthVsPlayer_10"
+        },
+        {
+          "name": "property_MarcherInfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherInfantryAttackVsPlayer_10"
+        },
+        {
+          "name": "property_InfantryHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9_InfantryHealthVsPlayerSeatOfPower_10"
+        }
+      ]
+    },
+    {
+      "id": "3f160f06b56159d4",
+      "name": "eq_events_snow3_10_pants_lord10",
+      "stats": [
+        {
+          "name": "property_InfantryHealth_gear",
+          "progression": "prog_gear_Event9_InfantryHealth_10"
+        },
+        {
+          "name": "property_InfantryDefense_gear",
+          "progression": "prog_gear_Event9_InfantryDefense_10"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayer_10"
+        }
+      ]
+    },
+    {
+      "id": "d448cd7968d100a3",
+      "name": "eq_events_snow3_10_ring_lord10",
+      "stats": [
+        {
+          "name": "property_InfantryAttack_gear",
+          "progression": "prog_gear_Event9_InfantryAttack_10"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_InfantryDefenseVsPlayersRanged_10"
+        },
+        {
+          "name": "property_InfantryHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9_InfantryHealthVsPlayerSeatOfPower_10"
+        }
+      ]
+    },
+    {
+      "id": "fa219bb304055ba6",
+      "name": "eq_events_snow3_10_weapon_lord10",
+      "stats": [
+        {
+          "name": "property_InfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayer_10"
+        },
+        {
+          "name": "property_InfantryAttack_gear",
+          "progression": "prog_gear_Event9_InfantryAttack_10"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarchSpeedVsPlayer_10"
+        }
+      ]
+    },
+    {
+      "id": "2211e521b7c0c375",
+      "name": "eq_events_snow3_15_boots_lord15",
+      "stats": [
+        {
+          "name": "property_InfantryDefense_gear",
+          "progression": "prog_gear_Event9_InfantryDefense_15"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarchSpeedVsPlayer_15"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayersRanged_15"
+        },
+        {
+          "name": "property_InfantryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event9_InfantryHealthVsPlayer_15"
+        }
+      ]
+    },
+    {
+      "id": "6d5b60c9e044b8c5",
+      "name": "eq_events_snow3_15_chest_lord15",
+      "stats": [
+        {
+          "name": "property_InfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayer_15"
+        },
+        {
+          "name": "property_InfantryHealth_gear",
+          "progression": "prog_gear_Event9_InfantryHealth_15"
+        },
+        {
+          "name": "property_MarcherInfantryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherInfantryHealthVsPlayer_15"
+        },
+        {
+          "name": "property_MarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event9_MarchingSpeedVsSeatOfPower_15"
+        }
+      ]
+    },
+    {
+      "id": "76d3daf5e97343e1",
+      "name": "eq_events_snow3_15_helmet_lord15",
+      "stats": [
+        {
+          "name": "property_InfantryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event9_InfantryHealthVsPlayer_15"
+        },
+        {
+          "name": "property_MarcherInfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherInfantryAttackVsPlayer_15"
+        },
+        {
+          "name": "property_InfantryHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9_InfantryHealthVsPlayerSeatOfPower_15"
+        },
+        {
+          "name": "property_MarcherInfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherInfantryDefenseVsPlayer_15"
+        }
+      ]
+    },
+    {
+      "id": "b57c77d44632bc24",
+      "name": "eq_events_snow3_15_pants_lord15",
+      "stats": [
+        {
+          "name": "property_InfantryHealth_gear",
+          "progression": "prog_gear_Event9_InfantryHealth_15"
+        },
+        {
+          "name": "property_InfantryDefense_gear",
+          "progression": "prog_gear_Event9_InfantryDefense_15"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayer_15"
+        },
+        {
+          "name": "property_InfantryAttack_gear",
+          "progression": "prog_gear_Event9_InfantryAttack_15"
+        }
+      ]
+    },
+    {
+      "id": "ab2fb057d11d3072",
+      "name": "eq_events_snow3_15_ring_lord15",
+      "stats": [
+        {
+          "name": "property_InfantryAttack_gear",
+          "progression": "prog_gear_Event9_InfantryAttack_15"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_InfantryDefenseVsPlayersRanged_15"
+        },
+        {
+          "name": "property_InfantryHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9_InfantryHealthVsPlayerSeatOfPower_15"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayersRanged_15"
+        }
+      ]
+    },
+    {
+      "id": "cdebdc2be3c6edc3",
+      "name": "eq_events_snow3_15_weapon_lord15",
+      "stats": [
+        {
+          "name": "property_InfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayer_15"
+        },
+        {
+          "name": "property_InfantryAttack_gear",
+          "progression": "prog_gear_Event9_InfantryAttack_15"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarchSpeedVsPlayer_15"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event9_MaxMarchSize_15"
+        }
+      ]
+    },
+    {
+      "id": "41238977ac4552a4",
+      "name": "eq_events_snow3_20_boots_lord20",
+      "stats": [
+        {
+          "name": "property_InfantryDefense_gear",
+          "progression": "prog_gear_Event9_InfantryDefense_20"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarchSpeedVsPlayer_20"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayersRanged_20"
+        },
+        {
+          "name": "property_InfantryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event9_InfantryHealthVsPlayer_20"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayerSeatOfPower_20"
+        }
+      ]
+    },
+    {
+      "id": "e690c9ffbc12914",
+      "name": "eq_events_snow3_20_chest_lord20",
+      "stats": [
+        {
+          "name": "property_InfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayer_20"
+        },
+        {
+          "name": "property_InfantryHealth_gear",
+          "progression": "prog_gear_Event9_InfantryHealth_20"
+        },
+        {
+          "name": "property_MarcherInfantryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherInfantryHealthVsPlayer_20"
+        },
+        {
+          "name": "property_MarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event9_MarchingSpeedVsSeatOfPower_20"
+        },
+        {
+          "name": "property_InfantryDefense_gear",
+          "progression": "prog_gear_Event9_InfantryDefense_20"
+        }
+      ]
+    },
+    {
+      "id": "242bbf81c7f4e1bb",
+      "name": "eq_events_snow3_20_helmet_lord20",
+      "stats": [
+        {
+          "name": "property_InfantryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event9_InfantryHealthVsPlayer_20"
+        },
+        {
+          "name": "property_MarcherInfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherInfantryAttackVsPlayer_20"
+        },
+        {
+          "name": "property_InfantryHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9_InfantryHealthVsPlayerSeatOfPower_20"
+        },
+        {
+          "name": "property_MarcherInfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherInfantryDefenseVsPlayer_20"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayersRanged_20"
+        }
+      ]
+    },
+    {
+      "id": "d64e1b825db72df5",
+      "name": "eq_events_snow3_20_pants_lord20",
+      "stats": [
+        {
+          "name": "property_InfantryHealth_gear",
+          "progression": "prog_gear_Event9_InfantryHealth_20"
+        },
+        {
+          "name": "property_InfantryDefense_gear",
+          "progression": "prog_gear_Event9_InfantryDefense_20"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayer_20"
+        },
+        {
+          "name": "property_InfantryAttack_gear",
+          "progression": "prog_gear_Event9_InfantryAttack_20"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarchSpeedVsPlayer_20"
+        }
+      ]
+    },
+    {
+      "id": "d7e6f2e8b4ed80e8",
+      "name": "eq_events_snow3_20_ring_lord20",
+      "stats": [
+        {
+          "name": "property_InfantryAttack_gear",
+          "progression": "prog_gear_Event9_InfantryAttack_20"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_InfantryDefenseVsPlayersRanged_20"
+        },
+        {
+          "name": "property_InfantryHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9_InfantryHealthVsPlayerSeatOfPower_20"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayersRanged_20"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event9_MaxMarchSize_20"
+        }
+      ]
+    },
+    {
+      "id": "9f13b95fcd414f99",
+      "name": "eq_events_snow3_20_weapon_lord20",
+      "stats": [
+        {
+          "name": "property_InfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayer_20"
+        },
+        {
+          "name": "property_InfantryAttack_gear",
+          "progression": "prog_gear_Event9_InfantryAttack_20"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarchSpeedVsPlayer_20"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event9_MaxMarchSize_20"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event9_InfantryDefenseVsPlayer_20"
+        }
+      ]
+    },
+    {
+      "id": "cb49f1a55f16b754",
+      "name": "eq_events_snow3_25_boots_lord25",
+      "stats": [
+        {
+          "name": "property_InfantryDefense_gear",
+          "progression": "prog_gear_Event9_InfantryDefense_25"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarchSpeedVsPlayer_25"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayersRanged_25"
+        },
+        {
+          "name": "property_InfantryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event9_InfantryHealthVsPlayer_25"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayerSeatOfPower_25"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9.5_InfantryDefenseVsPlayersRanged_25"
+        }
+      ]
+    },
+    {
+      "id": "8403744d0892cce4",
+      "name": "eq_events_snow3_25_chest_lord25",
+      "stats": [
+        {
+          "name": "property_InfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayer_25"
+        },
+        {
+          "name": "property_InfantryHealth_gear",
+          "progression": "prog_gear_Event9_InfantryHealth_25"
+        },
+        {
+          "name": "property_MarcherInfantryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherInfantryHealthVsPlayer_25"
+        },
+        {
+          "name": "property_MarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event9_MarchingSpeedVsSeatOfPower_25"
+        },
+        {
+          "name": "property_InfantryDefense_gear",
+          "progression": "prog_gear_Event9_InfantryDefense_25"
+        },
+        {
+          "name": "property_InfantryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event9.5_InfantryHealthVsPlayer_25"
+        }
+      ]
+    },
+    {
+      "id": "13e1f819203757de",
+      "name": "eq_events_snow3_25_helmet_lord25",
+      "stats": [
+        {
+          "name": "property_InfantryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event9_InfantryHealthVsPlayer_25"
+        },
+        {
+          "name": "property_MarcherInfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherInfantryAttackVsPlayer_25"
+        },
+        {
+          "name": "property_InfantryHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9_InfantryHealthVsPlayerSeatOfPower_25"
+        },
+        {
+          "name": "property_MarcherInfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherInfantryDefenseVsPlayer_25"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayersRanged_25"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9.5_InfantryAttackVsPlayerSeatOfPower_25"
+        }
+      ]
+    },
+    {
+      "id": "5c246350aee4c805",
+      "name": "eq_events_snow3_25_pants_lord25",
+      "stats": [
+        {
+          "name": "property_InfantryHealth_gear",
+          "progression": "prog_gear_Event9_InfantryHealth_25"
+        },
+        {
+          "name": "property_InfantryDefense_gear",
+          "progression": "prog_gear_Event9_InfantryDefense_25"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayer_25"
+        },
+        {
+          "name": "property_InfantryAttack_gear",
+          "progression": "prog_gear_Event9_InfantryAttack_25"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarchSpeedVsPlayer_25"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event9.5_MaxMarchSize_25"
+        }
+      ]
+    },
+    {
+      "id": "a8818fc60d21b039",
+      "name": "eq_events_snow3_25_ring_lord25",
+      "stats": [
+        {
+          "name": "property_InfantryAttack_gear",
+          "progression": "prog_gear_Event9_InfantryAttack_25"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_InfantryDefenseVsPlayersRanged_25"
+        },
+        {
+          "name": "property_InfantryHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9_InfantryHealthVsPlayerSeatOfPower_25"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayersRanged_25"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event9_MaxMarchSize_25"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event9.5_InfantryDefenseVsPlayer_25"
+        }
+      ]
+    },
+    {
+      "id": "a8d9fec72a82f9fc",
+      "name": "eq_events_snow3_25_weapon_lord25",
+      "stats": [
+        {
+          "name": "property_InfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayer_25"
+        },
+        {
+          "name": "property_InfantryAttack_gear",
+          "progression": "prog_gear_Event9_InfantryAttack_25"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarchSpeedVsPlayer_25"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event9_MaxMarchSize_25"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event9_InfantryDefenseVsPlayer_25"
+        },
+        {
+          "name": "property_InfantryHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9.5_InfantryHealthVsPlayerSeatOfPower_25"
+        }
+      ]
+    },
+    {
+      "id": "987dbb27336dbba2",
+      "name": "eq_events_snow3_30_boots_lord30",
+      "stats": [
+        {
+          "name": "property_InfantryDefense_gear",
+          "progression": "prog_gear_Event9_InfantryDefense_30"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarchSpeedVsPlayer_30"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayersRanged_30"
+        },
+        {
+          "name": "property_InfantryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event9_InfantryHealthVsPlayer_30"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayerSeatOfPower_30"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9.5_InfantryDefenseVsPlayersRanged_30"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9_InfantryDefenseVsPlayerSeatOfPower_30"
+        }
+      ]
+    },
+    {
+      "id": "d7373ecf64e9c012",
+      "name": "eq_events_snow3_30_chest_lord30",
+      "stats": [
+        {
+          "name": "property_InfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayer_30"
+        },
+        {
+          "name": "property_InfantryHealth_gear",
+          "progression": "prog_gear_Event9_InfantryHealth_30"
+        },
+        {
+          "name": "property_MarcherInfantryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherInfantryHealthVsPlayer_30"
+        },
+        {
+          "name": "property_MarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event9_MarchingSpeedVsSeatOfPower_30"
+        },
+        {
+          "name": "property_InfantryDefense_gear",
+          "progression": "prog_gear_Event9_InfantryDefense_30"
+        },
+        {
+          "name": "property_InfantryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event9.5_InfantryHealthVsPlayer_30"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayersRanged_30"
+        }
+      ]
+    },
+    {
+      "id": "73a5e2580c8edae",
+      "name": "eq_events_snow3_30_helmet_lord30",
+      "stats": [
+        {
+          "name": "property_InfantryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event9_InfantryHealthVsPlayer_30"
+        },
+        {
+          "name": "property_MarcherInfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherInfantryAttackVsPlayer_30"
+        },
+        {
+          "name": "property_InfantryHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9_InfantryHealthVsPlayerSeatOfPower_30"
+        },
+        {
+          "name": "property_MarcherInfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherInfantryDefenseVsPlayer_30"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayersRanged_30"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9.5_InfantryAttackVsPlayerSeatOfPower_30"
+        },
+        {
+          "name": "property_MarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event9_MarchingSpeedVsSeatOfPower_30"
+        }
+      ]
+    },
+    {
+      "id": "f1029d2c29fc4f3",
+      "name": "eq_events_snow3_30_pants_lord30",
+      "stats": [
+        {
+          "name": "property_InfantryHealth_gear",
+          "progression": "prog_gear_Event9_InfantryHealth_30"
+        },
+        {
+          "name": "property_InfantryDefense_gear",
+          "progression": "prog_gear_Event9_InfantryDefense_30"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayer_30"
+        },
+        {
+          "name": "property_InfantryAttack_gear",
+          "progression": "prog_gear_Event9_InfantryAttack_30"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarchSpeedVsPlayer_30"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event9.5_MaxMarchSize_30"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9_InfantryDefenseVsPlayerSeatOfPower_30"
+        }
+      ]
+    },
+    {
+      "id": "d6831867ff0600d1",
+      "name": "eq_events_snow3_30_ring_lord30",
+      "stats": [
+        {
+          "name": "property_InfantryAttack_gear",
+          "progression": "prog_gear_Event9_InfantryAttack_30"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_InfantryDefenseVsPlayersRanged_30"
+        },
+        {
+          "name": "property_InfantryHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9_InfantryHealthVsPlayerSeatOfPower_30"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayersRanged_30"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event9_MaxMarchSize_30"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event9.5_InfantryDefenseVsPlayer_30"
+        },
+        {
+          "name": "property_MarcherInfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherInfantryAttackVsPlayer_30"
+        }
+      ]
+    },
+    {
+      "id": "bc0258fb8a7d438c",
+      "name": "eq_events_snow3_30_weapon_lord30",
+      "stats": [
+        {
+          "name": "property_InfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayer_30"
+        },
+        {
+          "name": "property_InfantryAttack_gear",
+          "progression": "prog_gear_Event9_InfantryAttack_30"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarchSpeedVsPlayer_30"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event9_MaxMarchSize_30"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event9_InfantryDefenseVsPlayer_30"
+        },
+        {
+          "name": "property_InfantryHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9.5_InfantryHealthVsPlayerSeatOfPower_30"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayersRanged_30"
+        }
+      ]
+    },
+    {
+      "id": "1217c3f5c03e5e52",
+      "name": "eq_events_snow3_35_boots_lord35",
+      "stats": [
+        {
+          "name": "property_InfantryDefense_gear",
+          "progression": "prog_gear_Event9_InfantryDefense_35"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarchSpeedVsPlayer_35"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayersRanged_35"
+        },
+        {
+          "name": "property_InfantryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event9_InfantryHealthVsPlayer_35"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayerSeatOfPower_35"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9.5_InfantryDefenseVsPlayersRanged_35"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9_InfantryDefenseVsPlayerSeatOfPower_35"
+        },
+        {
+          "name": "property_InfantryHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9.5_InfantryHealthVsPlayerSeatOfPower_35"
+        }
+      ]
+    },
+    {
+      "id": "5d5d461d97ba25e2",
+      "name": "eq_events_snow3_35_chest_lord35",
+      "stats": [
+        {
+          "name": "property_InfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayer_35"
+        },
+        {
+          "name": "property_InfantryHealth_gear",
+          "progression": "prog_gear_Event9_InfantryHealth_35"
+        },
+        {
+          "name": "property_MarcherInfantryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherInfantryHealthVsPlayer_35"
+        },
+        {
+          "name": "property_MarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event9_MarchingSpeedVsSeatOfPower_35"
+        },
+        {
+          "name": "property_InfantryDefense_gear",
+          "progression": "prog_gear_Event9_InfantryDefense_35"
+        },
+        {
+          "name": "property_InfantryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event9.5_InfantryHealthVsPlayer_35"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayersRanged_35"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event9.5_InfantryDefenseVsPlayer_35"
+        }
+      ]
+    },
+    {
+      "id": "30f019bd670b5bcb",
+      "name": "eq_events_snow3_35_helmet_lord35",
+      "stats": [
+        {
+          "name": "property_InfantryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event9_InfantryHealthVsPlayer_35"
+        },
+        {
+          "name": "property_MarcherInfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherInfantryAttackVsPlayer_35"
+        },
+        {
+          "name": "property_InfantryHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9_InfantryHealthVsPlayerSeatOfPower_35"
+        },
+        {
+          "name": "property_MarcherInfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherInfantryDefenseVsPlayer_35"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayersRanged_35"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9.5_InfantryAttackVsPlayerSeatOfPower_35"
+        },
+        {
+          "name": "property_MarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event9_MarchingSpeedVsSeatOfPower_35"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event9.5_MaxMarchSize_35"
+        }
+      ]
+    },
+    {
+      "id": "857a510031cc2103",
+      "name": "eq_events_snow3_35_pants_lord35",
+      "stats": [
+        {
+          "name": "property_InfantryHealth_gear",
+          "progression": "prog_gear_Event9_InfantryHealth_35"
+        },
+        {
+          "name": "property_InfantryDefense_gear",
+          "progression": "prog_gear_Event9_InfantryDefense_35"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayer_35"
+        },
+        {
+          "name": "property_InfantryAttack_gear",
+          "progression": "prog_gear_Event9_InfantryAttack_35"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarchSpeedVsPlayer_35"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event9.5_MaxMarchSize_35"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9_InfantryDefenseVsPlayerSeatOfPower_35"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9.5_InfantryAttackVsPlayerSeatOfPower_35"
+        }
+      ]
+    },
+    {
+      "id": "a9e4654946ca3000",
+      "name": "eq_events_snow3_35_ring_lord35",
+      "stats": [
+        {
+          "name": "property_InfantryAttack_gear",
+          "progression": "prog_gear_Event9_InfantryAttack_35"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_InfantryDefenseVsPlayersRanged_35"
+        },
+        {
+          "name": "property_InfantryHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9_InfantryHealthVsPlayerSeatOfPower_35"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayersRanged_35"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event9_MaxMarchSize_35"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event9.5_InfantryDefenseVsPlayer_35"
+        },
+        {
+          "name": "property_MarcherInfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherInfantryAttackVsPlayer_35"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9.5_InfantryAttackVsPlayer_35"
+        }
+      ]
+    },
+    {
+      "id": "8bc81f636dbef5e9",
+      "name": "eq_events_snow3_35_weapon_lord35",
+      "stats": [
+        {
+          "name": "property_InfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayer_35"
+        },
+        {
+          "name": "property_InfantryAttack_gear",
+          "progression": "prog_gear_Event9_InfantryAttack_35"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarchSpeedVsPlayer_35"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event9_MaxMarchSize_35"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event9_InfantryDefenseVsPlayer_35"
+        },
+        {
+          "name": "property_InfantryHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9.5_InfantryHealthVsPlayerSeatOfPower_35"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayersRanged_35"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9.5_InfantryAttackVsPlayerSeatOfPower_35"
+        }
+      ]
+    },
+    {
+      "id": "1129e20b3446f5cd",
+      "name": "eq_events_snow3_40_boots_lord40",
+      "stats": [
+        {
+          "name": "property_InfantryDefense_gear",
+          "progression": "prog_gear_Event9_InfantryDefense_40"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarchSpeedVsPlayer_40"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayersRanged_40"
+        },
+        {
+          "name": "property_InfantryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event9_InfantryHealthVsPlayer_40"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayerSeatOfPower_40"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9.5_InfantryDefenseVsPlayersRanged_40"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9_InfantryDefenseVsPlayerSeatOfPower_40"
+        },
+        {
+          "name": "property_InfantryHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9.5_InfantryHealthVsPlayerSeatOfPower_40"
+        },
+        {
+          "name": "property_MarcherInfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherInfantryAttackVsPlayer_40"
+        }
+      ]
+    },
+    {
+      "id": "5e6367e363c28e7d",
+      "name": "eq_events_snow3_40_chest_lord40",
+      "stats": [
+        {
+          "name": "property_InfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayer_40"
+        },
+        {
+          "name": "property_InfantryHealth_gear",
+          "progression": "prog_gear_Event9_InfantryHealth_40"
+        },
+        {
+          "name": "property_MarcherInfantryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherInfantryHealthVsPlayer_40"
+        },
+        {
+          "name": "property_MarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event9_MarchingSpeedVsSeatOfPower_40"
+        },
+        {
+          "name": "property_InfantryDefense_gear",
+          "progression": "prog_gear_Event9_InfantryDefense_40"
+        },
+        {
+          "name": "property_InfantryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event9.5_InfantryHealthVsPlayer_40"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayersRanged_40"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event9.5_InfantryDefenseVsPlayer_40"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event9_MaxMarchSize_40"
+        }
+      ]
+    },
+    {
+      "id": "ee4ffa58557cc9c5",
+      "name": "eq_events_snow3_40_helmet_lord40",
+      "stats": [
+        {
+          "name": "property_InfantryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event9_InfantryHealthVsPlayer_40"
+        },
+        {
+          "name": "property_MarcherInfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherInfantryAttackVsPlayer_40"
+        },
+        {
+          "name": "property_InfantryHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9_InfantryHealthVsPlayerSeatOfPower_40"
+        },
+        {
+          "name": "property_MarcherInfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherInfantryDefenseVsPlayer_40"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayersRanged_40"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9.5_InfantryAttackVsPlayerSeatOfPower_40"
+        },
+        {
+          "name": "property_MarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event9_MarchingSpeedVsSeatOfPower_40"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event9.5_MaxMarchSize_40"
+        },
+        {
+          "name": "property_InfantryAttack_gear",
+          "progression": "prog_gear_Event9_InfantryAttack_40"
+        }
+      ]
+    },
+    {
+      "id": "864470fec5b48a9c",
+      "name": "eq_events_snow3_40_pants_lord40",
+      "stats": [
+        {
+          "name": "property_InfantryHealth_gear",
+          "progression": "prog_gear_Event9_InfantryHealth_40"
+        },
+        {
+          "name": "property_InfantryDefense_gear",
+          "progression": "prog_gear_Event9_InfantryDefense_40"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayer_40"
+        },
+        {
+          "name": "property_InfantryAttack_gear",
+          "progression": "prog_gear_Event9_InfantryAttack_40"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarchSpeedVsPlayer_40"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event9.5_MaxMarchSize_40"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9_InfantryDefenseVsPlayerSeatOfPower_40"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9.5_InfantryAttackVsPlayerSeatOfPower_40"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayersRanged_40"
+        }
+      ]
+    },
+    {
+      "id": "d0ba8dcb0c94807e",
+      "name": "eq_events_snow3_40_ring_lord40",
+      "stats": [
+        {
+          "name": "property_InfantryAttack_gear",
+          "progression": "prog_gear_Event9_InfantryAttack_40"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_InfantryDefenseVsPlayersRanged_40"
+        },
+        {
+          "name": "property_InfantryHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9_InfantryHealthVsPlayerSeatOfPower_40"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayersRanged_40"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event9_MaxMarchSize_40"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event9.5_InfantryDefenseVsPlayer_40"
+        },
+        {
+          "name": "property_MarcherInfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherInfantryAttackVsPlayer_40"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9.5_InfantryAttackVsPlayer_40"
+        },
+        {
+          "name": "property_InfantryHealth_gear",
+          "progression": "prog_gear_Event9_InfantryHealth_40"
+        }
+      ]
+    },
+    {
+      "id": "5577fc865fc967e7",
+      "name": "eq_events_snow3_40_weapon_lord40",
+      "stats": [
+        {
+          "name": "property_InfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayer_40"
+        },
+        {
+          "name": "property_InfantryAttack_gear",
+          "progression": "prog_gear_Event9_InfantryAttack_40"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarchSpeedVsPlayer_40"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event9_MaxMarchSize_40"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event9_InfantryDefenseVsPlayer_40"
+        },
+        {
+          "name": "property_InfantryHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9.5_InfantryHealthVsPlayerSeatOfPower_40"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayersRanged_40"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9.5_InfantryAttackVsPlayerSeatOfPower_40"
+        },
+        {
+          "name": "property_InfantryDefense_gear",
+          "progression": "prog_gear_Event9_InfantryDefense_40"
+        }
+      ]
+    },
+    {
+      "id": "9b439ad9c715103d",
+      "name": "eq_events_snow3_45_boots_lord45",
+      "stats": [
+        {
+          "name": "property_InfantryDefense_gear",
+          "progression": "prog_gear_Event9_InfantryDefense_45"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarchSpeedVsPlayer_45"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayersRanged_45"
+        },
+        {
+          "name": "property_InfantryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event9_InfantryHealthVsPlayer_45"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayerSeatOfPower_45"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9.5_InfantryDefenseVsPlayersRanged_45"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9_InfantryDefenseVsPlayerSeatOfPower_45"
+        },
+        {
+          "name": "property_InfantryHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9.5_InfantryHealthVsPlayerSeatOfPower_45"
+        },
+        {
+          "name": "property_MarcherInfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherInfantryAttackVsPlayer_45"
+        }
+      ]
+    },
+    {
+      "id": "d4091f3190916b8d",
+      "name": "eq_events_snow3_45_chest_lord45",
+      "stats": [
+        {
+          "name": "property_InfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayer_45"
+        },
+        {
+          "name": "property_InfantryHealth_gear",
+          "progression": "prog_gear_Event9_InfantryHealth_45"
+        },
+        {
+          "name": "property_MarcherInfantryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherInfantryHealthVsPlayer_45"
+        },
+        {
+          "name": "property_MarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event9_MarchingSpeedVsSeatOfPower_45"
+        },
+        {
+          "name": "property_InfantryDefense_gear",
+          "progression": "prog_gear_Event9_InfantryDefense_45"
+        },
+        {
+          "name": "property_InfantryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event9.5_InfantryHealthVsPlayer_45"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayersRanged_45"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event9.5_InfantryDefenseVsPlayer_45"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event9_MaxMarchSize_45"
+        }
+      ]
+    },
+    {
+      "id": "d985bdc0b2bf7fa0",
+      "name": "eq_events_snow3_45_helmet_lord45",
+      "stats": [
+        {
+          "name": "property_InfantryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event9_InfantryHealthVsPlayer_45"
+        },
+        {
+          "name": "property_MarcherInfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherInfantryAttackVsPlayer_45"
+        },
+        {
+          "name": "property_InfantryHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9_InfantryHealthVsPlayerSeatOfPower_45"
+        },
+        {
+          "name": "property_MarcherInfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherInfantryDefenseVsPlayer_45"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayersRanged_45"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9.5_InfantryAttackVsPlayerSeatOfPower_45"
+        },
+        {
+          "name": "property_MarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event9_MarchingSpeedVsSeatOfPower_45"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event9.5_MaxMarchSize_45"
+        },
+        {
+          "name": "property_InfantryAttack_gear",
+          "progression": "prog_gear_Event9_InfantryAttack_45"
+        }
+      ]
+    },
+    {
+      "id": "c2e082c36e76f6c",
+      "name": "eq_events_snow3_45_pants_lord45",
+      "stats": [
+        {
+          "name": "property_InfantryHealth_gear",
+          "progression": "prog_gear_Event9_InfantryHealth_45"
+        },
+        {
+          "name": "property_InfantryDefense_gear",
+          "progression": "prog_gear_Event9_InfantryDefense_45"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayer_45"
+        },
+        {
+          "name": "property_InfantryAttack_gear",
+          "progression": "prog_gear_Event9_InfantryAttack_45"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarchSpeedVsPlayer_45"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event9.5_MaxMarchSize_45"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9_InfantryDefenseVsPlayerSeatOfPower_45"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9.5_InfantryAttackVsPlayerSeatOfPower_45"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayersRanged_45"
+        }
+      ]
+    },
+    {
+      "id": "afddf0e5b558b0af",
+      "name": "eq_events_snow3_45_ring_lord45",
+      "stats": [
+        {
+          "name": "property_InfantryAttack_gear",
+          "progression": "prog_gear_Event9_InfantryAttack_45"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_InfantryDefenseVsPlayersRanged_45"
+        },
+        {
+          "name": "property_InfantryHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9_InfantryHealthVsPlayerSeatOfPower_45"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayersRanged_45"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event9_MaxMarchSize_45"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event9.5_InfantryDefenseVsPlayer_45"
+        },
+        {
+          "name": "property_MarcherInfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherInfantryAttackVsPlayer_45"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9.5_InfantryAttackVsPlayer_45"
+        },
+        {
+          "name": "property_InfantryHealth_gear",
+          "progression": "prog_gear_Event9_InfantryHealth_45"
+        }
+      ]
+    },
+    {
+      "id": "62bdbb1eb80ad182",
+      "name": "eq_events_snow3_45_weapon_lord45",
+      "stats": [
+        {
+          "name": "property_InfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayer_45"
+        },
+        {
+          "name": "property_InfantryAttack_gear",
+          "progression": "prog_gear_Event9_InfantryAttack_45"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarchSpeedVsPlayer_45"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event9_MaxMarchSize_45"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event9_InfantryDefenseVsPlayer_45"
+        },
+        {
+          "name": "property_InfantryHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9.5_InfantryHealthVsPlayerSeatOfPower_45"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayersRanged_45"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9.5_InfantryAttackVsPlayerSeatOfPower_45"
+        },
+        {
+          "name": "property_InfantryDefense_gear",
+          "progression": "prog_gear_Event9_InfantryDefense_45"
+        }
+      ]
+    },
+    {
+      "id": "c877d05bab6e1ccb",
+      "name": "eq_events_snow3_50_boots_lord50",
+      "stats": [
+        {
+          "name": "property_InfantryDefense_gear",
+          "progression": "prog_gear_Event9_InfantryDefense_50"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarchSpeedVsPlayer_50"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayersRanged_50"
+        },
+        {
+          "name": "property_InfantryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event9_InfantryHealthVsPlayer_50"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayerSeatOfPower_50"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9.5_InfantryDefenseVsPlayersRanged_50"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9_InfantryDefenseVsPlayerSeatOfPower_50"
+        },
+        {
+          "name": "property_InfantryHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9.5_InfantryHealthVsPlayerSeatOfPower_50"
+        },
+        {
+          "name": "property_MarcherInfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherInfantryAttackVsPlayer_50"
+        }
+      ]
+    },
+    {
+      "id": "873d55b3fcea677b",
+      "name": "eq_events_snow3_50_chest_lord50",
+      "stats": [
+        {
+          "name": "property_InfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayer_50"
+        },
+        {
+          "name": "property_InfantryHealth_gear",
+          "progression": "prog_gear_Event9_InfantryHealth_50"
+        },
+        {
+          "name": "property_MarcherInfantryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherInfantryHealthVsPlayer_50"
+        },
+        {
+          "name": "property_MarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event9_MarchingSpeedVsSeatOfPower_50"
+        },
+        {
+          "name": "property_InfantryDefense_gear",
+          "progression": "prog_gear_Event9_InfantryDefense_50"
+        },
+        {
+          "name": "property_InfantryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event9.5_InfantryHealthVsPlayer_50"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayersRanged_50"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event9.5_InfantryDefenseVsPlayer_50"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event9_MaxMarchSize_50"
+        }
+      ]
+    },
+    {
+      "id": "cd5e1bfc1240c5d0",
+      "name": "eq_events_snow3_50_helmet_lord50",
+      "stats": [
+        {
+          "name": "property_InfantryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event9_InfantryHealthVsPlayer_50"
+        },
+        {
+          "name": "property_MarcherInfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherInfantryAttackVsPlayer_50"
+        },
+        {
+          "name": "property_InfantryHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9_InfantryHealthVsPlayerSeatOfPower_50"
+        },
+        {
+          "name": "property_MarcherInfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherInfantryDefenseVsPlayer_50"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayersRanged_50"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9.5_InfantryAttackVsPlayerSeatOfPower_50"
+        },
+        {
+          "name": "property_MarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event9_MarchingSpeedVsSeatOfPower_50"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event9.5_MaxMarchSize_50"
+        },
+        {
+          "name": "property_InfantryAttack_gear",
+          "progression": "prog_gear_Event9_InfantryAttack_50"
+        }
+      ]
+    },
+    {
+      "id": "5f1a42ae5a9c639a",
+      "name": "eq_events_snow3_50_pants_lord50",
+      "stats": [
+        {
+          "name": "property_InfantryHealth_gear",
+          "progression": "prog_gear_Event9_InfantryHealth_50"
+        },
+        {
+          "name": "property_InfantryDefense_gear",
+          "progression": "prog_gear_Event9_InfantryDefense_50"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayer_50"
+        },
+        {
+          "name": "property_InfantryAttack_gear",
+          "progression": "prog_gear_Event9_InfantryAttack_50"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarchSpeedVsPlayer_50"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event9.5_MaxMarchSize_50"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9_InfantryDefenseVsPlayerSeatOfPower_50"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9.5_InfantryAttackVsPlayerSeatOfPower_50"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayersRanged_50"
+        }
+      ]
+    },
+    {
+      "id": "d1df6744477f0047",
+      "name": "eq_events_snow3_50_ring_lord50",
+      "stats": [
+        {
+          "name": "property_InfantryAttack_gear",
+          "progression": "prog_gear_Event9_InfantryAttack_50"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_InfantryDefenseVsPlayersRanged_50"
+        },
+        {
+          "name": "property_InfantryHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9_InfantryHealthVsPlayerSeatOfPower_50"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayersRanged_50"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event9_MaxMarchSize_50"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event9.5_InfantryDefenseVsPlayer_50"
+        },
+        {
+          "name": "property_MarcherInfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherInfantryAttackVsPlayer_50"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9.5_InfantryAttackVsPlayer_50"
+        },
+        {
+          "name": "property_InfantryHealth_gear",
+          "progression": "prog_gear_Event9_InfantryHealth_50"
+        }
+      ]
+    },
+    {
+      "id": "76661d2218f56bf2",
+      "name": "eq_events_snow3_50_weapon_lord50",
+      "stats": [
+        {
+          "name": "property_InfantryAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayer_50"
+        },
+        {
+          "name": "property_InfantryAttack_gear",
+          "progression": "prog_gear_Event9_InfantryAttack_50"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarchSpeedVsPlayer_50"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event9_MaxMarchSize_50"
+        },
+        {
+          "name": "property_InfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event9_InfantryDefenseVsPlayer_50"
+        },
+        {
+          "name": "property_InfantryHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9.5_InfantryHealthVsPlayerSeatOfPower_50"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_InfantryAttackVsPlayersRanged_50"
+        },
+        {
+          "name": "property_InfantryAttackVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9.5_InfantryAttackVsPlayerSeatOfPower_50"
+        },
+        {
+          "name": "property_InfantryDefense_gear",
+          "progression": "prog_gear_Event9_InfantryDefense_50"
+        }
+      ]
     }
   ]
 }

@@ -1320,6 +1320,36 @@
           "progression": "prog_armory_bonus_GeneralTroop_1"
         }
       ]
+    },
+    {
+      "id": "8c524d2f95c307a5",
+      "name": "armcol_events_snow3_1",
+      "stats": [
+        {
+          "name": "property_InfantryDefenseVsPlayer_armory",
+          "progression": "prog_armory_bonus_SpecificTroop_1"
+        }
+      ]
+    },
+    {
+      "id": "f94011c44c36f5ab",
+      "name": "armcol_events_snow3_2",
+      "stats": [
+        {
+          "name": "property_InfantryAttackVsPlayersRanged_armory",
+          "progression": "prog_armory_bonus_SpecificTroop_1"
+        }
+      ]
+    },
+    {
+      "id": "d5b1da62fb65a451",
+      "name": "armcol_events_snow3_3",
+      "stats": [
+        {
+          "name": "property_MarcherInfantryHealthVsPlayer_armory",
+          "progression": "prog_armory_bouns_MarcherTroop_1"
+        }
+      ]
     }
   ]
 }
