@@ -70,7 +70,7 @@ function Recipe() {
                 options: { filter: false },
               },
               {
-                name: "Ingredient 1",
+                name: "Ingredient 2",
                 valueType: "text",
                 valueAccessor: (recipe) =>
                   getIngredientValue(recipe.ingredients, 1),

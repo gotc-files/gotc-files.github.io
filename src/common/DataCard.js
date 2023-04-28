@@ -1,8 +1,10 @@
 import Card from "@mui/material/Card";
 import CardContent from "@mui/material/CardContent";
 import CardHeader from "@mui/material/CardHeader";
+import Chip from "@mui/material/Chip";
 import Link from "@mui/material/Link";
 import Slider from "@mui/material/Slider";
+import Stack from "@mui/material/Stack";
 import Table from "@mui/material/Table";
 import TableBody from "@mui/material/TableBody";
 import TableCell from "@mui/material/TableCell";
@@ -75,6 +77,18 @@ function DataCard(props) {
           },
         }}
       >
+        {props.chips && (
+          <Box sx={{ px: 3, py: 1 }}>
+            <Stack direction="row" spacing={1}>
+              {props.chips.map((chip) => (
+                <Chip
+                  label={chip}
+                  sx={{ backgroundColor: props.color, color: "white", px: 0.1 }}
+                />
+              ))}
+            </Stack>
+          </Box>
+        )}
         {props.slider && (
           <Box sx={{ px: 3, py: 0.5 }}>
             <Slider
@@ -91,6 +105,7 @@ function DataCard(props) {
             />
           </Box>
         )}
+
         {props.select && (
           <Box sx={{ px: 1, py: 0.5 }}>
             <SingleChoiceSelect

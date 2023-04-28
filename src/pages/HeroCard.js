@@ -40,6 +40,7 @@ function HeroCard(props) {
         new RegExp(/^n:HERO_\w+_(\w+)_DESC$/)
       )}
       color={RARITY_TO_COLOR_NAME[props.hero.rarity]}
+      chips={props.hero.traits}
       slider={{
         min: 1,
         max: Math.max(props.hero.max_stars * 10),
