@@ -7,14 +7,30 @@ import HeroCard from "./HeroCard";
 
 const RARITY_NAMES = ["Uncommon", "Rare", "Heroic", "Mythic"];
 
+function getAllTraits() {
+  const traits = [...new Set(heroes.flatMap((hero) => hero.traits))];
+  traits.sort();
+  return traits;
+}
+
 function Hero() {
   const [selectedRarityIndices, setSelectedRarityIndices] = useLocalStorage(
     "hero-rarities",
     [2, 3]
   );
 
+  const [selectedHeroTraits, setSelectedHeroTraits] = useLocalStorage(
+    "hero-traits",
+    []
+  );
+
   const selectedHeroes = heroes
     .filter((hero) => selectedRarityIndices.includes(hero.rarity - 1))
+    .filter(
+      (hero) =>
+        !selectedHeroTraits.length ||
+        hero.traits.some((trait) => selectedHeroTraits.includes(trait))
+    )
     .reverse();
 
   return (
@@ -31,6 +47,14 @@ function Hero() {
               setSelectedRarityIndices(
                 selectedRarities.map((rarity) => RARITY_NAMES.indexOf(rarity))
               );
+            }}
+          />
+          <MultiChoicesSelect
+            name="hero-traits"
+            choices={getAllTraits()}
+            selectedChoices={selectedHeroTraits}
+            handleChoicesChange={(selectedHeroTraits) => {
+              setSelectedHeroTraits(selectedHeroTraits);
             }}
           />
         </Grid>
