@@ -8,6 +8,9 @@ const TIME_UNITS = [
 ];
 
 function formatStat(num) {
+  if (num > 1000) {
+    return Math.floor(num);
+  }
   if (num === Math.floor(num) && num > 10) {
     return num;
   }

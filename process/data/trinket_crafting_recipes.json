@@ -11044,6 +11044,257 @@
       "steel_cost": 520000000,
       "template_level": 45,
       "upgrade_time_seconds": 345600
+    },
+    {
+      "id": "cb0f4a0815d31d05",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_snow3_1",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 10
+        }
+      ],
+      "name": "eq_events_trinket_snow3_1_trinket_lord1",
+      "steel_cost": 500,
+      "template_level": 0,
+      "upgrade_time_seconds": 3600
+    },
+    {
+      "id": "c4998204369a36f",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_snow3_1",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 10
+        }
+      ],
+      "name": "eq_events_trinket_snow3_5_trinket_lord5",
+      "steel_cost": 4000,
+      "template_level": 1,
+      "upgrade_time_seconds": 3600
+    },
+    {
+      "id": "c9a41a167fe0fd7e",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_snow3_1",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 20
+        }
+      ],
+      "name": "eq_events_trinket_snow3_10_trinket_lord10",
+      "steel_cost": 36500,
+      "template_level": 5,
+      "upgrade_time_seconds": 7200
+    },
+    {
+      "id": "e86a4543b33aa412",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_snow3_1",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 120
+        }
+      ],
+      "name": "eq_events_trinket_snow3_15_trinket_lord15",
+      "steel_cost": 148000,
+      "template_level": 10,
+      "upgrade_time_seconds": 21600
+    },
+    {
+      "id": "ebd888af319f911b",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_snow3_1",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 400
+        }
+      ],
+      "name": "eq_events_trinket_snow3_20_trinket_lord20",
+      "steel_cost": 534000,
+      "template_level": 15,
+      "upgrade_time_seconds": 43200
+    },
+    {
+      "id": "ca16d7fafd45c877",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_snow3_1",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_hide",
+          "quantity": 1200
+        }
+      ],
+      "name": "eq_events_trinket_snow3_25_trinket_lord25",
+      "steel_cost": 1800000,
+      "template_level": 20,
+      "upgrade_time_seconds": 64800
+    },
+    {
+      "id": "f5f306c7f44ab538",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_snow3_1",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_hide",
+          "quantity": 3000
+        }
+      ],
+      "name": "eq_events_trinket_snow3_30_trinket_lord30",
+      "steel_cost": 5850000,
+      "template_level": 25,
+      "upgrade_time_seconds": 86400
+    },
+    {
+      "id": "d43d59923890ec54",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_snow3_1",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_hide",
+          "quantity": 12000
+        }
+      ],
+      "name": "eq_events_trinket_snow3_35_trinket_lord35",
+      "steel_cost": 18400000,
+      "template_level": 30,
+      "upgrade_time_seconds": 129600
+    },
+    {
+      "id": "af21adddad6149d1",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_snow3_1",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_hide",
+          "quantity": 45000
+        }
+      ],
+      "name": "eq_events_trinket_snow3_40_trinket_lord40",
+      "steel_cost": 56900000,
+      "template_level": 35,
+      "upgrade_time_seconds": 172800
+    },
+    {
+      "id": "8eeff28861bb10bd",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_snow3_1",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_hide",
+          "quantity": 120000
+        }
+      ],
+      "name": "eq_events_trinket_snow3_45_trinket_lord45",
+      "steel_cost": 173000000,
+      "template_level": 40,
+      "upgrade_time_seconds": 259200
+    },
+    {
+      "id": "b10a23b568b46df2",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_snow3_1",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_hide",
+          "quantity": 450000
+        }
+      ],
+      "name": "eq_events_trinket_snow3_50_trinket_lord50",
+      "steel_cost": 520000000,
+      "template_level": 45,
+      "upgrade_time_seconds": 345600
     }
   ]
 }
