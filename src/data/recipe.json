@@ -56970,7 +56970,7 @@
       }
     ],
     "limit": 10,
-    "name": "n:",
+    "name": "n:ALCHEMY_RECIPE_EVENT_NWM_ITEM_RANDOM_TELEPORT_1_NAME",
     "target_quality": 4,
     "target_quantity": 1
   },
@@ -56995,7 +56995,7 @@
       }
     ],
     "limit": 4,
-    "name": "n:",
+    "name": "n:ALCHEMY_RECIPE_EVENT_NWM_ITEM_ADVANCED_TELEPORT_2_1_NAME",
     "target_quality": 5,
     "target_quantity": 1
   },
@@ -57014,7 +57014,7 @@
       }
     ],
     "limit": 2,
-    "name": "n:",
+    "name": "n:ALCHEMY_RECIPE_EVENT_NWM_ITEM_ADVANCED_TELEPORT_1_NAME",
     "target_quality": 5,
     "target_quantity": 1
   },
@@ -57033,7 +57033,7 @@
       }
     ],
     "limit": 0,
-    "name": "n:",
+    "name": "n:ALCHEMY_RECIPE_EVENT_NWM_BOOST_RALLYSLOTVSSOPWALL_ALCHEMY_1_NAME",
     "target_quality": 6,
     "target_quantity": 1800
   },
@@ -57052,7 +57052,7 @@
       }
     ],
     "limit": 0,
-    "name": "n:",
+    "name": "n:ALCHEMY_RECIPE_EVENT_NWM_BOOST_TROOPSDEADTOWOUNDEDVSSOPWALL_ALCHEMY_1_NAME",
     "target_quality": 5,
     "target_quantity": 1800
   },
@@ -57071,7 +57071,7 @@
       }
     ],
     "limit": 0,
-    "name": "n:",
+    "name": "n:ALCHEMY_RECIPE_EVENT_NWM_BOOST_RALLIEDTROOPCAPACITYVSSOPWALL_ALCHEMY_1_NAME",
     "target_quality": 5,
     "target_quantity": 1800
   },
@@ -57090,7 +57090,7 @@
       }
     ],
     "limit": 0,
-    "name": "n:",
+    "name": "n:ALCHEMY_RECIPE_EVENT_NWM_BOOST_MAXMARCHSIZEVSSOPWALL_ALCHEMY_1_NAME",
     "target_quality": 5,
     "target_quantity": 1800
   },
@@ -57109,7 +57109,7 @@
       }
     ],
     "limit": 0,
-    "name": "n:",
+    "name": "n:ALCHEMY_RECIPE_EVENT_NWM_BOOST_TROOPHEALTHVSSOPWALL_ALCHEMY_1_NAME",
     "target_quality": 4,
     "target_quantity": 1800
   },
@@ -57128,7 +57128,7 @@
       }
     ],
     "limit": 0,
-    "name": "n:",
+    "name": "n:ALCHEMY_RECIPE_EVENT_NWM_BOOST_TROOPDEFENSEVSSOPWALL_ALCHEMY_1_NAME",
     "target_quality": 4,
     "target_quantity": 1800
   },
@@ -57147,7 +57147,7 @@
       }
     ],
     "limit": 0,
-    "name": "n:",
+    "name": "n:ALCHEMY_RECIPE_EVENT_NWM_BOOST_TROOPATTACKVSSOPWALL_ALCHEMY_1_NAME",
     "target_quality": 4,
     "target_quantity": 1800
   },
@@ -57166,7 +57166,7 @@
       }
     ],
     "limit": 0,
-    "name": "n:",
+    "name": "n:ALCHEMY_RECIPE_EVENT_NWM_BOOST_MAXMARCHSIZEVSSTRATEGICTERRAIN_ALCHEMY_1_NAME",
     "target_quality": 3,
     "target_quantity": 3600
   },
@@ -57185,7 +57185,7 @@
       }
     ],
     "limit": 0,
-    "name": "n:",
+    "name": "n:ALCHEMY_RECIPE_EVENT_NWM_BOOST_DEFENDERTROOPHEALTHVSPLAYERSTRATEGICTERRAIN_ALCHEMY_1_NAME",
     "target_quality": 2,
     "target_quantity": 3600
   },
@@ -57204,7 +57204,7 @@
       }
     ],
     "limit": 0,
-    "name": "n:",
+    "name": "n:ALCHEMY_RECIPE_EVENT_NWM_BOOST_DEFENDERTROOPDEFENSEVSPLAYERSTRATEGICTERRAIN_ALCHEMY_1_NAME",
     "target_quality": 2,
     "target_quantity": 3600
   },
@@ -57223,13 +57223,13 @@
       }
     ],
     "limit": 0,
-    "name": "n:",
+    "name": "n:ALCHEMY_RECIPE_EVENT_NWM_BOOST_DEFENDERTROOPATTACKVSPLAYERSTRATEGICTERRAIN_ALCHEMY_1_NAME",
     "target_quality": 2,
     "target_quantity": 3600
   },
   {
     "category": "Nodes",
-    "description": "n:",
+    "description": "n:ALCHEMY_RECIPE_EVENT_NWM_ITEM_EVENT_REWARDBOX_NWM_BOOSTS_WALL_L_1_DESCRIPTION",
     "event_name": "nwm",
     "event_points": 100,
     "id": "d6606d6edc7f471",
@@ -57242,13 +57242,13 @@
       }
     ],
     "limit": 0,
-    "name": "n:",
+    "name": "n:ALCHEMY_RECIPE_EVENT_NWM_ITEM_EVENT_REWARDBOX_NWM_BOOSTS_WALL_L_1_NAME",
     "target_quality": 3,
     "target_quantity": 0
   },
   {
     "category": "Nodes",
-    "description": "n:",
+    "description": "n:ALCHEMY_RECIPE_EVENT_NWM_ITEM_EVENT_REWARDBOX_NWM_BOOSTS_WALL_M_1_DESCRIPTION",
     "event_name": "nwm",
     "event_points": 100,
     "id": "c1a96cd1d08d8462",
@@ -57261,13 +57261,13 @@
       }
     ],
     "limit": 0,
-    "name": "n:",
+    "name": "n:ALCHEMY_RECIPE_EVENT_NWM_ITEM_EVENT_REWARDBOX_NWM_BOOSTS_WALL_M_1_NAME",
     "target_quality": 2,
     "target_quantity": 0
   },
   {
     "category": "Nodes",
-    "description": "n:",
+    "description": "n:ALCHEMY_RECIPE_EVENT_NWM_ITEM_EVENT_REWARDBOX_NWM_BOOSTS_WALL_S_1_DESCRIPTION",
     "event_name": "nwm",
     "event_points": 100,
     "id": "59723c69d0f2b129",
@@ -57280,7 +57280,7 @@
       }
     ],
     "limit": 0,
-    "name": "n:",
+    "name": "n:ALCHEMY_RECIPE_EVENT_NWM_ITEM_EVENT_REWARDBOX_NWM_BOOSTS_WALL_S_1_NAME",
     "target_quality": 1,
     "target_quantity": 0
   },
@@ -57299,7 +57299,7 @@
       }
     ],
     "limit": 0,
-    "name": "n:",
+    "name": "Recipe: Strategic Maneuver Gift (Allegiance) x100",
     "target_quality": 1,
     "target_quantity": 100
   },
@@ -57318,7 +57318,7 @@
       }
     ],
     "limit": 0,
-    "name": "n:",
+    "name": "Recipe: Strategic Maneuver Gift (Allegiance) x10",
     "target_quality": 1,
     "target_quantity": 10
   },
@@ -57337,7 +57337,7 @@
       }
     ],
     "limit": 0,
-    "name": "n:",
+    "name": "Recipe: Strategic Maneuver Gift (Allegiance) x1",
     "target_quality": 1,
     "target_quantity": 1
   },
@@ -57656,7 +57656,7 @@
       }
     ],
     "limit": 1,
-    "name": "n:",
+    "name": "Recipe: +20% March Speed vs Seats of Power Boost (24h)",
     "target_quality": 3,
     "target_quantity": 86400
   },
@@ -57675,7 +57675,7 @@
       }
     ],
     "limit": 1,
-    "name": "n:",
+    "name": "Recipe: +5,000 March Size vs Seats of Power Boost (24h)",
     "target_quality": 3,
     "target_quantity": 86400
   },
@@ -57694,7 +57694,7 @@
       }
     ],
     "limit": 1,
-    "name": "n:",
+    "name": "Recipe: +25% Defender Health vs Strategic Terrain Boost (24h)",
     "target_quality": 3,
     "target_quantity": 86400
   },
@@ -57713,7 +57713,7 @@
       }
     ],
     "limit": 1,
-    "name": "n:",
+    "name": "Recipe: +25% Defender Defense vs Strategic Terrain Boost (24h)",
     "target_quality": 3,
     "target_quantity": 86400
   },
@@ -57732,7 +57732,7 @@
       }
     ],
     "limit": 1,
-    "name": "n:",
+    "name": "Recipe: +25% Defender Attack vs Strategic Terrain Boost (24h)",
     "target_quality": 3,
     "target_quantity": 86400
   },
@@ -57751,7 +57751,7 @@
       }
     ],
     "limit": 1,
-    "name": "n:",
+    "name": "Recipe: +5,000 March Size vs Strategic Terrain Boost (24h)",
     "target_quality": 3,
     "target_quantity": 86400
   },
@@ -57879,6 +57879,56 @@
     "name": "Recipe: 2,000 Slate",
     "target_quality": 3,
     "target_quantity": 2000
+  },
+  {
+    "category": "Nodes",
+    "description": "Chest contains 1,000 of one type of Season VIII crafting material, such as Targaryen Embroidery, Gilded Plates, Silk Brocade, Dragon Tempered Fabrics, Ritual Cloths, Dark Steel Plate, and Northern Fox Pelts. It can be opened in your Inventory.",
+    "event_name": "strategicterrain",
+    "event_points": 6000,
+    "id": "62e435d7ee0fa1ac",
+    "ingredients": [
+      {
+        "description": "Dented armor and rusted equipment scavenged from the aftermath of battle.\n\nCan be used in Recipes while any Battlefield Salvage Recipes event is active.",
+        "name": "Battlefield Salvage",
+        "quantity": 2000,
+        "type": "item"
+      },
+      {
+        "description": "A high-value currency from across the Narrow Sea. Most Westerosi will not accept these coins, but merchants will exchange them for goods in the Recipes tab of your Inventory.",
+        "name": "Meereenese Honor",
+        "quantity": 130,
+        "type": "item"
+      }
+    ],
+    "limit": 100,
+    "name": "Recipe: 1,000 Season VIII Event Crafting Materials",
+    "target_quality": 1,
+    "target_quantity": 1
+  },
+  {
+    "category": "Nodes",
+    "description": "Chest contains 1,000 of one type of Season VII crafting material, such as Drowned Leather, Sundry Steel, Linked Mail, Untarnished Leather, Fur-Lined Leather, Boiled Leather, and Luxurious Linen. It can be opened in your Inventory.",
+    "event_name": "strategicterrain",
+    "event_points": 6000,
+    "id": "a699d6e0e18a46f",
+    "ingredients": [
+      {
+        "description": "Dented armor and rusted equipment scavenged from the aftermath of battle.\n\nCan be used in Recipes while any Battlefield Salvage Recipes event is active.",
+        "name": "Battlefield Salvage",
+        "quantity": 2000,
+        "type": "item"
+      },
+      {
+        "description": "A high-value currency from across the Narrow Sea. Most Westerosi will not accept these coins, but merchants will exchange them for goods in the Recipes tab of your Inventory.",
+        "name": "Meereenese Honor",
+        "quantity": 130,
+        "type": "item"
+      }
+    ],
+    "limit": 100,
+    "name": "Recipe: 1,000 Season VII Event Crafting Materials",
+    "target_quality": 1,
+    "target_quantity": 1
   },
   {
     "category": "Nodes",
@@ -58245,7 +58295,7 @@
       }
     ],
     "limit": 1,
-    "name": "n:",
+    "name": "Recipe: +10% Defender Health Boost (30h)",
     "target_quality": 3,
     "target_quantity": 108000
   },
@@ -58264,7 +58314,7 @@
       }
     ],
     "limit": 1,
-    "name": "n:",
+    "name": "Recipe: +10% Defender Defense Boost (30h)",
     "target_quality": 3,
     "target_quantity": 108000
   },
@@ -58283,7 +58333,7 @@
       }
     ],
     "limit": 1,
-    "name": "n:",
+    "name": "Recipe: +10% Defender Attack Boost (30h)",
     "target_quality": 3,
     "target_quantity": 108000
   },
@@ -58302,13 +58352,13 @@
       }
     ],
     "limit": 1,
-    "name": "n:",
+    "name": "Recipe: +5,000 March Size vs Resource Boost (30h)",
     "target_quality": 3,
     "target_quantity": 108000
   },
   {
     "category": "Nodes",
-    "description": "n:",
+    "description": "Contents: \n8h +35% Attack, Defense, and Health vs. Castle Black\n8h +1 Rally Slot vs. Castle Black\n\nPart of the 'Night's Watch Mutiny' Event",
     "event_name": "nwm",
     "event_points": 100,
     "id": "b7f4d759813beac9",
@@ -58321,13 +58371,13 @@
       }
     ],
     "limit": 0,
-    "name": "n:",
+    "name": "Recipe: Legendary Castle Black Boost Chest",
     "target_quality": 6,
     "target_quantity": 0
   },
   {
     "category": "Nodes",
-    "description": "n:",
+    "description": "Contents: \n8h +25% Attack, Defense, and Health vs. Castle Black\n8h +1 Rally Slot vs. Castle Black\n\nPart of the 'Night's Watch Mutiny' Event",
     "event_name": "nwm",
     "event_points": 100,
     "id": "97ca859187dae7d1",
@@ -58340,13 +58390,13 @@
       }
     ],
     "limit": 0,
-    "name": "n:",
+    "name": "Recipe: Epic Castle Black Boost Chest",
     "target_quality": 5,
     "target_quantity": 0
   },
   {
     "category": "Nodes",
-    "description": "n:",
+    "description": "Contents: \n8h +20% Attack, Defense, and Health vs. Castle Black\n8h +1 Rally Slot vs. Castle Black\n\nPart of the 'Night's Watch Mutiny' Event",
     "event_name": "nwm",
     "event_points": 100,
     "id": "4d81f88a78fc7c88",
@@ -58359,13 +58409,13 @@
       }
     ],
     "limit": 0,
-    "name": "n:",
+    "name": "Recipe: Exquisite Castle Black Boost Chest",
     "target_quality": 4,
     "target_quantity": 0
   },
   {
     "category": "Nodes",
-    "description": "n:",
+    "description": "Contents: \n8h +15% Attack, Defense, and Health vs. Castle Black\n\nPart of the 'Night's Watch Mutiny' Event",
     "event_name": "nwm",
     "event_points": 100,
     "id": "814e928d45b60c9b",
@@ -58378,13 +58428,13 @@
       }
     ],
     "limit": 0,
-    "name": "n:",
+    "name": "Recipe: Fine Castle Black Boost Chest",
     "target_quality": 3,
     "target_quantity": 0
   },
   {
     "category": "Nodes",
-    "description": "n:",
+    "description": "Contents: \n8h +10% Attack, Defense, and Health vs. Castle Black\n\nPart of the 'Night's Watch Mutiny' Event",
     "event_name": "nwm",
     "event_points": 100,
     "id": "1995c23545c939d0",
@@ -58397,13 +58447,13 @@
       }
     ],
     "limit": 0,
-    "name": "n:",
+    "name": "Recipe: Common Castle Black Boost Chest",
     "target_quality": 2,
     "target_quantity": 0
   },
   {
     "category": "Nodes",
-    "description": "n:",
+    "description": "Contents: \n8h +5% Attack, Defense, and Health vs. Castle Black\n\nPart of the 'Night's Watch Mutiny' Event",
     "event_name": "nwm",
     "event_points": 100,
     "id": "c3debf2ebaefa289",
@@ -58416,13 +58466,13 @@
       }
     ],
     "limit": 0,
-    "name": "n:",
+    "name": "Recipe: Poor Castle Black Boost Chest",
     "target_quality": 1,
     "target_quantity": 0
   },
   {
     "category": "Nodes",
-    "description": "n:",
+    "description": "Contents: \n8h +35% Attack, Defense, and Health vs. the Nightfort\n8h +1 Rally Slot vs. the Nightfort\n\nPart of the 'Night's Watch Mutiny' Event",
     "event_name": "nwm",
     "event_points": 100,
     "id": "74c403476be38509",
@@ -58435,13 +58485,13 @@
       }
     ],
     "limit": 0,
-    "name": "n:",
+    "name": "Recipe: Legendary Nightfort Boost Chest",
     "target_quality": 6,
     "target_quantity": 0
   },
   {
     "category": "Nodes",
-    "description": "n:",
+    "description": "Contents: \n8h +25% Attack, Defense, and Health vs. the Nightfort\n8h +1 Rally Slot vs. the Nightfort\n\nPart of the 'Night's Watch Mutiny' Event",
     "event_name": "nwm",
     "event_points": 100,
     "id": "7df1674052e3632c",
@@ -58454,13 +58504,13 @@
       }
     ],
     "limit": 0,
-    "name": "n:",
+    "name": "Recipe: Epic Nightfort Boost Chest",
     "target_quality": 5,
     "target_quantity": 0
   },
   {
     "category": "Nodes",
-    "description": "n:",
+    "description": "Contents: \n8h +20% Attack, Defense, and Health vs. the Nightfort\n8h +1 Rally Slot vs. the Nightfort\n\nPart of the 'Night's Watch Mutiny' Event",
     "event_name": "nwm",
     "event_points": 100,
     "id": "52dafeecaa9c9d8e",
@@ -58473,13 +58523,13 @@
       }
     ],
     "limit": 0,
-    "name": "n:",
+    "name": "Recipe: Exquisite Nightfort Boost Chest",
     "target_quality": 4,
     "target_quantity": 0
   },
   {
     "category": "Nodes",
-    "description": "n:",
+    "description": "Contents: \n8h +15% Attack, Defense, and Health vs. the Nightfort\n\nPart of the 'Night's Watch Mutiny' Event",
     "event_name": "nwm",
     "event_points": 100,
     "id": "9e1594eb97d6ed9d",
@@ -58492,13 +58542,13 @@
       }
     ],
     "limit": 0,
-    "name": "n:",
+    "name": "Recipe: Fine Nightfort Boost Chest",
     "target_quality": 3,
     "target_quantity": 0
   },
   {
     "category": "Nodes",
-    "description": "n:",
+    "description": "Contents: \n8h +10% Attack, Defense, and Health vs. the Nightfort\n\nPart of the 'Night's Watch Mutiny' Event",
     "event_name": "nwm",
     "event_points": 100,
     "id": "6cec45397a9d8d6",
@@ -58511,13 +58561,13 @@
       }
     ],
     "limit": 0,
-    "name": "n:",
+    "name": "Recipe: Common Nightfort Boost Chest",
     "target_quality": 2,
     "target_quantity": 0
   },
   {
     "category": "Nodes",
-    "description": "n:",
+    "description": "Contents: \n8h +5% Attack, Defense, and Health vs. the Nightfort\n\nPart of the 'Night's Watch Mutiny' Event",
     "event_name": "nwm",
     "event_points": 100,
     "id": "29e55dff6fd62674",
@@ -58530,13 +58580,13 @@
       }
     ],
     "limit": 0,
-    "name": "n:",
+    "name": "Recipe: Poor Nightfort Boost Chest",
     "target_quality": 1,
     "target_quantity": 0
   },
   {
     "category": "Nodes",
-    "description": "n:",
+    "description": "Contents: \n8h +35% Attack, Defense, and Health vs. the Shadow Tower\n8h +1 Rally Slot vs. the Shadow Tower\n\nPart of the 'Night's Watch Mutiny' Event",
     "event_name": "nwm",
     "event_points": 100,
     "id": "237761589fd15124",
@@ -58549,13 +58599,13 @@
       }
     ],
     "limit": 0,
-    "name": "n:",
+    "name": "Recipe: Legendary Shadow Tower Boost Chest",
     "target_quality": 6,
     "target_quantity": 0
   },
   {
     "category": "Nodes",
-    "description": "n:",
+    "description": "Contents: \n8h +25% Attack, Defense, and Health vs. the Shadow Tower\n8h +1 Rally Slot vs. the Shadow Tower\n\nPart of the 'Night's Watch Mutiny' Event",
     "event_name": "nwm",
     "event_points": 100,
     "id": "bf18e0ef511f120b",
@@ -58568,13 +58618,13 @@
       }
     ],
     "limit": 0,
-    "name": "n:",
+    "name": "Recipe: Epic Shadow Tower Boost Chest",
     "target_quality": 5,
     "target_quantity": 0
   },
   {
     "category": "Nodes",
-    "description": "n:",
+    "description": "Contents: \n8h +20% Attack, Defense, and Health vs. the Shadow Tower\n8h +1 Rally Slot vs. the Shadow Tower\n\nPart of the 'Night's Watch Mutiny' Event",
     "event_name": "nwm",
     "event_points": 100,
     "id": "e308efa11214b158",
@@ -58587,13 +58637,13 @@
       }
     ],
     "limit": 0,
-    "name": "n:",
+    "name": "Recipe: Exquisite Shadow Tower Boost Chest",
     "target_quality": 4,
     "target_quantity": 0
   },
   {
     "category": "Nodes",
-    "description": "n:",
+    "description": "Contents: \n8h +15% Attack, Defense, and Health vs. the Shadow Tower\n\nPart of the 'Night's Watch Mutiny' Event",
     "event_name": "nwm",
     "event_points": 100,
     "id": "2fc785a62f5ec14b",
@@ -58606,13 +58656,13 @@
       }
     ],
     "limit": 0,
-    "name": "n:",
+    "name": "Recipe: Fine Shadow Tower Boost Chest",
     "target_quality": 3,
     "target_quantity": 0
   },
   {
     "category": "Nodes",
-    "description": "n:",
+    "description": "Contents: \n8h +10% Attack, Defense, and Health vs. the Shadow Tower\n\nPart of the 'Night's Watch Mutiny' Event",
     "event_name": "nwm",
     "event_points": 100,
     "id": "b71cd51e2f21f400",
@@ -58625,13 +58675,13 @@
       }
     ],
     "limit": 0,
-    "name": "n:",
+    "name": "Recipe: Common Shadow Tower Boost Chest",
     "target_quality": 2,
     "target_quantity": 0
   },
   {
     "category": "Nodes",
-    "description": "n:",
+    "description": "Contents: \n8h +5% Attack, Defense, and Health vs. the Shadow Tower\n\nPart of the 'Night's Watch Mutiny' Event",
     "event_name": "nwm",
     "event_points": 100,
     "id": "eb0cda506c2a5753",
@@ -58644,13 +58694,13 @@
       }
     ],
     "limit": 0,
-    "name": "n:",
+    "name": "Recipe: Poor Shadow Tower Boost Chest",
     "target_quality": 1,
     "target_quantity": 0
   },
   {
     "category": "Nodes",
-    "description": "n:",
+    "description": "Contents: \n8h +35% Attack, Defense, and Health vs. Eastwatch\n8h +1 Rally Slot vs. Eastwatch\n\nPart of the 'Night's Watch Mutiny' Event",
     "event_name": "nwm",
     "event_points": 100,
     "id": "110b36c04aa4d0f4",
@@ -58663,13 +58713,13 @@
       }
     ],
     "limit": 0,
-    "name": "n:",
+    "name": "Recipe: Legendary Eastwatch Boost Chest",
     "target_quality": 6,
     "target_quantity": 0
   },
   {
     "category": "Nodes",
-    "description": "n:",
+    "description": "Contents: \n8h +25% Attack, Defense, and Health vs. Eastwatch\n8h +1 Rally Slot vs. Eastwatch\n\nPart of the 'Night's Watch Mutiny' Event",
     "event_name": "nwm",
     "event_points": 100,
     "id": "13c9f00ccb86f616",
@@ -58682,13 +58732,13 @@
       }
     ],
     "limit": 0,
-    "name": "n:",
+    "name": "Recipe: Epic Eastwatch Boost Chest",
     "target_quality": 5,
     "target_quantity": 0
   },
   {
     "category": "Nodes",
-    "description": "n:",
+    "description": "Contents: \n8h +20% Attack, Defense, and Health vs. Eastwatch\n8h +1 Rally Slot vs. Eastwatch\n\nPart of the 'Night's Watch Mutiny' Event",
     "event_name": "nwm",
     "event_points": 100,
     "id": "56c1fa123351c56b",
@@ -58701,13 +58751,13 @@
       }
     ],
     "limit": 0,
-    "name": "n:",
+    "name": "Recipe: Exquisite Eastwatch Boost Chest",
     "target_quality": 4,
     "target_quantity": 0
   },
   {
     "category": "Nodes",
-    "description": "n:",
+    "description": "Contents: \n8h +15% Attack, Defense, and Health vs. Eastwatch\n\nPart of the 'Night's Watch Mutiny' Event",
     "event_name": "nwm",
     "event_points": 100,
     "id": "9a0e90150e1bb578",
@@ -58720,13 +58770,13 @@
       }
     ],
     "limit": 0,
-    "name": "n:",
+    "name": "Recipe: Fine Eastwatch Boost Chest",
     "target_quality": 3,
     "target_quantity": 0
   },
   {
     "category": "Nodes",
-    "description": "n:",
+    "description": "Contents: \n8h +10% Attack, Defense, and Health vs. Eastwatch\n\nPart of the 'Night's Watch Mutiny' Event",
     "event_name": "nwm",
     "event_points": 100,
     "id": "2d5c0ad0e648033",
@@ -58739,13 +58789,13 @@
       }
     ],
     "limit": 0,
-    "name": "n:",
+    "name": "Recipe: Common Eastwatch Boost Chest",
     "target_quality": 2,
     "target_quantity": 0
   },
   {
     "category": "Nodes",
-    "description": "n:",
+    "description": "Contents: \n8h +5% Attack, Defense, and Health vs. Eastwatch\n\nPart of the 'Night's Watch Mutiny' Event",
     "event_name": "nwm",
     "event_points": 100,
     "id": "47ddcab3f6b3b34e",
@@ -58758,7 +58808,7 @@
       }
     ],
     "limit": 0,
-    "name": "n:",
+    "name": "Recipe: Poor Eastwatch Boost Chest",
     "target_quality": 1,
     "target_quantity": 0
   },
@@ -58777,7 +58827,7 @@
       }
     ],
     "limit": 0,
-    "name": "n:",
+    "name": "Recipe: 10,000 Basic Strategic Maneuvers",
     "target_quality": 1,
     "target_quantity": 10000
   },
@@ -58796,7 +58846,7 @@
       }
     ],
     "limit": 0,
-    "name": "n:",
+    "name": "Recipe: 100 Basic Strategic Maneuvers",
     "target_quality": 1,
     "target_quantity": 100
   },
@@ -58815,7 +58865,7 @@
       }
     ],
     "limit": 0,
-    "name": "n:",
+    "name": "Recipe: Basic Strategic Maneuver",
     "target_quality": 1,
     "target_quantity": 1
   },
@@ -58840,7 +58890,7 @@
       }
     ],
     "limit": 10,
-    "name": "n:",
+    "name": "Recipe: 100,000 Steel",
     "target_quality": 1,
     "target_quantity": 100000
   },
@@ -58865,7 +58915,7 @@
       }
     ],
     "limit": 10,
-    "name": "n:",
+    "name": "Recipe: 4,000 Marble",
     "target_quality": 4,
     "target_quantity": 4000
   },
@@ -58890,7 +58940,7 @@
       }
     ],
     "limit": 10,
-    "name": "n:",
+    "name": "Recipe: 80,000 Slate",
     "target_quality": 3,
     "target_quantity": 80000
   },
@@ -58915,7 +58965,7 @@
       }
     ],
     "limit": 10,
-    "name": "n:",
+    "name": "Recipe: 100 Red Gold",
     "target_quality": 5,
     "target_quantity": 100
   },
@@ -58940,7 +58990,7 @@
       }
     ],
     "limit": 10,
-    "name": "n:",
+    "name": "Recipe: 300 Pale Steel",
     "target_quality": 4,
     "target_quantity": 300
   },
@@ -58965,7 +59015,7 @@
       }
     ],
     "limit": 10,
-    "name": "n:",
+    "name": "Recipe: 1,500 Scholarly Fragments",
     "target_quality": 3,
     "target_quantity": 1500
   },
@@ -58990,7 +59040,7 @@
       }
     ],
     "limit": 10,
-    "name": "n:",
+    "name": "Recipe: 200 Valyrian Stone",
     "target_quality": 5,
     "target_quantity": 200
   },
@@ -59015,7 +59065,7 @@
       }
     ],
     "limit": 10,
-    "name": "n:",
+    "name": "Recipe: 100 Keystone",
     "target_quality": 5,
     "target_quantity": 100
   },
@@ -59040,7 +59090,7 @@
       }
     ],
     "limit": 10,
-    "name": "n:",
+    "name": "Recipe: 300 Soldierpine",
     "target_quality": 4,
     "target_quantity": 300
   },
@@ -59065,7 +59115,7 @@
       }
     ],
     "limit": 10,
-    "name": "n:",
+    "name": "Recipe: 1,500 Bricks",
     "target_quality": 3,
     "target_quantity": 1500
   },
@@ -59090,7 +59140,7 @@
       }
     ],
     "limit": 10,
-    "name": "n:",
+    "name": "Recipe: 10 Crates of Iron (40k)",
     "target_quality": 3,
     "target_quantity": 10
   },
@@ -59115,7 +59165,7 @@
       }
     ],
     "limit": 10,
-    "name": "n:",
+    "name": "Recipe: 10 Crates of Stone (150k)",
     "target_quality": 3,
     "target_quantity": 10
   },
@@ -59140,7 +59190,7 @@
       }
     ],
     "limit": 10,
-    "name": "n:",
+    "name": "Recipe: 10 Crates of Wood (1M)",
     "target_quality": 3,
     "target_quantity": 10
   },
@@ -59165,7 +59215,7 @@
       }
     ],
     "limit": 10,
-    "name": "n:",
+    "name": "Recipe: 10 Crates of Food (1M)",
     "target_quality": 3,
     "target_quantity": 10
   },
@@ -60957,6 +61007,386 @@
     "name": "Recipe: 11,000,000 Food",
     "target_quality": 1,
     "target_quantity": 11000000
+  },
+  {
+    "category": "Festival",
+    "description": "Spend your Favors of the Seven before the event ends and this recipe disappears!",
+    "event_name": "",
+    "event_points": 0,
+    "id": "8655e4257e577239",
+    "ingredients": [
+      {
+        "description": "An alm to the Seven. Traded by the faithful during festivals honoring the gods to show one's conviction.\n\nCan be used in Recipes during any 'Festival of the Seven' event for additional rewards!",
+        "name": "Favor of the Seven",
+        "quantity": 3750,
+        "type": "item"
+      }
+    ],
+    "limit": 10,
+    "name": "Daenerys Targaryen, <i>Dragon Queen</i>, Relic.",
+    "target_quality": 4,
+    "target_quantity": 2500
+  },
+  {
+    "category": "Festival",
+    "description": "Spend your Favors of the Seven before the event ends and this recipe disappears!",
+    "event_name": "",
+    "event_points": 0,
+    "id": "e7f62af48856d8c2",
+    "ingredients": [
+      {
+        "description": "An alm to the Seven. Traded by the faithful during festivals honoring the gods to show one's conviction.\n\nCan be used in Recipes during any 'Festival of the Seven' event for additional rewards!",
+        "name": "Favor of the Seven",
+        "quantity": 3750,
+        "type": "item"
+      }
+    ],
+    "limit": 10,
+    "name": "Roose Bolton, <i>Lord of the Dreadfort</i>, Relic.",
+    "target_quality": 4,
+    "target_quantity": 2500
+  },
+  {
+    "category": "Festival",
+    "description": "Spend your Favors of the Seven before the event ends and this recipe disappears!",
+    "event_name": "",
+    "event_points": 0,
+    "id": "1fab5126383acf84",
+    "ingredients": [
+      {
+        "description": "An alm to the Seven. Traded by the faithful during festivals honoring the gods to show one's conviction.\n\nCan be used in Recipes during any 'Festival of the Seven' event for additional rewards!",
+        "name": "Favor of the Seven",
+        "quantity": 3750,
+        "type": "item"
+      }
+    ],
+    "limit": 10,
+    "name": "Ellaria Sand, <i>Paramour</i>, Relic.",
+    "target_quality": 4,
+    "target_quantity": 2500
+  },
+  {
+    "category": "Festival",
+    "description": "Spend your Favors of the Seven before the event ends and this recipe disappears!",
+    "event_name": "",
+    "event_points": 0,
+    "id": "d57a6b54fcd09d14",
+    "ingredients": [
+      {
+        "description": "An alm to the Seven. Traded by the faithful during festivals honoring the gods to show one's conviction.\n\nCan be used in Recipes during any 'Festival of the Seven' event for additional rewards!",
+        "name": "Favor of the Seven",
+        "quantity": 3750,
+        "type": "item"
+      }
+    ],
+    "limit": 10,
+    "name": "Tyrion Lannister, <i>Hand of the Queen</i>, Relic.",
+    "target_quality": 4,
+    "target_quantity": 2500
+  },
+  {
+    "category": "Festival",
+    "description": "Spend your Favors of the Seven before the event ends and this recipe disappears!",
+    "event_name": "",
+    "event_points": 0,
+    "id": "70b8da389b896c7",
+    "ingredients": [
+      {
+        "description": "An alm to the Seven. Traded by the faithful during festivals honoring the gods to show one's conviction.\n\nCan be used in Recipes during any 'Festival of the Seven' event for additional rewards!",
+        "name": "Favor of the Seven",
+        "quantity": 3750,
+        "type": "item"
+      }
+    ],
+    "limit": 10,
+    "name": "Tycho Nestoris, <i>Titan of Commerce</i>, Relic.",
+    "target_quality": 4,
+    "target_quantity": 2500
+  },
+  {
+    "category": "Festival",
+    "description": "Spend your Favors of the Seven before the event ends and this recipe disappears!",
+    "event_name": "",
+    "event_points": 0,
+    "id": "6b5361e529e00692",
+    "ingredients": [
+      {
+        "description": "An alm to the Seven. Traded by the faithful during festivals honoring the gods to show one's conviction.\n\nCan be used in Recipes during any 'Festival of the Seven' event for additional rewards!",
+        "name": "Favor of the Seven",
+        "quantity": 3750,
+        "type": "item"
+      }
+    ],
+    "limit": 10,
+    "name": "Robb Stark, <i>Young Wolf</i>, Relic.",
+    "target_quality": 4,
+    "target_quantity": 2500
+  },
+  {
+    "category": "Festival",
+    "description": "Spend your Favors of the Seven before the event ends and this recipe disappears!",
+    "event_name": "",
+    "event_points": 0,
+    "id": "1eae794288a701f7",
+    "ingredients": [
+      {
+        "description": "An alm to the Seven. Traded by the faithful during festivals honoring the gods to show one's conviction.\n\nCan be used in Recipes during any 'Festival of the Seven' event for additional rewards!",
+        "name": "Favor of the Seven",
+        "quantity": 3750,
+        "type": "item"
+      }
+    ],
+    "limit": 10,
+    "name": "Sansa Stark, <i>Lady of the North</i>, Relic.",
+    "target_quality": 4,
+    "target_quantity": 2500
+  },
+  {
+    "category": "Festival",
+    "description": "Spend your Favors of the Seven before the event ends and this recipe disappears!",
+    "event_name": "",
+    "event_points": 0,
+    "id": "ceee8231017339d3",
+    "ingredients": [
+      {
+        "description": "An alm to the Seven. Traded by the faithful during festivals honoring the gods to show one's conviction.\n\nCan be used in Recipes during any 'Festival of the Seven' event for additional rewards!",
+        "name": "Favor of the Seven",
+        "quantity": 3750,
+        "type": "item"
+      }
+    ],
+    "limit": 10,
+    "name": "Jaime Lannister, <i>Kingsguard</i>, Relic.",
+    "target_quality": 4,
+    "target_quantity": 2500
+  },
+  {
+    "category": "Festival",
+    "description": "Spend your Favors of the Seven before the event ends and this recipe disappears!",
+    "event_name": "",
+    "event_points": 0,
+    "id": "f98b35109b02a11a",
+    "ingredients": [
+      {
+        "description": "An alm to the Seven. Traded by the faithful during festivals honoring the gods to show one's conviction.\n\nCan be used in Recipes during any 'Festival of the Seven' event for additional rewards!",
+        "name": "Favor of the Seven",
+        "quantity": 3750,
+        "type": "item"
+      }
+    ],
+    "limit": 10,
+    "name": "Maester Luwin, <i>Loyal Servant</i>, Relic.",
+    "target_quality": 4,
+    "target_quantity": 2500
+  },
+  {
+    "category": "Festival",
+    "description": "Spend your Favors of the Seven before the event ends and this recipe disappears!",
+    "event_name": "",
+    "event_points": 0,
+    "id": "77ccc583a4db70f7",
+    "ingredients": [
+      {
+        "description": "An alm to the Seven. Traded by the faithful during festivals honoring the gods to show one's conviction.\n\nCan be used in Recipes during any 'Festival of the Seven' event for additional rewards!",
+        "name": "Favor of the Seven",
+        "quantity": 3750,
+        "type": "item"
+      }
+    ],
+    "limit": 10,
+    "name": "Anguy, <i>The Archer</i>, Relic.",
+    "target_quality": 4,
+    "target_quantity": 2500
+  },
+  {
+    "category": "Festival",
+    "description": "Spend your Favors of the Seven before the event ends and this recipe disappears!",
+    "event_name": "",
+    "event_points": 0,
+    "id": "b8277b997b2b43c0",
+    "ingredients": [
+      {
+        "description": "An alm to the Seven. Traded by the faithful during festivals honoring the gods to show one's conviction.\n\nCan be used in Recipes during any 'Festival of the Seven' event for additional rewards!",
+        "name": "Favor of the Seven",
+        "quantity": 3750,
+        "type": "item"
+      }
+    ],
+    "limit": 10,
+    "name": "Old Nan, <i>Weaver of Tales</i>, Relic.",
+    "target_quality": 4,
+    "target_quantity": 2500
+  },
+  {
+    "category": "Festival",
+    "description": "Spend your Favors of the Seven before the event ends and this recipe disappears!",
+    "event_name": "",
+    "event_points": 0,
+    "id": "26aec8a4b3cdfd71",
+    "ingredients": [
+      {
+        "description": "An alm to the Seven. Traded by the faithful during festivals honoring the gods to show one's conviction.\n\nCan be used in Recipes during any 'Festival of the Seven' event for additional rewards!",
+        "name": "Favor of the Seven",
+        "quantity": 3750,
+        "type": "item"
+      }
+    ],
+    "limit": 10,
+    "name": "Walder Frey, <i>Lord of the Crossing</i>, Relic.",
+    "target_quality": 4,
+    "target_quantity": 2500
+  },
+  {
+    "category": "Festival",
+    "description": "Spend your Favors of the Seven before the event ends and this recipe disappears!",
+    "event_name": "",
+    "event_points": 0,
+    "id": "9931c2a817ff305",
+    "ingredients": [
+      {
+        "description": "An alm to the Seven. Traded by the faithful during festivals honoring the gods to show one's conviction.\n\nCan be used in Recipes during any 'Festival of the Seven' event for additional rewards!",
+        "name": "Favor of the Seven",
+        "quantity": 3750,
+        "type": "item"
+      }
+    ],
+    "limit": 10,
+    "name": "Leaf, <i>Child of the Forest</i>, Relic.",
+    "target_quality": 4,
+    "target_quantity": 2500
+  },
+  {
+    "category": "Festival",
+    "description": "Spend your Favors of the Seven before the event ends and this recipe disappears!",
+    "event_name": "",
+    "event_points": 0,
+    "id": "3e1c43c5105cd8f9",
+    "ingredients": [
+      {
+        "description": "An alm to the Seven. Traded by the faithful during festivals honoring the gods to show one's conviction.\n\nCan be used in Recipes during any 'Festival of the Seven' event for additional rewards!",
+        "name": "Favor of the Seven",
+        "quantity": 3750,
+        "type": "item"
+      }
+    ],
+    "limit": 10,
+    "name": "Salladhor Saan, <i>Pirate Lord</i>, Relic.",
+    "target_quality": 4,
+    "target_quantity": 2500
+  },
+  {
+    "category": "Festival",
+    "description": "Spend your Favors of the Seven before the event ends and this recipe disappears!",
+    "event_name": "",
+    "event_points": 0,
+    "id": "fd1efe101decd77a",
+    "ingredients": [
+      {
+        "description": "An alm to the Seven. Traded by the faithful during festivals honoring the gods to show one's conviction.\n\nCan be used in Recipes during any 'Festival of the Seven' event for additional rewards!",
+        "name": "Favor of the Seven",
+        "quantity": 3750,
+        "type": "item"
+      }
+    ],
+    "limit": 10,
+    "name": "Balon Greyjoy, <i>Lord Reaper</i>, Relic.",
+    "target_quality": 4,
+    "target_quantity": 2500
+  },
+  {
+    "category": "Festival",
+    "description": "Spend your Favors of the Seven before the event ends and this recipe disappears!",
+    "event_name": "",
+    "event_points": 0,
+    "id": "8343b4d2c40f062d",
+    "ingredients": [
+      {
+        "description": "An alm to the Seven. Traded by the faithful during festivals honoring the gods to show one's conviction.\n\nCan be used in Recipes during any 'Festival of the Seven' event for additional rewards!",
+        "name": "Favor of the Seven",
+        "quantity": 3750,
+        "type": "item"
+      }
+    ],
+    "limit": 10,
+    "name": "Cersei Lannister, <i>Queen Mother</i>, Relic.",
+    "target_quality": 4,
+    "target_quantity": 2500
+  },
+  {
+    "category": "Festival",
+    "description": "Spend your Favors of the Seven before the event ends and this recipe disappears!",
+    "event_name": "",
+    "event_points": 0,
+    "id": "7f643aa3c0cbe244",
+    "ingredients": [
+      {
+        "description": "An alm to the Seven. Traded by the faithful during festivals honoring the gods to show one's conviction.\n\nCan be used in Recipes during any 'Festival of the Seven' event for additional rewards!",
+        "name": "Favor of the Seven",
+        "quantity": 3750,
+        "type": "item"
+      }
+    ],
+    "limit": 10,
+    "name": "Loras Tyrell, <i>Knight of Flowers</i>, Relic.",
+    "target_quality": 4,
+    "target_quantity": 2500
+  },
+  {
+    "category": "Festival",
+    "description": "Spend your Favors of the Seven before the event ends and this recipe disappears!",
+    "event_name": "",
+    "event_points": 0,
+    "id": "7f7e17552093edb0",
+    "ingredients": [
+      {
+        "description": "An alm to the Seven. Traded by the faithful during festivals honoring the gods to show one's conviction.\n\nCan be used in Recipes during any 'Festival of the Seven' event for additional rewards!",
+        "name": "Favor of the Seven",
+        "quantity": 3750,
+        "type": "item"
+      }
+    ],
+    "limit": 10,
+    "name": "Benjen Stark, <i>Cold Hands</i>, Relic.",
+    "target_quality": 4,
+    "target_quantity": 2500
+  },
+  {
+    "category": "Festival",
+    "description": "Spend your Favors of the Seven before the event ends and this recipe disappears!",
+    "event_name": "",
+    "event_points": 0,
+    "id": "2a89a2d0e21a4b1b",
+    "ingredients": [
+      {
+        "description": "An alm to the Seven. Traded by the faithful during festivals honoring the gods to show one's conviction.\n\nCan be used in Recipes during any 'Festival of the Seven' event for additional rewards!",
+        "name": "Favor of the Seven",
+        "quantity": 3750,
+        "type": "item"
+      }
+    ],
+    "limit": 10,
+    "name": "Rhaegar Targaryen, <i>Last Dragon</i>, Relic.",
+    "target_quality": 4,
+    "target_quantity": 2500
+  },
+  {
+    "category": "Festival",
+    "description": "Spend your Favors of the Seven before the event ends and this recipe disappears!",
+    "event_name": "",
+    "event_points": 0,
+    "id": "52ccfb329c867e3d",
+    "ingredients": [
+      {
+        "description": "An alm to the Seven. Traded by the faithful during festivals honoring the gods to show one's conviction.\n\nCan be used in Recipes during any 'Festival of the Seven' event for additional rewards!",
+        "name": "Favor of the Seven",
+        "quantity": 3750,
+        "type": "item"
+      }
+    ],
+    "limit": 10,
+    "name": "Arya Stark, <i>Waterdancer</i>, Relic.",
+    "target_quality": 4,
+    "target_quantity": 2500
   },
   {
     "category": "Festival",

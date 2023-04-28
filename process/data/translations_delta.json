@@ -7,7 +7,7 @@
     },
     {
       "name": "ACTIVITY_DESCRIPTION_JONSNOW2_CRAFT_9",
-      "value": "The fastest mode of travel in Westeros is by dragonback, a privilege few have experienced since before the fall of House Targaryen. That Daenerys would trust Jon to ride one of her dragons shows how much their relationship has grown. The fact that Rhaegal allows him him to approach without protest is perhaps even more meaningful. The dragons may recognize something that Jon has yet to understand himself...\n\nCraft any Season VIII event gear to earn points! Earn materials for select gear sets by defeating creatures in the Married in Secret event, or by trading Flux in the Recipes tab of your Inventory.\n\nSeason VIII Gear Sets: Ironborn Captain, Laughing Knight, Citadel Inquisitor, Fledgling Squire, Winter Survivor, Storm Lord, Iron Keyholder\n\nPart of the 'Wolf Reborn' Event"
+      "value": "The fastest mode of travel in Westeros is by dragonback, a privilege few have experienced since before the fall of House Targaryen. That Daenerys would trust Jon to ride one of her dragons shows how much their relationship has grown. The fact that Rhaegal allows him him to approach without protest is perhaps even more meaningful. The dragons may recognize something that Jon has yet to understand himself...\n\nCraft any Season VIII event gear to earn points! Earn materials for select gear sets by defeating creatures in the Married in Secret event, or by trading Flux in the Recipes tab of your Inventory.\n\nSeason VIII Gear Sets: Targaryen Royal, Valyrian Champion, Festival Carouser, Dragon Rider, Valyrian Bloodmage, Living Mountain, Northern Noble\n\nPart of the 'Wolf Reborn' Event"
     },
     {
       "name": "ACTIVITY_DESCRIPTION_JONSNOW3_CRAFT_1",
@@ -42,8 +42,28 @@
       "value": "The honorable path is never easy, and once again, Jon Snow finds his fealties tested. He has promised his love and loyalty to Queen Daenerys and harbors no desire to rule, and yet the truth of his own lineage threatens to unravel all... if the Night King to the north and Cersei to the south don't destroy all he holds dear first.\n\nLook for these Featured Rewards throughout the The Lost Dragon event:\n* Steel Scales are used to craft the Lost Targaryen gear set!\n* Iron Throne Remembrance Scrap is used to craft the Iron Throne Remembrance trinket!\n* Braavosi Loan trophies can be traded for prizes in the Recipes tab of your Inventory while the Mad Queen or Last Targaryen events are active. Remember to use all your Braavosi Loan trophies before the Last Targaryen event ends!"
     },
     {
+      "name": "ACTIVITY_DESCRIPTION_MTX_ARCGEAR_192",
+      "value": "Prepare for the new Lost Targaryen gear set!"
+    },
+    {
+      "name": "ACTIVITY_DESCRIPTION_MTX_ARCGEAR_193",
+      "value": "Use Steel Scales to craft this commanding gear!"
+    },
+    {
+      "name": "ACTIVITY_DESCRIPTION_MTX_ARCGEAR_194",
+      "value": "\"You are my Queen, now and always.\""
+    },
+    {
+      "name": "ACTIVITY_DESCRIPTION_MTX_ARCGEAR_195",
+      "value": "Craft these pants and stand defiant with your infantry!"
+    },
+    {
       "name": "ACTIVITY_DESCRIPTION_MTX_DRAGON_61",
       "value": "Craft gear for your Dragon with this trove of ancient schematics!"
+    },
+    {
+      "name": "ACTIVITY_DESCRIPTION_MTX_DRAGON_62",
+      "value": "Master the care of your dragon with this cache of mysterious tomes!"
     },
     {
       "name": "ACTIVITY_DESCRIPTION_MTX_GEARFLASH_54",
@@ -146,12 +166,32 @@
       "value": "The Lost Dragon"
     },
     {
+      "name": "ACTIVITY_NAME_MTX_ARCGEAR_192",
+      "value": "Lost Targaryen Daily Delivery"
+    },
+    {
+      "name": "ACTIVITY_NAME_MTX_ARCGEAR_193",
+      "value": "Lost Targaryen Materials Pack"
+    },
+    {
+      "name": "ACTIVITY_NAME_MTX_ARCGEAR_194",
+      "value": "Lost Targaryen's Queenslayer Dagger"
+    },
+    {
+      "name": "ACTIVITY_NAME_MTX_ARCGEAR_195",
+      "value": "Lost Targaryen's Sword Belt"
+    },
+    {
       "name": "ACTIVITY_NAME_MTX_ARMORY_21",
       "value": "Season 8 Gear Combo Pack"
     },
     {
       "name": "ACTIVITY_NAME_MTX_DRAGON_61",
       "value": "Valyrian Schematics Super Pack"
+    },
+    {
+      "name": "ACTIVITY_NAME_MTX_DRAGON_62",
+      "value": "Dragon Tomes Super Pack"
     },
     {
       "name": "ACTIVITY_NAME_MTX_GEARFLASH_54",
@@ -222,6 +262,10 @@
       "value": "Ancient Methods, New Gear!"
     },
     {
+      "name": "ACTIVITY_SPLASH_MTX_DRAGON_62",
+      "value": "Lost Arts, New Knowledge!"
+    },
+    {
       "name": "ACTIVITY_SPLASH_WRIT_RECIPE_MARCHSLOT",
       "value": "Event-limited Extra March Slot recipe now available!"
     },
@@ -232,6 +276,18 @@
     {
       "name": "CHAT_COMPLIANCE_ALERT",
       "value": "Powered by Community Sift. Chats are recorded for customer service purposes and to operate and improve our services. By using chat, you agree to this use of data."
+    },
+    {
+      "name": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_A_FESTIVAL_ITEM_HERO_ADV_ANGUY_THEARCHER_1_NAME",
+      "value": "Recipe: Anguy, <i>The Archer</i>, Relic."
+    },
+    {
+      "name": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_A_FESTIVAL_ITEM_HERO_ADV_ARYASTARK_WATERDANCER_1_NAME",
+      "value": "Recipe: Arya Stark, <i>Waterdancer</i>, Relic."
+    },
+    {
+      "name": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_A_FESTIVAL_ITEM_HERO_ADV_BENJENSTARK_COLDHANDS_1_NAME",
+      "value": "Recipe: Benjen Stark, <i>Cold Hands</i>, Relic."
     },
     {
       "name": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_A_FESTIVAL_ITEM_HERO_ADV_BENJENSTARK_FIRSTRANGER_1_NAME",
@@ -254,6 +310,10 @@
       "value": "Recipe: Hodor, <i>Gentle Giant</i>, Relic."
     },
     {
+      "name": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_A_FESTIVAL_ITEM_HERO_ADV_MAESTERLUWIN_LOYALSERVANT_1_NAME",
+      "value": "Recipe: Maester Luwin, <i>Loyal Servant</i>, Relic."
+    },
+    {
       "name": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_A_FESTIVAL_ITEM_HERO_ADV_MARGAERYTYRELL_KINGSBETROTHED_1_NAME",
       "value": "Recipe: Margaery Tyrell, <i>King's Betrothed</i>, Relic."
     },
@@ -262,12 +322,44 @@
       "value": "Recipe: Missandei, <i>Herald of the Dragon</i>, Relic."
     },
     {
+      "name": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_A_FESTIVAL_ITEM_HERO_ADV_OLDNAN_WEAVEROFTALES_1_NAME",
+      "value": "Recipe: Old Nan, <i>Weaver of Tales</i>, Relic."
+    },
+    {
+      "name": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_A_FESTIVAL_ITEM_HERO_ADV_RHAEGARTARGARYEN_LASTDRAGON_1_NAME",
+      "value": "Recipe: Rhaegar Targaryen, <i>The Last Dragon</i>, Relic."
+    },
+    {
+      "name": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_A_FESTIVAL_ITEM_HERO_ADV_ROOSEBOLTON_LORDOFTHEDREADFORT_1_NAME",
+      "value": "Recipe: Roose Bolton, <i>Lord of the Dreadfort</i>, Relic."
+    },
+    {
+      "name": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_B_FESTIVAL_ITEM_HERO_ADV_BALONGREYJOY_LORDREAPER_1_NAME",
+      "value": "Recipe: Balon Greyjoy, <i>Lord Reaper</i>, Relic."
+    },
+    {
+      "name": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_B_FESTIVAL_ITEM_HERO_ADV_CERSEILANNISTER_QUEENMOTHER_1_NAME",
+      "value": "Recipe: Cersei Lannister, <i>Queen Mother</i>, Relic."
+    },
+    {
+      "name": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_B_FESTIVAL_ITEM_HERO_ADV_DAENERYSTARGARYEN_DRAGONQUEEN_1_NAME",
+      "value": "Recipe: Daenerys Targaryen, <i>Dragon Queen</i>, Relic."
+    },
+    {
       "name": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_B_FESTIVAL_ITEM_HERO_ADV_HOTPIE_NIGHTSWATCHRECRUIT_1_NAME",
       "value": "Recipe: Hot Pie, <i>Night's Watch Recruit</i>, Relic."
     },
     {
+      "name": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_B_FESTIVAL_ITEM_HERO_ADV_JAIMELANNISTER_KINGSGUARD_1_NAME",
+      "value": "Recipe: Jaime Lannister, <i>Kingsguard</i>, Relic."
+    },
+    {
       "name": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_B_FESTIVAL_ITEM_HERO_ADV_LANCELLANNISTER_KINGSSQUIRE_1_NAME",
       "value": "Recipe: Lancel Lannister, <i>King's Squire</i>, Relic."
+    },
+    {
+      "name": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_B_FESTIVAL_ITEM_HERO_ADV_LORASTYRELL_KNIGHTOFFLOWERS_1_NAME",
+      "value": "Recipe: Loras Tyrell, <i>Knight of Flowers</i>, Relic."
     },
     {
       "name": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_B_FESTIVAL_ITEM_HERO_ADV_MAESTERLUWIN_MAESTEROFWINTERFELL_1_NAME",
@@ -286,12 +378,28 @@
       "value": "Recipe: Robb Stark, <i>Heir to Winterfell</i>, Relic."
     },
     {
+      "name": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_B_FESTIVAL_ITEM_HERO_ADV_ROBBSTARK_YOUNGWOLF_1_NAME",
+      "value": "Recipe: Robb Stark, <i>Young Wolf</i>, Relic."
+    },
+    {
+      "name": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_B_FESTIVAL_ITEM_HERO_ADV_SANSA_LADYOFTHENORTH_1_NAME",
+      "value": "Recipe: Sansa Stark, <i>Lady of the North</i>, Relic."
+    },
+    {
       "name": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_B_FESTIVAL_ITEM_HERO_ADV_TYRIONLANNISTER_THEIMP_1_NAME",
       "value": "Recipe: Tyrion Lannister, <i>Clever Lion</i>, Relic."
     },
     {
+      "name": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_C_FESTIVAL_ITEM_HERO_ADV_ELLARIASAND_PARAMOUR_1_NAME",
+      "value": "Recipe: Ellaria Sand, <i>Paramour</i>, Relic."
+    },
+    {
       "name": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_C_FESTIVAL_ITEM_HERO_ADV_JONSNOW_BASTARDOFWINTERFELL_1_NAME",
       "value": "Recipe: Jon Snow, <i>Bastard of Winterfell</i>, Relic."
+    },
+    {
+      "name": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_C_FESTIVAL_ITEM_HERO_ADV_LEAF_CHILDOFTHEFOREST_1_NAME",
+      "value": "Recipe: Leaf, <i>Child of the Forest</i>, Relic."
     },
     {
       "name": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_C_FESTIVAL_ITEM_HERO_ADV_PODRICKPAYNE_YOUNGSQUIRE_1_NAME",
@@ -300,6 +408,10 @@
     {
       "name": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_C_FESTIVAL_ITEM_HERO_ADV_PYATPREE_WARLOCKOFQARTH_1_NAME",
       "value": "Recipe: Pyat Pree, <i>Warlock of Qarth</i>, Relic."
+    },
+    {
+      "name": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_C_FESTIVAL_ITEM_HERO_ADV_SALLADHORSAAN_PIRATELORD_1_NAME",
+      "value": "Recipe: Sallladhor Saan, <i>Pirate Lord</i>, Relic."
     },
     {
       "name": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_C_FESTIVAL_ITEM_HERO_ADV_SANSASTARK_LITTLEBIRD_1_NAME",
@@ -312,6 +424,18 @@
     {
       "name": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_C_FESTIVAL_ITEM_HERO_ADV_THEONGREYJOY_WARDOFWINTERFELL_1_NAME",
       "value": "Recipe: Theon Greyjoy, <i>Ward of Winterfell</i>, Relic."
+    },
+    {
+      "name": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_C_FESTIVAL_ITEM_HERO_ADV_TYCHONESTORIS_TITANOFCOMMERCE_1_NAME",
+      "value": "Recipe: Tycho Nestoris, <i>Titan of Commerce</i>, Relic."
+    },
+    {
+      "name": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_C_FESTIVAL_ITEM_HERO_ADV_TYRIONLANNISTER_HANDOFTHEQUEEN_1_NAME",
+      "value": "Recipe: Tyrion Lannister, <i>Hand of the Queen</i>, Relic."
+    },
+    {
+      "name": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_C_FESTIVAL_ITEM_HERO_ADV_WALDERFREY_LORDOFTHECROSSING_1_NAME",
+      "value": "Recipe: Walder Frey, <i>Lord of the Crossing</i>, Relic."
     },
     {
       "name": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_C_FESTIVAL_ITEM_HERO_ADV_YARAGREYJOY_IRONBORNRAIDER_1_NAME",
@@ -536,6 +660,10 @@
     {
       "name": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_MAT_EVENT_SNOW3_1_NAME",
       "value": "Steel Scales"
+    },
+    {
+      "name": "DISPLAYGROUP_ALCHEMY_REPEATABLE_BOUNTYEXCHANGE_ITEM_ELITE_MONSTER_WRIT_INTO__BOOST_MARCHSLOTS_ALCHEMY__0D8H0M_NAME",
+      "value": "Recipe: Extra March Slot Instant Boost"
     },
     {
       "name": "DRAGONRESEARCH_DRAGONCARE_DRAGON_ATTACK_2_NAME",
@@ -894,6 +1022,22 @@
       "value": "+3,333 Points per Minute"
     },
     {
+      "name": "HERO_BRYNDENTULLY_THEBLACKFISH_DESC",
+      "value": "The Blackfish"
+    },
+    {
+      "name": "HERO_BRYNDENTULLY_THEBLACKFISH_NAME",
+      "value": "Brynden Tully"
+    },
+    {
+      "name": "HERO_PODRICKPAYNE_STEADFASTSWORDSMAN_DESC",
+      "value": "Steadfast Swordsman"
+    },
+    {
+      "name": "HERO_PODRICKPAYNE_STEADFASTSWORDSMAN_NAME",
+      "value": "Podrick Payne"
+    },
+    {
       "name": "HOUSE_OF_THE_DRAGON_EVENT_DESC",
       "value": "Join us for a multiple-month adventure looking at the life and times of one Jon Snow. Keep your eyes peeled for limited-time rewards available during this time!"
     },
@@ -936,6 +1080,10 @@
     {
       "name": "ITEM_HERO_ADV_BENJENSTARK_FIRSTRANGER_1_NAME",
       "value": "Benjen Stark, <i>First Ranger</i>, Relic."
+    },
+    {
+      "name": "ITEM_HERO_ADV_BRYNDENTULLY_THEBLACKFISH_1_NAME",
+      "value": "Brynden Tully, <i>The Blackfish</i>, Relic."
     },
     {
       "name": "ITEM_HERO_ADV_CERSEILANNISTER_BATTLEOFBLACKWATER_1_NAME",
@@ -1074,6 +1222,10 @@
       "value": "Petyr Baelish, <i>The Unrequited</i>, Relic."
     },
     {
+      "name": "ITEM_HERO_ADV_PODRICKPAYNE_STEADFASTSWORDSMAN_1_NAME",
+      "value": "Podrick Payne, <i>Steadfast Swordsman</i>, Relic."
+    },
+    {
       "name": "ITEM_HERO_ADV_PODRICKPAYNE_YOUNGSQUIRE_1_NAME",
       "value": "Podrick Payne, <i>Young Squire</i>, Relic."
     },
@@ -1170,7 +1322,7 @@
       "value": "Steel Scales"
     },
     {
-      "name": "ITEM_MAT_EVENTS_TRINKET_SNOW3_1_NAME",
+      "name": "ITEM_MAT_TRINKET_EVENTS_SNOW3_1_NAME",
       "value": "Iron Throne Remembrance Scrap"
     },
     {
@@ -1243,7 +1395,7 @@
     },
     {
       "name": "MONSTER_JONSNOW3_3_DESC",
-      "value": "\"The White Walkers don't care if a man's free folk or crow, we're all the same to them, meat for their army. But <i>together</i>, we can beat them."
+      "value": "\"The White Walkers don't care if a man's free folk or crow, we're all the same to them, meat for their army. But <i>together</i>, we can beat them.\""
     },
     {
       "name": "MONSTER_JONSNOW3_3_NAME",
@@ -1286,19 +1438,19 @@
       "value": "+{0}"
     },
     {
-      "name": "SESSIONREWARD_CSR_ES_JONSNOW3_CLAIM",
+      "name": "SESSIONREWARD_CSR_ES_SNOW3_CLAIM",
       "value": "The Lost Dragon (Ready!)"
     },
     {
-      "name": "SESSIONREWARD_CSR_ES_JONSNOW3_DESC",
+      "name": "SESSIONREWARD_CSR_ES_SNOW3_DESC",
       "value": "Claim up to four rewards every 24 hours from the Lost Dragon event. The fourth reward contains a valuable Instant Boost!"
     },
     {
-      "name": "SESSIONREWARD_CSR_ES_JONSNOW3_NAME",
+      "name": "SESSIONREWARD_CSR_ES_SNOW3_NAME",
       "value": "The Lost Dragon"
     },
     {
-      "name": "SESSIONREWARD_CSR_ES_JONSNOW3_TIMER",
+      "name": "SESSIONREWARD_CSR_ES_SNOW3_TIMER",
       "value": "The Lost Dragon"
     },
     {
