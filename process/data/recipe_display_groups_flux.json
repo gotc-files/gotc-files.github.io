@@ -1,0 +1,680 @@
+{
+  "description": "Recipe display groups information",
+  "values": [
+    {
+      "id": "322235aadb921594",
+      "name": "displayGroup_alchemy_recipe__item_flux_0_to_mat_blackiron__1",
+      "name_placeholder": "ITEM_MATERIALS_BLACKIRON"
+    },
+    {
+      "id": "936e4341b38061d0",
+      "name": "displayGroup_alchemy_recipe__item_flux_0_to_mat_copperbar__1",
+      "name_placeholder": "ITEM_MATERIALS_COPPERBAR"
+    },
+    {
+      "id": "fcbf5837d6947ec8",
+      "name": "displayGroup_alchemy_recipe__item_flux_0_to_mat_dragonglass__1",
+      "name_placeholder": "ITEM_MATERIALS_DRAGONGLASS"
+    },
+    {
+      "id": "7eb574a439ffcd13",
+      "name": "displayGroup_alchemy_recipe__item_flux_0_to_mat_goldenheartwood__1",
+      "name_placeholder": "ITEM_MATERIALS_GOLDENHEARTWOOD"
+    },
+    {
+      "id": "525ea5e8d5e5e4b9",
+      "name": "displayGroup_alchemy_recipe__item_flux_0_to_mat_hide__1",
+      "name_placeholder": "ITEM_MATERIALS_HIDE"
+    },
+    {
+      "id": "ef9aebd19ae1dddc",
+      "name": "displayGroup_alchemy_recipe__item_flux_0_to_mat_ironwood__1",
+      "name_placeholder": "ITEM_MATERIALS_IRONWOOD"
+    },
+    {
+      "id": "1488ac9b47bdb106",
+      "name": "displayGroup_alchemy_recipe__item_flux_0_to_mat_kingswoodoak__1",
+      "name_placeholder": "ITEM_MATERIALS_KINGSWOODOAK"
+    },
+    {
+      "id": "40a4e87f068c0bd7",
+      "name": "displayGroup_alchemy_recipe__item_flux_0_to_mat_leatherstrap__1",
+      "name_placeholder": "ITEM_MATERIALS_LEATHERSTRAPS"
+    },
+    {
+      "id": "26f5be2e8839622f",
+      "name": "displayGroup_alchemy_recipe__item_flux_0_to_mat_milkofthepoppy__1",
+      "name_placeholder": "ITEM_MATERIALS_MILKOFTHEPOPPY"
+    },
+    {
+      "id": "e85e7cdfcbf9712a",
+      "name": "displayGroup_alchemy_recipe__item_flux_0_to_mat_silk__1",
+      "name_placeholder": "ITEM_MATERIALS_SILK"
+    },
+    {
+      "id": "238a2b8f2d284ebb",
+      "name": "displayGroup_alchemy_recipe__item_flux_0_to_mat_weirwood__1",
+      "name_placeholder": "ITEM_MATERIALS_WEIRWOOD"
+    },
+    {
+      "id": "d3510bd054ca0826",
+      "name": "displayGroup_alchemy_recipe__item_flux_0_to_mat_wildfire__1",
+      "name_placeholder": "ITEM_MATERIALS_WILDFIRE"
+    },
+    {
+      "id": "356a274e9d8ebe3c",
+      "name": "displayGroup_alchemy_recipe__item_flux_1_to_mat_event_winteriscoming_1__1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_WINTERISCOMING_1_NAME"
+    },
+    {
+      "id": "2d87f74a9df57b82",
+      "name": "displayGroup_alchemy_recipe__item_flux_1_to_mat_event_winterishere_1__1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_WINTERISHERE_1_NAME"
+    },
+    {
+      "id": "286f0fcf2c8f60a7",
+      "name": "displayGroup_alchemy_recipe__item_flux_1_to_mat_event_essosinvades_1__1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_ESSOSINVADES_1_NAME"
+    },
+    {
+      "id": "2af17e10a24f6d90",
+      "name": "displayGroup_alchemy_recipe__item_flux_1_to_mat_event_knightsmind_1__1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_KNIGHTSMIND_1_NAME"
+    },
+    {
+      "id": "f030f6eb2bd6bf7f",
+      "name": "displayGroup_alchemy_recipe__item_flux_1_to_mat_event_essospirate_1__1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_ESSOSPIRATE_1_NAME"
+    },
+    {
+      "id": "170f2069333e8c2d",
+      "name": "displayGroup_alchemy_recipe__item_flux_1_to_mat_event_ironisland_1__1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_IRONISLAND_1_NAME"
+    },
+    {
+      "id": "3ba5f6541d0d9de",
+      "name": "displayGroup_alchemy_recipe__item_flux_1_to_mat_event_faithmilitant_1__1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_FAITHMILITANT_1_NAME"
+    },
+    {
+      "id": "7a58d9d0d72bdb4",
+      "name": "displayGroup_alchemy_recipe__item_flux_1_to_mat_event_wildling_1__1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_WILDLING_1_NAME"
+    },
+    {
+      "id": "4e695076385a3647",
+      "name": "displayGroup_alchemy_recipe__item_flux_1_to_mat_event_wrathofwinter_1__1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_WRATHOFWINTER_1_NAME"
+    },
+    {
+      "id": "51184eba251d28ca",
+      "name": "displayGroup_alchemy_recipe__item_flux_1_to_mat_event_blackfyre_1__1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_BLACKFYRE_1_NAME"
+    },
+    {
+      "id": "1b5490f393fff52e",
+      "name": "displayGroup_alchemy_recipe__item_flux_2_to_mat_event_bolton_1__1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_BOLTON_1_NAME"
+    },
+    {
+      "id": "e5b8b64ba7c90620",
+      "name": "displayGroup_alchemy_recipe__item_flux_2_to_mat_event_braavos_1__1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_BRAAVOS_1_NAME"
+    },
+    {
+      "id": "33e6ad36ec1147f",
+      "name": "displayGroup_alchemy_recipe__item_flux_2_to_mat_event_greathunt_1__1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_GREATHUNT_1_NAME"
+    },
+    {
+      "id": "9ef9ce870b108f62",
+      "name": "displayGroup_alchemy_recipe__item_flux_2_to_mat_event_undying_1__1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_UNDYING_1_NAME"
+    },
+    {
+      "id": "9fccef3a81f88f8",
+      "name": "displayGroup_alchemy_recipe__item_flux_2_to_mat_event_conquest_1__1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_CONQUEST_1_NAME"
+    },
+    {
+      "id": "4515242f19b65a90",
+      "name": "displayGroup_alchemy_recipe__item_flux_2_to_mat_event_masterofwar_1__1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_MASTEROFWAR_1_NAME"
+    },
+    {
+      "id": "6a17fe242b8fada4",
+      "name": "displayGroup_alchemy_recipe__item_flux_2_to_mat_event_harrenhal_1__1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_HARRENHAL_1_NAME"
+    },
+    {
+      "id": "749ebb866f1d0d73",
+      "name": "displayGroup_alchemy_recipe__item_flux_3_to_mat_event_nightwatch_1__1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_NIGHTWATCH_1_NAME"
+    },
+    {
+      "id": "9053b5941231a38",
+      "name": "displayGroup_alchemy_recipe__item_flux_3_to_mat_event_Aftermath_1__1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_AFTERMATH_1_NAME"
+    },
+    {
+      "id": "347194dfb872849f",
+      "name": "displayGroup_alchemy_recipe__item_flux_3_to_mat_event_falconknight_1__1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_FALCONKNIGHT_1_NAME"
+    },
+    {
+      "id": "fe107dacf86eee85",
+      "name": "displayGroup_alchemy_recipe__item_flux_3_to_mat_event_foundations_1__1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_FOUNDATIONS_1_NAME"
+    },
+    {
+      "id": "21b70c6d59a9f61b",
+      "name": "displayGroup_alchemy_recipe__item_flux_3_to_mat_event_Kingsguard_1__1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_KINGSGUARD_1_NAME"
+    },
+    {
+      "id": "eeb916dbda422bfc",
+      "name": "displayGroup_alchemy_recipe__item_flux_3_to_mat_event_Conqueror_1__1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_CONQUEROR_1_NAME"
+    },
+    {
+      "id": "2f0381f44dc4cf3e",
+      "name": "displayGroup_alchemy_recipe__item_flux_3_to_mat_event_Tyrell_1__1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_TYRELL_1_NAME"
+    },
+    {
+      "id": "3b0a94b9361a37b",
+      "name": "displayGroup_alchemy_recipe__item_flux_4_to_mat_event_Baelish_1__1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_BAELISH_1_NAME"
+    },
+    {
+      "id": "9e5318fa2b4430d8",
+      "name": "displayGroup_alchemy_recipe__item_flux_4_to_mat_event_PurpleWedding_1__1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_PURPLEWEDDING_1_NAME"
+    },
+    {
+      "id": "73fa3f7a83e26635",
+      "name": "displayGroup_alchemy_recipe__item_flux_4_to_mat_event_faceless_1__1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_FACELESS_1_NAME"
+    },
+    {
+      "id": "9d5c466144472b64",
+      "name": "displayGroup_alchemy_recipe__item_flux_4_to_mat_event_dragonkeeper_1__1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_DRAGONKEEPER_1_NAME"
+    },
+    {
+      "id": "e567dfa01d982425",
+      "name": "displayGroup_alchemy_recipe__item_flux_4_to_mat_event_brothers_1__1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_BROTHERS_1_NAME"
+    },
+    {
+      "id": "f0fd12bacf0eb7a8",
+      "name": "displayGroup_alchemy_recipe__item_flux_4_to_mat_event_tyrion_1__1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_TYRION_1_NAME"
+    },
+    {
+      "id": "273c346a75e6c9f2",
+      "name": "displayGroup_alchemy_recipe__item_flux_4_to_mat_event_baratheon_1__1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_BARATHEON_1_NAME"
+    },
+    {
+      "id": "932f24eacea0702a",
+      "name": "displayGroup_alchemy_recipe__item_flux_5_to_mat_event_martell_1__1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_MARTELL_1_NAME"
+    },
+    {
+      "id": "90a5bd35bbe97c96",
+      "name": "displayGroup_alchemy_recipe__item_flux_5_to_mat_event_oldnan_1__1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_OLDNAN_1_NAME"
+    },
+    {
+      "id": "fcdd686eb6953c2",
+      "name": "displayGroup_alchemy_recipe__item_flux_5_to_mat_event_rattleshirt_1__1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_RATTLESHIRT_1_NAME"
+    },
+    {
+      "id": "61269cd044b831e2",
+      "name": "displayGroup_alchemy_recipe__item_flux_5_to_mat_event_conquest2_1__1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_CONQUEST2_1_NAME"
+    },
+    {
+      "id": "9cd1dd6ed38184f0",
+      "name": "displayGroup_alchemy_recipe__item_flux_5_to_mat_event_hound_1__1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_HOUND_1_NAME"
+    },
+    {
+      "id": "30846bb70194d4f7",
+      "name": "displayGroup_alchemy_recipe__item_flux_5_to_mat_event_queenlb_1__1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_QUEENLB_1_NAME"
+    },
+    {
+      "id": "72c2f81b4f516a2d",
+      "name": "displayGroup_alchemy_recipe__item_flux_5_to_mat_event_rhllor_1__1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_RHLLOR_1_NAME"
+    },
+    {
+      "id": "c0f85a1f0dfefa3d",
+      "name": "displayGroup_alchemy_recipe__item_flux_6_to_mat_event_cersei_1__1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_CERSEI_1_NAME"
+    },
+    {
+      "id": "b9f96fba6fefa2b3",
+      "name": "displayGroup_alchemy_recipe__item_flux_6_to_mat_event_kingsmoot_1__1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_KINGSMOOT_1_NAME"
+    },
+    {
+      "id": "cb0621cac29b549e",
+      "name": "displayGroup_alchemy_recipe__item_flux_6_to_mat_event_freedom_1__1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_FREEDOM_1_NAME"
+    },
+    {
+      "id": "5437d7b625442c85",
+      "name": "displayGroup_alchemy_recipe__item_flux_6_to_mat_event_dawn_1__1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_DAWN_1_NAME"
+    },
+    {
+      "id": "79d442739c969292",
+      "name": "displayGroup_alchemy_recipe__item_flux_6_to_mat_event_stark_1__1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_STARK_1_NAME"
+    },
+    {
+      "id": "dd25aba908c68e82",
+      "name": "displayGroup_alchemy_recipe__item_flux_6_to_mat_event_oldnan3_1__1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_OLDNAN3_1_NAME"
+    },
+    {
+      "id": "701385e50c917482",
+      "name": "displayGroup_alchemy_recipe__item_flux_6_to_mat_event_harvest_1__1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_HARVEST_1_NAME"
+    },
+    {
+      "id": "1bde8b1d168a8fc3",
+      "name": "displayGroup_alchemy_recipe__item_flux_7_to_mat_event_yara_1__1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_YARA_1_NAME"
+    },
+    {
+      "id": "d8b1f6c91e6c6591",
+      "name": "displayGroup_alchemy_recipe__item_flux_7_to_mat_event_harrenhal2_1__1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_HARRENHAL2_1_NAME"
+    },
+    {
+      "id": "8e3ab9fdf560b250",
+      "name": "displayGroup_alchemy_recipe__item_flux_7_to_mat_event_oldtown_1__1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_OLDTOWN_1_NAME"
+    },
+    {
+      "id": "65e71c812a9fa198",
+      "name": "displayGroup_alchemy_recipe__item_flux_7_to_mat_event_artofcombat_1__1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_ARTOFCOMBAT_1_NAME"
+    },
+    {
+      "id": "fb3b6cc05162dd7",
+      "name": "displayGroup_alchemy_recipe__item_flux_7_to_mat_event_deadwalk_1__1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_DEADWALK_1_NAME"
+    },
+    {
+      "id": "c44bbc9f70c6b790",
+      "name": "displayGroup_alchemy_recipe__item_flux_7_to_mat_event_baratheon2_1__1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_BARATHEON2_1_NAME"
+    },
+    {
+      "id": "6eee05454cce455f",
+      "name": "displayGroup_alchemy_recipe__item_flux_7_to_mat_event_ironbank_1__1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_IRONBANK_1_NAME"
+    },
+    {
+      "id": "6b1459a6d39abe20",
+      "name": "displayGroup_alchemy_recipe__item_flux_8_to_mat_event_motherofdragons2_1__1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_MOTHEROFDRAGONS2_1_NAME"
+    },
+    {
+      "id": "d7d3bdc5d4f7f8d",
+      "name": "displayGroup_alchemy_recipe__item_flux_8_to_mat_event_bookofconquest_1__1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_BOOKOFCONQUEST_1_NAME"
+    },
+    {
+      "id": "1912423f6c26cb7c",
+      "name": "displayGroup_alchemy_recipe__item_flux_8_to_mat_event_harvest2_1__1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_HARVEST2_1_NAME"
+    },
+    {
+      "id": "4b265fc8b68ede8f",
+      "name": "displayGroup_alchemy_recipe__item_flux_8_to_mat_event_conquest5_1__1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_CONQUEST5_1_NAME"
+    },
+    {
+      "id": "33bcf5dfbff3982e",
+      "name": "displayGroup_alchemy_recipe__item_flux_8_to_mat_event_summerhall_1__1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_SUMMERHALL_1_NAME"
+    },
+    {
+      "id": "6809ee4c1d02eaf",
+      "name": "displayGroup_alchemy_recipe__item_flux_8_to_mat_event_harrenhal3_1__1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_HARRENHAL3_1_NAME"
+    },
+    {
+      "id": "fded10a4470fb1b2",
+      "name": "displayGroup_alchemy_recipe__item_flux_8_to_mat_event_snow1_1__1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_SNOW1_1_NAME"
+    },
+    {
+      "id": "57fb8d368cfd4491",
+      "name": "displayGroup_alchemy_recipe__item_flux_trinket_1_to_mat_trinket_events_falconshield_1__1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_FALCONSHIELD_1_NAME"
+    },
+    {
+      "id": "afe25898c0442a01",
+      "name": "displayGroup_alchemy_recipe__item_flux_trinket_1_to_mat_trinket_boneneedle_alpha_1__1",
+      "name_placeholder": "ITEM_MAT_TRINKET_BONENEEDLE_ALPHA_1_NAME"
+    },
+    {
+      "id": "4742ca7a313b7a7a",
+      "name": "displayGroup_alchemy_recipe__item_flux_trinket_1_to_mat_trinket_mormontcoin_alpha_1__1",
+      "name_placeholder": "ITEM_MAT_TRINKET_MORMONTCOIN_ALPHA_1_NAME"
+    },
+    {
+      "id": "f291b5825c86f7af",
+      "name": "displayGroup_alchemy_recipe__item_flux_trinket_1_to_mat_trinket_expedition_1_alpha_1__1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EXPEDITION_1_ALPHA_1_NAME"
+    },
+    {
+      "id": "985f9e887b2bc4d5",
+      "name": "displayGroup_alchemy_recipe__item_flux_trinket_1_to_mat_trinket_necklace_alpha_1__1",
+      "name_placeholder": "ITEM_MAT_TRINKET_CHARM_ALPHA_1_NAME"
+    },
+    {
+      "id": "cc1510f4f5caef36",
+      "name": "displayGroup_alchemy_recipe__item_flux_trinket_1_to_mat_trinket_mormontclaw_alpha_1__1",
+      "name_placeholder": "ITEM_MAT_TRINKET_MORMONTCLAW_ALPHA_1_NAME"
+    },
+    {
+      "id": "1b0371242556b1dd",
+      "name": "displayGroup_alchemy_recipe__item_flux_trinket_1_to_mat_trinket_events_dragonfeeder_1__1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_DRAGONFEEDER_1_NAME"
+    },
+    {
+      "id": "70a34cb6f5299546",
+      "name": "displayGroup_alchemy_recipe__item_flux_trinket_1_to_mat_trinket_winebottle_alpha_1__1",
+      "name_placeholder": "ITEM_MAT_TRINKET_WINE_ALPHA_1_NAME"
+    },
+    {
+      "id": "62cdd68da42458f6",
+      "name": "displayGroup_alchemy_recipe__item_flux_trinket_1_to_mat_trinket_events_dance_of_dragons_1__1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_DANCE_OF_DRAGONS_1_NAME"
+    },
+    {
+      "id": "dfb77e724893c191",
+      "name": "displayGroup_alchemy_recipe__item_flux_trinket_1_to_mat_trinket_events_snakewhip_1__1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_SNAKEWHIP_1_NAME"
+    },
+    {
+      "id": "e8f3bbe60ed351d1",
+      "name": "displayGroup_alchemy_recipe__item_flux_trinket_1_to_mat_trinket_events_storybook_1__1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_STORYBOOK_1_NAME"
+    },
+    {
+      "id": "4492bb96f2da2f2",
+      "name": "displayGroup_alchemy_recipe__item_flux_trinket_1_to_mat_trinket_events_drinkinghorn_1__1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_DRINKINGHORN_1_NAME"
+    },
+    {
+      "id": "7a249eba9f23ac51",
+      "name": "displayGroup_alchemy_recipe__item_flux_trinket_1_to_mat_trinket_events_oldnan3_1__1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_OLDNAN3_1_NAME"
+    },
+    {
+      "id": "d712b0f69b745651",
+      "name": "displayGroup_alchemy_recipe__item_flux_trinket_1_to_mat_trinket_events_harvest_1__1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_HARVEST_1_NAME"
+    },
+    {
+      "id": "6f91b22175a1bb59",
+      "name": "displayGroup_alchemy_recipe__item_flux_trinket_1_to_mat_trinket_events_yara_1__1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_YARA_1_NAME"
+    },
+    {
+      "id": "2eb194a77133af94",
+      "name": "displayGroup_alchemy_recipe__item_flux_trinket_1_to_mat_trinket_events_conquest5_1__1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_CONQUEST5_1_NAME"
+    },
+    {
+      "id": "eb2d5d4b5530d977",
+      "name": "displayGroup_alchemy_recipe__item_flux_trinket_1_to_mat_trinket_events_summerhall_1__1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_SUMMERHALL_1_NAME"
+    },
+    {
+      "id": "de1136702b136ff6",
+      "name": "displayGroup_alchemy_recipe__item_flux_trinket_1_to_mat_trinket_events_harrenhal3_1__1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_HARRENHAL3_1_NAME"
+    },
+    {
+      "id": "2f69c4df2e923b1b",
+      "name": "displayGroup_alchemy_recipe__item_flux_trinket_2_to_mat_trinket_quiver_1__1",
+      "name_placeholder": "ITEM_MAT_TRINKET_QUIVER_1_NAME"
+    },
+    {
+      "id": "158c3bace9b30d3c",
+      "name": "displayGroup_alchemy_recipe__item_flux_trinket_2_to_mat_trinket_saddle_alpha_1__1",
+      "name_placeholder": "ITEM_MAT_TRINKET_SADDLE_ALPHA_1_NAME"
+    },
+    {
+      "id": "e6fb1e384b281af",
+      "name": "displayGroup_alchemy_recipe__item_flux_trinket_2_to_mat_trinket_sevenpointedstar_alpha_1__1",
+      "name_placeholder": "ITEM_MAT_TRINKET_SEVENPOINTEDSTAR_ALPHA_1_NAME"
+    },
+    {
+      "id": "432f8993b8910a1f",
+      "name": "displayGroup_alchemy_recipe__item_flux_trinket_2_to_mat_trinket_dragon1_alpha_1__1",
+      "name_placeholder": "ITEM_MAT_TRINKET_DRAGON1_ALPHA_1_NAME"
+    },
+    {
+      "id": "bbb3a59364d5614d",
+      "name": "displayGroup_alchemy_recipe__item_flux_trinket_2_to_mat_trinket_events_bookofbrothers_1__1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_BOOKOFBROTHERS_1_NAME"
+    },
+    {
+      "id": "6bc9b302e43dc4a2",
+      "name": "displayGroup_alchemy_recipe__item_flux_trinket_2_to_mat_trinket_essosbrooch_alpha_1__1",
+      "name_placeholder": "ITEM_MAT_TRINKET_ESSOSBROOCH_ALPHA_1_NAME"
+    },
+    {
+      "id": "46fab5f169d4df2d",
+      "name": "displayGroup_alchemy_recipe__item_flux_trinket_2_to_mat_trinket_silkstole_alpha_1__1",
+      "name_placeholder": "ITEM_MAT_TRINKET_SILKSTOLE_ALPHA_1_NAME"
+    },
+    {
+      "id": "22ed0f66ee0b537b",
+      "name": "displayGroup_alchemy_recipe__item_flux_trinket_2_to_mat_trinket_events_rhllor_1__1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_RHLLOR_1_NAME"
+    },
+    {
+      "id": "c3de4960bc5074d",
+      "name": "displayGroup_alchemy_recipe__item_flux_trinket_2_to_mat_trinket_events_cersei_1__1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_CERSEI_1_NAME"
+    },
+    {
+      "id": "6a6f3181b0f5cca3",
+      "name": "displayGroup_alchemy_recipe__item_flux_trinket_2_to_mat_trinket_events_kingsmoot_1__1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_KINGSMOOT_1_NAME"
+    },
+    {
+      "id": "d533faf1cad47dfa",
+      "name": "displayGroup_alchemy_recipe__item_flux_trinket_2_to_mat_trinket_events_harrenhal2_1__1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_HARRENHAL2_1_NAME"
+    },
+    {
+      "id": "df78d12b8d2b594b",
+      "name": "displayGroup_alchemy_recipe__item_flux_trinket_2_to_mat_trinket_events_oldtown_1__1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_OLDTOWN_1_NAME"
+    },
+    {
+      "id": "c59b956891bec290",
+      "name": "displayGroup_alchemy_recipe__item_flux_trinket_2_to_mat_trinket_events_artofcombat_1__1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_ARTOFCOMBAT_1_NAME"
+    },
+    {
+      "id": "2886a3753ccc7ad5",
+      "name": "displayGroup_alchemy_recipe__item_flux_trinket_3_to_mat_trinket_events_caliper_1__1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_CALIPER_1_NAME"
+    },
+    {
+      "id": "95270f5265731cdd",
+      "name": "displayGroup_alchemy_recipe__item_flux_trinket_3_to_mat_trinket_knotbracelet_alpha_1__1",
+      "name_placeholder": "ITEM_MAT_TRINKET_KNOTBRACELET_ALPHA_1_NAME"
+    },
+    {
+      "id": "7a0aec9ff8c82460",
+      "name": "displayGroup_alchemy_recipe__item_flux_trinket_3_to_mat_trinket_knife_alpha_1__1",
+      "name_placeholder": "ITEM_MAT_TRINKET_KNIFE_ALPHA_1_NAME"
+    },
+    {
+      "id": "5d8836e039269912",
+      "name": "displayGroup_alchemy_recipe__item_flux_trinket_3_to_mat_trinket_events_eyepatch_1__1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_EYEPATCH_1_NAME"
+    },
+    {
+      "id": "6b9bfddfe64f6d7",
+      "name": "displayGroup_alchemy_recipe__item_flux_trinket_3_to_mat_trinket_events_books_1__1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_BOOKS_1_NAME"
+    },
+    {
+      "id": "91a89b39338c6aa6",
+      "name": "displayGroup_alchemy_recipe__item_flux_trinket_3_to_mat_trinket_events_bloodycrown_1__1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_BLOODYCROWN_1_NAME"
+    },
+    {
+      "id": "5291aec94265bfa4",
+      "name": "displayGroup_alchemy_recipe__item_flux_trinket_3_to_mat_trinket_lantern_1__1",
+      "name_placeholder": "ITEM_MAT_TRINKET_LANTERN_1_NAME"
+    },
+    {
+      "id": "f330e503fd0454f6",
+      "name": "displayGroup_alchemy_recipe__item_flux_trinket_3_to_mat_trinket_sharktooth_alpha_1__1",
+      "name_placeholder": "ITEM_MAT_TRINKET_SHARKTOOTH_ALPHA_1_NAME"
+    },
+    {
+      "id": "998c6432e8a61966",
+      "name": "displayGroup_alchemy_recipe__item_flux_trinket_3_to_mat_trinket_handbell_alpha_1__1",
+      "name_placeholder": "ITEM_MAT_TRINKET_HANDBELL_ALPHA_1_NAME"
+    },
+    {
+      "id": "f9886cc345625da9",
+      "name": "displayGroup_alchemy_recipe__item_flux_trinket_3_to_mat_trinket_events_freedom_1__1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_FREEDOM_1_NAME"
+    },
+    {
+      "id": "608beaed6205b9ee",
+      "name": "displayGroup_alchemy_recipe__item_flux_trinket_3_to_mat_trinket_events_dawn_1__1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_DAWN_1_NAME"
+    },
+    {
+      "id": "d991f5ab44240817",
+      "name": "displayGroup_alchemy_recipe__item_flux_trinket_3_to_mat_trinket_events_stark_1__1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_STARK_1_NAME"
+    },
+    {
+      "id": "37678e8a97e2b758",
+      "name": "displayGroup_alchemy_recipe__item_flux_trinket_3_to_mat_trinket_events_deadwalk_1__1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_DEADWALK_1_NAME"
+    },
+    {
+      "id": "d598d3be82b1129f",
+      "name": "displayGroup_alchemy_recipe__item_flux_trinket_3_to_mat_trinket_events_baratheon2_1__1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_BARATHEON2_1_NAME"
+    },
+    {
+      "id": "563a3d03de3adfd0",
+      "name": "displayGroup_alchemy_recipe__item_flux_trinket_3_to_mat_trinket_events_ironbank_1__1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_IRONBANK_1_NAME"
+    },
+    {
+      "id": "6ff8510227ba318f",
+      "name": "displayGroup_alchemy_recipe__item_flux_trinket_4_to_mat_trinket_events_ridingcrop_1__1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_RIDINGCROP_1_NAME"
+    },
+    {
+      "id": "a991a02f92071d29",
+      "name": "displayGroup_alchemy_recipe__item_flux_trinket_4_to_mat_trinket_events_RoseNecklace_1__1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_ROSENECKLACE_1_NAME"
+    },
+    {
+      "id": "4a777b16b892d531",
+      "name": "displayGroup_alchemy_recipe__item_flux_trinket_4_to_mat_trinket_pouch_alpha_1__1",
+      "name_placeholder": "ITEM_MAT_TRINKET_POUCH_ALPHA_1_NAME"
+    },
+    {
+      "id": "1cec7a31d9870e7d",
+      "name": "displayGroup_alchemy_recipe__item_flux_trinket_4_to_mat_trinket_events_DragonPendant_1__1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_DRAGONPENDANT_1_NAME"
+    },
+    {
+      "id": "4b80ad4ec0fe45f0",
+      "name": "displayGroup_alchemy_recipe__item_flux_trinket_4_to_mat_trinket_horn_alpha_1__1",
+      "name_placeholder": "ITEM_MAT_TRINKET_HORN_ALPHA_1_NAME"
+    },
+    {
+      "id": "94153426a34009ec",
+      "name": "displayGroup_alchemy_recipe__item_flux_trinket_4_to_mat_trinket_arrowhead_alpha_1__1",
+      "name_placeholder": "ITEM_MAT_TRINKET_ARROWHEAD_ALPHA_1_NAME"
+    },
+    {
+      "id": "31e65443ce2071d3",
+      "name": "displayGroup_alchemy_recipe__item_flux_trinket_4_to_mat_trinket_events_vial_of_water_1__1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_VIAL_OF_WATER_1_NAME"
+    },
+    {
+      "id": "9cbc09d8a2c63d6e",
+      "name": "displayGroup_alchemy_recipe__item_flux_trinket_4_to_mat_trinket_winch_alpha_1__1",
+      "name_placeholder": "ITEM_MAT_TRINKET_WINCH_ALPHA_1_NAME"
+    },
+    {
+      "id": "3abe97c78dd80205",
+      "name": "displayGroup_alchemy_recipe__item_flux_trinket_4_to_mat_trinket_dtw_alpha_1__1",
+      "name_placeholder": "ITEM_MAT_TRINKET_DTW_ALPHA_1_NAME"
+    },
+    {
+      "id": "51fa24bd63c01d93",
+      "name": "displayGroup_alchemy_recipe__item_flux_trinket_4_to_mat_trinket_events_blueprints_1__1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_BLUEPRINTS_1_NAME"
+    },
+    {
+      "id": "8e9c4421268743cb",
+      "name": "displayGroup_alchemy_recipe__item_flux_trinket_4_to_mat_trinket_events_toysoldier_1__1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_TOYSOLDIER_1_NAME"
+    },
+    {
+      "id": "ffafa9fef2de357",
+      "name": "displayGroup_alchemy_recipe__item_flux_trinket_4_to_mat_trinket_events_queenlb_1__1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_QUEENLB_1_NAME"
+    },
+    {
+      "id": "44081b51ddc11bd7",
+      "name": "displayGroup_alchemy_recipe__item_flux_trinket_4_to_mat_trinket_events_motherofdragons2_1__1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_MOTHEROFDRAGONS2_1_NAME"
+    },
+    {
+      "id": "53df796bc6c9e5f6",
+      "name": "displayGroup_alchemy_recipe__item_flux_trinket_4_to_mat_trinket_events_bookofconquest_1__1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_BOOKOFCONQUEST_1_NAME"
+    },
+    {
+      "id": "4b14e9c95b91be6c",
+      "name": "displayGroup_alchemy_recipe__item_flux_trinket_4_to_mat_trinket_events_harvest2_1__1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_HARVEST2_1_NAME"
+    },
+    {
+      "id": "3a62597ef7da727",
+      "name": "displayGroup_alchemy_recipe__item_flux_trinket_4_to_mat_trinket_events_conquest5_1__1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_CONQUEST5_1_NAME"
+    },
+    {
+      "id": "8639b236e8c19183",
+      "name": "displayGroup_alchemy_recipe__item_flux_trinket_4_to_mat_trinket_events_summerhall_1__1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_SUMMERHALL_1_NAME"
+    },
+    {
+      "id": "b305d90d96e22702",
+      "name": "displayGroup_alchemy_recipe__item_flux_trinket_4_to_mat_trinket_events_harrenhal3_1__1",
+      "name_placeholder": "ITEM_MAT_TRINKET_EVENTS_HARRENHAL3_1_NAME"
+    }
+  ]
+}

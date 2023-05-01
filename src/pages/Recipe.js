@@ -25,7 +25,7 @@ function Recipe() {
             data={recipes}
             searchKeysAccessor={(recipe) =>
               [
-                recipe.name,
+                recipe.display,
                 recipe.description,
                 recipe.category,
                 recipe.event_name,
@@ -35,10 +35,7 @@ function Recipe() {
               {
                 name: "Name",
                 valueType: "text",
-                valueAccessor: (recipe) =>
-                  recipe.limit
-                    ? `${recipe.name} (limit ${recipe.limit})`
-                    : recipe.name,
+                valueAccessor: (recipe) => recipe.display,
                 tooltipAccessor: (recipe) => recipe.description,
                 options: { filter: false },
               },

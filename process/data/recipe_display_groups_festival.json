@@ -1,0 +1,405 @@
+{
+  "description": "Recipe display groups information",
+  "values": [
+    {
+      "id": "5317af6e8b1d590c",
+      "name": "displayGroup_alchemy_recipe_event_2021_02_lunar_item_personalgift_lunar_food_basic_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_2021_02_LUNAR_ITEM_PERSONALGIFT_LUNAR_FOOD_BASIC_1_NAME"
+    },
+    {
+      "id": "13dc4e79d8a1e71d",
+      "name": "displayGroup_alchemy_recipe_event_2021_02_lunar_item_personalgift_lunar_wood_basic_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_2021_02_LUNAR_ITEM_PERSONALGIFT_LUNAR_WOOD_BASIC_1_NAME"
+    },
+    {
+      "id": "8f7e28026acad320",
+      "name": "displayGroup_alchemy_recipe_event_2021_02_lunar_item_personalgift_lunar_stone_basic_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_2021_02_LUNAR_ITEM_PERSONALGIFT_LUNAR_STONE_BASIC_1_NAME"
+    },
+    {
+      "id": "aff726df38175637",
+      "name": "displayGroup_alchemy_recipe_event_2021_02_lunar_item_personalgift_lunar_iron_basic_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_2021_02_LUNAR_ITEM_PERSONALGIFT_LUNAR_IRON_BASIC_1_NAME"
+    },
+    {
+      "id": "2868e8f8dad3a31",
+      "name": "displayGroup_alchemy_recipe_event_2021_02_lunar_item_personalgift_lunar_food_rare_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_2021_02_LUNAR_ITEM_PERSONALGIFT_LUNAR_FOOD_RARE_1_NAME"
+    },
+    {
+      "id": "83eeb19344eb62a8",
+      "name": "displayGroup_alchemy_recipe_event_2021_02_lunar_item_personalgift_lunar_wood_rare_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_2021_02_LUNAR_ITEM_PERSONALGIFT_LUNAR_WOOD_RARE_1_NAME"
+    },
+    {
+      "id": "121972a1a297d3fb",
+      "name": "displayGroup_alchemy_recipe_event_2021_02_lunar_item_personalgift_lunar_stone_rare_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_2021_02_LUNAR_ITEM_PERSONALGIFT_LUNAR_STONE_RARE_1_NAME"
+    },
+    {
+      "id": "7f0e1aee613947a2",
+      "name": "displayGroup_alchemy_recipe_event_2021_02_lunar_item_personalgift_lunar_iron_rare_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_2021_02_LUNAR_ITEM_PERSONALGIFT_LUNAR_IRON_RARE_1_NAME"
+    },
+    {
+      "id": "4b435c1a3aa4c110",
+      "name": "displayGroup_alchemy_recipe_event_A_festival_item_hero_adv_eddisontollett_nightswatchrecruit_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_A_FESTIVAL_ITEM_HERO_ADV_EDDISONTOLLETT_NIGHTSWATCHRECRUIT_1_NAME"
+    },
+    {
+      "id": "1d043d291d663372",
+      "name": "displayGroup_alchemy_recipe_event_A_festival_item_hero_adv_hodor_gentlegiant_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_A_FESTIVAL_ITEM_HERO_ADV_HODOR_GENTLEGIANT_1_NAME"
+    },
+    {
+      "id": "fa2ea5384f064475",
+      "name": "displayGroup_alchemy_recipe_event_B_festival_item_hero_adv_hotpie_nightswatchrecruit_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_B_FESTIVAL_ITEM_HERO_ADV_HOTPIE_NIGHTSWATCHRECRUIT_1_NAME"
+    },
+    {
+      "id": "b74dc5237477e62c",
+      "name": "displayGroup_alchemy_recipe_event_B_festival_item_hero_adv_lancellannister_kingssquire_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_B_FESTIVAL_ITEM_HERO_ADV_LANCELLANNISTER_KINGSSQUIRE_1_NAME"
+    },
+    {
+      "id": "70e0d07657f3c867",
+      "name": "displayGroup_alchemy_recipe_event_C_festival_item_hero_adv_podrickpayne_youngsquire_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_C_FESTIVAL_ITEM_HERO_ADV_PODRICKPAYNE_YOUNGSQUIRE_1_NAME"
+    },
+    {
+      "id": "7161a5649f713160",
+      "name": "displayGroup_alchemy_recipe_event_C_festival_item_hero_adv_pyatpree_warlockofqarth_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_C_FESTIVAL_ITEM_HERO_ADV_PYATPREE_WARLOCKOFQARTH_1_NAME"
+    },
+    {
+      "id": "9f011c74392ea776",
+      "name": "displayGroup_alchemy_recipe_event_C_festival_item_hero_adv_shae_handmaiden_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_C_FESTIVAL_ITEM_HERO_ADV_SHAE_HANDMAIDEN_1_NAME"
+    },
+    {
+      "id": "63537b3b7dc45aaa",
+      "name": "displayGroup_alchemy_recipe_event_A_festival_item_hero_adv_benjenstark_firstranger_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_A_FESTIVAL_ITEM_HERO_ADV_BENJENSTARK_FIRSTRANGER_1_NAME"
+    },
+    {
+      "id": "15839e377bd9391e",
+      "name": "displayGroup_alchemy_recipe_event_A_festival_item_hero_adv_gendry_apprenticeblacksmith_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_A_FESTIVAL_ITEM_HERO_ADV_GENDRY_APPRENTICEBLACKSMITH_1_NAME"
+    },
+    {
+      "id": "45a94d13237ca3b2",
+      "name": "displayGroup_alchemy_recipe_event_C_festival_item_hero_adv_jonsnow_bastardofwinterfell_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_C_FESTIVAL_ITEM_HERO_ADV_JONSNOW_BASTARDOFWINTERFELL_1_NAME"
+    },
+    {
+      "id": "ec2ceee6d56a7063",
+      "name": "displayGroup_alchemy_recipe_event_B_festival_item_hero_adv_maesterluwin_maesterofwinterfell_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_B_FESTIVAL_ITEM_HERO_ADV_MAESTERLUWIN_MAESTEROFWINTERFELL_1_NAME"
+    },
+    {
+      "id": "e164bcbb6785d623",
+      "name": "displayGroup_alchemy_recipe_event_B_festival_item_hero_adv_robbstark_heirtowinterfell_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_B_FESTIVAL_ITEM_HERO_ADV_ROBBSTARK_HEIRTOWINTERFELL_1_NAME"
+    },
+    {
+      "id": "c7a8dac48489edf4",
+      "name": "displayGroup_alchemy_recipe_event_C_festival_item_hero_adv_sansastark_littlebird_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_C_FESTIVAL_ITEM_HERO_ADV_SANSASTARK_LITTLEBIRD_1_NAME"
+    },
+    {
+      "id": "dd98a1cc774e57be",
+      "name": "displayGroup_alchemy_recipe_event_C_festival_item_hero_adv_theongreyjoy_wardofwinterfell_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_C_FESTIVAL_ITEM_HERO_ADV_THEONGREYJOY_WARDOFWINTERFELL_1_NAME"
+    },
+    {
+      "id": "38b3e51af37f45d8",
+      "name": "displayGroup_alchemy_recipe_event_A_festival_item_hero_adv_eddardstark_youngwarrior_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_A_FESTIVAL_ITEM_HERO_ADV_EDDARDSTARK_YOUNGWARRIOR_1_NAME"
+    },
+    {
+      "id": "8dbcf8cd5b31561d",
+      "name": "displayGroup_alchemy_recipe_event_A_festival_item_hero_adv_margaerytyrell_kingsbetrothed_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_A_FESTIVAL_ITEM_HERO_ADV_MARGAERYTYRELL_KINGSBETROTHED_1_NAME"
+    },
+    {
+      "id": "88eb26640d55f11d",
+      "name": "displayGroup_alchemy_recipe_event_A_festival_item_hero_adv_missandei_heraldofthedragon_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_A_FESTIVAL_ITEM_HERO_ADV_MISSANDEI_HERALDOFTHEDRAGON_1_NAME"
+    },
+    {
+      "id": "7c355596f575c3c7",
+      "name": "displayGroup_alchemy_recipe_event_B_festival_item_hero_adv_petyrbaelish_littlefinger_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_B_FESTIVAL_ITEM_HERO_ADV_PETYRBAELISH_LITTLEFINGER_1_NAME"
+    },
+    {
+      "id": "b34ac43cf80665b3",
+      "name": "displayGroup_alchemy_recipe_event_B_festival_item_hero_adv_qyburn_fallenmaester_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_B_FESTIVAL_ITEM_HERO_ADV_QYBURN_FALLENMAESTER_1_NAME"
+    },
+    {
+      "id": "289bfb7df377bc91",
+      "name": "displayGroup_alchemy_recipe_event_B_festival_item_hero_adv_tyrionlannister_theimp_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_B_FESTIVAL_ITEM_HERO_ADV_TYRIONLANNISTER_THEIMP_1_NAME"
+    },
+    {
+      "id": "20c93cae2b7d2f5b",
+      "name": "displayGroup_alchemy_recipe_event_C_festival_item_hero_adv_varys_thespider_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_C_FESTIVAL_ITEM_HERO_ADV_VARYS_THESPIDER_1_NAME"
+    },
+    {
+      "id": "c8e289b4b65d4b92",
+      "name": "displayGroup_alchemy_recipe_event_C_festival_item_hero_adv_yaragreyjoy_ironbornraider_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_C_FESTIVAL_ITEM_HERO_ADV_YARAGREYJOY_IRONBORNRAIDER_1_NAME"
+    },
+    {
+      "id": "cbbc9aefc200d211",
+      "name": "displayGroup_alchemy_recipe_event_A_festival_item_hero_adv_aryastark_waterdancer_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_A_FESTIVAL_ITEM_HERO_ADV_ARYASTARK_WATERDANCER_1_NAME"
+    },
+    {
+      "id": "1807c0df455b43f",
+      "name": "displayGroup_alchemy_recipe_event_A_festival_item_hero_adv_rhaegartargaryen_lastdragon_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_A_FESTIVAL_ITEM_HERO_ADV_RHAEGARTARGARYEN_LASTDRAGON_1_NAME"
+    },
+    {
+      "id": "b1ede44789f6d91",
+      "name": "displayGroup_alchemy_recipe_event_A_festival_item_hero_adv_benjenstark_coldhands_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_A_FESTIVAL_ITEM_HERO_ADV_BENJENSTARK_COLDHANDS_1_NAME"
+    },
+    {
+      "id": "f27d39898d2d82d9",
+      "name": "displayGroup_alchemy_recipe_event_B_festival_item_hero_adv_lorastyrell_knightofflowers_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_B_FESTIVAL_ITEM_HERO_ADV_LORASTYRELL_KNIGHTOFFLOWERS_1_NAME"
+    },
+    {
+      "id": "a048ebe347dc227f",
+      "name": "displayGroup_alchemy_recipe_event_B_festival_item_hero_adv_cerseilannister_queenmother_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_B_FESTIVAL_ITEM_HERO_ADV_CERSEILANNISTER_QUEENMOTHER_1_NAME"
+    },
+    {
+      "id": "eca8a557efbb906e",
+      "name": "displayGroup_alchemy_recipe_event_B_festival_item_hero_adv_balongreyjoy_lordreaper_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_B_FESTIVAL_ITEM_HERO_ADV_BALONGREYJOY_LORDREAPER_1_NAME"
+    },
+    {
+      "id": "95f500aaa4f5d9eb",
+      "name": "displayGroup_alchemy_recipe_event_C_festival_item_hero_adv_salladhorsaan_piratelord_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_C_FESTIVAL_ITEM_HERO_ADV_SALLADHORSAAN_PIRATELORD_1_NAME"
+    },
+    {
+      "id": "bfe660c90a9c42ae",
+      "name": "displayGroup_alchemy_recipe_event_C_festival_item_hero_adv_leaf_childoftheforest_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_C_FESTIVAL_ITEM_HERO_ADV_LEAF_CHILDOFTHEFOREST_1_NAME"
+    },
+    {
+      "id": "3047e408d550ec0b",
+      "name": "displayGroup_alchemy_recipe_event_C_festival_item_hero_adv_walderfrey_lordofthecrossing_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_C_FESTIVAL_ITEM_HERO_ADV_WALDERFREY_LORDOFTHECROSSING_1_NAME"
+    },
+    {
+      "id": "faacc7b6fbf24543",
+      "name": "displayGroup_alchemy_recipe_event_A_festival_item_hero_adv_oldnan_weaveroftales_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_A_FESTIVAL_ITEM_HERO_ADV_OLDNAN_WEAVEROFTALES_1_NAME"
+    },
+    {
+      "id": "8692e4a5d98ef525",
+      "name": "displayGroup_alchemy_recipe_event_A_festival_item_hero_adv_anguy_thearcher_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_A_FESTIVAL_ITEM_HERO_ADV_ANGUY_THEARCHER_1_NAME"
+    },
+    {
+      "id": "72c83241d76c1773",
+      "name": "displayGroup_alchemy_recipe_event_A_festival_item_hero_adv_maesterluwin_loyalservant_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_A_FESTIVAL_ITEM_HERO_ADV_MAESTERLUWIN_LOYALSERVANT_1_NAME"
+    },
+    {
+      "id": "38da52201edc3d5",
+      "name": "displayGroup_alchemy_recipe_event_B_festival_item_hero_adv_jaimelannister_kingsguard_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_B_FESTIVAL_ITEM_HERO_ADV_JAIMELANNISTER_KINGSGUARD_1_NAME"
+    },
+    {
+      "id": "1586920eaef96cf5",
+      "name": "displayGroup_alchemy_recipe_event_B_festival_item_hero_adv_sansa_ladyofthenorth_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_B_FESTIVAL_ITEM_HERO_ADV_SANSA_LADYOFTHENORTH_1_NAME"
+    },
+    {
+      "id": "7cc00de1cb238f25",
+      "name": "displayGroup_alchemy_recipe_event_B_festival_item_hero_adv_robbstark_youngwolf_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_B_FESTIVAL_ITEM_HERO_ADV_ROBBSTARK_YOUNGWOLF_1_NAME"
+    },
+    {
+      "id": "546041f58591d879",
+      "name": "displayGroup_alchemy_recipe_event_C_festival_item_hero_adv_tychonestoris_titanofcommerce_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_C_FESTIVAL_ITEM_HERO_ADV_TYCHONESTORIS_TITANOFCOMMERCE_1_NAME"
+    },
+    {
+      "id": "6d4e0ba7a932b80c",
+      "name": "displayGroup_alchemy_recipe_event_C_festival_item_hero_adv_tyrionlannister_handofthequeen_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_C_FESTIVAL_ITEM_HERO_ADV_TYRIONLANNISTER_HANDOFTHEQUEEN_1_NAME"
+    },
+    {
+      "id": "9ae14ce44b27a740",
+      "name": "displayGroup_alchemy_recipe_event_C_festival_item_hero_adv_ellariasand_paramour_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_C_FESTIVAL_ITEM_HERO_ADV_ELLARIASAND_PARAMOUR_1_NAME"
+    },
+    {
+      "id": "466c899fe790f3f4",
+      "name": "displayGroup_alchemy_recipe_event_A_festival_item_hero_adv_roosebolton_lordofthedreadfort_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_A_FESTIVAL_ITEM_HERO_ADV_ROOSEBOLTON_LORDOFTHEDREADFORT_1_NAME"
+    },
+    {
+      "id": "c532eb62b3d25342",
+      "name": "displayGroup_alchemy_recipe_event_B_festival_item_hero_adv_daenerystargaryen_dragonqueen_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_B_FESTIVAL_ITEM_HERO_ADV_DAENERYSTARGARYEN_DRAGONQUEEN_1_NAME"
+    },
+    {
+      "id": "6e0b2abcaa2d2553",
+      "name": "displayGroup_alchemy_recipe_event_Z_festival_curr_Food",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_Z_FESTIVAL_CURR_FOOD_NAME"
+    },
+    {
+      "id": "86bdb67458b8a796",
+      "name": "displayGroup_alchemy_recipe_event_Z_festival_curr_Wood",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_Z_FESTIVAL_CURR_WOOD_NAME"
+    },
+    {
+      "id": "803916c57bb1a896",
+      "name": "displayGroup_alchemy_recipe_event_Z_festival_curr_Stone",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_Z_FESTIVAL_CURR_STONE_NAME"
+    },
+    {
+      "id": "4417bbe1af591753",
+      "name": "displayGroup_alchemy_recipe_event_Z_festival_curr_Iron",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_Z_FESTIVAL_CURR_IRON_NAME"
+    },
+    {
+      "id": "1834db4ba3107c23",
+      "name": "displayGroup_alchemy_recipe_event_Z_festival_curr_Steel",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_Z_FESTIVAL_CURR_STEEL_NAME"
+    },
+    {
+      "id": "211630cc59e01eab",
+      "name": "displayGroup_alchemy_recipe_event_A_festival_item_buildreq_scholarly_fragment_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_A_FESTIVAL_ITEM_BUILDREQ_SCHOLARLY_FRAGMENT_1_NAME"
+    },
+    {
+      "id": "f5f9a51a48fa25c6",
+      "name": "displayGroup_alchemy_recipe_event_A_festival_item_buildreq_pale_steel_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_A_FESTIVAL_ITEM_BUILDREQ_PALE_STEEL_1_NAME"
+    },
+    {
+      "id": "9b44c7891efd04c1",
+      "name": "displayGroup_alchemy_recipe_event_A_festival_item_buildreq_red_gold_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_A_FESTIVAL_ITEM_BUILDREQ_RED_GOLD_1_NAME"
+    },
+    {
+      "id": "7b1c278b450f548f",
+      "name": "displayGroup_alchemy_recipe_event_B_festival_item_buildreq_brick_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_B_FESTIVAL_ITEM_BUILDREQ_BRICK_1_NAME"
+    },
+    {
+      "id": "8de89372763b7bea",
+      "name": "displayGroup_alchemy_recipe_event_B_festival_item_buildreq_soldierpine_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_B_FESTIVAL_ITEM_BUILDREQ_SOLDIERPINE_1_NAME"
+    },
+    {
+      "id": "2e72376dd24105e6",
+      "name": "displayGroup_alchemy_recipe_event_B_festival_item_buildreq_keystone_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_B_FESTIVAL_ITEM_BUILDREQ_KEYSTONE_1_NAME"
+    },
+    {
+      "id": "f9f025bddabadc80",
+      "name": "displayGroup_alchemy_recipe_event_B_festival_item_buildreq_levelcap_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_B_FESTIVAL_ITEM_BUILDREQ_LEVELCAP_1_NAME"
+    },
+    {
+      "id": "9b32e6cfe64afdd4",
+      "name": "displayGroup_alchemy_recipe_event_C_festival_item_hero_adv_stones_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_C_FESTIVAL_ITEM_HERO_ADV_STONES_1_NAME"
+    },
+    {
+      "id": "99dc1350ecfe0dff",
+      "name": "displayGroup_alchemy_recipe_event_C_festival_item_hero_adv_xp_10000",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_C_FESTIVAL_ITEM_HERO_ADV_XP_10000_NAME"
+    },
+    {
+      "id": "fb981a11322aab1f",
+      "name": "displayGroup_alchemy_recipe_event_D_festival_item_buildreq_dragon_research_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_D_FESTIVAL_ITEM_BUILDREQ_DRAGON_RESEARCH_1_NAME"
+    },
+    {
+      "id": "8e8a46faebdf5911",
+      "name": "displayGroup_alchemy_recipe_event_D_festival_item_buildreq_dragon_research_2",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_D_FESTIVAL_ITEM_BUILDREQ_DRAGON_RESEARCH_2_NAME"
+    },
+    {
+      "id": "100a1ea2190cc949",
+      "name": "displayGroup_alchemy_recipe_event_E_festival_mat_blackiron",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_E_FESTIVAL_MAT_BLACKIRON_NAME"
+    },
+    {
+      "id": "1cd1b129a1fc518a",
+      "name": "displayGroup_alchemy_recipe_event_E_festival_mat_copperbar",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_E_FESTIVAL_MAT_COPPERBAR_NAME"
+    },
+    {
+      "id": "50e1dff717ad42a5",
+      "name": "displayGroup_alchemy_recipe_event_E_festival_mat_dragonglass",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_E_FESTIVAL_MAT_DRAGONGLASS_NAME"
+    },
+    {
+      "id": "f818fe42bddd636f",
+      "name": "displayGroup_alchemy_recipe_event_E_festival_mat_goldenheartwood",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_E_FESTIVAL_MAT_GOLDENHEARTWOOD_NAME"
+    },
+    {
+      "id": "2fcc84255f23942d",
+      "name": "displayGroup_alchemy_recipe_event_E_festival_mat_hide",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_E_FESTIVAL_MAT_HIDE_NAME"
+    },
+    {
+      "id": "6151933156d8e521",
+      "name": "displayGroup_alchemy_recipe_event_E_festival_mat_ironwood",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_E_FESTIVAL_MAT_IRONWOOD_NAME"
+    },
+    {
+      "id": "17abbe4e3156a880",
+      "name": "displayGroup_alchemy_recipe_event_E_festival_mat_kingswoodoak",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_E_FESTIVAL_MAT_KINGSWOODOAK_NAME"
+    },
+    {
+      "id": "b1a5af77f09178e6",
+      "name": "displayGroup_alchemy_recipe_event_E_festival_mat_leatherstrap",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_E_FESTIVAL_MAT_LEATHERSTRAP_NAME"
+    },
+    {
+      "id": "9978e8c0e60dbb3c",
+      "name": "displayGroup_alchemy_recipe_event_E_festival_mat_milkofthepoppy",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_E_FESTIVAL_MAT_MILKOFTHEPOPPY_NAME"
+    },
+    {
+      "id": "f1b53b7a06a9a2e2",
+      "name": "displayGroup_alchemy_recipe_event_E_festival_mat_silk",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_E_FESTIVAL_MAT_SILK_NAME"
+    },
+    {
+      "id": "32ecbf095ff4f91e",
+      "name": "displayGroup_alchemy_recipe_event_E_festival_mat_weirwood",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_E_FESTIVAL_MAT_WEIRWOOD_NAME"
+    },
+    {
+      "id": "e71c702347aae810",
+      "name": "displayGroup_alchemy_recipe_event_E_festival_mat_wildfire",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_E_FESTIVAL_MAT_WILDFIRE_NAME"
+    },
+    {
+      "id": "e9ea1ede14987e01",
+      "name": "displayGroup_alchemy_recipe_event_stranger_festival_item_event_favor_festival_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_STRANGER_FESTIVAL_ITEM_EVENT_FAVOR_FESTIVAL_1_NAME"
+    },
+    {
+      "id": "8741e167a3abe934",
+      "name": "displayGroup_alchemy_recipe_event_stranger_festival_item_hero_adv_xp_10",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_STRANGER_FESTIVAL_ITEM_HERO_ADV_XP_10_NAME"
+    }
+  ]
+}

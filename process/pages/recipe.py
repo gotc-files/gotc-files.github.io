@@ -40,6 +40,7 @@ class RecipeProcessor(PageProcessor):
                         self._process_recipe(
                             raw_recipe,
                             "recipe_ingredient_sets_%s" % recipe_file_suffix,
+                            "recipe_display_groups_%s" % recipe_file_suffix,
                             recipe_category,
                         )
                     )
@@ -49,14 +50,16 @@ class RecipeProcessor(PageProcessor):
             recipes.extend(recipes_from_file[::-1])
         return recipes
 
-    def _process_recipe(self, raw_recipe, recipe_ingredient_sets_file, recipe_category):
+    def _process_recipe(self, raw_recipe, recipe_ingredient_sets_file, recipe_display_groups_file, recipe_category):
         recipe_ingredients = self.lookup_file(
             recipe_ingredient_sets_file, "name", raw_recipe["ingredients_name"]
         )["ingredients"]
+        recipe_display_group = self.lookup_file(recipe_display_groups_file, "name", raw_recipe["display_group_name"])
         return {
             "id": raw_recipe["id"],
             "name": self.translate(raw_recipe["name_placeholder"]),
             "description": self.translate(raw_recipe["description_placeholder"]),
+            "display": self.translate(recipe_display_group["name_placeholder"]) if recipe_display_group else None,
             "category": recipe_category,
             "event_name": raw_recipe["event_name"],
             "event_points": raw_recipe["event_points"],

@@ -1,0 +1,140 @@
+{
+  "description": "Recipe display groups information",
+  "values": [
+    {
+      "id": "b1b9ef051e9d11ab",
+      "name": "displayGroup_alchemy_recipe_event_repeatable_tgh_curr_Wood",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_REPEATABLE_TGH_CURR_WOOD_NAME"
+    },
+    {
+      "id": "590f73cdec08936e",
+      "name": "displayGroup_alchemy_recipe_event_repeatable_tgh_curr_Food",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_REPEATABLE_TGH_CURR_FOOD_NAME"
+    },
+    {
+      "id": "237a6dfd639108ae",
+      "name": "displayGroup_alchemy_recipe_event_repeatable_tgh_curr_Stone",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_REPEATABLE_TGH_CURR_STONE_NAME"
+    },
+    {
+      "id": "7313e290e97ca16e",
+      "name": "displayGroup_alchemy_recipe_event_repeatable_tgh_curr_Iron",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_REPEATABLE_TGH_CURR_IRON_NAME"
+    },
+    {
+      "id": "1896c6dd8458d5d8",
+      "name": "displayGroup_alchemy_recipe_event_repeatable_tgh_item_buildreq_brick_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_REPEATABLE_TGH_ITEM_BUILDREQ_BRICK_1_NAME"
+    },
+    {
+      "id": "1655cf34bbf65729",
+      "name": "displayGroup_alchemy_recipe_event_repeatable_tgh_item_buildreq_scholarly_fragment_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_REPEATABLE_TGH_ITEM_BUILDREQ_SCHOLARLY_FRAGMENT_1_NAME"
+    },
+    {
+      "id": "2d38f22226acacc",
+      "name": "displayGroup_alchemy_recipe_event_repeatable_tgh_item_buildreq_pale_steel_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_REPEATABLE_TGH_ITEM_BUILDREQ_PALE_STEEL_1_NAME"
+    },
+    {
+      "id": "ab53606961624a82",
+      "name": "displayGroup_alchemy_recipe_event_repeatable_tgh_item_buildreq_soldierpine_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_REPEATABLE_TGH_ITEM_BUILDREQ_SOLDIERPINE_1_NAME"
+    },
+    {
+      "id": "1f350d8a8d38773b",
+      "name": "displayGroup_alchemy_recipe_event_repeatable_tgh_item_enhancereq_basic_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_REPEATABLE_TGH_ITEM_ENHANCEREQ_BASIC_1_NAME"
+    },
+    {
+      "id": "5dd068124fd8438f",
+      "name": "displayGroup_alchemy_recipe_event_repeatable_tgh_item_speedup_Building_60m",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_REPEATABLE_TGH_ITEM_SPEEDUP_BUILDING_60M_NAME"
+    },
+    {
+      "id": "d857aa3134f76e0f",
+      "name": "displayGroup_alchemy_recipe_event_repeatable_tgh_item_speedup_Research_60m",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_REPEATABLE_TGH_ITEM_SPEEDUP_RESEARCH_60M_NAME"
+    },
+    {
+      "id": "48eb838f4f717977",
+      "name": "displayGroup_alchemy_recipe_event_repeatable_tgh_item_speedup_Troop_60m",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_REPEATABLE_TGH_ITEM_SPEEDUP_TROOP_60M_NAME"
+    },
+    {
+      "id": "3a3de58203e8478a",
+      "name": "displayGroup_alchemy_recipe_event_repeatable_tgh_item_researcher_2_3d",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_REPEATABLE_TGH_ITEM_RESEARCHER_2_3D_NAME"
+    },
+    {
+      "id": "6c9b411936ac246d",
+      "name": "displayGroup_alchemy_recipe_event_repeatable_tgh_item_builder_2_3d",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_REPEATABLE_TGH_ITEM_BUILDER_2_3D_NAME"
+    },
+    {
+      "id": "eaf6ac6205d1172c",
+      "name": "displayGroup_alchemy_recipe_event_repeatable_tgh_item_Resource_Wood_1000000",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_REPEATABLE_TGH_ITEM_RESOURCE_WOOD_1000000_NAME"
+    },
+    {
+      "id": "aa3d4d75566da93d",
+      "name": "displayGroup_alchemy_recipe_event_repeatable_tgh_item_Resource_Food_1000000",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_REPEATABLE_TGH_ITEM_RESOURCE_FOOD_1000000_NAME"
+    },
+    {
+      "id": "c0a279596561d0c4",
+      "name": "displayGroup_alchemy_recipe_event_repeatable_tgh_item_Resource_Stone_150000",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_REPEATABLE_TGH_ITEM_RESOURCE_STONE_150000_NAME"
+    },
+    {
+      "id": "319700bda004c247",
+      "name": "displayGroup_alchemy_recipe_event_repeatable_tgh_item_Resource_Iron_40000",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_REPEATABLE_TGH_ITEM_RESOURCE_IRON_40000_NAME"
+    },
+    {
+      "id": "ca23dabf77578e6c",
+      "name": "displayGroup_alchemy_recipe_event_repeatable_tgh_item_buildreq_red_gold_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_REPEATABLE_TGH_ITEM_BUILDREQ_RED_GOLD_1_NAME"
+    },
+    {
+      "id": "4bbd2966c23bc2d7",
+      "name": "displayGroup_alchemy_recipe_event_repeatable_tgh_item_buildreq_keystone_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_REPEATABLE_TGH_ITEM_BUILDREQ_KEYSTONE_1_NAME"
+    },
+    {
+      "id": "732d19938e95ad76",
+      "name": "displayGroup_alchemy_recipe_event_repeatable_tgh_item_enhancereq_advanced_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_REPEATABLE_TGH_ITEM_ENHANCEREQ_ADVANCED_1_NAME"
+    },
+    {
+      "id": "78b5973bedd77600",
+      "name": "displayGroup_alchemy_recipe_event_repeatable_tgh_item_buildreq_dragon_research_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_REPEATABLE_TGH_ITEM_BUILDREQ_DRAGON_RESEARCH_1_NAME"
+    },
+    {
+      "id": "da7cbd03422840e",
+      "name": "displayGroup_alchemy_recipe_event_repeatable_tgh_item_buildreq_dragon_research_2",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_REPEATABLE_TGH_ITEM_BUILDREQ_DRAGON_RESEARCH_2_NAME"
+    },
+    {
+      "id": "1e1f59f98687dced",
+      "name": "displayGroup_alchemy_recipe_event_repeatable_tgh_item_dragon_livestock_6",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_REPEATABLE_TGH_ITEM_DRAGON_LIVESTOCK_6_NAME"
+    },
+    {
+      "id": "e02210c227bbc84b",
+      "name": "displayGroup_alchemy_recipe_event_repeatable_tgh_item_speedup_Building_24h",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_REPEATABLE_TGH_ITEM_SPEEDUP_BUILDING_24H_NAME"
+    },
+    {
+      "id": "65a5d2e15c94e5cb",
+      "name": "displayGroup_alchemy_recipe_event_repeatable_tgh_item_speedup_Research_24h",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_REPEATABLE_TGH_ITEM_SPEEDUP_RESEARCH_24H_NAME"
+    },
+    {
+      "id": "b7e6a7afbb27c4f3",
+      "name": "displayGroup_alchemy_recipe_event_repeatable_tgh_item_buildreq_red_gold_1_2",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_REPEATABLE_TGH_ITEM_BUILDREQ_RED_GOLD_1_NAME"
+    }
+  ]
+}

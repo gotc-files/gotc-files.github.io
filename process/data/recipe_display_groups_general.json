@@ -1,0 +1,920 @@
+{
+  "description": "Recipe display groups information",
+  "values": [
+    {
+      "id": "67e11de460ecd90d",
+      "name": "testDisplayGroup1",
+      "name_placeholder": "TEST_DISPLAY_GROUP_1"
+    },
+    {
+      "id": "12f3410fb9192b03",
+      "name": "testDisplayGroup2",
+      "name_placeholder": ""
+    },
+    {
+      "id": "d814465540d11d05",
+      "name": "displayGroupCorsairTokenToScrip",
+      "name_placeholder": "ALCHEMY_RECIPE_GROUP_TRADER_SCRIP"
+    },
+    {
+      "id": "981573f36416bd55",
+      "name": "displayGroupGreatHuntTokenToScrip",
+      "name_placeholder": "ALCHEMY_RECIPE_GROUP_TRADER_SCRIP"
+    },
+    {
+      "id": "84e7554b986ff8b2",
+      "name": "displayGroupUndyingEnvyTokenToScrip",
+      "name_placeholder": "ALCHEMY_RECIPE_GROUP_TRADER_SCRIP"
+    },
+    {
+      "id": "84dae830edc9704c",
+      "name": "displayGroupDorneTokenToScrip",
+      "name_placeholder": "ALCHEMY_RECIPE_GROUP_TRADER_SCRIP"
+    },
+    {
+      "id": "c70856e0d048550c",
+      "name": "displayGroupSiegeTokenToScrip",
+      "name_placeholder": "ALCHEMY_RECIPE_GROUP_TRADER_SCRIP"
+    },
+    {
+      "id": "de855fb9830e8f1a",
+      "name": "displayGroupHarrenhalTokenToScrip",
+      "name_placeholder": "ALCHEMY_RECIPE_GROUP_TRADER_SCRIP"
+    },
+    {
+      "id": "b2f21ae0c2499745",
+      "name": "displayGroupDTWTokenToScrip",
+      "name_placeholder": "ALCHEMY_RECIPE_GROUP_TRADER_SCRIP"
+    },
+    {
+      "id": "e23d2731d7c915dd",
+      "name": "displayGroupHonorsToFood",
+      "name_placeholder": "ALCHEMY_RECIPE_GROUP_FOOD"
+    },
+    {
+      "id": "a8bbbf9255c9718",
+      "name": "displayGroupHonorsToWood",
+      "name_placeholder": "ALCHEMY_RECIPE_GROUP_WOOD"
+    },
+    {
+      "id": "4ef8a76512c5cfd4",
+      "name": "displayGroupHonorsToStone",
+      "name_placeholder": "ALCHEMY_RECIPE_GROUP_STONE"
+    },
+    {
+      "id": "c821b66cd2bd27dd",
+      "name": "displayGroupHonorsToIron",
+      "name_placeholder": "ALCHEMY_RECIPE_GROUP_IRON"
+    },
+    {
+      "id": "89e4cded60b3719a",
+      "name": "displayGroup_2018_12_conquest_curr_Food_Amount_5000",
+      "name_placeholder": "ALCHEMY_RECIPE_EVENT_2018_12_CONQUEST_CURR_FOOD_AMOUNT_5000_NAME"
+    },
+    {
+      "id": "f3f4d51ba234ff82",
+      "name": "displayGroup_2018_12_conquest_mat_event_conquest_1_Amount_35",
+      "name_placeholder": "ALCHEMY_RECIPE_EVENT_2018_12_CONQUEST_MAT_EVENT_CONQUEST_1_AMOUNT_35_NAME"
+    },
+    {
+      "id": "29c1a0255320208f",
+      "name": "displayGroup_2018_12_conquest_item_event_rewardbox_craftingmaterial_1_Amount_1",
+      "name_placeholder": "ALCHEMY_RECIPE_EVENT_2018_12_CONQUEST_ITEM_EVENT_REWARDBOX_CRAFTINGMATERIAL_1_AMOUNT_1_NAME"
+    },
+    {
+      "id": "4b0a624d80906fb1",
+      "name": "displayGroup_2018_12_conquest_item_buildreq_scholarly_fragment_1_Amount_1",
+      "name_placeholder": "ALCHEMY_RECIPE_EVENT_2018_12_CONQUEST_ITEM_BUILDREQ_SCHOLARLY_FRAGMENT_1_AMOUNT_1_NAME"
+    },
+    {
+      "id": "5a35848cbfd79fe5",
+      "name": "displayGroup_2018_12_conquest_item_speedup_Building_5m_Amount_1",
+      "name_placeholder": "ALCHEMY_RECIPE_EVENT_2018_12_CONQUEST_ITEM_SPEEDUP_BUILDING_5M_AMOUNT_1_NAME"
+    },
+    {
+      "id": "bcfd0745976041e4",
+      "name": "displayGroup_2018_12_conquest_item_enhancereq_basic_1_Amount_15",
+      "name_placeholder": "ALCHEMY_RECIPE_EVENT_2018_12_CONQUEST_ITEM_ENHANCEREQ_BASIC_1_AMOUNT_15_NAME"
+    },
+    {
+      "id": "dcc7729bac0183e5",
+      "name": "displayGroup_2018_12_conquest_item_buildreq_red_gold_1_Amount_1",
+      "name_placeholder": "ALCHEMY_RECIPE_EVENT_2018_12_CONQUEST_ITEM_BUILDREQ_RED_GOLD_1_AMOUNT_1_NAME"
+    },
+    {
+      "id": "ec6fe9a4eb1b6aa5",
+      "name": "displayGroup_2018_12_conquest_item_peaceshield_1_Amount_1",
+      "name_placeholder": "ALCHEMY_RECIPE_EVENT_2018_12_CONQUEST_ITEM_PEACESHIELD_1_AMOUNT_1_NAME"
+    },
+    {
+      "id": "eab59d996e6f0a73",
+      "name": "displayGroup_2018_12_conquest_mat_trinket_dragon1_alpha_1_Amount_25",
+      "name_placeholder": "ALCHEMY_RECIPE_EVENT_2018_12_CONQUEST_MAT_TRINKET_DRAGON1_ALPHA_1_AMOUNT_25_NAME"
+    },
+    {
+      "id": "60591ef55555e909",
+      "name": "displayGroup_2018_12_conquest_mat_trinket_pouch_alpha_1_Amount_25",
+      "name_placeholder": "ALCHEMY_RECIPE_EVENT_2018_12_CONQUEST_MAT_TRINKET_POUCH_ALPHA_1_AMOUNT_25_NAME"
+    },
+    {
+      "id": "2f028f44c162ddb9",
+      "name": "displayGroup_2018_12_conquest_item_enhancereq_advanced_1_Amount_1",
+      "name_placeholder": "ALCHEMY_RECIPE_EVENT_2018_12_CONQUEST_ITEM_ENHANCEREQ_ADVANCED_1_AMOUNT_1_NAME"
+    },
+    {
+      "id": "19fb58803f8347f7",
+      "name": "displayGroup_2018_12_festival_curr_Food_Amount_500000",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_DISPLAYGROUP_2018_12_FESTIVAL_CURR_FOOD_AMOUNT_500000"
+    },
+    {
+      "id": "469464e1a9b7cfae",
+      "name": "displayGroup_2018_12_festival_item_speedup_Building_60m_Amount_1",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_DISPLAYGROUP_2018_12_FESTIVAL_ITEM_SPEEDUP_BUILDING_60M_AMOUNT_1"
+    },
+    {
+      "id": "f127b78ad5941110",
+      "name": "displayGroup_2018_12_festival_item_event_rewardbox_randomeventmaterials_amount1000_minquality1_Amount_4",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_DISPLAYGROUP_2018_12_FESTIVAL_ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_AMOUNT1000_MINQUALITY1_AMOUNT_4"
+    },
+    {
+      "id": "831ccaadc43ed0f5",
+      "name": "displayGroup_2018_12_festival_item_buildreq_keystone_1_Amount_125",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_DISPLAYGROUP_2018_12_FESTIVAL_ITEM_BUILDREQ_KEYSTONE_1_AMOUNT_125"
+    },
+    {
+      "id": "635ed4a415672faa",
+      "name": "displayGroup_2018_12_festival_item_Resource_Food_1000000_Amount_20",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_DISPLAYGROUP_2018_12_FESTIVAL_ITEM_RESOURCE_FOOD_1000000_AMOUNT_20"
+    },
+    {
+      "id": "c2e0323835b1242",
+      "name": "displayGroup_2018_12_festival_item_event_rewardbox_livestock_3_Amount_18",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_DISPLAYGROUP_2018_12_FESTIVAL_ITEM_EVENT_REWARDBOX_LIVESTOCK_3_AMOUNT_18"
+    },
+    {
+      "id": "75a8dab91be0693a",
+      "name": "displayGroup_repeatable_dragon_item_dragon_livestock_2",
+      "name_placeholder": "ITEM_DRAGON_LIVESTOCK_2_NAME"
+    },
+    {
+      "id": "5959111facb338c0",
+      "name": "displayGroup_repeatable_dragon_item_dragon_livestock_3",
+      "name_placeholder": "ITEM_DRAGON_LIVESTOCK_3_NAME"
+    },
+    {
+      "id": "9f8c636ea80b8d26",
+      "name": "displayGroup_repeatable_dragon_item_dragon_livestock_4",
+      "name_placeholder": "ITEM_DRAGON_LIVESTOCK_4_NAME"
+    },
+    {
+      "id": "15e20c575aeee725",
+      "name": "displayGroup_2018_festival_favorsToVolantene",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_2018_FESTIVAL_FAVORSTOVOLANTENE_NAME"
+    },
+    {
+      "id": "c3e1428e5c744e99",
+      "name": "displayGroup_2018_festival_favorsToMeereenese",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_2018_FESTIVAL_FAVORSTOMEEREENESE_NAME"
+    },
+    {
+      "id": "a45aecaabc17e566",
+      "name": "displayGroup_BattlefieldSalvage_Food",
+      "name_placeholder": "ALCHEMY_RECIPE_GROUP_DISPLAYGROUP_BATTLEFIELDSALVAGE_FOOD"
+    },
+    {
+      "id": "4cec70624e8267a3",
+      "name": "displayGroup_BattlefieldSalvage_Wood",
+      "name_placeholder": "ALCHEMY_RECIPE_GROUP_DISPLAYGROUP_BATTLEFIELDSALVAGE_WOOD"
+    },
+    {
+      "id": "226ae587820afd9c",
+      "name": "displayGroup_BattlefieldSalvage_FoodtoWood",
+      "name_placeholder": "ALCHEMY_RECIPE_GROUP_FOODTOWOOD"
+    },
+    {
+      "id": "3c4a499b15f879c3",
+      "name": "displayGroup_BattlefieldSalvage_FoodtoStone",
+      "name_placeholder": "ALCHEMY_RECIPE_GROUP_FOODTOSTONE"
+    },
+    {
+      "id": "e0c0e81275eb4d59",
+      "name": "displayGroup_BattlefieldSalvage_FoodtoIron",
+      "name_placeholder": "ALCHEMY_RECIPE_GROUP_FOODTOIRON"
+    },
+    {
+      "id": "b54b776d94983a40",
+      "name": "displayGroup_BattlefieldSalvage_WoodtoFood",
+      "name_placeholder": "ALCHEMY_RECIPE_GROUP_WOODTOFOOD"
+    },
+    {
+      "id": "bd227687dcbe215a",
+      "name": "displayGroup_BattlefieldSalvage_WoodtoStone",
+      "name_placeholder": "ALCHEMY_RECIPE_GROUP_WOODTOSTONE"
+    },
+    {
+      "id": "9f57e63091ec0840",
+      "name": "displayGroup_BattlefieldSalvage_WoodtoIron",
+      "name_placeholder": "ALCHEMY_RECIPE_GROUP_WOODTOIRON"
+    },
+    {
+      "id": "237e974fdac1e468",
+      "name": "displayGroup_BattlefieldSalvage_SecretstoLore",
+      "name_placeholder": "ALCHEMY_RECIPE_GROUP_SECRETSTOLORE"
+    },
+    {
+      "id": "95c0470203209bc3",
+      "name": "displayGroup_BattlefieldSalvage_LoretoSecrets",
+      "name_placeholder": "ALCHEMY_RECIPE_GROUP_LORETOSECRETS"
+    },
+    {
+      "id": "a4478415cd59ad76",
+      "name": "displayGroup_BattlefieldSalvage_FoodtoSteel",
+      "name_placeholder": "ALCHEMY_RECIPE_GROUP_FOODTOSTEEL"
+    },
+    {
+      "id": "252fbb09041ff5ef",
+      "name": "displayGroup_BattlefieldSalvage_WoodtoSteel",
+      "name_placeholder": "ALCHEMY_RECIPE_GROUP_WOODTOSTEEL"
+    },
+    {
+      "id": "45d324f4f117a485",
+      "name": "displayGroup_BattlefieldSalvage_Flux_0",
+      "name_placeholder": "ALCHEMY_RECIPE_GROUP_DISPLAYGROUP_BATTLEFIELDSALVAGE_FLUX_0"
+    },
+    {
+      "id": "6922ef524644f57f",
+      "name": "displayGroup_BattlefieldSalvage_Flux_1",
+      "name_placeholder": "ALCHEMY_RECIPE_GROUP_DISPLAYGROUP_BATTLEFIELDSALVAGE_FLUX_1"
+    },
+    {
+      "id": "1c30b3b99fb10771",
+      "name": "displayGroup_BattlefieldSalvage_Flux_2",
+      "name_placeholder": "ALCHEMY_RECIPE_GROUP_DISPLAYGROUP_BATTLEFIELDSALVAGE_FLUX_2"
+    },
+    {
+      "id": "463b72fdbd3f525b",
+      "name": "displayGroup_BattlefieldSalvage_mat_trinket_dtw_alpha_1",
+      "name_placeholder": "ALCHEMY_RECIPE_GROUP_DISPLAYGROUP_BATTLEFIELDSALVAGE_MAT_TRINKET_DTW_ALPHA_1"
+    },
+    {
+      "id": "aa648008e3d1f422",
+      "name": "displayGroup_recipe_event_repeatable_salvage_item_enhancereq_basic_1_Amount_15",
+      "name_placeholder": "ALCHEMY_RECIPE_GROUP_DISPLAYGROUP_RECIPE_EVENT_REPEATABLE_SALVAGE_ITEM_ENHANCEREQ_BASIC_1_AMOUNT_15"
+    },
+    {
+      "id": "4cac03c1cb662a23",
+      "name": "displayGroup_recipe_event_repeatable_salvage_item_speedup_Building_5m_Amount_1",
+      "name_placeholder": "ALCHEMY_RECIPE_GROUP_DISPLAYGROUP_RECIPE_EVENT_REPEATABLE_SALVAGE_ITEM_SPEEDUP_BUILDING_5M_AMOUNT_1"
+    },
+    {
+      "id": "f326359fff98b5cd",
+      "name": "displayGroup_recipe_event_repeatable_salvage_item_speedup_Research_5m_Amount_1",
+      "name_placeholder": "ALCHEMY_RECIPE_GROUP_DISPLAYGROUP_RECIPE_EVENT_REPEATABLE_SALVAGE_ITEM_SPEEDUP_RESEARCH_5M_AMOUNT_1"
+    },
+    {
+      "id": "4abc0bfaf3095612",
+      "name": "displayGroup_recipe_event_repeatable_salvage_item_speedup_Crafting_5m_Amount_1",
+      "name_placeholder": "ALCHEMY_RECIPE_GROUP_DISPLAYGROUP_RECIPE_EVENT_REPEATABLE_SALVAGE_ITEM_SPEEDUP_CRAFTING_5M_AMOUNT_1"
+    },
+    {
+      "id": "ef9e37cedb112155",
+      "name": "displayGroup_recipe_event_repeatable_salvage_item_FarmPlotBoost_100percent_24h_Amount_1",
+      "name_placeholder": "ALCHEMY_RECIPE_GROUP_DISPLAYGROUP_RECIPE_EVENT_REPEATABLE_SALVAGE_ITEM_FARMPLOTBOOST_100PERCENT_24H_AMOUNT_1"
+    },
+    {
+      "id": "ca3d4470671ac80f",
+      "name": "displayGroup_recipe_event_repeatable_salvage_item_SawmillPlotBoost_100percent_24h_Amount_1",
+      "name_placeholder": "ALCHEMY_RECIPE_GROUP_DISPLAYGROUP_RECIPE_EVENT_REPEATABLE_SALVAGE_ITEM_SAWMILLPLOTBOOST_100PERCENT_24H_AMOUNT_1"
+    },
+    {
+      "id": "4efea6eb39951548",
+      "name": "displayGroup_recipe_event_repeatable_salvage_item_Random_Teleport_Amount_1",
+      "name_placeholder": "ALCHEMY_RECIPE_GROUP_DISPLAYGROUP_RECIPE_EVENT_REPEATABLE_SALVAGE_ITEM_RANDOM_TELEPORT_AMOUNT_1"
+    },
+    {
+      "id": "6acd07517c0e32d4",
+      "name": "displayGroup_recipe_event_repeatable_salvage_item_enhancereq_advanced_1_Amount_1",
+      "name_placeholder": "ALCHEMY_RECIPE_GROUP_DISPLAYGROUP_RECIPE_EVENT_REPEATABLE_SALVAGE_ITEM_ENHANCEREQ_ADVANCED_1_AMOUNT_1"
+    },
+    {
+      "id": "f412ea5c4c85e429",
+      "name": "displayGroup_recipe_event_repeatable_salvage_item_builder_2_1d_Amount_1",
+      "name_placeholder": "ALCHEMY_RECIPE_GROUP_DISPLAYGROUP_RECIPE_EVENT_REPEATABLE_SALVAGE_ITEM_BUILDER_2_1D_AMOUNT_1"
+    },
+    {
+      "id": "8be2b9e1f91d7da0",
+      "name": "displayGroup_recipe_event_repeatable_salvage_item_researcher_2_1d_Amount_1",
+      "name_placeholder": "ALCHEMY_RECIPE_GROUP_DISPLAYGROUP_RECIPE_EVENT_REPEATABLE_SALVAGE_ITEM_RESEARCHER_2_1D_AMOUNT_1"
+    },
+    {
+      "id": "f0cb9df920b2db87",
+      "name": "displayGroup_recipe_event_repeatable_salvage_item_peaceshield_1_Amount_1",
+      "name_placeholder": "ALCHEMY_RECIPE_GROUP_DISPLAYGROUP_RECIPE_EVENT_REPEATABLE_SALVAGE_ITEM_PEACESHIELD_1_AMOUNT_1"
+    },
+    {
+      "id": "2c5a959c3e5efbc",
+      "name": "displayGroup_recipe_event_repeatable_salvage_item_Advanced_Teleport_Amount_1",
+      "name_placeholder": "ALCHEMY_RECIPE_GROUP_DISPLAYGROUP_RECIPE_EVENT_REPEATABLE_SALVAGE_ITEM_ADVANCED_TELEPORT_AMOUNT_1"
+    },
+    {
+      "id": "580b419fee2b7bd1",
+      "name": "displayGroup__item_flux_0__mat_blackiron",
+      "name_placeholder": "ITEM_MATERIALS_BLACKIRON"
+    },
+    {
+      "id": "54d0ee1456dbe312",
+      "name": "displayGroup__item_flux_0__mat_copperbar",
+      "name_placeholder": "ITEM_MATERIALS_COPPERBAR"
+    },
+    {
+      "id": "7c7ce712713bc2d1",
+      "name": "displayGroup__item_flux_0__mat_dragonglass",
+      "name_placeholder": "ITEM_MATERIALS_DRAGONGLASS"
+    },
+    {
+      "id": "e0f8f1956a486abb",
+      "name": "displayGroup__item_flux_0__mat_goldenheartwood",
+      "name_placeholder": "ITEM_MATERIALS_GOLDENHEARTWOOD"
+    },
+    {
+      "id": "a1db4c4731678b3a",
+      "name": "displayGroup__item_flux_0__mat_hide",
+      "name_placeholder": "ITEM_MATERIALS_HIDE"
+    },
+    {
+      "id": "b2725a69b5a4a031",
+      "name": "displayGroup__item_flux_0__mat_ironwood",
+      "name_placeholder": "ITEM_MATERIALS_IRONWOOD"
+    },
+    {
+      "id": "dcc539560f8c5ed0",
+      "name": "displayGroup__item_flux_0__mat_kingswoodoak",
+      "name_placeholder": "ITEM_MATERIALS_KINGSWOODOAK"
+    },
+    {
+      "id": "7acb286fce4b8eb6",
+      "name": "displayGroup__item_flux_0__mat_leatherstrap",
+      "name_placeholder": "ITEM_MATERIALS_LEATHERSTRAPS"
+    },
+    {
+      "id": "52d31843e9f09d8c",
+      "name": "displayGroup__item_flux_0__mat_milkofthepoppy",
+      "name_placeholder": "ITEM_MATERIALS_MILKOFTHEPOPPY"
+    },
+    {
+      "id": "7fa2f31868edbdf5",
+      "name": "displayGroup__item_flux_0__mat_silk",
+      "name_placeholder": "ITEM_MATERIALS_SILK"
+    },
+    {
+      "id": "e1cf7651bc88bc0e",
+      "name": "displayGroup__item_flux_0__mat_weirwood",
+      "name_placeholder": "ITEM_MATERIALS_WEIRWOOD"
+    },
+    {
+      "id": "343fb97ba4d6ad00",
+      "name": "displayGroup__item_flux_0__mat_wildfire",
+      "name_placeholder": "ITEM_MATERIALS_WILDFIRE"
+    },
+    {
+      "id": "f8d1825e9ee53279",
+      "name": "displayGroup__item_flux_1__mat_event_winteriscoming_1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_WINTERISCOMING_1_NAME"
+    },
+    {
+      "id": "34937baf9415cd06",
+      "name": "displayGroup__item_flux_1__mat_event_winterishere_1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_WINTERISHERE_1_NAME"
+    },
+    {
+      "id": "8bb85208b1b23838",
+      "name": "displayGroup__item_flux_1__mat_event_essosinvades_1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_ESSOSINVADES_1_NAME"
+    },
+    {
+      "id": "829a03743990d67e",
+      "name": "displayGroup__item_flux_1__mat_event_knightsmind_1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_KNIGHTSMIND_1_NAME"
+    },
+    {
+      "id": "364bb1acbfc26546",
+      "name": "displayGroup__item_flux_1__mat_event_essospirate_1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_ESSOSPIRATE_1_NAME"
+    },
+    {
+      "id": "4bacfe99e59b3926",
+      "name": "displayGroup__item_flux_1__mat_event_ironisland_1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_IRONISLAND_1_NAME"
+    },
+    {
+      "id": "2c34b0794e9e103d",
+      "name": "displayGroup__item_flux_1__mat_event_faithmilitant_1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_FAITHMILITANT_1_NAME"
+    },
+    {
+      "id": "b3304a38a9a94175",
+      "name": "displayGroup__item_flux_1__mat_event_wildling_1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_WILDLING_1_NAME"
+    },
+    {
+      "id": "521b0b602eb7e09c",
+      "name": "displayGroup__item_flux_1__mat_event_wrathofwinter_1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_WRATHOFWINTER_1_NAME"
+    },
+    {
+      "id": "5294a10aec867d6b",
+      "name": "displayGroup__item_flux_1__mat_event_blackfyre_1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_BLACKFYRE_1_NAME"
+    },
+    {
+      "id": "a52d2e2ccb511d08",
+      "name": "displayGroup__item_flux_2__mat_event_bolton_1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_BOLTON_1_NAME"
+    },
+    {
+      "id": "58ba208bb2fe0d8f",
+      "name": "displayGroup__item_flux_2__mat_event_braavos_1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_BRAAVOS_1_NAME"
+    },
+    {
+      "id": "cd3bc6eb001c158b",
+      "name": "displayGroup__item_flux_2__mat_event_greathunt_1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_GREATHUNT_1_NAME"
+    },
+    {
+      "id": "2acd2fc12f7de5b5",
+      "name": "displayGroup__item_flux_2__mat_event_undying_1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_UNDYING_1_NAME"
+    },
+    {
+      "id": "c54ca10175a34722",
+      "name": "displayGroup__item_flux_2__mat_event_conquest_1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_CONQUEST_1_NAME"
+    },
+    {
+      "id": "2bf60b3d7ee91f97",
+      "name": "displayGroup__item_flux_2__mat_event_masterofwar_1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_MASTEROFWAR_1_NAME"
+    },
+    {
+      "id": "85abc2dbed9b17b4",
+      "name": "displayGroup__item_flux_2__mat_event_harrenhal_1",
+      "name_placeholder": "ITEM_MATERIALS_EVENT_HARRENHAL_1_NAME"
+    },
+    {
+      "id": "bee4b3ec4dcb2e86",
+      "name": "displayGroup__test__boost_peaceshield",
+      "name_placeholder": "TEST Instant Peace Shield (1 hr) DO NOT USE"
+    },
+    {
+      "id": "1874c664620c0128",
+      "name": "displayGroup__test__boost_attack",
+      "name_placeholder": "TEST Instant Attack Boost 7%(1 hr) DO NOT USE"
+    },
+    {
+      "id": "2fb6dfc3b7911b53",
+      "name": "displayGroup__test__boost_marchspeed",
+      "name_placeholder": "TEST Instant March Speed Boost 7%(1 hr) DO NOT USE"
+    },
+    {
+      "id": "e9135d158f724371",
+      "name": "displayGroup_infantry_1_sacrifice",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_INFANTRY_1_SACRIFICE_NAME"
+    },
+    {
+      "id": "dde4fb287414a6b6",
+      "name": "displayGroup_ranged_1_sacrifice",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_RANGED_1_SACRIFICE_NAME"
+    },
+    {
+      "id": "7ca81c4b50d6f811",
+      "name": "displayGroup_mounted_1_sacrifice",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_MOUNTED_1_SACRIFICE_NAME"
+    },
+    {
+      "id": "ddb34bf985273cfc",
+      "name": "displayGroup_siege_1_sacrifice",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_SIEGE_1_SACRIFICE_NAME"
+    },
+    {
+      "id": "8fc0d53f73f7979d",
+      "name": "displayGroup_infantry_2_sacrifice",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_INFANTRY_2_SACRIFICE_NAME"
+    },
+    {
+      "id": "bb3773028891725a",
+      "name": "displayGroup_ranged_2_sacrifice",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_RANGED_2_SACRIFICE_NAME"
+    },
+    {
+      "id": "1a7b9461ac532cfd",
+      "name": "displayGroup_mounted_2_sacrifice",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_MOUNTED_2_SACRIFICE_NAME"
+    },
+    {
+      "id": "bb60c3d379a2e810",
+      "name": "displayGroup_siege_2_sacrifice",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_SIEGE_2_SACRIFICE_NAME"
+    },
+    {
+      "id": "ad8e52d9278b2439",
+      "name": "displayGroup_infantry_3_sacrifice",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_INFANTRY_3_SACRIFICE_NAME"
+    },
+    {
+      "id": "9979f4e4dcedc1fe",
+      "name": "displayGroup_ranged_3_sacrifice",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_RANGED_3_SACRIFICE_NAME"
+    },
+    {
+      "id": "38351387f82f9f59",
+      "name": "displayGroup_mounted_3_sacrifice",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_MOUNTED_3_SACRIFICE_NAME"
+    },
+    {
+      "id": "992e44352dde5bb4",
+      "name": "displayGroup_siege_3_sacrifice",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_SIEGE_3_SACRIFICE_NAME"
+    },
+    {
+      "id": "4267c56a8afc3e45",
+      "name": "displayGroup_infantry_4_sacrifice",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_INFANTRY_4_SACRIFICE_NAME"
+    },
+    {
+      "id": "76906357719adb82",
+      "name": "displayGroup_ranged_4_sacrifice",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_RANGED_4_SACRIFICE_NAME"
+    },
+    {
+      "id": "d7dc843455588525",
+      "name": "displayGroup_mounted_4_sacrifice",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_MOUNTED_4_SACRIFICE_NAME"
+    },
+    {
+      "id": "76c7d38680a941c8",
+      "name": "displayGroup_siege_4_sacrifice",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_SIEGE_4_SACRIFICE_NAME"
+    },
+    {
+      "id": "6029428cde808de1",
+      "name": "displayGroup_infantry_5_sacrifice",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_INFANTRY_5_SACRIFICE_NAME"
+    },
+    {
+      "id": "54dee4b125e66826",
+      "name": "displayGroup_ranged_5_sacrifice",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_RANGED_5_SACRIFICE_NAME"
+    },
+    {
+      "id": "f59203d201243681",
+      "name": "displayGroup_mounted_5_sacrifice",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_MOUNTED_5_SACRIFICE_NAME"
+    },
+    {
+      "id": "54895460d4d5f26c",
+      "name": "displayGroup_siege_5_sacrifice",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_SIEGE_5_SACRIFICE_NAME"
+    },
+    {
+      "id": "6facaa62205590d",
+      "name": "displayGroup_infantry_6_sacrifice",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_INFANTRY_6_SACRIFICE_NAME"
+    },
+    {
+      "id": "320d6c9bd963bcca",
+      "name": "displayGroup_ranged_6_sacrifice",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_RANGED_6_SACRIFICE_NAME"
+    },
+    {
+      "id": "93418bf8fda1e26d",
+      "name": "displayGroup_mounted_6_sacrifice",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_MOUNTED_6_SACRIFICE_NAME"
+    },
+    {
+      "id": "325adc4a28502680",
+      "name": "displayGroup_siege_6_sacrifice",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_SIEGE_6_SACRIFICE_NAME"
+    },
+    {
+      "id": "24b44d407679eaa9",
+      "name": "displayGroup_infantry_7_sacrifice",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_INFANTRY_7_SACRIFICE_NAME"
+    },
+    {
+      "id": "1043eb7d8d1f0f6e",
+      "name": "displayGroup_ranged_7_sacrifice",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_RANGED_7_SACRIFICE_NAME"
+    },
+    {
+      "id": "b10f0c1ea9dd51c9",
+      "name": "displayGroup_mounted_7_sacrifice",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_MOUNTED_7_SACRIFICE_NAME"
+    },
+    {
+      "id": "10145bac7c2c9524",
+      "name": "displayGroup_siege_7_sacrifice",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_SIEGE_7_SACRIFICE_NAME"
+    },
+    {
+      "id": "5b93a7b4314422de",
+      "name": "displayGroup_infantry_8_sacrifice",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_INFANTRY_8_SACRIFICE_NAME"
+    },
+    {
+      "id": "6f640189ca22c719",
+      "name": "displayGroup_ranged_8_sacrifice",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_RANGED_8_SACRIFICE_NAME"
+    },
+    {
+      "id": "ce28e6eaeee099be",
+      "name": "displayGroup_mounted_8_sacrifice",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_MOUNTED_8_SACRIFICE_NAME"
+    },
+    {
+      "id": "6f33b1583b115d53",
+      "name": "displayGroup_siege_8_sacrifice",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_SIEGE_8_SACRIFICE_NAME"
+    },
+    {
+      "id": "79dd20526538917a",
+      "name": "displayGroup_infantry_9_sacrifice",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_INFANTRY_9_SACRIFICE_NAME"
+    },
+    {
+      "id": "4d2a866f9e5e74bd",
+      "name": "displayGroup_ranged_9_sacrifice",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_RANGED_9_SACRIFICE_NAME"
+    },
+    {
+      "id": "ec66610cba9c2a1a",
+      "name": "displayGroup_mounted_9_sacrifice",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_MOUNTED_9_SACRIFICE_NAME"
+    },
+    {
+      "id": "4d7d36be6f6deef7",
+      "name": "displayGroup_siege_9_sacrifice",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_SIEGE_9_SACRIFICE_NAME"
+    },
+    {
+      "id": "66878334ed6e5c6",
+      "name": "displayGroup_infantry_10_sacrifice",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_INFANTRY_10_SACRIFICE_NAME"
+    },
+    {
+      "id": "a0276d7925fee50f",
+      "name": "displayGroup_ranged_10_sacrifice",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_RANGED_10_SACRIFICE_NAME"
+    },
+    {
+      "id": "36aa8b3cb93ca898",
+      "name": "displayGroup_mounted_10_sacrifice",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_MOUNTED_10_SACRIFICE_NAME"
+    },
+    {
+      "id": "bd0303639f20c1c5",
+      "name": "displayGroup_siege_10_sacrifice",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_SIEGE_10_SACRIFICE_NAME"
+    },
+    {
+      "id": "8a2b5bf65460411f",
+      "name": "displayGroup_dtw_item_event_rewardbox_craftingmaterial_1",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_DTW_ITEM_EVENT_REWARDBOX_CRAFTINGMATERIAL_1_NAME"
+    },
+    {
+      "id": "358d7d472ceceb30",
+      "name": "displayGroup_dtw_item_buildreq_brick_1",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_DTW_ITEM_BUILDREQ_BRICK_1_NAME"
+    },
+    {
+      "id": "abff80638e4b048d",
+      "name": "displayGroup_dtw_item_speedup_Research_5m",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_DTW_ITEM_SPEEDUP_RESEARCH_5M_NAME"
+    },
+    {
+      "id": "896f3c9fc69c2682",
+      "name": "displayGroup_dtw_craft_mat_event_trinket_premium",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_DTW_CRAFT_MAT_EVENT_TRINKET_PREMIUM_NAME"
+    },
+    {
+      "id": "47b91778c1245162",
+      "name": "displayGroup_2019_04_new_arc_curr_Food",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_2019_04_NEW_ARC_CURR_FOOD_NAME"
+    },
+    {
+      "id": "af0f8bb033b1d3a7",
+      "name": "displayGroup_2019_04_new_arc_curr_Wood",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_2019_04_NEW_ARC_CURR_WOOD_NAME"
+    },
+    {
+      "id": "9f6c4063f75d2548",
+      "name": "displayGroup_2019_04_new_arc_craft_mat_event",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_2019_04_NEW_ARC_CRAFT_MAT_EVENT_NAME"
+    },
+    {
+      "id": "c854814c3b944261",
+      "name": "displayGroup_2019_04_new_arc_item_event_rewardbox_craftingmaterial_1",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_2019_04_NEW_ARC_ITEM_EVENT_REWARDBOX_CRAFTINGMATERIAL_1_NAME"
+    },
+    {
+      "id": "865858f493c98c30",
+      "name": "displayGroup_2019_04_new_arc_item_event_rewardbox_livestock_1",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_2019_04_NEW_ARC_ITEM_EVENT_REWARDBOX_LIVESTOCK_1_NAME"
+    },
+    {
+      "id": "7f2459baa0965277",
+      "name": "displayGroup_2019_04_new_arc_item_buildreq_brick_1",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_2019_04_NEW_ARC_ITEM_BUILDREQ_BRICK_1_NAME"
+    },
+    {
+      "id": "e7a9698686c21f3",
+      "name": "displayGroup_2019_04_new_arc_item_buildreq_pale_steel_1",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_2019_04_NEW_ARC_ITEM_BUILDREQ_PALE_STEEL_1_NAME"
+    },
+    {
+      "id": "23f200839ae3cd02",
+      "name": "displayGroup_2019_04_new_arc_item_speedup_Research_5m",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_2019_04_NEW_ARC_ITEM_SPEEDUP_RESEARCH_5M_NAME"
+    },
+    {
+      "id": "d0fd586e9c4d7ce3",
+      "name": "displayGroup_2019_04_new_arc_item_event_rewardbox_buildingenhancement_2",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_2019_04_NEW_ARC_ITEM_EVENT_REWARDBOX_BUILDINGENHANCEMENT_2_NAME"
+    },
+    {
+      "id": "f34a041f4a3c7e3e",
+      "name": "displayGroup_2019_04_new_arc_item_event_rewardbox_livestock_2",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_2019_04_NEW_ARC_ITEM_EVENT_REWARDBOX_LIVESTOCK_2_NAME"
+    },
+    {
+      "id": "579cc4b0c01e95dd",
+      "name": "displayGroup_2019_04_new_arc_item_buildreq_keystone_1",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_2019_04_NEW_ARC_ITEM_BUILDREQ_KEYSTONE_1_NAME"
+    },
+    {
+      "id": "131f876f2264f7f4",
+      "name": "displayGroup_2019_04_new_arc_item_peaceshield_1",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_2019_04_NEW_ARC_ITEM_PEACESHIELD_1_NAME"
+    },
+    {
+      "id": "5de5e35c3b5c1529",
+      "name": "displayGroup_2019_04_new_arc_craft_mat_event_trinket_premium",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_2019_04_NEW_ARC_CRAFT_MAT_EVENT_TRINKET_PREMIUM_NAME"
+    },
+    {
+      "id": "fc0c93c82b1e2d19",
+      "name": "displayGroup_2019_04_new_arc_item_event_rewardbox_buildingenhancement_3",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_2019_04_NEW_ARC_ITEM_EVENT_REWARDBOX_BUILDINGENHANCEMENT_3_NAME"
+    },
+    {
+      "id": "dfbbcfb9fd6f2fc4",
+      "name": "displayGroup_2019_04_new_arc_item_event_rewardbox_livestock_3",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_2019_04_NEW_ARC_ITEM_EVENT_REWARDBOX_LIVESTOCK_3_NAME"
+    },
+    {
+      "id": "8acc977c97edfda9",
+      "name": "displayGroup_2019_06_aftermath_curr_Food",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_2019_06_AFTERMATH_CURR_FOOD_NAME"
+    },
+    {
+      "id": "627a0bb465787f6c",
+      "name": "displayGroup_2019_06_aftermath_curr_Wood",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_2019_06_AFTERMATH_CURR_WOOD_NAME"
+    },
+    {
+      "id": "9933dc80a1e89abf",
+      "name": "displayGroup_2019_06_aftermath_craft_mat_event",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_2019_06_AFTERMATH_CRAFT_MAT_EVENT_NAME"
+    },
+    {
+      "id": "26e85deff4af734e",
+      "name": "displayGroup_2019_06_aftermath_item_event_rewardbox_craftingmaterial_1",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_2019_06_AFTERMATH_ITEM_EVENT_REWARDBOX_CRAFTINGMATERIAL_1_NAME"
+    },
+    {
+      "id": "d77d1e5084531060",
+      "name": "displayGroup_2019_06_aftermath_item_buildreq_scholarly_fragment_1",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_2019_06_AFTERMATH_ITEM_BUILDREQ_SCHOLARLY_FRAGMENT_1_NAME"
+    },
+    {
+      "id": "108ddc3df697c6c2",
+      "name": "displayGroup_2019_06_aftermath_item_buildreq_soldierpine_1",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_2019_06_AFTERMATH_ITEM_BUILDREQ_SOLDIERPINE_1_NAME"
+    },
+    {
+      "id": "85e79736cab89e39",
+      "name": "displayGroup_2019_06_aftermath_item_speedup_Building_5m",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_2019_06_AFTERMATH_ITEM_SPEEDUP_BUILDING_5M_NAME"
+    },
+    {
+      "id": "171560092dca6ae8",
+      "name": "displayGroup_2019_06_aftermath_item_event_rewardbox_plotboost_1",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_2019_06_AFTERMATH_ITEM_EVENT_REWARDBOX_PLOTBOOST_1_NAME"
+    },
+    {
+      "id": "6d5a5e0654173b95",
+      "name": "displayGroup_2019_06_aftermath_item_buildreq_red_gold_1",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_2019_06_AFTERMATH_ITEM_BUILDREQ_RED_GOLD_1_NAME"
+    },
+    {
+      "id": "9427768244978d0c",
+      "name": "displayGroup_2019_06_aftermath_item_advanced_teleport",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_2019_06_AFTERMATH_ITEM_ADVANCED_TELEPORT_NAME"
+    },
+    {
+      "id": "c689377d998bfd8f",
+      "name": "displayGroup_2019_06_aftermath_item_buildreq_dragon_research_1",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_2019_06_AFTERMATH_ITEM_BUILDREQ_DRAGON_RESEARCH_1_NAME"
+    },
+    {
+      "id": "24c7e2d65eaa14a6",
+      "name": "displayGroup_2019_06_aftermath_item_event_rewardbox_combatboost_1",
+      "name_placeholder": "ALCHEMY_DISPLAYGROUP_2019_06_AFTERMATH_ITEM_EVENT_REWARDBOX_COMBATBOOST_1_NAME"
+    },
+    {
+      "id": "7ac3818f38a24c49",
+      "name": "displayGroupBountiesFoodGatheringBoost",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_REPEATABLE_BOUNTYEXCHANGE_ITEM_ELITE_MONSTER_BOUNTY_INTO__BOOST_FOODGATHERING_BOUNTY_10_1D0H0M_NAME"
+    },
+    {
+      "id": "5314eb260e9cff87",
+      "name": "displayGroupBountiesWoodGatheringBoost",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_REPEATABLE_BOUNTYEXCHANGE_ITEM_ELITE_MONSTER_BOUNTY_INTO__BOOST_WOODGATHERING_BOUNTY_10_1D0H0M_NAME"
+    },
+    {
+      "id": "bdff9b331a192700",
+      "name": "displayGroupBountiesStoneGatheringBoost",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_REPEATABLE_BOUNTYEXCHANGE_ITEM_ELITE_MONSTER_BOUNTY_INTO__BOOST_STONEGATHERING_BOUNTY_10_1D0H0M_NAME"
+    },
+    {
+      "id": "2c6a445ecabf4e0d",
+      "name": "displayGroupBountiesIronGatheringBoost",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_REPEATABLE_BOUNTYEXCHANGE_ITEM_ELITE_MONSTER_BOUNTY_INTO__BOOST_IRONGATHERING_BOUNTY_10_1D0H0M_NAME"
+    },
+    {
+      "id": "9afb80b0bf6137c2",
+      "name": "displayGroupBountiesFoodGenerationBoost",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_REPEATABLE_BOUNTYEXCHANGE_ITEM_ELITE_MONSTER_BOUNTY_INTO__BOOST_FOODGENERATION_BOUNTY_10_1D0H0M_NAME"
+    },
+    {
+      "id": "f56c61d004e2fe5c",
+      "name": "displayGroupBountiesWoodGenerationBoost",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_REPEATABLE_BOUNTYEXCHANGE_ITEM_ELITE_MONSTER_BOUNTY_INTO__BOOST_WOODGENERATION_BOUNTY_10_1D0H0M_NAME"
+    },
+    {
+      "id": "f20ad9ebb19969f7",
+      "name": "displayGroupBountiesStoneGenerationBoost",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_REPEATABLE_BOUNTYEXCHANGE_ITEM_ELITE_MONSTER_BOUNTY_INTO__BOOST_STONEGENERATION_BOUNTY_10_1D0H0M_NAME"
+    },
+    {
+      "id": "8899b64845621977",
+      "name": "displayGroupBountiesIronGenerationBoost",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_REPEATABLE_BOUNTYEXCHANGE_ITEM_ELITE_MONSTER_BOUNTY_INTO__BOOST_IRONGENERATION_BOUNTY_10_1D0H0M_NAME"
+    },
+    {
+      "id": "9ffb250d4ffcad3",
+      "name": "displayGroupBountiesFoodProtectedBoost",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_REPEATABLE_BOUNTYEXCHANGE_ITEM_ELITE_MONSTER_BOUNTY_INTO__BOOST_FOODPROTECTED_BOUNTY_500K_1D0H0M_1_NAME"
+    },
+    {
+      "id": "2028d8f9e2c1791d",
+      "name": "displayGroupBountiesWoodProtectedBoost",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_REPEATABLE_BOUNTYEXCHANGE_ITEM_ELITE_MONSTER_BOUNTY_INTO__BOOST_WOODPROTECTED_BOUNTY_500K_1D0H0M_1_NAME"
+    },
+    {
+      "id": "cec3a8ecf644a19a",
+      "name": "displayGroupBountiesStoneProtectedBoost",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_REPEATABLE_BOUNTYEXCHANGE_ITEM_ELITE_MONSTER_BOUNTY_INTO__BOOST_STONEPROTECTED_BOUNTY_250K_1D0H0M_1_NAME"
+    },
+    {
+      "id": "5f56778126e2c897",
+      "name": "displayGroupBountiesIronProtectedBoost",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_REPEATABLE_BOUNTYEXCHANGE_ITEM_ELITE_MONSTER_BOUNTY_INTO__BOOST_IRONPROTECTED_BOUNTY_125K_1D0H0M_1_NAME"
+    },
+    {
+      "id": "c5be1703233d227b",
+      "name": "displayGroupBountiesForgingSteelCostBoost",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_REPEATABLE_BOUNTYEXCHANGE_ITEM_ELITE_MONSTER_BOUNTY_INTO__BOOST_FORGINGSTEELCOST_BOUNTY_5_0D1H0M_NAME"
+    },
+    {
+      "id": "bbcf20f0bd850a7f",
+      "name": "displayGroupBountiesHealCostBoost",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_REPEATABLE_BOUNTYEXCHANGE_ITEM_ELITE_MONSTER_BOUNTY_INTO__BOOST_HEALCOST_BOUNTY_5_0D1H0M_NAME"
+    },
+    {
+      "id": "c0f93816ba2cb24b",
+      "name": "displayGroupBountiesHealTimeBoost",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_REPEATABLE_BOUNTYEXCHANGE_ITEM_ELITE_MONSTER_BOUNTY_INTO__BOOST_HEALTIME_BOUNTY_5_0D1H0M_NAME"
+    },
+    {
+      "id": "879b5e319232930d",
+      "name": "displayGroupBountiesResearchSpeedBoost",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_REPEATABLE_BOUNTYEXCHANGE_ITEM_ELITE_MONSTER_BOUNTY_INTO__BOOST_RESEARCHSPEED_BOUNTY_5_0D1H0M_NAME"
+    },
+    {
+      "id": "acd0dd1f439eb3fb",
+      "name": "displayGroupBountiesTrainingSpeedBoost",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_REPEATABLE_BOUNTYEXCHANGE_ITEM_ELITE_MONSTER_BOUNTY_INTO__BOOST_TRAININGSPEED_BOUNTY_5_0D1H0M_NAME"
+    }
+  ]
+}

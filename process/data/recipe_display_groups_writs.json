@@ -1,0 +1,185 @@
+{
+  "description": "Recipe display groups information",
+  "values": [
+    {
+      "id": "a173a4350c16a47b",
+      "name": "displayGroup_alchemy_quantitylimited_writexchange_curr_Wood_into__curr_food",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_QUANTITYLIMITED_WRITEXCHANGE_CURR_WOOD_INTO__CURR_FOOD_NAME"
+    },
+    {
+      "id": "f99ac1dff8d8bff7",
+      "name": "displayGroup_alchemy_quantitylimited_writexchange_curr_Stone_into__curr_food",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_QUANTITYLIMITED_WRITEXCHANGE_CURR_STONE_INTO__CURR_FOOD_NAME"
+    },
+    {
+      "id": "a08ceba0e11e8bd3",
+      "name": "displayGroup_alchemy_quantitylimited_writexchange_curr_Iron_into__curr_food",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_QUANTITYLIMITED_WRITEXCHANGE_CURR_IRON_INTO__CURR_FOOD_NAME"
+    },
+    {
+      "id": "fc10ca0d785d2821",
+      "name": "displayGroup_alchemy_quantitylimited_writexchange_item_buildreq_brick_1_into__curr_food",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_QUANTITYLIMITED_WRITEXCHANGE_ITEM_BUILDREQ_BRICK_1_INTO__CURR_FOOD_NAME"
+    },
+    {
+      "id": "1814d7038abfc75f",
+      "name": "displayGroup_alchemy_quantitylimited_writexchange_item_buildreq_soldierpine_1_into__curr_food",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_QUANTITYLIMITED_WRITEXCHANGE_ITEM_BUILDREQ_SOLDIERPINE_1_INTO__CURR_FOOD_NAME"
+    },
+    {
+      "id": "98e3b76b3b464c5a",
+      "name": "displayGroup_alchemy_quantitylimited_writexchange_item_buildreq_keystone_1_into__curr_food",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_QUANTITYLIMITED_WRITEXCHANGE_ITEM_BUILDREQ_KEYSTONE_1_INTO__CURR_FOOD_NAME"
+    },
+    {
+      "id": "b88c157a3469ac74",
+      "name": "displayGroup_alchemy_quantitylimited_writexchange_item_buildreq_scholarly_fragment_1_into__curr_food",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_QUANTITYLIMITED_WRITEXCHANGE_ITEM_BUILDREQ_SCHOLARLY_FRAGMENT_1_INTO__CURR_FOOD_NAME"
+    },
+    {
+      "id": "de1b313ae2fa9e8c",
+      "name": "displayGroup_alchemy_quantitylimited_writexchange_item_buildreq_pale_steel_1_into__curr_food",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_QUANTITYLIMITED_WRITEXCHANGE_ITEM_BUILDREQ_PALE_STEEL_1_INTO__CURR_FOOD_NAME"
+    },
+    {
+      "id": "a6a826b425786e65",
+      "name": "displayGroup_alchemy_quantitylimited_writexchange_item_buildreq_red_gold_1_into__curr_food",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_QUANTITYLIMITED_WRITEXCHANGE_ITEM_BUILDREQ_RED_GOLD_1_INTO__CURR_FOOD_NAME"
+    },
+    {
+      "id": "cf355445d5f5e8d8",
+      "name": "displayGroup_alchemy_quantitylimited_writexchange_curr_Food_into__curr_Wood",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_QUANTITYLIMITED_WRITEXCHANGE_CURR_FOOD_INTO__CURR_WOOD_NAME"
+    },
+    {
+      "id": "112c5d170a4d3d32",
+      "name": "displayGroup_alchemy_quantitylimited_writexchange_curr_Stone_into__curr_Wood",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_QUANTITYLIMITED_WRITEXCHANGE_CURR_STONE_INTO__CURR_WOOD_NAME"
+    },
+    {
+      "id": "483a7768138b0916",
+      "name": "displayGroup_alchemy_quantitylimited_writexchange_curr_Iron_into__curr_Wood",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_QUANTITYLIMITED_WRITEXCHANGE_CURR_IRON_INTO__CURR_WOOD_NAME"
+    },
+    {
+      "id": "14a656c58ac8aae4",
+      "name": "displayGroup_alchemy_quantitylimited_writexchange_item_buildreq_brick_1_into__curr_Wood",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_QUANTITYLIMITED_WRITEXCHANGE_ITEM_BUILDREQ_BRICK_1_INTO__CURR_WOOD_NAME"
+    },
+    {
+      "id": "f0a24bcb782a459a",
+      "name": "displayGroup_alchemy_quantitylimited_writexchange_item_buildreq_soldierpine_1_into__curr_Wood",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_QUANTITYLIMITED_WRITEXCHANGE_ITEM_BUILDREQ_SOLDIERPINE_1_INTO__CURR_WOOD_NAME"
+    },
+    {
+      "id": "70552ba3c9d3ce9f",
+      "name": "displayGroup_alchemy_quantitylimited_writexchange_item_buildreq_keystone_1_into__curr_Wood",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_QUANTITYLIMITED_WRITEXCHANGE_ITEM_BUILDREQ_KEYSTONE_1_INTO__CURR_WOOD_NAME"
+    },
+    {
+      "id": "503a89b2c6fc2eb1",
+      "name": "displayGroup_alchemy_quantitylimited_writexchange_item_buildreq_scholarly_fragment_1_into__curr_Wood",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_QUANTITYLIMITED_WRITEXCHANGE_ITEM_BUILDREQ_SCHOLARLY_FRAGMENT_1_INTO__CURR_WOOD_NAME"
+    },
+    {
+      "id": "36adadf2106f1c49",
+      "name": "displayGroup_alchemy_quantitylimited_writexchange_item_buildreq_pale_steel_1_into__curr_Wood",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_QUANTITYLIMITED_WRITEXCHANGE_ITEM_BUILDREQ_PALE_STEEL_1_INTO__CURR_WOOD_NAME"
+    },
+    {
+      "id": "4e1eba7cd7edeca0",
+      "name": "displayGroup_alchemy_quantitylimited_writexchange_item_buildreq_red_gold_1_into__curr_Wood",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_QUANTITYLIMITED_WRITEXCHANGE_ITEM_BUILDREQ_RED_GOLD_1_INTO__CURR_WOOD_NAME"
+    },
+    {
+      "id": "2e938917fc5eb561",
+      "name": "displayGroup_alchemy_quantitylimited_writexchange_curr_Food_into__curr_Stone",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_QUANTITYLIMITED_WRITEXCHANGE_CURR_FOOD_INTO__CURR_STONE_NAME"
+    },
+    {
+      "id": "f46688e25eabce56",
+      "name": "displayGroup_alchemy_quantitylimited_writexchange_curr_Wood_into__curr_Stone",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_QUANTITYLIMITED_WRITEXCHANGE_CURR_WOOD_INTO__CURR_STONE_NAME"
+    },
+    {
+      "id": "41aab03ec32d3cad",
+      "name": "displayGroup_alchemy_quantitylimited_writexchange_curr_Iron_into__curr_Stone",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_QUANTITYLIMITED_WRITEXCHANGE_CURR_IRON_INTO__CURR_STONE_NAME"
+    },
+    {
+      "id": "a1cdaed2a2345c57",
+      "name": "displayGroup_alchemy_quantitylimited_writexchange_item_buildreq_brick_1_into__curr_Stone",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_QUANTITYLIMITED_WRITEXCHANGE_ITEM_BUILDREQ_BRICK_1_INTO__CURR_STONE_NAME"
+    },
+    {
+      "id": "d6bc38e2eae9bd67",
+      "name": "displayGroup_alchemy_quantitylimited_writexchange_item_buildreq_soldierpine_1_into__curr_Stone",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_QUANTITYLIMITED_WRITEXCHANGE_ITEM_BUILDREQ_SOLDIERPINE_1_INTO__CURR_STONE_NAME"
+    },
+    {
+      "id": "490a2abee84652fe",
+      "name": "displayGroup_alchemy_quantitylimited_writexchange_item_buildreq_keystone_1_into__curr_Stone",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_QUANTITYLIMITED_WRITEXCHANGE_ITEM_BUILDREQ_KEYSTONE_1_INTO__CURR_STONE_NAME"
+    },
+    {
+      "id": "d79e1a62e61ec443",
+      "name": "displayGroup_alchemy_quantitylimited_writexchange_item_buildreq_scholarly_fragment_1_into__curr_Stone",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_QUANTITYLIMITED_WRITEXCHANGE_ITEM_BUILDREQ_SCHOLARLY_FRAGMENT_1_INTO__CURR_STONE_NAME"
+    },
+    {
+      "id": "8b148786f7db1727",
+      "name": "displayGroup_alchemy_quantitylimited_writexchange_item_buildreq_pale_steel_1_into__curr_Stone",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_QUANTITYLIMITED_WRITEXCHANGE_ITEM_BUILDREQ_PALE_STEEL_1_INTO__CURR_STONE_NAME"
+    },
+    {
+      "id": "b3a3890330984aa6",
+      "name": "displayGroup_alchemy_quantitylimited_writexchange_item_buildreq_red_gold_1_into__curr_Stone",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_QUANTITYLIMITED_WRITEXCHANGE_ITEM_BUILDREQ_RED_GOLD_1_INTO__CURR_STONE_NAME"
+    },
+    {
+      "id": "d9f59d02214581d",
+      "name": "displayGroup_alchemy_quantitylimited_writexchange_curr_Food_into__curr_Iron",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_QUANTITYLIMITED_WRITEXCHANGE_CURR_FOOD_INTO__CURR_IRON_NAME"
+    },
+    {
+      "id": "8b6f35680962967b",
+      "name": "displayGroup_alchemy_quantitylimited_writexchange_curr_Wood_into__curr_Iron",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_QUANTITYLIMITED_WRITEXCHANGE_CURR_WOOD_INTO__CURR_IRON_NAME"
+    },
+    {
+      "id": "d3865082fdac8df7",
+      "name": "displayGroup_alchemy_quantitylimited_writexchange_curr_Stone_into__curr_Iron",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_QUANTITYLIMITED_WRITEXCHANGE_CURR_STONE_INTO__CURR_IRON_NAME"
+    },
+    {
+      "id": "d60c5b507d291a21",
+      "name": "displayGroup_alchemy_quantitylimited_writexchange_item_buildreq_brick_1_into__curr_Iron",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_QUANTITYLIMITED_WRITEXCHANGE_ITEM_BUILDREQ_BRICK_1_INTO__CURR_IRON_NAME"
+    },
+    {
+      "id": "3208465e8fcbf55f",
+      "name": "displayGroup_alchemy_quantitylimited_writexchange_item_buildreq_soldierpine_1_into__curr_Iron",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_QUANTITYLIMITED_WRITEXCHANGE_ITEM_BUILDREQ_SOLDIERPINE_1_INTO__CURR_IRON_NAME"
+    },
+    {
+      "id": "b2ff26363e327e5a",
+      "name": "displayGroup_alchemy_quantitylimited_writexchange_item_buildreq_keystone_1_into__curr_Iron",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_QUANTITYLIMITED_WRITEXCHANGE_ITEM_BUILDREQ_KEYSTONE_1_INTO__CURR_IRON_NAME"
+    },
+    {
+      "id": "92908427311d9e74",
+      "name": "displayGroup_alchemy_quantitylimited_writexchange_item_buildreq_scholarly_fragment_1_into__curr_Iron",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_QUANTITYLIMITED_WRITEXCHANGE_ITEM_BUILDREQ_SCHOLARLY_FRAGMENT_1_INTO__CURR_IRON_NAME"
+    },
+    {
+      "id": "f407a067e78eac8c",
+      "name": "displayGroup_alchemy_quantitylimited_writexchange_item_buildreq_pale_steel_1_into__curr_Iron",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_QUANTITYLIMITED_WRITEXCHANGE_ITEM_BUILDREQ_PALE_STEEL_1_INTO__CURR_IRON_NAME"
+    },
+    {
+      "id": "8cb4b7e9200c5c65",
+      "name": "displayGroup_alchemy_quantitylimited_writexchange_item_buildreq_red_gold_1_into__curr_Iron",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_QUANTITYLIMITED_WRITEXCHANGE_ITEM_BUILDREQ_RED_GOLD_1_INTO__CURR_IRON_NAME"
+    }
+  ]
+}

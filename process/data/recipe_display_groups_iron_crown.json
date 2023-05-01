@@ -1,0 +1,355 @@
+{
+  "description": "Recipe display groups information",
+  "values": [
+    {
+      "id": "feee614c083861a4",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_eddisontollett_nightswatchrecruit_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_EDDISONTOLLETT_NIGHTSWATCHRECRUIT_1_NAME"
+    },
+    {
+      "id": "54bee4b199944223",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_hodor_gentlegiant_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_HODOR_GENTLEGIANT_1_NAME"
+    },
+    {
+      "id": "ee90292837b06de1",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_hotpie_nightswatchrecruit_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_HOTPIE_NIGHTSWATCHRECRUIT_1_NAME"
+    },
+    {
+      "id": "bfef6c324c00f620",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_lancellannister_kingssquire_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_LANCELLANNISTER_KINGSSQUIRE_1_NAME"
+    },
+    {
+      "id": "6d7f52e29385fc05",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_podrickpayne_youngsquire_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_PODRICKPAYNE_YOUNGSQUIRE_1_NAME"
+    },
+    {
+      "id": "cada9bcbc652032a",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_pyatpree_warlockofqarth_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_PYATPREE_WARLOCKOFQARTH_1_NAME"
+    },
+    {
+      "id": "df2785d60fac1683",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_shae_handmaiden_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_SHAE_HANDMAIDEN_1_NAME"
+    },
+    {
+      "id": "f349d74146d0b53b",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_benjenstark_firstranger_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_BENJENSTARK_FIRSTRANGER_1_NAME"
+    },
+    {
+      "id": "4a0d5536cf082782",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_gendry_apprenticeblacksmith_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_GENDRY_APPRENTICEBLACKSMITH_1_NAME"
+    },
+    {
+      "id": "7fefc5f2609649ce",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_jonsnow_bastardofwinterfell_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_JONSNOW_BASTARDOFWINTERFELL_1_NAME"
+    },
+    {
+      "id": "d0322e0ce1f36aed",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_maesterluwin_maesterofwinterfell_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_MAESTERLUWIN_MAESTEROFWINTERFELL_1_NAME"
+    },
+    {
+      "id": "db387163a1a34eaa",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_robbstark_heirtowinterfell_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_ROBBSTARK_HEIRTOWINTERFELL_1_NAME"
+    },
+    {
+      "id": "94e4bc9dbbd0d4d7",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_sansastark_littlebird_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_SANSASTARK_LITTLEBIRD_1_NAME"
+    },
+    {
+      "id": "91e9b6b47abf1fc4",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_theongreyjoy_wardofwinterfell_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_THEONGREYJOY_WARDOFWINTERFELL_1_NAME"
+    },
+    {
+      "id": "66f7d63867f74529",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_aryastark_waterdancer_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_ARYASTARK_WATERDANCER_1_NAME"
+    },
+    {
+      "id": "a6559293dd68faa9",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_benjenstark_coldhands_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_BENJENSTARK_COLDHANDS_1_NAME"
+    },
+    {
+      "id": "9d5d69de35046985",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_eddardstark_youngwarrior_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_EDDARDSTARK_YOUNGWARRIOR_1_NAME"
+    },
+    {
+      "id": "b3a68fb418b7eb6f",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_margaerytyrell_kingsbetrothed_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_MARGAERYTYRELL_KINGSBETROTHED_1_NAME"
+    },
+    {
+      "id": "d765ed65b984ef81",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_missandei_heraldofthedragon_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_MISSANDEI_HERALDOFTHEDRAGON_1_NAME"
+    },
+    {
+      "id": "688bd9868dc3ea53",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_petyrbaelish_littlefinger_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_PETYRBAELISH_LITTLEFINGER_1_NAME"
+    },
+    {
+      "id": "d727cf9a539b132",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_qyburn_fallenmaester_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_QYBURN_FALLENMAESTER_1_NAME"
+    },
+    {
+      "id": "5e0eb70c4084aaa3",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_rhaegartargaryen_lastdragon_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_RHAEGARTARGARYEN_LASTDRAGON_1_NAME"
+    },
+    {
+      "id": "a07b0e23a9fba35f",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_tyrionlannister_theimp_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_TYRIONLANNISTER_THEIMP_1_NAME"
+    },
+    {
+      "id": "60efa50c1dff9eae",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_varys_thespider_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_VARYS_THESPIDER_1_NAME"
+    },
+    {
+      "id": "c6193c2102999706",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_yaragreyjoy_ironbornraider_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_YARAGREYJOY_IRONBORNRAIDER_1_NAME"
+    },
+    {
+      "id": "fadf9098b55a92d5",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_lorastyrell_knightofflowers_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_LORASTYRELL_KNIGHTOFFLOWERS_1_NAME"
+    },
+    {
+      "id": "a8ea42f27fab3273",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_cerseilannister_queenmother_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_CERSEILANNISTER_QUEENMOTHER_1_NAME"
+    },
+    {
+      "id": "839e73a8a354eb5c",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_balongreyjoy_lordreaper_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_BALONGREYJOY_LORDREAPER_1_NAME"
+    },
+    {
+      "id": "886a823e6083ed89",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_salladhorsaan_piratelord_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_SALLADHORSAAN_PIRATELORD_1_NAME"
+    },
+    {
+      "id": "94d398fba41e91e1",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_barristanselmy_lordcommander_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_BARRISTANSELMY_LORDCOMMANDER_1_NAME"
+    },
+    {
+      "id": "589d5278a583a6bd",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_bericdondarrion_lightninglord_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_BERICDONDARRION_LIGHTNINGLORD_1_NAME"
+    },
+    {
+      "id": "7926377974e0474b",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_cerseilannister_queenregent_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_CERSEILANNISTER_QUEENREGENT_1_NAME"
+    },
+    {
+      "id": "bd1fa8aefb19c4c3",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_daenerystargeryen_motherofdragons_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_DAENERYSTARGERYEN_MOTHEROFDRAGONS_1_NAME"
+    },
+    {
+      "id": "4eb8431972d6461",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_doranmartel_lordofsunspear_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_DORANMARTEL_LORDOFSUNSPEAR_1_NAME"
+    },
+    {
+      "id": "7cd8507046d6b476",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_greyworm_unsulliedcaptain_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_GREYWORM_UNSULLIEDCAPTAIN_1_NAME"
+    },
+    {
+      "id": "b4a0c36305a3d438",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_jamielannister_lionoflannister_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_JAMIELANNISTER_LIONOFLANNISTER_1_NAME"
+    },
+    {
+      "id": "dfadf8b8ffb6777e",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_jaqenhghar_facelessassassin_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_JAQENHGHAR_FACELESSASSASSIN_1_NAME"
+    },
+    {
+      "id": "f1653be15146a2ea",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_melisandre_theredwoman_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_MELISANDRE_THEREDWOMAN_1_NAME"
+    },
+    {
+      "id": "851ad6942f7d6149",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_sandorclegane_thehound_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_SANDORCLEGANE_THEHOUND_1_NAME"
+    },
+    {
+      "id": "ef397b4a7595f4e8",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_thorosofmyr_redpriest_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_THOROSOFMYR_REDPRIEST_1_NAME"
+    },
+    {
+      "id": "a2c8e1eb25d1cf9a",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_gregorclegane_themountain_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_GREGORCLEGANE_THEMOUNTAIN_1_NAME"
+    },
+    {
+      "id": "8e28124c15374236",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_ellariasand_motherofsnakes_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_ELLARIASAND_MOTHEROFSNAKES_1_NAME"
+    },
+    {
+      "id": "95c341ce0f7cadcd",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_eurongreyjoy_kingoftheironislands_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_EURONGREYJOY_KINGOFTHEIRONISLANDS_1_NAME"
+    },
+    {
+      "id": "c3fd79d7c519e7a7",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_daenerystargaryen_breakerofchains_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_DAENERYSTARGARYEN_BREAKEROFCHAINS_1_NAME"
+    },
+    {
+      "id": "e5677bc6b7467dbf",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_threeeyedraven_greenseer_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_THREEEYEDRAVEN_GREENSEER_1_NAME"
+    },
+    {
+      "id": "ecaa069035c57b8d",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_leaf_childoftheforest_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_LEAF_CHILDOFTHEFOREST_1_NAME"
+    },
+    {
+      "id": "b1440e41d51dd89d",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_jonsnow_lordcommander_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_JONSNOW_LORDCOMMANDER_1_NAME"
+    },
+    {
+      "id": "1e0ba7e01c9aa6ca",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_walderfrey_lordofthecrossing_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_WALDERFREY_LORDOFTHECROSSING_1_NAME"
+    },
+    {
+      "id": "e454c90982849518",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_nightking_firstwhitewalker_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_NIGHTKING_FIRSTWHITEWALKER_1_NAME"
+    },
+    {
+      "id": "5783a44ffd6b5b5b",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_oldnan_weaveroftales_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_OLDNAN_WEAVEROFTALES_1_NAME"
+    },
+    {
+      "id": "a494353295d82a0d",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_tyrion_handoftheking_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_TYRION_HANDOFTHEKING_1_NAME"
+    },
+    {
+      "id": "bd056d6922a9d223",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_anguy_thearcher_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_ANGUY_THEARCHER_1_NAME"
+    },
+    {
+      "id": "e021b26e8ad88f43",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_petyrbaelish_theunrequited_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_PETYRBAELISH_THEUNREQUITED_1_NAME"
+    },
+    {
+      "id": "e14eebe2d3f90034",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_maesterluwin_loyalservant_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_MAESTERLUWIN_LOYALSERVANT_1_NAME"
+    },
+    {
+      "id": "a3b434c8de074982",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_arya_thevengeful_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_ARYA_THEVENGEFUL_1_NAME"
+    },
+    {
+      "id": "17332932795bea41",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_jaimelannister_kingsguard_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_JAIMELANNISTER_KINGSGUARD_1_NAME"
+    },
+    {
+      "id": "321b1cb5ada76842",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_youngned_quietwolf_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_YOUNGNED_QUIETWOLF_1_NAME"
+    },
+    {
+      "id": "abbe2acbf3c6b874",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_sansa_ladyofthenorth_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_SANSA_LADYOFTHENORTH_1_NAME"
+    },
+    {
+      "id": "27b3c1324573b3c8",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_theongreyjoy_thebetrayed_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_THEONGREYJOY_THEBETRAYED_1_NAME"
+    },
+    {
+      "id": "143e03bebd65d052",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_robbstark_youngwolf_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_ROBBSTARK_YOUNGWOLF_1_NAME"
+    },
+    {
+      "id": "26e0dc6a9d28479e",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_renlybaratheon_lordparamount_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_RENLYBARATHEON_LORDPARAMOUNT_1_NAME"
+    },
+    {
+      "id": "1811568d88609003",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_tychonestoris_titanofcommerce_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_TYCHONESTORIS_TITANOFCOMMERCE_1_NAME"
+    },
+    {
+      "id": "9c870d4e8a2fb4ef",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_varys_keeperoftherealm_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_VARYS_KEEPEROFTHEREALM_1_NAME"
+    },
+    {
+      "id": "a950c6074a5d0d73",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_tyrionlannister_handofthequeen_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_TYRIONLANNISTER_HANDOFTHEQUEEN_1_NAME"
+    },
+    {
+      "id": "a49b9d7cb2d69648",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_syrioforel_firstswordofbraavos_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_SYRIOFOREL_FIRSTSWORDOFBRAAVOS_1_NAME"
+    },
+    {
+      "id": "2a2b42cadf7a35b6",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_ellariasand_paramour_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_ELLARIASAND_PARAMOUR_1_NAME"
+    },
+    {
+      "id": "7311b856bc9274ce",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_missandei_daughterofnaath_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_MISSANDEI_DAUGHTEROFNAATH_1_NAME"
+    },
+    {
+      "id": "6734301ff684f185",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_roosebolton_lordofthedreadfort_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_ROOSEBOLTON_LORDOFTHEDREADFORT_1_NAME"
+    },
+    {
+      "id": "44513359cc25fbdc",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_hodor_stalwartguardian_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_HODOR_STALWARTGUARDIAN_1_NAME"
+    },
+    {
+      "id": "b0764c1a1918e1bc",
+      "name": "displayGroup_alchemy_recipe_event_ironcrown_item_hero_adv_daenerystargaryen_dragonqueen_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_IRONCROWN_ITEM_HERO_ADV_DAENERYSTARGARYEN_DRAGONQUEEN_1_NAME"
+    }
+  ]
+}

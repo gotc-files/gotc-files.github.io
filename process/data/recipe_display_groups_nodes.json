@@ -1,0 +1,410 @@
+{
+  "description": "Recipe display groups information",
+  "values": [
+    {
+      "id": "a5dd905ba7e8bd62",
+      "name": "displayGroup_alchemy_recipe_event_repeatable_salvage_curr_Food",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_REPEATABLE_SALVAGE_CURR_FOOD_NAME"
+    },
+    {
+      "id": "4d6b0c93557d3fa7",
+      "name": "displayGroup_alchemy_recipe_event_repeatable_salvage_curr_Wood",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_REPEATABLE_SALVAGE_CURR_WOOD_NAME"
+    },
+    {
+      "id": "443b612f6bcf6cf0",
+      "name": "displayGroup_alchemy_recipe_event_repeatable_salvage_item_event_rewardbox_livestock_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_REPEATABLE_SALVAGE_ITEM_EVENT_REWARDBOX_LIVESTOCK_1_NAME"
+    },
+    {
+      "id": "d1e834a60ad9eaff",
+      "name": "displayGroup_alchemy_recipe_event_repeatable_salvage_item_Resource_Steel_10000",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_REPEATABLE_SALVAGE_ITEM_RESOURCE_STEEL_10000_NAME"
+    },
+    {
+      "id": "7a3d1f6e3e0daa1a",
+      "name": "displayGroup_alchemy_recipe_event_repeatable_salvage_item_event_rewardbox_craftingmaterial_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_REPEATABLE_SALVAGE_ITEM_EVENT_REWARDBOX_CRAFTINGMATERIAL_1_NAME"
+    },
+    {
+      "id": "6baade8b8baf32d9",
+      "name": "displayGroup_alchemy_recipe_event_repeatable_salvage_item_buildreq_dragon_research_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_REPEATABLE_SALVAGE_ITEM_BUILDREQ_DRAGON_RESEARCH_1_NAME"
+    },
+    {
+      "id": "1eb88260525ac0d7",
+      "name": "displayGroup_alchemy_recipe_event_repeatable_salvage_item_buildreq_dragon_research_2",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_REPEATABLE_SALVAGE_ITEM_BUILDREQ_DRAGON_RESEARCH_2_NAME"
+    },
+    {
+      "id": "31293dc4b23a9efe",
+      "name": "displayGroup_alchemy_recipe_event_repeatable_salvage_item_event_rewardbox_livestock_2",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_REPEATABLE_SALVAGE_ITEM_EVENT_REWARDBOX_LIVESTOCK_2_NAME"
+    },
+    {
+      "id": "8484a2c09b7ea41b",
+      "name": "displayGroup_alchemy_recipe_event_repeatable_salvage_item_event_rewardbox_randomeventmaterials_s1_amount1000_minquality1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_REPEATABLE_SALVAGE_ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S1_AMOUNT1000_MINQUALITY1_NAME"
+    },
+    {
+      "id": "2a4d98dc5a87902b",
+      "name": "displayGroup_alchemy_recipe_event_repeatable_salvage_item_event_rewardbox_randomeventmaterials_s2_amount1000_minquality1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_REPEATABLE_SALVAGE_ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S2_AMOUNT1000_MINQUALITY1_NAME"
+    },
+    {
+      "id": "4ff571281a2f7c3b",
+      "name": "displayGroup_alchemy_recipe_event_repeatable_salvage_item_event_rewardbox_randomeventmaterials_s3_amount1000_minquality1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_REPEATABLE_SALVAGE_ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S3_AMOUNT1000_MINQUALITY1_NAME"
+    },
+    {
+      "id": "1dd8f6620569cf04",
+      "name": "displayGroup_alchemy_recipe_event_repeatable_salvage_item_event_rewardbox_livestock_3",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_REPEATABLE_SALVAGE_ITEM_EVENT_REWARDBOX_LIVESTOCK_3_NAME"
+    },
+    {
+      "id": "b24a18cfa1a7c55d",
+      "name": "displayGroup_alchemy_recipe_event_repeatable_salvage_item_event_rewardbox_randomeventmaterials_s1_amount10000_minquality2",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_REPEATABLE_SALVAGE_ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S1_AMOUNT10000_MINQUALITY2_NAME"
+    },
+    {
+      "id": "6b9254e84d2b6f0e",
+      "name": "displayGroup_alchemy_recipe_event_repeatable_salvage_item_event_rewardbox_randomeventmaterials_s2_amount10000_minquality2",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_REPEATABLE_SALVAGE_ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S2_AMOUNT10000_MINQUALITY2_NAME"
+    },
+    {
+      "id": "232590f516af093f",
+      "name": "displayGroup_alchemy_recipe_event_repeatable_salvage_item_event_rewardbox_randomeventmaterials_s3_amount10000_minquality2",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_REPEATABLE_SALVAGE_ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S3_AMOUNT10000_MINQUALITY2_NAME"
+    },
+    {
+      "id": "5a988ed2dd9d7483",
+      "name": "displayGroup_alchemy_recipe_event_repeatable_salvage_item_event_rewardbox_randomeventmaterials_s4_amount10000_minquality2",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_REPEATABLE_SALVAGE_ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S4_AMOUNT10000_MINQUALITY2_NAME"
+    },
+    {
+      "id": "122f4acf861912b2",
+      "name": "displayGroup_alchemy_recipe_event_repeatable_salvage_item_event_rewardbox_randomeventmaterials_s5_amount10000_minquality2",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_REPEATABLE_SALVAGE_ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S5_AMOUNT10000_MINQUALITY2_NAME"
+    },
+    {
+      "id": "cbf706e86a95b8e1",
+      "name": "displayGroup_alchemy_recipe_event_repeatable_salvage_item_event_rewardbox_randomeventmaterials_s6_amount10000_minquality2",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_REPEATABLE_SALVAGE_ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S6_AMOUNT10000_MINQUALITY2_NAME"
+    },
+    {
+      "id": "8340c2f53111ded0",
+      "name": "displayGroup_alchemy_recipe_event_repeatable_salvage_item_event_rewardbox_randomeventmaterials_s7_amount10000_minquality2",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_REPEATABLE_SALVAGE_ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S7_AMOUNT10000_MINQUALITY2_NAME"
+    },
+    {
+      "id": "388d3aa7fcf14399",
+      "name": "displayGroup_alchemy_recipe_event_repeatable_salvage_item_event_rewardbox_randomeventmaterials_s8_amount10000_minquality2",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_REPEATABLE_SALVAGE_ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT10000_MINQUALITY2_NAME"
+    },
+    {
+      "id": "7a5c095d69d6a021",
+      "name": "displayGroup_alchemy_recipe_event_cotf_qlr_item_Resource_Food_1000000",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_COTF_QLR_ITEM_RESOURCE_FOOD_1000000_NAME"
+    },
+    {
+      "id": "3a97e84a3a6a1e30",
+      "name": "displayGroup_alchemy_recipe_event_cotf_qlr_item_Resource_Wood_1000000",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_COTF_QLR_ITEM_RESOURCE_WOOD_1000000_NAME"
+    },
+    {
+      "id": "10c33d715adad9d8",
+      "name": "displayGroup_alchemy_recipe_event_cotf_qlr_item_Resource_Stone_150000",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_COTF_QLR_ITEM_RESOURCE_STONE_150000_NAME"
+    },
+    {
+      "id": "28540b6c67716634",
+      "name": "displayGroup_alchemy_recipe_event_cotf_qlr_item_Resource_Iron_40000",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_COTF_QLR_ITEM_RESOURCE_IRON_40000_NAME"
+    },
+    {
+      "id": "fbdb67eb57db1c62",
+      "name": "displayGroup_alchemy_recipe_event_cotf_qlr_item_buildreq_brick_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_COTF_QLR_ITEM_BUILDREQ_BRICK_1_NAME"
+    },
+    {
+      "id": "b5a24c03c8e1b845",
+      "name": "displayGroup_alchemy_recipe_event_cotf_qlr_item_buildreq_soldierpine_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_COTF_QLR_ITEM_BUILDREQ_SOLDIERPINE_1_NAME"
+    },
+    {
+      "id": "527e22b7054e66a4",
+      "name": "displayGroup_alchemy_recipe_event_cotf_qlr_item_buildreq_keystone_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_COTF_QLR_ITEM_BUILDREQ_KEYSTONE_1_NAME"
+    },
+    {
+      "id": "85fc30670db5bfc2",
+      "name": "displayGroup_alchemy_recipe_event_cotf_qlr_item_buildreq_levelcap_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_COTF_QLR_ITEM_BUILDREQ_LEVELCAP_1_NAME"
+    },
+    {
+      "id": "1282334f6142eb65",
+      "name": "displayGroup_alchemy_recipe_event_cotf_qlr_item_buildreq_scholarly_fragment_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_COTF_QLR_ITEM_BUILDREQ_SCHOLARLY_FRAGMENT_1_NAME"
+    },
+    {
+      "id": "d2b2cb0a1dd1c3d0",
+      "name": "displayGroup_alchemy_recipe_event_cotf_qlr_item_buildreq_pale_steel_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_COTF_QLR_ITEM_BUILDREQ_PALE_STEEL_1_NAME"
+    },
+    {
+      "id": "d3e0d16eb0222a1f",
+      "name": "displayGroup_alchemy_recipe_event_cotf_qlr_item_buildreq_red_gold_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_COTF_QLR_ITEM_BUILDREQ_RED_GOLD_1_NAME"
+    },
+    {
+      "id": "7520b96c2bc7b9a0",
+      "name": "displayGroup_alchemy_recipe_event_cotf_qlr_item_enhancereq_basic_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_COTF_QLR_ITEM_ENHANCEREQ_BASIC_1_NAME"
+    },
+    {
+      "id": "a34c5dbbb12ea46a",
+      "name": "displayGroup_alchemy_recipe_event_cotf_qlr_item_enhancereq_advanced_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_COTF_QLR_ITEM_ENHANCEREQ_ADVANCED_1_NAME"
+    },
+    {
+      "id": "ba50f38d7eccf541",
+      "name": "displayGroup_alchemy_recipe_event_cotf_qlr_curr_steel",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_COTF_QLR_CURR_STEEL_NAME"
+    },
+    {
+      "id": "a136afc6655aee4e",
+      "name": "displayGroup_alchemy_recipe_event_repeatable_salvage_item_personalgift_nwm_common_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_REPEATABLE_SALVAGE_ITEM_PERSONALGIFT_NWM_COMMON_1_NAME"
+    },
+    {
+      "id": "7b51e8c69c9d7f01",
+      "name": "displayGroup_alchemy_recipe_event_climb_qlr_boost_MaxMarchSizeVsResource_alchemy",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_CLIMB_QLR_BOOST_MAXMARCHSIZEVSRESOURCE_ALCHEMY_NAME"
+    },
+    {
+      "id": "36a5af3881046187",
+      "name": "displayGroup_alchemy_recipe_event_climb_qlr_boost_DefenderAttack_alchemy",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_CLIMB_QLR_BOOST_DEFENDERATTACK_ALCHEMY_NAME"
+    },
+    {
+      "id": "5dfb483a08fa1330",
+      "name": "displayGroup_alchemy_recipe_event_climb_qlr_boost_DefenderDefense_alchemy",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_CLIMB_QLR_BOOST_DEFENDERDEFENSE_ALCHEMY_NAME"
+    },
+    {
+      "id": "729b24a90530bc93",
+      "name": "displayGroup_alchemy_recipe_event_climb_qlr_boost_DefenderHealth_alchemy",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_CLIMB_QLR_BOOST_DEFENDERHEALTH_ALCHEMY_NAME"
+    },
+    {
+      "id": "a0dfd91917f39322",
+      "name": "displayGroup_alchemy_recipe_event_climb_curr_Food",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_CLIMB_CURR_FOOD_NAME"
+    },
+    {
+      "id": "486945d1e56611e7",
+      "name": "displayGroup_alchemy_recipe_event_climb_curr_Wood",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_CLIMB_CURR_WOOD_NAME"
+    },
+    {
+      "id": "d4833d2a6fae00e2",
+      "name": "displayGroup_alchemy_recipe_event_climb_curr_Stone",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_CLIMB_CURR_STONE_NAME"
+    },
+    {
+      "id": "8ac348441287a122",
+      "name": "displayGroup_alchemy_recipe_event_climb_curr_Iron",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_CLIMB_CURR_IRON_NAME"
+    },
+    {
+      "id": "fc18552adee3b448",
+      "name": "displayGroup_alchemy_recipe_event_climb_qlr_item_event_rewardbox_randomeventmaterials_s1_amount1000_minquality1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_CLIMB_QLR_ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S1_AMOUNT1000_MINQUALITY1_NAME"
+    },
+    {
+      "id": "52d16f361f1a8078",
+      "name": "displayGroup_alchemy_recipe_event_climb_qlr_item_event_rewardbox_randomeventmaterials_s2_amount1000_minquality1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_CLIMB_QLR_ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S2_AMOUNT1000_MINQUALITY1_NAME"
+    },
+    {
+      "id": "376986c25fb26c68",
+      "name": "displayGroup_alchemy_recipe_event_climb_qlr_item_event_rewardbox_randomeventmaterials_s3_amount1000_minquality1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_CLIMB_QLR_ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S3_AMOUNT1000_MINQUALITY1_NAME"
+    },
+    {
+      "id": "8df9597ad547a733",
+      "name": "displayGroup_alchemy_recipe_event_climb_qlr_item_event_rewardbox_randomeventmaterials_s4_amount1000_minquality1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_CLIMB_QLR_ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S4_AMOUNT1000_MINQUALITY1_NAME"
+    },
+    {
+      "id": "e841b08e95ef4b23",
+      "name": "displayGroup_alchemy_recipe_event_climb_qlr_item_event_rewardbox_randomeventmaterials_s5_amount1000_minquality1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_CLIMB_QLR_ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S5_AMOUNT1000_MINQUALITY1_NAME"
+    },
+    {
+      "id": "46888a9254167f13",
+      "name": "displayGroup_alchemy_recipe_event_climb_qlr_item_event_rewardbox_randomeventmaterials_s6_amount1000_minquality1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_CLIMB_QLR_ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S6_AMOUNT1000_MINQUALITY1_NAME"
+    },
+    {
+      "id": "2330636614be9303",
+      "name": "displayGroup_alchemy_recipe_event_climb_qlr_item_event_rewardbox_randomeventmaterials_s7_amount1000_minquality1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_CLIMB_QLR_ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S7_AMOUNT1000_MINQUALITY1_NAME"
+    },
+    {
+      "id": "b11377960852a68e",
+      "name": "displayGroup_alchemy_recipe_event_climb_qlr_item_event_rewardbox_randomeventmaterials_s8_amount1000_minquality1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_CLIMB_QLR_ITEM_EVENT_REWARDBOX_RANDOMEVENTMATERIALS_S8_AMOUNT1000_MINQUALITY1_NAME"
+    },
+    {
+      "id": "4ef98c3123be637b",
+      "name": "displayGroup_alchemy_recipe_event_climb_item_enhancereq_basic_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_CLIMB_ITEM_ENHANCEREQ_BASIC_1_NAME"
+    },
+    {
+      "id": "7f09bfd05522e65b",
+      "name": "displayGroup_alchemy_recipe_event_climb_item_enhancereq_advanced_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_CLIMB_ITEM_ENHANCEREQ_ADVANCED_1_NAME"
+    },
+    {
+      "id": "8c1bcc0894544412",
+      "name": "displayGroup_alchemy_recipe_event_climb_item_peaceshield_2",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_CLIMB_ITEM_PEACESHIELD_2_NAME"
+    },
+    {
+      "id": "e5e31f9669aac6dd",
+      "name": "displayGroup_alchemy_recipe_event_pfc_qlr_boost_MaxMarchSizeVsStrategicTerrain_alchemy",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_PFC_QLR_BOOST_MAXMARCHSIZEVSSTRATEGICTERRAIN_ALCHEMY_NAME"
+    },
+    {
+      "id": "895212f6a9cc24c4",
+      "name": "displayGroup_alchemy_recipe_event_pfc_qlr_boost_DefenderTroopAttackVsPlayerStrategicTerrain_alchemy",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_PFC_QLR_BOOST_DEFENDERTROOPATTACKVSPLAYERSTRATEGICTERRAIN_ALCHEMY_NAME"
+    },
+    {
+      "id": "d0c56c4340020bbb",
+      "name": "displayGroup_alchemy_recipe_event_pfc_qlr_boost_DefenderTroopDefenseVsPlayerStrategicTerrain_alchemy",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_PFC_QLR_BOOST_DEFENDERTROOPDEFENSEVSPLAYERSTRATEGICTERRAIN_ALCHEMY_NAME"
+    },
+    {
+      "id": "e7c882359aa5af7a",
+      "name": "displayGroup_alchemy_recipe_event_pfc_qlr_boost_DefenderTroopHealthVsPlayerStrategicTerrain_alchemy",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_PFC_QLR_BOOST_DEFENDERTROOPHEALTHVSPLAYERSTRATEGICTERRAIN_ALCHEMY_NAME"
+    },
+    {
+      "id": "e95e29749c565f0b",
+      "name": "displayGroup_alchemy_recipe_event_pfc_qlr_boost_MaxMarchSizeVsSOP_alchemy",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_PFC_QLR_BOOST_MAXMARCHSIZEVSSOP_ALCHEMY_NAME"
+    },
+    {
+      "id": "1c5f3ca98f0fdc97",
+      "name": "displayGroup_alchemy_recipe_event_pfc_qlr_boost_MarchingSpeedVsSeatOfPower_alchemy",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_PFC_QLR_BOOST_MARCHINGSPEEDVSSEATOFPOWER_ALCHEMY_NAME"
+    },
+    {
+      "id": "859f39bbb4bf40bb",
+      "name": "displayGroup_alchemy_recipe_event_pfc_curr_Food",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_CURR_FOOD_AMOUNT_10000_NAME"
+    },
+    {
+      "id": "6d29a573462ac27e",
+      "name": "displayGroup_alchemy_recipe_event_pfc_curr_Wood",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_CURR_WOOD_AMOUNT_10000_NAME"
+    },
+    {
+      "id": "94ecf4e28278b478",
+      "name": "displayGroup_alchemy_recipe_event_pfc_curr_Stone",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_CURR_STONE_AMOUNT_1800_NAME"
+    },
+    {
+      "id": "af83a8e6b1cb72bb",
+      "name": "displayGroup_alchemy_recipe_event_pfc_curr_Iron",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_CURR_IRON_AMOUNT_400_NAME"
+    },
+    {
+      "id": "ab15557e75e1312b",
+      "name": "displayGroup_alchemy_recipe_event_pfc_item_speedup_Troop_5m",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_ITEM_SPEEDUP_TROOP_5M_AMOUNT_1_NAME"
+    },
+    {
+      "id": "3c75c98b99662610",
+      "name": "displayGroup_alchemy_recipe_event_pfc_item_speedup_Troop_60m",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_ITEM_SPEEDUP_TROOP_60M_AMOUNT_1_NAME"
+    },
+    {
+      "id": "5fa2b4977f17b9ed",
+      "name": "displayGroup_alchemy_recipe_event_repeatable_salvage_2_item_personalgift_nwm_common_1",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_REPEATABLE_SALVAGE_2_ITEM_PERSONALGIFT_NWM_COMMON_1_NAME"
+    },
+    {
+      "id": "f9790351f93f64a6",
+      "name": "displayGroup_alchemy_recipe_event_nwm_boost_DefenderTroopAttackVsPlayerStrategicTerrain_alchemy",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_NWM_BOOST_DEFENDERTROOPATTACKVSPLAYERSTRATEGICTERRAIN_ALCHEMY_NAME"
+    },
+    {
+      "id": "b901985120c1b2ea",
+      "name": "displayGroup_alchemy_recipe_event_nwm_boost_DefenderTroopDefenseVsPlayerStrategicTerrain_alchemy",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_NWM_BOOST_DEFENDERTROOPDEFENSEVSPLAYERSTRATEGICTERRAIN_ALCHEMY_NAME"
+    },
+    {
+      "id": "97e39392ca56ef18",
+      "name": "displayGroup_alchemy_recipe_event_nwm_boost_DefenderTroopHealthVsPlayerStrategicTerrain_alchemy",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_NWM_BOOST_DEFENDERTROOPHEALTHVSPLAYERSTRATEGICTERRAIN_ALCHEMY_NAME"
+    },
+    {
+      "id": "d199733c4349e503",
+      "name": "displayGroup_alchemy_recipe_event_nwm_boost_MaxMarchSizeVsStrategicTerrain_alchemy",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_NWM_BOOST_MAXMARCHSIZEVSSTRATEGICTERRAIN_ALCHEMY_NAME"
+    },
+    {
+      "id": "df6c1713e3fc810c",
+      "name": "displayGroup_alchemy_recipe_event_nwm_boost_TroopAttackVsSoPWall_alchemy",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_NWM_BOOST_TROOPATTACKVSSOPWALL_ALCHEMY_NAME"
+    },
+    {
+      "id": "50474a0e69be27b8",
+      "name": "displayGroup_alchemy_recipe_event_nwm_boost_TroopDefenseVsSoPWall_alchemy",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_NWM_BOOST_TROOPDEFENSEVSSOPWALL_ALCHEMY_NAME"
+    },
+    {
+      "id": "dd51b0b7f841b84",
+      "name": "displayGroup_alchemy_recipe_event_nwm_boost_TroopHealthVsSoPWall_alchemy",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_NWM_BOOST_TROOPHEALTHVSSOPWALL_ALCHEMY_NAME"
+    },
+    {
+      "id": "51d0300f7f242ce3",
+      "name": "displayGroup_alchemy_recipe_event_nwm_boost_MaxMarchSizeVsSoPWall_alchemy",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_NWM_BOOST_MAXMARCHSIZEVSSOPWALL_ALCHEMY_NAME"
+    },
+    {
+      "id": "2f8db91d2f85035",
+      "name": "displayGroup_alchemy_recipe_event_nwm_boost_RalliedTroopCapacityVsSoPWall_alchemy",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_NWM_BOOST_RALLIEDTROOPCAPACITYVSSOPWALL_ALCHEMY_NAME"
+    },
+    {
+      "id": "81696e982081309d",
+      "name": "displayGroup_alchemy_recipe_event_nwm_boost_TroopsDeadtoWoundedVsSoPWall_alchemy",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_NWM_BOOST_TROOPSDEADTOWOUNDEDVSSOPWALL_ALCHEMY_NAME"
+    },
+    {
+      "id": "a2ec09f26eb823af",
+      "name": "displayGroup_alchemy_recipe_event_nwm_boost_RallySlotVsSoPWall_alchemy",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_NWM_BOOST_RALLYSLOTVSSOPWALL_ALCHEMY_NAME"
+    },
+    {
+      "id": "c1d08a37860e97b2",
+      "name": "displayGroup_alchemy_recipe_event_nwm_item_Advanced_Teleport",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_NWM_ITEM_ADVANCED_TELEPORT_NAME"
+    },
+    {
+      "id": "8f0e7d845c969be2",
+      "name": "displayGroup_alchemy_recipe_event_nwm_item_Advanced_Teleport_2",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_NWM_ITEM_ADVANCED_TELEPORT_2_NAME"
+    },
+    {
+      "id": "b5e6622359538573",
+      "name": "displayGroup_alchemy_recipe_event_nwm_item_Random_Teleport",
+      "name_placeholder": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_NWM_ITEM_RANDOM_TELEPORT_NAME"
+    }
+  ]
+}

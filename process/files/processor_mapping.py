@@ -1,31 +1,31 @@
 from collections import defaultdict
 
-from files.armory_collections.armory_collections import ArmoryCollectionsProcessor
+from files.armory_collections.armory_collections import \
+    ArmoryCollectionsProcessor
 from files.armory_gears.armory_gears import ArmoryGearsProcessor
 from files.buildings.buildings import BuildingsProcessor
 from files.crafting_recipes.crafting_recipes import CraftingRecipesProcessor
-from files.gear_set_progressions.gear_set_progressions import (
-    GearSetProgressionsProcessor,
-)
+from files.gear_set_progressions.gear_set_progressions import \
+    GearSetProgressionsProcessor
 from files.gear_sets.gear_sets import GearSetsProcessor
 from files.gears.gears import GearsProcessor
-from files.hero_collection_actions.hero_collection_actions import (
-    HeroCollectionActionsProcessor,
-)
+from files.hero_collection_actions.hero_collection_actions import \
+    HeroCollectionActionsProcessor
 from files.hero_progressions.hero_progressions import HeroProgressionsProcessor
 from files.hero_skills.hero_skills import HeroSkillsProcessor
 from files.hero_traits.hero_traits import HeroTraitsProcessor
 from files.heroes.heroes import HeroesProcessor
 from files.items.items import ItemsProcessor
 from files.progressions.progressions import ProgressionsProcessor
-
 from files.properties.properties import PropertiesProcessor
-from files.recipe_ingredient_sets.recipe_ingredient_sets import (
-    RecipeIngredientSetsProcessor,
-)
+from files.recipe_display_groups.recipe_display_groups import \
+    RecipeDisplayGroupsProcessor
+from files.recipe_ingredient_sets.recipe_ingredient_sets import \
+    RecipeIngredientSetsProcessor
 from files.recipes.recipies import RecipesProcessor
 from files.recurring_rewards.recurring_rewards import RecurringRewardsProcessor
-from files.research_categories.research_categories import ResearchCategoriesProcessor
+from files.research_categories.research_categories import \
+    ResearchCategoriesProcessor
 from files.researches.researches import ResearchesProcessor
 from files.stat_sets.stat_sets import StatSetsProcessor
 from files.summon_odds.summon_odds import SummonOddsProcessor
@@ -471,6 +471,91 @@ FILE_PROCESSOR_MAPPING_CONFIG = {
         "pb",
         "recipe_ingredient_sets_bounties",
         RecipeIngredientSetsProcessor,
+    ),
+    ("AlchemyDisplayGroupTable", "pb", "recipe_display_groups_general", RecipeDisplayGroupsProcessor),
+    (
+        "AlchemyDisplayGroupTable_AlchemyGen_EventArc",
+        "pb",
+        "recipe_display_groups_monthly_trade_1",
+        RecipeDisplayGroupsProcessor,
+    ),
+    (
+        "AlchemyDisplayGroupTable_AlchemyGen_EventArc_2",
+        "pb",
+        "recipe_display_groups_monthly_trade_2",
+        RecipeDisplayGroupsProcessor,
+    ),
+    (
+        "AlchemyDisplayGroupTable_AlchemyGen_Feast_Cakes",
+        "pb",
+        "recipe_display_groups_feast_cakes",
+        RecipeDisplayGroupsProcessor,
+    ),
+    (
+        "AlchemyDisplayGroupTable_AlchemyGen_QuantityLimited",
+        "pb",
+        "recipe_display_groups_writs",
+        RecipeDisplayGroupsProcessor,
+    ),
+    (
+        "AlchemyDisplayGroupTable_AlchemyGen_Repeatable",
+        "pb",
+        "recipe_display_groups_repeatable",
+        RecipeDisplayGroupsProcessor,
+    ),
+    (
+        "AlchemyDisplayGroupTable_AlchemyGen_Repeatable_Dragon",
+        "pb",
+        "recipe_display_groups_dragon",
+        RecipeDisplayGroupsProcessor,
+    ),
+    (
+        "AlchemyDisplayGroupTable_AlchemyGen_Repeatable_EquipmentFragments",
+        "pb",
+        "recipe_display_groups_equipment_fragments",
+        RecipeDisplayGroupsProcessor,
+    ),
+    (
+        "AlchemyDisplayGroupTable_AlchemyGen_Repeatable_Flux",
+        "pb",
+        "recipe_display_groups_flux",
+        RecipeDisplayGroupsProcessor,
+    ),
+    (
+        "AlchemyDisplayGroupTable_AlchemyGen_Repeatable_Scrip",
+        "pb",
+        "recipe_display_groups_traders_script",
+        RecipeDisplayGroupsProcessor,
+    ),
+    (
+        "AlchemyDisplayGroupTable_AlchemyGen_Repeatable_StrategicTerrain",
+        "pb",
+        "recipe_display_groups_nodes",
+        RecipeDisplayGroupsProcessor,
+    ),
+    (
+        "AlchemyDisplayGroupTable_AlchemyGen_Repeatable_TGH",
+        "pb",
+        "recipe_display_groups_venison",
+        RecipeDisplayGroupsProcessor,
+    ),
+    (
+        "AlchemyDisplayGroupTable_AlchemyGen_Special",
+        "pb",
+        "recipe_display_groups_festival",
+        RecipeDisplayGroupsProcessor,
+    ),
+    (
+        "AlchemyDisplayGroupTable_AlchemyGen_Special_IronCrown",
+        "pb",
+        "recipe_display_groups_iron_crown",
+        RecipeDisplayGroupsProcessor,
+    ),
+    (
+        "AlchemyDisplayGroupTable_Bounties",
+        "pb",
+        "recipe_display_groups_bounties",
+        RecipeDisplayGroupsProcessor,
     ),
     ("TroopTable", "pb", "troops", TroopsProcessor),
     ("PropertyTable", "pb", "properties", PropertiesProcessor),
