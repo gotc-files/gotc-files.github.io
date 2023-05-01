@@ -78694,7 +78694,7 @@
       "id": "5c019a16ea11ab0b",
       "image": "icon_buff_reinforcements.png",
       "name": "property_SoP_Tier1_ReinforcementCapacity_activity",
-      "name_placeholder": "PROPERTY_SOP_REINFORCEMENT_CAPACITY",
+      "name_placeholder": "PROPERTY_SOP_REINFORCEMENT_CAPACITY_TIER1",
       "type": 9
     },
     {
@@ -78702,7 +78702,7 @@
       "id": "6d01c5c913812c6c",
       "image": "icon_buff_reinforcements.png",
       "name": "property_SoP_Tier2_ReinforcementCapacity_activity",
-      "name_placeholder": "PROPERTY_SOP_REINFORCEMENT_CAPACITY",
+      "name_placeholder": "PROPERTY_SOP_REINFORCEMENT_CAPACITY_TIER2",
       "type": 9
     },
     {
@@ -78710,7 +78710,7 @@
       "id": "fc68315083946ba8",
       "image": "icon_buff_reinforcements.png",
       "name": "property_SoP_Tier3_ReinforcementCapacity_activity",
-      "name_placeholder": "PROPERTY_SOP_REINFORCEMENT_CAPACITY",
+      "name_placeholder": "PROPERTY_SOP_REINFORCEMENT_CAPACITY_TIER3",
       "type": 9
     },
     {
@@ -78718,7 +78718,7 @@
       "id": "f017a76e0a022a2",
       "image": "icon_buff_reinforcements.png",
       "name": "property_SoP_Tier4_ReinforcementCapacity_activity",
-      "name_placeholder": "PROPERTY_SOP_REINFORCEMENT_CAPACITY",
+      "name_placeholder": "PROPERTY_SOP_REINFORCEMENT_CAPACITY_TIER4",
       "type": 9
     },
     {
@@ -78726,7 +78726,7 @@
       "id": "9e688eef70b56566",
       "image": "icon_buff_reinforcements.png",
       "name": "property_SoP_Tier5_ReinforcementCapacity_activity",
-      "name_placeholder": "PROPERTY_SOP_REINFORCEMENT_CAPACITY",
+      "name_placeholder": "PROPERTY_SOP_REINFORCEMENT_CAPACITY_TIER5",
       "type": 9
     },
     {
@@ -78734,7 +78734,7 @@
       "id": "af68d1308925e201",
       "image": "icon_buff_reinforcements.png",
       "name": "property_SoP_Tier6_ReinforcementCapacity_activity",
-      "name_placeholder": "PROPERTY_SOP_REINFORCEMENT_CAPACITY",
+      "name_placeholder": "PROPERTY_SOP_REINFORCEMENT_CAPACITY_TIER6",
       "type": 9
     },
     {
@@ -78742,7 +78742,7 @@
       "id": "3e0125a91930a5c5",
       "image": "icon_buff_reinforcements.png",
       "name": "property_SoP_Tier7_ReinforcementCapacity_activity",
-      "name_placeholder": "PROPERTY_SOP_REINFORCEMENT_CAPACITY",
+      "name_placeholder": "PROPERTY_SOP_REINFORCEMENT_CAPACITY_TIER7",
       "type": 9
     },
     {
@@ -78750,8 +78750,16 @@
       "id": "cb00050906e23f3e",
       "image": "icon_buff_reinforcements.png",
       "name": "property_SoP_Tier8_ReinforcementCapacity_activity",
-      "name_placeholder": "PROPERTY_SOP_REINFORCEMENT_CAPACITY",
+      "name_placeholder": "PROPERTY_SOP_REINFORCEMENT_CAPACITY_TIER8",
       "type": 9
+    },
+    {
+      "description_placeholder": "PROPERTY_DRAGONMARCHERTROOPATTACKVSPLAYER_DESC",
+      "id": "ac3e77a7fd67c07e",
+      "image": "dragon_research_carnage_army.png",
+      "name": "property_DragonMarcherTroopAttackVsPlayer_gear",
+      "name_placeholder": "PROPERTY_DRAGONMARCHERTROOPATTACKVSPLAYER",
+      "type": 4
     }
   ]
 }
