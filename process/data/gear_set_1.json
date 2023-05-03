@@ -23,6 +23,27 @@
       "saddle_name": "prog_gearset_dragongear01_saddle"
     },
     {
+      "chanfron_id": "341d98ec2c182951",
+      "chanfron_name": "prog_gearset_dragongear_regalserpent_chanfron",
+      "color": {
+        "alpha": 255,
+        "blue": 44,
+        "green": 73,
+        "red": 54
+      },
+      "description_placeholder": "EQ_EVENTS_DRAGONGEAR_REGALSERPENT_SET_DESCRIPTION",
+      "id": "4c197e0c0566804c",
+      "material_id": 14149021608447419188,
+      "material_name": "mat_valyrianschematic",
+      "name": "gearset_event_dragongear_regalserpent",
+      "name_placeholder": "EQ_EVENTS_DRAGONGEAR_REGALSERPENT_SET_NAME",
+      "peytral_id": "2c2fc970db9ba354",
+      "peytral_name": "prog_gearset_dragongear_regalserpent_peytral",
+      "priority": 0,
+      "saddle_id": "40760584b5e876a9",
+      "saddle_name": "prog_gearset_dragongear_regalserpent_saddle"
+    },
+    {
       "boots_id": "9eb392bf0558f75a",
       "boots_name": "prog_gearset_winter_coming_boots",
       "chest_id": "a2c82e1531c7c662",

@@ -35560,6 +35560,708 @@
       "steel_cost": 520000000,
       "template_level": 45,
       "upgrade_time_seconds": 345600
+    },
+    {
+      "id": "3884aaa461dcae57",
+      "ingredients": [
+        {
+          "item_name": "mat_valyrianschematic",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 10
+        }
+      ],
+      "name": "eq_events_dragongear_regalserpent_5_saddle_lord5",
+      "steel_cost": 4000,
+      "template_level": 1,
+      "upgrade_time_seconds": 3600
+    },
+    {
+      "id": "75c30cd76c2c5b6b",
+      "ingredients": [
+        {
+          "item_name": "mat_valyrianschematic",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 10
+        }
+      ],
+      "name": "eq_events_dragongear_regalserpent_5_peytral_lord5",
+      "steel_cost": 4000,
+      "template_level": 1,
+      "upgrade_time_seconds": 3600
+    },
+    {
+      "id": "b1524c42c48e72a3",
+      "ingredients": [
+        {
+          "item_name": "mat_valyrianschematic",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 10
+        }
+      ],
+      "name": "eq_events_dragongear_regalserpent_5_chanfron_lord5",
+      "steel_cost": 4000,
+      "template_level": 1,
+      "upgrade_time_seconds": 3600
+    },
+    {
+      "id": "fa6bed855825bd8a",
+      "ingredients": [
+        {
+          "item_name": "mat_valyrianschematic",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 20
+        }
+      ],
+      "name": "eq_events_dragongear_regalserpent_10_saddle_lord10",
+      "steel_cost": 36500,
+      "template_level": 5,
+      "upgrade_time_seconds": 7200
+    },
+    {
+      "id": "ccb8ad3edc9d89b",
+      "ingredients": [
+        {
+          "item_name": "mat_valyrianschematic",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 20
+        }
+      ],
+      "name": "eq_events_dragongear_regalserpent_10_peytral_lord10",
+      "steel_cost": 36500,
+      "template_level": 5,
+      "upgrade_time_seconds": 7200
+    },
+    {
+      "id": "63a114e534d48a",
+      "ingredients": [
+        {
+          "item_name": "mat_valyrianschematic",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 20
+        }
+      ],
+      "name": "eq_events_dragongear_regalserpent_10_chanfron_lord10",
+      "steel_cost": 36500,
+      "template_level": 5,
+      "upgrade_time_seconds": 7200
+    },
+    {
+      "id": "cda1aa1dbfe60bef",
+      "ingredients": [
+        {
+          "item_name": "mat_valyrianschematic",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 120
+        }
+      ],
+      "name": "eq_events_dragongear_regalserpent_15_saddle_lord15",
+      "steel_cost": 148000,
+      "template_level": 10,
+      "upgrade_time_seconds": 21600
+    },
+    {
+      "id": "2d05d586211381f7",
+      "ingredients": [
+        {
+          "item_name": "mat_valyrianschematic",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 120
+        }
+      ],
+      "name": "eq_events_dragongear_regalserpent_15_peytral_lord15",
+      "steel_cost": 148000,
+      "template_level": 10,
+      "upgrade_time_seconds": 21600
+    },
+    {
+      "id": "e87e2ebfa0a30508",
+      "ingredients": [
+        {
+          "item_name": "mat_valyrianschematic",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 120
+        }
+      ],
+      "name": "eq_events_dragongear_regalserpent_15_chanfron_lord15",
+      "steel_cost": 148000,
+      "template_level": 10,
+      "upgrade_time_seconds": 21600
+    },
+    {
+      "id": "9f59cf699161a9b5",
+      "ingredients": [
+        {
+          "item_name": "mat_valyrianschematic",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 400
+        }
+      ],
+      "name": "eq_events_dragongear_regalserpent_20_saddle_lord20",
+      "steel_cost": 534000,
+      "template_level": 15,
+      "upgrade_time_seconds": 43200
+    },
+    {
+      "id": "2eb7186aa3b6b4fe",
+      "ingredients": [
+        {
+          "item_name": "mat_valyrianschematic",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 400
+        }
+      ],
+      "name": "eq_events_dragongear_regalserpent_20_peytral_lord20",
+      "steel_cost": 534000,
+      "template_level": 15,
+      "upgrade_time_seconds": 43200
+    },
+    {
+      "id": "77ae38433a275a1a",
+      "ingredients": [
+        {
+          "item_name": "mat_valyrianschematic",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 400
+        }
+      ],
+      "name": "eq_events_dragongear_regalserpent_20_chanfron_lord20",
+      "steel_cost": 534000,
+      "template_level": 15,
+      "upgrade_time_seconds": 43200
+    },
+    {
+      "id": "a89388f176a21fd0",
+      "ingredients": [
+        {
+          "item_name": "mat_valyrianschematic",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 1200
+        }
+      ],
+      "name": "eq_events_dragongear_regalserpent_25_saddle_lord25",
+      "steel_cost": 1800000,
+      "template_level": 20,
+      "upgrade_time_seconds": 64800
+    },
+    {
+      "id": "f79473f6f6ced92",
+      "ingredients": [
+        {
+          "item_name": "mat_valyrianschematic",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_weirwood",
+          "quantity": 1200
+        }
+      ],
+      "name": "eq_events_dragongear_regalserpent_25_peytral_lord25",
+      "steel_cost": 1800000,
+      "template_level": 20,
+      "upgrade_time_seconds": 64800
+    },
+    {
+      "id": "9fb3b7e87fb08b98",
+      "ingredients": [
+        {
+          "item_name": "mat_valyrianschematic",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 1200
+        }
+      ],
+      "name": "eq_events_dragongear_regalserpent_25_chanfron_lord25",
+      "steel_cost": 1800000,
+      "template_level": 20,
+      "upgrade_time_seconds": 64800
+    },
+    {
+      "id": "bc482ecdd65da5a0",
+      "ingredients": [
+        {
+          "item_name": "mat_valyrianschematic",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 3000
+        }
+      ],
+      "name": "eq_events_dragongear_regalserpent_30_saddle_lord30",
+      "steel_cost": 5850000,
+      "template_level": 25,
+      "upgrade_time_seconds": 86400
+    },
+    {
+      "id": "309c9602666390dd",
+      "ingredients": [
+        {
+          "item_name": "mat_valyrianschematic",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_weirwood",
+          "quantity": 3000
+        }
+      ],
+      "name": "eq_events_dragongear_regalserpent_30_peytral_lord30",
+      "steel_cost": 5850000,
+      "template_level": 25,
+      "upgrade_time_seconds": 86400
+    },
+    {
+      "id": "5aeab08e70d6206a",
+      "ingredients": [
+        {
+          "item_name": "mat_valyrianschematic",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 3000
+        }
+      ],
+      "name": "eq_events_dragongear_regalserpent_30_chanfron_lord30",
+      "steel_cost": 5850000,
+      "template_level": 25,
+      "upgrade_time_seconds": 86400
+    },
+    {
+      "id": "8b826955319e13c5",
+      "ingredients": [
+        {
+          "item_name": "mat_valyrianschematic",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 12000
+        }
+      ],
+      "name": "eq_events_dragongear_regalserpent_35_saddle_lord35",
+      "steel_cost": 18400000,
+      "template_level": 30,
+      "upgrade_time_seconds": 129600
+    },
+    {
+      "id": "1152c957aab9c9b1",
+      "ingredients": [
+        {
+          "item_name": "mat_valyrianschematic",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_weirwood",
+          "quantity": 12000
+        }
+      ],
+      "name": "eq_events_dragongear_regalserpent_35_peytral_lord35",
+      "steel_cost": 18400000,
+      "template_level": 30,
+      "upgrade_time_seconds": 129600
+    },
+    {
+      "id": "b2f73f253541f1e8",
+      "ingredients": [
+        {
+          "item_name": "mat_valyrianschematic",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 12000
+        }
+      ],
+      "name": "eq_events_dragongear_regalserpent_35_chanfron_lord35",
+      "steel_cost": 18400000,
+      "template_level": 30,
+      "upgrade_time_seconds": 129600
+    },
+    {
+      "id": "553d8ab003e981cb",
+      "ingredients": [
+        {
+          "item_name": "mat_valyrianschematic",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 45000
+        }
+      ],
+      "name": "eq_events_dragongear_regalserpent_40_saddle_lord40",
+      "steel_cost": 56900000,
+      "template_level": 35,
+      "upgrade_time_seconds": 172800
+    },
+    {
+      "id": "6a4e3d183f486c34",
+      "ingredients": [
+        {
+          "item_name": "mat_valyrianschematic",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_weirwood",
+          "quantity": 45000
+        }
+      ],
+      "name": "eq_events_dragongear_regalserpent_40_peytral_lord40",
+      "steel_cost": 56900000,
+      "template_level": 35,
+      "upgrade_time_seconds": 172800
+    },
+    {
+      "id": "98350aec8400473a",
+      "ingredients": [
+        {
+          "item_name": "mat_valyrianschematic",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 45000
+        }
+      ],
+      "name": "eq_events_dragongear_regalserpent_40_chanfron_lord40",
+      "steel_cost": 56900000,
+      "template_level": 35,
+      "upgrade_time_seconds": 172800
+    },
+    {
+      "id": "62f7cd28e42a37ae",
+      "ingredients": [
+        {
+          "item_name": "mat_valyrianschematic",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 120000
+        }
+      ],
+      "name": "eq_events_dragongear_regalserpent_45_saddle_lord45",
+      "steel_cost": 173000000,
+      "template_level": 40,
+      "upgrade_time_seconds": 259200
+    },
+    {
+      "id": "4b80624df3923558",
+      "ingredients": [
+        {
+          "item_name": "mat_valyrianschematic",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_weirwood",
+          "quantity": 120000
+        }
+      ],
+      "name": "eq_events_dragongear_regalserpent_45_peytral_lord45",
+      "steel_cost": 173000000,
+      "template_level": 40,
+      "upgrade_time_seconds": 259200
+    },
+    {
+      "id": "70288547c19796b8",
+      "ingredients": [
+        {
+          "item_name": "mat_valyrianschematic",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 120000
+        }
+      ],
+      "name": "eq_events_dragongear_regalserpent_45_chanfron_lord45",
+      "steel_cost": 173000000,
+      "template_level": 40,
+      "upgrade_time_seconds": 259200
+    },
+    {
+      "id": "762c6b1444d58dde",
+      "ingredients": [
+        {
+          "item_name": "mat_valyrianschematic",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 450000
+        }
+      ],
+      "name": "eq_events_dragongear_regalserpent_50_saddle_lord50",
+      "steel_cost": 520000000,
+      "template_level": 45,
+      "upgrade_time_seconds": 345600
+    },
+    {
+      "id": "7465b370fa9d4817",
+      "ingredients": [
+        {
+          "item_name": "mat_valyrianschematic",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_weirwood",
+          "quantity": 450000
+        }
+      ],
+      "name": "eq_events_dragongear_regalserpent_50_peytral_lord50",
+      "steel_cost": 520000000,
+      "template_level": 45,
+      "upgrade_time_seconds": 345600
+    },
+    {
+      "id": "b5718221cef13d4a",
+      "ingredients": [
+        {
+          "item_name": "mat_valyrianschematic",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 450000
+        }
+      ],
+      "name": "eq_events_dragongear_regalserpent_50_chanfron_lord50",
+      "steel_cost": 520000000,
+      "template_level": 45,
+      "upgrade_time_seconds": 345600
     }
   ]
 }

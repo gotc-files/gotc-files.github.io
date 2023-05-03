@@ -13202,6 +13202,30 @@
       "type": 10
     },
     {
+      "description_placeholder": "PROPERTY_DRAGONMARCHERTROOPATTACKVSPLAYER_DESC",
+      "id": "ac3e77a7fd67c07e",
+      "image": "dragon_research_carnage_army.png",
+      "name": "property_DragonMarcherTroopAttackVsPlayer_gear",
+      "name_placeholder": "PROPERTY_DRAGONMARCHERTROOPATTACKVSPLAYER",
+      "type": 4
+    },
+    {
+      "description_placeholder": "PROPERTY_DRAGONMARCHERTROOPDEFENSEVSPLAYER_DESC",
+      "id": "15a66fec86cf32c5",
+      "image": "dragon_research_defense_from_the_air.png",
+      "name": "property_DragonMarcherTroopDefenseVsPlayer_gear",
+      "name_placeholder": "PROPERTY_DRAGONMARCHERTROOPDEFENSEVSPLAYER",
+      "type": 4
+    },
+    {
+      "description_placeholder": "PROPERTY_DRAGONMARCHERTROOPHEALTHVSPLAYER_DESC",
+      "id": "1b28a1be536ac386",
+      "image": "dragon_talent_adolescent_dragonMod_troop_health.png",
+      "name": "property_DragonMarcherTroopHealthVsPlayer_gear",
+      "name_placeholder": "PROPERTY_DRAGONMARCHERTROOPHEALTHVSPLAYER",
+      "type": 4
+    },
+    {
       "description_placeholder": "PROPERTY_DRAGON_WALLDAMAGEBONUS_DESC",
       "id": "341228d489e3d6e6",
       "image": "dragon_research_breach_wall.png",
@@ -15348,7 +15372,7 @@
     {
       "description_placeholder": "PROPERTY_DRAGON_MARCHSIZEVSPLAYERSOP_DESC",
       "id": "3fb997314020c5b5",
-      "image": "dragon_research_strength_in_numbers.png",
+      "image": "icon_dragon_care_research_march_size_vs_pvp_sop.png",
       "name": "property_DragonMarchSizeVsPlayerSOP_research",
       "name_placeholder": "PROPERTY_DRAGON_MARCHSIZEVSPLAYERSOP",
       "type": 5
@@ -15356,7 +15380,7 @@
     {
       "description_placeholder": "PROPERTY_DRAGON_MARCHSIZEVSPLAYERSOP_DESC",
       "id": "c00c043ff5454370",
-      "image": "dragon_research_strength_in_numbers.png",
+      "image": "icon_dragon_care_research_march_size_vs_pvp_sop.png",
       "name": "property_DragonMarchSizeVsPlayerSOP_talent",
       "name_placeholder": "PROPERTY_DRAGON_MARCHSIZEVSPLAYERSOP",
       "type": 7
@@ -15364,7 +15388,7 @@
     {
       "description_placeholder": "PROPERTY_DRAGON_MARCHSIZEVSPLAYERSOP_DESC",
       "id": "e4adfc6d85a543af",
-      "image": "dragon_research_strength_in_numbers.png",
+      "image": "icon_dragon_care_research_march_size_vs_pvp_sop.png",
       "name": "property_DragonMarchSizeVsPlayerSOP_gear",
       "name_placeholder": "PROPERTY_DRAGON_MARCHSIZEVSPLAYERSOP",
       "type": 4
@@ -15372,7 +15396,7 @@
     {
       "description_placeholder": "PROPERTY_DRAGON_MARCHSIZEVSPLAYERSOP_DESC",
       "id": "1d0ede6879d1421b",
-      "image": "dragon_research_strength_in_numbers.png",
+      "image": "icon_dragon_care_research_march_size_vs_pvp_sop.png",
       "name": "property_DragonMarchSizeVsPlayerSOP_consumable",
       "name_placeholder": "PROPERTY_DRAGON_MARCHSIZEVSPLAYERSOP",
       "type": 3
@@ -15380,7 +15404,7 @@
     {
       "description_placeholder": "PROPERTY_DRAGON_MARCHSIZEVSPLAYERSOP_DESC",
       "id": "942fd4c8f186fd94",
-      "image": "dragon_research_strength_in_numbers.png",
+      "image": "icon_dragon_care_research_march_size_vs_pvp_sop.png",
       "name": "property_DragonMarchSizeVsPlayerSOP_seatofpower",
       "name_placeholder": "PROPERTY_DRAGON_MARCHSIZEVSPLAYERSOP",
       "type": 6
@@ -15388,7 +15412,7 @@
     {
       "description_placeholder": "PROPERTY_DRAGON_MARCHSIZEVSPLAYERSOP_DESC",
       "id": "d8bc208fe8a1374f",
-      "image": "dragon_research_strength_in_numbers.png",
+      "image": "icon_dragon_care_research_march_size_vs_pvp_sop.png",
       "name": "property_DragonMarchSizeVsPlayerSOP_activity",
       "name_placeholder": "PROPERTY_DRAGON_MARCHSIZEVSPLAYERSOP",
       "type": 9
@@ -15396,7 +15420,7 @@
     {
       "description_placeholder": "PROPERTY_DRAGON_MARCHSIZEVSPLAYERSOP_DESC",
       "id": "c185884252f56bce",
-      "image": "dragon_research_strength_in_numbers.png",
+      "image": "icon_dragon_care_research_march_size_vs_pvp_sop.png",
       "name": "property_DragonMarchSizeVsPlayerSOP_armory",
       "name_placeholder": "PROPERTY_DRAGON_MARCHSIZEVSPLAYERSOP",
       "type": 10
@@ -15404,7 +15428,7 @@
     {
       "description_placeholder": "PROPERTY_DRAGON_MARCHSIZEVSPLAYERSOP_DESC",
       "id": "99fb6e3cacee35f7",
-      "image": "dragon_research_strength_in_numbers.png",
+      "image": "icon_dragon_care_research_march_size_vs_pvp_sop.png",
       "name": "property_DragonMarchSizeVsPlayerSOP_city",
       "name_placeholder": "PROPERTY_DRAGON_MARCHSIZEVSPLAYERSOP",
       "type": 2
@@ -15412,7 +15436,7 @@
     {
       "description_placeholder": "PROPERTY_DRAGON_MARCHSIZEVSPLAYERSOP_DESC",
       "id": "52d5bfd31e8f3ee4",
-      "image": "dragon_research_strength_in_numbers.png",
+      "image": "icon_dragon_care_research_march_size_vs_pvp_sop.png",
       "name": "property_DragonMarchSizeVsPlayerSOP_hero",
       "name_placeholder": "PROPERTY_DRAGON_MARCHSIZEVSPLAYERSOP",
       "type": 11
@@ -15420,7 +15444,7 @@
     {
       "description_placeholder": "PROPERTY_DRAGON_MARCHSIZEVSPLAYERSTRATEGICTERRAIN_DESC",
       "id": "2c0fd3c5055f18a0",
-      "image": "dragon_research_strength_in_numbers.png",
+      "image": "icon_dragon_care_research_march_size_vs_pvp_strategic_terrain.png",
       "name": "property_DragonMarchSizeVsPlayerStrategicTerrain_research",
       "name_placeholder": "PROPERTY_DRAGON_MARCHSIZEVSPLAYERSTRATEGICTERRAIN",
       "type": 5
@@ -15428,7 +15452,7 @@
     {
       "description_placeholder": "PROPERTY_DRAGON_MARCHSIZEVSPLAYERSTRATEGICTERRAIN_DESC",
       "id": "a1871ff8b4a82c70",
-      "image": "dragon_research_strength_in_numbers.png",
+      "image": "icon_dragon_care_research_march_size_vs_pvp_strategic_terrain.png",
       "name": "property_DragonMarchSizeVsPlayerStrategicTerrain_talent",
       "name_placeholder": "PROPERTY_DRAGON_MARCHSIZEVSPLAYERSTRATEGICTERRAIN",
       "type": 7
@@ -15436,7 +15460,7 @@
     {
       "description_placeholder": "PROPERTY_DRAGON_MARCHSIZEVSPLAYERSTRATEGICTERRAIN_DESC",
       "id": "2ced34810ce9cb43",
-      "image": "dragon_research_strength_in_numbers.png",
+      "image": "icon_dragon_care_research_march_size_vs_pvp_strategic_terrain.png",
       "name": "property_DragonMarchSizeVsPlayerStrategicTerrain_gear",
       "name_placeholder": "PROPERTY_DRAGON_MARCHSIZEVSPLAYERSTRATEGICTERRAIN",
       "type": 4
@@ -15444,7 +15468,7 @@
     {
       "description_placeholder": "PROPERTY_DRAGON_MARCHSIZEVSPLAYERSTRATEGICTERRAIN_DESC",
       "id": "ce8c2fe3482b095",
-      "image": "dragon_research_strength_in_numbers.png",
+      "image": "icon_dragon_care_research_march_size_vs_pvp_strategic_terrain.png",
       "name": "property_DragonMarchSizeVsPlayerStrategicTerrain_consumable",
       "name_placeholder": "PROPERTY_DRAGON_MARCHSIZEVSPLAYERSTRATEGICTERRAIN",
       "type": 3
@@ -15452,7 +15476,7 @@
     {
       "description_placeholder": "PROPERTY_DRAGON_MARCHSIZEVSPLAYERSTRATEGICTERRAIN_DESC",
       "id": "5a73b57983c22d14",
-      "image": "dragon_research_strength_in_numbers.png",
+      "image": "icon_dragon_care_research_march_size_vs_pvp_strategic_terrain.png",
       "name": "property_DragonMarchSizeVsPlayerStrategicTerrain_seatofpower",
       "name_placeholder": "PROPERTY_DRAGON_MARCHSIZEVSPLAYERSTRATEGICTERRAIN",
       "type": 6
@@ -15460,7 +15484,7 @@
     {
       "description_placeholder": "PROPERTY_DRAGON_MARCHSIZEVSPLAYERSTRATEGICTERRAIN_DESC",
       "id": "cb0a647baddeea5a",
-      "image": "dragon_research_strength_in_numbers.png",
+      "image": "icon_dragon_care_research_march_size_vs_pvp_strategic_terrain.png",
       "name": "property_DragonMarchSizeVsPlayerStrategicTerrain_activity",
       "name_placeholder": "PROPERTY_DRAGON_MARCHSIZEVSPLAYERSTRATEGICTERRAIN",
       "type": 9
@@ -15468,7 +15492,7 @@
     {
       "description_placeholder": "PROPERTY_DRAGON_MARCHSIZEVSPLAYERSTRATEGICTERRAIN_DESC",
       "id": "a00e9385131804ce",
-      "image": "dragon_research_strength_in_numbers.png",
+      "image": "icon_dragon_care_research_march_size_vs_pvp_strategic_terrain.png",
       "name": "property_DragonMarchSizeVsPlayerStrategicTerrain_armory",
       "name_placeholder": "PROPERTY_DRAGON_MARCHSIZEVSPLAYERSTRATEGICTERRAIN",
       "type": 10
@@ -15476,7 +15500,7 @@
     {
       "description_placeholder": "PROPERTY_DRAGON_MARCHSIZEVSPLAYERSTRATEGICTERRAIN_DESC",
       "id": "51bba6d025a2bd1b",
-      "image": "dragon_research_strength_in_numbers.png",
+      "image": "icon_dragon_care_research_march_size_vs_pvp_strategic_terrain.png",
       "name": "property_DragonMarchSizeVsPlayerStrategicTerrain_city",
       "name_placeholder": "PROPERTY_DRAGON_MARCHSIZEVSPLAYERSTRATEGICTERRAIN",
       "type": 2
@@ -15484,7 +15508,7 @@
     {
       "description_placeholder": "PROPERTY_DRAGON_MARCHSIZEVSPLAYERSTRATEGICTERRAIN_DESC",
       "id": "9a95773f97c3b608",
-      "image": "dragon_research_strength_in_numbers.png",
+      "image": "icon_dragon_care_research_march_size_vs_pvp_strategic_terrain.png",
       "name": "property_DragonMarchSizeVsPlayerStrategicTerrain_hero",
       "name_placeholder": "PROPERTY_DRAGON_MARCHSIZEVSPLAYERSTRATEGICTERRAIN",
       "type": 11
@@ -78752,14 +78776,6 @@
       "name": "property_SoP_Tier8_ReinforcementCapacity_activity",
       "name_placeholder": "PROPERTY_SOP_REINFORCEMENT_CAPACITY_TIER8",
       "type": 9
-    },
-    {
-      "description_placeholder": "PROPERTY_DRAGONMARCHERTROOPATTACKVSPLAYER_DESC",
-      "id": "ac3e77a7fd67c07e",
-      "image": "dragon_research_carnage_army.png",
-      "name": "property_DragonMarcherTroopAttackVsPlayer_gear",
-      "name_placeholder": "PROPERTY_DRAGONMARCHERTROOPATTACKVSPLAYER",
-      "type": 4
     }
   ]
 }
