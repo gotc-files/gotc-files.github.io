@@ -13006,7 +13006,7 @@
       {
         "description": "Ranged Attack in Player-to-Player combat.",
         "name": "Ranged Attack vs. Player",
-        "star_skill_value": 0.323136001825333,
+        "star_skill_value": 0.332928001880646,
         "type": "COUNCIL",
         "unlock_level": 20
       },
@@ -13018,9 +13018,9 @@
         "unlock_level": 30
       },
       {
-        "description": "The maximum number of allied troops that can Reinforce your Keep.",
-        "name": "Reinforcement Capacity",
-        "star_skill_value": 23500.80078125,
+        "description": "The maximum number of allied troops that can Reinforce a Seat of Power you hold.",
+        "name": "Reinforcement Capacity for Seats of Power",
+        "star_skill_value": 28396.80078125,
         "type": "COUNCIL",
         "unlock_level": 40
       },
