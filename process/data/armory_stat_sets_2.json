@@ -1350,6 +1350,36 @@
           "progression": "prog_armory_bouns_MarcherTroop_1"
         }
       ]
+    },
+    {
+      "id": "d121f55f5a2dc479",
+      "name": "armcol_events_kingsguard2_1",
+      "stats": [
+        {
+          "name": "property_RangedDefenseVsPlayer_armory",
+          "progression": "prog_armory_bonus_SpecificTroop_1"
+        }
+      ]
+    },
+    {
+      "id": "a433a9b483d83677",
+      "name": "armcol_events_kingsguard2_2",
+      "stats": [
+        {
+          "name": "property_RangedAttackVsPlayersCavalry_armory",
+          "progression": "prog_armory_bonus_SpecificTroop_1"
+        }
+      ]
+    },
+    {
+      "id": "88c26212348b678d",
+      "name": "armcol_events_kingsguard2_3",
+      "stats": [
+        {
+          "name": "property_MarcherRangedHealthVsPlayer_armory",
+          "progression": "prog_armory_bouns_MarcherTroop_1"
+        }
+      ]
     }
   ]
 }

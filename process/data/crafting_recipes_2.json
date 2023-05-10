@@ -64260,6 +64260,1434 @@
       "steel_cost": 520000000,
       "template_level": 45,
       "upgrade_time_seconds": 345600
+    },
+    {
+      "id": "30e7a13255929fec",
+      "ingredients": [
+        {
+          "item_name": "mat_event_kingsguard2_1",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_weirwood",
+          "quantity": 10
+        }
+      ],
+      "name": "eq_events_kingsguard2_5_boots_lord5",
+      "steel_cost": 4000,
+      "template_level": 1,
+      "upgrade_time_seconds": 3600
+    },
+    {
+      "id": "204df66a7a35817b",
+      "ingredients": [
+        {
+          "item_name": "mat_event_kingsguard2_1",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_hide",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 10
+        }
+      ],
+      "name": "eq_events_kingsguard2_5_chest_lord5",
+      "steel_cost": 4000,
+      "template_level": 1,
+      "upgrade_time_seconds": 3600
+    },
+    {
+      "id": "a0203f5590f428b8",
+      "ingredients": [
+        {
+          "item_name": "mat_event_kingsguard2_1",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 10
+        }
+      ],
+      "name": "eq_events_kingsguard2_5_helmet_lord5",
+      "steel_cost": 4000,
+      "template_level": 1,
+      "upgrade_time_seconds": 3600
+    },
+    {
+      "id": "f365b44908cd4860",
+      "ingredients": [
+        {
+          "item_name": "mat_event_kingsguard2_1",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_kingswoodoak",
+          "quantity": 10
+        }
+      ],
+      "name": "eq_events_kingsguard2_5_pants_lord5",
+      "steel_cost": 4000,
+      "template_level": 1,
+      "upgrade_time_seconds": 3600
+    },
+    {
+      "id": "68492d43337f4a89",
+      "ingredients": [
+        {
+          "item_name": "mat_event_kingsguard2_1",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 10
+        }
+      ],
+      "name": "eq_events_kingsguard2_5_ring_lord5",
+      "steel_cost": 4000,
+      "template_level": 1,
+      "upgrade_time_seconds": 3600
+    },
+    {
+      "id": "c7fda762d92b7635",
+      "ingredients": [
+        {
+          "item_name": "mat_event_kingsguard2_1",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 10
+        }
+      ],
+      "name": "eq_events_kingsguard2_5_weapon_lord5",
+      "steel_cost": 4000,
+      "template_level": 1,
+      "upgrade_time_seconds": 3600
+    },
+    {
+      "id": "75a0a91729c08433",
+      "ingredients": [
+        {
+          "item_name": "mat_event_kingsguard2_1",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_weirwood",
+          "quantity": 20
+        }
+      ],
+      "name": "eq_events_kingsguard2_10_boots_lord10",
+      "steel_cost": 36500,
+      "template_level": 5,
+      "upgrade_time_seconds": 7200
+    },
+    {
+      "id": "3aea2cff7e44ff83",
+      "ingredients": [
+        {
+          "item_name": "mat_event_kingsguard2_1",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_hide",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 20
+        }
+      ],
+      "name": "eq_events_kingsguard2_10_chest_lord10",
+      "steel_cost": 36500,
+      "template_level": 5,
+      "upgrade_time_seconds": 7200
+    },
+    {
+      "id": "b3cb5ba90dacb6c8",
+      "ingredients": [
+        {
+          "item_name": "mat_event_kingsguard2_1",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 20
+        }
+      ],
+      "name": "eq_events_kingsguard2_10_helmet_lord10",
+      "steel_cost": 36500,
+      "template_level": 5,
+      "upgrade_time_seconds": 7200
+    },
+    {
+      "id": "e2cd3be2d832fb62",
+      "ingredients": [
+        {
+          "item_name": "mat_event_kingsguard2_1",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_kingswoodoak",
+          "quantity": 20
+        }
+      ],
+      "name": "eq_events_kingsguard2_10_pants_lord10",
+      "steel_cost": 36500,
+      "template_level": 5,
+      "upgrade_time_seconds": 7200
+    },
+    {
+      "id": "f4defbae8a6c3c42",
+      "ingredients": [
+        {
+          "item_name": "mat_event_kingsguard2_1",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 20
+        }
+      ],
+      "name": "eq_events_kingsguard2_10_ring_lord10",
+      "steel_cost": 36500,
+      "template_level": 5,
+      "upgrade_time_seconds": 7200
+    },
+    {
+      "id": "8f35d77071918ea",
+      "ingredients": [
+        {
+          "item_name": "mat_event_kingsguard2_1",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 20
+        }
+      ],
+      "name": "eq_events_kingsguard2_10_weapon_lord10",
+      "steel_cost": 36500,
+      "template_level": 5,
+      "upgrade_time_seconds": 7200
+    },
+    {
+      "id": "ffcad1c5da9361c3",
+      "ingredients": [
+        {
+          "item_name": "mat_event_kingsguard2_1",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_weirwood",
+          "quantity": 120
+        }
+      ],
+      "name": "eq_events_kingsguard2_15_boots_lord15",
+      "steel_cost": 148000,
+      "template_level": 10,
+      "upgrade_time_seconds": 21600
+    },
+    {
+      "id": "b080542d8d171a73",
+      "ingredients": [
+        {
+          "item_name": "mat_event_kingsguard2_1",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_hide",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 120
+        }
+      ],
+      "name": "eq_events_kingsguard2_15_chest_lord15",
+      "steel_cost": 148000,
+      "template_level": 10,
+      "upgrade_time_seconds": 21600
+    },
+    {
+      "id": "84011c31ea6f00ad",
+      "ingredients": [
+        {
+          "item_name": "mat_event_kingsguard2_1",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 120
+        }
+      ],
+      "name": "eq_events_kingsguard2_15_helmet_lord15",
+      "steel_cost": 148000,
+      "template_level": 10,
+      "upgrade_time_seconds": 21600
+    },
+    {
+      "id": "68a743302b611e92",
+      "ingredients": [
+        {
+          "item_name": "mat_event_kingsguard2_1",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_kingswoodoak",
+          "quantity": 120
+        }
+      ],
+      "name": "eq_events_kingsguard2_15_pants_lord15",
+      "steel_cost": 148000,
+      "template_level": 10,
+      "upgrade_time_seconds": 21600
+    },
+    {
+      "id": "8bb9868033a00c93",
+      "ingredients": [
+        {
+          "item_name": "mat_event_kingsguard2_1",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 120
+        }
+      ],
+      "name": "eq_events_kingsguard2_15_ring_lord15",
+      "steel_cost": 148000,
+      "template_level": 10,
+      "upgrade_time_seconds": 21600
+    },
+    {
+      "id": "3f391aefe0daae8f",
+      "ingredients": [
+        {
+          "item_name": "mat_event_kingsguard2_1",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 120
+        }
+      ],
+      "name": "eq_events_kingsguard2_15_weapon_lord15",
+      "steel_cost": 148000,
+      "template_level": 10,
+      "upgrade_time_seconds": 21600
+    },
+    {
+      "id": "9cf8bd93c116f012",
+      "ingredients": [
+        {
+          "item_name": "mat_event_kingsguard2_1",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_weirwood",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 400
+        }
+      ],
+      "name": "eq_events_kingsguard2_20_boots_lord20",
+      "steel_cost": 534000,
+      "template_level": 15,
+      "upgrade_time_seconds": 43200
+    },
+    {
+      "id": "d3b2387b96928ba2",
+      "ingredients": [
+        {
+          "item_name": "mat_event_kingsguard2_1",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_hide",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 400
+        }
+      ],
+      "name": "eq_events_kingsguard2_20_chest_lord20",
+      "steel_cost": 534000,
+      "template_level": 15,
+      "upgrade_time_seconds": 43200
+    },
+    {
+      "id": "d6f97945c4e8a2f7",
+      "ingredients": [
+        {
+          "item_name": "mat_event_kingsguard2_1",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 400
+        }
+      ],
+      "name": "eq_events_kingsguard2_20_helmet_lord20",
+      "steel_cost": 534000,
+      "template_level": 15,
+      "upgrade_time_seconds": 43200
+    },
+    {
+      "id": "b952f6630e48f43",
+      "ingredients": [
+        {
+          "item_name": "mat_event_kingsguard2_1",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_kingswoodoak",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_hide",
+          "quantity": 400
+        }
+      ],
+      "name": "eq_events_kingsguard2_20_pants_lord20",
+      "steel_cost": 534000,
+      "template_level": 15,
+      "upgrade_time_seconds": 43200
+    },
+    {
+      "id": "f770c43f5650bc09",
+      "ingredients": [
+        {
+          "item_name": "mat_event_kingsguard2_1",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 400
+        }
+      ],
+      "name": "eq_events_kingsguard2_20_ring_lord20",
+      "steel_cost": 534000,
+      "template_level": 15,
+      "upgrade_time_seconds": 43200
+    },
+    {
+      "id": "6dc17f9bce5d0cd5",
+      "ingredients": [
+        {
+          "item_name": "mat_event_kingsguard2_1",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_weirwood",
+          "quantity": 400
+        }
+      ],
+      "name": "eq_events_kingsguard2_20_weapon_lord20",
+      "steel_cost": 534000,
+      "template_level": 15,
+      "upgrade_time_seconds": 43200
+    },
+    {
+      "id": "1692c541324515e2",
+      "ingredients": [
+        {
+          "item_name": "mat_event_kingsguard2_1",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_weirwood",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 1200
+        }
+      ],
+      "name": "eq_events_kingsguard2_25_boots_lord25",
+      "steel_cost": 1800000,
+      "template_level": 20,
+      "upgrade_time_seconds": 64800
+    },
+    {
+      "id": "59d840a965c16e52",
+      "ingredients": [
+        {
+          "item_name": "mat_event_kingsguard2_1",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_hide",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 1200
+        }
+      ],
+      "name": "eq_events_kingsguard2_25_chest_lord25",
+      "steel_cost": 1800000,
+      "template_level": 20,
+      "upgrade_time_seconds": 64800
+    },
+    {
+      "id": "e1333edd232b1492",
+      "ingredients": [
+        {
+          "item_name": "mat_event_kingsguard2_1",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 1200
+        }
+      ],
+      "name": "eq_events_kingsguard2_25_helmet_lord25",
+      "steel_cost": 1800000,
+      "template_level": 20,
+      "upgrade_time_seconds": 64800
+    },
+    {
+      "id": "81ff57b4c3b76ab3",
+      "ingredients": [
+        {
+          "item_name": "mat_event_kingsguard2_1",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_kingswoodoak",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_hide",
+          "quantity": 1200
+        }
+      ],
+      "name": "eq_events_kingsguard2_25_pants_lord25",
+      "steel_cost": 1800000,
+      "template_level": 20,
+      "upgrade_time_seconds": 64800
+    },
+    {
+      "id": "8817b911ef9c8cd8",
+      "ingredients": [
+        {
+          "item_name": "mat_event_kingsguard2_1",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 1200
+        }
+      ],
+      "name": "eq_events_kingsguard2_25_ring_lord25",
+      "steel_cost": 1800000,
+      "template_level": 20,
+      "upgrade_time_seconds": 64800
+    },
+    {
+      "id": "5a0b3803299ebab0",
+      "ingredients": [
+        {
+          "item_name": "mat_event_kingsguard2_1",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_weirwood",
+          "quantity": 1200
+        }
+      ],
+      "name": "eq_events_kingsguard2_25_weapon_lord25",
+      "steel_cost": 1800000,
+      "template_level": 20,
+      "upgrade_time_seconds": 64800
+    },
+    {
+      "id": "45a68fc35e3e1914",
+      "ingredients": [
+        {
+          "item_name": "mat_event_kingsguard2_1",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_weirwood",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 3000
+        }
+      ],
+      "name": "eq_events_kingsguard2_30_boots_lord30",
+      "steel_cost": 5850000,
+      "template_level": 25,
+      "upgrade_time_seconds": 86400
+    },
+    {
+      "id": "aec0a2b09ba62a4",
+      "ingredients": [
+        {
+          "item_name": "mat_event_kingsguard2_1",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_hide",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 3000
+        }
+      ],
+      "name": "eq_events_kingsguard2_30_chest_lord30",
+      "steel_cost": 5850000,
+      "template_level": 25,
+      "upgrade_time_seconds": 86400
+    },
+    {
+      "id": "f5e898e183d4aee2",
+      "ingredients": [
+        {
+          "item_name": "mat_event_kingsguard2_1",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 3000
+        }
+      ],
+      "name": "eq_events_kingsguard2_30_helmet_lord30",
+      "steel_cost": 5850000,
+      "template_level": 25,
+      "upgrade_time_seconds": 86400
+    },
+    {
+      "id": "d2cb1d36afcc6645",
+      "ingredients": [
+        {
+          "item_name": "mat_event_kingsguard2_1",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_kingswoodoak",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_hide",
+          "quantity": 3000
+        }
+      ],
+      "name": "eq_events_kingsguard2_30_pants_lord30",
+      "steel_cost": 5850000,
+      "template_level": 25,
+      "upgrade_time_seconds": 86400
+    },
+    {
+      "id": "f6152eb01dbb3c30",
+      "ingredients": [
+        {
+          "item_name": "mat_event_kingsguard2_1",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 3000
+        }
+      ],
+      "name": "eq_events_kingsguard2_30_ring_lord30",
+      "steel_cost": 5850000,
+      "template_level": 25,
+      "upgrade_time_seconds": 86400
+    },
+    {
+      "id": "4ed09e3f896100c0",
+      "ingredients": [
+        {
+          "item_name": "mat_event_kingsguard2_1",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_weirwood",
+          "quantity": 3000
+        }
+      ],
+      "name": "eq_events_kingsguard2_30_weapon_lord30",
+      "steel_cost": 5850000,
+      "template_level": 25,
+      "upgrade_time_seconds": 86400
+    },
+    {
+      "id": "cfccf711ad6dfce4",
+      "ingredients": [
+        {
+          "item_name": "mat_event_kingsguard2_1",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_weirwood",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 12000
+        }
+      ],
+      "name": "eq_events_kingsguard2_35_boots_lord35",
+      "steel_cost": 18400000,
+      "template_level": 30,
+      "upgrade_time_seconds": 129600
+    },
+    {
+      "id": "808672f9fae98754",
+      "ingredients": [
+        {
+          "item_name": "mat_event_kingsguard2_1",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_hide",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 12000
+        }
+      ],
+      "name": "eq_events_kingsguard2_35_chest_lord35",
+      "steel_cost": 18400000,
+      "template_level": 30,
+      "upgrade_time_seconds": 129600
+    },
+    {
+      "id": "c222df7964171887",
+      "ingredients": [
+        {
+          "item_name": "mat_event_kingsguard2_1",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 12000
+        }
+      ],
+      "name": "eq_events_kingsguard2_35_helmet_lord35",
+      "steel_cost": 18400000,
+      "template_level": 30,
+      "upgrade_time_seconds": 129600
+    },
+    {
+      "id": "58a165e45c9f83b5",
+      "ingredients": [
+        {
+          "item_name": "mat_event_kingsguard2_1",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_kingswoodoak",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_hide",
+          "quantity": 12000
+        }
+      ],
+      "name": "eq_events_kingsguard2_35_pants_lord35",
+      "steel_cost": 18400000,
+      "template_level": 30,
+      "upgrade_time_seconds": 129600
+    },
+    {
+      "id": "8972539ea4770ce1",
+      "ingredients": [
+        {
+          "item_name": "mat_event_kingsguard2_1",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 12000
+        }
+      ],
+      "name": "eq_events_kingsguard2_35_ring_lord35",
+      "steel_cost": 18400000,
+      "template_level": 30,
+      "upgrade_time_seconds": 129600
+    },
+    {
+      "id": "791ad9a76ea2b6a5",
+      "ingredients": [
+        {
+          "item_name": "mat_event_kingsguard2_1",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_weirwood",
+          "quantity": 12000
+        }
+      ],
+      "name": "eq_events_kingsguard2_35_weapon_lord35",
+      "steel_cost": 18400000,
+      "template_level": 30,
+      "upgrade_time_seconds": 129600
+    },
+    {
+      "id": "ccf2d6ef5915577b",
+      "ingredients": [
+        {
+          "item_name": "mat_event_kingsguard2_1",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_weirwood",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 45000
+        }
+      ],
+      "name": "eq_events_kingsguard2_40_boots_lord40",
+      "steel_cost": 56900000,
+      "template_level": 35,
+      "upgrade_time_seconds": 172800
+    },
+    {
+      "id": "83b853070e912ccb",
+      "ingredients": [
+        {
+          "item_name": "mat_event_kingsguard2_1",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_hide",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 45000
+        }
+      ],
+      "name": "eq_events_kingsguard2_40_chest_lord40",
+      "steel_cost": 56900000,
+      "template_level": 35,
+      "upgrade_time_seconds": 172800
+    },
+    {
+      "id": "1c9d3c9c56608a89",
+      "ingredients": [
+        {
+          "item_name": "mat_event_kingsguard2_1",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 45000
+        }
+      ],
+      "name": "eq_events_kingsguard2_40_helmet_lord40",
+      "steel_cost": 56900000,
+      "template_level": 35,
+      "upgrade_time_seconds": 172800
+    },
+    {
+      "id": "5b9f441aa8e7282a",
+      "ingredients": [
+        {
+          "item_name": "mat_event_kingsguard2_1",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_kingswoodoak",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_hide",
+          "quantity": 45000
+        }
+      ],
+      "name": "eq_events_kingsguard2_40_pants_lord40",
+      "steel_cost": 56900000,
+      "template_level": 35,
+      "upgrade_time_seconds": 172800
+    },
+    {
+      "id": "f02cbb1cee29bc9f",
+      "ingredients": [
+        {
+          "item_name": "mat_event_kingsguard2_1",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 45000
+        }
+      ],
+      "name": "eq_events_kingsguard2_40_ring_lord40",
+      "steel_cost": 56900000,
+      "template_level": 35,
+      "upgrade_time_seconds": 172800
+    },
+    {
+      "id": "a7a53a425cd524ab",
+      "ingredients": [
+        {
+          "item_name": "mat_event_kingsguard2_1",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_weirwood",
+          "quantity": 45000
+        }
+      ],
+      "name": "eq_events_kingsguard2_40_weapon_lord40",
+      "steel_cost": 56900000,
+      "template_level": 35,
+      "upgrade_time_seconds": 172800
+    },
+    {
+      "id": "4698ae3daa46b28b",
+      "ingredients": [
+        {
+          "item_name": "mat_event_kingsguard2_1",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_weirwood",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 120000
+        }
+      ],
+      "name": "eq_events_kingsguard2_45_boots_lord45",
+      "steel_cost": 173000000,
+      "template_level": 40,
+      "upgrade_time_seconds": 259200
+    },
+    {
+      "id": "9d22bd5fdc2c93b",
+      "ingredients": [
+        {
+          "item_name": "mat_event_kingsguard2_1",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_hide",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 120000
+        }
+      ],
+      "name": "eq_events_kingsguard2_45_chest_lord45",
+      "steel_cost": 173000000,
+      "template_level": 40,
+      "upgrade_time_seconds": 259200
+    },
+    {
+      "id": "2b577b04b1a33cec",
+      "ingredients": [
+        {
+          "item_name": "mat_event_kingsguard2_1",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 120000
+        }
+      ],
+      "name": "eq_events_kingsguard2_45_helmet_lord45",
+      "steel_cost": 173000000,
+      "template_level": 40,
+      "upgrade_time_seconds": 259200
+    },
+    {
+      "id": "d1f53cc85bb4cdda",
+      "ingredients": [
+        {
+          "item_name": "mat_event_kingsguard2_1",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_kingswoodoak",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_hide",
+          "quantity": 120000
+        }
+      ],
+      "name": "eq_events_kingsguard2_45_pants_lord45",
+      "steel_cost": 173000000,
+      "template_level": 40,
+      "upgrade_time_seconds": 259200
+    },
+    {
+      "id": "8f4bc63257e58c4e",
+      "ingredients": [
+        {
+          "item_name": "mat_event_kingsguard2_1",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 120000
+        }
+      ],
+      "name": "eq_events_kingsguard2_45_ring_lord45",
+      "steel_cost": 173000000,
+      "template_level": 40,
+      "upgrade_time_seconds": 259200
+    },
+    {
+      "id": "906f7ddabb1692ce",
+      "ingredients": [
+        {
+          "item_name": "mat_event_kingsguard2_1",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_weirwood",
+          "quantity": 120000
+        }
+      ],
+      "name": "eq_events_kingsguard2_45_weapon_lord45",
+      "steel_cost": 173000000,
+      "template_level": 40,
+      "upgrade_time_seconds": 259200
+    },
+    {
+      "id": "15ace4bfc63dbe7d",
+      "ingredients": [
+        {
+          "item_name": "mat_event_kingsguard2_1",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_weirwood",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 450000
+        }
+      ],
+      "name": "eq_events_kingsguard2_50_boots_lord50",
+      "steel_cost": 520000000,
+      "template_level": 45,
+      "upgrade_time_seconds": 345600
+    },
+    {
+      "id": "5ae6615791b9c5cd",
+      "ingredients": [
+        {
+          "item_name": "mat_event_kingsguard2_1",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_hide",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 450000
+        }
+      ],
+      "name": "eq_events_kingsguard2_50_chest_lord50",
+      "steel_cost": 520000000,
+      "template_level": 45,
+      "upgrade_time_seconds": 345600
+    },
+    {
+      "id": "3f8cdd38115c869c",
+      "ingredients": [
+        {
+          "item_name": "mat_event_kingsguard2_1",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 450000
+        }
+      ],
+      "name": "eq_events_kingsguard2_50_helmet_lord50",
+      "steel_cost": 520000000,
+      "template_level": 45,
+      "upgrade_time_seconds": 345600
+    },
+    {
+      "id": "82c1764a37cfc12c",
+      "ingredients": [
+        {
+          "item_name": "mat_event_kingsguard2_1",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_kingswoodoak",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_hide",
+          "quantity": 450000
+        }
+      ],
+      "name": "eq_events_kingsguard2_50_pants_lord50",
+      "steel_cost": 520000000,
+      "template_level": 45,
+      "upgrade_time_seconds": 345600
+    },
+    {
+      "id": "f1495193a5c23ca6",
+      "ingredients": [
+        {
+          "item_name": "mat_event_kingsguard2_1",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 450000
+        }
+      ],
+      "name": "eq_events_kingsguard2_50_ring_lord50",
+      "steel_cost": 520000000,
+      "template_level": 45,
+      "upgrade_time_seconds": 345600
+    },
+    {
+      "id": "84b4dbe61be928be",
+      "ingredients": [
+        {
+          "item_name": "mat_event_kingsguard2_1",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_weirwood",
+          "quantity": 450000
+        }
+      ],
+      "name": "eq_events_kingsguard2_50_weapon_lord50",
+      "steel_cost": 520000000,
+      "template_level": 45,
+      "upgrade_time_seconds": 345600
     }
   ]
 }

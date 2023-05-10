@@ -1215,6 +1215,33 @@
       "ring_name": "prog_gearset_events_snow3_ring",
       "weapon_id": "5dd03a4cf2eeec51",
       "weapon_name": "prog_gearset_events_snow3_weapon"
+    },
+    {
+      "boots_id": "85678cce3e0a7150",
+      "boots_name": "prog_gearset_events_kingsguard2_boots",
+      "chest_id": "b91c30640a954068",
+      "chest_name": "prog_gearset_events_kingsguard2_chest",
+      "color": {
+        "alpha": 255,
+        "blue": 0,
+        "green": 100,
+        "red": 157
+      },
+      "description_placeholder": "EQ_EVENTS_KINGSGUARD2_SET_DESCRIPTION",
+      "helmet_id": "144765b92141fec5",
+      "helmet_name": "prog_gearset_events_kingsguard2_helmet",
+      "id": "70089b298f060808",
+      "material_id": 9863302493600374272,
+      "material_name": "mat_event_kingsguard2_1",
+      "name": "gearset_events_kingsguard2",
+      "name_placeholder": "EQ_EVENTS_KINGSGUARD2_SET_NAME",
+      "pants_id": "3c54e66cec4dd019",
+      "pants_name": "prog_gearset_events_kingsguard2_pants",
+      "priority": 27300,
+      "ring_id": "3d3796f66d84e8ea",
+      "ring_name": "prog_gearset_events_kingsguard2_ring",
+      "weapon_id": "6612a30048834816",
+      "weapon_name": "prog_gearset_events_kingsguard2_weapon"
     }
   ]
 }

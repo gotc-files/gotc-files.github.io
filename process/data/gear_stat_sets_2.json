@@ -70272,6 +70272,1878 @@
           "progression": "prog_gear_Event9_InfantryDefense_50"
         }
       ]
+    },
+    {
+      "id": "30e7a13255929fec",
+      "name": "eq_events_kingsguard2_5_boots_lord5",
+      "stats": [
+        {
+          "name": "property_RangedHealthVsPlayer_gear",
+          "progression": "prog_gear_Event9_RangedHealthVsPlayer_5"
+        },
+        {
+          "name": "property_MarcherRangedAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherRangedAttackVsPlayer_5"
+        },
+        {
+          "name": "property_RangedHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9_RangedHealthVsPlayerSeatOfPower_5"
+        }
+      ]
+    },
+    {
+      "id": "204df66a7a35817b",
+      "name": "eq_events_kingsguard2_5_chest_lord5",
+      "stats": [
+        {
+          "name": "property_RangedAttack_gear",
+          "progression": "prog_gear_Event9_RangedAttack_5"
+        },
+        {
+          "name": "property_RangedAttackVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayersRanged_5"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event9_MaxMarchSize_5"
+        }
+      ]
+    },
+    {
+      "id": "a0203f5590f428b8",
+      "name": "eq_events_kingsguard2_5_helmet_lord5",
+      "stats": [
+        {
+          "name": "property_RangedAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayer_5"
+        },
+        {
+          "name": "property_RangedHealth_gear",
+          "progression": "prog_gear_Event9_RangedHealth_5"
+        },
+        {
+          "name": "property_RangedAttackVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayersRanged_5"
+        }
+      ]
+    },
+    {
+      "id": "f365b44908cd4860",
+      "name": "eq_events_kingsguard2_5_pants_lord5",
+      "stats": [
+        {
+          "name": "property_RangedHealth_gear",
+          "progression": "prog_gear_Event9_RangedHealth_5"
+        },
+        {
+          "name": "property_RangedAttack_gear",
+          "progression": "prog_gear_Event9_RangedAttack_5"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarchSpeedVsPlayer_5"
+        }
+      ]
+    },
+    {
+      "id": "68492d43337f4a89",
+      "name": "eq_events_kingsguard2_5_ring_lord5",
+      "stats": [
+        {
+          "name": "property_RangedDefense_gear",
+          "progression": "prog_gear_Event9_RangedDefense_5"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarchSpeedVsPlayer_5"
+        },
+        {
+          "name": "property_RangedAttackVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayerSeatOfPower_5"
+        }
+      ]
+    },
+    {
+      "id": "c7fda762d92b7635",
+      "name": "eq_events_kingsguard2_5_weapon_lord5",
+      "stats": [
+        {
+          "name": "property_RangedAttack_gear",
+          "progression": "prog_gear_Event9_RangedAttack_5"
+        },
+        {
+          "name": "property_RangedDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event9_RangedDefenseVsPlayer_5"
+        },
+        {
+          "name": "property_RangedAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayer_5"
+        }
+      ]
+    },
+    {
+      "id": "75a0a91729c08433",
+      "name": "eq_events_kingsguard2_10_boots_lord10",
+      "stats": [
+        {
+          "name": "property_RangedHealthVsPlayer_gear",
+          "progression": "prog_gear_Event9_RangedHealthVsPlayer_10"
+        },
+        {
+          "name": "property_MarcherRangedAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherRangedAttackVsPlayer_10"
+        },
+        {
+          "name": "property_RangedHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9_RangedHealthVsPlayerSeatOfPower_10"
+        }
+      ]
+    },
+    {
+      "id": "3aea2cff7e44ff83",
+      "name": "eq_events_kingsguard2_10_chest_lord10",
+      "stats": [
+        {
+          "name": "property_RangedAttack_gear",
+          "progression": "prog_gear_Event9_RangedAttack_10"
+        },
+        {
+          "name": "property_RangedAttackVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayersRanged_10"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event9_MaxMarchSize_10"
+        }
+      ]
+    },
+    {
+      "id": "b3cb5ba90dacb6c8",
+      "name": "eq_events_kingsguard2_10_helmet_lord10",
+      "stats": [
+        {
+          "name": "property_RangedAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayer_10"
+        },
+        {
+          "name": "property_RangedHealth_gear",
+          "progression": "prog_gear_Event9_RangedHealth_10"
+        },
+        {
+          "name": "property_RangedAttackVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayersRanged_10"
+        }
+      ]
+    },
+    {
+      "id": "e2cd3be2d832fb62",
+      "name": "eq_events_kingsguard2_10_pants_lord10",
+      "stats": [
+        {
+          "name": "property_RangedHealth_gear",
+          "progression": "prog_gear_Event9_RangedHealth_10"
+        },
+        {
+          "name": "property_RangedAttack_gear",
+          "progression": "prog_gear_Event9_RangedAttack_10"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarchSpeedVsPlayer_10"
+        }
+      ]
+    },
+    {
+      "id": "f4defbae8a6c3c42",
+      "name": "eq_events_kingsguard2_10_ring_lord10",
+      "stats": [
+        {
+          "name": "property_RangedDefense_gear",
+          "progression": "prog_gear_Event9_RangedDefense_10"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarchSpeedVsPlayer_10"
+        },
+        {
+          "name": "property_RangedAttackVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayerSeatOfPower_10"
+        }
+      ]
+    },
+    {
+      "id": "8f35d77071918ea",
+      "name": "eq_events_kingsguard2_10_weapon_lord10",
+      "stats": [
+        {
+          "name": "property_RangedAttack_gear",
+          "progression": "prog_gear_Event9_RangedAttack_10"
+        },
+        {
+          "name": "property_RangedDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event9_RangedDefenseVsPlayer_10"
+        },
+        {
+          "name": "property_RangedAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayer_10"
+        }
+      ]
+    },
+    {
+      "id": "ffcad1c5da9361c3",
+      "name": "eq_events_kingsguard2_15_boots_lord15",
+      "stats": [
+        {
+          "name": "property_RangedHealthVsPlayer_gear",
+          "progression": "prog_gear_Event9_RangedHealthVsPlayer_15"
+        },
+        {
+          "name": "property_MarcherRangedAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherRangedAttackVsPlayer_15"
+        },
+        {
+          "name": "property_RangedHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9_RangedHealthVsPlayerSeatOfPower_15"
+        },
+        {
+          "name": "property_RangedAttackVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayersInfantry_15"
+        }
+      ]
+    },
+    {
+      "id": "b080542d8d171a73",
+      "name": "eq_events_kingsguard2_15_chest_lord15",
+      "stats": [
+        {
+          "name": "property_RangedAttack_gear",
+          "progression": "prog_gear_Event9_RangedAttack_15"
+        },
+        {
+          "name": "property_RangedAttackVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayersRanged_15"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event9_MaxMarchSize_15"
+        },
+        {
+          "name": "property_MarcherRangedAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherRangedAttackVsPlayer_15"
+        }
+      ]
+    },
+    {
+      "id": "84011c31ea6f00ad",
+      "name": "eq_events_kingsguard2_15_helmet_lord15",
+      "stats": [
+        {
+          "name": "property_RangedAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayer_15"
+        },
+        {
+          "name": "property_RangedHealth_gear",
+          "progression": "prog_gear_Event9_RangedHealth_15"
+        },
+        {
+          "name": "property_RangedAttackVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayersRanged_15"
+        },
+        {
+          "name": "property_MarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event9_MarchingSpeedVsSeatOfPower_15"
+        }
+      ]
+    },
+    {
+      "id": "68a743302b611e92",
+      "name": "eq_events_kingsguard2_15_pants_lord15",
+      "stats": [
+        {
+          "name": "property_RangedHealth_gear",
+          "progression": "prog_gear_Event9_RangedHealth_15"
+        },
+        {
+          "name": "property_RangedAttack_gear",
+          "progression": "prog_gear_Event9_RangedAttack_15"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarchSpeedVsPlayer_15"
+        },
+        {
+          "name": "property_RangedDefense_gear",
+          "progression": "prog_gear_Event9_RangedDefense_15"
+        }
+      ]
+    },
+    {
+      "id": "8bb9868033a00c93",
+      "name": "eq_events_kingsguard2_15_ring_lord15",
+      "stats": [
+        {
+          "name": "property_RangedDefense_gear",
+          "progression": "prog_gear_Event9_RangedDefense_15"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarchSpeedVsPlayer_15"
+        },
+        {
+          "name": "property_RangedAttackVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayerSeatOfPower_15"
+        },
+        {
+          "name": "property_RangedHealthVsPlayer_gear",
+          "progression": "prog_gear_Event9_RangedHealthVsPlayer_15"
+        }
+      ]
+    },
+    {
+      "id": "3f391aefe0daae8f",
+      "name": "eq_events_kingsguard2_15_weapon_lord15",
+      "stats": [
+        {
+          "name": "property_RangedAttack_gear",
+          "progression": "prog_gear_Event9_RangedAttack_15"
+        },
+        {
+          "name": "property_RangedDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event9_RangedDefenseVsPlayer_15"
+        },
+        {
+          "name": "property_RangedAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayer_15"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event9_MaxMarchSize_15"
+        }
+      ]
+    },
+    {
+      "id": "9cf8bd93c116f012",
+      "name": "eq_events_kingsguard2_20_boots_lord20",
+      "stats": [
+        {
+          "name": "property_RangedHealthVsPlayer_gear",
+          "progression": "prog_gear_Event9_RangedHealthVsPlayer_20"
+        },
+        {
+          "name": "property_MarcherRangedAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherRangedAttackVsPlayer_20"
+        },
+        {
+          "name": "property_RangedHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9_RangedHealthVsPlayerSeatOfPower_20"
+        },
+        {
+          "name": "property_RangedAttackVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayersInfantry_20"
+        },
+        {
+          "name": "property_MarcherRangedDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherRangedDefenseVsPlayer_20"
+        }
+      ]
+    },
+    {
+      "id": "d3b2387b96928ba2",
+      "name": "eq_events_kingsguard2_20_chest_lord20",
+      "stats": [
+        {
+          "name": "property_RangedAttack_gear",
+          "progression": "prog_gear_Event9_RangedAttack_20"
+        },
+        {
+          "name": "property_RangedAttackVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayersRanged_20"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event9_MaxMarchSize_20"
+        },
+        {
+          "name": "property_MarcherRangedAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherRangedAttackVsPlayer_20"
+        },
+        {
+          "name": "property_RangedHealth_gear",
+          "progression": "prog_gear_Event9_RangedHealth_20"
+        }
+      ]
+    },
+    {
+      "id": "d6f97945c4e8a2f7",
+      "name": "eq_events_kingsguard2_20_helmet_lord20",
+      "stats": [
+        {
+          "name": "property_RangedAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayer_20"
+        },
+        {
+          "name": "property_RangedHealth_gear",
+          "progression": "prog_gear_Event9_RangedHealth_20"
+        },
+        {
+          "name": "property_RangedAttackVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayersRanged_20"
+        },
+        {
+          "name": "property_MarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event9_MarchingSpeedVsSeatOfPower_20"
+        },
+        {
+          "name": "property_RangedDefense_gear",
+          "progression": "prog_gear_Event9_RangedDefense_20"
+        }
+      ]
+    },
+    {
+      "id": "b952f6630e48f43",
+      "name": "eq_events_kingsguard2_20_pants_lord20",
+      "stats": [
+        {
+          "name": "property_RangedHealth_gear",
+          "progression": "prog_gear_Event9_RangedHealth_20"
+        },
+        {
+          "name": "property_RangedAttack_gear",
+          "progression": "prog_gear_Event9_RangedAttack_20"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarchSpeedVsPlayer_20"
+        },
+        {
+          "name": "property_RangedDefense_gear",
+          "progression": "prog_gear_Event9_RangedDefense_20"
+        },
+        {
+          "name": "property_RangedAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayer_20"
+        }
+      ]
+    },
+    {
+      "id": "f770c43f5650bc09",
+      "name": "eq_events_kingsguard2_20_ring_lord20",
+      "stats": [
+        {
+          "name": "property_RangedDefense_gear",
+          "progression": "prog_gear_Event9_RangedDefense_20"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarchSpeedVsPlayer_20"
+        },
+        {
+          "name": "property_RangedAttackVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayerSeatOfPower_20"
+        },
+        {
+          "name": "property_RangedHealthVsPlayer_gear",
+          "progression": "prog_gear_Event9_RangedHealthVsPlayer_20"
+        },
+        {
+          "name": "property_RangedAttackVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayersInfantry_20"
+        }
+      ]
+    },
+    {
+      "id": "6dc17f9bce5d0cd5",
+      "name": "eq_events_kingsguard2_20_weapon_lord20",
+      "stats": [
+        {
+          "name": "property_RangedAttack_gear",
+          "progression": "prog_gear_Event9_RangedAttack_20"
+        },
+        {
+          "name": "property_RangedDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event9_RangedDefenseVsPlayer_20"
+        },
+        {
+          "name": "property_RangedAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayer_20"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event9_MaxMarchSize_20"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarchSpeedVsPlayer_20"
+        }
+      ]
+    },
+    {
+      "id": "1692c541324515e2",
+      "name": "eq_events_kingsguard2_25_boots_lord25",
+      "stats": [
+        {
+          "name": "property_RangedHealthVsPlayer_gear",
+          "progression": "prog_gear_Event9_RangedHealthVsPlayer_25"
+        },
+        {
+          "name": "property_MarcherRangedAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherRangedAttackVsPlayer_25"
+        },
+        {
+          "name": "property_RangedHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9_RangedHealthVsPlayerSeatOfPower_25"
+        },
+        {
+          "name": "property_RangedAttackVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayersInfantry_25"
+        },
+        {
+          "name": "property_MarcherRangedDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherRangedDefenseVsPlayer_25"
+        },
+        {
+          "name": "property_RangedAttackVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9.5_RangedAttackVsPlayerSeatOfPower_25"
+        }
+      ]
+    },
+    {
+      "id": "59d840a965c16e52",
+      "name": "eq_events_kingsguard2_25_chest_lord25",
+      "stats": [
+        {
+          "name": "property_RangedAttack_gear",
+          "progression": "prog_gear_Event9_RangedAttack_25"
+        },
+        {
+          "name": "property_RangedAttackVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayersRanged_25"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event9_MaxMarchSize_25"
+        },
+        {
+          "name": "property_MarcherRangedAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherRangedAttackVsPlayer_25"
+        },
+        {
+          "name": "property_RangedHealth_gear",
+          "progression": "prog_gear_Event9_RangedHealth_25"
+        },
+        {
+          "name": "property_RangedDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event9.5_RangedDefenseVsPlayer_25"
+        }
+      ]
+    },
+    {
+      "id": "e1333edd232b1492",
+      "name": "eq_events_kingsguard2_25_helmet_lord25",
+      "stats": [
+        {
+          "name": "property_RangedAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayer_25"
+        },
+        {
+          "name": "property_RangedHealth_gear",
+          "progression": "prog_gear_Event9_RangedHealth_25"
+        },
+        {
+          "name": "property_RangedAttackVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayersRanged_25"
+        },
+        {
+          "name": "property_MarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event9_MarchingSpeedVsSeatOfPower_25"
+        },
+        {
+          "name": "property_RangedDefense_gear",
+          "progression": "prog_gear_Event9_RangedDefense_25"
+        },
+        {
+          "name": "property_RangedHealthVsPlayer_gear",
+          "progression": "prog_gear_Event9.5_RangedHealthVsPlayer_25"
+        }
+      ]
+    },
+    {
+      "id": "81ff57b4c3b76ab3",
+      "name": "eq_events_kingsguard2_25_pants_lord25",
+      "stats": [
+        {
+          "name": "property_RangedHealth_gear",
+          "progression": "prog_gear_Event9_RangedHealth_25"
+        },
+        {
+          "name": "property_RangedAttack_gear",
+          "progression": "prog_gear_Event9_RangedAttack_25"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarchSpeedVsPlayer_25"
+        },
+        {
+          "name": "property_RangedDefense_gear",
+          "progression": "prog_gear_Event9_RangedDefense_25"
+        },
+        {
+          "name": "property_RangedAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayer_25"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event9.5_MaxMarchSize_25"
+        }
+      ]
+    },
+    {
+      "id": "8817b911ef9c8cd8",
+      "name": "eq_events_kingsguard2_25_ring_lord25",
+      "stats": [
+        {
+          "name": "property_RangedDefense_gear",
+          "progression": "prog_gear_Event9_RangedDefense_25"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarchSpeedVsPlayer_25"
+        },
+        {
+          "name": "property_RangedAttackVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayerSeatOfPower_25"
+        },
+        {
+          "name": "property_RangedHealthVsPlayer_gear",
+          "progression": "prog_gear_Event9_RangedHealthVsPlayer_25"
+        },
+        {
+          "name": "property_RangedAttackVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayersInfantry_25"
+        },
+        {
+          "name": "property_RangedHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9.5_RangedHealthVsPlayerSeatOfPower_25"
+        }
+      ]
+    },
+    {
+      "id": "5a0b3803299ebab0",
+      "name": "eq_events_kingsguard2_25_weapon_lord25",
+      "stats": [
+        {
+          "name": "property_RangedAttack_gear",
+          "progression": "prog_gear_Event9_RangedAttack_25"
+        },
+        {
+          "name": "property_RangedDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event9_RangedDefenseVsPlayer_25"
+        },
+        {
+          "name": "property_RangedAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayer_25"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event9_MaxMarchSize_25"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarchSpeedVsPlayer_25"
+        },
+        {
+          "name": "property_RangedAttackVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9.5_RangedAttackVsPlayerSeatOfPower_25"
+        }
+      ]
+    },
+    {
+      "id": "45a68fc35e3e1914",
+      "name": "eq_events_kingsguard2_30_boots_lord30",
+      "stats": [
+        {
+          "name": "property_RangedHealthVsPlayer_gear",
+          "progression": "prog_gear_Event9_RangedHealthVsPlayer_30"
+        },
+        {
+          "name": "property_MarcherRangedAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherRangedAttackVsPlayer_30"
+        },
+        {
+          "name": "property_RangedHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9_RangedHealthVsPlayerSeatOfPower_30"
+        },
+        {
+          "name": "property_RangedAttackVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayersInfantry_30"
+        },
+        {
+          "name": "property_MarcherRangedDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherRangedDefenseVsPlayer_30"
+        },
+        {
+          "name": "property_RangedAttackVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9.5_RangedAttackVsPlayerSeatOfPower_30"
+        },
+        {
+          "name": "property_MarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event9_MarchingSpeedVsSeatOfPower_30"
+        }
+      ]
+    },
+    {
+      "id": "aec0a2b09ba62a4",
+      "name": "eq_events_kingsguard2_30_chest_lord30",
+      "stats": [
+        {
+          "name": "property_RangedAttack_gear",
+          "progression": "prog_gear_Event9_RangedAttack_30"
+        },
+        {
+          "name": "property_RangedAttackVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayersRanged_30"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event9_MaxMarchSize_30"
+        },
+        {
+          "name": "property_MarcherRangedAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherRangedAttackVsPlayer_30"
+        },
+        {
+          "name": "property_RangedHealth_gear",
+          "progression": "prog_gear_Event9_RangedHealth_30"
+        },
+        {
+          "name": "property_RangedDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event9.5_RangedDefenseVsPlayer_30"
+        },
+        {
+          "name": "property_RangedDefenseVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_RangedDefenseVsPlayersRanged_30"
+        }
+      ]
+    },
+    {
+      "id": "f5e898e183d4aee2",
+      "name": "eq_events_kingsguard2_30_helmet_lord30",
+      "stats": [
+        {
+          "name": "property_RangedAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayer_30"
+        },
+        {
+          "name": "property_RangedHealth_gear",
+          "progression": "prog_gear_Event9_RangedHealth_30"
+        },
+        {
+          "name": "property_RangedAttackVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayersRanged_30"
+        },
+        {
+          "name": "property_MarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event9_MarchingSpeedVsSeatOfPower_30"
+        },
+        {
+          "name": "property_RangedDefense_gear",
+          "progression": "prog_gear_Event9_RangedDefense_30"
+        },
+        {
+          "name": "property_RangedHealthVsPlayer_gear",
+          "progression": "prog_gear_Event9.5_RangedHealthVsPlayer_30"
+        },
+        {
+          "name": "property_MarcherRangedHealthVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherRangedHealthVsPlayer_30"
+        }
+      ]
+    },
+    {
+      "id": "d2cb1d36afcc6645",
+      "name": "eq_events_kingsguard2_30_pants_lord30",
+      "stats": [
+        {
+          "name": "property_RangedHealth_gear",
+          "progression": "prog_gear_Event9_RangedHealth_30"
+        },
+        {
+          "name": "property_RangedAttack_gear",
+          "progression": "prog_gear_Event9_RangedAttack_30"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarchSpeedVsPlayer_30"
+        },
+        {
+          "name": "property_RangedDefense_gear",
+          "progression": "prog_gear_Event9_RangedDefense_30"
+        },
+        {
+          "name": "property_RangedAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayer_30"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event9.5_MaxMarchSize_30"
+        },
+        {
+          "name": "property_RangedDefenseVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9_RangedDefenseVsPlayerSeatOfPower_30"
+        }
+      ]
+    },
+    {
+      "id": "f6152eb01dbb3c30",
+      "name": "eq_events_kingsguard2_30_ring_lord30",
+      "stats": [
+        {
+          "name": "property_RangedDefense_gear",
+          "progression": "prog_gear_Event9_RangedDefense_30"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarchSpeedVsPlayer_30"
+        },
+        {
+          "name": "property_RangedAttackVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayerSeatOfPower_30"
+        },
+        {
+          "name": "property_RangedHealthVsPlayer_gear",
+          "progression": "prog_gear_Event9_RangedHealthVsPlayer_30"
+        },
+        {
+          "name": "property_RangedAttackVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayersInfantry_30"
+        },
+        {
+          "name": "property_RangedHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9.5_RangedHealthVsPlayerSeatOfPower_30"
+        },
+        {
+          "name": "property_MarcherRangedAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherRangedAttackVsPlayer_30"
+        }
+      ]
+    },
+    {
+      "id": "4ed09e3f896100c0",
+      "name": "eq_events_kingsguard2_30_weapon_lord30",
+      "stats": [
+        {
+          "name": "property_RangedAttack_gear",
+          "progression": "prog_gear_Event9_RangedAttack_30"
+        },
+        {
+          "name": "property_RangedDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event9_RangedDefenseVsPlayer_30"
+        },
+        {
+          "name": "property_RangedAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayer_30"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event9_MaxMarchSize_30"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarchSpeedVsPlayer_30"
+        },
+        {
+          "name": "property_RangedAttackVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9.5_RangedAttackVsPlayerSeatOfPower_30"
+        },
+        {
+          "name": "property_RangedAttackVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayersInfantry_30"
+        }
+      ]
+    },
+    {
+      "id": "cfccf711ad6dfce4",
+      "name": "eq_events_kingsguard2_35_boots_lord35",
+      "stats": [
+        {
+          "name": "property_RangedHealthVsPlayer_gear",
+          "progression": "prog_gear_Event9_RangedHealthVsPlayer_35"
+        },
+        {
+          "name": "property_MarcherRangedAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherRangedAttackVsPlayer_35"
+        },
+        {
+          "name": "property_RangedHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9_RangedHealthVsPlayerSeatOfPower_35"
+        },
+        {
+          "name": "property_RangedAttackVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayersInfantry_35"
+        },
+        {
+          "name": "property_MarcherRangedDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherRangedDefenseVsPlayer_35"
+        },
+        {
+          "name": "property_RangedAttackVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9.5_RangedAttackVsPlayerSeatOfPower_35"
+        },
+        {
+          "name": "property_MarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event9_MarchingSpeedVsSeatOfPower_35"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event9.5_MaxMarchSize_35"
+        }
+      ]
+    },
+    {
+      "id": "808672f9fae98754",
+      "name": "eq_events_kingsguard2_35_chest_lord35",
+      "stats": [
+        {
+          "name": "property_RangedAttack_gear",
+          "progression": "prog_gear_Event9_RangedAttack_35"
+        },
+        {
+          "name": "property_RangedAttackVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayersRanged_35"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event9_MaxMarchSize_35"
+        },
+        {
+          "name": "property_MarcherRangedAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherRangedAttackVsPlayer_35"
+        },
+        {
+          "name": "property_RangedHealth_gear",
+          "progression": "prog_gear_Event9_RangedHealth_35"
+        },
+        {
+          "name": "property_RangedDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event9.5_RangedDefenseVsPlayer_35"
+        },
+        {
+          "name": "property_RangedDefenseVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_RangedDefenseVsPlayersRanged_35"
+        },
+        {
+          "name": "property_RangedAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9.5_RangedAttackVsPlayer_35"
+        }
+      ]
+    },
+    {
+      "id": "c222df7964171887",
+      "name": "eq_events_kingsguard2_35_helmet_lord35",
+      "stats": [
+        {
+          "name": "property_RangedAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayer_35"
+        },
+        {
+          "name": "property_RangedHealth_gear",
+          "progression": "prog_gear_Event9_RangedHealth_35"
+        },
+        {
+          "name": "property_RangedAttackVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayersRanged_35"
+        },
+        {
+          "name": "property_MarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event9_MarchingSpeedVsSeatOfPower_35"
+        },
+        {
+          "name": "property_RangedDefense_gear",
+          "progression": "prog_gear_Event9_RangedDefense_35"
+        },
+        {
+          "name": "property_RangedHealthVsPlayer_gear",
+          "progression": "prog_gear_Event9.5_RangedHealthVsPlayer_35"
+        },
+        {
+          "name": "property_MarcherRangedHealthVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherRangedHealthVsPlayer_35"
+        },
+        {
+          "name": "property_RangedDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event9.5_RangedDefenseVsPlayer_35"
+        }
+      ]
+    },
+    {
+      "id": "58a165e45c9f83b5",
+      "name": "eq_events_kingsguard2_35_pants_lord35",
+      "stats": [
+        {
+          "name": "property_RangedHealth_gear",
+          "progression": "prog_gear_Event9_RangedHealth_35"
+        },
+        {
+          "name": "property_RangedAttack_gear",
+          "progression": "prog_gear_Event9_RangedAttack_35"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarchSpeedVsPlayer_35"
+        },
+        {
+          "name": "property_RangedDefense_gear",
+          "progression": "prog_gear_Event9_RangedDefense_35"
+        },
+        {
+          "name": "property_RangedAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayer_35"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event9.5_MaxMarchSize_35"
+        },
+        {
+          "name": "property_RangedDefenseVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9_RangedDefenseVsPlayerSeatOfPower_35"
+        },
+        {
+          "name": "property_RangedAttackVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9.5_RangedAttackVsPlayerSeatOfPower_35"
+        }
+      ]
+    },
+    {
+      "id": "8972539ea4770ce1",
+      "name": "eq_events_kingsguard2_35_ring_lord35",
+      "stats": [
+        {
+          "name": "property_RangedDefense_gear",
+          "progression": "prog_gear_Event9_RangedDefense_35"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarchSpeedVsPlayer_35"
+        },
+        {
+          "name": "property_RangedAttackVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayerSeatOfPower_35"
+        },
+        {
+          "name": "property_RangedHealthVsPlayer_gear",
+          "progression": "prog_gear_Event9_RangedHealthVsPlayer_35"
+        },
+        {
+          "name": "property_RangedAttackVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayersInfantry_35"
+        },
+        {
+          "name": "property_RangedHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9.5_RangedHealthVsPlayerSeatOfPower_35"
+        },
+        {
+          "name": "property_MarcherRangedAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherRangedAttackVsPlayer_35"
+        },
+        {
+          "name": "property_RangedDefenseVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event9.5_RangedDefenseVsPlayersInfantry_35"
+        }
+      ]
+    },
+    {
+      "id": "791ad9a76ea2b6a5",
+      "name": "eq_events_kingsguard2_35_weapon_lord35",
+      "stats": [
+        {
+          "name": "property_RangedAttack_gear",
+          "progression": "prog_gear_Event9_RangedAttack_35"
+        },
+        {
+          "name": "property_RangedDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event9_RangedDefenseVsPlayer_35"
+        },
+        {
+          "name": "property_RangedAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayer_35"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event9_MaxMarchSize_35"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarchSpeedVsPlayer_35"
+        },
+        {
+          "name": "property_RangedAttackVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9.5_RangedAttackVsPlayerSeatOfPower_35"
+        },
+        {
+          "name": "property_RangedAttackVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayersInfantry_35"
+        },
+        {
+          "name": "property_RangedHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9.5_RangedHealthVsPlayerSeatOfPower_35"
+        }
+      ]
+    },
+    {
+      "id": "ccf2d6ef5915577b",
+      "name": "eq_events_kingsguard2_40_boots_lord40",
+      "stats": [
+        {
+          "name": "property_RangedHealthVsPlayer_gear",
+          "progression": "prog_gear_Event9_RangedHealthVsPlayer_40"
+        },
+        {
+          "name": "property_MarcherRangedAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherRangedAttackVsPlayer_40"
+        },
+        {
+          "name": "property_RangedHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9_RangedHealthVsPlayerSeatOfPower_40"
+        },
+        {
+          "name": "property_RangedAttackVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayersInfantry_40"
+        },
+        {
+          "name": "property_MarcherRangedDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherRangedDefenseVsPlayer_40"
+        },
+        {
+          "name": "property_RangedAttackVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9.5_RangedAttackVsPlayerSeatOfPower_40"
+        },
+        {
+          "name": "property_MarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event9_MarchingSpeedVsSeatOfPower_40"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event9.5_MaxMarchSize_40"
+        },
+        {
+          "name": "property_RangedAttack_gear",
+          "progression": "prog_gear_Event9_RangedAttack_40"
+        }
+      ]
+    },
+    {
+      "id": "83b853070e912ccb",
+      "name": "eq_events_kingsguard2_40_chest_lord40",
+      "stats": [
+        {
+          "name": "property_RangedAttack_gear",
+          "progression": "prog_gear_Event9_RangedAttack_40"
+        },
+        {
+          "name": "property_RangedAttackVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayersRanged_40"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event9_MaxMarchSize_40"
+        },
+        {
+          "name": "property_MarcherRangedAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherRangedAttackVsPlayer_40"
+        },
+        {
+          "name": "property_RangedHealth_gear",
+          "progression": "prog_gear_Event9_RangedHealth_40"
+        },
+        {
+          "name": "property_RangedDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event9.5_RangedDefenseVsPlayer_40"
+        },
+        {
+          "name": "property_RangedDefenseVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_RangedDefenseVsPlayersRanged_40"
+        },
+        {
+          "name": "property_RangedAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9.5_RangedAttackVsPlayer_40"
+        },
+        {
+          "name": "property_RangedHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9_RangedHealthVsPlayerSeatOfPower_40"
+        }
+      ]
+    },
+    {
+      "id": "1c9d3c9c56608a89",
+      "name": "eq_events_kingsguard2_40_helmet_lord40",
+      "stats": [
+        {
+          "name": "property_RangedAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayer_40"
+        },
+        {
+          "name": "property_RangedHealth_gear",
+          "progression": "prog_gear_Event9_RangedHealth_40"
+        },
+        {
+          "name": "property_RangedAttackVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayersRanged_40"
+        },
+        {
+          "name": "property_MarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event9_MarchingSpeedVsSeatOfPower_40"
+        },
+        {
+          "name": "property_RangedDefense_gear",
+          "progression": "prog_gear_Event9_RangedDefense_40"
+        },
+        {
+          "name": "property_RangedHealthVsPlayer_gear",
+          "progression": "prog_gear_Event9.5_RangedHealthVsPlayer_40"
+        },
+        {
+          "name": "property_MarcherRangedHealthVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherRangedHealthVsPlayer_40"
+        },
+        {
+          "name": "property_RangedDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event9.5_RangedDefenseVsPlayer_40"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event9_MaxMarchSize_40"
+        }
+      ]
+    },
+    {
+      "id": "5b9f441aa8e7282a",
+      "name": "eq_events_kingsguard2_40_pants_lord40",
+      "stats": [
+        {
+          "name": "property_RangedHealth_gear",
+          "progression": "prog_gear_Event9_RangedHealth_40"
+        },
+        {
+          "name": "property_RangedAttack_gear",
+          "progression": "prog_gear_Event9_RangedAttack_40"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarchSpeedVsPlayer_40"
+        },
+        {
+          "name": "property_RangedDefense_gear",
+          "progression": "prog_gear_Event9_RangedDefense_40"
+        },
+        {
+          "name": "property_RangedAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayer_40"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event9.5_MaxMarchSize_40"
+        },
+        {
+          "name": "property_RangedDefenseVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9_RangedDefenseVsPlayerSeatOfPower_40"
+        },
+        {
+          "name": "property_RangedAttackVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9.5_RangedAttackVsPlayerSeatOfPower_40"
+        },
+        {
+          "name": "property_RangedAttackVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayersRanged_40"
+        }
+      ]
+    },
+    {
+      "id": "f02cbb1cee29bc9f",
+      "name": "eq_events_kingsguard2_40_ring_lord40",
+      "stats": [
+        {
+          "name": "property_RangedDefense_gear",
+          "progression": "prog_gear_Event9_RangedDefense_40"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarchSpeedVsPlayer_40"
+        },
+        {
+          "name": "property_RangedAttackVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayerSeatOfPower_40"
+        },
+        {
+          "name": "property_RangedHealthVsPlayer_gear",
+          "progression": "prog_gear_Event9_RangedHealthVsPlayer_40"
+        },
+        {
+          "name": "property_RangedAttackVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayersInfantry_40"
+        },
+        {
+          "name": "property_RangedHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9.5_RangedHealthVsPlayerSeatOfPower_40"
+        },
+        {
+          "name": "property_MarcherRangedAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherRangedAttackVsPlayer_40"
+        },
+        {
+          "name": "property_RangedDefenseVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event9.5_RangedDefenseVsPlayersInfantry_40"
+        },
+        {
+          "name": "property_RangedDefenseVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9_RangedDefenseVsPlayerSeatOfPower_40"
+        }
+      ]
+    },
+    {
+      "id": "a7a53a425cd524ab",
+      "name": "eq_events_kingsguard2_40_weapon_lord40",
+      "stats": [
+        {
+          "name": "property_RangedAttack_gear",
+          "progression": "prog_gear_Event9_RangedAttack_40"
+        },
+        {
+          "name": "property_RangedDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event9_RangedDefenseVsPlayer_40"
+        },
+        {
+          "name": "property_RangedAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayer_40"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event9_MaxMarchSize_40"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarchSpeedVsPlayer_40"
+        },
+        {
+          "name": "property_RangedAttackVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9.5_RangedAttackVsPlayerSeatOfPower_40"
+        },
+        {
+          "name": "property_RangedAttackVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayersInfantry_40"
+        },
+        {
+          "name": "property_RangedHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9.5_RangedHealthVsPlayerSeatOfPower_40"
+        },
+        {
+          "name": "property_RangedDefense_gear",
+          "progression": "prog_gear_Event9_RangedDefense_40"
+        }
+      ]
+    },
+    {
+      "id": "4698ae3daa46b28b",
+      "name": "eq_events_kingsguard2_45_boots_lord45",
+      "stats": [
+        {
+          "name": "property_RangedHealthVsPlayer_gear",
+          "progression": "prog_gear_Event9_RangedHealthVsPlayer_45"
+        },
+        {
+          "name": "property_MarcherRangedAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherRangedAttackVsPlayer_45"
+        },
+        {
+          "name": "property_RangedHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9_RangedHealthVsPlayerSeatOfPower_45"
+        },
+        {
+          "name": "property_RangedAttackVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayersInfantry_45"
+        },
+        {
+          "name": "property_MarcherRangedDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherRangedDefenseVsPlayer_45"
+        },
+        {
+          "name": "property_RangedAttackVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9.5_RangedAttackVsPlayerSeatOfPower_45"
+        },
+        {
+          "name": "property_MarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event9_MarchingSpeedVsSeatOfPower_45"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event9.5_MaxMarchSize_45"
+        },
+        {
+          "name": "property_RangedAttack_gear",
+          "progression": "prog_gear_Event9_RangedAttack_45"
+        }
+      ]
+    },
+    {
+      "id": "9d22bd5fdc2c93b",
+      "name": "eq_events_kingsguard2_45_chest_lord45",
+      "stats": [
+        {
+          "name": "property_RangedAttack_gear",
+          "progression": "prog_gear_Event9_RangedAttack_45"
+        },
+        {
+          "name": "property_RangedAttackVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayersRanged_45"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event9_MaxMarchSize_45"
+        },
+        {
+          "name": "property_MarcherRangedAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherRangedAttackVsPlayer_45"
+        },
+        {
+          "name": "property_RangedHealth_gear",
+          "progression": "prog_gear_Event9_RangedHealth_45"
+        },
+        {
+          "name": "property_RangedDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event9.5_RangedDefenseVsPlayer_45"
+        },
+        {
+          "name": "property_RangedDefenseVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_RangedDefenseVsPlayersRanged_45"
+        },
+        {
+          "name": "property_RangedAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9.5_RangedAttackVsPlayer_45"
+        },
+        {
+          "name": "property_RangedHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9_RangedHealthVsPlayerSeatOfPower_45"
+        }
+      ]
+    },
+    {
+      "id": "2b577b04b1a33cec",
+      "name": "eq_events_kingsguard2_45_helmet_lord45",
+      "stats": [
+        {
+          "name": "property_RangedAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayer_45"
+        },
+        {
+          "name": "property_RangedHealth_gear",
+          "progression": "prog_gear_Event9_RangedHealth_45"
+        },
+        {
+          "name": "property_RangedAttackVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayersRanged_45"
+        },
+        {
+          "name": "property_MarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event9_MarchingSpeedVsSeatOfPower_45"
+        },
+        {
+          "name": "property_RangedDefense_gear",
+          "progression": "prog_gear_Event9_RangedDefense_45"
+        },
+        {
+          "name": "property_RangedHealthVsPlayer_gear",
+          "progression": "prog_gear_Event9.5_RangedHealthVsPlayer_45"
+        },
+        {
+          "name": "property_MarcherRangedHealthVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherRangedHealthVsPlayer_45"
+        },
+        {
+          "name": "property_RangedDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event9.5_RangedDefenseVsPlayer_45"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event9_MaxMarchSize_45"
+        }
+      ]
+    },
+    {
+      "id": "d1f53cc85bb4cdda",
+      "name": "eq_events_kingsguard2_45_pants_lord45",
+      "stats": [
+        {
+          "name": "property_RangedHealth_gear",
+          "progression": "prog_gear_Event9_RangedHealth_45"
+        },
+        {
+          "name": "property_RangedAttack_gear",
+          "progression": "prog_gear_Event9_RangedAttack_45"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarchSpeedVsPlayer_45"
+        },
+        {
+          "name": "property_RangedDefense_gear",
+          "progression": "prog_gear_Event9_RangedDefense_45"
+        },
+        {
+          "name": "property_RangedAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayer_45"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event9.5_MaxMarchSize_45"
+        },
+        {
+          "name": "property_RangedDefenseVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9_RangedDefenseVsPlayerSeatOfPower_45"
+        },
+        {
+          "name": "property_RangedAttackVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9.5_RangedAttackVsPlayerSeatOfPower_45"
+        },
+        {
+          "name": "property_RangedAttackVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayersRanged_45"
+        }
+      ]
+    },
+    {
+      "id": "8f4bc63257e58c4e",
+      "name": "eq_events_kingsguard2_45_ring_lord45",
+      "stats": [
+        {
+          "name": "property_RangedDefense_gear",
+          "progression": "prog_gear_Event9_RangedDefense_45"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarchSpeedVsPlayer_45"
+        },
+        {
+          "name": "property_RangedAttackVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayerSeatOfPower_45"
+        },
+        {
+          "name": "property_RangedHealthVsPlayer_gear",
+          "progression": "prog_gear_Event9_RangedHealthVsPlayer_45"
+        },
+        {
+          "name": "property_RangedAttackVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayersInfantry_45"
+        },
+        {
+          "name": "property_RangedHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9.5_RangedHealthVsPlayerSeatOfPower_45"
+        },
+        {
+          "name": "property_MarcherRangedAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherRangedAttackVsPlayer_45"
+        },
+        {
+          "name": "property_RangedDefenseVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event9.5_RangedDefenseVsPlayersInfantry_45"
+        },
+        {
+          "name": "property_RangedDefenseVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9_RangedDefenseVsPlayerSeatOfPower_45"
+        }
+      ]
+    },
+    {
+      "id": "906f7ddabb1692ce",
+      "name": "eq_events_kingsguard2_45_weapon_lord45",
+      "stats": [
+        {
+          "name": "property_RangedAttack_gear",
+          "progression": "prog_gear_Event9_RangedAttack_45"
+        },
+        {
+          "name": "property_RangedDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event9_RangedDefenseVsPlayer_45"
+        },
+        {
+          "name": "property_RangedAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayer_45"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event9_MaxMarchSize_45"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarchSpeedVsPlayer_45"
+        },
+        {
+          "name": "property_RangedAttackVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9.5_RangedAttackVsPlayerSeatOfPower_45"
+        },
+        {
+          "name": "property_RangedAttackVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayersInfantry_45"
+        },
+        {
+          "name": "property_RangedHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9.5_RangedHealthVsPlayerSeatOfPower_45"
+        },
+        {
+          "name": "property_RangedDefense_gear",
+          "progression": "prog_gear_Event9_RangedDefense_45"
+        }
+      ]
+    },
+    {
+      "id": "15ace4bfc63dbe7d",
+      "name": "eq_events_kingsguard2_50_boots_lord50",
+      "stats": [
+        {
+          "name": "property_RangedHealthVsPlayer_gear",
+          "progression": "prog_gear_Event9_RangedHealthVsPlayer_50"
+        },
+        {
+          "name": "property_MarcherRangedAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherRangedAttackVsPlayer_50"
+        },
+        {
+          "name": "property_RangedHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9_RangedHealthVsPlayerSeatOfPower_50"
+        },
+        {
+          "name": "property_RangedAttackVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayersInfantry_50"
+        },
+        {
+          "name": "property_MarcherRangedDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherRangedDefenseVsPlayer_50"
+        },
+        {
+          "name": "property_RangedAttackVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9.5_RangedAttackVsPlayerSeatOfPower_50"
+        },
+        {
+          "name": "property_MarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event9_MarchingSpeedVsSeatOfPower_50"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event9.5_MaxMarchSize_50"
+        },
+        {
+          "name": "property_RangedAttack_gear",
+          "progression": "prog_gear_Event9_RangedAttack_50"
+        }
+      ]
+    },
+    {
+      "id": "5ae6615791b9c5cd",
+      "name": "eq_events_kingsguard2_50_chest_lord50",
+      "stats": [
+        {
+          "name": "property_RangedAttack_gear",
+          "progression": "prog_gear_Event9_RangedAttack_50"
+        },
+        {
+          "name": "property_RangedAttackVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayersRanged_50"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event9_MaxMarchSize_50"
+        },
+        {
+          "name": "property_MarcherRangedAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherRangedAttackVsPlayer_50"
+        },
+        {
+          "name": "property_RangedHealth_gear",
+          "progression": "prog_gear_Event9_RangedHealth_50"
+        },
+        {
+          "name": "property_RangedDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event9.5_RangedDefenseVsPlayer_50"
+        },
+        {
+          "name": "property_RangedDefenseVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_RangedDefenseVsPlayersRanged_50"
+        },
+        {
+          "name": "property_RangedAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9.5_RangedAttackVsPlayer_50"
+        },
+        {
+          "name": "property_RangedHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9_RangedHealthVsPlayerSeatOfPower_50"
+        }
+      ]
+    },
+    {
+      "id": "3f8cdd38115c869c",
+      "name": "eq_events_kingsguard2_50_helmet_lord50",
+      "stats": [
+        {
+          "name": "property_RangedAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayer_50"
+        },
+        {
+          "name": "property_RangedHealth_gear",
+          "progression": "prog_gear_Event9_RangedHealth_50"
+        },
+        {
+          "name": "property_RangedAttackVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayersRanged_50"
+        },
+        {
+          "name": "property_MarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event9_MarchingSpeedVsSeatOfPower_50"
+        },
+        {
+          "name": "property_RangedDefense_gear",
+          "progression": "prog_gear_Event9_RangedDefense_50"
+        },
+        {
+          "name": "property_RangedHealthVsPlayer_gear",
+          "progression": "prog_gear_Event9.5_RangedHealthVsPlayer_50"
+        },
+        {
+          "name": "property_MarcherRangedHealthVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherRangedHealthVsPlayer_50"
+        },
+        {
+          "name": "property_RangedDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event9.5_RangedDefenseVsPlayer_50"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event9_MaxMarchSize_50"
+        }
+      ]
+    },
+    {
+      "id": "82c1764a37cfc12c",
+      "name": "eq_events_kingsguard2_50_pants_lord50",
+      "stats": [
+        {
+          "name": "property_RangedHealth_gear",
+          "progression": "prog_gear_Event9_RangedHealth_50"
+        },
+        {
+          "name": "property_RangedAttack_gear",
+          "progression": "prog_gear_Event9_RangedAttack_50"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarchSpeedVsPlayer_50"
+        },
+        {
+          "name": "property_RangedDefense_gear",
+          "progression": "prog_gear_Event9_RangedDefense_50"
+        },
+        {
+          "name": "property_RangedAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayer_50"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event9.5_MaxMarchSize_50"
+        },
+        {
+          "name": "property_RangedDefenseVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9_RangedDefenseVsPlayerSeatOfPower_50"
+        },
+        {
+          "name": "property_RangedAttackVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9.5_RangedAttackVsPlayerSeatOfPower_50"
+        },
+        {
+          "name": "property_RangedAttackVsPlayersRanged_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayersRanged_50"
+        }
+      ]
+    },
+    {
+      "id": "f1495193a5c23ca6",
+      "name": "eq_events_kingsguard2_50_ring_lord50",
+      "stats": [
+        {
+          "name": "property_RangedDefense_gear",
+          "progression": "prog_gear_Event9_RangedDefense_50"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarchSpeedVsPlayer_50"
+        },
+        {
+          "name": "property_RangedAttackVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayerSeatOfPower_50"
+        },
+        {
+          "name": "property_RangedHealthVsPlayer_gear",
+          "progression": "prog_gear_Event9_RangedHealthVsPlayer_50"
+        },
+        {
+          "name": "property_RangedAttackVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayersInfantry_50"
+        },
+        {
+          "name": "property_RangedHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9.5_RangedHealthVsPlayerSeatOfPower_50"
+        },
+        {
+          "name": "property_MarcherRangedAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarcherRangedAttackVsPlayer_50"
+        },
+        {
+          "name": "property_RangedDefenseVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event9.5_RangedDefenseVsPlayersInfantry_50"
+        },
+        {
+          "name": "property_RangedDefenseVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9_RangedDefenseVsPlayerSeatOfPower_50"
+        }
+      ]
+    },
+    {
+      "id": "84b4dbe61be928be",
+      "name": "eq_events_kingsguard2_50_weapon_lord50",
+      "stats": [
+        {
+          "name": "property_RangedAttack_gear",
+          "progression": "prog_gear_Event9_RangedAttack_50"
+        },
+        {
+          "name": "property_RangedDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event9_RangedDefenseVsPlayer_50"
+        },
+        {
+          "name": "property_RangedAttackVsPlayer_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayer_50"
+        },
+        {
+          "name": "property_MaxMarchSize_gear",
+          "progression": "prog_gear_Event9_MaxMarchSize_50"
+        },
+        {
+          "name": "property_MarchSpeedVsPlayer_gear",
+          "progression": "prog_gear_Event9_MarchSpeedVsPlayer_50"
+        },
+        {
+          "name": "property_RangedAttackVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9.5_RangedAttackVsPlayerSeatOfPower_50"
+        },
+        {
+          "name": "property_RangedAttackVsPlayersInfantry_gear",
+          "progression": "prog_gear_Event9_RangedAttackVsPlayersInfantry_50"
+        },
+        {
+          "name": "property_RangedHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event9.5_RangedHealthVsPlayerSeatOfPower_50"
+        },
+        {
+          "name": "property_RangedDefense_gear",
+          "progression": "prog_gear_Event9_RangedDefense_50"
+        }
+      ]
     }
   ]
 }

@@ -540,6 +540,18 @@
       "name": "armcol_events_snow3",
       "name_placeholder": "EQ_EVENTS_SNOW3_SET_NAME",
       "priority": 26700
+    },
+    {
+      "bonuses": [
+        "armcol_events_kingsguard2_1",
+        "armcol_events_kingsguard2_2",
+        "armcol_events_kingsguard2_3"
+      ],
+      "gear_set_name": "gearset_events_kingsguard2",
+      "id": "4aa3a540e1a6b5fa",
+      "name": "armcol_events_kingsguard2",
+      "name_placeholder": "EQ_EVENTS_KINGSGUARD2_SET_NAME",
+      "priority": 27300
     }
   ]
 }
