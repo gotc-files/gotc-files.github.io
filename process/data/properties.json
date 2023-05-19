@@ -20157,7 +20157,7 @@
       "description_placeholder": "DRIVEN_EVENT_SESSION_WFTT_DESCRIPTION",
       "id": "f0281c1ba127d875",
       "image": "icon_event.png",
-      "name": "property_Event_Session_wftt_consumable",
+      "name": "property_event_session_wftt_consumable",
       "name_placeholder": "DRIVEN_EVENT_SESSION_WFTT_NAME",
       "type": 3
     },
@@ -78309,7 +78309,7 @@
       "description_placeholder": "PROPERTY_HEROEVENTBONUS_GREENSEER_TIER_1_DESC",
       "id": "b8d0a514c5f80cf8",
       "image": "icon_hero_small_council_greenseer.png",
-      "name": "property_HeroEventBonus_GreenSeer_Tier_1_activity",
+      "name": "property_HeroEventBonus_Greenseer_Tier_1_activity",
       "name_placeholder": "PROPERTY_HEROEVENTBONUS_GREENSEER_TIER_1_NAME",
       "type": 9
     },
@@ -78317,7 +78317,7 @@
       "description_placeholder": "PROPERTY_HEROEVENTBONUS_GREENSEER_TIER_1_DESC",
       "id": "cf211b6f0d421694",
       "image": "icon_hero_small_council_greenseer.png",
-      "name": "property_HeroEventBonus_GreenSeer_Tier_2_activity",
+      "name": "property_HeroEventBonus_Greenseer_Tier_2_activity",
       "name_placeholder": "PROPERTY_HEROEVENTBONUS_GREENSEER_TIER_1_NAME",
       "type": 9
     },
@@ -78325,7 +78325,7 @@
       "description_placeholder": "PROPERTY_HEROEVENTBONUS_GREENSEER_TIER_1_DESC",
       "id": "e2718eb9b52be0b0",
       "image": "icon_hero_small_council_greenseer.png",
-      "name": "property_HeroEventBonus_GreenSeer_Tier_3_activity",
+      "name": "property_HeroEventBonus_Greenseer_Tier_3_activity",
       "name_placeholder": "PROPERTY_HEROEVENTBONUS_GREENSEER_TIER_1_NAME",
       "type": 9
     },
@@ -78775,6 +78775,142 @@
       "image": "icon_buff_reinforcements.png",
       "name": "property_SoP_Tier8_ReinforcementCapacity_activity",
       "name_placeholder": "PROPERTY_SOP_REINFORCEMENT_CAPACITY_TIER8",
+      "type": 9
+    },
+    {
+      "description_placeholder": "PROPERTY_REGIONCONTROL_SEATS_SHARED_DESC",
+      "id": "c21ab882e014d94",
+      "image": "icon_buff_SoP_march_size.png",
+      "name": "property_RegionControl_Seats_North_seatofpower",
+      "name_placeholder": "PROPERTY_REGIONCONTROL_SEATS_NORTH_NAME",
+      "type": 6
+    },
+    {
+      "description_placeholder": "PROPERTY_REGIONCONTROL_SEATS_SHARED_DESC",
+      "id": "9997026d3e8f6332",
+      "image": "icon_buff_SoP_march_size.png",
+      "name": "property_RegionControl_Seats_Riverlands_seatofpower",
+      "name_placeholder": "PROPERTY_REGIONCONTROL_SEATS_RIVERLANDS_NAME",
+      "type": 6
+    },
+    {
+      "description_placeholder": "PROPERTY_REGIONCONTROL_SEATS_SHARED_DESC",
+      "id": "7528257ba882b24f",
+      "image": "icon_buff_SoP_march_size.png",
+      "name": "property_RegionControl_Seats_Vale_seatofpower",
+      "name_placeholder": "PROPERTY_REGIONCONTROL_SEATS_VALE_NAME",
+      "type": 6
+    },
+    {
+      "description_placeholder": "PROPERTY_REGIONCONTROL_SEATS_SHARED_DESC",
+      "id": "88a7e81dbd28d9ae",
+      "image": "icon_buff_SoP_march_size.png",
+      "name": "property_RegionControl_Seats_Westerlands_seatofpower",
+      "name_placeholder": "PROPERTY_REGIONCONTROL_SEATS_WESTERLANDS_NAME",
+      "type": 6
+    },
+    {
+      "description_placeholder": "PROPERTY_REGIONCONTROL_SEATS_SHARED_DESC",
+      "id": "5baef73aa2aeaa5e",
+      "image": "icon_buff_SoP_march_size.png",
+      "name": "property_RegionControl_Seats_Crownlands_seatofpower",
+      "name_placeholder": "PROPERTY_REGIONCONTROL_SEATS_CROWNLANDS_NAME",
+      "type": 6
+    },
+    {
+      "description_placeholder": "PROPERTY_REGIONCONTROL_SEATS_SHARED_DESC",
+      "id": "4246c3a2c0f6d5ae",
+      "image": "icon_buff_SoP_march_size.png",
+      "name": "property_RegionControl_Seats_Stormlands_seatofpower",
+      "name_placeholder": "PROPERTY_REGIONCONTROL_SEATS_STORMLANDS_NAME",
+      "type": 6
+    },
+    {
+      "description_placeholder": "PROPERTY_REGIONCONTROL_SEATS_SHARED_DESC",
+      "id": "9a0388650cbff969",
+      "image": "icon_buff_SoP_march_size.png",
+      "name": "property_RegionControl_Seats_Reach_seatofpower",
+      "name_placeholder": "PROPERTY_REGIONCONTROL_SEATS_REACH_NAME",
+      "type": 6
+    },
+    {
+      "description_placeholder": "PROPERTY_REGIONCONTROL_SEATS_SHARED_DESC",
+      "id": "3b168ce133940d37",
+      "image": "icon_buff_SoP_march_size.png",
+      "name": "property_RegionControl_Seats_Dorne_seatofpower",
+      "name_placeholder": "PROPERTY_REGIONCONTROL_SEATS_DORNE_NAME",
+      "type": 6
+    },
+    {
+      "description_placeholder": "PROPERTY_REGIONCONTROL_STARS_SHARED_DESC",
+      "id": "bcf2b1a2d69d1d7",
+      "image": "icon_buff_SoP_march_size.png",
+      "name": "property_RegionControl_Stars_North_seatofpower",
+      "name_placeholder": "PROPERTY_REGIONCONTROL_STARS_NORTH_NAME",
+      "type": 6
+    },
+    {
+      "description_placeholder": "PROPERTY_REGIONCONTROL_STARS_SHARED_DESC",
+      "id": "96e11a35f8bb23fc",
+      "image": "icon_buff_SoP_march_size.png",
+      "name": "property_RegionControl_Stars_Riverlands_seatofpower",
+      "name_placeholder": "PROPERTY_REGIONCONTROL_STARS_RIVERLANDS_NAME",
+      "type": 6
+    },
+    {
+      "description_placeholder": "PROPERTY_REGIONCONTROL_STARS_SHARED_DESC",
+      "id": "13fbfcd8af0c82c8",
+      "image": "icon_buff_SoP_march_size.png",
+      "name": "property_RegionControl_Stars_Vale_seatofpower",
+      "name_placeholder": "PROPERTY_REGIONCONTROL_STARS_VALE_NAME",
+      "type": 6
+    },
+    {
+      "description_placeholder": "PROPERTY_REGIONCONTROL_STARS_SHARED_DESC",
+      "id": "e716a80ff75b1ac3",
+      "image": "icon_buff_SoP_march_size.png",
+      "name": "property_RegionControl_Stars_Westerlands_seatofpower",
+      "name_placeholder": "PROPERTY_REGIONCONTROL_STARS_WESTERLANDS_NAME",
+      "type": 6
+    },
+    {
+      "description_placeholder": "PROPERTY_REGIONCONTROL_STARS_SHARED_DESC",
+      "id": "54d8ef62649aea90",
+      "image": "icon_buff_SoP_march_size.png",
+      "name": "property_RegionControl_Stars_Crownlands_seatofpower",
+      "name_placeholder": "PROPERTY_REGIONCONTROL_STARS_CROWNLANDS_NAME",
+      "type": 6
+    },
+    {
+      "description_placeholder": "PROPERTY_REGIONCONTROL_STARS_SHARED_DESC",
+      "id": "4d30dbfa06c29560",
+      "image": "icon_buff_SoP_march_size.png",
+      "name": "property_RegionControl_Stars_Stormlands_seatofpower",
+      "name_placeholder": "PROPERTY_REGIONCONTROL_STARS_STORMLANDS_NAME",
+      "type": 6
+    },
+    {
+      "description_placeholder": "PROPERTY_REGIONCONTROL_STARS_SHARED_DESC",
+      "id": "9ded08f70fd7652a",
+      "image": "icon_buff_SoP_march_size.png",
+      "name": "property_RegionControl_Stars_Reach_seatofpower",
+      "name_placeholder": "PROPERTY_REGIONCONTROL_STARS_REACH_NAME",
+      "type": 6
+    },
+    {
+      "description_placeholder": "PROPERTY_REGIONCONTROL_STARS_SHARED_DESC",
+      "id": "3cf80c7330fc9174",
+      "image": "icon_buff_SoP_march_size.png",
+      "name": "property_RegionControl_Stars_Dorne_seatofpower",
+      "name_placeholder": "PROPERTY_REGIONCONTROL_STARS_DORNE_NAME",
+      "type": 6
+    },
+    {
+      "description_placeholder": "PROPERTY_REGIONCONTROL_EVENT_ENABLE_DESCRIPTION",
+      "id": "2054444c6594ea0",
+      "image": "icon_buff_SoP_march_size.png",
+      "name": "property_RegionControl_Event_Enable_activity",
+      "name_placeholder": "PROPERTY_REGIONCONTROL_EVENT_ENABLE_NAME",
       "type": 9
     }
   ]

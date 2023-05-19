@@ -11295,6 +11295,257 @@
       "steel_cost": 520000000,
       "template_level": 45,
       "upgrade_time_seconds": 345600
+    },
+    {
+      "id": "e2a0ba208d542745",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_kingsguard2_1",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 10
+        }
+      ],
+      "name": "eq_events_trinket_kingsguard2_1_trinket_lord1",
+      "steel_cost": 500,
+      "template_level": 0,
+      "upgrade_time_seconds": 3600
+    },
+    {
+      "id": "25e66808dbee992f",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_kingsguard2_1",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 10
+        }
+      ],
+      "name": "eq_events_trinket_kingsguard2_5_trinket_lord5",
+      "steel_cost": 4000,
+      "template_level": 1,
+      "upgrade_time_seconds": 3600
+    },
+    {
+      "id": "66646d7aeb15267a",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_kingsguard2_1",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 20
+        }
+      ],
+      "name": "eq_events_trinket_kingsguard2_10_trinket_lord10",
+      "steel_cost": 36500,
+      "template_level": 5,
+      "upgrade_time_seconds": 7200
+    },
+    {
+      "id": "47aa322f27cf7f16",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_kingsguard2_1",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 120
+        }
+      ],
+      "name": "eq_events_trinket_kingsguard2_15_trinket_lord15",
+      "steel_cost": 148000,
+      "template_level": 10,
+      "upgrade_time_seconds": 21600
+    },
+    {
+      "id": "4418ffc3a56a4a1f",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_kingsguard2_1",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 400
+        }
+      ],
+      "name": "eq_events_trinket_kingsguard2_20_trinket_lord20",
+      "steel_cost": 534000,
+      "template_level": 15,
+      "upgrade_time_seconds": 43200
+    },
+    {
+      "id": "65d6a09669b01373",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_kingsguard2_1",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 1200
+        }
+      ],
+      "name": "eq_events_trinket_kingsguard2_25_trinket_lord25",
+      "steel_cost": 1800000,
+      "template_level": 20,
+      "upgrade_time_seconds": 64800
+    },
+    {
+      "id": "5a3371ab60bf6e3c",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_kingsguard2_1",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 3000
+        }
+      ],
+      "name": "eq_events_trinket_kingsguard2_30_trinket_lord30",
+      "steel_cost": 5850000,
+      "template_level": 25,
+      "upgrade_time_seconds": 86400
+    },
+    {
+      "id": "7bfd2efeac653750",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_kingsguard2_1",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 12000
+        }
+      ],
+      "name": "eq_events_trinket_kingsguard2_35_trinket_lord35",
+      "steel_cost": 18400000,
+      "template_level": 30,
+      "upgrade_time_seconds": 129600
+    },
+    {
+      "id": "e1dab1399492d5",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_kingsguard2_1",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 45000
+        }
+      ],
+      "name": "eq_events_trinket_kingsguard2_40_trinket_lord40",
+      "steel_cost": 56900000,
+      "template_level": 35,
+      "upgrade_time_seconds": 172800
+    },
+    {
+      "id": "212f85e4f54ecbb9",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_kingsguard2_1",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 120000
+        }
+      ],
+      "name": "eq_events_trinket_kingsguard2_45_trinket_lord45",
+      "steel_cost": 173000000,
+      "template_level": 40,
+      "upgrade_time_seconds": 259200
+    },
+    {
+      "id": "1eca54d9fc41b6f6",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_kingsguard2_1",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 450000
+        }
+      ],
+      "name": "eq_events_trinket_kingsguard2_50_trinket_lord50",
+      "steel_cost": 520000000,
+      "template_level": 45,
+      "upgrade_time_seconds": 345600
     }
   ]
 }

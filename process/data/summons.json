@@ -3004,6 +3004,84 @@
         "summon_purchase_royal_JaqenLorasAPR23_Gold_10x_top"
       ],
       "time_str": "APR23"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "PodrickBrynden",
+      "id": "142a1f622db74be",
+      "name": "summon_noble_PodrickBryndenMAY23_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_PodrickBryndenMAY23_Hero_1x_top",
+        "summon_purchase_noble_PodrickBryndenMAY23_Hero_10x_top"
+      ],
+      "time_str": "MAY23"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "CerseiPetyr",
+      "id": "c002f52b24eaa5d8",
+      "name": "summon_noble_CerseiPetyrMAY23_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_CerseiPetyrMAY23_Hero_1x_top",
+        "summon_purchase_noble_CerseiPetyrMAY23_Hero_10x_top"
+      ],
+      "time_str": "MAY23"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "MelisandreTyrion",
+      "id": "fd8257ab7723d4fa",
+      "name": "summon_noble_MelisandreTyrionMAY23_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_MelisandreTyrionMAY23_Hero_1x_top",
+        "summon_purchase_noble_MelisandreTyrionMAY23_Hero_10x_top"
+      ],
+      "time_str": "MAY23"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "PodrickBrynden",
+      "id": "6578a9b905c5dc3",
+      "name": "summon_royal_PodrickBryndenMAY23_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_PodrickBryndenMAY23_Gold_1x_top",
+        "summon_purchase_royal_PodrickBryndenMAY23_Gold_10x_top"
+      ],
+      "time_str": "MAY23"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "CerseiPetyr",
+      "id": "705295c3117407d2",
+      "name": "summon_royal_CerseiPetyrMAY23_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_CerseiPetyrMAY23_Gold_1x_top",
+        "summon_purchase_royal_CerseiPetyrMAY23_Gold_10x_top"
+      ],
+      "time_str": "MAY23"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "MelisandreTyrion",
+      "id": "a471a10bd0d6390d",
+      "name": "summon_royal_MelisandreTyrionMAY23_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_MelisandreTyrionMAY23_Gold_1x_top",
+        "summon_purchase_royal_MelisandreTyrionMAY23_Gold_10x_top"
+      ],
+      "time_str": "MAY23"
     }
   ]
 }

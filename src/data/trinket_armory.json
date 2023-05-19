@@ -49420,6 +49420,664 @@
             ]
           }
         ]
+      },
+      {
+        "gear_with_level": [
+          {
+            "level": 1,
+            "name": "Grappling Hook (L1)",
+            "stats": [
+              {
+                "description": "Ranged defense bonus.",
+                "name": "Ranged Defense",
+                "progression": [
+                  0.0342720000000001,
+                  0.0367200000000001,
+                  0.0391680000000001,
+                  0.0416160000000001,
+                  0.0440640000000001,
+                  0.0489600000000001
+                ]
+              },
+              {
+                "description": "Ranged Attack in Player-to-Player combat.",
+                "name": "Ranged Attack vs. Player",
+                "progression": [
+                  0.0342720000000001,
+                  0.0367200000000001,
+                  0.0391680000000001,
+                  0.0416160000000001,
+                  0.0440640000000001,
+                  0.0489600000000001
+                ]
+              },
+              {
+                "description": "Ranged Defense vs. another player's Infantry.",
+                "name": "Ranged Defense vs. Player's Infantry",
+                "progression": [
+                  0.0342720000000001,
+                  0.0367200000000001,
+                  0.0391680000000001,
+                  0.0416160000000001,
+                  0.0440640000000001,
+                  0.0489600000000001
+                ]
+              },
+              {
+                "description": "Ranged health bonus in combat at a Seat of Power",
+                "name": "Ranged Health at Seats of Power",
+                "progression": [
+                  0.0342720000000001,
+                  0.0367200000000001,
+                  0.0391680000000001,
+                  0.0416160000000001,
+                  0.0440640000000001,
+                  0.0489600000000001
+                ]
+              }
+            ]
+          },
+          {
+            "level": 5,
+            "name": "Grappling Hook (L5)",
+            "stats": [
+              {
+                "description": "Ranged defense bonus.",
+                "name": "Ranged Defense",
+                "progression": [
+                  0.0651168000000001,
+                  0.0697680000000001,
+                  0.0744192000000001,
+                  0.0790704000000001,
+                  0.0837216000000001,
+                  0.0930240000000001
+                ]
+              },
+              {
+                "description": "Ranged Attack in Player-to-Player combat.",
+                "name": "Ranged Attack vs. Player",
+                "progression": [
+                  0.0651168000000001,
+                  0.0697680000000001,
+                  0.0744192000000001,
+                  0.0790704000000001,
+                  0.0837216000000001,
+                  0.0930240000000001
+                ]
+              },
+              {
+                "description": "Ranged Defense vs. another player's Infantry.",
+                "name": "Ranged Defense vs. Player's Infantry",
+                "progression": [
+                  0.0651168000000001,
+                  0.0697680000000001,
+                  0.0744192000000001,
+                  0.0790704000000001,
+                  0.0837216000000001,
+                  0.0930240000000001
+                ]
+              },
+              {
+                "description": "Ranged health bonus in combat at a Seat of Power",
+                "name": "Ranged Health at Seats of Power",
+                "progression": [
+                  0.0651168000000001,
+                  0.0697680000000001,
+                  0.0744192000000001,
+                  0.0790704000000001,
+                  0.0837216000000001,
+                  0.0930240000000001
+                ]
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "name": "Grappling Hook (L10)",
+            "stats": [
+              {
+                "description": "Ranged defense bonus.",
+                "name": "Ranged Defense",
+                "progression": [
+                  0.0959616000000001,
+                  0.102816,
+                  0.1096704,
+                  0.1165248,
+                  0.1233792,
+                  0.137088
+                ]
+              },
+              {
+                "description": "Ranged Attack in Player-to-Player combat.",
+                "name": "Ranged Attack vs. Player",
+                "progression": [
+                  0.0959616000000001,
+                  0.102816,
+                  0.1096704,
+                  0.1165248,
+                  0.1233792,
+                  0.137088
+                ]
+              },
+              {
+                "description": "Ranged Defense vs. another player's Infantry.",
+                "name": "Ranged Defense vs. Player's Infantry",
+                "progression": [
+                  0.0959616000000001,
+                  0.102816,
+                  0.1096704,
+                  0.1165248,
+                  0.1233792,
+                  0.137088
+                ]
+              },
+              {
+                "description": "Ranged health bonus in combat at a Seat of Power",
+                "name": "Ranged Health at Seats of Power",
+                "progression": [
+                  0.0959616000000001,
+                  0.102816,
+                  0.1096704,
+                  0.1165248,
+                  0.1233792,
+                  0.137088
+                ]
+              }
+            ]
+          },
+          {
+            "level": 15,
+            "name": "Grappling Hook (L15)",
+            "stats": [
+              {
+                "description": "Ranged defense bonus.",
+                "name": "Ranged Defense",
+                "progression": [
+                  0.1268064,
+                  0.135864,
+                  0.1449216,
+                  0.1539792,
+                  0.1630368,
+                  0.181152
+                ]
+              },
+              {
+                "description": "Ranged Attack in Player-to-Player combat.",
+                "name": "Ranged Attack vs. Player",
+                "progression": [
+                  0.1268064,
+                  0.135864,
+                  0.1449216,
+                  0.1539792,
+                  0.1630368,
+                  0.181152
+                ]
+              },
+              {
+                "description": "Ranged Defense vs. another player's Infantry.",
+                "name": "Ranged Defense vs. Player's Infantry",
+                "progression": [
+                  0.1268064,
+                  0.135864,
+                  0.1449216,
+                  0.1539792,
+                  0.1630368,
+                  0.181152
+                ]
+              },
+              {
+                "description": "Ranged health bonus in combat at a Seat of Power",
+                "name": "Ranged Health at Seats of Power",
+                "progression": [
+                  0.1268064,
+                  0.135864,
+                  0.1449216,
+                  0.1539792,
+                  0.1630368,
+                  0.181152
+                ]
+              }
+            ]
+          },
+          {
+            "level": 20,
+            "name": "Grappling Hook (L20)",
+            "stats": [
+              {
+                "description": "Ranged defense bonus.",
+                "name": "Ranged Defense",
+                "progression": [
+                  0.1576512,
+                  0.168912,
+                  0.1801728,
+                  0.1914336,
+                  0.2026944,
+                  0.225216
+                ]
+              },
+              {
+                "description": "Ranged Attack in Player-to-Player combat.",
+                "name": "Ranged Attack vs. Player",
+                "progression": [
+                  0.1576512,
+                  0.168912,
+                  0.1801728,
+                  0.1914336,
+                  0.2026944,
+                  0.225216
+                ]
+              },
+              {
+                "description": "Ranged Defense vs. another player's Infantry.",
+                "name": "Ranged Defense vs. Player's Infantry",
+                "progression": [
+                  0.1576512,
+                  0.168912,
+                  0.1801728,
+                  0.1914336,
+                  0.2026944,
+                  0.225216
+                ]
+              },
+              {
+                "description": "Ranged health bonus in combat at a Seat of Power",
+                "name": "Ranged Health at Seats of Power",
+                "progression": [
+                  0.1576512,
+                  0.168912,
+                  0.1801728,
+                  0.1914336,
+                  0.2026944,
+                  0.225216
+                ]
+              }
+            ]
+          },
+          {
+            "level": 25,
+            "name": "Grappling Hook (L25)",
+            "stats": [
+              {
+                "description": "Ranged defense bonus.",
+                "name": "Ranged Defense",
+                "progression": [
+                  0.188496,
+                  0.20196,
+                  0.215424,
+                  0.228888,
+                  0.242352,
+                  0.26928
+                ]
+              },
+              {
+                "description": "Ranged Attack in Player-to-Player combat.",
+                "name": "Ranged Attack vs. Player",
+                "progression": [
+                  0.188496,
+                  0.20196,
+                  0.215424,
+                  0.228888,
+                  0.242352,
+                  0.26928
+                ]
+              },
+              {
+                "description": "Ranged Defense vs. another player's Infantry.",
+                "name": "Ranged Defense vs. Player's Infantry",
+                "progression": [
+                  0.188496,
+                  0.20196,
+                  0.215424,
+                  0.228888,
+                  0.242352,
+                  0.26928
+                ]
+              },
+              {
+                "description": "Ranged health bonus in combat at a Seat of Power",
+                "name": "Ranged Health at Seats of Power",
+                "progression": [
+                  0.188496,
+                  0.20196,
+                  0.215424,
+                  0.228888,
+                  0.242352,
+                  0.26928
+                ]
+              }
+            ]
+          },
+          {
+            "level": 30,
+            "name": "Grappling Hook (L30)",
+            "stats": [
+              {
+                "description": "Ranged defense bonus.",
+                "name": "Ranged Defense",
+                "progression": [
+                  0.2193408,
+                  0.235008,
+                  0.2506752,
+                  0.2663424,
+                  0.2820096,
+                  0.313344
+                ]
+              },
+              {
+                "description": "Ranged Attack in Player-to-Player combat.",
+                "name": "Ranged Attack vs. Player",
+                "progression": [
+                  0.2193408,
+                  0.235008,
+                  0.2506752,
+                  0.2663424,
+                  0.2820096,
+                  0.313344
+                ]
+              },
+              {
+                "description": "Ranged Defense vs. another player's Infantry.",
+                "name": "Ranged Defense vs. Player's Infantry",
+                "progression": [
+                  0.2193408,
+                  0.235008,
+                  0.2506752,
+                  0.2663424,
+                  0.2820096,
+                  0.313344
+                ]
+              },
+              {
+                "description": "Ranged health bonus in combat at a Seat of Power",
+                "name": "Ranged Health at Seats of Power",
+                "progression": [
+                  0.2193408,
+                  0.235008,
+                  0.2506752,
+                  0.2663424,
+                  0.2820096,
+                  0.313344
+                ]
+              },
+              {
+                "description": "Ranged Attack stat bonus in combat when marching against a player.",
+                "name": "Ranged Attack While Marching vs. Player",
+                "progression": [
+                  0.1279488,
+                  0.137088,
+                  0.1462272,
+                  0.1553664,
+                  0.1645056,
+                  0.182784
+                ]
+              }
+            ]
+          },
+          {
+            "level": 35,
+            "name": "Grappling Hook (L35)",
+            "stats": [
+              {
+                "description": "Ranged defense bonus.",
+                "name": "Ranged Defense",
+                "progression": [
+                  0.2501856,
+                  0.268056,
+                  0.2859264,
+                  0.3037968,
+                  0.3216672,
+                  0.357408
+                ]
+              },
+              {
+                "description": "Ranged Attack in Player-to-Player combat.",
+                "name": "Ranged Attack vs. Player",
+                "progression": [
+                  0.2501856,
+                  0.268056,
+                  0.2859264,
+                  0.3037968,
+                  0.3216672,
+                  0.357408
+                ]
+              },
+              {
+                "description": "Ranged Defense vs. another player's Infantry.",
+                "name": "Ranged Defense vs. Player's Infantry",
+                "progression": [
+                  0.2501856,
+                  0.268056,
+                  0.2859264,
+                  0.3037968,
+                  0.3216672,
+                  0.357408
+                ]
+              },
+              {
+                "description": "Ranged health bonus in combat at a Seat of Power",
+                "name": "Ranged Health at Seats of Power",
+                "progression": [
+                  0.2501856,
+                  0.268056,
+                  0.2859264,
+                  0.3037968,
+                  0.3216672,
+                  0.357408
+                ]
+              },
+              {
+                "description": "Ranged Attack stat bonus in combat when marching against a player.",
+                "name": "Ranged Attack While Marching vs. Player",
+                "progression": [
+                  0.1459416,
+                  0.156366,
+                  0.1667904,
+                  0.1772148,
+                  0.1876392,
+                  0.208488
+                ]
+              }
+            ]
+          },
+          {
+            "level": 40,
+            "name": "Grappling Hook (L40)",
+            "stats": [
+              {
+                "description": "Ranged defense bonus.",
+                "name": "Ranged Defense",
+                "progression": [
+                  0.2810304,
+                  0.301104,
+                  0.3211776,
+                  0.3412512,
+                  0.3613248,
+                  0.401472
+                ]
+              },
+              {
+                "description": "Ranged Attack in Player-to-Player combat.",
+                "name": "Ranged Attack vs. Player",
+                "progression": [
+                  0.2810304,
+                  0.301104,
+                  0.3211776,
+                  0.3412512,
+                  0.3613248,
+                  0.401472
+                ]
+              },
+              {
+                "description": "Ranged Defense vs. another player's Infantry.",
+                "name": "Ranged Defense vs. Player's Infantry",
+                "progression": [
+                  0.2810304,
+                  0.301104,
+                  0.3211776,
+                  0.3412512,
+                  0.3613248,
+                  0.401472
+                ]
+              },
+              {
+                "description": "Ranged health bonus in combat at a Seat of Power",
+                "name": "Ranged Health at Seats of Power",
+                "progression": [
+                  0.2810304,
+                  0.301104,
+                  0.3211776,
+                  0.3412512,
+                  0.3613248,
+                  0.401472
+                ]
+              },
+              {
+                "description": "Ranged Attack stat bonus in combat when marching against a player.",
+                "name": "Ranged Attack While Marching vs. Player",
+                "progression": [
+                  0.1639344,
+                  0.175644,
+                  0.1873536,
+                  0.1990632,
+                  0.2107728,
+                  0.234192
+                ]
+              }
+            ]
+          },
+          {
+            "level": 45,
+            "name": "Grappling Hook (L45)",
+            "stats": [
+              {
+                "description": "Ranged defense bonus.",
+                "name": "Ranged Defense",
+                "progression": [
+                  0.3118752,
+                  0.334152,
+                  0.3564288,
+                  0.3787056,
+                  0.4009824,
+                  0.445536
+                ]
+              },
+              {
+                "description": "Ranged Attack in Player-to-Player combat.",
+                "name": "Ranged Attack vs. Player",
+                "progression": [
+                  0.3118752,
+                  0.334152,
+                  0.3564288,
+                  0.3787056,
+                  0.4009824,
+                  0.445536
+                ]
+              },
+              {
+                "description": "Ranged Defense vs. another player's Infantry.",
+                "name": "Ranged Defense vs. Player's Infantry",
+                "progression": [
+                  0.3118752,
+                  0.334152,
+                  0.3564288,
+                  0.3787056,
+                  0.4009824,
+                  0.445536
+                ]
+              },
+              {
+                "description": "Ranged health bonus in combat at a Seat of Power",
+                "name": "Ranged Health at Seats of Power",
+                "progression": [
+                  0.3118752,
+                  0.334152,
+                  0.3564288,
+                  0.3787056,
+                  0.4009824,
+                  0.445536
+                ]
+              },
+              {
+                "description": "Ranged Attack stat bonus in combat when marching against a player.",
+                "name": "Ranged Attack While Marching vs. Player",
+                "progression": [
+                  0.1819272,
+                  0.194922,
+                  0.2079168,
+                  0.2209116,
+                  0.2339064,
+                  0.259896
+                ]
+              }
+            ]
+          },
+          {
+            "level": 50,
+            "name": "Grappling Hook (L50)",
+            "stats": [
+              {
+                "description": "Ranged defense bonus.",
+                "name": "Ranged Defense",
+                "progression": [
+                  0.34272,
+                  0.3672,
+                  0.39168,
+                  0.41616,
+                  0.44064,
+                  0.4896
+                ]
+              },
+              {
+                "description": "Ranged Attack in Player-to-Player combat.",
+                "name": "Ranged Attack vs. Player",
+                "progression": [
+                  0.34272,
+                  0.3672,
+                  0.39168,
+                  0.41616,
+                  0.44064,
+                  0.4896
+                ]
+              },
+              {
+                "description": "Ranged Defense vs. another player's Infantry.",
+                "name": "Ranged Defense vs. Player's Infantry",
+                "progression": [
+                  0.34272,
+                  0.3672,
+                  0.39168,
+                  0.41616,
+                  0.44064,
+                  0.4896
+                ]
+              },
+              {
+                "description": "Ranged health bonus in combat at a Seat of Power",
+                "name": "Ranged Health at Seats of Power",
+                "progression": [
+                  0.34272,
+                  0.3672,
+                  0.39168,
+                  0.41616,
+                  0.44064,
+                  0.4896
+                ]
+              },
+              {
+                "description": "Ranged Attack stat bonus in combat when marching against a player.",
+                "name": "Ranged Attack While Marching vs. Player",
+                "progression": [
+                  0.19992,
+                  0.2142,
+                  0.22848,
+                  0.24276,
+                  0.25704,
+                  0.2856
+                ]
+              }
+            ]
+          }
+        ]
       }
     ]
   }

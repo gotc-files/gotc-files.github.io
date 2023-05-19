@@ -6275,7 +6275,7 @@
           "type": "item"
         }
       ],
-      "name": "recipe_event_2019_May_item_event_scrip_1_Amount_1"
+      "name": "recipe_event_2019_may_item_event_scrip_1_Amount_1"
     },
     {
       "id": "f171ab19e70a5578",
@@ -6287,7 +6287,7 @@
           "type": "item"
         }
       ],
-      "name": "recipe_event_2019_May_item_event_scrip_1_Amount_100"
+      "name": "recipe_event_2019_may_item_event_scrip_1_Amount_100"
     },
     {
       "id": "4c1b6de4a924ec8e",
@@ -6299,7 +6299,7 @@
           "type": "item"
         }
       ],
-      "name": "recipe_event_2019_May_item_event_scrip_1_Amount_10000"
+      "name": "recipe_event_2019_may_item_event_scrip_1_Amount_10000"
     },
     {
       "id": "a97c3362cbfdaf3f",
@@ -6311,7 +6311,7 @@
           "type": "item"
         }
       ],
-      "name": "recipe_event_2019_May_item_event_scrip_1_Amount_1000000"
+      "name": "recipe_event_2019_may_item_event_scrip_1_Amount_1000000"
     },
     {
       "id": "989dfe66c8e442e9",
@@ -6323,7 +6323,7 @@
           "type": "item"
         }
       ],
-      "name": "recipe_event_2019_May_item_event_scrip_1_Amount_100000000"
+      "name": "recipe_event_2019_may_item_event_scrip_1_Amount_100000000"
     },
     {
       "id": "f45c4750aa1b5855",
@@ -11394,6 +11394,42 @@
         }
       ],
       "name": "recipe_event_defend_the_wall_siege_10_sacrifice_100000"
+    },
+    {
+      "id": "4692903d1416b6d4",
+      "ingredients": [
+        {
+          "id": "fd4f42e36696b5fb",
+          "name": "item_event_scrip_1",
+          "quantity": 1,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_event_tithing__item_event_scrip_1__tithing_Amount_1"
+    },
+    {
+      "id": "d7a31999734b2f9e",
+      "ingredients": [
+        {
+          "id": "fd4f42e36696b5fb",
+          "name": "item_event_scrip_1",
+          "quantity": 1000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_event_tithing__item_event_scrip_1__tithing_Amount_1000"
+    },
+    {
+      "id": "3aa685f413fa1bfb",
+      "ingredients": [
+        {
+          "id": "fd4f42e36696b5fb",
+          "name": "item_event_scrip_1",
+          "quantity": 1000000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_event_tithing__item_event_scrip_1__tithing_Amount_1000000"
     }
   ]
 }

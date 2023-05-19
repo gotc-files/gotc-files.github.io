@@ -1463,7 +1463,7 @@
       "gear_with_level": [
         {
           "level": 5,
-          "name": "n:EQ_EVENTS_DRAGONGEAR_REGALSERPENT_5_CHANFRON_LORD5_NAME",
+          "name": "Regal Serpent's Chanfron (L5)",
           "stats": [
             {
               "description": "Increases the attack of your dragon against enemy troops.",
@@ -1493,7 +1493,7 @@
         },
         {
           "level": 10,
-          "name": "n:EQ_EVENTS_DRAGONGEAR_REGALSERPENT_10_CHANFRON_LORD10_NAME",
+          "name": "Regal Serpent's Chanfron (L10)",
           "stats": [
             {
               "description": "Increases the attack of your dragon against enemy troops.",
@@ -1523,7 +1523,7 @@
         },
         {
           "level": 15,
-          "name": "n:EQ_EVENTS_DRAGONGEAR_REGALSERPENT_15_CHANFRON_LORD15_NAME",
+          "name": "Regal Serpent's Chanfron (L15)",
           "stats": [
             {
               "description": "Increases the attack of your dragon against enemy troops.",
@@ -1553,7 +1553,7 @@
         },
         {
           "level": 20,
-          "name": "n:EQ_EVENTS_DRAGONGEAR_REGALSERPENT_20_CHANFRON_LORD20_NAME",
+          "name": "Regal Serpent's Chanfron (L20)",
           "stats": [
             {
               "description": "Increases the attack of your dragon against enemy troops.",
@@ -1595,7 +1595,7 @@
         },
         {
           "level": 25,
-          "name": "n:EQ_EVENTS_DRAGONGEAR_REGALSERPENT_25_CHANFRON_LORD25_NAME",
+          "name": "Regal Serpent's Chanfron (L25)",
           "stats": [
             {
               "description": "Increases the attack of your dragon against enemy troops.",
@@ -1637,7 +1637,7 @@
         },
         {
           "level": 30,
-          "name": "n:EQ_EVENTS_DRAGONGEAR_REGALSERPENT_30_CHANFRON_LORD30_NAME",
+          "name": "Regal Serpent's Chanfron (L30)",
           "stats": [
             {
               "description": "Increases the attack of your dragon against enemy troops.",
@@ -1691,7 +1691,7 @@
         },
         {
           "level": 35,
-          "name": "n:EQ_EVENTS_DRAGONGEAR_REGALSERPENT_35_CHANFRON_LORD35_NAME",
+          "name": "Regal Serpent's Chanfron (L35)",
           "stats": [
             {
               "description": "Increases the attack of your dragon against enemy troops.",
@@ -1745,7 +1745,7 @@
         },
         {
           "level": 40,
-          "name": "n:EQ_EVENTS_DRAGONGEAR_REGALSERPENT_40_CHANFRON_LORD40_NAME",
+          "name": "Regal Serpent's Chanfron (L40)",
           "stats": [
             {
               "description": "Increases the attack of your dragon against enemy troops.",
@@ -1799,19 +1799,19 @@
               "description": "n:PROPERTY_DRAGONMARCHERTROOPATTACKVSPLAYER_DESC",
               "name": "Dragon Marcher Troop Attack vs. Player",
               "progression": [
+                0.39344256,
+                0.4215456,
+                0.44964864,
+                0.47775168,
                 0.50585472,
-                0.5419872,
-                0.57811968,
-                0.61425216,
-                0.65038464,
-                0.7226496
+                0.5620608
               ]
             }
           ]
         },
         {
           "level": 45,
-          "name": "n:EQ_EVENTS_DRAGONGEAR_REGALSERPENT_45_CHANFRON_LORD45_NAME",
+          "name": "Regal Serpent's Chanfron (L45)",
           "stats": [
             {
               "description": "Increases the attack of your dragon against enemy troops.",
@@ -1865,19 +1865,19 @@
               "description": "n:PROPERTY_DRAGONMARCHERTROOPATTACKVSPLAYER_DESC",
               "name": "Dragon Marcher Troop Attack vs. Player",
               "progression": [
+                0.43662528,
+                0.4678128,
+                0.49900032,
+                0.53018784,
                 0.56137536,
-                0.6014736,
-                0.64157184,
-                0.68167008,
-                0.72176832,
-                0.8019648
+                0.6237504
               ]
             }
           ]
         },
         {
           "level": 50,
-          "name": "n:EQ_EVENTS_DRAGONGEAR_REGALSERPENT_50_CHANFRON_LORD50_NAME",
+          "name": "Regal Serpent's Chanfron (L50)",
           "stats": [
             {
               "description": "Increases the attack of your dragon against enemy troops.",
@@ -1931,12 +1931,12 @@
               "description": "n:PROPERTY_DRAGONMARCHERTROOPATTACKVSPLAYER_DESC",
               "name": "Dragon Marcher Troop Attack vs. Player",
               "progression": [
+                0.479808,
+                0.51408,
+                0.548352,
+                0.582624,
                 0.616896,
-                0.66096,
-                0.705024,
-                0.749088,
-                0.793152,
-                0.88128
+                0.68544
               ]
             }
           ]
@@ -1952,7 +1952,7 @@
       "gear_with_level": [
         {
           "level": 5,
-          "name": "n:EQ_EVENTS_DRAGONGEAR_REGALSERPENT_5_PEYTRAL_LORD5_NAME",
+          "name": "Regal Serpent's Peytral (L5)",
           "stats": [
             {
               "description": "Increases the attack of your dragon against enemy troops.",
@@ -1982,7 +1982,7 @@
         },
         {
           "level": 10,
-          "name": "n:EQ_EVENTS_DRAGONGEAR_REGALSERPENT_10_PEYTRAL_LORD10_NAME",
+          "name": "Regal Serpent's Peytral (L10)",
           "stats": [
             {
               "description": "Increases the attack of your dragon against enemy troops.",
@@ -2012,7 +2012,7 @@
         },
         {
           "level": 15,
-          "name": "n:EQ_EVENTS_DRAGONGEAR_REGALSERPENT_15_PEYTRAL_LORD15_NAME",
+          "name": "Regal Serpent's Peytral (L15)",
           "stats": [
             {
               "description": "Increases the attack of your dragon against enemy troops.",
@@ -2042,7 +2042,7 @@
         },
         {
           "level": 20,
-          "name": "n:EQ_EVENTS_DRAGONGEAR_REGALSERPENT_20_PEYTRAL_LORD20_NAME",
+          "name": "Regal Serpent's Peytral (L20)",
           "stats": [
             {
               "description": "Increases the attack of your dragon against enemy troops.",
@@ -2084,7 +2084,7 @@
         },
         {
           "level": 25,
-          "name": "n:EQ_EVENTS_DRAGONGEAR_REGALSERPENT_25_PEYTRAL_LORD25_NAME",
+          "name": "Regal Serpent's Peytral (L25)",
           "stats": [
             {
               "description": "Increases the attack of your dragon against enemy troops.",
@@ -2126,7 +2126,7 @@
         },
         {
           "level": 30,
-          "name": "n:EQ_EVENTS_DRAGONGEAR_REGALSERPENT_30_PEYTRAL_LORD30_NAME",
+          "name": "Regal Serpent's Peytral (L30)",
           "stats": [
             {
               "description": "Increases the attack of your dragon against enemy troops.",
@@ -2180,7 +2180,7 @@
         },
         {
           "level": 35,
-          "name": "n:EQ_EVENTS_DRAGONGEAR_REGALSERPENT_35_PEYTRAL_LORD35_NAME",
+          "name": "Regal Serpent's Peytral (L35)",
           "stats": [
             {
               "description": "Increases the attack of your dragon against enemy troops.",
@@ -2234,7 +2234,7 @@
         },
         {
           "level": 40,
-          "name": "n:EQ_EVENTS_DRAGONGEAR_REGALSERPENT_40_PEYTRAL_LORD40_NAME",
+          "name": "Regal Serpent's Peytral (L40)",
           "stats": [
             {
               "description": "Increases the attack of your dragon against enemy troops.",
@@ -2288,19 +2288,19 @@
               "description": "n:PROPERTY_DRAGONMARCHERTROOPATTACKVSPLAYER_DESC",
               "name": "Dragon Marcher Troop Attack vs. Player",
               "progression": [
+                0.39344256,
+                0.4215456,
+                0.44964864,
+                0.47775168,
                 0.50585472,
-                0.5419872,
-                0.57811968,
-                0.61425216,
-                0.65038464,
-                0.7226496
+                0.5620608
               ]
             }
           ]
         },
         {
           "level": 45,
-          "name": "n:EQ_EVENTS_DRAGONGEAR_REGALSERPENT_45_PEYTRAL_LORD45_NAME",
+          "name": "Regal Serpent's Peytral (L45)",
           "stats": [
             {
               "description": "Increases the attack of your dragon against enemy troops.",
@@ -2354,19 +2354,19 @@
               "description": "n:PROPERTY_DRAGONMARCHERTROOPATTACKVSPLAYER_DESC",
               "name": "Dragon Marcher Troop Attack vs. Player",
               "progression": [
+                0.43662528,
+                0.4678128,
+                0.49900032,
+                0.53018784,
                 0.56137536,
-                0.6014736,
-                0.64157184,
-                0.68167008,
-                0.72176832,
-                0.8019648
+                0.6237504
               ]
             }
           ]
         },
         {
           "level": 50,
-          "name": "n:EQ_EVENTS_DRAGONGEAR_REGALSERPENT_50_PEYTRAL_LORD50_NAME",
+          "name": "Regal Serpent's Peytral (L50)",
           "stats": [
             {
               "description": "Increases the attack of your dragon against enemy troops.",
@@ -2420,12 +2420,12 @@
               "description": "n:PROPERTY_DRAGONMARCHERTROOPATTACKVSPLAYER_DESC",
               "name": "Dragon Marcher Troop Attack vs. Player",
               "progression": [
+                0.479808,
+                0.51408,
+                0.548352,
+                0.582624,
                 0.616896,
-                0.66096,
-                0.705024,
-                0.749088,
-                0.793152,
-                0.88128
+                0.68544
               ]
             }
           ]
@@ -2436,7 +2436,7 @@
       "gear_with_level": [
         {
           "level": 5,
-          "name": "n:EQ_EVENTS_DRAGONGEAR_REGALSERPENT_5_SADDLE_LORD5_NAME",
+          "name": "Regal Serpent's Saddle (L5)",
           "stats": [
             {
               "description": "Increases the attack of your dragon against enemy troops.",
@@ -2466,7 +2466,7 @@
         },
         {
           "level": 10,
-          "name": "n:EQ_EVENTS_DRAGONGEAR_REGALSERPENT_10_SADDLE_LORD10_NAME",
+          "name": "Regal Serpent's Saddle (L10)",
           "stats": [
             {
               "description": "Increases the attack of your dragon against enemy troops.",
@@ -2496,7 +2496,7 @@
         },
         {
           "level": 15,
-          "name": "n:EQ_EVENTS_DRAGONGEAR_REGALSERPENT_15_SADDLE_LORD15_NAME",
+          "name": "Regal Serpent's Saddle (L15)",
           "stats": [
             {
               "description": "Increases the attack of your dragon against enemy troops.",
@@ -2526,7 +2526,7 @@
         },
         {
           "level": 20,
-          "name": "n:EQ_EVENTS_DRAGONGEAR_REGALSERPENT_20_SADDLE_LORD20_NAME",
+          "name": "Regal Serpent's Saddle (L20)",
           "stats": [
             {
               "description": "Increases the attack of your dragon against enemy troops.",
@@ -2568,7 +2568,7 @@
         },
         {
           "level": 25,
-          "name": "n:EQ_EVENTS_DRAGONGEAR_REGALSERPENT_25_SADDLE_LORD25_NAME",
+          "name": "Regal Serpent's Saddle (L25)",
           "stats": [
             {
               "description": "Increases the attack of your dragon against enemy troops.",
@@ -2610,7 +2610,7 @@
         },
         {
           "level": 30,
-          "name": "n:EQ_EVENTS_DRAGONGEAR_REGALSERPENT_30_SADDLE_LORD30_NAME",
+          "name": "Regal Serpent's Saddle (L30)",
           "stats": [
             {
               "description": "Increases the attack of your dragon against enemy troops.",
@@ -2664,7 +2664,7 @@
         },
         {
           "level": 35,
-          "name": "n:EQ_EVENTS_DRAGONGEAR_REGALSERPENT_35_SADDLE_LORD35_NAME",
+          "name": "Regal Serpent's Saddle (L35)",
           "stats": [
             {
               "description": "Increases the attack of your dragon against enemy troops.",
@@ -2718,7 +2718,7 @@
         },
         {
           "level": 40,
-          "name": "n:EQ_EVENTS_DRAGONGEAR_REGALSERPENT_40_SADDLE_LORD40_NAME",
+          "name": "Regal Serpent's Saddle (L40)",
           "stats": [
             {
               "description": "Increases the attack of your dragon against enemy troops.",
@@ -2772,19 +2772,19 @@
               "description": "n:PROPERTY_DRAGONMARCHERTROOPATTACKVSPLAYER_DESC",
               "name": "Dragon Marcher Troop Attack vs. Player",
               "progression": [
+                0.39344256,
+                0.4215456,
+                0.44964864,
+                0.47775168,
                 0.50585472,
-                0.5419872,
-                0.57811968,
-                0.61425216,
-                0.65038464,
-                0.7226496
+                0.5620608
               ]
             }
           ]
         },
         {
           "level": 45,
-          "name": "n:EQ_EVENTS_DRAGONGEAR_REGALSERPENT_45_SADDLE_LORD45_NAME",
+          "name": "Regal Serpent's Saddle (L45)",
           "stats": [
             {
               "description": "Increases the attack of your dragon against enemy troops.",
@@ -2838,19 +2838,19 @@
               "description": "n:PROPERTY_DRAGONMARCHERTROOPATTACKVSPLAYER_DESC",
               "name": "Dragon Marcher Troop Attack vs. Player",
               "progression": [
+                0.43662528,
+                0.4678128,
+                0.49900032,
+                0.53018784,
                 0.56137536,
-                0.6014736,
-                0.64157184,
-                0.68167008,
-                0.72176832,
-                0.8019648
+                0.6237504
               ]
             }
           ]
         },
         {
           "level": 50,
-          "name": "n:EQ_EVENTS_DRAGONGEAR_REGALSERPENT_50_SADDLE_LORD50_NAME",
+          "name": "Regal Serpent's Saddle (L50)",
           "stats": [
             {
               "description": "Increases the attack of your dragon against enemy troops.",
@@ -2904,12 +2904,12 @@
               "description": "n:PROPERTY_DRAGONMARCHERTROOPATTACKVSPLAYER_DESC",
               "name": "Dragon Marcher Troop Attack vs. Player",
               "progression": [
+                0.479808,
+                0.51408,
+                0.548352,
+                0.582624,
                 0.616896,
-                0.66096,
-                0.705024,
-                0.749088,
-                0.793152,
-                0.88128
+                0.68544
               ]
             }
           ]
