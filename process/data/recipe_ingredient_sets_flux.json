@@ -434,6 +434,42 @@
       "name": "recipe_alchemy_recipe__item_flux_0_to_mat_wildfire__1_10000"
     },
     {
+      "id": "2d6021916e83372a",
+      "ingredients": [
+        {
+          "id": "49548a4e18adc510",
+          "name": "item_flux_0",
+          "quantity": 400,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_quantity_limited_recipe__item_flux_0_to_item_xp_Lord_100__1_1"
+    },
+    {
+      "id": "a0272eb7488b21b6",
+      "ingredients": [
+        {
+          "id": "49548a4e18adc510",
+          "name": "item_flux_0",
+          "quantity": 4000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_quantity_limited_recipe__item_flux_0_to_item_xp_Lord_1000__1_1"
+    },
+    {
+      "id": "7fd605ac4bc6c7fb",
+      "ingredients": [
+        {
+          "id": "49548a4e18adc510",
+          "name": "item_flux_0",
+          "quantity": 40000,
+          "type": "item"
+        }
+      ],
+      "name": "recipe_alchemy_quantity_limited_recipe__item_flux_0_to_item_xp_Lord_10000__1_1"
+    },
+    {
       "id": "e986837de4408093",
       "ingredients": [
         {

@@ -396,6 +396,24 @@
         "prog_gearset_trinketarmory_northernartifacts_slot2",
         "prog_gearset_trinketarmory_northernartifacts_slot3"
       ]
+    },
+    {
+      "color": {
+        "alpha": 255,
+        "blue": 135,
+        "green": 135,
+        "red": 36
+      },
+      "description_placeholder": "EQ_TRINKETARMORY_WARRIORWOMENHEIRLOOMS_1_SET_DESCRIPTION",
+      "id": "4fa55b6da6394d4f",
+      "name": "gearset_trinketarmory_warriorwomenheirlooms_1",
+      "name_placeholder": "EQ_TRINKETARMORY_WARRIORWOMENHEIRLOOMS_1_SET_NAME",
+      "priority": 223,
+      "trinket_names": [
+        "prog_gearset_trinketarmory_warriorwomenheirlooms_slot1",
+        "prog_gearset_trinketarmory_warriorwomenheirlooms_slot2",
+        "prog_gearset_trinketarmory_warriorwomenheirlooms_slot3"
+      ]
     }
   ]
 }

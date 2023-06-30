@@ -4560,6 +4560,126 @@
       "skill_type": "COUNCIL",
       "stat_name": "property_RangedDefenseVsSeatOfPower_hero",
       "unlock_level": 0
+    },
+    {
+      "id": "d3db251ab3ddaffe",
+      "name": "heroskill_visgen_hero_greyworm_warriorofastapor_3",
+      "skill_type": "MARCH",
+      "star_skill_value": 0.329011201858521,
+      "stat_name": "driven_MarcherInfantryAttackVsPlayer",
+      "unlock_level": 10
+    },
+    {
+      "id": "150e576bb7651a18",
+      "name": "heroskill_visgen_hero_greyworm_warriorofastapor_4",
+      "skill_type": "COUNCIL",
+      "star_skill_value": 0.337823987007141,
+      "stat_name": "property_DragonInfantryDefenseVsPlayer_hero",
+      "unlock_level": 20
+    },
+    {
+      "id": "39ff9ccd00364be2",
+      "name": "heroskill_visgen_hero_greyworm_warriorofastapor_5",
+      "skill_type": "MARCH",
+      "star_skill_value": 0.428889602422714,
+      "stat_name": "driven_InfantryAttackVsPlayersCavalry",
+      "unlock_level": 30
+    },
+    {
+      "id": "4cedc026d9c3b9ec",
+      "name": "heroskill_visgen_hero_greyworm_warriorofastapor_6",
+      "skill_type": "COUNCIL",
+      "star_skill_value": 0.430848002433777,
+      "stat_name": "property_InfantryHealthVsPlayer_hero",
+      "unlock_level": 40
+    },
+    {
+      "id": "601c0b806e90e816",
+      "name": "heroskill_visgen_hero_greyworm_warriorofastapor_7",
+      "skill_type": "COUNCIL",
+      "star_skill_value": 0.465120017528534,
+      "stat_name": "property_InfantryDefense_hero",
+      "unlock_level": 50
+    },
+    {
+      "id": "8a38b257dd7b0c0a",
+      "name": "heroskill_visgen_hero_greyworm_warriorofastapor_1",
+      "signature_skill_progression_name": "heropropertyprog_visgen_hero_greyworm_warriorofastapor_1",
+      "skill_type": "MARCH",
+      "stat_name": "driven_MaxMarchSize",
+      "unlock_level": 0
+    },
+    {
+      "id": "ff2aeebc048efe04",
+      "name": "heroskill_visgen_hero_greyworm_warriorofastapor_2",
+      "signature_skill_progression_name": "heropropertyprog_visgen_hero_greyworm_warriorofastapor_2",
+      "skill_type": "COUNCIL",
+      "stat_name": "property_InfantryDefenseVsPlayersCavalry_hero",
+      "unlock_level": 0
+    },
+    {
+      "id": "75d416b551c0c113",
+      "name": "heroskill_visgen_hero_lorastyrell_gallantknight_3",
+      "skill_type": "MARCH",
+      "star_skill_value": 0.32558399438858,
+      "stat_name": "driven_MarcherCavalryHealthVsPlayerSeatOfPower",
+      "unlock_level": 10
+    },
+    {
+      "id": "b30164c4557874f5",
+      "name": "heroskill_visgen_hero_lorastyrell_gallantknight_4",
+      "skill_type": "COUNCIL",
+      "star_skill_value": 0.35495999455452,
+      "stat_name": "property_MarchingSpeedVsSeatOfPower_hero",
+      "unlock_level": 20
+    },
+    {
+      "id": "9ff0af62e22b250f",
+      "name": "heroskill_visgen_hero_lorastyrell_gallantknight_5",
+      "skill_type": "COUNCIL",
+      "star_skill_value": 0.422279983758926,
+      "stat_name": "property_CavalryAttackVsPlayersCavalry_hero",
+      "unlock_level": 30
+    },
+    {
+      "id": "eae2f3893bded701",
+      "name": "heroskill_visgen_hero_lorastyrell_gallantknight_6",
+      "skill_type": "MARCH",
+      "star_skill_value": 0.477359980344772,
+      "stat_name": "driven_CavalryDefenseVsPlayer",
+      "unlock_level": 40
+    },
+    {
+      "id": "c613382f8c8d86fb",
+      "name": "heroskill_visgen_hero_lorastyrell_gallantknight_7",
+      "skill_type": "COUNCIL",
+      "star_skill_value": 0.465119987726212,
+      "stat_name": "property_CavalryDefenseVsSeatOfPower_hero",
+      "unlock_level": 50
+    },
+    {
+      "id": "e5f2551e7b00f3e6",
+      "name": "heroskill_visgen_hero_lorastyrell_gallantknight_8",
+      "skill_type": "COUNCIL",
+      "star_skill_value": 0.571200013160706,
+      "stat_name": "property_MarcherCavalryAttackVsPlayerSeatOfPower_hero",
+      "unlock_level": 60
+    },
+    {
+      "id": "2c3781f83f6662e7",
+      "name": "heroskill_visgen_hero_lorastyrell_gallantknight_1",
+      "signature_skill_progression_name": "heropropertyprog_visgen_hero_lorastyrell_gallantknight_1",
+      "skill_type": "MARCH",
+      "stat_name": "driven_MaxMarchSize",
+      "unlock_level": 0
+    },
+    {
+      "id": "5925dd13e69390e9",
+      "name": "heroskill_visgen_hero_lorastyrell_gallantknight_2",
+      "signature_skill_progression_name": "heropropertyprog_visgen_hero_lorastyrell_gallantknight_2",
+      "skill_type": "COUNCIL",
+      "stat_name": "property_MarcherCavalryAttackVsPlayer_hero",
+      "unlock_level": 0
     }
   ]
 }

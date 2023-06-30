@@ -77166,5 +77166,2541 @@
       }
     ],
     "time_str": "MAY23"
+  },
+  {
+    "category": "noble",
+    "description": "Noble Summons contain the following rewards:\n* Relics for Rare, Heroic, and Mythic Heroes\n* Hero XP\n* Oaths\n* Royal Seals",
+    "heroes": "PetyrEllaria",
+    "id": "9f6c05454baa98e5",
+    "name": "Noble Summon",
+    "purchase_options": [
+      {
+        "name": "summon_purchase_noble_PetyrEllariaJUN23_Hero_1x_top",
+        "odds": [
+          {
+            "description": "Apply Hero XP to Heroes to increase their Hero Level.",
+            "name": "10,000 Hero XP",
+            "probability": 0.0066999997943639755,
+            "quantity": 3
+          },
+          {
+            "description": "Apply Hero XP to Heroes to increase their Hero Level.",
+            "name": "1,000 Hero XP",
+            "probability": 0.034699998795986176,
+            "quantity": 3
+          },
+          {
+            "description": "Apply Hero XP to Heroes to increase their Hero Level.",
+            "name": "100 Hero XP",
+            "probability": 0.1785999983549118,
+            "quantity": 3
+          },
+          {
+            "description": "Maester of Winterfell",
+            "name": "Maester Luwin",
+            "probability": 0.1080000028014183,
+            "quantity": 550
+          },
+          {
+            "description": "Northern Dreamer",
+            "name": "Sansa Stark",
+            "probability": 0.1080000028014183,
+            "quantity": 550
+          },
+          {
+            "description": "Heir to Winterfell",
+            "name": "Robb Stark",
+            "probability": 0.1080000028014183,
+            "quantity": 550
+          },
+          {
+            "description": "First Ranger",
+            "name": "Benjen Stark",
+            "probability": 0.1080000028014183,
+            "quantity": 550
+          },
+          {
+            "description": "Apprentice Blacksmith",
+            "name": "Gendry",
+            "probability": 0.1080000028014183,
+            "quantity": 550
+          },
+          {
+            "description": "Fallen Maester",
+            "name": "Qyburn",
+            "probability": 0.02199999988079071,
+            "quantity": 740
+          },
+          {
+            "description": "Paramour",
+            "name": "Ellaria Sand",
+            "probability": 0.09179999679327011,
+            "quantity": 740
+          },
+          {
+            "description": "The Spider",
+            "name": "Varys",
+            "probability": 0.02199999988079071,
+            "quantity": 740
+          },
+          {
+            "description": "The Archer",
+            "name": "Anguy",
+            "probability": 0.02199999988079071,
+            "quantity": 740
+          },
+          {
+            "description": "Queen Mother",
+            "name": "Cersei Lannister",
+            "probability": 0.02199999988079071,
+            "quantity": 740
+          },
+          {
+            "description": "Stalwart Guardian",
+            "name": "Hodor",
+            "probability": 0.007300000172108412,
+            "quantity": 1000
+          },
+          {
+            "description": "The Unrequited",
+            "name": "Petyr Baelish",
+            "probability": 0.03060000017285347,
+            "quantity": 1000
+          },
+          {
+            "description": "Lord Paramount",
+            "name": "Renly Baratheon",
+            "probability": 0.007300000172108412,
+            "quantity": 1000
+          },
+          {
+            "description": "Quiet Wolf",
+            "name": "Young Ned",
+            "probability": 0.007300000172108412,
+            "quantity": 1000
+          },
+          {
+            "description": "Red Priest",
+            "name": "Thoros of Myr",
+            "probability": 0.007300000172108412,
+            "quantity": 1000
+          },
+          {
+            "description": "Used to perform a Royal Summon. Summons provide Hero Relics, Hero XP, Oaths, and other rewards.",
+            "name": "Royal Seal",
+            "probability": 1.0,
+            "quantity": 10
+          },
+          {
+            "description": "Oaths are used to upgrade Hero Stars.",
+            "name": "Oaths",
+            "probability": 0.05000000074505806,
+            "quantity": 400
+          },
+          {
+            "description": "Oaths are used to upgrade Hero Stars.",
+            "name": "Oaths",
+            "probability": 0.009999999776482582,
+            "quantity": 5000
+          },
+          {
+            "description": "Oaths are used to upgrade Hero Stars.",
+            "name": "Oaths",
+            "probability": 0.25,
+            "quantity": 56
+          },
+          {
+            "description": "Oaths are used to upgrade Hero Stars.",
+            "name": "Oaths",
+            "probability": 0.0010000000474974513,
+            "quantity": 60000
+          }
+        ]
+      },
+      {
+        "name": "summon_purchase_noble_PetyrEllariaJUN23_Hero_10x_top",
+        "odds": [
+          {
+            "description": "Used to perform a Royal Summon. Summons provide Hero Relics, Hero XP, Oaths, and other rewards.",
+            "name": "Royal Seal",
+            "probability": 1.0,
+            "quantity": 10
+          },
+          {
+            "description": "Oaths are used to upgrade Hero Stars.",
+            "name": "Oaths",
+            "probability": 0.05000000074505806,
+            "quantity": 400
+          },
+          {
+            "description": "Oaths are used to upgrade Hero Stars.",
+            "name": "Oaths",
+            "probability": 0.009999999776482582,
+            "quantity": 5000
+          },
+          {
+            "description": "Oaths are used to upgrade Hero Stars.",
+            "name": "Oaths",
+            "probability": 0.25,
+            "quantity": 56
+          },
+          {
+            "description": "Oaths are used to upgrade Hero Stars.",
+            "name": "Oaths",
+            "probability": 0.0010000000474974513,
+            "quantity": 60000
+          },
+          {
+            "description": "Apply Hero XP to Heroes to increase their Hero Level.",
+            "name": "10,000 Hero XP",
+            "probability": 0.0066999997943639755,
+            "quantity": 3
+          },
+          {
+            "description": "Apply Hero XP to Heroes to increase their Hero Level.",
+            "name": "1,000 Hero XP",
+            "probability": 0.034699998795986176,
+            "quantity": 3
+          },
+          {
+            "description": "Apply Hero XP to Heroes to increase their Hero Level.",
+            "name": "100 Hero XP",
+            "probability": 0.1785999983549118,
+            "quantity": 3
+          },
+          {
+            "description": "Maester of Winterfell",
+            "name": "Maester Luwin",
+            "probability": 0.1080000028014183,
+            "quantity": 550
+          },
+          {
+            "description": "Northern Dreamer",
+            "name": "Sansa Stark",
+            "probability": 0.1080000028014183,
+            "quantity": 550
+          },
+          {
+            "description": "Heir to Winterfell",
+            "name": "Robb Stark",
+            "probability": 0.1080000028014183,
+            "quantity": 550
+          },
+          {
+            "description": "First Ranger",
+            "name": "Benjen Stark",
+            "probability": 0.1080000028014183,
+            "quantity": 550
+          },
+          {
+            "description": "Apprentice Blacksmith",
+            "name": "Gendry",
+            "probability": 0.1080000028014183,
+            "quantity": 550
+          },
+          {
+            "description": "Fallen Maester",
+            "name": "Qyburn",
+            "probability": 0.02199999988079071,
+            "quantity": 740
+          },
+          {
+            "description": "Paramour",
+            "name": "Ellaria Sand",
+            "probability": 0.09179999679327011,
+            "quantity": 740
+          },
+          {
+            "description": "The Spider",
+            "name": "Varys",
+            "probability": 0.02199999988079071,
+            "quantity": 740
+          },
+          {
+            "description": "The Archer",
+            "name": "Anguy",
+            "probability": 0.02199999988079071,
+            "quantity": 740
+          },
+          {
+            "description": "Queen Mother",
+            "name": "Cersei Lannister",
+            "probability": 0.02199999988079071,
+            "quantity": 740
+          },
+          {
+            "description": "Stalwart Guardian",
+            "name": "Hodor",
+            "probability": 0.007300000172108412,
+            "quantity": 1000
+          },
+          {
+            "description": "The Unrequited",
+            "name": "Petyr Baelish",
+            "probability": 0.03060000017285347,
+            "quantity": 1000
+          },
+          {
+            "description": "Lord Paramount",
+            "name": "Renly Baratheon",
+            "probability": 0.007300000172108412,
+            "quantity": 1000
+          },
+          {
+            "description": "Quiet Wolf",
+            "name": "Young Ned",
+            "probability": 0.007300000172108412,
+            "quantity": 1000
+          },
+          {
+            "description": "Red Priest",
+            "name": "Thoros of Myr",
+            "probability": 0.007300000172108412,
+            "quantity": 1000
+          },
+          {
+            "description": "Fallen Maester",
+            "name": "Qyburn",
+            "probability": 0.11509999632835388,
+            "quantity": 740
+          },
+          {
+            "description": "Paramour",
+            "name": "Ellaria Sand",
+            "probability": 0.4796000123023987,
+            "quantity": 740
+          },
+          {
+            "description": "The Spider",
+            "name": "Varys",
+            "probability": 0.11509999632835388,
+            "quantity": 740
+          },
+          {
+            "description": "The Archer",
+            "name": "Anguy",
+            "probability": 0.11509999632835388,
+            "quantity": 740
+          },
+          {
+            "description": "Queen Mother",
+            "name": "Cersei Lannister",
+            "probability": 0.11509999632835388,
+            "quantity": 740
+          },
+          {
+            "description": "Stalwart Guardian",
+            "name": "Hodor",
+            "probability": 0.007300000172108412,
+            "quantity": 1000
+          },
+          {
+            "description": "The Unrequited",
+            "name": "Petyr Baelish",
+            "probability": 0.03060000017285347,
+            "quantity": 1000
+          },
+          {
+            "description": "Lord Paramount",
+            "name": "Renly Baratheon",
+            "probability": 0.007300000172108412,
+            "quantity": 1000
+          },
+          {
+            "description": "Quiet Wolf",
+            "name": "Young Ned",
+            "probability": 0.007300000172108412,
+            "quantity": 1000
+          },
+          {
+            "description": "Red Priest",
+            "name": "Thoros of Myr",
+            "probability": 0.007300000172108412,
+            "quantity": 1000
+          },
+          {
+            "description": "Used to perform a Royal Summon. Summons provide Hero Relics, Hero XP, Oaths, and other rewards.",
+            "name": "Royal Seal",
+            "probability": 1.0,
+            "quantity": 10
+          },
+          {
+            "description": "Oaths are used to upgrade Hero Stars.",
+            "name": "Oaths",
+            "probability": 0.05000000074505806,
+            "quantity": 400
+          },
+          {
+            "description": "Oaths are used to upgrade Hero Stars.",
+            "name": "Oaths",
+            "probability": 0.009999999776482582,
+            "quantity": 5000
+          },
+          {
+            "description": "Oaths are used to upgrade Hero Stars.",
+            "name": "Oaths",
+            "probability": 0.25,
+            "quantity": 56
+          },
+          {
+            "description": "Oaths are used to upgrade Hero Stars.",
+            "name": "Oaths",
+            "probability": 0.0010000000474974513,
+            "quantity": 60000
+          }
+        ]
+      }
+    ],
+    "time_str": "JUN23"
+  },
+  {
+    "category": "noble",
+    "description": "Noble Summons contain the following rewards:\n* Relics for Rare, Heroic, and Mythic Heroes\n* Hero XP\n* Oaths\n* Royal Seals",
+    "heroes": "DoranYara",
+    "id": "43ab04de3b0c0b82",
+    "name": "Noble Summon",
+    "purchase_options": [
+      {
+        "name": "summon_purchase_noble_DoranYaraJUN23_Hero_1x_top",
+        "odds": [
+          {
+            "description": "Apply Hero XP to Heroes to increase their Hero Level.",
+            "name": "10,000 Hero XP",
+            "probability": 0.0066999997943639755,
+            "quantity": 3
+          },
+          {
+            "description": "Apply Hero XP to Heroes to increase their Hero Level.",
+            "name": "1,000 Hero XP",
+            "probability": 0.034699998795986176,
+            "quantity": 3
+          },
+          {
+            "description": "Apply Hero XP to Heroes to increase their Hero Level.",
+            "name": "100 Hero XP",
+            "probability": 0.1785999983549118,
+            "quantity": 3
+          },
+          {
+            "description": "Maester of Winterfell",
+            "name": "Maester Luwin",
+            "probability": 0.1080000028014183,
+            "quantity": 550
+          },
+          {
+            "description": "Northern Dreamer",
+            "name": "Sansa Stark",
+            "probability": 0.1080000028014183,
+            "quantity": 550
+          },
+          {
+            "description": "Heir to Winterfell",
+            "name": "Robb Stark",
+            "probability": 0.1080000028014183,
+            "quantity": 550
+          },
+          {
+            "description": "First Ranger",
+            "name": "Benjen Stark",
+            "probability": 0.1080000028014183,
+            "quantity": 550
+          },
+          {
+            "description": "Apprentice Blacksmith",
+            "name": "Gendry",
+            "probability": 0.1080000028014183,
+            "quantity": 550
+          },
+          {
+            "description": "Ironborn Raider",
+            "name": "Yara Greyjoy",
+            "probability": 0.09179999679327011,
+            "quantity": 740
+          },
+          {
+            "description": "Titan of Commerce",
+            "name": "Tycho Nestoris",
+            "probability": 0.02199999988079071,
+            "quantity": 740
+          },
+          {
+            "description": "Young Wolf",
+            "name": "Robb Stark",
+            "probability": 0.02199999988079071,
+            "quantity": 740
+          },
+          {
+            "description": "Dragon Queen",
+            "name": "Daenerys Targaryen",
+            "probability": 0.02199999988079071,
+            "quantity": 740
+          },
+          {
+            "description": "Lord of the Crossing",
+            "name": "Walder Frey",
+            "probability": 0.02199999988079071,
+            "quantity": 740
+          },
+          {
+            "description": "First White Walker",
+            "name": "Night King",
+            "probability": 0.007300000172108412,
+            "quantity": 1000
+          },
+          {
+            "description": "The Betrayed",
+            "name": "Theon Greyjoy",
+            "probability": 0.007300000172108412,
+            "quantity": 1000
+          },
+          {
+            "description": "Breaker of Chains",
+            "name": "Daenerys Targaryen",
+            "probability": 0.007300000172108412,
+            "quantity": 1000
+          },
+          {
+            "description": "The Vengeful",
+            "name": "Arya Stark",
+            "probability": 0.007300000172108412,
+            "quantity": 1000
+          },
+          {
+            "description": "Lord of Sunspear",
+            "name": "Doran Martell",
+            "probability": 0.03060000017285347,
+            "quantity": 1000
+          },
+          {
+            "description": "Used to perform a Royal Summon. Summons provide Hero Relics, Hero XP, Oaths, and other rewards.",
+            "name": "Royal Seal",
+            "probability": 1.0,
+            "quantity": 10
+          },
+          {
+            "description": "Oaths are used to upgrade Hero Stars.",
+            "name": "Oaths",
+            "probability": 0.05000000074505806,
+            "quantity": 400
+          },
+          {
+            "description": "Oaths are used to upgrade Hero Stars.",
+            "name": "Oaths",
+            "probability": 0.009999999776482582,
+            "quantity": 5000
+          },
+          {
+            "description": "Oaths are used to upgrade Hero Stars.",
+            "name": "Oaths",
+            "probability": 0.25,
+            "quantity": 56
+          },
+          {
+            "description": "Oaths are used to upgrade Hero Stars.",
+            "name": "Oaths",
+            "probability": 0.0010000000474974513,
+            "quantity": 60000
+          }
+        ]
+      },
+      {
+        "name": "summon_purchase_noble_DoranYaraJUN23_Hero_10x_top",
+        "odds": [
+          {
+            "description": "Used to perform a Royal Summon. Summons provide Hero Relics, Hero XP, Oaths, and other rewards.",
+            "name": "Royal Seal",
+            "probability": 1.0,
+            "quantity": 10
+          },
+          {
+            "description": "Oaths are used to upgrade Hero Stars.",
+            "name": "Oaths",
+            "probability": 0.05000000074505806,
+            "quantity": 400
+          },
+          {
+            "description": "Oaths are used to upgrade Hero Stars.",
+            "name": "Oaths",
+            "probability": 0.009999999776482582,
+            "quantity": 5000
+          },
+          {
+            "description": "Oaths are used to upgrade Hero Stars.",
+            "name": "Oaths",
+            "probability": 0.25,
+            "quantity": 56
+          },
+          {
+            "description": "Oaths are used to upgrade Hero Stars.",
+            "name": "Oaths",
+            "probability": 0.0010000000474974513,
+            "quantity": 60000
+          },
+          {
+            "description": "Apply Hero XP to Heroes to increase their Hero Level.",
+            "name": "10,000 Hero XP",
+            "probability": 0.0066999997943639755,
+            "quantity": 3
+          },
+          {
+            "description": "Apply Hero XP to Heroes to increase their Hero Level.",
+            "name": "1,000 Hero XP",
+            "probability": 0.034699998795986176,
+            "quantity": 3
+          },
+          {
+            "description": "Apply Hero XP to Heroes to increase their Hero Level.",
+            "name": "100 Hero XP",
+            "probability": 0.1785999983549118,
+            "quantity": 3
+          },
+          {
+            "description": "Maester of Winterfell",
+            "name": "Maester Luwin",
+            "probability": 0.1080000028014183,
+            "quantity": 550
+          },
+          {
+            "description": "Northern Dreamer",
+            "name": "Sansa Stark",
+            "probability": 0.1080000028014183,
+            "quantity": 550
+          },
+          {
+            "description": "Heir to Winterfell",
+            "name": "Robb Stark",
+            "probability": 0.1080000028014183,
+            "quantity": 550
+          },
+          {
+            "description": "First Ranger",
+            "name": "Benjen Stark",
+            "probability": 0.1080000028014183,
+            "quantity": 550
+          },
+          {
+            "description": "Apprentice Blacksmith",
+            "name": "Gendry",
+            "probability": 0.1080000028014183,
+            "quantity": 550
+          },
+          {
+            "description": "Ironborn Raider",
+            "name": "Yara Greyjoy",
+            "probability": 0.09179999679327011,
+            "quantity": 740
+          },
+          {
+            "description": "Titan of Commerce",
+            "name": "Tycho Nestoris",
+            "probability": 0.02199999988079071,
+            "quantity": 740
+          },
+          {
+            "description": "Young Wolf",
+            "name": "Robb Stark",
+            "probability": 0.02199999988079071,
+            "quantity": 740
+          },
+          {
+            "description": "Dragon Queen",
+            "name": "Daenerys Targaryen",
+            "probability": 0.02199999988079071,
+            "quantity": 740
+          },
+          {
+            "description": "Lord of the Crossing",
+            "name": "Walder Frey",
+            "probability": 0.02199999988079071,
+            "quantity": 740
+          },
+          {
+            "description": "First White Walker",
+            "name": "Night King",
+            "probability": 0.007300000172108412,
+            "quantity": 1000
+          },
+          {
+            "description": "The Betrayed",
+            "name": "Theon Greyjoy",
+            "probability": 0.007300000172108412,
+            "quantity": 1000
+          },
+          {
+            "description": "Breaker of Chains",
+            "name": "Daenerys Targaryen",
+            "probability": 0.007300000172108412,
+            "quantity": 1000
+          },
+          {
+            "description": "The Vengeful",
+            "name": "Arya Stark",
+            "probability": 0.007300000172108412,
+            "quantity": 1000
+          },
+          {
+            "description": "Lord of Sunspear",
+            "name": "Doran Martell",
+            "probability": 0.03060000017285347,
+            "quantity": 1000
+          },
+          {
+            "description": "Ironborn Raider",
+            "name": "Yara Greyjoy",
+            "probability": 0.4796000123023987,
+            "quantity": 740
+          },
+          {
+            "description": "Titan of Commerce",
+            "name": "Tycho Nestoris",
+            "probability": 0.11509999632835388,
+            "quantity": 740
+          },
+          {
+            "description": "Young Wolf",
+            "name": "Robb Stark",
+            "probability": 0.11509999632835388,
+            "quantity": 740
+          },
+          {
+            "description": "Dragon Queen",
+            "name": "Daenerys Targaryen",
+            "probability": 0.11509999632835388,
+            "quantity": 740
+          },
+          {
+            "description": "Lord of the Crossing",
+            "name": "Walder Frey",
+            "probability": 0.11509999632835388,
+            "quantity": 740
+          },
+          {
+            "description": "First White Walker",
+            "name": "Night King",
+            "probability": 0.007300000172108412,
+            "quantity": 1000
+          },
+          {
+            "description": "The Betrayed",
+            "name": "Theon Greyjoy",
+            "probability": 0.007300000172108412,
+            "quantity": 1000
+          },
+          {
+            "description": "Breaker of Chains",
+            "name": "Daenerys Targaryen",
+            "probability": 0.007300000172108412,
+            "quantity": 1000
+          },
+          {
+            "description": "The Vengeful",
+            "name": "Arya Stark",
+            "probability": 0.007300000172108412,
+            "quantity": 1000
+          },
+          {
+            "description": "Lord of Sunspear",
+            "name": "Doran Martell",
+            "probability": 0.03060000017285347,
+            "quantity": 1000
+          },
+          {
+            "description": "Used to perform a Royal Summon. Summons provide Hero Relics, Hero XP, Oaths, and other rewards.",
+            "name": "Royal Seal",
+            "probability": 1.0,
+            "quantity": 10
+          },
+          {
+            "description": "Oaths are used to upgrade Hero Stars.",
+            "name": "Oaths",
+            "probability": 0.05000000074505806,
+            "quantity": 400
+          },
+          {
+            "description": "Oaths are used to upgrade Hero Stars.",
+            "name": "Oaths",
+            "probability": 0.009999999776482582,
+            "quantity": 5000
+          },
+          {
+            "description": "Oaths are used to upgrade Hero Stars.",
+            "name": "Oaths",
+            "probability": 0.25,
+            "quantity": 56
+          },
+          {
+            "description": "Oaths are used to upgrade Hero Stars.",
+            "name": "Oaths",
+            "probability": 0.0010000000474974513,
+            "quantity": 60000
+          }
+        ]
+      }
+    ],
+    "time_str": "JUN23"
+  },
+  {
+    "category": "noble",
+    "description": "Noble Summons contain the following rewards:\n* Relics for Rare, Heroic, and Mythic Heroes\n* Hero XP\n* Oaths\n* Royal Seals",
+    "heroes": "TyrionMissandei",
+    "id": "b658c2fe59bc5e78",
+    "name": "Noble Summon",
+    "purchase_options": [
+      {
+        "name": "summon_purchase_noble_TyrionMissandeiJUN23_Hero_1x_top",
+        "odds": [
+          {
+            "description": "Apply Hero XP to Heroes to increase their Hero Level.",
+            "name": "10,000 Hero XP",
+            "probability": 0.0066999997943639755,
+            "quantity": 3
+          },
+          {
+            "description": "Apply Hero XP to Heroes to increase their Hero Level.",
+            "name": "1,000 Hero XP",
+            "probability": 0.034699998795986176,
+            "quantity": 3
+          },
+          {
+            "description": "Apply Hero XP to Heroes to increase their Hero Level.",
+            "name": "100 Hero XP",
+            "probability": 0.1785999983549118,
+            "quantity": 3
+          },
+          {
+            "description": "Maester of Winterfell",
+            "name": "Maester Luwin",
+            "probability": 0.1080000028014183,
+            "quantity": 550
+          },
+          {
+            "description": "Northern Dreamer",
+            "name": "Sansa Stark",
+            "probability": 0.1080000028014183,
+            "quantity": 550
+          },
+          {
+            "description": "Heir to Winterfell",
+            "name": "Robb Stark",
+            "probability": 0.1080000028014183,
+            "quantity": 550
+          },
+          {
+            "description": "First Ranger",
+            "name": "Benjen Stark",
+            "probability": 0.1080000028014183,
+            "quantity": 550
+          },
+          {
+            "description": "Apprentice Blacksmith",
+            "name": "Gendry",
+            "probability": 0.1080000028014183,
+            "quantity": 550
+          },
+          {
+            "description": "Herald of the Dragon",
+            "name": "Missandei",
+            "probability": 0.09179999679327011,
+            "quantity": 740
+          },
+          {
+            "description": "King's Betrothed",
+            "name": "Margaery Tyrell",
+            "probability": 0.02199999988079071,
+            "quantity": 740
+          },
+          {
+            "description": "Loyal Servant",
+            "name": "Maester Luwin",
+            "probability": 0.02199999988079071,
+            "quantity": 740
+          },
+          {
+            "description": "Pirate Lord",
+            "name": "Salladhor Saan",
+            "probability": 0.02199999988079071,
+            "quantity": 740
+          },
+          {
+            "description": "Knight of Flowers",
+            "name": "Loras Tyrell",
+            "probability": 0.02199999988079071,
+            "quantity": 740
+          },
+          {
+            "description": "Faceless Assassin",
+            "name": "Jaqen H'ghar",
+            "probability": 0.007300000172108412,
+            "quantity": 1000
+          },
+          {
+            "description": "Hand of the King",
+            "name": "Tyrion Lannister",
+            "probability": 0.03060000017285347,
+            "quantity": 1000
+          },
+          {
+            "description": "The Mountain",
+            "name": "Gregor Clegane",
+            "probability": 0.007300000172108412,
+            "quantity": 1000
+          },
+          {
+            "description": "Queen Regent",
+            "name": "Cersei Lannister",
+            "probability": 0.007300000172108412,
+            "quantity": 1000
+          },
+          {
+            "description": "Lord Commander of the Kingsguard",
+            "name": "Barristan Selmy",
+            "probability": 0.007300000172108412,
+            "quantity": 1000
+          },
+          {
+            "description": "Used to perform a Royal Summon. Summons provide Hero Relics, Hero XP, Oaths, and other rewards.",
+            "name": "Royal Seal",
+            "probability": 1.0,
+            "quantity": 10
+          },
+          {
+            "description": "Oaths are used to upgrade Hero Stars.",
+            "name": "Oaths",
+            "probability": 0.05000000074505806,
+            "quantity": 400
+          },
+          {
+            "description": "Oaths are used to upgrade Hero Stars.",
+            "name": "Oaths",
+            "probability": 0.009999999776482582,
+            "quantity": 5000
+          },
+          {
+            "description": "Oaths are used to upgrade Hero Stars.",
+            "name": "Oaths",
+            "probability": 0.25,
+            "quantity": 56
+          },
+          {
+            "description": "Oaths are used to upgrade Hero Stars.",
+            "name": "Oaths",
+            "probability": 0.0010000000474974513,
+            "quantity": 60000
+          }
+        ]
+      },
+      {
+        "name": "summon_purchase_noble_TyrionMissandeiJUN23_Hero_10x_top",
+        "odds": [
+          {
+            "description": "Used to perform a Royal Summon. Summons provide Hero Relics, Hero XP, Oaths, and other rewards.",
+            "name": "Royal Seal",
+            "probability": 1.0,
+            "quantity": 10
+          },
+          {
+            "description": "Oaths are used to upgrade Hero Stars.",
+            "name": "Oaths",
+            "probability": 0.05000000074505806,
+            "quantity": 400
+          },
+          {
+            "description": "Oaths are used to upgrade Hero Stars.",
+            "name": "Oaths",
+            "probability": 0.009999999776482582,
+            "quantity": 5000
+          },
+          {
+            "description": "Oaths are used to upgrade Hero Stars.",
+            "name": "Oaths",
+            "probability": 0.25,
+            "quantity": 56
+          },
+          {
+            "description": "Oaths are used to upgrade Hero Stars.",
+            "name": "Oaths",
+            "probability": 0.0010000000474974513,
+            "quantity": 60000
+          },
+          {
+            "description": "Apply Hero XP to Heroes to increase their Hero Level.",
+            "name": "10,000 Hero XP",
+            "probability": 0.0066999997943639755,
+            "quantity": 3
+          },
+          {
+            "description": "Apply Hero XP to Heroes to increase their Hero Level.",
+            "name": "1,000 Hero XP",
+            "probability": 0.034699998795986176,
+            "quantity": 3
+          },
+          {
+            "description": "Apply Hero XP to Heroes to increase their Hero Level.",
+            "name": "100 Hero XP",
+            "probability": 0.1785999983549118,
+            "quantity": 3
+          },
+          {
+            "description": "Maester of Winterfell",
+            "name": "Maester Luwin",
+            "probability": 0.1080000028014183,
+            "quantity": 550
+          },
+          {
+            "description": "Northern Dreamer",
+            "name": "Sansa Stark",
+            "probability": 0.1080000028014183,
+            "quantity": 550
+          },
+          {
+            "description": "Heir to Winterfell",
+            "name": "Robb Stark",
+            "probability": 0.1080000028014183,
+            "quantity": 550
+          },
+          {
+            "description": "First Ranger",
+            "name": "Benjen Stark",
+            "probability": 0.1080000028014183,
+            "quantity": 550
+          },
+          {
+            "description": "Apprentice Blacksmith",
+            "name": "Gendry",
+            "probability": 0.1080000028014183,
+            "quantity": 550
+          },
+          {
+            "description": "Herald of the Dragon",
+            "name": "Missandei",
+            "probability": 0.09179999679327011,
+            "quantity": 740
+          },
+          {
+            "description": "King's Betrothed",
+            "name": "Margaery Tyrell",
+            "probability": 0.02199999988079071,
+            "quantity": 740
+          },
+          {
+            "description": "Loyal Servant",
+            "name": "Maester Luwin",
+            "probability": 0.02199999988079071,
+            "quantity": 740
+          },
+          {
+            "description": "Pirate Lord",
+            "name": "Salladhor Saan",
+            "probability": 0.02199999988079071,
+            "quantity": 740
+          },
+          {
+            "description": "Knight of Flowers",
+            "name": "Loras Tyrell",
+            "probability": 0.02199999988079071,
+            "quantity": 740
+          },
+          {
+            "description": "Faceless Assassin",
+            "name": "Jaqen H'ghar",
+            "probability": 0.007300000172108412,
+            "quantity": 1000
+          },
+          {
+            "description": "Hand of the King",
+            "name": "Tyrion Lannister",
+            "probability": 0.03060000017285347,
+            "quantity": 1000
+          },
+          {
+            "description": "The Mountain",
+            "name": "Gregor Clegane",
+            "probability": 0.007300000172108412,
+            "quantity": 1000
+          },
+          {
+            "description": "Queen Regent",
+            "name": "Cersei Lannister",
+            "probability": 0.007300000172108412,
+            "quantity": 1000
+          },
+          {
+            "description": "Lord Commander of the Kingsguard",
+            "name": "Barristan Selmy",
+            "probability": 0.007300000172108412,
+            "quantity": 1000
+          },
+          {
+            "description": "Herald of the Dragon",
+            "name": "Missandei",
+            "probability": 0.4796000123023987,
+            "quantity": 740
+          },
+          {
+            "description": "King's Betrothed",
+            "name": "Margaery Tyrell",
+            "probability": 0.11509999632835388,
+            "quantity": 740
+          },
+          {
+            "description": "Loyal Servant",
+            "name": "Maester Luwin",
+            "probability": 0.11509999632835388,
+            "quantity": 740
+          },
+          {
+            "description": "Pirate Lord",
+            "name": "Salladhor Saan",
+            "probability": 0.11509999632835388,
+            "quantity": 740
+          },
+          {
+            "description": "Knight of Flowers",
+            "name": "Loras Tyrell",
+            "probability": 0.11509999632835388,
+            "quantity": 740
+          },
+          {
+            "description": "Faceless Assassin",
+            "name": "Jaqen H'ghar",
+            "probability": 0.007300000172108412,
+            "quantity": 1000
+          },
+          {
+            "description": "Hand of the King",
+            "name": "Tyrion Lannister",
+            "probability": 0.03060000017285347,
+            "quantity": 1000
+          },
+          {
+            "description": "The Mountain",
+            "name": "Gregor Clegane",
+            "probability": 0.007300000172108412,
+            "quantity": 1000
+          },
+          {
+            "description": "Queen Regent",
+            "name": "Cersei Lannister",
+            "probability": 0.007300000172108412,
+            "quantity": 1000
+          },
+          {
+            "description": "Lord Commander of the Kingsguard",
+            "name": "Barristan Selmy",
+            "probability": 0.007300000172108412,
+            "quantity": 1000
+          },
+          {
+            "description": "Used to perform a Royal Summon. Summons provide Hero Relics, Hero XP, Oaths, and other rewards.",
+            "name": "Royal Seal",
+            "probability": 1.0,
+            "quantity": 10
+          },
+          {
+            "description": "Oaths are used to upgrade Hero Stars.",
+            "name": "Oaths",
+            "probability": 0.05000000074505806,
+            "quantity": 400
+          },
+          {
+            "description": "Oaths are used to upgrade Hero Stars.",
+            "name": "Oaths",
+            "probability": 0.009999999776482582,
+            "quantity": 5000
+          },
+          {
+            "description": "Oaths are used to upgrade Hero Stars.",
+            "name": "Oaths",
+            "probability": 0.25,
+            "quantity": 56
+          },
+          {
+            "description": "Oaths are used to upgrade Hero Stars.",
+            "name": "Oaths",
+            "probability": 0.0010000000474974513,
+            "quantity": 60000
+          }
+        ]
+      }
+    ],
+    "time_str": "JUN23"
+  },
+  {
+    "category": "noble",
+    "description": "Noble Summons contain the following rewards:\n* Relics for Rare, Heroic, and Mythic Heroes\n* Hero XP\n* Oaths\n* Royal Seals",
+    "heroes": "SyrioOldNan",
+    "id": "f331b440e33716f9",
+    "name": "Noble Summon",
+    "purchase_options": [
+      {
+        "name": "summon_purchase_noble_SyrioOldNanJUN23_Hero_1x_top",
+        "odds": [
+          {
+            "description": "Apply Hero XP to Heroes to increase their Hero Level.",
+            "name": "10,000 Hero XP",
+            "probability": 0.0066999997943639755,
+            "quantity": 3
+          },
+          {
+            "description": "Apply Hero XP to Heroes to increase their Hero Level.",
+            "name": "1,000 Hero XP",
+            "probability": 0.034699998795986176,
+            "quantity": 3
+          },
+          {
+            "description": "Apply Hero XP to Heroes to increase their Hero Level.",
+            "name": "100 Hero XP",
+            "probability": 0.1785999983549118,
+            "quantity": 3
+          },
+          {
+            "description": "Maester of Winterfell",
+            "name": "Maester Luwin",
+            "probability": 0.1080000028014183,
+            "quantity": 550
+          },
+          {
+            "description": "Northern Dreamer",
+            "name": "Sansa Stark",
+            "probability": 0.1080000028014183,
+            "quantity": 550
+          },
+          {
+            "description": "Heir to Winterfell",
+            "name": "Robb Stark",
+            "probability": 0.1080000028014183,
+            "quantity": 550
+          },
+          {
+            "description": "First Ranger",
+            "name": "Benjen Stark",
+            "probability": 0.1080000028014183,
+            "quantity": 550
+          },
+          {
+            "description": "Apprentice Blacksmith",
+            "name": "Gendry",
+            "probability": 0.1080000028014183,
+            "quantity": 550
+          },
+          {
+            "description": "Hand of the Queen",
+            "name": "Tyrion Lannister",
+            "probability": 0.02199999988079071,
+            "quantity": 740
+          },
+          {
+            "description": "Weaver of Tales",
+            "name": "Old Nan",
+            "probability": 0.09179999679327011,
+            "quantity": 740
+          },
+          {
+            "description": "Lord Reaper",
+            "name": "Balon Greyjoy",
+            "probability": 0.02199999988079071,
+            "quantity": 740
+          },
+          {
+            "description": "Kingsguard",
+            "name": "Jaime Lannister",
+            "probability": 0.02199999988079071,
+            "quantity": 740
+          },
+          {
+            "description": "Water Dancer",
+            "name": "Arya Stark",
+            "probability": 0.02199999988079071,
+            "quantity": 740
+          },
+          {
+            "description": "Greenseer",
+            "name": "Three-Eyed Raven",
+            "probability": 0.007300000172108412,
+            "quantity": 1000
+          },
+          {
+            "description": "Keeper of the Realm",
+            "name": "Varys",
+            "probability": 0.007300000172108412,
+            "quantity": 1000
+          },
+          {
+            "description": "Mother of Snakes",
+            "name": "Ellaria Sand",
+            "probability": 0.007300000172108412,
+            "quantity": 1000
+          },
+          {
+            "description": "First Sword of Braavos",
+            "name": "Syrio Forel",
+            "probability": 0.03060000017285347,
+            "quantity": 1000
+          },
+          {
+            "description": "Lord Commander",
+            "name": "Jon Snow",
+            "probability": 0.007300000172108412,
+            "quantity": 1000
+          },
+          {
+            "description": "Used to perform a Royal Summon. Summons provide Hero Relics, Hero XP, Oaths, and other rewards.",
+            "name": "Royal Seal",
+            "probability": 1.0,
+            "quantity": 10
+          },
+          {
+            "description": "Oaths are used to upgrade Hero Stars.",
+            "name": "Oaths",
+            "probability": 0.05000000074505806,
+            "quantity": 400
+          },
+          {
+            "description": "Oaths are used to upgrade Hero Stars.",
+            "name": "Oaths",
+            "probability": 0.009999999776482582,
+            "quantity": 5000
+          },
+          {
+            "description": "Oaths are used to upgrade Hero Stars.",
+            "name": "Oaths",
+            "probability": 0.25,
+            "quantity": 56
+          },
+          {
+            "description": "Oaths are used to upgrade Hero Stars.",
+            "name": "Oaths",
+            "probability": 0.0010000000474974513,
+            "quantity": 60000
+          }
+        ]
+      },
+      {
+        "name": "summon_purchase_noble_SyrioOldNanJUN23_Hero_10x_top",
+        "odds": [
+          {
+            "description": "Used to perform a Royal Summon. Summons provide Hero Relics, Hero XP, Oaths, and other rewards.",
+            "name": "Royal Seal",
+            "probability": 1.0,
+            "quantity": 10
+          },
+          {
+            "description": "Oaths are used to upgrade Hero Stars.",
+            "name": "Oaths",
+            "probability": 0.05000000074505806,
+            "quantity": 400
+          },
+          {
+            "description": "Oaths are used to upgrade Hero Stars.",
+            "name": "Oaths",
+            "probability": 0.009999999776482582,
+            "quantity": 5000
+          },
+          {
+            "description": "Oaths are used to upgrade Hero Stars.",
+            "name": "Oaths",
+            "probability": 0.25,
+            "quantity": 56
+          },
+          {
+            "description": "Oaths are used to upgrade Hero Stars.",
+            "name": "Oaths",
+            "probability": 0.0010000000474974513,
+            "quantity": 60000
+          },
+          {
+            "description": "Apply Hero XP to Heroes to increase their Hero Level.",
+            "name": "10,000 Hero XP",
+            "probability": 0.0066999997943639755,
+            "quantity": 3
+          },
+          {
+            "description": "Apply Hero XP to Heroes to increase their Hero Level.",
+            "name": "1,000 Hero XP",
+            "probability": 0.034699998795986176,
+            "quantity": 3
+          },
+          {
+            "description": "Apply Hero XP to Heroes to increase their Hero Level.",
+            "name": "100 Hero XP",
+            "probability": 0.1785999983549118,
+            "quantity": 3
+          },
+          {
+            "description": "Maester of Winterfell",
+            "name": "Maester Luwin",
+            "probability": 0.1080000028014183,
+            "quantity": 550
+          },
+          {
+            "description": "Northern Dreamer",
+            "name": "Sansa Stark",
+            "probability": 0.1080000028014183,
+            "quantity": 550
+          },
+          {
+            "description": "Heir to Winterfell",
+            "name": "Robb Stark",
+            "probability": 0.1080000028014183,
+            "quantity": 550
+          },
+          {
+            "description": "First Ranger",
+            "name": "Benjen Stark",
+            "probability": 0.1080000028014183,
+            "quantity": 550
+          },
+          {
+            "description": "Apprentice Blacksmith",
+            "name": "Gendry",
+            "probability": 0.1080000028014183,
+            "quantity": 550
+          },
+          {
+            "description": "Hand of the Queen",
+            "name": "Tyrion Lannister",
+            "probability": 0.02199999988079071,
+            "quantity": 740
+          },
+          {
+            "description": "Weaver of Tales",
+            "name": "Old Nan",
+            "probability": 0.09179999679327011,
+            "quantity": 740
+          },
+          {
+            "description": "Lord Reaper",
+            "name": "Balon Greyjoy",
+            "probability": 0.02199999988079071,
+            "quantity": 740
+          },
+          {
+            "description": "Kingsguard",
+            "name": "Jaime Lannister",
+            "probability": 0.02199999988079071,
+            "quantity": 740
+          },
+          {
+            "description": "Water Dancer",
+            "name": "Arya Stark",
+            "probability": 0.02199999988079071,
+            "quantity": 740
+          },
+          {
+            "description": "Greenseer",
+            "name": "Three-Eyed Raven",
+            "probability": 0.007300000172108412,
+            "quantity": 1000
+          },
+          {
+            "description": "Keeper of the Realm",
+            "name": "Varys",
+            "probability": 0.007300000172108412,
+            "quantity": 1000
+          },
+          {
+            "description": "Mother of Snakes",
+            "name": "Ellaria Sand",
+            "probability": 0.007300000172108412,
+            "quantity": 1000
+          },
+          {
+            "description": "First Sword of Braavos",
+            "name": "Syrio Forel",
+            "probability": 0.03060000017285347,
+            "quantity": 1000
+          },
+          {
+            "description": "Lord Commander",
+            "name": "Jon Snow",
+            "probability": 0.007300000172108412,
+            "quantity": 1000
+          },
+          {
+            "description": "Hand of the Queen",
+            "name": "Tyrion Lannister",
+            "probability": 0.11509999632835388,
+            "quantity": 740
+          },
+          {
+            "description": "Weaver of Tales",
+            "name": "Old Nan",
+            "probability": 0.4796000123023987,
+            "quantity": 740
+          },
+          {
+            "description": "Lord Reaper",
+            "name": "Balon Greyjoy",
+            "probability": 0.11509999632835388,
+            "quantity": 740
+          },
+          {
+            "description": "Kingsguard",
+            "name": "Jaime Lannister",
+            "probability": 0.11509999632835388,
+            "quantity": 740
+          },
+          {
+            "description": "Water Dancer",
+            "name": "Arya Stark",
+            "probability": 0.11509999632835388,
+            "quantity": 740
+          },
+          {
+            "description": "Greenseer",
+            "name": "Three-Eyed Raven",
+            "probability": 0.007300000172108412,
+            "quantity": 1000
+          },
+          {
+            "description": "Keeper of the Realm",
+            "name": "Varys",
+            "probability": 0.007300000172108412,
+            "quantity": 1000
+          },
+          {
+            "description": "Mother of Snakes",
+            "name": "Ellaria Sand",
+            "probability": 0.007300000172108412,
+            "quantity": 1000
+          },
+          {
+            "description": "First Sword of Braavos",
+            "name": "Syrio Forel",
+            "probability": 0.03060000017285347,
+            "quantity": 1000
+          },
+          {
+            "description": "Lord Commander",
+            "name": "Jon Snow",
+            "probability": 0.007300000172108412,
+            "quantity": 1000
+          },
+          {
+            "description": "Used to perform a Royal Summon. Summons provide Hero Relics, Hero XP, Oaths, and other rewards.",
+            "name": "Royal Seal",
+            "probability": 1.0,
+            "quantity": 10
+          },
+          {
+            "description": "Oaths are used to upgrade Hero Stars.",
+            "name": "Oaths",
+            "probability": 0.05000000074505806,
+            "quantity": 400
+          },
+          {
+            "description": "Oaths are used to upgrade Hero Stars.",
+            "name": "Oaths",
+            "probability": 0.009999999776482582,
+            "quantity": 5000
+          },
+          {
+            "description": "Oaths are used to upgrade Hero Stars.",
+            "name": "Oaths",
+            "probability": 0.25,
+            "quantity": 56
+          },
+          {
+            "description": "Oaths are used to upgrade Hero Stars.",
+            "name": "Oaths",
+            "probability": 0.0010000000474974513,
+            "quantity": 60000
+          }
+        ]
+      }
+    ],
+    "time_str": "JUN23"
+  },
+  {
+    "category": "royal",
+    "description": "Royal Summons contain the following rewards:\n* Relics for Heroic and Mythic Heroes\n* Hero XP\n* Oaths",
+    "heroes": "PetyrEllaria",
+    "id": "83c8f4d2630591d9",
+    "name": "Royal Summon",
+    "purchase_options": [
+      {
+        "name": "summon_purchase_royal_PetyrEllariaJUN23_Gold_1x_top",
+        "odds": [
+          {
+            "description": "Apply Hero XP to Heroes to increase their Hero Level.",
+            "name": "10,000 Hero XP",
+            "probability": 0.015599999576807022,
+            "quantity": 3
+          },
+          {
+            "description": "Apply Hero XP to Heroes to increase their Hero Level.",
+            "name": "1,000 Hero XP",
+            "probability": 0.20440000295639038,
+            "quantity": 3
+          },
+          {
+            "description": "Fallen Maester",
+            "name": "Qyburn",
+            "probability": 0.08079999685287476,
+            "quantity": 1400
+          },
+          {
+            "description": "Paramour",
+            "name": "Ellaria Sand",
+            "probability": 0.3366999924182892,
+            "quantity": 1400
+          },
+          {
+            "description": "The Spider",
+            "name": "Varys",
+            "probability": 0.08079999685287476,
+            "quantity": 1400
+          },
+          {
+            "description": "The Archer",
+            "name": "Anguy",
+            "probability": 0.08079999685287476,
+            "quantity": 1400
+          },
+          {
+            "description": "Queen Mother",
+            "name": "Cersei Lannister",
+            "probability": 0.08079999685287476,
+            "quantity": 1400
+          },
+          {
+            "description": "Stalwart Guardian",
+            "name": "Hodor",
+            "probability": 0.014700000174343586,
+            "quantity": 1850
+          },
+          {
+            "description": "The Unrequited",
+            "name": "Petyr Baelish",
+            "probability": 0.06120000034570694,
+            "quantity": 1850
+          },
+          {
+            "description": "Lord Paramount",
+            "name": "Renly Baratheon",
+            "probability": 0.014700000174343586,
+            "quantity": 1850
+          },
+          {
+            "description": "Quiet Wolf",
+            "name": "Young Ned",
+            "probability": 0.014700000174343586,
+            "quantity": 1850
+          },
+          {
+            "description": "Red Priest",
+            "name": "Thoros of Myr",
+            "probability": 0.014700000174343586,
+            "quantity": 1850
+          },
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "probability": 0.009999999776482582,
+            "quantity": 100000
+          },
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "probability": 0.0010000000474974513,
+            "quantity": 1400000
+          },
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "probability": 0.20000000298023224,
+            "quantity": 1500
+          }
+        ]
+      },
+      {
+        "name": "summon_purchase_royal_PetyrEllariaJUN23_Gold_10x_top",
+        "odds": [
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "probability": 0.009999999776482582,
+            "quantity": 100000
+          },
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "probability": 0.0010000000474974513,
+            "quantity": 1400000
+          },
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "probability": 0.20000000298023224,
+            "quantity": 1500
+          },
+          {
+            "description": "Apply Hero XP to Heroes to increase their Hero Level.",
+            "name": "10,000 Hero XP",
+            "probability": 0.015599999576807022,
+            "quantity": 3
+          },
+          {
+            "description": "Apply Hero XP to Heroes to increase their Hero Level.",
+            "name": "1,000 Hero XP",
+            "probability": 0.20440000295639038,
+            "quantity": 3
+          },
+          {
+            "description": "Fallen Maester",
+            "name": "Qyburn",
+            "probability": 0.08079999685287476,
+            "quantity": 1400
+          },
+          {
+            "description": "Paramour",
+            "name": "Ellaria Sand",
+            "probability": 0.3366999924182892,
+            "quantity": 1400
+          },
+          {
+            "description": "The Spider",
+            "name": "Varys",
+            "probability": 0.08079999685287476,
+            "quantity": 1400
+          },
+          {
+            "description": "The Archer",
+            "name": "Anguy",
+            "probability": 0.08079999685287476,
+            "quantity": 1400
+          },
+          {
+            "description": "Queen Mother",
+            "name": "Cersei Lannister",
+            "probability": 0.08079999685287476,
+            "quantity": 1400
+          },
+          {
+            "description": "Stalwart Guardian",
+            "name": "Hodor",
+            "probability": 0.014700000174343586,
+            "quantity": 1850
+          },
+          {
+            "description": "The Unrequited",
+            "name": "Petyr Baelish",
+            "probability": 0.06120000034570694,
+            "quantity": 1850
+          },
+          {
+            "description": "Lord Paramount",
+            "name": "Renly Baratheon",
+            "probability": 0.014700000174343586,
+            "quantity": 1850
+          },
+          {
+            "description": "Quiet Wolf",
+            "name": "Young Ned",
+            "probability": 0.014700000174343586,
+            "quantity": 1850
+          },
+          {
+            "description": "Red Priest",
+            "name": "Thoros of Myr",
+            "probability": 0.014700000174343586,
+            "quantity": 1850
+          },
+          {
+            "description": "Stalwart Guardian",
+            "name": "Hodor",
+            "probability": 0.12240000069141388,
+            "quantity": 1850
+          },
+          {
+            "description": "The Unrequited",
+            "name": "Petyr Baelish",
+            "probability": 0.510200023651123,
+            "quantity": 1850
+          },
+          {
+            "description": "Lord Paramount",
+            "name": "Renly Baratheon",
+            "probability": 0.12240000069141388,
+            "quantity": 1850
+          },
+          {
+            "description": "Quiet Wolf",
+            "name": "Young Ned",
+            "probability": 0.12240000069141388,
+            "quantity": 1850
+          },
+          {
+            "description": "Red Priest",
+            "name": "Thoros of Myr",
+            "probability": 0.12240000069141388,
+            "quantity": 1850
+          },
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "probability": 0.009999999776482582,
+            "quantity": 100000
+          },
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "probability": 0.0010000000474974513,
+            "quantity": 1400000
+          },
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "probability": 0.20000000298023224,
+            "quantity": 1500
+          }
+        ]
+      }
+    ],
+    "time_str": "JUN23"
+  },
+  {
+    "category": "royal",
+    "description": "Royal Summons contain the following rewards:\n* Relics for Heroic and Mythic Heroes\n* Hero XP\n* Oaths",
+    "heroes": "DoranYara",
+    "id": "d7972a14df530b0",
+    "name": "Royal Summon",
+    "purchase_options": [
+      {
+        "name": "summon_purchase_royal_DoranYaraJUN23_Gold_1x_top",
+        "odds": [
+          {
+            "description": "Apply Hero XP to Heroes to increase their Hero Level.",
+            "name": "10,000 Hero XP",
+            "probability": 0.015599999576807022,
+            "quantity": 3
+          },
+          {
+            "description": "Apply Hero XP to Heroes to increase their Hero Level.",
+            "name": "1,000 Hero XP",
+            "probability": 0.20440000295639038,
+            "quantity": 3
+          },
+          {
+            "description": "Ironborn Raider",
+            "name": "Yara Greyjoy",
+            "probability": 0.3366999924182892,
+            "quantity": 1400
+          },
+          {
+            "description": "Titan of Commerce",
+            "name": "Tycho Nestoris",
+            "probability": 0.08079999685287476,
+            "quantity": 1400
+          },
+          {
+            "description": "Young Wolf",
+            "name": "Robb Stark",
+            "probability": 0.08079999685287476,
+            "quantity": 1400
+          },
+          {
+            "description": "Dragon Queen",
+            "name": "Daenerys Targaryen",
+            "probability": 0.08079999685287476,
+            "quantity": 1400
+          },
+          {
+            "description": "Lord of the Crossing",
+            "name": "Walder Frey",
+            "probability": 0.08079999685287476,
+            "quantity": 1400
+          },
+          {
+            "description": "First White Walker",
+            "name": "Night King",
+            "probability": 0.014700000174343586,
+            "quantity": 1850
+          },
+          {
+            "description": "The Betrayed",
+            "name": "Theon Greyjoy",
+            "probability": 0.014700000174343586,
+            "quantity": 1850
+          },
+          {
+            "description": "Breaker of Chains",
+            "name": "Daenerys Targaryen",
+            "probability": 0.014700000174343586,
+            "quantity": 1850
+          },
+          {
+            "description": "The Vengeful",
+            "name": "Arya Stark",
+            "probability": 0.014700000174343586,
+            "quantity": 1850
+          },
+          {
+            "description": "Lord of Sunspear",
+            "name": "Doran Martell",
+            "probability": 0.06120000034570694,
+            "quantity": 1850
+          },
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "probability": 0.009999999776482582,
+            "quantity": 100000
+          },
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "probability": 0.0010000000474974513,
+            "quantity": 1400000
+          },
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "probability": 0.20000000298023224,
+            "quantity": 1500
+          }
+        ]
+      },
+      {
+        "name": "summon_purchase_royal_DoranYaraJUN23_Gold_10x_top",
+        "odds": [
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "probability": 0.009999999776482582,
+            "quantity": 100000
+          },
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "probability": 0.0010000000474974513,
+            "quantity": 1400000
+          },
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "probability": 0.20000000298023224,
+            "quantity": 1500
+          },
+          {
+            "description": "Apply Hero XP to Heroes to increase their Hero Level.",
+            "name": "10,000 Hero XP",
+            "probability": 0.015599999576807022,
+            "quantity": 3
+          },
+          {
+            "description": "Apply Hero XP to Heroes to increase their Hero Level.",
+            "name": "1,000 Hero XP",
+            "probability": 0.20440000295639038,
+            "quantity": 3
+          },
+          {
+            "description": "Ironborn Raider",
+            "name": "Yara Greyjoy",
+            "probability": 0.3366999924182892,
+            "quantity": 1400
+          },
+          {
+            "description": "Titan of Commerce",
+            "name": "Tycho Nestoris",
+            "probability": 0.08079999685287476,
+            "quantity": 1400
+          },
+          {
+            "description": "Young Wolf",
+            "name": "Robb Stark",
+            "probability": 0.08079999685287476,
+            "quantity": 1400
+          },
+          {
+            "description": "Dragon Queen",
+            "name": "Daenerys Targaryen",
+            "probability": 0.08079999685287476,
+            "quantity": 1400
+          },
+          {
+            "description": "Lord of the Crossing",
+            "name": "Walder Frey",
+            "probability": 0.08079999685287476,
+            "quantity": 1400
+          },
+          {
+            "description": "First White Walker",
+            "name": "Night King",
+            "probability": 0.014700000174343586,
+            "quantity": 1850
+          },
+          {
+            "description": "The Betrayed",
+            "name": "Theon Greyjoy",
+            "probability": 0.014700000174343586,
+            "quantity": 1850
+          },
+          {
+            "description": "Breaker of Chains",
+            "name": "Daenerys Targaryen",
+            "probability": 0.014700000174343586,
+            "quantity": 1850
+          },
+          {
+            "description": "The Vengeful",
+            "name": "Arya Stark",
+            "probability": 0.014700000174343586,
+            "quantity": 1850
+          },
+          {
+            "description": "Lord of Sunspear",
+            "name": "Doran Martell",
+            "probability": 0.06120000034570694,
+            "quantity": 1850
+          },
+          {
+            "description": "First White Walker",
+            "name": "Night King",
+            "probability": 0.12240000069141388,
+            "quantity": 1850
+          },
+          {
+            "description": "The Betrayed",
+            "name": "Theon Greyjoy",
+            "probability": 0.12240000069141388,
+            "quantity": 1850
+          },
+          {
+            "description": "Breaker of Chains",
+            "name": "Daenerys Targaryen",
+            "probability": 0.12240000069141388,
+            "quantity": 1850
+          },
+          {
+            "description": "The Vengeful",
+            "name": "Arya Stark",
+            "probability": 0.12240000069141388,
+            "quantity": 1850
+          },
+          {
+            "description": "Lord of Sunspear",
+            "name": "Doran Martell",
+            "probability": 0.510200023651123,
+            "quantity": 1850
+          },
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "probability": 0.009999999776482582,
+            "quantity": 100000
+          },
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "probability": 0.0010000000474974513,
+            "quantity": 1400000
+          },
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "probability": 0.20000000298023224,
+            "quantity": 1500
+          }
+        ]
+      }
+    ],
+    "time_str": "JUN23"
+  },
+  {
+    "category": "royal",
+    "description": "Royal Summons contain the following rewards:\n* Relics for Heroic and Mythic Heroes\n* Hero XP\n* Oaths",
+    "heroes": "TyrionMissandei",
+    "id": "141b30e9f6dddc11",
+    "name": "Royal Summon",
+    "purchase_options": [
+      {
+        "name": "summon_purchase_royal_TyrionMissandeiJUN23_Gold_1x_top",
+        "odds": [
+          {
+            "description": "Apply Hero XP to Heroes to increase their Hero Level.",
+            "name": "10,000 Hero XP",
+            "probability": 0.015599999576807022,
+            "quantity": 3
+          },
+          {
+            "description": "Apply Hero XP to Heroes to increase their Hero Level.",
+            "name": "1,000 Hero XP",
+            "probability": 0.20440000295639038,
+            "quantity": 3
+          },
+          {
+            "description": "Herald of the Dragon",
+            "name": "Missandei",
+            "probability": 0.3366999924182892,
+            "quantity": 1400
+          },
+          {
+            "description": "King's Betrothed",
+            "name": "Margaery Tyrell",
+            "probability": 0.08079999685287476,
+            "quantity": 1400
+          },
+          {
+            "description": "Loyal Servant",
+            "name": "Maester Luwin",
+            "probability": 0.08079999685287476,
+            "quantity": 1400
+          },
+          {
+            "description": "Pirate Lord",
+            "name": "Salladhor Saan",
+            "probability": 0.08079999685287476,
+            "quantity": 1400
+          },
+          {
+            "description": "Knight of Flowers",
+            "name": "Loras Tyrell",
+            "probability": 0.08079999685287476,
+            "quantity": 1400
+          },
+          {
+            "description": "Faceless Assassin",
+            "name": "Jaqen H'ghar",
+            "probability": 0.014700000174343586,
+            "quantity": 1850
+          },
+          {
+            "description": "Hand of the King",
+            "name": "Tyrion Lannister",
+            "probability": 0.06120000034570694,
+            "quantity": 1850
+          },
+          {
+            "description": "The Mountain",
+            "name": "Gregor Clegane",
+            "probability": 0.014700000174343586,
+            "quantity": 1850
+          },
+          {
+            "description": "Queen Regent",
+            "name": "Cersei Lannister",
+            "probability": 0.014700000174343586,
+            "quantity": 1850
+          },
+          {
+            "description": "Lord Commander of the Kingsguard",
+            "name": "Barristan Selmy",
+            "probability": 0.014700000174343586,
+            "quantity": 1850
+          },
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "probability": 0.009999999776482582,
+            "quantity": 100000
+          },
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "probability": 0.0010000000474974513,
+            "quantity": 1400000
+          },
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "probability": 0.20000000298023224,
+            "quantity": 1500
+          }
+        ]
+      },
+      {
+        "name": "summon_purchase_royal_TyrionMissandeiJUN23_Gold_10x_top",
+        "odds": [
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "probability": 0.009999999776482582,
+            "quantity": 100000
+          },
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "probability": 0.0010000000474974513,
+            "quantity": 1400000
+          },
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "probability": 0.20000000298023224,
+            "quantity": 1500
+          },
+          {
+            "description": "Apply Hero XP to Heroes to increase their Hero Level.",
+            "name": "10,000 Hero XP",
+            "probability": 0.015599999576807022,
+            "quantity": 3
+          },
+          {
+            "description": "Apply Hero XP to Heroes to increase their Hero Level.",
+            "name": "1,000 Hero XP",
+            "probability": 0.20440000295639038,
+            "quantity": 3
+          },
+          {
+            "description": "Herald of the Dragon",
+            "name": "Missandei",
+            "probability": 0.3366999924182892,
+            "quantity": 1400
+          },
+          {
+            "description": "King's Betrothed",
+            "name": "Margaery Tyrell",
+            "probability": 0.08079999685287476,
+            "quantity": 1400
+          },
+          {
+            "description": "Loyal Servant",
+            "name": "Maester Luwin",
+            "probability": 0.08079999685287476,
+            "quantity": 1400
+          },
+          {
+            "description": "Pirate Lord",
+            "name": "Salladhor Saan",
+            "probability": 0.08079999685287476,
+            "quantity": 1400
+          },
+          {
+            "description": "Knight of Flowers",
+            "name": "Loras Tyrell",
+            "probability": 0.08079999685287476,
+            "quantity": 1400
+          },
+          {
+            "description": "Faceless Assassin",
+            "name": "Jaqen H'ghar",
+            "probability": 0.014700000174343586,
+            "quantity": 1850
+          },
+          {
+            "description": "Hand of the King",
+            "name": "Tyrion Lannister",
+            "probability": 0.06120000034570694,
+            "quantity": 1850
+          },
+          {
+            "description": "The Mountain",
+            "name": "Gregor Clegane",
+            "probability": 0.014700000174343586,
+            "quantity": 1850
+          },
+          {
+            "description": "Queen Regent",
+            "name": "Cersei Lannister",
+            "probability": 0.014700000174343586,
+            "quantity": 1850
+          },
+          {
+            "description": "Lord Commander of the Kingsguard",
+            "name": "Barristan Selmy",
+            "probability": 0.014700000174343586,
+            "quantity": 1850
+          },
+          {
+            "description": "Faceless Assassin",
+            "name": "Jaqen H'ghar",
+            "probability": 0.12240000069141388,
+            "quantity": 1850
+          },
+          {
+            "description": "Hand of the King",
+            "name": "Tyrion Lannister",
+            "probability": 0.510200023651123,
+            "quantity": 1850
+          },
+          {
+            "description": "The Mountain",
+            "name": "Gregor Clegane",
+            "probability": 0.12240000069141388,
+            "quantity": 1850
+          },
+          {
+            "description": "Queen Regent",
+            "name": "Cersei Lannister",
+            "probability": 0.12240000069141388,
+            "quantity": 1850
+          },
+          {
+            "description": "Lord Commander of the Kingsguard",
+            "name": "Barristan Selmy",
+            "probability": 0.12240000069141388,
+            "quantity": 1850
+          },
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "probability": 0.009999999776482582,
+            "quantity": 100000
+          },
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "probability": 0.0010000000474974513,
+            "quantity": 1400000
+          },
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "probability": 0.20000000298023224,
+            "quantity": 1500
+          }
+        ]
+      }
+    ],
+    "time_str": "JUN23"
+  },
+  {
+    "category": "royal",
+    "description": "Royal Summons contain the following rewards:\n* Relics for Heroic and Mythic Heroes\n* Hero XP\n* Oaths",
+    "heroes": "SyrioOldNan",
+    "id": "4361d4a8d6a9b4f3",
+    "name": "Royal Summon",
+    "purchase_options": [
+      {
+        "name": "summon_purchase_royal_SyrioOldNanJUN23_Gold_1x_top",
+        "odds": [
+          {
+            "description": "Apply Hero XP to Heroes to increase their Hero Level.",
+            "name": "10,000 Hero XP",
+            "probability": 0.015599999576807022,
+            "quantity": 3
+          },
+          {
+            "description": "Apply Hero XP to Heroes to increase their Hero Level.",
+            "name": "1,000 Hero XP",
+            "probability": 0.20440000295639038,
+            "quantity": 3
+          },
+          {
+            "description": "Hand of the Queen",
+            "name": "Tyrion Lannister",
+            "probability": 0.08079999685287476,
+            "quantity": 1400
+          },
+          {
+            "description": "Weaver of Tales",
+            "name": "Old Nan",
+            "probability": 0.3366999924182892,
+            "quantity": 1400
+          },
+          {
+            "description": "Lord Reaper",
+            "name": "Balon Greyjoy",
+            "probability": 0.08079999685287476,
+            "quantity": 1400
+          },
+          {
+            "description": "Kingsguard",
+            "name": "Jaime Lannister",
+            "probability": 0.08079999685287476,
+            "quantity": 1400
+          },
+          {
+            "description": "Water Dancer",
+            "name": "Arya Stark",
+            "probability": 0.08079999685287476,
+            "quantity": 1400
+          },
+          {
+            "description": "Greenseer",
+            "name": "Three-Eyed Raven",
+            "probability": 0.014700000174343586,
+            "quantity": 1850
+          },
+          {
+            "description": "Keeper of the Realm",
+            "name": "Varys",
+            "probability": 0.014700000174343586,
+            "quantity": 1850
+          },
+          {
+            "description": "Mother of Snakes",
+            "name": "Ellaria Sand",
+            "probability": 0.014700000174343586,
+            "quantity": 1850
+          },
+          {
+            "description": "First Sword of Braavos",
+            "name": "Syrio Forel",
+            "probability": 0.06120000034570694,
+            "quantity": 1850
+          },
+          {
+            "description": "Lord Commander",
+            "name": "Jon Snow",
+            "probability": 0.014700000174343586,
+            "quantity": 1850
+          },
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "probability": 0.009999999776482582,
+            "quantity": 100000
+          },
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "probability": 0.0010000000474974513,
+            "quantity": 1400000
+          },
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "probability": 0.20000000298023224,
+            "quantity": 1500
+          }
+        ]
+      },
+      {
+        "name": "summon_purchase_royal_SyrioOldNanJUN23_Gold_10x_top",
+        "odds": [
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "probability": 0.009999999776482582,
+            "quantity": 100000
+          },
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "probability": 0.0010000000474974513,
+            "quantity": 1400000
+          },
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "probability": 0.20000000298023224,
+            "quantity": 1500
+          },
+          {
+            "description": "Apply Hero XP to Heroes to increase their Hero Level.",
+            "name": "10,000 Hero XP",
+            "probability": 0.015599999576807022,
+            "quantity": 3
+          },
+          {
+            "description": "Apply Hero XP to Heroes to increase their Hero Level.",
+            "name": "1,000 Hero XP",
+            "probability": 0.20440000295639038,
+            "quantity": 3
+          },
+          {
+            "description": "Hand of the Queen",
+            "name": "Tyrion Lannister",
+            "probability": 0.08079999685287476,
+            "quantity": 1400
+          },
+          {
+            "description": "Weaver of Tales",
+            "name": "Old Nan",
+            "probability": 0.3366999924182892,
+            "quantity": 1400
+          },
+          {
+            "description": "Lord Reaper",
+            "name": "Balon Greyjoy",
+            "probability": 0.08079999685287476,
+            "quantity": 1400
+          },
+          {
+            "description": "Kingsguard",
+            "name": "Jaime Lannister",
+            "probability": 0.08079999685287476,
+            "quantity": 1400
+          },
+          {
+            "description": "Water Dancer",
+            "name": "Arya Stark",
+            "probability": 0.08079999685287476,
+            "quantity": 1400
+          },
+          {
+            "description": "Greenseer",
+            "name": "Three-Eyed Raven",
+            "probability": 0.014700000174343586,
+            "quantity": 1850
+          },
+          {
+            "description": "Keeper of the Realm",
+            "name": "Varys",
+            "probability": 0.014700000174343586,
+            "quantity": 1850
+          },
+          {
+            "description": "Mother of Snakes",
+            "name": "Ellaria Sand",
+            "probability": 0.014700000174343586,
+            "quantity": 1850
+          },
+          {
+            "description": "First Sword of Braavos",
+            "name": "Syrio Forel",
+            "probability": 0.06120000034570694,
+            "quantity": 1850
+          },
+          {
+            "description": "Lord Commander",
+            "name": "Jon Snow",
+            "probability": 0.014700000174343586,
+            "quantity": 1850
+          },
+          {
+            "description": "Greenseer",
+            "name": "Three-Eyed Raven",
+            "probability": 0.12240000069141388,
+            "quantity": 1850
+          },
+          {
+            "description": "Keeper of the Realm",
+            "name": "Varys",
+            "probability": 0.12240000069141388,
+            "quantity": 1850
+          },
+          {
+            "description": "Mother of Snakes",
+            "name": "Ellaria Sand",
+            "probability": 0.12240000069141388,
+            "quantity": 1850
+          },
+          {
+            "description": "First Sword of Braavos",
+            "name": "Syrio Forel",
+            "probability": 0.510200023651123,
+            "quantity": 1850
+          },
+          {
+            "description": "Lord Commander",
+            "name": "Jon Snow",
+            "probability": 0.12240000069141388,
+            "quantity": 1850
+          },
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "probability": 0.009999999776482582,
+            "quantity": 100000
+          },
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "probability": 0.0010000000474974513,
+            "quantity": 1400000
+          },
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "probability": 0.20000000298023224,
+            "quantity": 1500
+          }
+        ]
+      }
+    ],
+    "time_str": "JUN23"
   }
 ]

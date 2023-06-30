@@ -1242,6 +1242,33 @@
       "ring_name": "prog_gearset_events_kingsguard2_ring",
       "weapon_id": "6612a30048834816",
       "weapon_name": "prog_gearset_events_kingsguard2_weapon"
+    },
+    {
+      "boots_id": "3d63c82159e0f5ae",
+      "boots_name": "prog_gearset_events_freedom2_boots",
+      "chest_id": "118748b6d7fc496",
+      "chest_name": "prog_gearset_events_freedom2_chest",
+      "color": {
+        "alpha": 255,
+        "blue": 34,
+        "green": 145,
+        "red": 184
+      },
+      "description_placeholder": "EQ_EVENTS_FREEDOM2_SET_DESCRIPTION",
+      "helmet_id": "a237d2ea2cdeb00b",
+      "helmet_name": "prog_gearset_events_freedom2_helmet",
+      "id": "50aa82bb7db979e4",
+      "material_id": 6358631436883520583,
+      "material_name": "mat_event_freedom2_1",
+      "name": "gearset_events_freedom2",
+      "name_placeholder": "EQ_EVENTS_FREEDOM2_SET_NAME",
+      "pants_id": "8450a2838ba754e7",
+      "pants_name": "prog_gearset_events_freedom2_pants",
+      "priority": 27900,
+      "ring_id": "63dcbb46e82ff431",
+      "ring_name": "prog_gearset_events_freedom2_ring",
+      "weapon_id": "d0621453451c06d8",
+      "weapon_name": "prog_gearset_events_freedom2_weapon"
     }
   ]
 }

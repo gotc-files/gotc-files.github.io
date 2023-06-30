@@ -2070,6 +2070,59 @@
         "herotrait_stark"
       ],
       "xp_progression_name": "prog_heroxp_heroic"
+    },
+    {
+      "description_placeholder": "HERO_GREYWORM_WARRIOROFASTAPOR_DESC",
+      "event_score_progression_name": "prog_hero_eventscore_heroic_1",
+      "id": "a3702b3d0a4dec8f",
+      "max_stars": 5,
+      "name": "hero_greyworm_warriorofastapor",
+      "name_placeholder": "HERO_GREYWORM_WARRIOROFASTAPOR_NAME",
+      "oath_progression_name": "prog_hero_adv_stones_cost_heroic_1",
+      "rarity": 3,
+      "relic_name": "item_hero_adv_greyworm_warriorofastapor_1",
+      "relic_progression_name": "prog_shardcost_heroic",
+      "skills": [
+        "heroskill_visgen_hero_greyworm_warriorofastapor_3",
+        "heroskill_visgen_hero_greyworm_warriorofastapor_4",
+        "heroskill_visgen_hero_greyworm_warriorofastapor_5",
+        "heroskill_visgen_hero_greyworm_warriorofastapor_6",
+        "heroskill_visgen_hero_greyworm_warriorofastapor_7",
+        "heroskill_visgen_hero_greyworm_warriorofastapor_1",
+        "heroskill_visgen_hero_greyworm_warriorofastapor_2"
+      ],
+      "traits": [
+        "herotrait_masterofships",
+        "herotrait_targaryen"
+      ],
+      "xp_progression_name": "prog_heroxp_heroic"
+    },
+    {
+      "description_placeholder": "HERO_LORASTYRELL_GALLANTKNIGHT_DESC",
+      "event_score_progression_name": "prog_hero_eventscore_mythic_1",
+      "id": "e2d5365fbed16aa7",
+      "max_stars": 6,
+      "name": "hero_lorastyrell_gallantknight",
+      "name_placeholder": "HERO_LORASTYRELL_GALLANTKNIGHT_NAME",
+      "oath_progression_name": "prog_hero_adv_stones_cost_mythic_1",
+      "rarity": 4,
+      "relic_name": "item_hero_adv_lorastyrell_gallantknight_1",
+      "relic_progression_name": "prog_shardcost_mythic",
+      "skills": [
+        "heroskill_visgen_hero_lorastyrell_gallantknight_3",
+        "heroskill_visgen_hero_lorastyrell_gallantknight_4",
+        "heroskill_visgen_hero_lorastyrell_gallantknight_5",
+        "heroskill_visgen_hero_lorastyrell_gallantknight_6",
+        "heroskill_visgen_hero_lorastyrell_gallantknight_7",
+        "heroskill_visgen_hero_lorastyrell_gallantknight_8",
+        "heroskill_visgen_hero_lorastyrell_gallantknight_1",
+        "heroskill_visgen_hero_lorastyrell_gallantknight_2"
+      ],
+      "traits": [
+        "herotrait_masterofcoins",
+        "herotrait_tyrell"
+      ],
+      "xp_progression_name": "prog_heroxp_mythic"
     }
   ]
 }

@@ -502,6 +502,19 @@
       "name": "armcol_trinket_northernartifacts_1",
       "name_placeholder": "EQ_TRINKET_NORTHERNARTIFACTS_1_SET_NAME",
       "priority": 22
+    },
+    {
+      "bonuses": [
+        "armcol_trinket_warriorwomenheirlooms_1_1",
+        "armcol_trinket_warriorwomenheirlooms_1_2",
+        "armcol_trinket_warriorwomenheirlooms_1_3",
+        "armcol_trinket_warriorwomenheirlooms_1_4"
+      ],
+      "gear_set_name": "gearset_trinketarmory_warriorwomenheirlooms_1",
+      "id": "8586df63a6273012",
+      "name": "armcol_trinket_warriorwomenheirlooms_1",
+      "name_placeholder": "EQ_TRINKET_WARRIORWOMENHEIRLOOMS_1_SET_NAME",
+      "priority": 23
     }
   ]
 }

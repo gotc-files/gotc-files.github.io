@@ -11546,6 +11546,257 @@
       "steel_cost": 520000000,
       "template_level": 45,
       "upgrade_time_seconds": 345600
+    },
+    {
+      "id": "f4b3358c0a785c9c",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_freedom2_1",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 10
+        }
+      ],
+      "name": "eq_events_trinket_freedom2_1_trinket_lord1",
+      "steel_cost": 500,
+      "template_level": 0,
+      "upgrade_time_seconds": 3600
+    },
+    {
+      "id": "33f5e7a45cc2e2f6",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_freedom2_1",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 10
+        }
+      ],
+      "name": "eq_events_trinket_freedom2_5_trinket_lord5",
+      "steel_cost": 4000,
+      "template_level": 1,
+      "upgrade_time_seconds": 3600
+    },
+    {
+      "id": "2cd07063db1e57d6",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_freedom2_1",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 20
+        }
+      ],
+      "name": "eq_events_trinket_freedom2_10_trinket_lord10",
+      "steel_cost": 36500,
+      "template_level": 5,
+      "upgrade_time_seconds": 7200
+    },
+    {
+      "id": "d1e2f3617c40eba",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_freedom2_1",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 120
+        }
+      ],
+      "name": "eq_events_trinket_freedom2_15_trinket_lord15",
+      "steel_cost": 148000,
+      "template_level": 10,
+      "upgrade_time_seconds": 21600
+    },
+    {
+      "id": "eace2da95613bb3",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_freedom2_1",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 400
+        }
+      ],
+      "name": "eq_events_trinket_freedom2_20_trinket_lord20",
+      "steel_cost": 534000,
+      "template_level": 15,
+      "upgrade_time_seconds": 43200
+    },
+    {
+      "id": "2f62bd8f59bb62df",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_freedom2_1",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 1200
+        }
+      ],
+      "name": "eq_events_trinket_freedom2_25_trinket_lord25",
+      "steel_cost": 1800000,
+      "template_level": 20,
+      "upgrade_time_seconds": 64800
+    },
+    {
+      "id": "10876cb250b41f90",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_freedom2_1",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 3000
+        }
+      ],
+      "name": "eq_events_trinket_freedom2_30_trinket_lord30",
+      "steel_cost": 5850000,
+      "template_level": 25,
+      "upgrade_time_seconds": 86400
+    },
+    {
+      "id": "314933e79c6e46fc",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_freedom2_1",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 12000
+        }
+      ],
+      "name": "eq_events_trinket_freedom2_35_trinket_lord35",
+      "steel_cost": 18400000,
+      "template_level": 30,
+      "upgrade_time_seconds": 129600
+    },
+    {
+      "id": "4a55c7a8099fe379",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_freedom2_1",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 45000
+        }
+      ],
+      "name": "eq_events_trinket_freedom2_40_trinket_lord40",
+      "steel_cost": 56900000,
+      "template_level": 35,
+      "upgrade_time_seconds": 172800
+    },
+    {
+      "id": "6b9b98fdc545ba15",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_freedom2_1",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 120000
+        }
+      ],
+      "name": "eq_events_trinket_freedom2_45_trinket_lord45",
+      "steel_cost": 173000000,
+      "template_level": 40,
+      "upgrade_time_seconds": 259200
+    },
+    {
+      "id": "547e49c0cc4ac75a",
+      "ingredients": [
+        {
+          "item_name": "mat_trinket_events_freedom2_1",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 450000
+        }
+      ],
+      "name": "eq_events_trinket_freedom2_50_trinket_lord50",
+      "steel_cost": 520000000,
+      "template_level": 45,
+      "upgrade_time_seconds": 345600
     }
   ]
 }

@@ -1796,7 +1796,7 @@
               ]
             },
             {
-              "description": "n:PROPERTY_DRAGONMARCHERTROOPATTACKVSPLAYER_DESC",
+              "description": "Increases Troop Attack when marching against another player with your dragon",
               "name": "Dragon Marcher Troop Attack vs. Player",
               "progression": [
                 0.39344256,
@@ -1862,7 +1862,7 @@
               ]
             },
             {
-              "description": "n:PROPERTY_DRAGONMARCHERTROOPATTACKVSPLAYER_DESC",
+              "description": "Increases Troop Attack when marching against another player with your dragon",
               "name": "Dragon Marcher Troop Attack vs. Player",
               "progression": [
                 0.43662528,
@@ -1928,7 +1928,7 @@
               ]
             },
             {
-              "description": "n:PROPERTY_DRAGONMARCHERTROOPATTACKVSPLAYER_DESC",
+              "description": "Increases Troop Attack when marching against another player with your dragon",
               "name": "Dragon Marcher Troop Attack vs. Player",
               "progression": [
                 0.479808,
@@ -1967,8 +1967,8 @@
               ]
             },
             {
-              "description": "Cavalry Attack bonus when your dragon is present.",
-              "name": "Dragon: Cavalry Attack",
+              "description": "Infantry Attack bonus when your dragon is present.",
+              "name": "Dragon: Infantry Attack",
               "progression": [
                 0.11721024,
                 0.1255824,
@@ -1997,8 +1997,8 @@
               ]
             },
             {
-              "description": "Cavalry Attack bonus when your dragon is present.",
-              "name": "Dragon: Cavalry Attack",
+              "description": "Infantry Attack bonus when your dragon is present.",
+              "name": "Dragon: Infantry Attack",
               "progression": [
                 0.17273088,
                 0.1850688,
@@ -2027,8 +2027,8 @@
               ]
             },
             {
-              "description": "Cavalry Attack bonus when your dragon is present.",
-              "name": "Dragon: Cavalry Attack",
+              "description": "Infantry Attack bonus when your dragon is present.",
+              "name": "Dragon: Infantry Attack",
               "progression": [
                 0.22825152,
                 0.2445552,
@@ -2057,8 +2057,8 @@
               ]
             },
             {
-              "description": "Cavalry Attack bonus when your dragon is present.",
-              "name": "Dragon: Cavalry Attack",
+              "description": "Infantry Attack bonus when your dragon is present.",
+              "name": "Dragon: Infantry Attack",
               "progression": [
                 0.28377216,
                 0.3040416,
@@ -2099,8 +2099,8 @@
               ]
             },
             {
-              "description": "Cavalry Attack bonus when your dragon is present.",
-              "name": "Dragon: Cavalry Attack",
+              "description": "Infantry Attack bonus when your dragon is present.",
+              "name": "Dragon: Infantry Attack",
               "progression": [
                 0.3392928,
                 0.363528,
@@ -2141,8 +2141,8 @@
               ]
             },
             {
-              "description": "Cavalry Attack bonus when your dragon is present.",
-              "name": "Dragon: Cavalry Attack",
+              "description": "Infantry Attack bonus when your dragon is present.",
+              "name": "Dragon: Infantry Attack",
               "progression": [
                 0.39481344,
                 0.4230144,
@@ -2165,8 +2165,8 @@
               ]
             },
             {
-              "description": "Cavalry Health in Player-to-Player combat bonus when your dragon is present.",
-              "name": "Dragon: Cavalry Health vs. Player",
+              "description": "Infantry Health in Player-to-Player combat bonus when your dragon is present.",
+              "name": "Dragon: Infantry Health vs. Player",
               "progression": [
                 0.39481344,
                 0.4230144,
@@ -2195,8 +2195,8 @@
               ]
             },
             {
-              "description": "Cavalry Attack bonus when your dragon is present.",
-              "name": "Dragon: Cavalry Attack",
+              "description": "Infantry Attack bonus when your dragon is present.",
+              "name": "Dragon: Infantry Attack",
               "progression": [
                 0.45033408,
                 0.4825008,
@@ -2219,8 +2219,8 @@
               ]
             },
             {
-              "description": "Cavalry Health in Player-to-Player combat bonus when your dragon is present.",
-              "name": "Dragon: Cavalry Health vs. Player",
+              "description": "Infantry Health in Player-to-Player combat bonus when your dragon is present.",
+              "name": "Dragon: Infantry Health vs. Player",
               "progression": [
                 0.45033408,
                 0.4825008,
@@ -2249,8 +2249,8 @@
               ]
             },
             {
-              "description": "Cavalry Attack bonus when your dragon is present.",
-              "name": "Dragon: Cavalry Attack",
+              "description": "Infantry Attack bonus when your dragon is present.",
+              "name": "Dragon: Infantry Attack",
               "progression": [
                 0.50585472,
                 0.5419872,
@@ -2273,8 +2273,8 @@
               ]
             },
             {
-              "description": "Cavalry Health in Player-to-Player combat bonus when your dragon is present.",
-              "name": "Dragon: Cavalry Health vs. Player",
+              "description": "Infantry Health in Player-to-Player combat bonus when your dragon is present.",
+              "name": "Dragon: Infantry Health vs. Player",
               "progression": [
                 0.50585472,
                 0.5419872,
@@ -2285,7 +2285,7 @@
               ]
             },
             {
-              "description": "n:PROPERTY_DRAGONMARCHERTROOPATTACKVSPLAYER_DESC",
+              "description": "Increases Troop Attack when marching against another player with your dragon",
               "name": "Dragon Marcher Troop Attack vs. Player",
               "progression": [
                 0.39344256,
@@ -2315,8 +2315,8 @@
               ]
             },
             {
-              "description": "Cavalry Attack bonus when your dragon is present.",
-              "name": "Dragon: Cavalry Attack",
+              "description": "Infantry Attack bonus when your dragon is present.",
+              "name": "Dragon: Infantry Attack",
               "progression": [
                 0.56137536,
                 0.6014736,
@@ -2339,8 +2339,8 @@
               ]
             },
             {
-              "description": "Cavalry Health in Player-to-Player combat bonus when your dragon is present.",
-              "name": "Dragon: Cavalry Health vs. Player",
+              "description": "Infantry Health in Player-to-Player combat bonus when your dragon is present.",
+              "name": "Dragon: Infantry Health vs. Player",
               "progression": [
                 0.56137536,
                 0.6014736,
@@ -2351,7 +2351,7 @@
               ]
             },
             {
-              "description": "n:PROPERTY_DRAGONMARCHERTROOPATTACKVSPLAYER_DESC",
+              "description": "Increases Troop Attack when marching against another player with your dragon",
               "name": "Dragon Marcher Troop Attack vs. Player",
               "progression": [
                 0.43662528,
@@ -2381,8 +2381,8 @@
               ]
             },
             {
-              "description": "Cavalry Attack bonus when your dragon is present.",
-              "name": "Dragon: Cavalry Attack",
+              "description": "Infantry Attack bonus when your dragon is present.",
+              "name": "Dragon: Infantry Attack",
               "progression": [
                 0.616896,
                 0.66096,
@@ -2405,8 +2405,8 @@
               ]
             },
             {
-              "description": "Cavalry Health in Player-to-Player combat bonus when your dragon is present.",
-              "name": "Dragon: Cavalry Health vs. Player",
+              "description": "Infantry Health in Player-to-Player combat bonus when your dragon is present.",
+              "name": "Dragon: Infantry Health vs. Player",
               "progression": [
                 0.616896,
                 0.66096,
@@ -2417,7 +2417,7 @@
               ]
             },
             {
-              "description": "n:PROPERTY_DRAGONMARCHERTROOPATTACKVSPLAYER_DESC",
+              "description": "Increases Troop Attack when marching against another player with your dragon",
               "name": "Dragon Marcher Troop Attack vs. Player",
               "progression": [
                 0.479808,
@@ -2451,8 +2451,8 @@
               ]
             },
             {
-              "description": "Cavalry Attack bonus when your dragon is present.",
-              "name": "Dragon: Cavalry Attack",
+              "description": "Ranged Attack bonus when your dragon is present.",
+              "name": "Dragon: Ranged Attack",
               "progression": [
                 0.11721024,
                 0.1255824,
@@ -2481,8 +2481,8 @@
               ]
             },
             {
-              "description": "Cavalry Attack bonus when your dragon is present.",
-              "name": "Dragon: Cavalry Attack",
+              "description": "Ranged Attack bonus when your dragon is present.",
+              "name": "Dragon: Ranged Attack",
               "progression": [
                 0.17273088,
                 0.1850688,
@@ -2511,8 +2511,8 @@
               ]
             },
             {
-              "description": "Cavalry Attack bonus when your dragon is present.",
-              "name": "Dragon: Cavalry Attack",
+              "description": "Ranged Attack bonus when your dragon is present.",
+              "name": "Dragon: Ranged Attack",
               "progression": [
                 0.22825152,
                 0.2445552,
@@ -2541,8 +2541,8 @@
               ]
             },
             {
-              "description": "Cavalry Attack bonus when your dragon is present.",
-              "name": "Dragon: Cavalry Attack",
+              "description": "Ranged Attack bonus when your dragon is present.",
+              "name": "Dragon: Ranged Attack",
               "progression": [
                 0.28377216,
                 0.3040416,
@@ -2583,8 +2583,8 @@
               ]
             },
             {
-              "description": "Cavalry Attack bonus when your dragon is present.",
-              "name": "Dragon: Cavalry Attack",
+              "description": "Ranged Attack bonus when your dragon is present.",
+              "name": "Dragon: Ranged Attack",
               "progression": [
                 0.3392928,
                 0.363528,
@@ -2625,8 +2625,8 @@
               ]
             },
             {
-              "description": "Cavalry Attack bonus when your dragon is present.",
-              "name": "Dragon: Cavalry Attack",
+              "description": "Ranged Attack bonus when your dragon is present.",
+              "name": "Dragon: Ranged Attack",
               "progression": [
                 0.39481344,
                 0.4230144,
@@ -2649,8 +2649,8 @@
               ]
             },
             {
-              "description": "Cavalry Health in Player-to-Player combat bonus when your dragon is present.",
-              "name": "Dragon: Cavalry Health vs. Player",
+              "description": "Ranged Health in Player-to-Player combat bonus when your dragon is present.",
+              "name": "Dragon: Ranged Health vs. Player",
               "progression": [
                 0.39481344,
                 0.4230144,
@@ -2679,8 +2679,8 @@
               ]
             },
             {
-              "description": "Cavalry Attack bonus when your dragon is present.",
-              "name": "Dragon: Cavalry Attack",
+              "description": "Ranged Attack bonus when your dragon is present.",
+              "name": "Dragon: Ranged Attack",
               "progression": [
                 0.45033408,
                 0.4825008,
@@ -2703,8 +2703,8 @@
               ]
             },
             {
-              "description": "Cavalry Health in Player-to-Player combat bonus when your dragon is present.",
-              "name": "Dragon: Cavalry Health vs. Player",
+              "description": "Ranged Health in Player-to-Player combat bonus when your dragon is present.",
+              "name": "Dragon: Ranged Health vs. Player",
               "progression": [
                 0.45033408,
                 0.4825008,
@@ -2733,8 +2733,8 @@
               ]
             },
             {
-              "description": "Cavalry Attack bonus when your dragon is present.",
-              "name": "Dragon: Cavalry Attack",
+              "description": "Ranged Attack bonus when your dragon is present.",
+              "name": "Dragon: Ranged Attack",
               "progression": [
                 0.50585472,
                 0.5419872,
@@ -2757,8 +2757,8 @@
               ]
             },
             {
-              "description": "Cavalry Health in Player-to-Player combat bonus when your dragon is present.",
-              "name": "Dragon: Cavalry Health vs. Player",
+              "description": "Ranged Health in Player-to-Player combat bonus when your dragon is present.",
+              "name": "Dragon: Ranged Health vs. Player",
               "progression": [
                 0.50585472,
                 0.5419872,
@@ -2769,7 +2769,7 @@
               ]
             },
             {
-              "description": "n:PROPERTY_DRAGONMARCHERTROOPATTACKVSPLAYER_DESC",
+              "description": "Increases Troop Attack when marching against another player with your dragon",
               "name": "Dragon Marcher Troop Attack vs. Player",
               "progression": [
                 0.39344256,
@@ -2799,8 +2799,8 @@
               ]
             },
             {
-              "description": "Cavalry Attack bonus when your dragon is present.",
-              "name": "Dragon: Cavalry Attack",
+              "description": "Ranged Attack bonus when your dragon is present.",
+              "name": "Dragon: Ranged Attack",
               "progression": [
                 0.56137536,
                 0.6014736,
@@ -2823,8 +2823,8 @@
               ]
             },
             {
-              "description": "Cavalry Health in Player-to-Player combat bonus when your dragon is present.",
-              "name": "Dragon: Cavalry Health vs. Player",
+              "description": "Ranged Health in Player-to-Player combat bonus when your dragon is present.",
+              "name": "Dragon: Ranged Health vs. Player",
               "progression": [
                 0.56137536,
                 0.6014736,
@@ -2835,7 +2835,7 @@
               ]
             },
             {
-              "description": "n:PROPERTY_DRAGONMARCHERTROOPATTACKVSPLAYER_DESC",
+              "description": "Increases Troop Attack when marching against another player with your dragon",
               "name": "Dragon Marcher Troop Attack vs. Player",
               "progression": [
                 0.43662528,
@@ -2865,8 +2865,8 @@
               ]
             },
             {
-              "description": "Cavalry Attack bonus when your dragon is present.",
-              "name": "Dragon: Cavalry Attack",
+              "description": "Ranged Attack bonus when your dragon is present.",
+              "name": "Dragon: Ranged Attack",
               "progression": [
                 0.616896,
                 0.66096,
@@ -2889,8 +2889,8 @@
               ]
             },
             {
-              "description": "Cavalry Health in Player-to-Player combat bonus when your dragon is present.",
-              "name": "Dragon: Cavalry Health vs. Player",
+              "description": "Ranged Health in Player-to-Player combat bonus when your dragon is present.",
+              "name": "Dragon: Ranged Health vs. Player",
               "progression": [
                 0.616896,
                 0.66096,
@@ -2901,7 +2901,7 @@
               ]
             },
             {
-              "description": "n:PROPERTY_DRAGONMARCHERTROOPATTACKVSPLAYER_DESC",
+              "description": "Increases Troop Attack when marching against another player with your dragon",
               "name": "Dragon Marcher Troop Attack vs. Player",
               "progression": [
                 0.479808,

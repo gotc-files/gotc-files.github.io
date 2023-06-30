@@ -3082,6 +3082,110 @@
         "summon_purchase_royal_MelisandreTyrionMAY23_Gold_10x_top"
       ],
       "time_str": "MAY23"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "PetyrEllaria",
+      "id": "9f6c05454baa98e5",
+      "name": "summon_noble_PetyrEllariaJUN23_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_PetyrEllariaJUN23_Hero_1x_top",
+        "summon_purchase_noble_PetyrEllariaJUN23_Hero_10x_top"
+      ],
+      "time_str": "JUN23"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "DoranYara",
+      "id": "43ab04de3b0c0b82",
+      "name": "summon_noble_DoranYaraJUN23_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_DoranYaraJUN23_Hero_1x_top",
+        "summon_purchase_noble_DoranYaraJUN23_Hero_10x_top"
+      ],
+      "time_str": "JUN23"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "TyrionMissandei",
+      "id": "b658c2fe59bc5e78",
+      "name": "summon_noble_TyrionMissandeiJUN23_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_TyrionMissandeiJUN23_Hero_1x_top",
+        "summon_purchase_noble_TyrionMissandeiJUN23_Hero_10x_top"
+      ],
+      "time_str": "JUN23"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "SyrioOldNan",
+      "id": "f331b440e33716f9",
+      "name": "summon_noble_SyrioOldNanJUN23_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_SyrioOldNanJUN23_Hero_1x_top",
+        "summon_purchase_noble_SyrioOldNanJUN23_Hero_10x_top"
+      ],
+      "time_str": "JUN23"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "PetyrEllaria",
+      "id": "83c8f4d2630591d9",
+      "name": "summon_royal_PetyrEllariaJUN23_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_PetyrEllariaJUN23_Gold_1x_top",
+        "summon_purchase_royal_PetyrEllariaJUN23_Gold_10x_top"
+      ],
+      "time_str": "JUN23"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "DoranYara",
+      "id": "d7972a14df530b0",
+      "name": "summon_royal_DoranYaraJUN23_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_DoranYaraJUN23_Gold_1x_top",
+        "summon_purchase_royal_DoranYaraJUN23_Gold_10x_top"
+      ],
+      "time_str": "JUN23"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "TyrionMissandei",
+      "id": "141b30e9f6dddc11",
+      "name": "summon_royal_TyrionMissandeiJUN23_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_TyrionMissandeiJUN23_Gold_1x_top",
+        "summon_purchase_royal_TyrionMissandeiJUN23_Gold_10x_top"
+      ],
+      "time_str": "JUN23"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "SyrioOldNan",
+      "id": "4361d4a8d6a9b4f3",
+      "name": "summon_royal_SyrioOldNanJUN23_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_SyrioOldNanJUN23_Gold_1x_top",
+        "summon_purchase_royal_SyrioOldNanJUN23_Gold_10x_top"
+      ],
+      "time_str": "JUN23"
     }
   ]
 }

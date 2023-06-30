@@ -1,5 +1,1891 @@
 [
   {
+    "id": "6015d3d55b2df517",
+    "name": "4th of July Daily Delivery",
+    "packs": [
+      {
+        "id": "f802af1243eaddd0",
+        "items": [
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "quantity": 5000
+          },
+          {
+            "description": "Reduces time remaining",
+            "name": "1m Speedup",
+            "quantity": 150
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "1,000 Food",
+            "quantity": 300
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "1,000 Wood",
+            "quantity": 300
+          },
+          {
+            "description": "Use this to get Stone",
+            "name": "100 Stone",
+            "quantity": 300
+          },
+          {
+            "description": "Use this to get Iron",
+            "name": "50 Iron",
+            "quantity": 300
+          }
+        ],
+        "summary": [
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "quantity": 35000
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "1,000 Food",
+            "quantity": 2100
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "1,000 Wood",
+            "quantity": 2100
+          }
+        ],
+        "tier": 2
+      },
+      {
+        "id": "62172668b0f67b31",
+        "items": [
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "quantity": 12400
+          },
+          {
+            "description": "Reduces time remaining",
+            "name": "1m Speedup",
+            "quantity": 450
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "20,000 Food",
+            "quantity": 40
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "20,000 Wood",
+            "quantity": 40
+          },
+          {
+            "description": "Use this to get Stone",
+            "name": "3,000 Stone",
+            "quantity": 40
+          },
+          {
+            "description": "Use this to get Iron",
+            "name": "800 Iron",
+            "quantity": 40
+          }
+        ],
+        "summary": [
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "quantity": 86800
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "20,000 Food",
+            "quantity": 280
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "20,000 Wood",
+            "quantity": 280
+          }
+        ],
+        "tier": 3
+      },
+      {
+        "id": "6d7292a31bf1aa24",
+        "items": [
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "quantity": 29200
+          },
+          {
+            "description": "Reduces time remaining",
+            "name": "5m Speedup",
+            "quantity": 200
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "20,000 Food",
+            "quantity": 90
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "20,000 Wood",
+            "quantity": 90
+          },
+          {
+            "description": "Use this to get Stone",
+            "name": "3,000 Stone",
+            "quantity": 90
+          },
+          {
+            "description": "Use this to get Iron",
+            "name": "800 Iron",
+            "quantity": 90
+          }
+        ],
+        "summary": [
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "quantity": 204400
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "20,000 Food",
+            "quantity": 630
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "20,000 Wood",
+            "quantity": 630
+          }
+        ],
+        "tier": 4
+      },
+      {
+        "id": "769a9772d4fcb8fd",
+        "items": [
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "quantity": 81000
+          },
+          {
+            "description": "Reduces time remaining",
+            "name": "5m Speedup",
+            "quantity": 500
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "20,000 Food",
+            "quantity": 250
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "20,000 Wood",
+            "quantity": 250
+          },
+          {
+            "description": "Use this to get Stone",
+            "name": "3,000 Stone",
+            "quantity": 250
+          },
+          {
+            "description": "Use this to get Iron",
+            "name": "800 Iron",
+            "quantity": 250
+          }
+        ],
+        "summary": [
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "quantity": 567000
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "20,000 Food",
+            "quantity": 1750
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "20,000 Wood",
+            "quantity": 1750
+          }
+        ],
+        "tier": 5
+      },
+      {
+        "id": "2c93dc80dfe3a781",
+        "items": [
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "quantity": 180000
+          },
+          {
+            "description": "Reduces time remaining",
+            "name": "60m Speedup",
+            "quantity": 100
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "20,000 Food",
+            "quantity": 575
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "20,000 Wood",
+            "quantity": 575
+          },
+          {
+            "description": "Use this to get Stone",
+            "name": "3,000 Stone",
+            "quantity": 575
+          },
+          {
+            "description": "Use this to get Iron",
+            "name": "800 Iron",
+            "quantity": 575
+          }
+        ],
+        "summary": [
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "quantity": 1260000
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "20,000 Food",
+            "quantity": 4025
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "20,000 Wood",
+            "quantity": 4025
+          }
+        ],
+        "tier": 6
+      }
+    ]
+  },
+  {
+    "id": "89e5df6232e4233c",
+    "name": "Chainbreaker Daily Delivery",
+    "packs": [
+      {
+        "id": "101794535c15623",
+        "items": [
+          {
+            "description": "Used to craft special equipment. Obtain this by participating in selected events!",
+            "name": "Liberator's Silk",
+            "quantity": 22500
+          },
+          {
+            "description": "Steel is used to craft gear in your Smithy. ",
+            "name": "1,000 Steel",
+            "quantity": 75
+          },
+          {
+            "description": "Steel is used to craft gear in your Smithy. ",
+            "name": "100 Steel",
+            "quantity": 210
+          },
+          {
+            "description": "Reduces time remaining",
+            "name": "5m Speedup",
+            "quantity": 70
+          },
+          {
+            "description": "Crafting material",
+            "name": "Black Iron",
+            "quantity": 3300
+          },
+          {
+            "description": "Crafting material",
+            "name": "Copper Bar",
+            "quantity": 3300
+          },
+          {
+            "description": "Crafting material",
+            "name": "Dragonglass",
+            "quantity": 3300
+          },
+          {
+            "description": "Crafting material",
+            "name": "Goldenheart Wood",
+            "quantity": 3300
+          },
+          {
+            "description": "Crafting material",
+            "name": "Hide",
+            "quantity": 3300
+          },
+          {
+            "description": "Crafting material",
+            "name": "Ironwood",
+            "quantity": 3300
+          },
+          {
+            "description": "Crafting material",
+            "name": "Kingswood Oak",
+            "quantity": 3300
+          },
+          {
+            "description": "Crafting material",
+            "name": "Leather Straps",
+            "quantity": 3300
+          },
+          {
+            "description": "Crafting material",
+            "name": "Milk of the Poppy",
+            "quantity": 3300
+          },
+          {
+            "description": "Crafting material",
+            "name": "Silk",
+            "quantity": 3300
+          },
+          {
+            "description": "Crafting material",
+            "name": "Wildfire",
+            "quantity": 3300
+          },
+          {
+            "description": "Crafting material",
+            "name": "Weirwood",
+            "quantity": 3300
+          }
+        ],
+        "summary": [
+          {
+            "description": "Used to craft special equipment. Obtain this by participating in selected events!",
+            "name": "Liberator's Silk",
+            "quantity": 157500
+          },
+          {
+            "description": "Steel is used to craft gear in your Smithy. ",
+            "name": "1,000 Steel",
+            "quantity": 525
+          },
+          {
+            "description": "Crafting material",
+            "name": "Black Iron",
+            "quantity": 23100
+          }
+        ],
+        "tier": 2
+      },
+      {
+        "id": "9b14f03fc6ddf0c2",
+        "items": [
+          {
+            "description": "Used to craft special equipment. Obtain this by participating in selected events!",
+            "name": "Liberator's Silk",
+            "quantity": 56100
+          },
+          {
+            "description": "Steel is used to craft gear in your Smithy. ",
+            "name": "1,000 Steel",
+            "quantity": 175
+          },
+          {
+            "description": "Steel is used to craft gear in your Smithy. ",
+            "name": "100 Steel",
+            "quantity": 400
+          },
+          {
+            "description": "Reduces time remaining",
+            "name": "5m Speedup",
+            "quantity": 150
+          },
+          {
+            "description": "Crafting material",
+            "name": "Black Iron",
+            "quantity": 8000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Copper Bar",
+            "quantity": 8000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Dragonglass",
+            "quantity": 8000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Goldenheart Wood",
+            "quantity": 8000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Hide",
+            "quantity": 8000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Ironwood",
+            "quantity": 8000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Kingswood Oak",
+            "quantity": 8000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Leather Straps",
+            "quantity": 8000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Milk of the Poppy",
+            "quantity": 8000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Silk",
+            "quantity": 8000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Wildfire",
+            "quantity": 8000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Weirwood",
+            "quantity": 8000
+          }
+        ],
+        "summary": [
+          {
+            "description": "Used to craft special equipment. Obtain this by participating in selected events!",
+            "name": "Liberator's Silk",
+            "quantity": 392700
+          },
+          {
+            "description": "Steel is used to craft gear in your Smithy. ",
+            "name": "1,000 Steel",
+            "quantity": 1225
+          },
+          {
+            "description": "Crafting material",
+            "name": "Black Iron",
+            "quantity": 56000
+          }
+        ],
+        "tier": 3
+      },
+      {
+        "id": "947144f46dda21d7",
+        "items": [
+          {
+            "description": "Used to craft special equipment. Obtain this by participating in selected events!",
+            "name": "Liberator's Silk",
+            "quantity": 132000
+          },
+          {
+            "description": "Steel is used to craft gear in your Smithy. ",
+            "name": "1,000 Steel",
+            "quantity": 500
+          },
+          {
+            "description": "Steel is used to craft gear in your Smithy. ",
+            "name": "100 Steel",
+            "quantity": 625
+          },
+          {
+            "description": "Reduces time remaining",
+            "name": "5m Speedup",
+            "quantity": 335
+          },
+          {
+            "description": "Crafting material",
+            "name": "Black Iron",
+            "quantity": 19000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Copper Bar",
+            "quantity": 19000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Dragonglass",
+            "quantity": 19000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Goldenheart Wood",
+            "quantity": 19000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Hide",
+            "quantity": 19000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Ironwood",
+            "quantity": 19000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Kingswood Oak",
+            "quantity": 19000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Leather Straps",
+            "quantity": 19000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Milk of the Poppy",
+            "quantity": 19000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Silk",
+            "quantity": 19000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Wildfire",
+            "quantity": 19000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Weirwood",
+            "quantity": 19000
+          }
+        ],
+        "summary": [
+          {
+            "description": "Used to craft special equipment. Obtain this by participating in selected events!",
+            "name": "Liberator's Silk",
+            "quantity": 924000
+          },
+          {
+            "description": "Steel is used to craft gear in your Smithy. ",
+            "name": "1,000 Steel",
+            "quantity": 3500
+          },
+          {
+            "description": "Crafting material",
+            "name": "Black Iron",
+            "quantity": 133000
+          }
+        ],
+        "tier": 4
+      },
+      {
+        "id": "8f994125a2d7330e",
+        "items": [
+          {
+            "description": "Used to craft special equipment. Obtain this by participating in selected events!",
+            "name": "Liberator's Silk",
+            "quantity": 367000
+          },
+          {
+            "description": "Steel is used to craft gear in your Smithy. ",
+            "name": "10,000 Steel",
+            "quantity": 125
+          },
+          {
+            "description": "Steel is used to craft gear in your Smithy. ",
+            "name": "1,000 Steel",
+            "quantity": 250
+          },
+          {
+            "description": "Reduces time remaining",
+            "name": "60m Speedup",
+            "quantity": 45
+          },
+          {
+            "description": "Reduces time remaining",
+            "name": "5m Speedup",
+            "quantity": 400
+          },
+          {
+            "description": "Crafting material",
+            "name": "Black Iron",
+            "quantity": 54000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Copper Bar",
+            "quantity": 54000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Dragonglass",
+            "quantity": 54000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Goldenheart Wood",
+            "quantity": 54000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Hide",
+            "quantity": 54000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Ironwood",
+            "quantity": 54000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Kingswood Oak",
+            "quantity": 54000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Leather Straps",
+            "quantity": 54000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Milk of the Poppy",
+            "quantity": 54000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Silk",
+            "quantity": 54000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Wildfire",
+            "quantity": 54000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Weirwood",
+            "quantity": 54000
+          }
+        ],
+        "summary": [
+          {
+            "description": "Used to craft special equipment. Obtain this by participating in selected events!",
+            "name": "Liberator's Silk",
+            "quantity": 2569000
+          },
+          {
+            "description": "Steel is used to craft gear in your Smithy. ",
+            "name": "10,000 Steel",
+            "quantity": 875
+          },
+          {
+            "description": "Crafting material",
+            "name": "Black Iron",
+            "quantity": 378000
+          }
+        ],
+        "tier": 5
+      },
+      {
+        "id": "e0a0963df346fea9",
+        "items": [
+          {
+            "description": "Used to craft special equipment. Obtain this by participating in selected events!",
+            "name": "Liberator's Silk",
+            "quantity": 815000
+          },
+          {
+            "description": "Steel is used to craft gear in your Smithy. ",
+            "name": "10,000 Steel",
+            "quantity": 300
+          },
+          {
+            "description": "Steel is used to craft gear in your Smithy. ",
+            "name": "1,000 Steel",
+            "quantity": 600
+          },
+          {
+            "description": "Reduces time remaining",
+            "name": "60m Speedup",
+            "quantity": 90
+          },
+          {
+            "description": "Reduces time remaining",
+            "name": "5m Speedup",
+            "quantity": 1000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Black Iron",
+            "quantity": 120000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Copper Bar",
+            "quantity": 120000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Dragonglass",
+            "quantity": 120000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Goldenheart Wood",
+            "quantity": 120000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Hide",
+            "quantity": 120000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Ironwood",
+            "quantity": 120000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Kingswood Oak",
+            "quantity": 120000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Leather Straps",
+            "quantity": 120000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Milk of the Poppy",
+            "quantity": 120000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Silk",
+            "quantity": 120000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Wildfire",
+            "quantity": 120000
+          },
+          {
+            "description": "Crafting material",
+            "name": "Weirwood",
+            "quantity": 120000
+          }
+        ],
+        "summary": [
+          {
+            "description": "Used to craft special equipment. Obtain this by participating in selected events!",
+            "name": "Liberator's Silk",
+            "quantity": 5705000
+          },
+          {
+            "description": "Steel is used to craft gear in your Smithy. ",
+            "name": "10,000 Steel",
+            "quantity": 2100
+          },
+          {
+            "description": "Crafting material",
+            "name": "Black Iron",
+            "quantity": 840000
+          }
+        ],
+        "tier": 6
+      }
+    ]
+  },
+  {
+    "id": "b5b2c3d97d8bfbe8",
+    "name": "Father's Day Daily Delivery",
+    "packs": [
+      {
+        "id": "529db4dbd84560e7",
+        "items": [
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "quantity": 4600
+          },
+          {
+            "description": "Reduces time remaining",
+            "name": "1m Speedup",
+            "quantity": 150
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "1,000 Food",
+            "quantity": 300
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "1,000 Wood",
+            "quantity": 300
+          },
+          {
+            "description": "Use this to get Stone",
+            "name": "100 Stone",
+            "quantity": 300
+          },
+          {
+            "description": "Use this to get Iron",
+            "name": "50 Iron",
+            "quantity": 300
+          }
+        ],
+        "summary": [
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "quantity": 32200
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "1,000 Food",
+            "quantity": 2100
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "1,000 Wood",
+            "quantity": 2100
+          }
+        ],
+        "tier": 2
+      },
+      {
+        "id": "c8883da12b59c606",
+        "items": [
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "quantity": 11400
+          },
+          {
+            "description": "Reduces time remaining",
+            "name": "1m Speedup",
+            "quantity": 450
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "20,000 Food",
+            "quantity": 40
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "20,000 Wood",
+            "quantity": 40
+          },
+          {
+            "description": "Use this to get Stone",
+            "name": "3,000 Stone",
+            "quantity": 40
+          },
+          {
+            "description": "Use this to get Iron",
+            "name": "800 Iron",
+            "quantity": 40
+          }
+        ],
+        "summary": [
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "quantity": 79800
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "20,000 Food",
+            "quantity": 280
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "20,000 Wood",
+            "quantity": 280
+          }
+        ],
+        "tier": 3
+      },
+      {
+        "id": "c7ed896a805e1713",
+        "items": [
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "quantity": 26750
+          },
+          {
+            "description": "Reduces time remaining",
+            "name": "5m Speedup",
+            "quantity": 200
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "20,000 Food",
+            "quantity": 90
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "20,000 Wood",
+            "quantity": 90
+          },
+          {
+            "description": "Use this to get Stone",
+            "name": "3,000 Stone",
+            "quantity": 90
+          },
+          {
+            "description": "Use this to get Iron",
+            "name": "800 Iron",
+            "quantity": 90
+          }
+        ],
+        "summary": [
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "quantity": 187250
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "20,000 Food",
+            "quantity": 630
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "20,000 Wood",
+            "quantity": 630
+          }
+        ],
+        "tier": 4
+      },
+      {
+        "id": "dc058cbb4f5305ca",
+        "items": [
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "quantity": 74250
+          },
+          {
+            "description": "Reduces time remaining",
+            "name": "5m Speedup",
+            "quantity": 500
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "20,000 Food",
+            "quantity": 250
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "20,000 Wood",
+            "quantity": 250
+          },
+          {
+            "description": "Use this to get Stone",
+            "name": "3,000 Stone",
+            "quantity": 250
+          },
+          {
+            "description": "Use this to get Iron",
+            "name": "800 Iron",
+            "quantity": 250
+          }
+        ],
+        "summary": [
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "quantity": 519750
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "20,000 Food",
+            "quantity": 1750
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "20,000 Wood",
+            "quantity": 1750
+          }
+        ],
+        "tier": 5
+      },
+      {
+        "id": "339ab4f7e28deebd",
+        "items": [
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "quantity": 165000
+          },
+          {
+            "description": "Reduces time remaining",
+            "name": "60m Speedup",
+            "quantity": 100
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "20,000 Food",
+            "quantity": 575
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "20,000 Wood",
+            "quantity": 575
+          },
+          {
+            "description": "Use this to get Stone",
+            "name": "3,000 Stone",
+            "quantity": 575
+          },
+          {
+            "description": "Use this to get Iron",
+            "name": "800 Iron",
+            "quantity": 575
+          }
+        ],
+        "summary": [
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "quantity": 1155000
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "20,000 Food",
+            "quantity": 4025
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "20,000 Wood",
+            "quantity": 4025
+          }
+        ],
+        "tier": 6
+      }
+    ]
+  },
+  {
+    "id": "8be206bcf28ccb17",
+    "name": "Summer Daily Delivery",
+    "packs": [
+      {
+        "id": "49a21b012f1fd1e2",
+        "items": [
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "quantity": 4300
+          },
+          {
+            "description": "Reduces time remaining",
+            "name": "1m Speedup",
+            "quantity": 150
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "1,000 Food",
+            "quantity": 300
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "1,000 Wood",
+            "quantity": 300
+          },
+          {
+            "description": "Use this to get Stone",
+            "name": "100 Stone",
+            "quantity": 300
+          },
+          {
+            "description": "Use this to get Iron",
+            "name": "50 Iron",
+            "quantity": 300
+          }
+        ],
+        "summary": [
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "quantity": 30100
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "1,000 Food",
+            "quantity": 2100
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "1,000 Wood",
+            "quantity": 2100
+          }
+        ],
+        "tier": 2
+      },
+      {
+        "id": "d3b7927bdc037703",
+        "items": [
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "quantity": 10800
+          },
+          {
+            "description": "Reduces time remaining",
+            "name": "1m Speedup",
+            "quantity": 450
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "20,000 Food",
+            "quantity": 40
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "20,000 Wood",
+            "quantity": 40
+          },
+          {
+            "description": "Use this to get Stone",
+            "name": "3,000 Stone",
+            "quantity": 40
+          },
+          {
+            "description": "Use this to get Iron",
+            "name": "800 Iron",
+            "quantity": 40
+          }
+        ],
+        "summary": [
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "quantity": 75600
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "20,000 Food",
+            "quantity": 280
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "20,000 Wood",
+            "quantity": 280
+          }
+        ],
+        "tier": 3
+      },
+      {
+        "id": "dcd226b07704a616",
+        "items": [
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "quantity": 25200
+          },
+          {
+            "description": "Reduces time remaining",
+            "name": "5m Speedup",
+            "quantity": 200
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "20,000 Food",
+            "quantity": 90
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "20,000 Wood",
+            "quantity": 90
+          },
+          {
+            "description": "Use this to get Stone",
+            "name": "3,000 Stone",
+            "quantity": 90
+          },
+          {
+            "description": "Use this to get Iron",
+            "name": "800 Iron",
+            "quantity": 90
+          }
+        ],
+        "summary": [
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "quantity": 176400
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "20,000 Food",
+            "quantity": 630
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "20,000 Wood",
+            "quantity": 630
+          }
+        ],
+        "tier": 4
+      },
+      {
+        "id": "c73a2361b809b4cf",
+        "items": [
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "quantity": 70000
+          },
+          {
+            "description": "Reduces time remaining",
+            "name": "5m Speedup",
+            "quantity": 500
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "20,000 Food",
+            "quantity": 250
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "20,000 Wood",
+            "quantity": 250
+          },
+          {
+            "description": "Use this to get Stone",
+            "name": "3,000 Stone",
+            "quantity": 250
+          },
+          {
+            "description": "Use this to get Iron",
+            "name": "800 Iron",
+            "quantity": 250
+          }
+        ],
+        "summary": [
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "quantity": 490000
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "20,000 Food",
+            "quantity": 1750
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "20,000 Wood",
+            "quantity": 1750
+          }
+        ],
+        "tier": 5
+      },
+      {
+        "id": "acb76e645264a21e",
+        "items": [
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "quantity": 155000
+          },
+          {
+            "description": "Reduces time remaining",
+            "name": "60m Speedup",
+            "quantity": 100
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "20,000 Food",
+            "quantity": 575
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "20,000 Wood",
+            "quantity": 575
+          },
+          {
+            "description": "Use this to get Stone",
+            "name": "3,000 Stone",
+            "quantity": 575
+          },
+          {
+            "description": "Use this to get Iron",
+            "name": "800 Iron",
+            "quantity": 575
+          }
+        ],
+        "summary": [
+          {
+            "description": "Gold resource",
+            "name": "Gold",
+            "quantity": 1085000
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "20,000 Food",
+            "quantity": 4025
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "20,000 Wood",
+            "quantity": 4025
+          }
+        ],
+        "tier": 6
+      }
+    ]
+  },
+  {
+    "id": "886e88b8d8d60b6a",
+    "name": "Conquest Weekly Provisions Pack",
+    "packs": [
+      {
+        "id": "d3dace13b7815c89",
+        "items": [
+          {
+            "description": "A Collection of histories chronicling the origins and care of dragons by the Valyrians.",
+            "name": "Dragon Tomes",
+            "quantity": 10000
+          },
+          {
+            "description": "Reduces time remaining",
+            "name": "1m Speedup",
+            "quantity": 150
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "1,000 Food",
+            "quantity": 300
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "1,000 Wood",
+            "quantity": 300
+          },
+          {
+            "description": "Use this to get Stone",
+            "name": "100 Stone",
+            "quantity": 300
+          },
+          {
+            "description": "Use this to get Iron",
+            "name": "50 Iron",
+            "quantity": 300
+          }
+        ],
+        "summary": [
+          {
+            "description": "A Collection of histories chronicling the origins and care of dragons by the Valyrians.",
+            "name": "Dragon Tomes",
+            "quantity": 70000
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "1,000 Food",
+            "quantity": 2100
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "1,000 Wood",
+            "quantity": 2100
+          }
+        ],
+        "tier": 2
+      },
+      {
+        "id": "49cf4769449dfa68",
+        "items": [
+          {
+            "description": "A Collection of histories chronicling the origins and care of dragons by the Valyrians.",
+            "name": "Dragon Tomes",
+            "quantity": 25000
+          },
+          {
+            "description": "Reduces time remaining",
+            "name": "1m Speedup",
+            "quantity": 450
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "20,000 Food",
+            "quantity": 40
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "20,000 Wood",
+            "quantity": 40
+          },
+          {
+            "description": "Use this to get Stone",
+            "name": "3,000 Stone",
+            "quantity": 40
+          },
+          {
+            "description": "Use this to get Iron",
+            "name": "800 Iron",
+            "quantity": 40
+          }
+        ],
+        "summary": [
+          {
+            "description": "A Collection of histories chronicling the origins and care of dragons by the Valyrians.",
+            "name": "Dragon Tomes",
+            "quantity": 175000
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "20,000 Food",
+            "quantity": 280
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "20,000 Wood",
+            "quantity": 280
+          }
+        ],
+        "tier": 3
+      },
+      {
+        "id": "46aaf3a2ef9a2b7d",
+        "items": [
+          {
+            "description": "A Collection of histories chronicling the origins and care of dragons by the Valyrians.",
+            "name": "Dragon Tomes",
+            "quantity": 58000
+          },
+          {
+            "description": "Reduces time remaining",
+            "name": "5m Speedup",
+            "quantity": 200
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "20,000 Food",
+            "quantity": 90
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "20,000 Wood",
+            "quantity": 90
+          },
+          {
+            "description": "Use this to get Stone",
+            "name": "3,000 Stone",
+            "quantity": 90
+          },
+          {
+            "description": "Use this to get Iron",
+            "name": "800 Iron",
+            "quantity": 90
+          }
+        ],
+        "summary": [
+          {
+            "description": "A Collection of histories chronicling the origins and care of dragons by the Valyrians.",
+            "name": "Dragon Tomes",
+            "quantity": 406000
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "20,000 Food",
+            "quantity": 630
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "20,000 Wood",
+            "quantity": 630
+          }
+        ],
+        "tier": 4
+      },
+      {
+        "id": "5d42f673209739a4",
+        "items": [
+          {
+            "description": "A Collection of histories chronicling the origins and care of dragons by the Valyrians.",
+            "name": "Dragon Tomes",
+            "quantity": 160000
+          },
+          {
+            "description": "Reduces time remaining",
+            "name": "5m Speedup",
+            "quantity": 500
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "20,000 Food",
+            "quantity": 250
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "20,000 Wood",
+            "quantity": 250
+          },
+          {
+            "description": "Use this to get Stone",
+            "name": "3,000 Stone",
+            "quantity": 250
+          },
+          {
+            "description": "Use this to get Iron",
+            "name": "800 Iron",
+            "quantity": 250
+          }
+        ],
+        "summary": [
+          {
+            "description": "A Collection of histories chronicling the origins and care of dragons by the Valyrians.",
+            "name": "Dragon Tomes",
+            "quantity": 1120000
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "20,000 Food",
+            "quantity": 1750
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "20,000 Wood",
+            "quantity": 1750
+          }
+        ],
+        "tier": 5
+      },
+      {
+        "id": "c5c1d54c309e783",
+        "items": [
+          {
+            "description": "A Collection of histories chronicling the origins and care of dragons by the Valyrians.",
+            "name": "Dragon Tomes",
+            "quantity": 350000
+          },
+          {
+            "description": "Reduces time remaining",
+            "name": "60m Speedup",
+            "quantity": 100
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "20,000 Food",
+            "quantity": 575
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "20,000 Wood",
+            "quantity": 575
+          },
+          {
+            "description": "Use this to get Stone",
+            "name": "3,000 Stone",
+            "quantity": 575
+          },
+          {
+            "description": "Use this to get Iron",
+            "name": "800 Iron",
+            "quantity": 575
+          }
+        ],
+        "summary": [
+          {
+            "description": "A Collection of histories chronicling the origins and care of dragons by the Valyrians.",
+            "name": "Dragon Tomes",
+            "quantity": 2450000
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "20,000 Food",
+            "quantity": 4025
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "20,000 Wood",
+            "quantity": 4025
+          }
+        ],
+        "tier": 6
+      }
+    ]
+  },
+  {
+    "id": "ec49307ed5b44e0d",
+    "name": "Conquest Weekly Provisions Pack",
+    "packs": [
+      {
+        "id": "9a4099c991b499f5",
+        "items": [
+          {
+            "description": "Ancient schematics and plans used for crafting dragon equipment.",
+            "name": "Valyrian Schematics",
+            "quantity": 10000
+          },
+          {
+            "description": "Reduces time remaining",
+            "name": "1m Speedup",
+            "quantity": 150
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "1,000 Food",
+            "quantity": 300
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "1,000 Wood",
+            "quantity": 300
+          },
+          {
+            "description": "Use this to get Stone",
+            "name": "100 Stone",
+            "quantity": 300
+          },
+          {
+            "description": "Use this to get Iron",
+            "name": "50 Iron",
+            "quantity": 300
+          }
+        ],
+        "summary": [
+          {
+            "description": "Ancient schematics and plans used for crafting dragon equipment.",
+            "name": "Valyrian Schematics",
+            "quantity": 70000
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "1,000 Food",
+            "quantity": 2100
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "1,000 Wood",
+            "quantity": 2100
+          }
+        ],
+        "tier": 2
+      },
+      {
+        "id": "5510b362a83f14",
+        "items": [
+          {
+            "description": "Ancient schematics and plans used for crafting dragon equipment.",
+            "name": "Valyrian Schematics",
+            "quantity": 25000
+          },
+          {
+            "description": "Reduces time remaining",
+            "name": "1m Speedup",
+            "quantity": 450
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "20,000 Food",
+            "quantity": 40
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "20,000 Wood",
+            "quantity": 40
+          },
+          {
+            "description": "Use this to get Stone",
+            "name": "3,000 Stone",
+            "quantity": 40
+          },
+          {
+            "description": "Use this to get Iron",
+            "name": "800 Iron",
+            "quantity": 40
+          }
+        ],
+        "summary": [
+          {
+            "description": "Ancient schematics and plans used for crafting dragon equipment.",
+            "name": "Valyrian Schematics",
+            "quantity": 175000
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "20,000 Food",
+            "quantity": 280
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "20,000 Wood",
+            "quantity": 280
+          }
+        ],
+        "tier": 3
+      },
+      {
+        "id": "f30a478c9afee01",
+        "items": [
+          {
+            "description": "Ancient schematics and plans used for crafting dragon equipment.",
+            "name": "Valyrian Schematics",
+            "quantity": 58000
+          },
+          {
+            "description": "Reduces time remaining",
+            "name": "5m Speedup",
+            "quantity": 200
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "20,000 Food",
+            "quantity": 90
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "20,000 Wood",
+            "quantity": 90
+          },
+          {
+            "description": "Use this to get Stone",
+            "name": "3,000 Stone",
+            "quantity": 90
+          },
+          {
+            "description": "Use this to get Iron",
+            "name": "800 Iron",
+            "quantity": 90
+          }
+        ],
+        "summary": [
+          {
+            "description": "Ancient schematics and plans used for crafting dragon equipment.",
+            "name": "Valyrian Schematics",
+            "quantity": 406000
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "20,000 Food",
+            "quantity": 630
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "20,000 Wood",
+            "quantity": 630
+          }
+        ],
+        "tier": 4
+      },
+      {
+        "id": "14d8a1a906a2fcd8",
+        "items": [
+          {
+            "description": "Ancient schematics and plans used for crafting dragon equipment.",
+            "name": "Valyrian Schematics",
+            "quantity": 160000
+          },
+          {
+            "description": "Reduces time remaining",
+            "name": "5m Speedup",
+            "quantity": 500
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "20,000 Food",
+            "quantity": 250
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "20,000 Wood",
+            "quantity": 250
+          },
+          {
+            "description": "Use this to get Stone",
+            "name": "3,000 Stone",
+            "quantity": 250
+          },
+          {
+            "description": "Use this to get Iron",
+            "name": "800 Iron",
+            "quantity": 250
+          }
+        ],
+        "summary": [
+          {
+            "description": "Ancient schematics and plans used for crafting dragon equipment.",
+            "name": "Valyrian Schematics",
+            "quantity": 1120000
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "20,000 Food",
+            "quantity": 1750
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "20,000 Wood",
+            "quantity": 1750
+          }
+        ],
+        "tier": 5
+      },
+      {
+        "id": "2263826331a6726d",
+        "items": [
+          {
+            "description": "Ancient schematics and plans used for crafting dragon equipment.",
+            "name": "Valyrian Schematics",
+            "quantity": 350000
+          },
+          {
+            "description": "Reduces time remaining",
+            "name": "60m Speedup",
+            "quantity": 100
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "20,000 Food",
+            "quantity": 575
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "20,000 Wood",
+            "quantity": 575
+          },
+          {
+            "description": "Use this to get Stone",
+            "name": "3,000 Stone",
+            "quantity": 575
+          },
+          {
+            "description": "Use this to get Iron",
+            "name": "800 Iron",
+            "quantity": 575
+          }
+        ],
+        "summary": [
+          {
+            "description": "Ancient schematics and plans used for crafting dragon equipment.",
+            "name": "Valyrian Schematics",
+            "quantity": 2450000
+          },
+          {
+            "description": "Use this to get Food",
+            "name": "20,000 Food",
+            "quantity": 4025
+          },
+          {
+            "description": "Use this to get Wood",
+            "name": "20,000 Wood",
+            "quantity": 4025
+          }
+        ],
+        "tier": 6
+      }
+    ]
+  },
+  {
     "id": "65fef3ea9f1fc720",
     "name": "Targaryen Kingsguard Daily Delivery",
     "packs": [

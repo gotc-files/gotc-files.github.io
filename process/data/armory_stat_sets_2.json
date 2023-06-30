@@ -1380,6 +1380,36 @@
           "progression": "prog_armory_bouns_MarcherTroop_1"
         }
       ]
+    },
+    {
+      "id": "61d7bc63f16774a9",
+      "name": "armcol_events_freedom2_1",
+      "stats": [
+        {
+          "name": "property_CavalryDefenseVsPlayer_armory",
+          "progression": "prog_armory_bonus_SpecificTroop_1"
+        }
+      ]
+    },
+    {
+      "id": "14c5e088289286a7",
+      "name": "armcol_events_freedom2_2",
+      "stats": [
+        {
+          "name": "property_CavalryAttackVsPlayersInfantry_armory",
+          "progression": "prog_armory_bonus_SpecificTroop_1"
+        }
+      ]
+    },
+    {
+      "id": "38342b2e9fc1d75d",
+      "name": "armcol_events_freedom2_3",
+      "stats": [
+        {
+          "name": "property_MarcherCavalryHealthVsPlayer_armory",
+          "progression": "prog_armory_bouns_MarcherTroop_1"
+        }
+      ]
     }
   ]
 }

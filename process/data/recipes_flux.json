@@ -506,6 +506,48 @@
       "target_quantity": 1000000
     },
     {
+      "description_placeholder": "ALCHEMY_RECIPE_FLUX_0_DESC",
+      "display_group_name": "displayGroup_alchemy_quantity_limited_recipe__item_flux_0_to_item_xp_Lord_100__1",
+      "event_name": "",
+      "event_points": 0,
+      "id": "8802b65fdcf02e0",
+      "ingredients_name": "recipe_alchemy_quantity_limited_recipe__item_flux_0_to_item_xp_Lord_100__1_1",
+      "limit": 1000,
+      "name": "alchemy_quantity_limited_recipe__item_flux_0_to_item_xp_Lord_100__1_1",
+      "name_placeholder": "ITEM_XP_LORD_100",
+      "priority": 62,
+      "target_quality": 0,
+      "target_quantity": 1
+    },
+    {
+      "description_placeholder": "ALCHEMY_RECIPE_FLUX_0_DESC",
+      "display_group_name": "displayGroup_alchemy_quantity_limited_recipe__item_flux_0_to_item_xp_Lord_1000__1",
+      "event_name": "",
+      "event_points": 0,
+      "id": "7c7bd62d73e0dd46",
+      "ingredients_name": "recipe_alchemy_quantity_limited_recipe__item_flux_0_to_item_xp_Lord_1000__1_1",
+      "limit": 500,
+      "name": "alchemy_quantity_limited_recipe__item_flux_0_to_item_xp_Lord_1000__1_1",
+      "name_placeholder": "ITEM_XP_LORD_1000",
+      "priority": 64,
+      "target_quality": 0,
+      "target_quantity": 1
+    },
+    {
+      "description_placeholder": "ALCHEMY_RECIPE_FLUX_0_DESC",
+      "display_group_name": "displayGroup_alchemy_quantity_limited_recipe__item_flux_0_to_item_xp_Lord_10000__1",
+      "event_name": "",
+      "event_points": 0,
+      "id": "c6d24cd473db2caa",
+      "ingredients_name": "recipe_alchemy_quantity_limited_recipe__item_flux_0_to_item_xp_Lord_10000__1_1",
+      "limit": 250,
+      "name": "alchemy_quantity_limited_recipe__item_flux_0_to_item_xp_Lord_10000__1_1",
+      "name_placeholder": "ITEM_XP_LORD_10000",
+      "priority": 65,
+      "target_quality": 0,
+      "target_quantity": 1
+    },
+    {
       "description_placeholder": "ALCHEMY_RECIPE_FLUX_1_DESC",
       "display_group_name": "displayGroup_alchemy_recipe__item_flux_1_to_mat_event_winteriscoming_1__1",
       "event_name": "",
