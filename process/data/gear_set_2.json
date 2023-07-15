@@ -1269,6 +1269,33 @@
       "ring_name": "prog_gearset_events_freedom2_ring",
       "weapon_id": "d0621453451c06d8",
       "weapon_name": "prog_gearset_events_freedom2_weapon"
+    },
+    {
+      "boots_id": "ef07121355852c7f",
+      "boots_name": "prog_gearset_events_nymeria_boots",
+      "chest_id": "d37caeb9611a1d47",
+      "chest_name": "prog_gearset_events_nymeria_chest",
+      "color": {
+        "alpha": 255,
+        "blue": 51,
+        "green": 12,
+        "red": 163
+      },
+      "description_placeholder": "EQ_EVENTS_NYMERIA_SET_DESCRIPTION",
+      "helmet_id": "a66891ff542e993f",
+      "helmet_name": "prog_gearset_events_nymeria_helmet",
+      "id": "ce1903c372212821",
+      "material_id": 6766846327625279890,
+      "material_name": "mat_event_nymeria_1",
+      "name": "gearset_events_nymeria",
+      "name_placeholder": "EQ_EVENTS_NYMERIA_SET_NAME",
+      "pants_id": "563478b187c28d36",
+      "pants_name": "prog_gearset_events_nymeria_pants",
+      "priority": 28500,
+      "ring_id": "ec02ccb0e2cd48de",
+      "ring_name": "prog_gearset_events_nymeria_ring",
+      "weapon_id": "d43d57463dec2fec",
+      "weapon_name": "prog_gearset_events_nymeria_weapon"
     }
   ]
 }

@@ -25380,6 +25380,546 @@
       "name_placeholder": "EQ_EVENTS_FREEDOM2_50_WEAPON_LORD50_NAME",
       "priority": 302820,
       "slot_name": "slot_Weapon"
+    },
+    {
+      "id": "f0c78d7170581676",
+      "image": "icon_eq_events_nymeria_boots_1.png",
+      "level": 5,
+      "name": "eq_events_nymeria_5_boots_lord5",
+      "name_placeholder": "EQ_EVENTS_NYMERIA_5_BOOTS_LORD5_NAME",
+      "priority": 302821,
+      "slot_name": "slot_Boots"
+    },
+    {
+      "id": "e06dda295fff08e1",
+      "image": "icon_eq_events_nymeria_chest_1.png",
+      "level": 5,
+      "name": "eq_events_nymeria_5_chest_lord5",
+      "name_placeholder": "EQ_EVENTS_NYMERIA_5_CHEST_LORD5_NAME",
+      "priority": 302822,
+      "slot_name": "slot_Chest"
+    },
+    {
+      "id": "95b8caba4551e876",
+      "image": "icon_eq_events_nymeria_helmet_1.png",
+      "level": 5,
+      "name": "eq_events_nymeria_5_helmet_lord5",
+      "name_placeholder": "EQ_EVENTS_NYMERIA_5_HELMET_LORD5_NAME",
+      "priority": 302823,
+      "slot_name": "slot_Helmet"
+    },
+    {
+      "id": "3345980a2d07c1fa",
+      "image": "icon_eq_events_nymeria_pants_1.png",
+      "level": 5,
+      "name": "eq_events_nymeria_5_pants_lord5",
+      "name_placeholder": "EQ_EVENTS_NYMERIA_5_PANTS_LORD5_NAME",
+      "priority": 302824,
+      "slot_name": "slot_Pants"
+    },
+    {
+      "id": "97fe16b767fe0a22",
+      "image": "icon_eq_events_nymeria_ring_1.png",
+      "level": 5,
+      "name": "eq_events_nymeria_5_ring_lord5",
+      "name_placeholder": "EQ_EVENTS_NYMERIA_5_RING_LORD5_NAME",
+      "priority": 302825,
+      "slot_name": "slot_Ring"
+    },
+    {
+      "id": "f265528d0c8eb6fb",
+      "image": "icon_eq_events_nymeria_weapon_1.png",
+      "level": 5,
+      "name": "eq_events_nymeria_5_weapon_lord5",
+      "name_placeholder": "EQ_EVENTS_NYMERIA_5_WEAPON_LORD5_NAME",
+      "priority": 302826,
+      "slot_name": "slot_Weapon"
+    },
+    {
+      "id": "1a2b07e8d4a0d6de",
+      "image": "icon_eq_events_nymeria_boots_1.png",
+      "level": 10,
+      "name": "eq_events_nymeria_10_boots_lord10",
+      "name_placeholder": "EQ_EVENTS_NYMERIA_10_BOOTS_LORD10_NAME",
+      "priority": 302827,
+      "slot_name": "slot_Boots"
+    },
+    {
+      "id": "556182008324ad6e",
+      "image": "icon_eq_events_nymeria_chest_1.png",
+      "level": 10,
+      "name": "eq_events_nymeria_10_chest_lord10",
+      "name_placeholder": "EQ_EVENTS_NYMERIA_10_CHEST_LORD10_NAME",
+      "priority": 302828,
+      "slot_name": "slot_Chest"
+    },
+    {
+      "id": "38ac430f66984e03",
+      "image": "icon_eq_events_nymeria_helmet_1.png",
+      "level": 10,
+      "name": "eq_events_nymeria_10_helmet_lord10",
+      "name_placeholder": "EQ_EVENTS_NYMERIA_10_HELMET_LORD10_NAME",
+      "priority": 302829,
+      "slot_name": "slot_Helmet"
+    },
+    {
+      "id": "8d46951d2552a98f",
+      "image": "icon_eq_events_nymeria_pants_1.png",
+      "level": 10,
+      "name": "eq_events_nymeria_10_pants_lord10",
+      "name_placeholder": "EQ_EVENTS_NYMERIA_10_PANTS_LORD10_NAME",
+      "priority": 302830,
+      "slot_name": "slot_Pants"
+    },
+    {
+      "id": "c1460e415fc9fc8c",
+      "image": "icon_eq_events_nymeria_ring_1.png",
+      "level": 10,
+      "name": "eq_events_nymeria_10_ring_lord10",
+      "name_placeholder": "EQ_EVENTS_NYMERIA_10_RING_LORD10_NAME",
+      "priority": 302831,
+      "slot_name": "slot_Ring"
+    },
+    {
+      "id": "839445d16c2de021",
+      "image": "icon_eq_events_nymeria_weapon_1.png",
+      "level": 10,
+      "name": "eq_events_nymeria_10_weapon_lord10",
+      "name_placeholder": "EQ_EVENTS_NYMERIA_10_WEAPON_LORD10_NAME",
+      "priority": 302832,
+      "slot_name": "slot_Weapon"
+    },
+    {
+      "id": "90417f3a27f3332e",
+      "image": "icon_eq_events_nymeria_boots_1.png",
+      "level": 15,
+      "name": "eq_events_nymeria_15_boots_lord15",
+      "name_placeholder": "EQ_EVENTS_NYMERIA_15_BOOTS_LORD15_NAME",
+      "priority": 302833,
+      "slot_name": "slot_Boots"
+    },
+    {
+      "id": "df0bfad27077489e",
+      "image": "icon_eq_events_nymeria_chest_1.png",
+      "level": 15,
+      "name": "eq_events_nymeria_15_chest_lord15",
+      "name_placeholder": "EQ_EVENTS_NYMERIA_15_CHEST_LORD15_NAME",
+      "priority": 302834,
+      "slot_name": "slot_Chest"
+    },
+    {
+      "id": "f660497815bf866",
+      "image": "icon_eq_events_nymeria_helmet_1.png",
+      "level": 15,
+      "name": "eq_events_nymeria_15_helmet_lord15",
+      "name_placeholder": "EQ_EVENTS_NYMERIA_15_HELMET_LORD15_NAME",
+      "priority": 302835,
+      "slot_name": "slot_Helmet"
+    },
+    {
+      "id": "72cedcfd6014c7f",
+      "image": "icon_eq_events_nymeria_pants_1.png",
+      "level": 15,
+      "name": "eq_events_nymeria_15_pants_lord15",
+      "name_placeholder": "EQ_EVENTS_NYMERIA_15_PANTS_LORD15_NAME",
+      "priority": 302836,
+      "slot_name": "slot_Pants"
+    },
+    {
+      "id": "be21736fe605cc5d",
+      "image": "icon_eq_events_nymeria_ring_1.png",
+      "level": 15,
+      "name": "eq_events_nymeria_15_ring_lord15",
+      "name_placeholder": "EQ_EVENTS_NYMERIA_15_RING_LORD15_NAME",
+      "priority": 302837,
+      "slot_name": "slot_Ring"
+    },
+    {
+      "id": "b45e02498bee5644",
+      "image": "icon_eq_events_nymeria_weapon_1.png",
+      "level": 15,
+      "name": "eq_events_nymeria_15_weapon_lord15",
+      "name_placeholder": "EQ_EVENTS_NYMERIA_15_WEAPON_LORD15_NAME",
+      "priority": 302838,
+      "slot_name": "slot_Weapon"
+    },
+    {
+      "id": "f373136c3c76a2ff",
+      "image": "icon_eq_events_nymeria_boots_1.png",
+      "level": 20,
+      "name": "eq_events_nymeria_20_boots_lord20",
+      "name_placeholder": "EQ_EVENTS_NYMERIA_20_BOOTS_LORD20_NAME",
+      "priority": 302839,
+      "slot_name": "slot_Boots"
+    },
+    {
+      "id": "bc3996846bf2d94f",
+      "image": "icon_eq_events_nymeria_chest_1.png",
+      "level": 20,
+      "name": "eq_events_nymeria_20_chest_lord20",
+      "name_placeholder": "EQ_EVENTS_NYMERIA_20_CHEST_LORD20_NAME",
+      "priority": 302840,
+      "slot_name": "slot_Chest"
+    },
+    {
+      "id": "5d9e61e3afdc5a3c",
+      "image": "icon_eq_events_nymeria_helmet_1.png",
+      "level": 20,
+      "name": "eq_events_nymeria_20_helmet_lord20",
+      "name_placeholder": "EQ_EVENTS_NYMERIA_20_HELMET_LORD20_NAME",
+      "priority": 302841,
+      "slot_name": "slot_Helmet"
+    },
+    {
+      "id": "641e8199cd84ddae",
+      "image": "icon_eq_events_nymeria_pants_1.png",
+      "level": 20,
+      "name": "eq_events_nymeria_20_pants_lord20",
+      "name_placeholder": "EQ_EVENTS_NYMERIA_20_PANTS_LORD20_NAME",
+      "priority": 302842,
+      "slot_name": "slot_Pants"
+    },
+    {
+      "id": "c2e831d083f57cc7",
+      "image": "icon_eq_events_nymeria_ring_1.png",
+      "level": 20,
+      "name": "eq_events_nymeria_20_ring_lord20",
+      "name_placeholder": "EQ_EVENTS_NYMERIA_20_RING_LORD20_NAME",
+      "priority": 302843,
+      "slot_name": "slot_Ring"
+    },
+    {
+      "id": "e6a6673da569f41e",
+      "image": "icon_eq_events_nymeria_weapon_1.png",
+      "level": 20,
+      "name": "eq_events_nymeria_20_weapon_lord20",
+      "name_placeholder": "EQ_EVENTS_NYMERIA_20_WEAPON_LORD20_NAME",
+      "priority": 302844,
+      "slot_name": "slot_Weapon"
+    },
+    {
+      "id": "79196bbecf25470f",
+      "image": "icon_eq_events_nymeria_boots_1.png",
+      "level": 25,
+      "name": "eq_events_nymeria_25_boots_lord25",
+      "name_placeholder": "EQ_EVENTS_NYMERIA_25_BOOTS_LORD25_NAME",
+      "priority": 302845,
+      "slot_name": "slot_Boots"
+    },
+    {
+      "id": "3653ee5698a13cbf",
+      "image": "icon_eq_events_nymeria_chest_1.png",
+      "level": 25,
+      "name": "eq_events_nymeria_25_chest_lord25",
+      "name_placeholder": "EQ_EVENTS_NYMERIA_25_CHEST_LORD25_NAME",
+      "priority": 302846,
+      "slot_name": "slot_Chest"
+    },
+    {
+      "id": "6a54267b481fec59",
+      "image": "icon_eq_events_nymeria_helmet_1.png",
+      "level": 25,
+      "name": "eq_events_nymeria_25_helmet_lord25",
+      "name_placeholder": "EQ_EVENTS_NYMERIA_25_HELMET_LORD25_NAME",
+      "priority": 302847,
+      "slot_name": "slot_Helmet"
+    },
+    {
+      "id": "ee74f94b3ed7385e",
+      "image": "icon_eq_events_nymeria_pants_1.png",
+      "level": 25,
+      "name": "eq_events_nymeria_25_pants_lord25",
+      "name_placeholder": "EQ_EVENTS_NYMERIA_25_PANTS_LORD25_NAME",
+      "priority": 302848,
+      "slot_name": "slot_Pants"
+    },
+    {
+      "id": "bd8f4cfe3a394c16",
+      "image": "icon_eq_events_nymeria_ring_1.png",
+      "level": 25,
+      "name": "eq_events_nymeria_25_ring_lord25",
+      "name_placeholder": "EQ_EVENTS_NYMERIA_25_RING_LORD25_NAME",
+      "priority": 302849,
+      "slot_name": "slot_Ring"
+    },
+    {
+      "id": "d16c20a542aa427b",
+      "image": "icon_eq_events_nymeria_weapon_1.png",
+      "level": 25,
+      "name": "eq_events_nymeria_25_weapon_lord25",
+      "name_placeholder": "EQ_EVENTS_NYMERIA_25_WEAPON_LORD25_NAME",
+      "priority": 302850,
+      "slot_name": "slot_Weapon"
+    },
+    {
+      "id": "2a2d213ca35e4bf9",
+      "image": "icon_eq_events_nymeria_boots_1.png",
+      "level": 30,
+      "name": "eq_events_nymeria_30_boots_lord30",
+      "name_placeholder": "EQ_EVENTS_NYMERIA_30_BOOTS_LORD30_NAME",
+      "priority": 302851,
+      "slot_name": "slot_Boots"
+    },
+    {
+      "id": "6567a4d4f4da3049",
+      "image": "icon_eq_events_nymeria_chest_1.png",
+      "level": 30,
+      "name": "eq_events_nymeria_30_chest_lord30",
+      "name_placeholder": "EQ_EVENTS_NYMERIA_30_CHEST_LORD30_NAME",
+      "priority": 302852,
+      "slot_name": "slot_Chest"
+    },
+    {
+      "id": "7e8f8047e8e05629",
+      "image": "icon_eq_events_nymeria_helmet_1.png",
+      "level": 30,
+      "name": "eq_events_nymeria_30_helmet_lord30",
+      "name_placeholder": "EQ_EVENTS_NYMERIA_30_HELMET_LORD30_NAME",
+      "priority": 302853,
+      "slot_name": "slot_Helmet"
+    },
+    {
+      "id": "bd40b3c952ac34a8",
+      "image": "icon_eq_events_nymeria_pants_1.png",
+      "level": 30,
+      "name": "eq_events_nymeria_30_pants_lord30",
+      "name_placeholder": "EQ_EVENTS_NYMERIA_30_PANTS_LORD30_NAME",
+      "priority": 302854,
+      "slot_name": "slot_Pants"
+    },
+    {
+      "id": "c38ddb5fc81efcfe",
+      "image": "icon_eq_events_nymeria_ring_1.png",
+      "level": 30,
+      "name": "eq_events_nymeria_30_ring_lord30",
+      "name_placeholder": "EQ_EVENTS_NYMERIA_30_RING_LORD30_NAME",
+      "priority": 302855,
+      "slot_name": "slot_Ring"
+    },
+    {
+      "id": "c5b78699e255f80b",
+      "image": "icon_eq_events_nymeria_weapon_1.png",
+      "level": 30,
+      "name": "eq_events_nymeria_30_weapon_lord30",
+      "name_placeholder": "EQ_EVENTS_NYMERIA_30_WEAPON_LORD30_NAME",
+      "priority": 302856,
+      "slot_name": "slot_Weapon"
+    },
+    {
+      "id": "a04759ee500dae09",
+      "image": "icon_eq_events_nymeria_boots_1.png",
+      "level": 35,
+      "name": "eq_events_nymeria_35_boots_lord35",
+      "name_placeholder": "EQ_EVENTS_NYMERIA_35_BOOTS_LORD35_NAME",
+      "priority": 302857,
+      "slot_name": "slot_Boots"
+    },
+    {
+      "id": "ef0ddc060789d5b9",
+      "image": "icon_eq_events_nymeria_chest_1.png",
+      "level": 35,
+      "name": "eq_events_nymeria_35_chest_lord35",
+      "name_placeholder": "EQ_EVENTS_NYMERIA_35_CHEST_LORD35_NAME",
+      "priority": 302858,
+      "slot_name": "slot_Chest"
+    },
+    {
+      "id": "4945c7df0f23e04c",
+      "image": "icon_eq_events_nymeria_helmet_1.png",
+      "level": 35,
+      "name": "eq_events_nymeria_35_helmet_lord35",
+      "name_placeholder": "EQ_EVENTS_NYMERIA_35_HELMET_LORD35_NAME",
+      "priority": 302859,
+      "slot_name": "slot_Helmet"
+    },
+    {
+      "id": "372acb1ba1ffd158",
+      "image": "icon_eq_events_nymeria_pants_1.png",
+      "level": 35,
+      "name": "eq_events_nymeria_35_pants_lord35",
+      "name_placeholder": "EQ_EVENTS_NYMERIA_35_PANTS_LORD35_NAME",
+      "priority": 302860,
+      "slot_name": "slot_Pants"
+    },
+    {
+      "id": "bceaa67171d2cc2f",
+      "image": "icon_eq_events_nymeria_ring_1.png",
+      "level": 35,
+      "name": "eq_events_nymeria_35_ring_lord35",
+      "name_placeholder": "EQ_EVENTS_NYMERIA_35_RING_LORD35_NAME",
+      "priority": 302861,
+      "slot_name": "slot_Ring"
+    },
+    {
+      "id": "f27dc10105964e6e",
+      "image": "icon_eq_events_nymeria_weapon_1.png",
+      "level": 35,
+      "name": "eq_events_nymeria_35_weapon_lord35",
+      "name_placeholder": "EQ_EVENTS_NYMERIA_35_WEAPON_LORD35_NAME",
+      "priority": 302862,
+      "slot_name": "slot_Weapon"
+    },
+    {
+      "id": "a3797810a4750596",
+      "image": "icon_eq_events_nymeria_boots_1.png",
+      "level": 40,
+      "name": "eq_events_nymeria_40_boots_lord40",
+      "name_placeholder": "EQ_EVENTS_NYMERIA_40_BOOTS_LORD40_NAME",
+      "priority": 302863,
+      "slot_name": "slot_Boots"
+    },
+    {
+      "id": "ec33fdf8f3f17e26",
+      "image": "icon_eq_events_nymeria_chest_1.png",
+      "level": 40,
+      "name": "eq_events_nymeria_40_chest_lord40",
+      "name_placeholder": "EQ_EVENTS_NYMERIA_40_CHEST_LORD40_NAME",
+      "priority": 302864,
+      "slot_name": "slot_Chest"
+    },
+    {
+      "id": "97fa243a3d547242",
+      "image": "icon_eq_events_nymeria_helmet_1.png",
+      "level": 40,
+      "name": "eq_events_nymeria_40_helmet_lord40",
+      "name_placeholder": "EQ_EVENTS_NYMERIA_40_HELMET_LORD40_NAME",
+      "priority": 302865,
+      "slot_name": "slot_Helmet"
+    },
+    {
+      "id": "3414eae555877ac7",
+      "image": "icon_eq_events_nymeria_pants_1.png",
+      "level": 40,
+      "name": "eq_events_nymeria_40_pants_lord40",
+      "name_placeholder": "EQ_EVENTS_NYMERIA_40_PANTS_LORD40_NAME",
+      "priority": 302866,
+      "slot_name": "slot_Pants"
+    },
+    {
+      "id": "c5b44ef33b8c7c51",
+      "image": "icon_eq_events_nymeria_ring_1.png",
+      "level": 40,
+      "name": "eq_events_nymeria_40_ring_lord40",
+      "name_placeholder": "EQ_EVENTS_NYMERIA_40_RING_LORD40_NAME",
+      "priority": 302867,
+      "slot_name": "slot_Ring"
+    },
+    {
+      "id": "2cc222e437e1dc60",
+      "image": "icon_eq_events_nymeria_weapon_1.png",
+      "level": 40,
+      "name": "eq_events_nymeria_40_weapon_lord40",
+      "name_placeholder": "EQ_EVENTS_NYMERIA_40_WEAPON_LORD40_NAME",
+      "priority": 302868,
+      "slot_name": "slot_Weapon"
+    },
+    {
+      "id": "291300c25726e066",
+      "image": "icon_eq_events_nymeria_boots_1.png",
+      "level": 45,
+      "name": "eq_events_nymeria_45_boots_lord45",
+      "name_placeholder": "EQ_EVENTS_NYMERIA_45_BOOTS_LORD45_NAME",
+      "priority": 302869,
+      "slot_name": "slot_Boots"
+    },
+    {
+      "id": "6659852a00a29bd6",
+      "image": "icon_eq_events_nymeria_chest_1.png",
+      "level": 45,
+      "name": "eq_events_nymeria_45_chest_lord45",
+      "name_placeholder": "EQ_EVENTS_NYMERIA_45_CHEST_LORD45_NAME",
+      "priority": 302870,
+      "slot_name": "slot_Chest"
+    },
+    {
+      "id": "a03063a2da97c427",
+      "image": "icon_eq_events_nymeria_helmet_1.png",
+      "level": 45,
+      "name": "eq_events_nymeria_45_helmet_lord45",
+      "name_placeholder": "EQ_EVENTS_NYMERIA_45_HELMET_LORD45_NAME",
+      "priority": 302871,
+      "slot_name": "slot_Helmet"
+    },
+    {
+      "id": "be7e9237a6d49f37",
+      "image": "icon_eq_events_nymeria_pants_1.png",
+      "level": 45,
+      "name": "eq_events_nymeria_45_pants_lord45",
+      "name_placeholder": "EQ_EVENTS_NYMERIA_45_PANTS_LORD45_NAME",
+      "priority": 302872,
+      "slot_name": "slot_Pants"
+    },
+    {
+      "id": "bad333dd82404c80",
+      "image": "icon_eq_events_nymeria_ring_1.png",
+      "level": 45,
+      "name": "eq_events_nymeria_45_ring_lord45",
+      "name_placeholder": "EQ_EVENTS_NYMERIA_45_RING_LORD45_NAME",
+      "priority": 302873,
+      "slot_name": "slot_Ring"
+    },
+    {
+      "id": "1b08657cd0226a05",
+      "image": "icon_eq_events_nymeria_weapon_1.png",
+      "level": 45,
+      "name": "eq_events_nymeria_45_weapon_lord45",
+      "name_placeholder": "EQ_EVENTS_NYMERIA_45_WEAPON_LORD45_NAME",
+      "priority": 302874,
+      "slot_name": "slot_Weapon"
+    },
+    {
+      "id": "7a274a403b5dec90",
+      "image": "icon_eq_events_nymeria_boots_1.png",
+      "level": 50,
+      "name": "eq_events_nymeria_50_boots_lord50",
+      "name_placeholder": "EQ_EVENTS_NYMERIA_50_BOOTS_LORD50_NAME",
+      "priority": 302875,
+      "slot_name": "slot_Boots"
+    },
+    {
+      "id": "356dcfa86cd99720",
+      "image": "icon_eq_events_nymeria_chest_1.png",
+      "level": 50,
+      "name": "eq_events_nymeria_50_chest_lord50",
+      "name_placeholder": "EQ_EVENTS_NYMERIA_50_CHEST_LORD50_NAME",
+      "priority": 302876,
+      "slot_name": "slot_Chest"
+    },
+    {
+      "id": "b4ebc59e7a687e57",
+      "image": "icon_eq_events_nymeria_helmet_1.png",
+      "level": 50,
+      "name": "eq_events_nymeria_50_helmet_lord50",
+      "name_placeholder": "EQ_EVENTS_NYMERIA_50_HELMET_LORD50_NAME",
+      "priority": 302877,
+      "slot_name": "slot_Helmet"
+    },
+    {
+      "id": "ed4ad8b5caaf93c1",
+      "image": "icon_eq_events_nymeria_pants_1.png",
+      "level": 50,
+      "name": "eq_events_nymeria_50_pants_lord50",
+      "name_placeholder": "EQ_EVENTS_NYMERIA_50_PANTS_LORD50_NAME",
+      "priority": 302878,
+      "slot_name": "slot_Pants"
+    },
+    {
+      "id": "c4d1a47c7067fc68",
+      "image": "icon_eq_events_nymeria_ring_1.png",
+      "level": 50,
+      "name": "eq_events_nymeria_50_ring_lord50",
+      "name_placeholder": "EQ_EVENTS_NYMERIA_50_RING_LORD50_NAME",
+      "priority": 302879,
+      "slot_name": "slot_Ring"
+    },
+    {
+      "id": "fd3c34070ddd075",
+      "image": "icon_eq_events_nymeria_weapon_1.png",
+      "level": 50,
+      "name": "eq_events_nymeria_50_weapon_lord50",
+      "name_placeholder": "EQ_EVENTS_NYMERIA_50_WEAPON_LORD50_NAME",
+      "priority": 302880,
+      "slot_name": "slot_Weapon"
     }
   ]
 }

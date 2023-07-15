@@ -3186,6 +3186,84 @@
         "summon_purchase_royal_SyrioOldNanJUN23_Gold_10x_top"
       ],
       "time_str": "JUN23"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "LorasGreyWorm",
+      "id": "5621f9f8a7b9e5f2",
+      "name": "summon_noble_LorasGreyWormJUL23_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_LorasGreyWormJUL23_Hero_1x_top",
+        "summon_purchase_noble_LorasGreyWormJUL23_Hero_10x_top"
+      ],
+      "time_str": "JUL23"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "GreyWormRhaegar",
+      "id": "b59a809553025b80",
+      "name": "summon_noble_GreyWormRhaegarJUL23_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_GreyWormRhaegarJUL23_Hero_1x_top",
+        "summon_purchase_noble_GreyWormRhaegarJUL23_Hero_10x_top"
+      ],
+      "time_str": "JUL23"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "DanyCersei",
+      "id": "5ba5e05b18958a55",
+      "name": "summon_noble_DanyCerseiJUL23_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_DanyCerseiJUL23_Hero_1x_top",
+        "summon_purchase_noble_DanyCerseiJUL23_Hero_10x_top"
+      ],
+      "time_str": "JUL23"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "LorasGreyWorm",
+      "id": "797bc034b3ad6a1e",
+      "name": "summon_royal_LorasGreyWormJUL23_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_LorasGreyWormJUL23_Gold_1x_top",
+        "summon_purchase_royal_LorasGreyWormJUL23_Gold_10x_top"
+      ],
+      "time_str": "JUL23"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "GreyWormRhaegar",
+      "id": "17d97282fc63d9e9",
+      "name": "summon_royal_GreyWormRhaegarJUL23_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_GreyWormRhaegarJUL23_Gold_1x_top",
+        "summon_purchase_royal_GreyWormRhaegarJUL23_Gold_10x_top"
+      ],
+      "time_str": "JUL23"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "DanyCersei",
+      "id": "7bbd0987a401776c",
+      "name": "summon_royal_DanyCerseiJUL23_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_DanyCerseiJUL23_Gold_1x_top",
+        "summon_purchase_royal_DanyCerseiJUL23_Gold_10x_top"
+      ],
+      "time_str": "JUL23"
     }
   ]
 }

@@ -10,7 +10,7 @@ class DataManager:
         self.data[file_id] = values
         for key_name in key_names:
             self.indexes[file_id][key_name] = {
-                value[key_name]: (value[value_name] if value_name else value)
+                value[key_name].lower(): (value[value_name] if value_name else value)
                 for value in values
             }
 
@@ -20,7 +20,7 @@ class DataManager:
         file_indexes = self.indexes[file_id]
         if key_name not in file_indexes:
             return None
-        return file_indexes[key_name].get(key, None)
+        return file_indexes[key_name].get(key.lower(), None)
 
     def get_file_data(self, file_id):
         return self.data[file_id]

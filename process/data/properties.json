@@ -13210,6 +13210,14 @@
       "type": 4
     },
     {
+      "description_placeholder": "PROPERTY_DRAGONMARCHERTROOPATTACKVSPLAYER_DESC",
+      "id": "fec6a32fff9e2242",
+      "image": "dragon_research_carnage_army.png",
+      "name": "property_DragonMarcherTroopAttackVsPlayer_armory",
+      "name_placeholder": "PROPERTY_DRAGONMARCHERTROOPATTACKVSPLAYER",
+      "type": 10
+    },
+    {
       "description_placeholder": "PROPERTY_DRAGONMARCHERTROOPDEFENSEVSPLAYER_DESC",
       "id": "15a66fec86cf32c5",
       "image": "dragon_research_defense_from_the_air.png",
@@ -13223,6 +13231,30 @@
       "image": "dragon_talent_adolescent_dragonMod_troop_health.png",
       "name": "property_DragonMarcherTroopHealthVsPlayer_gear",
       "name_placeholder": "PROPERTY_DRAGONMARCHERTROOPHEALTHVSPLAYER",
+      "type": 4
+    },
+    {
+      "description_placeholder": "PROPERTY_DRAGON_TROOPATTACKVSPLAYERSEATOFPOWER_DESC",
+      "id": "49d297a994b80f6",
+      "image": "dragon_talent_troop_attack_SoP.png",
+      "name": "property_DragonTroopAttackVsPlayerSeatOfPower_gear",
+      "name_placeholder": "PROPERTY_DRAGON_TROOPATTACKVSPLAYERSEATOFPOWER",
+      "type": 4
+    },
+    {
+      "description_placeholder": "PROPERTY_DRAGON_TROOPDEFENSEVSPLAYERSEATOFPOWER_DESC",
+      "id": "7941c9ed4f4bd7",
+      "image": "dragon_talent_troop_defense_SoP.png",
+      "name": "property_DragonTroopDefenseVsPlayerSeatOfPower_gear",
+      "name_placeholder": "PROPERTY_DRAGON_TROOPDEFENSEVSPLAYERSEATOFPOWER",
+      "type": 4
+    },
+    {
+      "description_placeholder": "PROPERTY_DRAGON_TROOPHEALTHVSPLAYERSEATOFPOWER_DESC",
+      "id": "83e5e860f0022d82",
+      "image": "dragon_talent_troop_health_SoP.png",
+      "name": "property_DragonTroopHealthVsPlayerSeatOfPower_gear",
+      "name_placeholder": "PROPERTY_DRAGON_TROOPHEALTHVSPLAYERSEATOFPOWER",
       "type": 4
     },
     {
@@ -15040,6 +15072,14 @@
       "name": "property_DragonStrategicResourceGatheringSpeed_activity",
       "name_placeholder": "PROPERTY_DRAGON_STRATEGICTERRAINGATHERINGSPEED",
       "type": 9
+    },
+    {
+      "description_placeholder": "PROPERTY_DRAGON_STRATEGICTERRAINGATHERINGSPEED_DESC",
+      "id": "8ab86e08d3c11a14",
+      "image": "dragon_research_enable_march_strategic_terrain.png",
+      "name": "property_DragonStrategicResourceGatheringSpeed_gear",
+      "name_placeholder": "PROPERTY_DRAGON_STRATEGICTERRAINGATHERINGSPEED",
+      "type": 4
     },
     {
       "description_placeholder": "PROPERTY_DRAGON_MAXMARCHSIZE_DESC",

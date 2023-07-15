@@ -564,6 +564,18 @@
       "name": "armcol_events_freedom2",
       "name_placeholder": "EQ_EVENTS_FREEDOM2_SET_NAME",
       "priority": 27900
+    },
+    {
+      "bonuses": [
+        "armcol_events_nymeria_1",
+        "armcol_events_nymeria_2",
+        "armcol_events_nymeria_3"
+      ],
+      "gear_set_name": "gearset_events_nymeria",
+      "id": "e39d88b04823a5e5",
+      "name": "armcol_events_nymeria",
+      "name_placeholder": "EQ_EVENTS_NYMERIA_SET_NAME",
+      "priority": 28500
     }
   ]
 }

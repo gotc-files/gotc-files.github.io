@@ -1410,6 +1410,36 @@
           "progression": "prog_armory_bouns_MarcherTroop_1"
         }
       ]
+    },
+    {
+      "id": "f93683194f2a3950",
+      "name": "armcol_events_nymeria_1",
+      "stats": [
+        {
+          "name": "property_DragonTroopDefenseVsPlayer_armory",
+          "progression": "prog_armory_bonus_GeneralTroop_1"
+        }
+      ]
+    },
+    {
+      "id": "8c24dff296dfcb5e",
+      "name": "armcol_events_nymeria_2",
+      "stats": [
+        {
+          "name": "property_DragonBreathDamage_armory",
+          "progression": "prog_armory_bonus_GeneralTroop_1"
+        }
+      ]
+    },
+    {
+      "id": "a0d51454218c9aa4",
+      "name": "armcol_events_nymeria_3",
+      "stats": [
+        {
+          "name": "property_DragonMarcherTroopAttackVsPlayer_armory",
+          "progression": "prog_armory_bouns_MarcherTroop_1"
+        }
+      ]
     }
   ]
 }
