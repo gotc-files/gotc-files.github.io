@@ -13226,12 +13226,28 @@
       "type": 4
     },
     {
+      "description_placeholder": "PROPERTY_DRAGONMARCHERTROOPDEFENSEVSPLAYER_DESC",
+      "id": "d8a0e7eca3939593",
+      "image": "dragon_research_defense_from_the_air.png",
+      "name": "property_DragonMarcherTroopDefenseVsPlayer_armory",
+      "name_placeholder": "PROPERTY_DRAGONMARCHERTROOPDEFENSEVSPLAYER",
+      "type": 10
+    },
+    {
       "description_placeholder": "PROPERTY_DRAGONMARCHERTROOPHEALTHVSPLAYER_DESC",
       "id": "1b28a1be536ac386",
       "image": "dragon_talent_adolescent_dragonMod_troop_health.png",
       "name": "property_DragonMarcherTroopHealthVsPlayer_gear",
       "name_placeholder": "PROPERTY_DRAGONMARCHERTROOPHEALTHVSPLAYER",
       "type": 4
+    },
+    {
+      "description_placeholder": "PROPERTY_DRAGONMARCHERTROOPHEALTHVSPLAYER_DESC",
+      "id": "888dd05cdab0339f",
+      "image": "dragon_talent_adolescent_dragonMod_troop_health.png",
+      "name": "property_DragonMarcherTroopHealthVsPlayer_armory",
+      "name_placeholder": "PROPERTY_DRAGONMARCHERTROOPHEALTHVSPLAYER",
+      "type": 10
     },
     {
       "description_placeholder": "PROPERTY_DRAGON_TROOPATTACKVSPLAYERSEATOFPOWER_DESC",
@@ -13328,6 +13344,14 @@
       "name": "property_DragonCavalryAttackVsPlayer_activity",
       "name_placeholder": "PROPERTY_DRAGON_CAVALRYATTACKVSPLAYER",
       "type": 9
+    },
+    {
+      "description_placeholder": "PROPERTY_DRAGON_CAVALRYATTACKVSSEATOFPOWER_DESC",
+      "id": "1bd9f5f2d2aa3d5e",
+      "image": "dragon_talent_troop_attack_SoP.png",
+      "name": "property_DragonCavalryAttackVsPlayerSeatOfPower_gear",
+      "name_placeholder": "PROPERTY_DRAGON_CAVALRYATTACKVSSEATOFPOWER",
+      "type": 4
     },
     {
       "description_placeholder": "PROPERTY_DRAGON_CAVALRYATTACKVSPLAYERSCAVALRY_DESC",
@@ -13496,6 +13520,14 @@
       "name": "property_DragonCavalryDefenseVsPlayer_armory",
       "name_placeholder": "PROPERTY_DRAGON_CAVALRYDEFENSEVSPLAYER",
       "type": 10
+    },
+    {
+      "description_placeholder": "PROPERTY_DRAGON_CAVALRYDEFENSEVSSEATOFPOWER_DESC",
+      "id": "b5abc2866d6f50be",
+      "image": "dragon_talent_troop_defense_SoP.png",
+      "name": "property_DragonCavalryDefenseVsPlayerSeatOfPower_gear",
+      "name_placeholder": "PROPERTY_DRAGON_CAVALRYDEFENSEVSSEATOFPOWER",
+      "type": 4
     },
     {
       "description_placeholder": "PROPERTY_DRAGON_CAVALRYDEFENSEVSPLAYERSCAVALRY_DESC",
@@ -13690,6 +13722,14 @@
       "type": 3
     },
     {
+      "description_placeholder": "PROPERTY_DRAGON_CAVALRYHEALTHVSSEATOFPOWER_DESC",
+      "id": "9ca134e8bbe3902a",
+      "image": "dragon_talent_troop_health_SoP.png",
+      "name": "property_DragonCavalryHealthVsPlayerSeatOfPower_gear",
+      "name_placeholder": "PROPERTY_DRAGON_CAVALRYHEALTHVSSEATOFPOWER",
+      "type": 4
+    },
+    {
       "description_placeholder": "PROPERTY_DRAGON_INFANTRYATTACKVSPLAYER_DESC",
       "id": "e6d3d0fd5408ea0a",
       "image": "dragon_talent_adult_dragonMod_infantry_attack_pvp_player.png",
@@ -13728,6 +13768,14 @@
       "name": "property_DragonInfantryAttackVsPlayer_activity",
       "name_placeholder": "PROPERTY_DRAGON_INFANTRYATTACKVSPLAYER",
       "type": 9
+    },
+    {
+      "description_placeholder": "PROPERTY_DRAGON_INFANTRYATTACKVSSEATOFPOWER_DESC",
+      "id": "220ae784cbaeb3e4",
+      "image": "dragon_talent_troop_attack_SoP.png",
+      "name": "property_DragonInfantryAttackVsPlayerSeatOfPower_gear",
+      "name_placeholder": "PROPERTY_DRAGON_INFANTRYATTACKVSSEATOFPOWER",
+      "type": 4
     },
     {
       "description_placeholder": "PROPERTY_DRAGON_INFANTRYATTACKVSPLAYERSCAVALRY_DESC",
@@ -13896,6 +13944,14 @@
       "name": "property_DragonInfantryDefenseVsPlayer_armory",
       "name_placeholder": "PROPERTY_DRAGON_INFANTRYDEFENSEVSPLAYER",
       "type": 10
+    },
+    {
+      "description_placeholder": "PROPERTY_DRAGON_INFANTRYDEFENSEVSSEATOFPOWER_DESC",
+      "id": "116e3dbed27fc3cd",
+      "image": "dragon_talent_troop_defense_SoP.png",
+      "name": "property_DragonInfantryDefenseVsPlayerSeatOfPower_gear",
+      "name_placeholder": "PROPERTY_DRAGON_INFANTRYDEFENSEVSSEATOFPOWER",
+      "type": 4
     },
     {
       "description_placeholder": "PROPERTY_DRAGON_INFANTRYDEFENSEVSPLAYERSCAVALRY_DESC",
@@ -14090,6 +14146,14 @@
       "type": 3
     },
     {
+      "description_placeholder": "PROPERTY_DRAGON_INFANTRYHEALTHVSSEATOFPOWER_DESC",
+      "id": "a572269ea2e71e90",
+      "image": "dragon_talent_troop_health_SoP.png",
+      "name": "property_DragonInfantryHealthVsPlayerSeatOfPower_gear",
+      "name_placeholder": "PROPERTY_DRAGON_INFANTRYHEALTHVSSEATOFPOWER",
+      "type": 4
+    },
+    {
       "description_placeholder": "PROPERTY_DRAGON_RANGEDATTACKVSPLAYER_DESC",
       "id": "a7531ee05b6ba6f3",
       "image": "dragon_talent_adult_dragonMod_ranged_attack_pvp_player.png",
@@ -14128,6 +14192,14 @@
       "name": "property_DragonRangedAttackVsPlayer_activity",
       "name_placeholder": "PROPERTY_DRAGON_RANGEDATTACKVSPLAYER",
       "type": 9
+    },
+    {
+      "description_placeholder": "PROPERTY_DRAGON_RANGEDATTACKVSSEATOFPOWER_DESC",
+      "id": "c8294910613b0344",
+      "image": "dragon_talent_troop_attack_SoP.png",
+      "name": "property_DragonRangedAttackVsPlayerSeatOfPower_gear",
+      "name_placeholder": "PROPERTY_DRAGON_RANGEDATTACKVSSEATOFPOWER",
+      "type": 4
     },
     {
       "description_placeholder": "PROPERTY_DRAGON_RANGEDATTACKVSPLAYERSCAVALRY_DESC",
@@ -14296,6 +14368,14 @@
       "name": "property_DragonRangedDefenseVsPlayer_armory",
       "name_placeholder": "PROPERTY_DRAGON_RANGEDDEFENSEVSPLAYER",
       "type": 10
+    },
+    {
+      "description_placeholder": "PROPERTY_DRAGON_RANGEDDEFENSEVSSEATOFPOWER_DESC",
+      "id": "417dc6c3bd8b6c52",
+      "image": "dragon_talent_troop_defense_SoP.png",
+      "name": "property_DragonRangedDefenseVsPlayerSeatOfPower_gear",
+      "name_placeholder": "PROPERTY_DRAGON_RANGEDDEFENSEVSSEATOFPOWER",
+      "type": 4
     },
     {
       "description_placeholder": "PROPERTY_DRAGON_RANGEDDEFENSEVSPLAYERSCAVALRY_DESC",
@@ -14488,6 +14568,14 @@
       "name": "property_DragonRangedHealthVsPlayer_consumable",
       "name_placeholder": "PROPERTY_DRAGON_RANGEDHEALTHVSPLAYER",
       "type": 3
+    },
+    {
+      "description_placeholder": "PROPERTY_DRAGON_RANGEDHEALTHVSSEATOFPOWER_DESC",
+      "id": "4f51880a0872ae30",
+      "image": "dragon_talent_troop_health_SoP.png",
+      "name": "property_DragonRangedHealthVsPlayerSeatOfPower_gear",
+      "name_placeholder": "PROPERTY_DRAGON_RANGEDHEALTHVSSEATOFPOWER",
+      "type": 4
     },
     {
       "description_placeholder": "PROPERTY_DRAGON_SIEGEATTACKVSPLAYER_DESC",

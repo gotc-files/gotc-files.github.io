@@ -90,6 +90,10 @@
       "value": "Once a ruler of the Rhoynar, the courageous Princess Nymeria cemented her legacy by leading her people on a perilous seafaring voyage to a new land, one untouched by the shadow of the Valyrian Freehold. Landing on the shores of Westeros, she would join her forces and her hand with Lord Mors Martell\u2019s, and together they would forge a principality\u2014one that doesn\u2019t shy away from a woman's rule.\n\nLook for these Featured Rewards throughout the Nymeria: Princess of Dorne event:\n* Hardy Silks are used to craft the Rhoynish Voyager gear set!\n* Sextant Components are used to craft the Sextant trinket!\n* Braavosi Loan trophies can be traded for prizes in the Recipes tab of your Inventory while the Landfall in Westeros or Nymeria's Legacy events are active. Remember to use all your Braavosi Loan trophies before the Nymeria's Legacy event ends!"
     },
     {
+      "name": "ACTIVITY_DESCRIPTION_REGIONCONTROL_ENABLE_INTRO_1",
+      "value": "The whole of Westeros is made up of eight significant regions: The Seven Kingdoms of old and the Crownlands. Each has its Capital, represented by the 4 and 4.5 Star seats of power. Holding any of these is a great achievement for a ruler and an allegiance, and vital for making a claim to the Iron Throne itself.\n\nUnder Region Control rules, if your Allegiance wishes to march on a region's capital it must control enough seats of power within that region. This applies both to rallies and reinforcing! You can use this to your advantage to cut off an entrenched seat holder's lines of support, or to put down a would-be usurper by denying them the seats they need to contest your rule.\n\nEach Capital lists its March Requirement, which might be a number of seats or total stars of seats in the same region. Each seat adds to your allegiance's region control total, excluding the Capital itself."
+    },
+    {
       "name": "ACTIVITY_DESCRIPTION_STANDALONE_FLASHBACK_CRAFT_7_8",
       "value": "The past is written and the ink is dry, but it has much to teach those with the power to read it.\n\nCraft any Season VII or VIII event gear to earn points! Earn materials for select gear sets by defeating creatures in the Three-Eyed Raven: Vision event, or by trading Flux in the Recipes tab of your Inventory.\n\nSeason VII Gear Sets: Ironborn Captain, Laughing Knight, Citadel Inquisitor, Fledgling Squire, Winter Survivor, Storm Lord, Iron Keyholder\n\nSeason VIII Gear Sets: Targaryen Royal, Valyrian Champion, Festival Carouser, Dragon Rider, Valyrian Bloodmage, Living Mountain, Northern Noble"
     },
@@ -214,6 +218,10 @@
       "value": "Nymeria: Princess of Dorne"
     },
     {
+      "name": "ACTIVITY_NAME_REGIONCONTROL_ENABLE_INTRO_1",
+      "value": "Seat of Power Region Control"
+    },
+    {
       "name": "ACTIVITY_SPLASH_FREEDOM_SWEEPS_TOURNAMENT_1",
       "value": "Vie for the Old Gods' favor!"
     },
@@ -258,12 +266,20 @@
       "value": "House Martell's red sun."
     },
     {
+      "name": "ACTIVITY_SPLASH_REGIONCONTROL_ENABLE_INTRO_1",
+      "value": "To take a capital, you must control its lands!"
+    },
+    {
       "name": "ACTIVITY_SPLASH_STANDALONE_FLASHBACK_CRAFT_7_8",
       "value": "Craft Season VII and VIII Gear!"
     },
     {
       "name": "ALCHEMY_FLUX_PRESTIGE_RECIPE_DESC",
       "value": "While this Flux Recipes event is active, you can trade Flux for House Prestige in the Recipes tab of your Inventory. Recipe events are temporary so trade while you can!"
+    },
+    {
+      "name": "ALCHEMY_RECIPE_EVENT_NYMERIA_TROPHY_GENERIC_DESC",
+      "value": "Spend your Braavosi Loan Trophies before the event ends and this recipe disappears!"
     },
     {
       "name": "BOOKMARK_CUSTOM_NAME",
@@ -296,6 +312,10 @@
     {
       "name": "BOOKMARK_NAME_WOOD",
       "value": "Wood"
+    },
+    {
+      "name": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_MAT_EVENT_NYMERIA_1_NAME",
+      "value": "Recipe: Hardy Silks"
     },
     {
       "name": "EQ_EVENTS_NYMERIA_10_BOOTS_LORD10_NAME",
@@ -618,6 +638,38 @@
       "value": "Sextant Components"
     },
     {
+      "name": "MONSTER_NYMERIA_1_DESC",
+      "value": "A soldier for a petty king, these scrappy fighters know how to use the harsh desert landscape to their advantage."
+    },
+    {
+      "name": "MONSTER_NYMERIA_1_NAME",
+      "value": "Dornish Spearman"
+    },
+    {
+      "name": "MONSTER_NYMERIA_2_DESC",
+      "value": "Those who ride dragons fear little, for they seek to tame the sky itself. Engulfed by flame, rent by gnashing teeth, or gutted by sharp claws, a dragon's enemies know no peace."
+    },
+    {
+      "name": "MONSTER_NYMERIA_2_NAME",
+      "value": "Dragonrider"
+    },
+    {
+      "name": "MONSTER_NYMERIA_3_DESC",
+      "value": "\"I have seen things... I've seen a pirate who wore his weight in gold, whose ships had sails of colored silk.\" - Doreah"
+    },
+    {
+      "name": "MONSTER_NYMERIA_3_NAME",
+      "value": "Essos Pirate Land"
+    },
+    {
+      "name": "MONSTER_NYMERIA_4_DESC",
+      "value": "Though their sting is not as vile as the Manticore's, treading on a den of these venomous creatures is always a danger when traversing the deserts of Dorne."
+    },
+    {
+      "name": "MONSTER_NYMERIA_4_NAME",
+      "value": "Scorpion Nest"
+    },
+    {
       "name": "PROPERTY_DRAGONMARCHERTROOPATTACKVSPLAYER_DESC",
       "value": "Increases Troop Attack when marching against another player with your dragon"
     },
@@ -628,6 +680,74 @@
     {
       "name": "PROPERTY_DRAGONMARCHERTROOPHEALTHVSPLAYER_DESC",
       "value": "Increases Troop Health when marching against another player with your dragon"
+    },
+    {
+      "name": "PROPERTY_REGIONCONTROL_EVENT_ENABLE_NAME",
+      "value": "Region Control Rules Enabled"
+    },
+    {
+      "name": "PROPERTY_REGIONCONTROL_SEATS_CROWNLANDS_NAME",
+      "value": "Region Control:  Crownlands (Seats)"
+    },
+    {
+      "name": "PROPERTY_REGIONCONTROL_SEATS_DORNE_NAME",
+      "value": "Region Control:  Dorne (Seats)"
+    },
+    {
+      "name": "PROPERTY_REGIONCONTROL_SEATS_NORTH_NAME",
+      "value": "Region Control:  The North (Seats)"
+    },
+    {
+      "name": "PROPERTY_REGIONCONTROL_SEATS_REACH_NAME",
+      "value": "Region Control:  The Reach (Seats)"
+    },
+    {
+      "name": "PROPERTY_REGIONCONTROL_SEATS_RIVERLANDS_NAME",
+      "value": "Region Control:  The Riverlands (Seats)"
+    },
+    {
+      "name": "PROPERTY_REGIONCONTROL_SEATS_STORMLANDS_NAME",
+      "value": "Region Control:  The Stormlands (Seats)"
+    },
+    {
+      "name": "PROPERTY_REGIONCONTROL_SEATS_VALE_NAME",
+      "value": "Region Control:  The Vale (Seats)"
+    },
+    {
+      "name": "PROPERTY_REGIONCONTROL_SEATS_WESTERLANDS_NAME",
+      "value": "Region Control:  The Westerlands (Seats)"
+    },
+    {
+      "name": "PROPERTY_REGIONCONTROL_STARS_CROWNLANDS_NAME",
+      "value": "Region Control:  Crownlands (Stars)"
+    },
+    {
+      "name": "PROPERTY_REGIONCONTROL_STARS_DORNE_NAME",
+      "value": "Region Control:  Dorne (Stars)"
+    },
+    {
+      "name": "PROPERTY_REGIONCONTROL_STARS_NORTH_NAME",
+      "value": "Region Control:  The North (Stars)"
+    },
+    {
+      "name": "PROPERTY_REGIONCONTROL_STARS_REACH_NAME",
+      "value": "Region Control:  The Reach (Stars)"
+    },
+    {
+      "name": "PROPERTY_REGIONCONTROL_STARS_RIVERLANDS_NAME",
+      "value": "Region Control:  The Riverlands (Stars)"
+    },
+    {
+      "name": "PROPERTY_REGIONCONTROL_STARS_STORMLANDS_NAME",
+      "value": "Region Control:  The Stormlands (Stars)"
+    },
+    {
+      "name": "PROPERTY_REGIONCONTROL_STARS_VALE_NAME",
+      "value": "Region Control:  The Vale (Stars)"
+    },
+    {
+      "name": "PROPERTY_REGIONCONTROL_STARS_WESTERLANDS_NAME",
+      "value": "Region Control:  The Westerlands (Stars)"
     },
     {
       "name": "SEASON",
