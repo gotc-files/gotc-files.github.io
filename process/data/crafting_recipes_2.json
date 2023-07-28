@@ -68544,6 +68544,1434 @@
       "steel_cost": 520000000,
       "template_level": 45,
       "upgrade_time_seconds": 345600
+    },
+    {
+      "id": "b2fe3dc8cf0a3b92",
+      "ingredients": [
+        {
+          "item_name": "mat_event_arya_1",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_kingswoodoak",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_weirwood",
+          "quantity": 10
+        }
+      ],
+      "name": "eq_events_arya_5_boots_lord5",
+      "steel_cost": 4000,
+      "template_level": 1,
+      "upgrade_time_seconds": 3600
+    },
+    {
+      "id": "a2546a90e0ad2505",
+      "ingredients": [
+        {
+          "item_name": "mat_event_arya_1",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 10
+        }
+      ],
+      "name": "eq_events_arya_5_chest_lord5",
+      "steel_cost": 4000,
+      "template_level": 1,
+      "upgrade_time_seconds": 3600
+    },
+    {
+      "id": "d737b4e42c41b3c3",
+      "ingredients": [
+        {
+          "item_name": "mat_event_arya_1",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 10
+        }
+      ],
+      "name": "eq_events_arya_5_helmet_lord5",
+      "steel_cost": 4000,
+      "template_level": 1,
+      "upgrade_time_seconds": 3600
+    },
+    {
+      "id": "717c28b39255ec1e",
+      "ingredients": [
+        {
+          "item_name": "mat_event_arya_1",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 10
+        }
+      ],
+      "name": "eq_events_arya_5_pants_lord5",
+      "steel_cost": 4000,
+      "template_level": 1,
+      "upgrade_time_seconds": 3600
+    },
+    {
+      "id": "630941d89ada76c6",
+      "ingredients": [
+        {
+          "item_name": "mat_event_arya_1",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 10
+        }
+      ],
+      "name": "eq_events_arya_5_ring_lord5",
+      "steel_cost": 4000,
+      "template_level": 1,
+      "upgrade_time_seconds": 3600
+    },
+    {
+      "id": "b0ea2cd3659eed4e",
+      "ingredients": [
+        {
+          "item_name": "mat_event_arya_1",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 10
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 10
+        }
+      ],
+      "name": "eq_events_arya_5_weapon_lord5",
+      "steel_cost": 4000,
+      "template_level": 1,
+      "upgrade_time_seconds": 3600
+    },
+    {
+      "id": "9d74c98db44d2465",
+      "ingredients": [
+        {
+          "item_name": "mat_event_arya_1",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_kingswoodoak",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_weirwood",
+          "quantity": 20
+        }
+      ],
+      "name": "eq_events_arya_10_boots_lord10",
+      "steel_cost": 36500,
+      "template_level": 5,
+      "upgrade_time_seconds": 7200
+    },
+    {
+      "id": "d23e4c65e3c95fd5",
+      "ingredients": [
+        {
+          "item_name": "mat_event_arya_1",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 20
+        }
+      ],
+      "name": "eq_events_arya_10_chest_lord10",
+      "steel_cost": 36500,
+      "template_level": 5,
+      "upgrade_time_seconds": 7200
+    },
+    {
+      "id": "b026fb4d7da265f6",
+      "ingredients": [
+        {
+          "item_name": "mat_event_arya_1",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 20
+        }
+      ],
+      "name": "eq_events_arya_10_helmet_lord10",
+      "steel_cost": 36500,
+      "template_level": 5,
+      "upgrade_time_seconds": 7200
+    },
+    {
+      "id": "a195b7845bf5b34",
+      "ingredients": [
+        {
+          "item_name": "mat_event_arya_1",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 20
+        }
+      ],
+      "name": "eq_events_arya_10_pants_lord10",
+      "steel_cost": 36500,
+      "template_level": 5,
+      "upgrade_time_seconds": 7200
+    },
+    {
+      "id": "83c9701f36d9a739",
+      "ingredients": [
+        {
+          "item_name": "mat_event_arya_1",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 20
+        }
+      ],
+      "name": "eq_events_arya_10_ring_lord10",
+      "steel_cost": 36500,
+      "template_level": 5,
+      "upgrade_time_seconds": 7200
+    },
+    {
+      "id": "b1efd937717cbd4",
+      "ingredients": [
+        {
+          "item_name": "mat_event_arya_1",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 20
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 20
+        }
+      ],
+      "name": "eq_events_arya_10_weapon_lord10",
+      "steel_cost": 36500,
+      "template_level": 5,
+      "upgrade_time_seconds": 7200
+    },
+    {
+      "id": "171eb15f471ec195",
+      "ingredients": [
+        {
+          "item_name": "mat_event_arya_1",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_kingswoodoak",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_weirwood",
+          "quantity": 120
+        }
+      ],
+      "name": "eq_events_arya_15_boots_lord15",
+      "steel_cost": 148000,
+      "template_level": 10,
+      "upgrade_time_seconds": 21600
+    },
+    {
+      "id": "585434b7109aba25",
+      "ingredients": [
+        {
+          "item_name": "mat_event_arya_1",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 120
+        }
+      ],
+      "name": "eq_events_arya_15_chest_lord15",
+      "steel_cost": 148000,
+      "template_level": 10,
+      "upgrade_time_seconds": 21600
+    },
+    {
+      "id": "87ecbcd59a61d393",
+      "ingredients": [
+        {
+          "item_name": "mat_event_arya_1",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 120
+        }
+      ],
+      "name": "eq_events_arya_15_helmet_lord15",
+      "steel_cost": 148000,
+      "template_level": 10,
+      "upgrade_time_seconds": 21600
+    },
+    {
+      "id": "807323aab6ecbec4",
+      "ingredients": [
+        {
+          "item_name": "mat_event_arya_1",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 120
+        }
+      ],
+      "name": "eq_events_arya_15_pants_lord15",
+      "steel_cost": 148000,
+      "template_level": 10,
+      "upgrade_time_seconds": 21600
+    },
+    {
+      "id": "fcae0d318f1597e8",
+      "ingredients": [
+        {
+          "item_name": "mat_event_arya_1",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 120
+        }
+      ],
+      "name": "eq_events_arya_15_ring_lord15",
+      "steel_cost": 148000,
+      "template_level": 10,
+      "upgrade_time_seconds": 21600
+    },
+    {
+      "id": "3cd4ba0b90d47db1",
+      "ingredients": [
+        {
+          "item_name": "mat_event_arya_1",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 120
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 120
+        }
+      ],
+      "name": "eq_events_arya_15_weapon_lord15",
+      "steel_cost": 148000,
+      "template_level": 10,
+      "upgrade_time_seconds": 21600
+    },
+    {
+      "id": "742cdd095c9b5044",
+      "ingredients": [
+        {
+          "item_name": "mat_event_arya_1",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_kingswoodoak",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_weirwood",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 400
+        }
+      ],
+      "name": "eq_events_arya_20_boots_lord20",
+      "steel_cost": 534000,
+      "template_level": 15,
+      "upgrade_time_seconds": 43200
+    },
+    {
+      "id": "3b6658e10b1f2bf4",
+      "ingredients": [
+        {
+          "item_name": "mat_event_arya_1",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_hide",
+          "quantity": 400
+        }
+      ],
+      "name": "eq_events_arya_20_chest_lord20",
+      "steel_cost": 534000,
+      "template_level": 15,
+      "upgrade_time_seconds": 43200
+    },
+    {
+      "id": "d514d9a1b4e671c9",
+      "ingredients": [
+        {
+          "item_name": "mat_event_arya_1",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 400
+        }
+      ],
+      "name": "eq_events_arya_20_helmet_lord20",
+      "steel_cost": 534000,
+      "template_level": 15,
+      "upgrade_time_seconds": 43200
+    },
+    {
+      "id": "e3414ffcad692f15",
+      "ingredients": [
+        {
+          "item_name": "mat_event_arya_1",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_weirwood",
+          "quantity": 400
+        }
+      ],
+      "name": "eq_events_arya_20_pants_lord20",
+      "steel_cost": 534000,
+      "template_level": 15,
+      "upgrade_time_seconds": 43200
+    },
+    {
+      "id": "80674f8eeae52772",
+      "ingredients": [
+        {
+          "item_name": "mat_event_arya_1",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 400
+        }
+      ],
+      "name": "eq_events_arya_20_ring_lord20",
+      "steel_cost": 534000,
+      "template_level": 15,
+      "upgrade_time_seconds": 43200
+    },
+    {
+      "id": "6e2cdf7fbe53dfeb",
+      "ingredients": [
+        {
+          "item_name": "mat_event_arya_1",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 400
+        },
+        {
+          "item_name": "mat_kingswoodoak",
+          "quantity": 400
+        }
+      ],
+      "name": "eq_events_arya_20_weapon_lord20",
+      "steel_cost": 534000,
+      "template_level": 15,
+      "upgrade_time_seconds": 43200
+    },
+    {
+      "id": "fe46a5dbafc8b5b4",
+      "ingredients": [
+        {
+          "item_name": "mat_event_arya_1",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_kingswoodoak",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_weirwood",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 1200
+        }
+      ],
+      "name": "eq_events_arya_25_boots_lord25",
+      "steel_cost": 1800000,
+      "template_level": 20,
+      "upgrade_time_seconds": 64800
+    },
+    {
+      "id": "b10c2033f84cce04",
+      "ingredients": [
+        {
+          "item_name": "mat_event_arya_1",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_hide",
+          "quantity": 1200
+        }
+      ],
+      "name": "eq_events_arya_25_chest_lord25",
+      "steel_cost": 1800000,
+      "template_level": 20,
+      "upgrade_time_seconds": 64800
+    },
+    {
+      "id": "e2de9e395325c7ac",
+      "ingredients": [
+        {
+          "item_name": "mat_event_arya_1",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 1200
+        }
+      ],
+      "name": "eq_events_arya_25_helmet_lord25",
+      "steel_cost": 1800000,
+      "template_level": 20,
+      "upgrade_time_seconds": 64800
+    },
+    {
+      "id": "692b372e5e3acae5",
+      "ingredients": [
+        {
+          "item_name": "mat_event_arya_1",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_weirwood",
+          "quantity": 1200
+        }
+      ],
+      "name": "eq_events_arya_25_pants_lord25",
+      "steel_cost": 1800000,
+      "template_level": 20,
+      "upgrade_time_seconds": 64800
+    },
+    {
+      "id": "ff0032a0532917a3",
+      "ingredients": [
+        {
+          "item_name": "mat_event_arya_1",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 1200
+        }
+      ],
+      "name": "eq_events_arya_25_ring_lord25",
+      "steel_cost": 1800000,
+      "template_level": 20,
+      "upgrade_time_seconds": 64800
+    },
+    {
+      "id": "59e698e75990698e",
+      "ingredients": [
+        {
+          "item_name": "mat_event_arya_1",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 1200
+        },
+        {
+          "item_name": "mat_kingswoodoak",
+          "quantity": 1200
+        }
+      ],
+      "name": "eq_events_arya_25_weapon_lord25",
+      "steel_cost": 1800000,
+      "template_level": 20,
+      "upgrade_time_seconds": 64800
+    },
+    {
+      "id": "ad72ef59c3b3b942",
+      "ingredients": [
+        {
+          "item_name": "mat_event_arya_1",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_kingswoodoak",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_weirwood",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 3000
+        }
+      ],
+      "name": "eq_events_arya_30_boots_lord30",
+      "steel_cost": 5850000,
+      "template_level": 25,
+      "upgrade_time_seconds": 86400
+    },
+    {
+      "id": "e2386ab19437c2f2",
+      "ingredients": [
+        {
+          "item_name": "mat_event_arya_1",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_hide",
+          "quantity": 3000
+        }
+      ],
+      "name": "eq_events_arya_30_chest_lord30",
+      "steel_cost": 5850000,
+      "template_level": 25,
+      "upgrade_time_seconds": 86400
+    },
+    {
+      "id": "f6053805f3da7ddc",
+      "ingredients": [
+        {
+          "item_name": "mat_event_arya_1",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 3000
+        }
+      ],
+      "name": "eq_events_arya_30_helmet_lord30",
+      "steel_cost": 5850000,
+      "template_level": 25,
+      "upgrade_time_seconds": 86400
+    },
+    {
+      "id": "3a1f7dac3241c613",
+      "ingredients": [
+        {
+          "item_name": "mat_event_arya_1",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_weirwood",
+          "quantity": 3000
+        }
+      ],
+      "name": "eq_events_arya_30_pants_lord30",
+      "steel_cost": 5850000,
+      "template_level": 25,
+      "upgrade_time_seconds": 86400
+    },
+    {
+      "id": "8102a501a10ea74b",
+      "ingredients": [
+        {
+          "item_name": "mat_event_arya_1",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 3000
+        }
+      ],
+      "name": "eq_events_arya_30_ring_lord30",
+      "steel_cost": 5850000,
+      "template_level": 25,
+      "upgrade_time_seconds": 86400
+    },
+    {
+      "id": "4d3d3edbf96fd3fe",
+      "ingredients": [
+        {
+          "item_name": "mat_event_arya_1",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 3000
+        },
+        {
+          "item_name": "mat_kingswoodoak",
+          "quantity": 3000
+        }
+      ],
+      "name": "eq_events_arya_30_weapon_lord30",
+      "steel_cost": 5850000,
+      "template_level": 25,
+      "upgrade_time_seconds": 86400
+    },
+    {
+      "id": "2718978b30e05cb2",
+      "ingredients": [
+        {
+          "item_name": "mat_event_arya_1",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_kingswoodoak",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_weirwood",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 12000
+        }
+      ],
+      "name": "eq_events_arya_35_boots_lord35",
+      "steel_cost": 18400000,
+      "template_level": 30,
+      "upgrade_time_seconds": 129600
+    },
+    {
+      "id": "6852126367642702",
+      "ingredients": [
+        {
+          "item_name": "mat_event_arya_1",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_hide",
+          "quantity": 12000
+        }
+      ],
+      "name": "eq_events_arya_35_chest_lord35",
+      "steel_cost": 18400000,
+      "template_level": 30,
+      "upgrade_time_seconds": 129600
+    },
+    {
+      "id": "c1cf7f9d1419cbb9",
+      "ingredients": [
+        {
+          "item_name": "mat_event_arya_1",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 12000
+        }
+      ],
+      "name": "eq_events_arya_35_helmet_lord35",
+      "steel_cost": 18400000,
+      "template_level": 30,
+      "upgrade_time_seconds": 129600
+    },
+    {
+      "id": "b075057ec11223e3",
+      "ingredients": [
+        {
+          "item_name": "mat_event_arya_1",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_weirwood",
+          "quantity": 12000
+        }
+      ],
+      "name": "eq_events_arya_35_pants_lord35",
+      "steel_cost": 18400000,
+      "template_level": 30,
+      "upgrade_time_seconds": 129600
+    },
+    {
+      "id": "fe65d82f18c2979a",
+      "ingredients": [
+        {
+          "item_name": "mat_event_arya_1",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 12000
+        }
+      ],
+      "name": "eq_events_arya_35_ring_lord35",
+      "steel_cost": 18400000,
+      "template_level": 30,
+      "upgrade_time_seconds": 129600
+    },
+    {
+      "id": "7af779431eac659b",
+      "ingredients": [
+        {
+          "item_name": "mat_event_arya_1",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 12000
+        },
+        {
+          "item_name": "mat_kingswoodoak",
+          "quantity": 12000
+        }
+      ],
+      "name": "eq_events_arya_35_weapon_lord35",
+      "steel_cost": 18400000,
+      "template_level": 30,
+      "upgrade_time_seconds": 129600
+    },
+    {
+      "id": "2426b675c498f72d",
+      "ingredients": [
+        {
+          "item_name": "mat_event_arya_1",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_kingswoodoak",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_weirwood",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 45000
+        }
+      ],
+      "name": "eq_events_arya_40_boots_lord40",
+      "steel_cost": 56900000,
+      "template_level": 35,
+      "upgrade_time_seconds": 172800
+    },
+    {
+      "id": "6b6c339d931c8c9d",
+      "ingredients": [
+        {
+          "item_name": "mat_event_arya_1",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_hide",
+          "quantity": 45000
+        }
+      ],
+      "name": "eq_events_arya_40_chest_lord40",
+      "steel_cost": 56900000,
+      "template_level": 35,
+      "upgrade_time_seconds": 172800
+    },
+    {
+      "id": "1f709c78266e59b7",
+      "ingredients": [
+        {
+          "item_name": "mat_event_arya_1",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 45000
+        }
+      ],
+      "name": "eq_events_arya_40_helmet_lord40",
+      "steel_cost": 56900000,
+      "template_level": 35,
+      "upgrade_time_seconds": 172800
+    },
+    {
+      "id": "b34b2480356a887c",
+      "ingredients": [
+        {
+          "item_name": "mat_event_arya_1",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_weirwood",
+          "quantity": 45000
+        }
+      ],
+      "name": "eq_events_arya_40_pants_lord40",
+      "steel_cost": 56900000,
+      "template_level": 35,
+      "upgrade_time_seconds": 172800
+    },
+    {
+      "id": "873b30ad529c27e4",
+      "ingredients": [
+        {
+          "item_name": "mat_event_arya_1",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 45000
+        }
+      ],
+      "name": "eq_events_arya_40_ring_lord40",
+      "steel_cost": 56900000,
+      "template_level": 35,
+      "upgrade_time_seconds": 172800
+    },
+    {
+      "id": "a4489aa62cdbf795",
+      "ingredients": [
+        {
+          "item_name": "mat_event_arya_1",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 45000
+        },
+        {
+          "item_name": "mat_kingswoodoak",
+          "quantity": 45000
+        }
+      ],
+      "name": "eq_events_arya_40_weapon_lord40",
+      "steel_cost": 56900000,
+      "template_level": 35,
+      "upgrade_time_seconds": 172800
+    },
+    {
+      "id": "ae4ccea737cb12dd",
+      "ingredients": [
+        {
+          "item_name": "mat_event_arya_1",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_kingswoodoak",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_weirwood",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 120000
+        }
+      ],
+      "name": "eq_events_arya_45_boots_lord45",
+      "steel_cost": 173000000,
+      "template_level": 40,
+      "upgrade_time_seconds": 259200
+    },
+    {
+      "id": "e1064b4f604f696d",
+      "ingredients": [
+        {
+          "item_name": "mat_event_arya_1",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_hide",
+          "quantity": 120000
+        }
+      ],
+      "name": "eq_events_arya_45_chest_lord45",
+      "steel_cost": 173000000,
+      "template_level": 40,
+      "upgrade_time_seconds": 259200
+    },
+    {
+      "id": "28badbe0c1adefd2",
+      "ingredients": [
+        {
+          "item_name": "mat_event_arya_1",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 120000
+        }
+      ],
+      "name": "eq_events_arya_45_helmet_lord45",
+      "steel_cost": 173000000,
+      "template_level": 40,
+      "upgrade_time_seconds": 259200
+    },
+    {
+      "id": "39215c52c6396d8c",
+      "ingredients": [
+        {
+          "item_name": "mat_event_arya_1",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_weirwood",
+          "quantity": 120000
+        }
+      ],
+      "name": "eq_events_arya_45_pants_lord45",
+      "steel_cost": 173000000,
+      "template_level": 40,
+      "upgrade_time_seconds": 259200
+    },
+    {
+      "id": "f85c4d83eb501735",
+      "ingredients": [
+        {
+          "item_name": "mat_event_arya_1",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 120000
+        }
+      ],
+      "name": "eq_events_arya_45_ring_lord45",
+      "steel_cost": 173000000,
+      "template_level": 40,
+      "upgrade_time_seconds": 259200
+    },
+    {
+      "id": "9382dd3ecb1841f0",
+      "ingredients": [
+        {
+          "item_name": "mat_event_arya_1",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 120000
+        },
+        {
+          "item_name": "mat_kingswoodoak",
+          "quantity": 120000
+        }
+      ],
+      "name": "eq_events_arya_45_weapon_lord45",
+      "steel_cost": 173000000,
+      "template_level": 40,
+      "upgrade_time_seconds": 259200
+    },
+    {
+      "id": "fd7884255bb01e2b",
+      "ingredients": [
+        {
+          "item_name": "mat_event_arya_1",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_kingswoodoak",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_weirwood",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_leatherstrap",
+          "quantity": 450000
+        }
+      ],
+      "name": "eq_events_arya_50_boots_lord50",
+      "steel_cost": 520000000,
+      "template_level": 45,
+      "upgrade_time_seconds": 345600
+    },
+    {
+      "id": "b23201cd0c34659b",
+      "ingredients": [
+        {
+          "item_name": "mat_event_arya_1",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_hide",
+          "quantity": 450000
+        }
+      ],
+      "name": "eq_events_arya_50_chest_lord50",
+      "steel_cost": 520000000,
+      "template_level": 45,
+      "upgrade_time_seconds": 345600
+    },
+    {
+      "id": "3c617ddc615255a2",
+      "ingredients": [
+        {
+          "item_name": "mat_event_arya_1",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_silk",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_dragonglass",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 450000
+        }
+      ],
+      "name": "eq_events_arya_50_helmet_lord50",
+      "steel_cost": 520000000,
+      "template_level": 45,
+      "upgrade_time_seconds": 345600
+    },
+    {
+      "id": "6a1516d0aa42617a",
+      "ingredients": [
+        {
+          "item_name": "mat_event_arya_1",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_goldenheartwood",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_weirwood",
+          "quantity": 450000
+        }
+      ],
+      "name": "eq_events_arya_50_pants_lord50",
+      "steel_cost": 520000000,
+      "template_level": 45,
+      "upgrade_time_seconds": 345600
+    },
+    {
+      "id": "865eda221977a7dd",
+      "ingredients": [
+        {
+          "item_name": "mat_event_arya_1",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_copperbar",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_milkofthepoppy",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_blackiron",
+          "quantity": 450000
+        }
+      ],
+      "name": "eq_events_arya_50_ring_lord50",
+      "steel_cost": 520000000,
+      "template_level": 45,
+      "upgrade_time_seconds": 345600
+    },
+    {
+      "id": "87597b026be7fb80",
+      "ingredients": [
+        {
+          "item_name": "mat_event_arya_1",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_wildfire",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_ironwood",
+          "quantity": 450000
+        },
+        {
+          "item_name": "mat_kingswoodoak",
+          "quantity": 450000
+        }
+      ],
+      "name": "eq_events_arya_50_weapon_lord50",
+      "steel_cost": 520000000,
+      "template_level": 45,
+      "upgrade_time_seconds": 345600
     }
   ]
 }

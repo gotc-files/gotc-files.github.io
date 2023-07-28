@@ -8,9 +8,9 @@
       "chest_name": "prog_gearset_events_artstub_chest",
       "color": {
         "alpha": 255,
-        "blue": 33,
-        "green": 33,
-        "red": 190
+        "blue": 175,
+        "green": 104,
+        "red": 54
       },
       "description_placeholder": "EQ_EVENTS_ARTSTUB_SET_DESCRIPTION",
       "helmet_id": "e54dde67b6c10071",
@@ -1296,6 +1296,33 @@
       "ring_name": "prog_gearset_events_nymeria_ring",
       "weapon_id": "d43d57463dec2fec",
       "weapon_name": "prog_gearset_events_nymeria_weapon"
+    },
+    {
+      "boots_id": "837ae6d1d72d799b",
+      "boots_name": "prog_gearset_events_arya_boots",
+      "chest_id": "bf015a7be3b248a3",
+      "chest_name": "prog_gearset_events_arya_chest",
+      "color": {
+        "alpha": 255,
+        "blue": 175,
+        "green": 104,
+        "red": 54
+      },
+      "description_placeholder": "EQ_EVENTS_ARYA_SET_DESCRIPTION",
+      "helmet_id": "e4c9abe5460338f2",
+      "helmet_name": "prog_gearset_events_arya_helmet",
+      "id": "8ea7e49cf3d674dd",
+      "material_id": 8393169970940869574,
+      "material_name": "mat_event_arya_1",
+      "name": "gearset_events_arya",
+      "name_placeholder": "EQ_EVENTS_ARYA_SET_NAME",
+      "pants_id": "3a498c73056ad8d2",
+      "pants_name": "prog_gearset_events_arya_pants",
+      "priority": 29100,
+      "ring_id": "2ab480ca6c311f46",
+      "ring_name": "prog_gearset_events_arya_ring",
+      "weapon_id": "969c6d5c2fc18e21",
+      "weapon_name": "prog_gearset_events_arya_weapon"
     }
   ]
 }
