@@ -50552,8 +50552,8 @@
         ]
       },
       {
-        "description": "Troop Attack bonus when your dragon is present.",
-        "name": "Dragon: Troop Attack",
+        "description": "Dragon: Troop Attack vs. a Player while in combat with another player",
+        "name": "Dragon: Troop Attack vs. Player",
         "progression": [
           0.0,
           0.0001,
@@ -52022,6 +52022,664 @@
                   0.20808,
                   0.22032,
                   0.2448
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "gear_with_level": [
+          {
+            "level": 1,
+            "name": "n:EQ_EVENTS_TRINKET_ARYA_1_TRINKET_LORD1_NAME",
+            "stats": [
+              {
+                "description": "How much faster your troops march.",
+                "name": "March Speed",
+                "progression": [
+                  0.0342720000000001,
+                  0.0367200000000001,
+                  0.0391680000000001,
+                  0.0416160000000001,
+                  0.0440640000000001,
+                  0.0489600000000001
+                ]
+              },
+              {
+                "description": "The number of troops that can participate in the Rallies you start.",
+                "name": "Rallied Troops vs. Seats of Power",
+                "progression": [
+                  1713.0,
+                  1836.0,
+                  1958.0,
+                  2080.0,
+                  2203.0,
+                  2448.0
+                ]
+              },
+              {
+                "description": "How much faster your troops march to creatures on the map.",
+                "name": "March Speed vs. Creatures",
+                "progression": [
+                  0.0514080000000001,
+                  0.0550800000000001,
+                  0.0587520000000002,
+                  0.0624240000000002,
+                  0.0660960000000002,
+                  0.0734400000000002
+                ]
+              },
+              {
+                "description": "How much faster your troops march to a Seat of Power.",
+                "name": "March Speed vs. Seats of Power",
+                "progression": [
+                  0.0342720000000001,
+                  0.0367200000000001,
+                  0.0391680000000001,
+                  0.0416160000000001,
+                  0.0440640000000001,
+                  0.0489600000000001
+                ]
+              }
+            ]
+          },
+          {
+            "level": 5,
+            "name": "n:EQ_EVENTS_TRINKET_ARYA_5_TRINKET_LORD5_NAME",
+            "stats": [
+              {
+                "description": "How much faster your troops march.",
+                "name": "March Speed",
+                "progression": [
+                  0.0651168000000001,
+                  0.0697680000000001,
+                  0.0744192000000001,
+                  0.0790704000000001,
+                  0.0837216000000001,
+                  0.0930240000000001
+                ]
+              },
+              {
+                "description": "The number of troops that can participate in the Rallies you start.",
+                "name": "Rallied Troops vs. Seats of Power",
+                "progression": [
+                  3255.0,
+                  3488.0,
+                  3720.0,
+                  3953.0,
+                  4186.0,
+                  4651.0
+                ]
+              },
+              {
+                "description": "How much faster your troops march to creatures on the map.",
+                "name": "March Speed vs. Creatures",
+                "progression": [
+                  0.0976752000000001,
+                  0.104652,
+                  0.1116288,
+                  0.1186056,
+                  0.1255824,
+                  0.139536
+                ]
+              },
+              {
+                "description": "How much faster your troops march to a Seat of Power.",
+                "name": "March Speed vs. Seats of Power",
+                "progression": [
+                  0.0651168000000001,
+                  0.0697680000000001,
+                  0.0744192000000001,
+                  0.0790704000000001,
+                  0.0837216000000001,
+                  0.0930240000000001
+                ]
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "name": "n:EQ_EVENTS_TRINKET_ARYA_10_TRINKET_LORD10_NAME",
+            "stats": [
+              {
+                "description": "How much faster your troops march.",
+                "name": "March Speed",
+                "progression": [
+                  0.0959616000000001,
+                  0.102816,
+                  0.1096704,
+                  0.1165248,
+                  0.1233792,
+                  0.137088
+                ]
+              },
+              {
+                "description": "The number of troops that can participate in the Rallies you start.",
+                "name": "Rallied Troops vs. Seats of Power",
+                "progression": [
+                  4798.0,
+                  5140.0,
+                  5483.0,
+                  5826.0,
+                  6168.0,
+                  6854.0
+                ]
+              },
+              {
+                "description": "How much faster your troops march to creatures on the map.",
+                "name": "March Speed vs. Creatures",
+                "progression": [
+                  0.1439424,
+                  0.154224,
+                  0.1645056,
+                  0.1747872,
+                  0.1850688,
+                  0.205632
+                ]
+              },
+              {
+                "description": "How much faster your troops march to a Seat of Power.",
+                "name": "March Speed vs. Seats of Power",
+                "progression": [
+                  0.0959616000000001,
+                  0.102816,
+                  0.1096704,
+                  0.1165248,
+                  0.1233792,
+                  0.137088
+                ]
+              }
+            ]
+          },
+          {
+            "level": 15,
+            "name": "n:EQ_EVENTS_TRINKET_ARYA_15_TRINKET_LORD15_NAME",
+            "stats": [
+              {
+                "description": "How much faster your troops march.",
+                "name": "March Speed",
+                "progression": [
+                  0.1268064,
+                  0.135864,
+                  0.1449216,
+                  0.1539792,
+                  0.1630368,
+                  0.181152
+                ]
+              },
+              {
+                "description": "The number of troops that can participate in the Rallies you start.",
+                "name": "Rallied Troops vs. Seats of Power",
+                "progression": [
+                  6340.0,
+                  6793.0,
+                  7246.0,
+                  7698.0,
+                  8151.0,
+                  9057.0
+                ]
+              },
+              {
+                "description": "How much faster your troops march to creatures on the map.",
+                "name": "March Speed vs. Creatures",
+                "progression": [
+                  0.1902096,
+                  0.203796,
+                  0.2173824,
+                  0.2309688,
+                  0.2445552,
+                  0.271728
+                ]
+              },
+              {
+                "description": "How much faster your troops march to a Seat of Power.",
+                "name": "March Speed vs. Seats of Power",
+                "progression": [
+                  0.1268064,
+                  0.135864,
+                  0.1449216,
+                  0.1539792,
+                  0.1630368,
+                  0.181152
+                ]
+              }
+            ]
+          },
+          {
+            "level": 20,
+            "name": "n:EQ_EVENTS_TRINKET_ARYA_20_TRINKET_LORD20_NAME",
+            "stats": [
+              {
+                "description": "How much faster your troops march.",
+                "name": "March Speed",
+                "progression": [
+                  0.1576512,
+                  0.168912,
+                  0.1801728,
+                  0.1914336,
+                  0.2026944,
+                  0.225216
+                ]
+              },
+              {
+                "description": "The number of troops that can participate in the Rallies you start.",
+                "name": "Rallied Troops vs. Seats of Power",
+                "progression": [
+                  7882.0,
+                  8445.0,
+                  9008.0,
+                  9571.0,
+                  10134.0,
+                  11260.0
+                ]
+              },
+              {
+                "description": "How much faster your troops march to creatures on the map.",
+                "name": "March Speed vs. Creatures",
+                "progression": [
+                  0.2364768,
+                  0.253368,
+                  0.2702592,
+                  0.2871504,
+                  0.3040416,
+                  0.337824
+                ]
+              },
+              {
+                "description": "How much faster your troops march to a Seat of Power.",
+                "name": "March Speed vs. Seats of Power",
+                "progression": [
+                  0.1576512,
+                  0.168912,
+                  0.1801728,
+                  0.1914336,
+                  0.2026944,
+                  0.225216
+                ]
+              }
+            ]
+          },
+          {
+            "level": 25,
+            "name": "n:EQ_EVENTS_TRINKET_ARYA_25_TRINKET_LORD25_NAME",
+            "stats": [
+              {
+                "description": "How much faster your troops march.",
+                "name": "March Speed",
+                "progression": [
+                  0.188496,
+                  0.20196,
+                  0.215424,
+                  0.228888,
+                  0.242352,
+                  0.26928
+                ]
+              },
+              {
+                "description": "The number of troops that can participate in the Rallies you start.",
+                "name": "Rallied Troops vs. Seats of Power",
+                "progression": [
+                  9424.0,
+                  10098.0,
+                  10771.0,
+                  11444.0,
+                  12117.0,
+                  13464.0
+                ]
+              },
+              {
+                "description": "How much faster your troops march to creatures on the map.",
+                "name": "March Speed vs. Creatures",
+                "progression": [
+                  0.282744,
+                  0.30294,
+                  0.323136,
+                  0.343332,
+                  0.363528,
+                  0.40392
+                ]
+              },
+              {
+                "description": "How much faster your troops march to a Seat of Power.",
+                "name": "March Speed vs. Seats of Power",
+                "progression": [
+                  0.188496,
+                  0.20196,
+                  0.215424,
+                  0.228888,
+                  0.242352,
+                  0.26928
+                ]
+              }
+            ]
+          },
+          {
+            "level": 30,
+            "name": "n:EQ_EVENTS_TRINKET_ARYA_30_TRINKET_LORD30_NAME",
+            "stats": [
+              {
+                "description": "How much faster your troops march.",
+                "name": "March Speed",
+                "progression": [
+                  0.2193408,
+                  0.235008,
+                  0.2506752,
+                  0.2663424,
+                  0.2820096,
+                  0.313344
+                ]
+              },
+              {
+                "description": "The number of troops that can participate in the Rallies you start.",
+                "name": "Rallied Troops vs. Seats of Power",
+                "progression": [
+                  10967.0,
+                  11750.0,
+                  12533.0,
+                  13317.0,
+                  14100.0,
+                  15667.0
+                ]
+              },
+              {
+                "description": "How much faster your troops march to creatures on the map.",
+                "name": "March Speed vs. Creatures",
+                "progression": [
+                  0.3290112,
+                  0.352512,
+                  0.3760128,
+                  0.3995136,
+                  0.4230144,
+                  0.470016
+                ]
+              },
+              {
+                "description": "How much faster your troops march to a Seat of Power.",
+                "name": "March Speed vs. Seats of Power",
+                "progression": [
+                  0.2193408,
+                  0.235008,
+                  0.2506752,
+                  0.2663424,
+                  0.2820096,
+                  0.313344
+                ]
+              },
+              {
+                "description": "The number of troops that can participate in the Rallies you start.",
+                "name": "Rallied Troop Capacity",
+                "progression": [
+                  2741.0,
+                  2937.0,
+                  3133.0,
+                  3329.0,
+                  3525.0,
+                  3916.0
+                ]
+              }
+            ]
+          },
+          {
+            "level": 35,
+            "name": "n:EQ_EVENTS_TRINKET_ARYA_35_TRINKET_LORD35_NAME",
+            "stats": [
+              {
+                "description": "How much faster your troops march.",
+                "name": "March Speed",
+                "progression": [
+                  0.2501856,
+                  0.268056,
+                  0.2859264,
+                  0.3037968,
+                  0.3216672,
+                  0.357408
+                ]
+              },
+              {
+                "description": "The number of troops that can participate in the Rallies you start.",
+                "name": "Rallied Troops vs. Seats of Power",
+                "progression": [
+                  12509.0,
+                  13402.0,
+                  14296.0,
+                  15189.0,
+                  16083.0,
+                  17870.0
+                ]
+              },
+              {
+                "description": "How much faster your troops march to creatures on the map.",
+                "name": "March Speed vs. Creatures",
+                "progression": [
+                  0.3752784,
+                  0.402084,
+                  0.4288896,
+                  0.4556952,
+                  0.4825008,
+                  0.536112
+                ]
+              },
+              {
+                "description": "How much faster your troops march to a Seat of Power.",
+                "name": "March Speed vs. Seats of Power",
+                "progression": [
+                  0.2501856,
+                  0.268056,
+                  0.2859264,
+                  0.3037968,
+                  0.3216672,
+                  0.357408
+                ]
+              },
+              {
+                "description": "The number of troops that can participate in the Rallies you start.",
+                "name": "Rallied Troop Capacity",
+                "progression": [
+                  3127.0,
+                  3350.0,
+                  3574.0,
+                  3797.0,
+                  4020.0,
+                  4467.0
+                ]
+              }
+            ]
+          },
+          {
+            "level": 40,
+            "name": "n:EQ_EVENTS_TRINKET_ARYA_40_TRINKET_LORD40_NAME",
+            "stats": [
+              {
+                "description": "How much faster your troops march.",
+                "name": "March Speed",
+                "progression": [
+                  0.2810304,
+                  0.301104,
+                  0.3211776,
+                  0.3412512,
+                  0.3613248,
+                  0.401472
+                ]
+              },
+              {
+                "description": "The number of troops that can participate in the Rallies you start.",
+                "name": "Rallied Troops vs. Seats of Power",
+                "progression": [
+                  14051.0,
+                  15055.0,
+                  16058.0,
+                  17062.0,
+                  18066.0,
+                  20073.0
+                ]
+              },
+              {
+                "description": "How much faster your troops march to creatures on the map.",
+                "name": "March Speed vs. Creatures",
+                "progression": [
+                  0.4215456,
+                  0.451656,
+                  0.4817664,
+                  0.5118768,
+                  0.5419872,
+                  0.602208
+                ]
+              },
+              {
+                "description": "How much faster your troops march to a Seat of Power.",
+                "name": "March Speed vs. Seats of Power",
+                "progression": [
+                  0.2810304,
+                  0.301104,
+                  0.3211776,
+                  0.3412512,
+                  0.3613248,
+                  0.401472
+                ]
+              },
+              {
+                "description": "The number of troops that can participate in the Rallies you start.",
+                "name": "Rallied Troop Capacity",
+                "progression": [
+                  3512.0,
+                  3763.0,
+                  4014.0,
+                  4265.0,
+                  4516.0,
+                  5018.0
+                ]
+              }
+            ]
+          },
+          {
+            "level": 45,
+            "name": "n:EQ_EVENTS_TRINKET_ARYA_45_TRINKET_LORD45_NAME",
+            "stats": [
+              {
+                "description": "How much faster your troops march.",
+                "name": "March Speed",
+                "progression": [
+                  0.3118752,
+                  0.334152,
+                  0.3564288,
+                  0.3787056,
+                  0.4009824,
+                  0.445536
+                ]
+              },
+              {
+                "description": "The number of troops that can participate in the Rallies you start.",
+                "name": "Rallied Troops vs. Seats of Power",
+                "progression": [
+                  15593.0,
+                  16707.0,
+                  17821.0,
+                  18935.0,
+                  20049.0,
+                  22276.0
+                ]
+              },
+              {
+                "description": "How much faster your troops march to creatures on the map.",
+                "name": "March Speed vs. Creatures",
+                "progression": [
+                  0.4678128,
+                  0.501228,
+                  0.5346432,
+                  0.5680584,
+                  0.6014736,
+                  0.668304
+                ]
+              },
+              {
+                "description": "How much faster your troops march to a Seat of Power.",
+                "name": "March Speed vs. Seats of Power",
+                "progression": [
+                  0.3118752,
+                  0.334152,
+                  0.3564288,
+                  0.3787056,
+                  0.4009824,
+                  0.445536
+                ]
+              },
+              {
+                "description": "The number of troops that can participate in the Rallies you start.",
+                "name": "Rallied Troop Capacity",
+                "progression": [
+                  3898.0,
+                  4176.0,
+                  4455.0,
+                  4733.0,
+                  5012.0,
+                  5569.0
+                ]
+              }
+            ]
+          },
+          {
+            "level": 50,
+            "name": "n:EQ_EVENTS_TRINKET_ARYA_50_TRINKET_LORD50_NAME",
+            "stats": [
+              {
+                "description": "How much faster your troops march.",
+                "name": "March Speed",
+                "progression": [
+                  0.34272,
+                  0.3672,
+                  0.39168,
+                  0.41616,
+                  0.44064,
+                  0.4896
+                ]
+              },
+              {
+                "description": "The number of troops that can participate in the Rallies you start.",
+                "name": "Rallied Troops vs. Seats of Power",
+                "progression": [
+                  17136.0,
+                  18360.0,
+                  19584.0,
+                  20808.0,
+                  22032.0,
+                  24480.0
+                ]
+              },
+              {
+                "description": "How much faster your troops march to creatures on the map.",
+                "name": "March Speed vs. Creatures",
+                "progression": [
+                  0.51408,
+                  0.5508,
+                  0.58752,
+                  0.62424,
+                  0.66096,
+                  0.7344
+                ]
+              },
+              {
+                "description": "How much faster your troops march to a Seat of Power.",
+                "name": "March Speed vs. Seats of Power",
+                "progression": [
+                  0.34272,
+                  0.3672,
+                  0.39168,
+                  0.41616,
+                  0.44064,
+                  0.4896
+                ]
+              },
+              {
+                "description": "The number of troops that can participate in the Rallies you start.",
+                "name": "Rallied Troop Capacity",
+                "progression": [
+                  4284.0,
+                  4590.0,
+                  4896.0,
+                  5202.0,
+                  5508.0,
+                  6120.0
                 ]
               }
             ]
