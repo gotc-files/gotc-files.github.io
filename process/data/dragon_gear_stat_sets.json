@@ -1,0 +1,1325 @@
+{
+  "description": "Sets of stats with names and progression",
+  "values": [
+    {
+      "id": "7397939490a7e718",
+      "name": "eq_events_dragongear_artstub_5_chanfron_lord5",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_5"
+        },
+        {
+          "name": "property_DragonCavalryAttack_gear",
+          "progression": "prog_gear_Event7_DragonCavalryAttack_5"
+        },
+        {
+          "name": "property_DragonMarchingSpeed_gear",
+          "progression": "prog_gear_Event7.5_DragonMarchingSpeed_5"
+        }
+      ]
+    },
+    {
+      "id": "3c74a3cc98bbb2f",
+      "name": "eq_events_dragongear_artstub_5_saddle_lord5",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_5"
+        },
+        {
+          "name": "property_DragonRangedAttack_gear",
+          "progression": "prog_gear_Event7_DragonRangedAttack_5"
+        },
+        {
+          "name": "property_DragonMarchingSpeed_gear",
+          "progression": "prog_gear_Event7.5_DragonMarchingSpeed_5"
+        }
+      ]
+    },
+    {
+      "id": "e84964cd0140ebbd",
+      "name": "eq_events_dragongear_artstub_5_peytral_lord5",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_5"
+        },
+        {
+          "name": "property_DragonInfantryAttack_gear",
+          "progression": "prog_gear_Event7_DragonInfantryAttack_5"
+        },
+        {
+          "name": "property_DragonMarchingSpeed_gear",
+          "progression": "prog_gear_Event7.5_DragonMarchingSpeed_5"
+        }
+      ]
+    },
+    {
+      "id": "d087a4b5d32910d9",
+      "name": "eq_events_dragongear_artstub_10_chanfron_lord10",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_10"
+        },
+        {
+          "name": "property_DragonCavalryAttack_gear",
+          "progression": "prog_gear_Event7_DragonCavalryAttack_10"
+        },
+        {
+          "name": "property_DragonMarchingSpeed_gear",
+          "progression": "prog_gear_Event7.5_DragonMarchingSpeed_10"
+        }
+      ]
+    },
+    {
+      "id": "38ae32530c0c2831",
+      "name": "eq_events_dragongear_artstub_10_saddle_lord10",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_10"
+        },
+        {
+          "name": "property_DragonRangedAttack_gear",
+          "progression": "prog_gear_Event7_DragonRangedAttack_10"
+        },
+        {
+          "name": "property_DragonMarchingSpeed_gear",
+          "progression": "prog_gear_Event7.5_DragonMarchingSpeed_10"
+        }
+      ]
+    },
+    {
+      "id": "8404a88045c73709",
+      "name": "eq_events_dragongear_artstub_10_peytral_lord10",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_10"
+        },
+        {
+          "name": "property_DragonInfantryAttack_gear",
+          "progression": "prog_gear_Event7_DragonInfantryAttack_10"
+        },
+        {
+          "name": "property_DragonMarchingSpeed_gear",
+          "progression": "prog_gear_Event7.5_DragonMarchingSpeed_10"
+        }
+      ]
+    },
+    {
+      "id": "389a2b1e96bec15b",
+      "name": "eq_events_dragongear_artstub_15_chanfron_lord15",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_15"
+        },
+        {
+          "name": "property_DragonCavalryAttack_gear",
+          "progression": "prog_gear_Event7_DragonCavalryAttack_15"
+        },
+        {
+          "name": "property_DragonMarchingSpeed_gear",
+          "progression": "prog_gear_Event7.5_DragonMarchingSpeed_15"
+        }
+      ]
+    },
+    {
+      "id": "f6475cbebcf9e54",
+      "name": "eq_events_dragongear_artstub_15_saddle_lord15",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_15"
+        },
+        {
+          "name": "property_DragonRangedAttack_gear",
+          "progression": "prog_gear_Event7_DragonRangedAttack_15"
+        },
+        {
+          "name": "property_DragonMarchingSpeed_gear",
+          "progression": "prog_gear_Event7.5_DragonMarchingSpeed_15"
+        }
+      ]
+    },
+    {
+      "id": "a5caf7d5891d6e65",
+      "name": "eq_events_dragongear_artstub_15_peytral_lord15",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_15"
+        },
+        {
+          "name": "property_DragonInfantryAttack_gear",
+          "progression": "prog_gear_Event7_DragonInfantryAttack_15"
+        },
+        {
+          "name": "property_DragonMarchingSpeed_gear",
+          "progression": "prog_gear_Event7.5_DragonMarchingSpeed_15"
+        }
+      ]
+    },
+    {
+      "id": "a74a3de20c3a9e49",
+      "name": "eq_events_dragongear_artstub_20_chanfron_lord20",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_20"
+        },
+        {
+          "name": "property_DragonCavalryAttack_gear",
+          "progression": "prog_gear_Event7_DragonCavalryAttack_20"
+        },
+        {
+          "name": "property_DragonMarchingSpeed_gear",
+          "progression": "prog_gear_Event7.5_DragonMarchingSpeed_20"
+        },
+        {
+          "name": "property_DragonCavalryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonCavalryHealthVsPlayer_20"
+        }
+      ]
+    },
+    {
+      "id": "5d9c10bfc5483c0e",
+      "name": "eq_events_dragongear_artstub_20_saddle_lord20",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_20"
+        },
+        {
+          "name": "property_DragonRangedAttack_gear",
+          "progression": "prog_gear_Event7_DragonRangedAttack_20"
+        },
+        {
+          "name": "property_DragonMarchingSpeed_gear",
+          "progression": "prog_gear_Event7.5_DragonMarchingSpeed_20"
+        },
+        {
+          "name": "property_DragonRangedHealthVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonRangedHealthVsPlayer_20"
+        }
+      ]
+    },
+    {
+      "id": "a6783a390bb85b6c",
+      "name": "eq_events_dragongear_artstub_20_peytral_lord20",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_20"
+        },
+        {
+          "name": "property_DragonInfantryAttack_gear",
+          "progression": "prog_gear_Event7_DragonInfantryAttack_20"
+        },
+        {
+          "name": "property_DragonMarchingSpeed_gear",
+          "progression": "prog_gear_Event7.5_DragonMarchingSpeed_20"
+        },
+        {
+          "name": "property_DragonInfantryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonInfantryHealthVsPlayer_20"
+        }
+      ]
+    },
+    {
+      "id": "4f57b24949ad4fcb",
+      "name": "eq_events_dragongear_artstub_25_chanfron_lord25",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_25"
+        },
+        {
+          "name": "property_DragonCavalryAttack_gear",
+          "progression": "prog_gear_Event7_DragonCavalryAttack_25"
+        },
+        {
+          "name": "property_DragonMarchingSpeed_gear",
+          "progression": "prog_gear_Event7.5_DragonMarchingSpeed_25"
+        },
+        {
+          "name": "property_DragonCavalryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonCavalryHealthVsPlayer_25"
+        }
+      ]
+    },
+    {
+      "id": "6a565727228b8a6b",
+      "name": "eq_events_dragongear_artstub_25_saddle_lord25",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_25"
+        },
+        {
+          "name": "property_DragonRangedAttack_gear",
+          "progression": "prog_gear_Event7_DragonRangedAttack_25"
+        },
+        {
+          "name": "property_DragonMarchingSpeed_gear",
+          "progression": "prog_gear_Event7.5_DragonMarchingSpeed_25"
+        },
+        {
+          "name": "property_DragonRangedHealthVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonRangedHealthVsPlayer_25"
+        }
+      ]
+    },
+    {
+      "id": "87b6656cc7620200",
+      "name": "eq_events_dragongear_artstub_25_peytral_lord25",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_25"
+        },
+        {
+          "name": "property_DragonInfantryAttack_gear",
+          "progression": "prog_gear_Event7_DragonInfantryAttack_25"
+        },
+        {
+          "name": "property_DragonMarchingSpeed_gear",
+          "progression": "prog_gear_Event7.5_DragonMarchingSpeed_25"
+        },
+        {
+          "name": "property_DragonInfantryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonInfantryHealthVsPlayer_25"
+        }
+      ]
+    },
+    {
+      "id": "8a0eb52f46cbe439",
+      "name": "eq_events_dragongear_artstub_30_chanfron_lord30",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_30"
+        },
+        {
+          "name": "property_DragonCavalryAttack_gear",
+          "progression": "prog_gear_Event7_DragonCavalryAttack_30"
+        },
+        {
+          "name": "property_DragonMarchingSpeed_gear",
+          "progression": "prog_gear_Event7.5_DragonMarchingSpeed_30"
+        },
+        {
+          "name": "property_DragonCavalryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonCavalryHealthVsPlayer_30"
+        }
+      ]
+    },
+    {
+      "id": "7e8df11b8274301b",
+      "name": "eq_events_dragongear_artstub_30_saddle_lord30",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_30"
+        },
+        {
+          "name": "property_DragonRangedAttack_gear",
+          "progression": "prog_gear_Event7_DragonRangedAttack_30"
+        },
+        {
+          "name": "property_DragonMarchingSpeed_gear",
+          "progression": "prog_gear_Event7.5_DragonMarchingSpeed_30"
+        },
+        {
+          "name": "property_DragonRangedHealthVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonRangedHealthVsPlayer_30"
+        }
+      ]
+    },
+    {
+      "id": "b853b451ce6d7f4f",
+      "name": "eq_events_dragongear_artstub_30_peytral_lord30",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_30"
+        },
+        {
+          "name": "property_DragonInfantryAttack_gear",
+          "progression": "prog_gear_Event7_DragonInfantryAttack_30"
+        },
+        {
+          "name": "property_DragonMarchingSpeed_gear",
+          "progression": "prog_gear_Event7.5_DragonMarchingSpeed_30"
+        },
+        {
+          "name": "property_DragonInfantryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonInfantryHealthVsPlayer_30"
+        }
+      ]
+    },
+    {
+      "id": "62133a84035c35bb",
+      "name": "eq_events_dragongear_artstub_35_chanfron_lord35",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_35"
+        },
+        {
+          "name": "property_DragonCavalryAttack_gear",
+          "progression": "prog_gear_Event7_DragonCavalryAttack_35"
+        },
+        {
+          "name": "property_DragonMarchingSpeed_gear",
+          "progression": "prog_gear_Event7.5_DragonMarchingSpeed_35"
+        },
+        {
+          "name": "property_DragonCavalryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonCavalryHealthVsPlayer_35"
+        }
+      ]
+    },
+    {
+      "id": "4947b68365b7867e",
+      "name": "eq_events_dragongear_artstub_35_saddle_lord35",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_35"
+        },
+        {
+          "name": "property_DragonRangedAttack_gear",
+          "progression": "prog_gear_Event7_DragonRangedAttack_35"
+        },
+        {
+          "name": "property_DragonMarchingSpeed_gear",
+          "progression": "prog_gear_Event7.5_DragonMarchingSpeed_35"
+        },
+        {
+          "name": "property_DragonRangedHealthVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonRangedHealthVsPlayer_35"
+        }
+      ]
+    },
+    {
+      "id": "999deb0402b72623",
+      "name": "eq_events_dragongear_artstub_35_peytral_lord35",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_35"
+        },
+        {
+          "name": "property_DragonInfantryAttack_gear",
+          "progression": "prog_gear_Event7_DragonInfantryAttack_35"
+        },
+        {
+          "name": "property_DragonMarchingSpeed_gear",
+          "progression": "prog_gear_Event7.5_DragonMarchingSpeed_35"
+        },
+        {
+          "name": "property_DragonInfantryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonInfantryHealthVsPlayer_35"
+        }
+      ]
+    },
+    {
+      "id": "48d10f4db21d8369",
+      "name": "eq_events_dragongear_artstub_40_chanfron_lord40",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_40"
+        },
+        {
+          "name": "property_DragonCavalryAttack_gear",
+          "progression": "prog_gear_Event7_DragonCavalryAttack_40"
+        },
+        {
+          "name": "property_DragonMarchingSpeed_gear",
+          "progression": "prog_gear_Event7.5_DragonMarchingSpeed_40"
+        },
+        {
+          "name": "property_DragonCavalryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonCavalryHealthVsPlayer_40"
+        },
+        {
+          "name": "property_DragonMarcherTroopAttackVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonMarcherTroopAttackVsPlayer_40"
+        }
+      ]
+    },
+    {
+      "id": "97f8556657c01470",
+      "name": "eq_events_dragongear_artstub_40_saddle_lord40",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_40"
+        },
+        {
+          "name": "property_DragonRangedAttack_gear",
+          "progression": "prog_gear_Event7_DragonRangedAttack_40"
+        },
+        {
+          "name": "property_DragonMarchingSpeed_gear",
+          "progression": "prog_gear_Event7.5_DragonMarchingSpeed_40"
+        },
+        {
+          "name": "property_DragonRangedHealthVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonRangedHealthVsPlayer_40"
+        },
+        {
+          "name": "property_DragonMarcherTroopAttackVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonMarcherTroopAttackVsPlayer_40"
+        }
+      ]
+    },
+    {
+      "id": "e2811f4b974683a6",
+      "name": "eq_events_dragongear_artstub_40_peytral_lord40",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_40"
+        },
+        {
+          "name": "property_DragonInfantryAttack_gear",
+          "progression": "prog_gear_Event7_DragonInfantryAttack_40"
+        },
+        {
+          "name": "property_DragonMarchingSpeed_gear",
+          "progression": "prog_gear_Event7.5_DragonMarchingSpeed_40"
+        },
+        {
+          "name": "property_DragonInfantryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonInfantryHealthVsPlayer_40"
+        },
+        {
+          "name": "property_DragonMarcherTroopAttackVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonMarcherTroopAttackVsPlayer_40"
+        }
+      ]
+    },
+    {
+      "id": "a0cc80e6f78a52eb",
+      "name": "eq_events_dragongear_artstub_45_chanfron_lord45",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_45"
+        },
+        {
+          "name": "property_DragonCavalryAttack_gear",
+          "progression": "prog_gear_Event7_DragonCavalryAttack_45"
+        },
+        {
+          "name": "property_DragonMarchingSpeed_gear",
+          "progression": "prog_gear_Event7.5_DragonMarchingSpeed_45"
+        },
+        {
+          "name": "property_DragonCavalryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonCavalryHealthVsPlayer_45"
+        },
+        {
+          "name": "property_DragonMarcherTroopAttackVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonMarcherTroopAttackVsPlayer_45"
+        }
+      ]
+    },
+    {
+      "id": "a03212feb003a215",
+      "name": "eq_events_dragongear_artstub_45_saddle_lord45",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_45"
+        },
+        {
+          "name": "property_DragonRangedAttack_gear",
+          "progression": "prog_gear_Event7_DragonRangedAttack_45"
+        },
+        {
+          "name": "property_DragonMarchingSpeed_gear",
+          "progression": "prog_gear_Event7.5_DragonMarchingSpeed_45"
+        },
+        {
+          "name": "property_DragonRangedHealthVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonRangedHealthVsPlayer_45"
+        },
+        {
+          "name": "property_DragonMarcherTroopAttackVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonMarcherTroopAttackVsPlayer_45"
+        }
+      ]
+    },
+    {
+      "id": "c34f401e5b9cdaca",
+      "name": "eq_events_dragongear_artstub_45_peytral_lord45",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_45"
+        },
+        {
+          "name": "property_DragonInfantryAttack_gear",
+          "progression": "prog_gear_Event7_DragonInfantryAttack_45"
+        },
+        {
+          "name": "property_DragonMarchingSpeed_gear",
+          "progression": "prog_gear_Event7.5_DragonMarchingSpeed_45"
+        },
+        {
+          "name": "property_DragonInfantryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonInfantryHealthVsPlayer_45"
+        },
+        {
+          "name": "property_DragonMarcherTroopAttackVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonMarcherTroopAttackVsPlayer_45"
+        }
+      ]
+    },
+    {
+      "id": "65958780f8ecf919",
+      "name": "eq_events_dragongear_artstub_50_chanfron_lord50",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_50"
+        },
+        {
+          "name": "property_DragonCavalryAttack_gear",
+          "progression": "prog_gear_Event7_DragonCavalryAttack_50"
+        },
+        {
+          "name": "property_DragonMarchingSpeed_gear",
+          "progression": "prog_gear_Event7.5_DragonMarchingSpeed_50"
+        },
+        {
+          "name": "property_DragonCavalryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonCavalryHealthVsPlayer_50"
+        },
+        {
+          "name": "property_DragonMarcherTroopAttackVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonMarcherTroopAttackVsPlayer_50"
+        }
+      ]
+    },
+    {
+      "id": "b4e9b4c210fc1865",
+      "name": "eq_events_dragongear_artstub_50_saddle_lord50",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_50"
+        },
+        {
+          "name": "property_DragonRangedAttack_gear",
+          "progression": "prog_gear_Event7_DragonRangedAttack_50"
+        },
+        {
+          "name": "property_DragonMarchingSpeed_gear",
+          "progression": "prog_gear_Event7.5_DragonMarchingSpeed_50"
+        },
+        {
+          "name": "property_DragonRangedHealthVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonRangedHealthVsPlayer_50"
+        },
+        {
+          "name": "property_DragonMarcherTroopAttackVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonMarcherTroopAttackVsPlayer_50"
+        }
+      ]
+    },
+    {
+      "id": "fcaa91235293a785",
+      "name": "eq_events_dragongear_artstub_50_peytral_lord50",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_50"
+        },
+        {
+          "name": "property_DragonInfantryAttack_gear",
+          "progression": "prog_gear_Event7_DragonInfantryAttack_50"
+        },
+        {
+          "name": "property_DragonMarchingSpeed_gear",
+          "progression": "prog_gear_Event7.5_DragonMarchingSpeed_50"
+        },
+        {
+          "name": "property_DragonInfantryHealthVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonInfantryHealthVsPlayer_50"
+        },
+        {
+          "name": "property_DragonMarcherTroopAttackVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonMarcherTroopAttackVsPlayer_50"
+        }
+      ]
+    },
+    {
+      "id": "1e3dcda0f1c6a406",
+      "name": "eq_events_dragongear_tidebreaker_5_chanfron_lord5",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_5"
+        },
+        {
+          "name": "property_DragonTroopAttackVsSeatOfPower_gear",
+          "progression": "prog_gear_Event7_DragonTroopAttackVsSeatOfPower_5"
+        },
+        {
+          "name": "property_DragonMarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event7.5_DragonMarchingSpeedVsSeatOfPower_5"
+        }
+      ]
+    },
+    {
+      "id": "860889f2df056372",
+      "name": "eq_events_dragongear_tidebreaker_5_saddle_lord5",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_5"
+        },
+        {
+          "name": "property_DragonTroopAttackVsSeatOfPower_gear",
+          "progression": "prog_gear_Event7_DragonTroopAttackVsSeatOfPower_5"
+        },
+        {
+          "name": "property_DragonMarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event7.5_DragonMarchingSpeedVsSeatOfPower_5"
+        }
+      ]
+    },
+    {
+      "id": "7bef9c210f05090e",
+      "name": "eq_events_dragongear_tidebreaker_5_peytral_lord5",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_5"
+        },
+        {
+          "name": "property_DragonTroopAttackVsSeatOfPower_gear",
+          "progression": "prog_gear_Event7_DragonTroopAttackVsSeatOfPower_5"
+        },
+        {
+          "name": "property_DragonMarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event7.5_DragonMarchingSpeedVsSeatOfPower_5"
+        }
+      ]
+    },
+    {
+      "id": "6180eb99ac65dd6b",
+      "name": "eq_events_dragongear_tidebreaker_10_chanfron_lord10",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_10"
+        },
+        {
+          "name": "property_DragonTroopAttackVsSeatOfPower_gear",
+          "progression": "prog_gear_Event7_DragonTroopAttackVsSeatOfPower_10"
+        },
+        {
+          "name": "property_DragonMarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event7.5_DragonMarchingSpeedVsSeatOfPower_10"
+        }
+      ]
+    },
+    {
+      "id": "55046c676d6d6b2f",
+      "name": "eq_events_dragongear_tidebreaker_10_saddle_lord10",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_10"
+        },
+        {
+          "name": "property_DragonTroopAttackVsSeatOfPower_gear",
+          "progression": "prog_gear_Event7_DragonTroopAttackVsSeatOfPower_10"
+        },
+        {
+          "name": "property_DragonMarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event7.5_DragonMarchingSpeedVsSeatOfPower_10"
+        }
+      ]
+    },
+    {
+      "id": "c3abd8bd9ebcbc70",
+      "name": "eq_events_dragongear_tidebreaker_10_peytral_lord10",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_10"
+        },
+        {
+          "name": "property_DragonTroopAttackVsSeatOfPower_gear",
+          "progression": "prog_gear_Event7_DragonTroopAttackVsSeatOfPower_10"
+        },
+        {
+          "name": "property_DragonMarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event7.5_DragonMarchingSpeedVsSeatOfPower_10"
+        }
+      ]
+    },
+    {
+      "id": "899d6432e9f20ce9",
+      "name": "eq_events_dragongear_tidebreaker_15_chanfron_lord15",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_15"
+        },
+        {
+          "name": "property_DragonTroopAttackVsSeatOfPower_gear",
+          "progression": "prog_gear_Event7_DragonTroopAttackVsSeatOfPower_15"
+        },
+        {
+          "name": "property_DragonMarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event7.5_DragonMarchingSpeedVsSeatOfPower_15"
+        }
+      ]
+    },
+    {
+      "id": "62ce2bff8aaedd4a",
+      "name": "eq_events_dragongear_tidebreaker_15_saddle_lord15",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_15"
+        },
+        {
+          "name": "property_DragonTroopAttackVsSeatOfPower_gear",
+          "progression": "prog_gear_Event7_DragonTroopAttackVsSeatOfPower_15"
+        },
+        {
+          "name": "property_DragonMarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event7.5_DragonMarchingSpeedVsSeatOfPower_15"
+        }
+      ]
+    },
+    {
+      "id": "e26587e85266e51c",
+      "name": "eq_events_dragongear_tidebreaker_15_peytral_lord15",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_15"
+        },
+        {
+          "name": "property_DragonTroopAttackVsSeatOfPower_gear",
+          "progression": "prog_gear_Event7_DragonTroopAttackVsSeatOfPower_15"
+        },
+        {
+          "name": "property_DragonMarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event7.5_DragonMarchingSpeedVsSeatOfPower_15"
+        }
+      ]
+    },
+    {
+      "id": "164d72ce737653fb",
+      "name": "eq_events_dragongear_tidebreaker_20_chanfron_lord20",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_20"
+        },
+        {
+          "name": "property_DragonTroopAttackVsSeatOfPower_gear",
+          "progression": "prog_gear_Event7_DragonTroopAttackVsSeatOfPower_20"
+        },
+        {
+          "name": "property_DragonMarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event7.5_DragonMarchingSpeedVsSeatOfPower_20"
+        },
+        {
+          "name": "property_DragonRangedDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonRangedDefenseVsPlayer_20"
+        }
+      ]
+    },
+    {
+      "id": "30364e8ba4297f10",
+      "name": "eq_events_dragongear_tidebreaker_20_saddle_lord20",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_20"
+        },
+        {
+          "name": "property_DragonTroopAttackVsSeatOfPower_gear",
+          "progression": "prog_gear_Event7_DragonTroopAttackVsSeatOfPower_20"
+        },
+        {
+          "name": "property_DragonMarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event7.5_DragonMarchingSpeedVsSeatOfPower_20"
+        },
+        {
+          "name": "property_DragonCavalryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonCavalryDefenseVsPlayer_20"
+        }
+      ]
+    },
+    {
+      "id": "e1d74a04d0c3d015",
+      "name": "eq_events_dragongear_tidebreaker_20_peytral_lord20",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_20"
+        },
+        {
+          "name": "property_DragonTroopAttackVsSeatOfPower_gear",
+          "progression": "prog_gear_Event7_DragonTroopAttackVsSeatOfPower_20"
+        },
+        {
+          "name": "property_DragonMarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event7.5_DragonMarchingSpeedVsSeatOfPower_20"
+        },
+        {
+          "name": "property_DragonInfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonInfantryDefenseVsPlayer_20"
+        }
+      ]
+    },
+    {
+      "id": "fe50fd6536e18279",
+      "name": "eq_events_dragongear_tidebreaker_25_chanfron_lord25",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_25"
+        },
+        {
+          "name": "property_DragonTroopAttackVsSeatOfPower_gear",
+          "progression": "prog_gear_Event7_DragonTroopAttackVsSeatOfPower_25"
+        },
+        {
+          "name": "property_DragonMarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event7.5_DragonMarchingSpeedVsSeatOfPower_25"
+        },
+        {
+          "name": "property_DragonRangedDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonRangedDefenseVsPlayer_25"
+        }
+      ]
+    },
+    {
+      "id": "7fc091343eac975",
+      "name": "eq_events_dragongear_tidebreaker_25_saddle_lord25",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_25"
+        },
+        {
+          "name": "property_DragonTroopAttackVsSeatOfPower_gear",
+          "progression": "prog_gear_Event7_DragonTroopAttackVsSeatOfPower_25"
+        },
+        {
+          "name": "property_DragonMarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event7.5_DragonMarchingSpeedVsSeatOfPower_25"
+        },
+        {
+          "name": "property_DragonCavalryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonCavalryDefenseVsPlayer_25"
+        }
+      ]
+    },
+    {
+      "id": "c01915511c198979",
+      "name": "eq_events_dragongear_tidebreaker_25_peytral_lord25",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_25"
+        },
+        {
+          "name": "property_DragonTroopAttackVsSeatOfPower_gear",
+          "progression": "prog_gear_Event7_DragonTroopAttackVsSeatOfPower_25"
+        },
+        {
+          "name": "property_DragonMarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event7.5_DragonMarchingSpeedVsSeatOfPower_25"
+        },
+        {
+          "name": "property_DragonInfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonInfantryDefenseVsPlayer_25"
+        }
+      ]
+    },
+    {
+      "id": "3b09fa033987298b",
+      "name": "eq_events_dragongear_tidebreaker_30_chanfron_lord30",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_30"
+        },
+        {
+          "name": "property_DragonTroopAttackVsSeatOfPower_gear",
+          "progression": "prog_gear_Event7_DragonTroopAttackVsSeatOfPower_30"
+        },
+        {
+          "name": "property_DragonMarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event7.5_DragonMarchingSpeedVsSeatOfPower_30"
+        },
+        {
+          "name": "property_DragonRangedDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonRangedDefenseVsPlayer_30"
+        }
+      ]
+    },
+    {
+      "id": "1327af2fe3157305",
+      "name": "eq_events_dragongear_tidebreaker_30_saddle_lord30",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_30"
+        },
+        {
+          "name": "property_DragonTroopAttackVsSeatOfPower_gear",
+          "progression": "prog_gear_Event7_DragonTroopAttackVsSeatOfPower_30"
+        },
+        {
+          "name": "property_DragonMarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event7.5_DragonMarchingSpeedVsSeatOfPower_30"
+        },
+        {
+          "name": "property_DragonCavalryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonCavalryDefenseVsPlayer_30"
+        }
+      ]
+    },
+    {
+      "id": "fffcc46c1516f436",
+      "name": "eq_events_dragongear_tidebreaker_30_peytral_lord30",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_30"
+        },
+        {
+          "name": "property_DragonTroopAttackVsSeatOfPower_gear",
+          "progression": "prog_gear_Event7_DragonTroopAttackVsSeatOfPower_30"
+        },
+        {
+          "name": "property_DragonMarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event7.5_DragonMarchingSpeedVsSeatOfPower_30"
+        },
+        {
+          "name": "property_DragonInfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonInfantryDefenseVsPlayer_30"
+        }
+      ]
+    },
+    {
+      "id": "d31475a87c10f809",
+      "name": "eq_events_dragongear_tidebreaker_35_chanfron_lord35",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_35"
+        },
+        {
+          "name": "property_DragonTroopAttackVsSeatOfPower_gear",
+          "progression": "prog_gear_Event7_DragonTroopAttackVsSeatOfPower_35"
+        },
+        {
+          "name": "property_DragonMarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event7.5_DragonMarchingSpeedVsSeatOfPower_35"
+        },
+        {
+          "name": "property_DragonRangedDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonRangedDefenseVsPlayer_35"
+        }
+      ]
+    },
+    {
+      "id": "24ede8b704d6c560",
+      "name": "eq_events_dragongear_tidebreaker_35_saddle_lord35",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_35"
+        },
+        {
+          "name": "property_DragonTroopAttackVsSeatOfPower_gear",
+          "progression": "prog_gear_Event7_DragonTroopAttackVsSeatOfPower_35"
+        },
+        {
+          "name": "property_DragonMarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event7.5_DragonMarchingSpeedVsSeatOfPower_35"
+        },
+        {
+          "name": "property_DragonCavalryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonCavalryDefenseVsPlayer_35"
+        }
+      ]
+    },
+    {
+      "id": "de329b39d9ccad5a",
+      "name": "eq_events_dragongear_tidebreaker_35_peytral_lord35",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_35"
+        },
+        {
+          "name": "property_DragonTroopAttackVsSeatOfPower_gear",
+          "progression": "prog_gear_Event7_DragonTroopAttackVsSeatOfPower_35"
+        },
+        {
+          "name": "property_DragonMarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event7.5_DragonMarchingSpeedVsSeatOfPower_35"
+        },
+        {
+          "name": "property_DragonInfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonInfantryDefenseVsPlayer_35"
+        }
+      ]
+    },
+    {
+      "id": "f9d64061cd514edb",
+      "name": "eq_events_dragongear_tidebreaker_40_chanfron_lord40",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_40"
+        },
+        {
+          "name": "property_DragonTroopAttackVsSeatOfPower_gear",
+          "progression": "prog_gear_Event7_DragonTroopAttackVsSeatOfPower_40"
+        },
+        {
+          "name": "property_DragonMarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event7.5_DragonMarchingSpeedVsSeatOfPower_40"
+        },
+        {
+          "name": "property_DragonRangedDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonRangedDefenseVsPlayer_40"
+        },
+        {
+          "name": "property_DragonRangedHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event7_DragonRangedHealthVsPlayerSeatOfPower_40"
+        }
+      ]
+    },
+    {
+      "id": "fa520b5236a1576e",
+      "name": "eq_events_dragongear_tidebreaker_40_saddle_lord40",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_40"
+        },
+        {
+          "name": "property_DragonTroopAttackVsSeatOfPower_gear",
+          "progression": "prog_gear_Event7_DragonTroopAttackVsSeatOfPower_40"
+        },
+        {
+          "name": "property_DragonMarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event7.5_DragonMarchingSpeedVsSeatOfPower_40"
+        },
+        {
+          "name": "property_DragonCavalryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonCavalryDefenseVsPlayer_40"
+        },
+        {
+          "name": "property_DragonCavalryHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event7_DragonCavalryHealthVsPlayerSeatOfPower_40"
+        }
+      ]
+    },
+    {
+      "id": "a52e6f764c3d08df",
+      "name": "eq_events_dragongear_tidebreaker_40_peytral_lord40",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_40"
+        },
+        {
+          "name": "property_DragonTroopAttackVsSeatOfPower_gear",
+          "progression": "prog_gear_Event7_DragonTroopAttackVsSeatOfPower_40"
+        },
+        {
+          "name": "property_DragonMarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event7.5_DragonMarchingSpeedVsSeatOfPower_40"
+        },
+        {
+          "name": "property_DragonInfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonInfantryDefenseVsPlayer_40"
+        },
+        {
+          "name": "property_DragonInfantryHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event7_DragonInfantryHealthVsPlayerSeatOfPower_40"
+        }
+      ]
+    },
+    {
+      "id": "11cbcfca88c69f59",
+      "name": "eq_events_dragongear_tidebreaker_45_chanfron_lord45",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_45"
+        },
+        {
+          "name": "property_DragonTroopAttackVsSeatOfPower_gear",
+          "progression": "prog_gear_Event7_DragonTroopAttackVsSeatOfPower_45"
+        },
+        {
+          "name": "property_DragonMarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event7.5_DragonMarchingSpeedVsSeatOfPower_45"
+        },
+        {
+          "name": "property_DragonRangedDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonRangedDefenseVsPlayer_45"
+        },
+        {
+          "name": "property_DragonRangedHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event7_DragonRangedHealthVsPlayerSeatOfPower_45"
+        }
+      ]
+    },
+    {
+      "id": "cd984ccad162e10b",
+      "name": "eq_events_dragongear_tidebreaker_45_saddle_lord45",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_45"
+        },
+        {
+          "name": "property_DragonTroopAttackVsSeatOfPower_gear",
+          "progression": "prog_gear_Event7_DragonTroopAttackVsSeatOfPower_45"
+        },
+        {
+          "name": "property_DragonMarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event7.5_DragonMarchingSpeedVsSeatOfPower_45"
+        },
+        {
+          "name": "property_DragonCavalryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonCavalryDefenseVsPlayer_45"
+        },
+        {
+          "name": "property_DragonCavalryHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event7_DragonCavalryHealthVsPlayerSeatOfPower_45"
+        }
+      ]
+    },
+    {
+      "id": "84e0302380e751b3",
+      "name": "eq_events_dragongear_tidebreaker_45_peytral_lord45",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_45"
+        },
+        {
+          "name": "property_DragonTroopAttackVsSeatOfPower_gear",
+          "progression": "prog_gear_Event7_DragonTroopAttackVsSeatOfPower_45"
+        },
+        {
+          "name": "property_DragonMarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event7.5_DragonMarchingSpeedVsSeatOfPower_45"
+        },
+        {
+          "name": "property_DragonInfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonInfantryDefenseVsPlayer_45"
+        },
+        {
+          "name": "property_DragonInfantryHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event7_DragonInfantryHealthVsPlayerSeatOfPower_45"
+        }
+      ]
+    },
+    {
+      "id": "d492c8ac87a034ab",
+      "name": "eq_events_dragongear_tidebreaker_50_chanfron_lord50",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_50"
+        },
+        {
+          "name": "property_DragonTroopAttackVsSeatOfPower_gear",
+          "progression": "prog_gear_Event7_DragonTroopAttackVsSeatOfPower_50"
+        },
+        {
+          "name": "property_DragonMarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event7.5_DragonMarchingSpeedVsSeatOfPower_50"
+        },
+        {
+          "name": "property_DragonRangedDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonRangedDefenseVsPlayer_50"
+        },
+        {
+          "name": "property_DragonRangedHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event7_DragonRangedHealthVsPlayerSeatOfPower_50"
+        }
+      ]
+    },
+    {
+      "id": "d943eaf6719d5b7b",
+      "name": "eq_events_dragongear_tidebreaker_50_saddle_lord50",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_50"
+        },
+        {
+          "name": "property_DragonTroopAttackVsSeatOfPower_gear",
+          "progression": "prog_gear_Event7_DragonTroopAttackVsSeatOfPower_50"
+        },
+        {
+          "name": "property_DragonMarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event7.5_DragonMarchingSpeedVsSeatOfPower_50"
+        },
+        {
+          "name": "property_DragonCavalryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonCavalryDefenseVsPlayer_50"
+        },
+        {
+          "name": "property_DragonCavalryHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event7_DragonCavalryHealthVsPlayerSeatOfPower_50"
+        }
+      ]
+    },
+    {
+      "id": "bb05e11e89e82cfc",
+      "name": "eq_events_dragongear_tidebreaker_50_peytral_lord50",
+      "stats": [
+        {
+          "name": "property_DragonAttack_gear",
+          "progression": "prog_gear_Event7_DragonAttack_50"
+        },
+        {
+          "name": "property_DragonTroopAttackVsSeatOfPower_gear",
+          "progression": "prog_gear_Event7_DragonTroopAttackVsSeatOfPower_50"
+        },
+        {
+          "name": "property_DragonMarchingSpeedVsSeatOfPower_gear",
+          "progression": "prog_gear_Event7.5_DragonMarchingSpeedVsSeatOfPower_50"
+        },
+        {
+          "name": "property_DragonInfantryDefenseVsPlayer_gear",
+          "progression": "prog_gear_Event7_DragonInfantryDefenseVsPlayer_50"
+        },
+        {
+          "name": "property_DragonInfantryHealthVsPlayerSeatOfPower_gear",
+          "progression": "prog_gear_Event7_DragonInfantryHealthVsPlayerSeatOfPower_50"
+        }
+      ]
+    }
+  ]
+}

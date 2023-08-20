@@ -1,0 +1,545 @@
+{
+  "description": "Gears (event and non event)",
+  "values": [
+    {
+      "id": "7397939490a7e718",
+      "image": "icon_eq_events_dragongear_artstub_chanfron_1.png",
+      "level": 5,
+      "name": "eq_events_dragongear_artstub_5_chanfron_lord5",
+      "name_placeholder": "EQ_EVENTS_DRAGONGEAR_ARTSTUB_5_CHANFRON_LORD5_NAME",
+      "priority": 300001,
+      "slot_name": "slot_Chanfron"
+    },
+    {
+      "id": "3c74a3cc98bbb2f",
+      "image": "icon_eq_events_dragongear_artstub_saddle_1.png",
+      "level": 5,
+      "name": "eq_events_dragongear_artstub_5_saddle_lord5",
+      "name_placeholder": "EQ_EVENTS_DRAGONGEAR_ARTSTUB_5_SADDLE_LORD5_NAME",
+      "priority": 300002,
+      "slot_name": "slot_SADDLE"
+    },
+    {
+      "id": "e84964cd0140ebbd",
+      "image": "icon_eq_events_dragongear_artstub_peytral_1.png",
+      "level": 5,
+      "name": "eq_events_dragongear_artstub_5_peytral_lord5",
+      "name_placeholder": "EQ_EVENTS_DRAGONGEAR_ARTSTUB_5_PEYTRAL_LORD5_NAME",
+      "priority": 300003,
+      "slot_name": "slot_Peytral"
+    },
+    {
+      "id": "d087a4b5d32910d9",
+      "image": "icon_eq_events_dragongear_artstub_chanfron_1.png",
+      "level": 10,
+      "name": "eq_events_dragongear_artstub_10_chanfron_lord10",
+      "name_placeholder": "EQ_EVENTS_DRAGONGEAR_ARTSTUB_10_CHANFRON_LORD10_NAME",
+      "priority": 300004,
+      "slot_name": "slot_Chanfron"
+    },
+    {
+      "id": "38ae32530c0c2831",
+      "image": "icon_eq_events_dragongear_artstub_saddle_1.png",
+      "level": 10,
+      "name": "eq_events_dragongear_artstub_10_saddle_lord10",
+      "name_placeholder": "EQ_EVENTS_DRAGONGEAR_ARTSTUB_10_SADDLE_LORD10_NAME",
+      "priority": 300005,
+      "slot_name": "slot_SADDLE"
+    },
+    {
+      "id": "8404a88045c73709",
+      "image": "icon_eq_events_dragongear_artstub_peytral_1.png",
+      "level": 10,
+      "name": "eq_events_dragongear_artstub_10_peytral_lord10",
+      "name_placeholder": "EQ_EVENTS_DRAGONGEAR_ARTSTUB_10_PEYTRAL_LORD10_NAME",
+      "priority": 300006,
+      "slot_name": "slot_Peytral"
+    },
+    {
+      "id": "389a2b1e96bec15b",
+      "image": "icon_eq_events_dragongear_artstub_chanfron_1.png",
+      "level": 15,
+      "name": "eq_events_dragongear_artstub_15_chanfron_lord15",
+      "name_placeholder": "EQ_EVENTS_DRAGONGEAR_ARTSTUB_15_CHANFRON_LORD15_NAME",
+      "priority": 300007,
+      "slot_name": "slot_Chanfron"
+    },
+    {
+      "id": "f6475cbebcf9e54",
+      "image": "icon_eq_events_dragongear_artstub_saddle_1.png",
+      "level": 15,
+      "name": "eq_events_dragongear_artstub_15_saddle_lord15",
+      "name_placeholder": "EQ_EVENTS_DRAGONGEAR_ARTSTUB_15_SADDLE_LORD15_NAME",
+      "priority": 300008,
+      "slot_name": "slot_SADDLE"
+    },
+    {
+      "id": "a5caf7d5891d6e65",
+      "image": "icon_eq_events_dragongear_artstub_peytral_1.png",
+      "level": 15,
+      "name": "eq_events_dragongear_artstub_15_peytral_lord15",
+      "name_placeholder": "EQ_EVENTS_DRAGONGEAR_ARTSTUB_15_PEYTRAL_LORD15_NAME",
+      "priority": 300009,
+      "slot_name": "slot_Peytral"
+    },
+    {
+      "id": "a74a3de20c3a9e49",
+      "image": "icon_eq_events_dragongear_artstub_chanfron_1.png",
+      "level": 20,
+      "name": "eq_events_dragongear_artstub_20_chanfron_lord20",
+      "name_placeholder": "EQ_EVENTS_DRAGONGEAR_ARTSTUB_20_CHANFRON_LORD20_NAME",
+      "priority": 300010,
+      "slot_name": "slot_Chanfron"
+    },
+    {
+      "id": "5d9c10bfc5483c0e",
+      "image": "icon_eq_events_dragongear_artstub_saddle_1.png",
+      "level": 20,
+      "name": "eq_events_dragongear_artstub_20_saddle_lord20",
+      "name_placeholder": "EQ_EVENTS_DRAGONGEAR_ARTSTUB_20_SADDLE_LORD20_NAME",
+      "priority": 300011,
+      "slot_name": "slot_SADDLE"
+    },
+    {
+      "id": "a6783a390bb85b6c",
+      "image": "icon_eq_events_dragongear_artstub_peytral_1.png",
+      "level": 20,
+      "name": "eq_events_dragongear_artstub_20_peytral_lord20",
+      "name_placeholder": "EQ_EVENTS_DRAGONGEAR_ARTSTUB_20_PEYTRAL_LORD20_NAME",
+      "priority": 300012,
+      "slot_name": "slot_Peytral"
+    },
+    {
+      "id": "4f57b24949ad4fcb",
+      "image": "icon_eq_events_dragongear_artstub_chanfron_1.png",
+      "level": 25,
+      "name": "eq_events_dragongear_artstub_25_chanfron_lord25",
+      "name_placeholder": "EQ_EVENTS_DRAGONGEAR_ARTSTUB_25_CHANFRON_LORD25_NAME",
+      "priority": 300013,
+      "slot_name": "slot_Chanfron"
+    },
+    {
+      "id": "6a565727228b8a6b",
+      "image": "icon_eq_events_dragongear_artstub_saddle_1.png",
+      "level": 25,
+      "name": "eq_events_dragongear_artstub_25_saddle_lord25",
+      "name_placeholder": "EQ_EVENTS_DRAGONGEAR_ARTSTUB_25_SADDLE_LORD25_NAME",
+      "priority": 300014,
+      "slot_name": "slot_SADDLE"
+    },
+    {
+      "id": "87b6656cc7620200",
+      "image": "icon_eq_events_dragongear_artstub_peytral_1.png",
+      "level": 25,
+      "name": "eq_events_dragongear_artstub_25_peytral_lord25",
+      "name_placeholder": "EQ_EVENTS_DRAGONGEAR_ARTSTUB_25_PEYTRAL_LORD25_NAME",
+      "priority": 300015,
+      "slot_name": "slot_Peytral"
+    },
+    {
+      "id": "8a0eb52f46cbe439",
+      "image": "icon_eq_events_dragongear_artstub_chanfron_1.png",
+      "level": 30,
+      "name": "eq_events_dragongear_artstub_30_chanfron_lord30",
+      "name_placeholder": "EQ_EVENTS_DRAGONGEAR_ARTSTUB_30_CHANFRON_LORD30_NAME",
+      "priority": 300016,
+      "slot_name": "slot_Chanfron"
+    },
+    {
+      "id": "7e8df11b8274301b",
+      "image": "icon_eq_events_dragongear_artstub_saddle_1.png",
+      "level": 30,
+      "name": "eq_events_dragongear_artstub_30_saddle_lord30",
+      "name_placeholder": "EQ_EVENTS_DRAGONGEAR_ARTSTUB_30_SADDLE_LORD30_NAME",
+      "priority": 300017,
+      "slot_name": "slot_SADDLE"
+    },
+    {
+      "id": "b853b451ce6d7f4f",
+      "image": "icon_eq_events_dragongear_artstub_peytral_1.png",
+      "level": 30,
+      "name": "eq_events_dragongear_artstub_30_peytral_lord30",
+      "name_placeholder": "EQ_EVENTS_DRAGONGEAR_ARTSTUB_30_PEYTRAL_LORD30_NAME",
+      "priority": 300018,
+      "slot_name": "slot_Peytral"
+    },
+    {
+      "id": "62133a84035c35bb",
+      "image": "icon_eq_events_dragongear_artstub_chanfron_1.png",
+      "level": 35,
+      "name": "eq_events_dragongear_artstub_35_chanfron_lord35",
+      "name_placeholder": "EQ_EVENTS_DRAGONGEAR_ARTSTUB_35_CHANFRON_LORD35_NAME",
+      "priority": 300019,
+      "slot_name": "slot_Chanfron"
+    },
+    {
+      "id": "4947b68365b7867e",
+      "image": "icon_eq_events_dragongear_artstub_saddle_1.png",
+      "level": 35,
+      "name": "eq_events_dragongear_artstub_35_saddle_lord35",
+      "name_placeholder": "EQ_EVENTS_DRAGONGEAR_ARTSTUB_35_SADDLE_LORD35_NAME",
+      "priority": 300020,
+      "slot_name": "slot_SADDLE"
+    },
+    {
+      "id": "999deb0402b72623",
+      "image": "icon_eq_events_dragongear_artstub_peytral_1.png",
+      "level": 35,
+      "name": "eq_events_dragongear_artstub_35_peytral_lord35",
+      "name_placeholder": "EQ_EVENTS_DRAGONGEAR_ARTSTUB_35_PEYTRAL_LORD35_NAME",
+      "priority": 300021,
+      "slot_name": "slot_Peytral"
+    },
+    {
+      "id": "48d10f4db21d8369",
+      "image": "icon_eq_events_dragongear_artstub_chanfron_1.png",
+      "level": 40,
+      "name": "eq_events_dragongear_artstub_40_chanfron_lord40",
+      "name_placeholder": "EQ_EVENTS_DRAGONGEAR_ARTSTUB_40_CHANFRON_LORD40_NAME",
+      "priority": 300022,
+      "slot_name": "slot_Chanfron"
+    },
+    {
+      "id": "97f8556657c01470",
+      "image": "icon_eq_events_dragongear_artstub_saddle_1.png",
+      "level": 40,
+      "name": "eq_events_dragongear_artstub_40_saddle_lord40",
+      "name_placeholder": "EQ_EVENTS_DRAGONGEAR_ARTSTUB_40_SADDLE_LORD40_NAME",
+      "priority": 300023,
+      "slot_name": "slot_SADDLE"
+    },
+    {
+      "id": "e2811f4b974683a6",
+      "image": "icon_eq_events_dragongear_artstub_peytral_1.png",
+      "level": 40,
+      "name": "eq_events_dragongear_artstub_40_peytral_lord40",
+      "name_placeholder": "EQ_EVENTS_DRAGONGEAR_ARTSTUB_40_PEYTRAL_LORD40_NAME",
+      "priority": 300024,
+      "slot_name": "slot_Peytral"
+    },
+    {
+      "id": "a0cc80e6f78a52eb",
+      "image": "icon_eq_events_dragongear_artstub_chanfron_1.png",
+      "level": 45,
+      "name": "eq_events_dragongear_artstub_45_chanfron_lord45",
+      "name_placeholder": "EQ_EVENTS_DRAGONGEAR_ARTSTUB_45_CHANFRON_LORD45_NAME",
+      "priority": 300025,
+      "slot_name": "slot_Chanfron"
+    },
+    {
+      "id": "a03212feb003a215",
+      "image": "icon_eq_events_dragongear_artstub_saddle_1.png",
+      "level": 45,
+      "name": "eq_events_dragongear_artstub_45_saddle_lord45",
+      "name_placeholder": "EQ_EVENTS_DRAGONGEAR_ARTSTUB_45_SADDLE_LORD45_NAME",
+      "priority": 300026,
+      "slot_name": "slot_SADDLE"
+    },
+    {
+      "id": "c34f401e5b9cdaca",
+      "image": "icon_eq_events_dragongear_artstub_peytral_1.png",
+      "level": 45,
+      "name": "eq_events_dragongear_artstub_45_peytral_lord45",
+      "name_placeholder": "EQ_EVENTS_DRAGONGEAR_ARTSTUB_45_PEYTRAL_LORD45_NAME",
+      "priority": 300027,
+      "slot_name": "slot_Peytral"
+    },
+    {
+      "id": "65958780f8ecf919",
+      "image": "icon_eq_events_dragongear_artstub_chanfron_1.png",
+      "level": 50,
+      "name": "eq_events_dragongear_artstub_50_chanfron_lord50",
+      "name_placeholder": "EQ_EVENTS_DRAGONGEAR_ARTSTUB_50_CHANFRON_LORD50_NAME",
+      "priority": 300028,
+      "slot_name": "slot_Chanfron"
+    },
+    {
+      "id": "b4e9b4c210fc1865",
+      "image": "icon_eq_events_dragongear_artstub_saddle_1.png",
+      "level": 50,
+      "name": "eq_events_dragongear_artstub_50_saddle_lord50",
+      "name_placeholder": "EQ_EVENTS_DRAGONGEAR_ARTSTUB_50_SADDLE_LORD50_NAME",
+      "priority": 300029,
+      "slot_name": "slot_SADDLE"
+    },
+    {
+      "id": "fcaa91235293a785",
+      "image": "icon_eq_events_dragongear_artstub_peytral_1.png",
+      "level": 50,
+      "name": "eq_events_dragongear_artstub_50_peytral_lord50",
+      "name_placeholder": "EQ_EVENTS_DRAGONGEAR_ARTSTUB_50_PEYTRAL_LORD50_NAME",
+      "priority": 300030,
+      "slot_name": "slot_Peytral"
+    },
+    {
+      "id": "1e3dcda0f1c6a406",
+      "image": "icon_eq_events_dragongear03_chanfron_1.png",
+      "level": 5,
+      "name": "eq_events_dragongear_tidebreaker_5_chanfron_lord5",
+      "name_placeholder": "EQ_EVENTS_DRAGONGEAR_TIDEBREAKER_5_CHANFRON_LORD5_NAME",
+      "priority": 300031,
+      "slot_name": "slot_Chanfron"
+    },
+    {
+      "id": "860889f2df056372",
+      "image": "icon_eq_events_dragongear03_saddle_1.png",
+      "level": 5,
+      "name": "eq_events_dragongear_tidebreaker_5_saddle_lord5",
+      "name_placeholder": "EQ_EVENTS_DRAGONGEAR_TIDEBREAKER_5_SADDLE_LORD5_NAME",
+      "priority": 300032,
+      "slot_name": "slot_SADDLE"
+    },
+    {
+      "id": "7bef9c210f05090e",
+      "image": "icon_eq_events_dragongear03_peytral_1.png",
+      "level": 5,
+      "name": "eq_events_dragongear_tidebreaker_5_peytral_lord5",
+      "name_placeholder": "EQ_EVENTS_DRAGONGEAR_TIDEBREAKER_5_PEYTRAL_LORD5_NAME",
+      "priority": 300033,
+      "slot_name": "slot_Peytral"
+    },
+    {
+      "id": "6180eb99ac65dd6b",
+      "image": "icon_eq_events_dragongear03_chanfron_1.png",
+      "level": 10,
+      "name": "eq_events_dragongear_tidebreaker_10_chanfron_lord10",
+      "name_placeholder": "EQ_EVENTS_DRAGONGEAR_TIDEBREAKER_10_CHANFRON_LORD10_NAME",
+      "priority": 300034,
+      "slot_name": "slot_Chanfron"
+    },
+    {
+      "id": "55046c676d6d6b2f",
+      "image": "icon_eq_events_dragongear03_saddle_1.png",
+      "level": 10,
+      "name": "eq_events_dragongear_tidebreaker_10_saddle_lord10",
+      "name_placeholder": "EQ_EVENTS_DRAGONGEAR_TIDEBREAKER_10_SADDLE_LORD10_NAME",
+      "priority": 300035,
+      "slot_name": "slot_SADDLE"
+    },
+    {
+      "id": "c3abd8bd9ebcbc70",
+      "image": "icon_eq_events_dragongear03_peytral_1.png",
+      "level": 10,
+      "name": "eq_events_dragongear_tidebreaker_10_peytral_lord10",
+      "name_placeholder": "EQ_EVENTS_DRAGONGEAR_TIDEBREAKER_10_PEYTRAL_LORD10_NAME",
+      "priority": 300036,
+      "slot_name": "slot_Peytral"
+    },
+    {
+      "id": "899d6432e9f20ce9",
+      "image": "icon_eq_events_dragongear03_chanfron_1.png",
+      "level": 15,
+      "name": "eq_events_dragongear_tidebreaker_15_chanfron_lord15",
+      "name_placeholder": "EQ_EVENTS_DRAGONGEAR_TIDEBREAKER_15_CHANFRON_LORD15_NAME",
+      "priority": 300037,
+      "slot_name": "slot_Chanfron"
+    },
+    {
+      "id": "62ce2bff8aaedd4a",
+      "image": "icon_eq_events_dragongear03_saddle_1.png",
+      "level": 15,
+      "name": "eq_events_dragongear_tidebreaker_15_saddle_lord15",
+      "name_placeholder": "EQ_EVENTS_DRAGONGEAR_TIDEBREAKER_15_SADDLE_LORD15_NAME",
+      "priority": 300038,
+      "slot_name": "slot_SADDLE"
+    },
+    {
+      "id": "e26587e85266e51c",
+      "image": "icon_eq_events_dragongear03_peytral_1.png",
+      "level": 15,
+      "name": "eq_events_dragongear_tidebreaker_15_peytral_lord15",
+      "name_placeholder": "EQ_EVENTS_DRAGONGEAR_TIDEBREAKER_15_PEYTRAL_LORD15_NAME",
+      "priority": 300039,
+      "slot_name": "slot_Peytral"
+    },
+    {
+      "id": "164d72ce737653fb",
+      "image": "icon_eq_events_dragongear03_chanfron_1.png",
+      "level": 20,
+      "name": "eq_events_dragongear_tidebreaker_20_chanfron_lord20",
+      "name_placeholder": "EQ_EVENTS_DRAGONGEAR_TIDEBREAKER_20_CHANFRON_LORD20_NAME",
+      "priority": 300040,
+      "slot_name": "slot_Chanfron"
+    },
+    {
+      "id": "30364e8ba4297f10",
+      "image": "icon_eq_events_dragongear03_saddle_1.png",
+      "level": 20,
+      "name": "eq_events_dragongear_tidebreaker_20_saddle_lord20",
+      "name_placeholder": "EQ_EVENTS_DRAGONGEAR_TIDEBREAKER_20_SADDLE_LORD20_NAME",
+      "priority": 300041,
+      "slot_name": "slot_SADDLE"
+    },
+    {
+      "id": "e1d74a04d0c3d015",
+      "image": "icon_eq_events_dragongear03_peytral_1.png",
+      "level": 20,
+      "name": "eq_events_dragongear_tidebreaker_20_peytral_lord20",
+      "name_placeholder": "EQ_EVENTS_DRAGONGEAR_TIDEBREAKER_20_PEYTRAL_LORD20_NAME",
+      "priority": 300042,
+      "slot_name": "slot_Peytral"
+    },
+    {
+      "id": "fe50fd6536e18279",
+      "image": "icon_eq_events_dragongear03_chanfron_1.png",
+      "level": 25,
+      "name": "eq_events_dragongear_tidebreaker_25_chanfron_lord25",
+      "name_placeholder": "EQ_EVENTS_DRAGONGEAR_TIDEBREAKER_25_CHANFRON_LORD25_NAME",
+      "priority": 300043,
+      "slot_name": "slot_Chanfron"
+    },
+    {
+      "id": "7fc091343eac975",
+      "image": "icon_eq_events_dragongear03_saddle_1.png",
+      "level": 25,
+      "name": "eq_events_dragongear_tidebreaker_25_saddle_lord25",
+      "name_placeholder": "EQ_EVENTS_DRAGONGEAR_TIDEBREAKER_25_SADDLE_LORD25_NAME",
+      "priority": 300044,
+      "slot_name": "slot_SADDLE"
+    },
+    {
+      "id": "c01915511c198979",
+      "image": "icon_eq_events_dragongear03_peytral_1.png",
+      "level": 25,
+      "name": "eq_events_dragongear_tidebreaker_25_peytral_lord25",
+      "name_placeholder": "EQ_EVENTS_DRAGONGEAR_TIDEBREAKER_25_PEYTRAL_LORD25_NAME",
+      "priority": 300045,
+      "slot_name": "slot_Peytral"
+    },
+    {
+      "id": "3b09fa033987298b",
+      "image": "icon_eq_events_dragongear03_chanfron_1.png",
+      "level": 30,
+      "name": "eq_events_dragongear_tidebreaker_30_chanfron_lord30",
+      "name_placeholder": "EQ_EVENTS_DRAGONGEAR_TIDEBREAKER_30_CHANFRON_LORD30_NAME",
+      "priority": 300046,
+      "slot_name": "slot_Chanfron"
+    },
+    {
+      "id": "1327af2fe3157305",
+      "image": "icon_eq_events_dragongear03_saddle_1.png",
+      "level": 30,
+      "name": "eq_events_dragongear_tidebreaker_30_saddle_lord30",
+      "name_placeholder": "EQ_EVENTS_DRAGONGEAR_TIDEBREAKER_30_SADDLE_LORD30_NAME",
+      "priority": 300047,
+      "slot_name": "slot_SADDLE"
+    },
+    {
+      "id": "fffcc46c1516f436",
+      "image": "icon_eq_events_dragongear03_peytral_1.png",
+      "level": 30,
+      "name": "eq_events_dragongear_tidebreaker_30_peytral_lord30",
+      "name_placeholder": "EQ_EVENTS_DRAGONGEAR_TIDEBREAKER_30_PEYTRAL_LORD30_NAME",
+      "priority": 300048,
+      "slot_name": "slot_Peytral"
+    },
+    {
+      "id": "d31475a87c10f809",
+      "image": "icon_eq_events_dragongear03_chanfron_1.png",
+      "level": 35,
+      "name": "eq_events_dragongear_tidebreaker_35_chanfron_lord35",
+      "name_placeholder": "EQ_EVENTS_DRAGONGEAR_TIDEBREAKER_35_CHANFRON_LORD35_NAME",
+      "priority": 300049,
+      "slot_name": "slot_Chanfron"
+    },
+    {
+      "id": "24ede8b704d6c560",
+      "image": "icon_eq_events_dragongear03_saddle_1.png",
+      "level": 35,
+      "name": "eq_events_dragongear_tidebreaker_35_saddle_lord35",
+      "name_placeholder": "EQ_EVENTS_DRAGONGEAR_TIDEBREAKER_35_SADDLE_LORD35_NAME",
+      "priority": 300050,
+      "slot_name": "slot_SADDLE"
+    },
+    {
+      "id": "de329b39d9ccad5a",
+      "image": "icon_eq_events_dragongear03_peytral_1.png",
+      "level": 35,
+      "name": "eq_events_dragongear_tidebreaker_35_peytral_lord35",
+      "name_placeholder": "EQ_EVENTS_DRAGONGEAR_TIDEBREAKER_35_PEYTRAL_LORD35_NAME",
+      "priority": 300051,
+      "slot_name": "slot_Peytral"
+    },
+    {
+      "id": "f9d64061cd514edb",
+      "image": "icon_eq_events_dragongear03_chanfron_1.png",
+      "level": 40,
+      "name": "eq_events_dragongear_tidebreaker_40_chanfron_lord40",
+      "name_placeholder": "EQ_EVENTS_DRAGONGEAR_TIDEBREAKER_40_CHANFRON_LORD40_NAME",
+      "priority": 300052,
+      "slot_name": "slot_Chanfron"
+    },
+    {
+      "id": "fa520b5236a1576e",
+      "image": "icon_eq_events_dragongear03_saddle_1.png",
+      "level": 40,
+      "name": "eq_events_dragongear_tidebreaker_40_saddle_lord40",
+      "name_placeholder": "EQ_EVENTS_DRAGONGEAR_TIDEBREAKER_40_SADDLE_LORD40_NAME",
+      "priority": 300053,
+      "slot_name": "slot_SADDLE"
+    },
+    {
+      "id": "a52e6f764c3d08df",
+      "image": "icon_eq_events_dragongear03_peytral_1.png",
+      "level": 40,
+      "name": "eq_events_dragongear_tidebreaker_40_peytral_lord40",
+      "name_placeholder": "EQ_EVENTS_DRAGONGEAR_TIDEBREAKER_40_PEYTRAL_LORD40_NAME",
+      "priority": 300054,
+      "slot_name": "slot_Peytral"
+    },
+    {
+      "id": "11cbcfca88c69f59",
+      "image": "icon_eq_events_dragongear03_chanfron_1.png",
+      "level": 45,
+      "name": "eq_events_dragongear_tidebreaker_45_chanfron_lord45",
+      "name_placeholder": "EQ_EVENTS_DRAGONGEAR_TIDEBREAKER_45_CHANFRON_LORD45_NAME",
+      "priority": 300055,
+      "slot_name": "slot_Chanfron"
+    },
+    {
+      "id": "cd984ccad162e10b",
+      "image": "icon_eq_events_dragongear03_saddle_1.png",
+      "level": 45,
+      "name": "eq_events_dragongear_tidebreaker_45_saddle_lord45",
+      "name_placeholder": "EQ_EVENTS_DRAGONGEAR_TIDEBREAKER_45_SADDLE_LORD45_NAME",
+      "priority": 300056,
+      "slot_name": "slot_SADDLE"
+    },
+    {
+      "id": "84e0302380e751b3",
+      "image": "icon_eq_events_dragongear03_peytral_1.png",
+      "level": 45,
+      "name": "eq_events_dragongear_tidebreaker_45_peytral_lord45",
+      "name_placeholder": "EQ_EVENTS_DRAGONGEAR_TIDEBREAKER_45_PEYTRAL_LORD45_NAME",
+      "priority": 300057,
+      "slot_name": "slot_Peytral"
+    },
+    {
+      "id": "d492c8ac87a034ab",
+      "image": "icon_eq_events_dragongear03_chanfron_1.png",
+      "level": 50,
+      "name": "eq_events_dragongear_tidebreaker_50_chanfron_lord50",
+      "name_placeholder": "EQ_EVENTS_DRAGONGEAR_TIDEBREAKER_50_CHANFRON_LORD50_NAME",
+      "priority": 300058,
+      "slot_name": "slot_Chanfron"
+    },
+    {
+      "id": "d943eaf6719d5b7b",
+      "image": "icon_eq_events_dragongear03_saddle_1.png",
+      "level": 50,
+      "name": "eq_events_dragongear_tidebreaker_50_saddle_lord50",
+      "name_placeholder": "EQ_EVENTS_DRAGONGEAR_TIDEBREAKER_50_SADDLE_LORD50_NAME",
+      "priority": 300059,
+      "slot_name": "slot_SADDLE"
+    },
+    {
+      "id": "bb05e11e89e82cfc",
+      "image": "icon_eq_events_dragongear03_peytral_1.png",
+      "level": 50,
+      "name": "eq_events_dragongear_tidebreaker_50_peytral_lord50",
+      "name_placeholder": "EQ_EVENTS_DRAGONGEAR_TIDEBREAKER_50_PEYTRAL_LORD50_NAME",
+      "priority": 300060,
+      "slot_name": "slot_Peytral"
+    }
+  ]
+}
