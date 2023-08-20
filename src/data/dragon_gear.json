@@ -2918,1647 +2918,3279 @@
     }
   },
   {
-    "color": "#a3e2a3",
+    "chanfron": {
+      "gear_with_level": [
+        {
+          "level": 5,
+          "name": "n:EQ_EVENTS_DRAGONGEAR_ARTSTUB_5_CHANFRON_LORD5_NAME",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                0.27349056,
+                0.2930256,
+                0.31256064,
+                0.33209568,
+                0.35163072,
+                0.390700800000001
+              ]
+            },
+            {
+              "description": "Cavalry Attack bonus when your dragon is present.",
+              "name": "Dragon: Cavalry Attack",
+              "progression": [
+                0.11721024,
+                0.1255824,
+                0.13395456,
+                0.14232672,
+                0.15069888,
+                0.1674432
+              ]
+            },
+            {
+              "description": "March Speed bonus when your dragon is present.",
+              "name": "Dragon: Marching Speed",
+              "progression": [
+                0.0390700800000001,
+                0.0418608000000001,
+                0.0446515200000001,
+                0.0474422400000001,
+                0.0502329600000001,
+                0.0558144000000001
+              ]
+            }
+          ]
+        },
+        {
+          "level": 10,
+          "name": "n:EQ_EVENTS_DRAGONGEAR_ARTSTUB_10_CHANFRON_LORD10_NAME",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                0.40303872,
+                0.4318272,
+                0.46061568,
+                0.48940416,
+                0.518192640000001,
+                0.575769600000001
+              ]
+            },
+            {
+              "description": "Cavalry Attack bonus when your dragon is present.",
+              "name": "Dragon: Cavalry Attack",
+              "progression": [
+                0.17273088,
+                0.1850688,
+                0.19740672,
+                0.20974464,
+                0.22208256,
+                0.2467584
+              ]
+            },
+            {
+              "description": "March Speed bonus when your dragon is present.",
+              "name": "Dragon: Marching Speed",
+              "progression": [
+                0.0575769600000001,
+                0.0616896000000001,
+                0.0658022400000001,
+                0.0699148800000001,
+                0.0740275200000001,
+                0.0822528000000001
+              ]
+            }
+          ]
+        },
+        {
+          "level": 15,
+          "name": "n:EQ_EVENTS_DRAGONGEAR_ARTSTUB_15_CHANFRON_LORD15_NAME",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                0.53258688,
+                0.5706288,
+                0.60867072,
+                0.64671264,
+                0.68475456,
+                0.7608384
+              ]
+            },
+            {
+              "description": "Cavalry Attack bonus when your dragon is present.",
+              "name": "Dragon: Cavalry Attack",
+              "progression": [
+                0.22825152,
+                0.2445552,
+                0.26085888,
+                0.27716256,
+                0.29346624,
+                0.3260736
+              ]
+            },
+            {
+              "description": "March Speed bonus when your dragon is present.",
+              "name": "Dragon: Marching Speed",
+              "progression": [
+                0.0760838400000001,
+                0.0815184,
+                0.0869529600000001,
+                0.0923875200000001,
+                0.0978220800000001,
+                0.1086912
+              ]
+            }
+          ]
+        },
+        {
+          "level": 20,
+          "name": "n:EQ_EVENTS_DRAGONGEAR_ARTSTUB_20_CHANFRON_LORD20_NAME",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                0.66213504,
+                0.7094304,
+                0.75672576,
+                0.80402112,
+                0.85131648,
+                0.9459072
+              ]
+            },
+            {
+              "description": "Cavalry Attack bonus when your dragon is present.",
+              "name": "Dragon: Cavalry Attack",
+              "progression": [
+                0.28377216,
+                0.3040416,
+                0.32431104,
+                0.34458048,
+                0.36484992,
+                0.4053888
+              ]
+            },
+            {
+              "description": "March Speed bonus when your dragon is present.",
+              "name": "Dragon: Marching Speed",
+              "progression": [
+                0.09459072,
+                0.1013472,
+                0.10810368,
+                0.11486016,
+                0.12161664,
+                0.1351296
+              ]
+            },
+            {
+              "description": "Cavalry Health in Player-to-Player combat bonus when your dragon is present.",
+              "name": "Dragon: Cavalry Health vs. Player",
+              "progression": [
+                0.28377216,
+                0.3040416,
+                0.32431104,
+                0.34458048,
+                0.36484992,
+                0.4053888
+              ]
+            }
+          ]
+        },
+        {
+          "level": 25,
+          "name": "n:EQ_EVENTS_DRAGONGEAR_ARTSTUB_25_CHANFRON_LORD25_NAME",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                0.7916832,
+                0.848232,
+                0.9047808,
+                0.9613296,
+                1.0178784,
+                1.130976
+              ]
+            },
+            {
+              "description": "Cavalry Attack bonus when your dragon is present.",
+              "name": "Dragon: Cavalry Attack",
+              "progression": [
+                0.3392928,
+                0.363528,
+                0.3877632,
+                0.4119984,
+                0.4362336,
+                0.484704
+              ]
+            },
+            {
+              "description": "March Speed bonus when your dragon is present.",
+              "name": "Dragon: Marching Speed",
+              "progression": [
+                0.1130976,
+                0.121176,
+                0.1292544,
+                0.1373328,
+                0.1454112,
+                0.161568
+              ]
+            },
+            {
+              "description": "Cavalry Health in Player-to-Player combat bonus when your dragon is present.",
+              "name": "Dragon: Cavalry Health vs. Player",
+              "progression": [
+                0.3392928,
+                0.363528,
+                0.3877632,
+                0.4119984,
+                0.4362336,
+                0.484704
+              ]
+            }
+          ]
+        },
+        {
+          "level": 30,
+          "name": "n:EQ_EVENTS_DRAGONGEAR_ARTSTUB_30_CHANFRON_LORD30_NAME",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                0.92123136,
+                0.9870336,
+                1.05283584,
+                1.11863808,
+                1.18444032,
+                1.3160448
+              ]
+            },
+            {
+              "description": "Cavalry Attack bonus when your dragon is present.",
+              "name": "Dragon: Cavalry Attack",
+              "progression": [
+                0.39481344,
+                0.4230144,
+                0.45121536,
+                0.47941632,
+                0.50761728,
+                0.5640192
+              ]
+            },
+            {
+              "description": "March Speed bonus when your dragon is present.",
+              "name": "Dragon: Marching Speed",
+              "progression": [
+                0.13160448,
+                0.1410048,
+                0.15040512,
+                0.15980544,
+                0.16920576,
+                0.1880064
+              ]
+            },
+            {
+              "description": "Cavalry Health in Player-to-Player combat bonus when your dragon is present.",
+              "name": "Dragon: Cavalry Health vs. Player",
+              "progression": [
+                0.39481344,
+                0.4230144,
+                0.45121536,
+                0.47941632,
+                0.50761728,
+                0.5640192
+              ]
+            }
+          ]
+        },
+        {
+          "level": 35,
+          "name": "n:EQ_EVENTS_DRAGONGEAR_ARTSTUB_35_CHANFRON_LORD35_NAME",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                1.05077952,
+                1.1258352,
+                1.20089088,
+                1.27594656,
+                1.35100224,
+                1.5011136
+              ]
+            },
+            {
+              "description": "Cavalry Attack bonus when your dragon is present.",
+              "name": "Dragon: Cavalry Attack",
+              "progression": [
+                0.45033408,
+                0.4825008,
+                0.51466752,
+                0.54683424,
+                0.57900096,
+                0.6433344
+              ]
+            },
+            {
+              "description": "March Speed bonus when your dragon is present.",
+              "name": "Dragon: Marching Speed",
+              "progression": [
+                0.15011136,
+                0.1608336,
+                0.17155584,
+                0.18227808,
+                0.19300032,
+                0.2144448
+              ]
+            },
+            {
+              "description": "Cavalry Health in Player-to-Player combat bonus when your dragon is present.",
+              "name": "Dragon: Cavalry Health vs. Player",
+              "progression": [
+                0.45033408,
+                0.4825008,
+                0.51466752,
+                0.54683424,
+                0.57900096,
+                0.6433344
+              ]
+            }
+          ]
+        },
+        {
+          "level": 40,
+          "name": "n:EQ_EVENTS_DRAGONGEAR_ARTSTUB_40_CHANFRON_LORD40_NAME",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                1.18032768,
+                1.2646368,
+                1.34894592,
+                1.43325504,
+                1.51756416,
+                1.6861824
+              ]
+            },
+            {
+              "description": "Cavalry Attack bonus when your dragon is present.",
+              "name": "Dragon: Cavalry Attack",
+              "progression": [
+                0.50585472,
+                0.5419872,
+                0.57811968,
+                0.61425216,
+                0.65038464,
+                0.7226496
+              ]
+            },
+            {
+              "description": "March Speed bonus when your dragon is present.",
+              "name": "Dragon: Marching Speed",
+              "progression": [
+                0.16861824,
+                0.1806624,
+                0.19270656,
+                0.20475072,
+                0.21679488,
+                0.2408832
+              ]
+            },
+            {
+              "description": "Cavalry Health in Player-to-Player combat bonus when your dragon is present.",
+              "name": "Dragon: Cavalry Health vs. Player",
+              "progression": [
+                0.50585472,
+                0.5419872,
+                0.57811968,
+                0.61425216,
+                0.65038464,
+                0.7226496
+              ]
+            },
+            {
+              "description": "Increases Troop Attack when marching against another player with your dragon",
+              "name": "Dragon Marcher Troop Attack vs. Player",
+              "progression": [
+                0.39344256,
+                0.4215456,
+                0.44964864,
+                0.47775168,
+                0.50585472,
+                0.5620608
+              ]
+            }
+          ]
+        },
+        {
+          "level": 45,
+          "name": "n:EQ_EVENTS_DRAGONGEAR_ARTSTUB_45_CHANFRON_LORD45_NAME",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                1.30987584,
+                1.4034384,
+                1.49700096,
+                1.59056352,
+                1.68412608,
+                1.8712512
+              ]
+            },
+            {
+              "description": "Cavalry Attack bonus when your dragon is present.",
+              "name": "Dragon: Cavalry Attack",
+              "progression": [
+                0.56137536,
+                0.6014736,
+                0.64157184,
+                0.68167008,
+                0.72176832,
+                0.8019648
+              ]
+            },
+            {
+              "description": "March Speed bonus when your dragon is present.",
+              "name": "Dragon: Marching Speed",
+              "progression": [
+                0.18712512,
+                0.2004912,
+                0.21385728,
+                0.22722336,
+                0.24058944,
+                0.2673216
+              ]
+            },
+            {
+              "description": "Cavalry Health in Player-to-Player combat bonus when your dragon is present.",
+              "name": "Dragon: Cavalry Health vs. Player",
+              "progression": [
+                0.56137536,
+                0.6014736,
+                0.64157184,
+                0.68167008,
+                0.72176832,
+                0.8019648
+              ]
+            },
+            {
+              "description": "Increases Troop Attack when marching against another player with your dragon",
+              "name": "Dragon Marcher Troop Attack vs. Player",
+              "progression": [
+                0.43662528,
+                0.4678128,
+                0.49900032,
+                0.53018784,
+                0.56137536,
+                0.6237504
+              ]
+            }
+          ]
+        },
+        {
+          "level": 50,
+          "name": "n:EQ_EVENTS_DRAGONGEAR_ARTSTUB_50_CHANFRON_LORD50_NAME",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                1.439424,
+                1.54224,
+                1.645056,
+                1.747872,
+                1.850688,
+                2.05632
+              ]
+            },
+            {
+              "description": "Cavalry Attack bonus when your dragon is present.",
+              "name": "Dragon: Cavalry Attack",
+              "progression": [
+                0.616896,
+                0.66096,
+                0.705024,
+                0.749088,
+                0.793152,
+                0.88128
+              ]
+            },
+            {
+              "description": "March Speed bonus when your dragon is present.",
+              "name": "Dragon: Marching Speed",
+              "progression": [
+                0.205632,
+                0.22032,
+                0.235008,
+                0.249696,
+                0.264384,
+                0.29376
+              ]
+            },
+            {
+              "description": "Cavalry Health in Player-to-Player combat bonus when your dragon is present.",
+              "name": "Dragon: Cavalry Health vs. Player",
+              "progression": [
+                0.616896,
+                0.66096,
+                0.705024,
+                0.749088,
+                0.793152,
+                0.88128
+              ]
+            },
+            {
+              "description": "Increases Troop Attack when marching against another player with your dragon",
+              "name": "Dragon Marcher Troop Attack vs. Player",
+              "progression": [
+                0.479808,
+                0.51408,
+                0.548352,
+                0.582624,
+                0.616896,
+                0.68544
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "color": "#57ea15",
     "description": "n:",
-    "id": "9690c3fa00a3e2a3",
-    "name": "n:artstub"
+    "id": "e16bf0602557ea15",
+    "name": "n:artstub",
+    "peytral": {
+      "gear_with_level": [
+        {
+          "level": 5,
+          "name": "n:EQ_EVENTS_DRAGONGEAR_ARTSTUB_5_PEYTRAL_LORD5_NAME",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                0.27349056,
+                0.2930256,
+                0.31256064,
+                0.33209568,
+                0.35163072,
+                0.390700800000001
+              ]
+            },
+            {
+              "description": "Infantry Attack bonus when your dragon is present.",
+              "name": "Dragon: Infantry Attack",
+              "progression": [
+                0.11721024,
+                0.1255824,
+                0.13395456,
+                0.14232672,
+                0.15069888,
+                0.1674432
+              ]
+            },
+            {
+              "description": "March Speed bonus when your dragon is present.",
+              "name": "Dragon: Marching Speed",
+              "progression": [
+                0.0390700800000001,
+                0.0418608000000001,
+                0.0446515200000001,
+                0.0474422400000001,
+                0.0502329600000001,
+                0.0558144000000001
+              ]
+            }
+          ]
+        },
+        {
+          "level": 10,
+          "name": "n:EQ_EVENTS_DRAGONGEAR_ARTSTUB_10_PEYTRAL_LORD10_NAME",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                0.40303872,
+                0.4318272,
+                0.46061568,
+                0.48940416,
+                0.518192640000001,
+                0.575769600000001
+              ]
+            },
+            {
+              "description": "Infantry Attack bonus when your dragon is present.",
+              "name": "Dragon: Infantry Attack",
+              "progression": [
+                0.17273088,
+                0.1850688,
+                0.19740672,
+                0.20974464,
+                0.22208256,
+                0.2467584
+              ]
+            },
+            {
+              "description": "March Speed bonus when your dragon is present.",
+              "name": "Dragon: Marching Speed",
+              "progression": [
+                0.0575769600000001,
+                0.0616896000000001,
+                0.0658022400000001,
+                0.0699148800000001,
+                0.0740275200000001,
+                0.0822528000000001
+              ]
+            }
+          ]
+        },
+        {
+          "level": 15,
+          "name": "n:EQ_EVENTS_DRAGONGEAR_ARTSTUB_15_PEYTRAL_LORD15_NAME",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                0.53258688,
+                0.5706288,
+                0.60867072,
+                0.64671264,
+                0.68475456,
+                0.7608384
+              ]
+            },
+            {
+              "description": "Infantry Attack bonus when your dragon is present.",
+              "name": "Dragon: Infantry Attack",
+              "progression": [
+                0.22825152,
+                0.2445552,
+                0.26085888,
+                0.27716256,
+                0.29346624,
+                0.3260736
+              ]
+            },
+            {
+              "description": "March Speed bonus when your dragon is present.",
+              "name": "Dragon: Marching Speed",
+              "progression": [
+                0.0760838400000001,
+                0.0815184,
+                0.0869529600000001,
+                0.0923875200000001,
+                0.0978220800000001,
+                0.1086912
+              ]
+            }
+          ]
+        },
+        {
+          "level": 20,
+          "name": "n:EQ_EVENTS_DRAGONGEAR_ARTSTUB_20_PEYTRAL_LORD20_NAME",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                0.66213504,
+                0.7094304,
+                0.75672576,
+                0.80402112,
+                0.85131648,
+                0.9459072
+              ]
+            },
+            {
+              "description": "Infantry Attack bonus when your dragon is present.",
+              "name": "Dragon: Infantry Attack",
+              "progression": [
+                0.28377216,
+                0.3040416,
+                0.32431104,
+                0.34458048,
+                0.36484992,
+                0.4053888
+              ]
+            },
+            {
+              "description": "March Speed bonus when your dragon is present.",
+              "name": "Dragon: Marching Speed",
+              "progression": [
+                0.09459072,
+                0.1013472,
+                0.10810368,
+                0.11486016,
+                0.12161664,
+                0.1351296
+              ]
+            },
+            {
+              "description": "Infantry Health in Player-to-Player combat bonus when your dragon is present.",
+              "name": "Dragon: Infantry Health vs. Player",
+              "progression": [
+                0.28377216,
+                0.3040416,
+                0.32431104,
+                0.34458048,
+                0.36484992,
+                0.4053888
+              ]
+            }
+          ]
+        },
+        {
+          "level": 25,
+          "name": "n:EQ_EVENTS_DRAGONGEAR_ARTSTUB_25_PEYTRAL_LORD25_NAME",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                0.7916832,
+                0.848232,
+                0.9047808,
+                0.9613296,
+                1.0178784,
+                1.130976
+              ]
+            },
+            {
+              "description": "Infantry Attack bonus when your dragon is present.",
+              "name": "Dragon: Infantry Attack",
+              "progression": [
+                0.3392928,
+                0.363528,
+                0.3877632,
+                0.4119984,
+                0.4362336,
+                0.484704
+              ]
+            },
+            {
+              "description": "March Speed bonus when your dragon is present.",
+              "name": "Dragon: Marching Speed",
+              "progression": [
+                0.1130976,
+                0.121176,
+                0.1292544,
+                0.1373328,
+                0.1454112,
+                0.161568
+              ]
+            },
+            {
+              "description": "Infantry Health in Player-to-Player combat bonus when your dragon is present.",
+              "name": "Dragon: Infantry Health vs. Player",
+              "progression": [
+                0.3392928,
+                0.363528,
+                0.3877632,
+                0.4119984,
+                0.4362336,
+                0.484704
+              ]
+            }
+          ]
+        },
+        {
+          "level": 30,
+          "name": "n:EQ_EVENTS_DRAGONGEAR_ARTSTUB_30_PEYTRAL_LORD30_NAME",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                0.92123136,
+                0.9870336,
+                1.05283584,
+                1.11863808,
+                1.18444032,
+                1.3160448
+              ]
+            },
+            {
+              "description": "Infantry Attack bonus when your dragon is present.",
+              "name": "Dragon: Infantry Attack",
+              "progression": [
+                0.39481344,
+                0.4230144,
+                0.45121536,
+                0.47941632,
+                0.50761728,
+                0.5640192
+              ]
+            },
+            {
+              "description": "March Speed bonus when your dragon is present.",
+              "name": "Dragon: Marching Speed",
+              "progression": [
+                0.13160448,
+                0.1410048,
+                0.15040512,
+                0.15980544,
+                0.16920576,
+                0.1880064
+              ]
+            },
+            {
+              "description": "Infantry Health in Player-to-Player combat bonus when your dragon is present.",
+              "name": "Dragon: Infantry Health vs. Player",
+              "progression": [
+                0.39481344,
+                0.4230144,
+                0.45121536,
+                0.47941632,
+                0.50761728,
+                0.5640192
+              ]
+            }
+          ]
+        },
+        {
+          "level": 35,
+          "name": "n:EQ_EVENTS_DRAGONGEAR_ARTSTUB_35_PEYTRAL_LORD35_NAME",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                1.05077952,
+                1.1258352,
+                1.20089088,
+                1.27594656,
+                1.35100224,
+                1.5011136
+              ]
+            },
+            {
+              "description": "Infantry Attack bonus when your dragon is present.",
+              "name": "Dragon: Infantry Attack",
+              "progression": [
+                0.45033408,
+                0.4825008,
+                0.51466752,
+                0.54683424,
+                0.57900096,
+                0.6433344
+              ]
+            },
+            {
+              "description": "March Speed bonus when your dragon is present.",
+              "name": "Dragon: Marching Speed",
+              "progression": [
+                0.15011136,
+                0.1608336,
+                0.17155584,
+                0.18227808,
+                0.19300032,
+                0.2144448
+              ]
+            },
+            {
+              "description": "Infantry Health in Player-to-Player combat bonus when your dragon is present.",
+              "name": "Dragon: Infantry Health vs. Player",
+              "progression": [
+                0.45033408,
+                0.4825008,
+                0.51466752,
+                0.54683424,
+                0.57900096,
+                0.6433344
+              ]
+            }
+          ]
+        },
+        {
+          "level": 40,
+          "name": "n:EQ_EVENTS_DRAGONGEAR_ARTSTUB_40_PEYTRAL_LORD40_NAME",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                1.18032768,
+                1.2646368,
+                1.34894592,
+                1.43325504,
+                1.51756416,
+                1.6861824
+              ]
+            },
+            {
+              "description": "Infantry Attack bonus when your dragon is present.",
+              "name": "Dragon: Infantry Attack",
+              "progression": [
+                0.50585472,
+                0.5419872,
+                0.57811968,
+                0.61425216,
+                0.65038464,
+                0.7226496
+              ]
+            },
+            {
+              "description": "March Speed bonus when your dragon is present.",
+              "name": "Dragon: Marching Speed",
+              "progression": [
+                0.16861824,
+                0.1806624,
+                0.19270656,
+                0.20475072,
+                0.21679488,
+                0.2408832
+              ]
+            },
+            {
+              "description": "Infantry Health in Player-to-Player combat bonus when your dragon is present.",
+              "name": "Dragon: Infantry Health vs. Player",
+              "progression": [
+                0.50585472,
+                0.5419872,
+                0.57811968,
+                0.61425216,
+                0.65038464,
+                0.7226496
+              ]
+            },
+            {
+              "description": "Increases Troop Attack when marching against another player with your dragon",
+              "name": "Dragon Marcher Troop Attack vs. Player",
+              "progression": [
+                0.39344256,
+                0.4215456,
+                0.44964864,
+                0.47775168,
+                0.50585472,
+                0.5620608
+              ]
+            }
+          ]
+        },
+        {
+          "level": 45,
+          "name": "n:EQ_EVENTS_DRAGONGEAR_ARTSTUB_45_PEYTRAL_LORD45_NAME",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                1.30987584,
+                1.4034384,
+                1.49700096,
+                1.59056352,
+                1.68412608,
+                1.8712512
+              ]
+            },
+            {
+              "description": "Infantry Attack bonus when your dragon is present.",
+              "name": "Dragon: Infantry Attack",
+              "progression": [
+                0.56137536,
+                0.6014736,
+                0.64157184,
+                0.68167008,
+                0.72176832,
+                0.8019648
+              ]
+            },
+            {
+              "description": "March Speed bonus when your dragon is present.",
+              "name": "Dragon: Marching Speed",
+              "progression": [
+                0.18712512,
+                0.2004912,
+                0.21385728,
+                0.22722336,
+                0.24058944,
+                0.2673216
+              ]
+            },
+            {
+              "description": "Infantry Health in Player-to-Player combat bonus when your dragon is present.",
+              "name": "Dragon: Infantry Health vs. Player",
+              "progression": [
+                0.56137536,
+                0.6014736,
+                0.64157184,
+                0.68167008,
+                0.72176832,
+                0.8019648
+              ]
+            },
+            {
+              "description": "Increases Troop Attack when marching against another player with your dragon",
+              "name": "Dragon Marcher Troop Attack vs. Player",
+              "progression": [
+                0.43662528,
+                0.4678128,
+                0.49900032,
+                0.53018784,
+                0.56137536,
+                0.6237504
+              ]
+            }
+          ]
+        },
+        {
+          "level": 50,
+          "name": "n:EQ_EVENTS_DRAGONGEAR_ARTSTUB_50_PEYTRAL_LORD50_NAME",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                1.439424,
+                1.54224,
+                1.645056,
+                1.747872,
+                1.850688,
+                2.05632
+              ]
+            },
+            {
+              "description": "Infantry Attack bonus when your dragon is present.",
+              "name": "Dragon: Infantry Attack",
+              "progression": [
+                0.616896,
+                0.66096,
+                0.705024,
+                0.749088,
+                0.793152,
+                0.88128
+              ]
+            },
+            {
+              "description": "March Speed bonus when your dragon is present.",
+              "name": "Dragon: Marching Speed",
+              "progression": [
+                0.205632,
+                0.22032,
+                0.235008,
+                0.249696,
+                0.264384,
+                0.29376
+              ]
+            },
+            {
+              "description": "Infantry Health in Player-to-Player combat bonus when your dragon is present.",
+              "name": "Dragon: Infantry Health vs. Player",
+              "progression": [
+                0.616896,
+                0.66096,
+                0.705024,
+                0.749088,
+                0.793152,
+                0.88128
+              ]
+            },
+            {
+              "description": "Increases Troop Attack when marching against another player with your dragon",
+              "name": "Dragon Marcher Troop Attack vs. Player",
+              "progression": [
+                0.479808,
+                0.51408,
+                0.548352,
+                0.582624,
+                0.616896,
+                0.68544
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "saddle": {
+      "gear_with_level": [
+        {
+          "level": 5,
+          "name": "n:EQ_EVENTS_DRAGONGEAR_ARTSTUB_5_SADDLE_LORD5_NAME",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                0.27349056,
+                0.2930256,
+                0.31256064,
+                0.33209568,
+                0.35163072,
+                0.390700800000001
+              ]
+            },
+            {
+              "description": "Ranged Attack bonus when your dragon is present.",
+              "name": "Dragon: Ranged Attack",
+              "progression": [
+                0.11721024,
+                0.1255824,
+                0.13395456,
+                0.14232672,
+                0.15069888,
+                0.1674432
+              ]
+            },
+            {
+              "description": "March Speed bonus when your dragon is present.",
+              "name": "Dragon: Marching Speed",
+              "progression": [
+                0.0390700800000001,
+                0.0418608000000001,
+                0.0446515200000001,
+                0.0474422400000001,
+                0.0502329600000001,
+                0.0558144000000001
+              ]
+            }
+          ]
+        },
+        {
+          "level": 10,
+          "name": "n:EQ_EVENTS_DRAGONGEAR_ARTSTUB_10_SADDLE_LORD10_NAME",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                0.40303872,
+                0.4318272,
+                0.46061568,
+                0.48940416,
+                0.518192640000001,
+                0.575769600000001
+              ]
+            },
+            {
+              "description": "Ranged Attack bonus when your dragon is present.",
+              "name": "Dragon: Ranged Attack",
+              "progression": [
+                0.17273088,
+                0.1850688,
+                0.19740672,
+                0.20974464,
+                0.22208256,
+                0.2467584
+              ]
+            },
+            {
+              "description": "March Speed bonus when your dragon is present.",
+              "name": "Dragon: Marching Speed",
+              "progression": [
+                0.0575769600000001,
+                0.0616896000000001,
+                0.0658022400000001,
+                0.0699148800000001,
+                0.0740275200000001,
+                0.0822528000000001
+              ]
+            }
+          ]
+        },
+        {
+          "level": 15,
+          "name": "n:EQ_EVENTS_DRAGONGEAR_ARTSTUB_15_SADDLE_LORD15_NAME",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                0.53258688,
+                0.5706288,
+                0.60867072,
+                0.64671264,
+                0.68475456,
+                0.7608384
+              ]
+            },
+            {
+              "description": "Ranged Attack bonus when your dragon is present.",
+              "name": "Dragon: Ranged Attack",
+              "progression": [
+                0.22825152,
+                0.2445552,
+                0.26085888,
+                0.27716256,
+                0.29346624,
+                0.3260736
+              ]
+            },
+            {
+              "description": "March Speed bonus when your dragon is present.",
+              "name": "Dragon: Marching Speed",
+              "progression": [
+                0.0760838400000001,
+                0.0815184,
+                0.0869529600000001,
+                0.0923875200000001,
+                0.0978220800000001,
+                0.1086912
+              ]
+            }
+          ]
+        },
+        {
+          "level": 20,
+          "name": "n:EQ_EVENTS_DRAGONGEAR_ARTSTUB_20_SADDLE_LORD20_NAME",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                0.66213504,
+                0.7094304,
+                0.75672576,
+                0.80402112,
+                0.85131648,
+                0.9459072
+              ]
+            },
+            {
+              "description": "Ranged Attack bonus when your dragon is present.",
+              "name": "Dragon: Ranged Attack",
+              "progression": [
+                0.28377216,
+                0.3040416,
+                0.32431104,
+                0.34458048,
+                0.36484992,
+                0.4053888
+              ]
+            },
+            {
+              "description": "March Speed bonus when your dragon is present.",
+              "name": "Dragon: Marching Speed",
+              "progression": [
+                0.09459072,
+                0.1013472,
+                0.10810368,
+                0.11486016,
+                0.12161664,
+                0.1351296
+              ]
+            },
+            {
+              "description": "Ranged Health in Player-to-Player combat bonus when your dragon is present.",
+              "name": "Dragon: Ranged Health vs. Player",
+              "progression": [
+                0.28377216,
+                0.3040416,
+                0.32431104,
+                0.34458048,
+                0.36484992,
+                0.4053888
+              ]
+            }
+          ]
+        },
+        {
+          "level": 25,
+          "name": "n:EQ_EVENTS_DRAGONGEAR_ARTSTUB_25_SADDLE_LORD25_NAME",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                0.7916832,
+                0.848232,
+                0.9047808,
+                0.9613296,
+                1.0178784,
+                1.130976
+              ]
+            },
+            {
+              "description": "Ranged Attack bonus when your dragon is present.",
+              "name": "Dragon: Ranged Attack",
+              "progression": [
+                0.3392928,
+                0.363528,
+                0.3877632,
+                0.4119984,
+                0.4362336,
+                0.484704
+              ]
+            },
+            {
+              "description": "March Speed bonus when your dragon is present.",
+              "name": "Dragon: Marching Speed",
+              "progression": [
+                0.1130976,
+                0.121176,
+                0.1292544,
+                0.1373328,
+                0.1454112,
+                0.161568
+              ]
+            },
+            {
+              "description": "Ranged Health in Player-to-Player combat bonus when your dragon is present.",
+              "name": "Dragon: Ranged Health vs. Player",
+              "progression": [
+                0.3392928,
+                0.363528,
+                0.3877632,
+                0.4119984,
+                0.4362336,
+                0.484704
+              ]
+            }
+          ]
+        },
+        {
+          "level": 30,
+          "name": "n:EQ_EVENTS_DRAGONGEAR_ARTSTUB_30_SADDLE_LORD30_NAME",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                0.92123136,
+                0.9870336,
+                1.05283584,
+                1.11863808,
+                1.18444032,
+                1.3160448
+              ]
+            },
+            {
+              "description": "Ranged Attack bonus when your dragon is present.",
+              "name": "Dragon: Ranged Attack",
+              "progression": [
+                0.39481344,
+                0.4230144,
+                0.45121536,
+                0.47941632,
+                0.50761728,
+                0.5640192
+              ]
+            },
+            {
+              "description": "March Speed bonus when your dragon is present.",
+              "name": "Dragon: Marching Speed",
+              "progression": [
+                0.13160448,
+                0.1410048,
+                0.15040512,
+                0.15980544,
+                0.16920576,
+                0.1880064
+              ]
+            },
+            {
+              "description": "Ranged Health in Player-to-Player combat bonus when your dragon is present.",
+              "name": "Dragon: Ranged Health vs. Player",
+              "progression": [
+                0.39481344,
+                0.4230144,
+                0.45121536,
+                0.47941632,
+                0.50761728,
+                0.5640192
+              ]
+            }
+          ]
+        },
+        {
+          "level": 35,
+          "name": "n:EQ_EVENTS_DRAGONGEAR_ARTSTUB_35_SADDLE_LORD35_NAME",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                1.05077952,
+                1.1258352,
+                1.20089088,
+                1.27594656,
+                1.35100224,
+                1.5011136
+              ]
+            },
+            {
+              "description": "Ranged Attack bonus when your dragon is present.",
+              "name": "Dragon: Ranged Attack",
+              "progression": [
+                0.45033408,
+                0.4825008,
+                0.51466752,
+                0.54683424,
+                0.57900096,
+                0.6433344
+              ]
+            },
+            {
+              "description": "March Speed bonus when your dragon is present.",
+              "name": "Dragon: Marching Speed",
+              "progression": [
+                0.15011136,
+                0.1608336,
+                0.17155584,
+                0.18227808,
+                0.19300032,
+                0.2144448
+              ]
+            },
+            {
+              "description": "Ranged Health in Player-to-Player combat bonus when your dragon is present.",
+              "name": "Dragon: Ranged Health vs. Player",
+              "progression": [
+                0.45033408,
+                0.4825008,
+                0.51466752,
+                0.54683424,
+                0.57900096,
+                0.6433344
+              ]
+            }
+          ]
+        },
+        {
+          "level": 40,
+          "name": "n:EQ_EVENTS_DRAGONGEAR_ARTSTUB_40_SADDLE_LORD40_NAME",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                1.18032768,
+                1.2646368,
+                1.34894592,
+                1.43325504,
+                1.51756416,
+                1.6861824
+              ]
+            },
+            {
+              "description": "Ranged Attack bonus when your dragon is present.",
+              "name": "Dragon: Ranged Attack",
+              "progression": [
+                0.50585472,
+                0.5419872,
+                0.57811968,
+                0.61425216,
+                0.65038464,
+                0.7226496
+              ]
+            },
+            {
+              "description": "March Speed bonus when your dragon is present.",
+              "name": "Dragon: Marching Speed",
+              "progression": [
+                0.16861824,
+                0.1806624,
+                0.19270656,
+                0.20475072,
+                0.21679488,
+                0.2408832
+              ]
+            },
+            {
+              "description": "Ranged Health in Player-to-Player combat bonus when your dragon is present.",
+              "name": "Dragon: Ranged Health vs. Player",
+              "progression": [
+                0.50585472,
+                0.5419872,
+                0.57811968,
+                0.61425216,
+                0.65038464,
+                0.7226496
+              ]
+            },
+            {
+              "description": "Increases Troop Attack when marching against another player with your dragon",
+              "name": "Dragon Marcher Troop Attack vs. Player",
+              "progression": [
+                0.39344256,
+                0.4215456,
+                0.44964864,
+                0.47775168,
+                0.50585472,
+                0.5620608
+              ]
+            }
+          ]
+        },
+        {
+          "level": 45,
+          "name": "n:EQ_EVENTS_DRAGONGEAR_ARTSTUB_45_SADDLE_LORD45_NAME",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                1.30987584,
+                1.4034384,
+                1.49700096,
+                1.59056352,
+                1.68412608,
+                1.8712512
+              ]
+            },
+            {
+              "description": "Ranged Attack bonus when your dragon is present.",
+              "name": "Dragon: Ranged Attack",
+              "progression": [
+                0.56137536,
+                0.6014736,
+                0.64157184,
+                0.68167008,
+                0.72176832,
+                0.8019648
+              ]
+            },
+            {
+              "description": "March Speed bonus when your dragon is present.",
+              "name": "Dragon: Marching Speed",
+              "progression": [
+                0.18712512,
+                0.2004912,
+                0.21385728,
+                0.22722336,
+                0.24058944,
+                0.2673216
+              ]
+            },
+            {
+              "description": "Ranged Health in Player-to-Player combat bonus when your dragon is present.",
+              "name": "Dragon: Ranged Health vs. Player",
+              "progression": [
+                0.56137536,
+                0.6014736,
+                0.64157184,
+                0.68167008,
+                0.72176832,
+                0.8019648
+              ]
+            },
+            {
+              "description": "Increases Troop Attack when marching against another player with your dragon",
+              "name": "Dragon Marcher Troop Attack vs. Player",
+              "progression": [
+                0.43662528,
+                0.4678128,
+                0.49900032,
+                0.53018784,
+                0.56137536,
+                0.6237504
+              ]
+            }
+          ]
+        },
+        {
+          "level": 50,
+          "name": "n:EQ_EVENTS_DRAGONGEAR_ARTSTUB_50_SADDLE_LORD50_NAME",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                1.439424,
+                1.54224,
+                1.645056,
+                1.747872,
+                1.850688,
+                2.05632
+              ]
+            },
+            {
+              "description": "Ranged Attack bonus when your dragon is present.",
+              "name": "Dragon: Ranged Attack",
+              "progression": [
+                0.616896,
+                0.66096,
+                0.705024,
+                0.749088,
+                0.793152,
+                0.88128
+              ]
+            },
+            {
+              "description": "March Speed bonus when your dragon is present.",
+              "name": "Dragon: Marching Speed",
+              "progression": [
+                0.205632,
+                0.22032,
+                0.235008,
+                0.249696,
+                0.264384,
+                0.29376
+              ]
+            },
+            {
+              "description": "Ranged Health in Player-to-Player combat bonus when your dragon is present.",
+              "name": "Dragon: Ranged Health vs. Player",
+              "progression": [
+                0.616896,
+                0.66096,
+                0.705024,
+                0.749088,
+                0.793152,
+                0.88128
+              ]
+            },
+            {
+              "description": "Increases Troop Attack when marching against another player with your dragon",
+              "name": "Dragon Marcher Troop Attack vs. Player",
+              "progression": [
+                0.479808,
+                0.51408,
+                0.548352,
+                0.582624,
+                0.616896,
+                0.68544
+              ]
+            }
+          ]
+        }
+      ]
+    }
   },
   {
-    "gear_with_level": [
-      {
-        "level": 5,
-        "name": "Tidebreaker's Saddle (L5)",
-        "stats": [
-          {
-            "description": "Increases the attack of your dragon against enemy troops.",
-            "name": "Dragon Attack",
-            "progression": [
-              0.27349056,
-              0.2930256,
-              0.31256064,
-              0.33209568,
-              0.35163072,
-              0.390700800000001
-            ]
-          },
-          {
-            "description": "Troop Attack vs. Seat of Power bonus when your dragon is present.",
-            "name": "Dragon: Troop Attack at a Seat of Power",
-            "progression": [
-              0.0976752000000001,
-              0.104652,
-              0.1116288,
-              0.1186056,
-              0.1255824,
-              0.139536
-            ]
-          },
-          {
-            "description": "March Speed vs. Seat of Power bonus when your dragon is present.",
-            "name": "Dragon: Marching Speed vs. Seat of Power",
-            "progression": [
-              0.0390700800000001,
-              0.0418608000000001,
-              0.0446515200000001,
-              0.0474422400000001,
-              0.0502329600000001,
-              0.0558144000000001
-            ]
-          }
-        ]
-      },
-      {
-        "level": 10,
-        "name": "Tidebreaker's Saddle (L10)",
-        "stats": [
-          {
-            "description": "Increases the attack of your dragon against enemy troops.",
-            "name": "Dragon Attack",
-            "progression": [
-              0.40303872,
-              0.4318272,
-              0.46061568,
-              0.48940416,
-              0.518192640000001,
-              0.575769600000001
-            ]
-          },
-          {
-            "description": "Troop Attack vs. Seat of Power bonus when your dragon is present.",
-            "name": "Dragon: Troop Attack at a Seat of Power",
-            "progression": [
-              0.1439424,
-              0.154224,
-              0.1645056,
-              0.1747872,
-              0.1850688,
-              0.205632
-            ]
-          },
-          {
-            "description": "March Speed vs. Seat of Power bonus when your dragon is present.",
-            "name": "Dragon: Marching Speed vs. Seat of Power",
-            "progression": [
-              0.0575769600000001,
-              0.0616896000000001,
-              0.0658022400000001,
-              0.0699148800000001,
-              0.0740275200000001,
-              0.0822528000000001
-            ]
-          }
-        ]
-      },
-      {
-        "level": 15,
-        "name": "Tidebreaker's Saddle (L15)",
-        "stats": [
-          {
-            "description": "Increases the attack of your dragon against enemy troops.",
-            "name": "Dragon Attack",
-            "progression": [
-              0.53258688,
-              0.5706288,
-              0.60867072,
-              0.64671264,
-              0.68475456,
-              0.7608384
-            ]
-          },
-          {
-            "description": "Troop Attack vs. Seat of Power bonus when your dragon is present.",
-            "name": "Dragon: Troop Attack at a Seat of Power",
-            "progression": [
-              0.1902096,
-              0.203796,
-              0.2173824,
-              0.2309688,
-              0.2445552,
-              0.271728
-            ]
-          },
-          {
-            "description": "March Speed vs. Seat of Power bonus when your dragon is present.",
-            "name": "Dragon: Marching Speed vs. Seat of Power",
-            "progression": [
-              0.0760838400000001,
-              0.0815184,
-              0.0869529600000001,
-              0.0923875200000001,
-              0.0978220800000001,
-              0.1086912
-            ]
-          }
-        ]
-      },
-      {
-        "level": 20,
-        "name": "Tidebreaker's Saddle (L20)",
-        "stats": [
-          {
-            "description": "Increases the attack of your dragon against enemy troops.",
-            "name": "Dragon Attack",
-            "progression": [
-              0.66213504,
-              0.7094304,
-              0.75672576,
-              0.80402112,
-              0.85131648,
-              0.9459072
-            ]
-          },
-          {
-            "description": "Troop Attack vs. Seat of Power bonus when your dragon is present.",
-            "name": "Dragon: Troop Attack at a Seat of Power",
-            "progression": [
-              0.2364768,
-              0.253368,
-              0.2702592,
-              0.2871504,
-              0.3040416,
-              0.337824
-            ]
-          },
-          {
-            "description": "March Speed vs. Seat of Power bonus when your dragon is present.",
-            "name": "Dragon: Marching Speed vs. Seat of Power",
-            "progression": [
-              0.09459072,
-              0.1013472,
-              0.10810368,
-              0.11486016,
-              0.12161664,
-              0.1351296
-            ]
-          },
-          {
-            "description": "Cavalry Defense in Player-to-Player combat bonus when your dragon is present.",
-            "name": "Dragon: Cavalry Defense vs. Player",
-            "progression": [
-              0.28377216,
-              0.3040416,
-              0.32431104,
-              0.34458048,
-              0.36484992,
-              0.4053888
-            ]
-          }
-        ]
-      },
-      {
-        "level": 25,
-        "name": "Tidebreaker's Saddle (L25)",
-        "stats": [
-          {
-            "description": "Increases the attack of your dragon against enemy troops.",
-            "name": "Dragon Attack",
-            "progression": [
-              0.7916832,
-              0.848232,
-              0.9047808,
-              0.9613296,
-              1.0178784,
-              1.130976
-            ]
-          },
-          {
-            "description": "Troop Attack vs. Seat of Power bonus when your dragon is present.",
-            "name": "Dragon: Troop Attack at a Seat of Power",
-            "progression": [
-              0.282744,
-              0.30294,
-              0.323136,
-              0.343332,
-              0.363528,
-              0.40392
-            ]
-          },
-          {
-            "description": "March Speed vs. Seat of Power bonus when your dragon is present.",
-            "name": "Dragon: Marching Speed vs. Seat of Power",
-            "progression": [
-              0.1130976,
-              0.121176,
-              0.1292544,
-              0.1373328,
-              0.1454112,
-              0.161568
-            ]
-          },
-          {
-            "description": "Cavalry Defense in Player-to-Player combat bonus when your dragon is present.",
-            "name": "Dragon: Cavalry Defense vs. Player",
-            "progression": [
-              0.3392928,
-              0.363528,
-              0.3877632,
-              0.4119984,
-              0.4362336,
-              0.484704
-            ]
-          }
-        ]
-      },
-      {
-        "level": 30,
-        "name": "Tidebreaker's Saddle (L30)",
-        "stats": [
-          {
-            "description": "Increases the attack of your dragon against enemy troops.",
-            "name": "Dragon Attack",
-            "progression": [
-              0.92123136,
-              0.9870336,
-              1.05283584,
-              1.11863808,
-              1.18444032,
-              1.3160448
-            ]
-          },
-          {
-            "description": "Troop Attack vs. Seat of Power bonus when your dragon is present.",
-            "name": "Dragon: Troop Attack at a Seat of Power",
-            "progression": [
-              0.3290112,
-              0.352512,
-              0.3760128,
-              0.3995136,
-              0.4230144,
-              0.470016
-            ]
-          },
-          {
-            "description": "March Speed vs. Seat of Power bonus when your dragon is present.",
-            "name": "Dragon: Marching Speed vs. Seat of Power",
-            "progression": [
-              0.13160448,
-              0.1410048,
-              0.15040512,
-              0.15980544,
-              0.16920576,
-              0.1880064
-            ]
-          },
-          {
-            "description": "Cavalry Defense in Player-to-Player combat bonus when your dragon is present.",
-            "name": "Dragon: Cavalry Defense vs. Player",
-            "progression": [
-              0.39481344,
-              0.4230144,
-              0.45121536,
-              0.47941632,
-              0.50761728,
-              0.5640192
-            ]
-          }
-        ]
-      },
-      {
-        "level": 35,
-        "name": "Tidebreaker's Saddle (L35)",
-        "stats": [
-          {
-            "description": "Increases the attack of your dragon against enemy troops.",
-            "name": "Dragon Attack",
-            "progression": [
-              1.05077952,
-              1.1258352,
-              1.20089088,
-              1.27594656,
-              1.35100224,
-              1.5011136
-            ]
-          },
-          {
-            "description": "Troop Attack vs. Seat of Power bonus when your dragon is present.",
-            "name": "Dragon: Troop Attack at a Seat of Power",
-            "progression": [
-              0.3752784,
-              0.402084,
-              0.4288896,
-              0.4556952,
-              0.4825008,
-              0.536112
-            ]
-          },
-          {
-            "description": "March Speed vs. Seat of Power bonus when your dragon is present.",
-            "name": "Dragon: Marching Speed vs. Seat of Power",
-            "progression": [
-              0.15011136,
-              0.1608336,
-              0.17155584,
-              0.18227808,
-              0.19300032,
-              0.2144448
-            ]
-          },
-          {
-            "description": "Cavalry Defense in Player-to-Player combat bonus when your dragon is present.",
-            "name": "Dragon: Cavalry Defense vs. Player",
-            "progression": [
-              0.45033408,
-              0.4825008,
-              0.51466752,
-              0.54683424,
-              0.57900096,
-              0.6433344
-            ]
-          }
-        ]
-      },
-      {
-        "level": 40,
-        "name": "Tidebreaker's Saddle (L40)",
-        "stats": [
-          {
-            "description": "Increases the attack of your dragon against enemy troops.",
-            "name": "Dragon Attack",
-            "progression": [
-              1.18032768,
-              1.2646368,
-              1.34894592,
-              1.43325504,
-              1.51756416,
-              1.6861824
-            ]
-          },
-          {
-            "description": "Troop Attack vs. Seat of Power bonus when your dragon is present.",
-            "name": "Dragon: Troop Attack at a Seat of Power",
-            "progression": [
-              0.4215456,
-              0.451656,
-              0.4817664,
-              0.5118768,
-              0.5419872,
-              0.602208
-            ]
-          },
-          {
-            "description": "March Speed vs. Seat of Power bonus when your dragon is present.",
-            "name": "Dragon: Marching Speed vs. Seat of Power",
-            "progression": [
-              0.16861824,
-              0.1806624,
-              0.19270656,
-              0.20475072,
-              0.21679488,
-              0.2408832
-            ]
-          },
-          {
-            "description": "Cavalry Defense in Player-to-Player combat bonus when your dragon is present.",
-            "name": "Dragon: Cavalry Defense vs. Player",
-            "progression": [
-              0.50585472,
-              0.5419872,
-              0.57811968,
-              0.61425216,
-              0.65038464,
-              0.7226496
-            ]
-          },
-          {
-            "description": "Dragon Cavalry Health vs. a Player while in combat with another player at a Seat of Power",
-            "name": "Dragon Cavalry Health vs. Player at a Seat Of Power",
-            "progression": [
-              0.50585472,
-              0.5419872,
-              0.57811968,
-              0.61425216,
-              0.65038464,
-              0.7226496
-            ]
-          }
-        ]
-      },
-      {
-        "level": 45,
-        "name": "Tidebreaker's Saddle (L45)",
-        "stats": [
-          {
-            "description": "Increases the attack of your dragon against enemy troops.",
-            "name": "Dragon Attack",
-            "progression": [
-              1.30987584,
-              1.4034384,
-              1.49700096,
-              1.59056352,
-              1.68412608,
-              1.8712512
-            ]
-          },
-          {
-            "description": "Troop Attack vs. Seat of Power bonus when your dragon is present.",
-            "name": "Dragon: Troop Attack at a Seat of Power",
-            "progression": [
-              0.4678128,
-              0.501228,
-              0.5346432,
-              0.5680584,
-              0.6014736,
-              0.668304
-            ]
-          },
-          {
-            "description": "March Speed vs. Seat of Power bonus when your dragon is present.",
-            "name": "Dragon: Marching Speed vs. Seat of Power",
-            "progression": [
-              0.18712512,
-              0.2004912,
-              0.21385728,
-              0.22722336,
-              0.24058944,
-              0.2673216
-            ]
-          },
-          {
-            "description": "Cavalry Defense in Player-to-Player combat bonus when your dragon is present.",
-            "name": "Dragon: Cavalry Defense vs. Player",
-            "progression": [
-              0.56137536,
-              0.6014736,
-              0.64157184,
-              0.68167008,
-              0.72176832,
-              0.8019648
-            ]
-          },
-          {
-            "description": "Dragon Cavalry Health vs. a Player while in combat with another player at a Seat of Power",
-            "name": "Dragon Cavalry Health vs. Player at a Seat Of Power",
-            "progression": [
-              0.56137536,
-              0.6014736,
-              0.64157184,
-              0.68167008,
-              0.72176832,
-              0.8019648
-            ]
-          }
-        ]
-      },
-      {
-        "level": 50,
-        "name": "Tidebreaker's Saddle (L50)",
-        "stats": [
-          {
-            "description": "Increases the attack of your dragon against enemy troops.",
-            "name": "Dragon Attack",
-            "progression": [
-              1.439424,
-              1.54224,
-              1.645056,
-              1.747872,
-              1.850688,
-              2.05632
-            ]
-          },
-          {
-            "description": "Troop Attack vs. Seat of Power bonus when your dragon is present.",
-            "name": "Dragon: Troop Attack at a Seat of Power",
-            "progression": [
-              0.51408,
-              0.5508,
-              0.58752,
-              0.62424,
-              0.66096,
-              0.7344
-            ]
-          },
-          {
-            "description": "March Speed vs. Seat of Power bonus when your dragon is present.",
-            "name": "Dragon: Marching Speed vs. Seat of Power",
-            "progression": [
-              0.205632,
-              0.22032,
-              0.235008,
-              0.249696,
-              0.264384,
-              0.29376
-            ]
-          },
-          {
-            "description": "Cavalry Defense in Player-to-Player combat bonus when your dragon is present.",
-            "name": "Dragon: Cavalry Defense vs. Player",
-            "progression": [
-              0.616896,
-              0.66096,
-              0.705024,
-              0.749088,
-              0.793152,
-              0.88128
-            ]
-          },
-          {
-            "description": "Dragon Cavalry Health vs. a Player while in combat with another player at a Seat of Power",
-            "name": "Dragon Cavalry Health vs. Player at a Seat Of Power",
-            "progression": [
-              0.616896,
-              0.66096,
-              0.705024,
-              0.749088,
-              0.793152,
-              0.88128
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "gear_with_level": [
-      {
-        "level": 5,
-        "name": "Tidebreaker's Chanfron (L5)",
-        "stats": [
-          {
-            "description": "Increases the attack of your dragon against enemy troops.",
-            "name": "Dragon Attack",
-            "progression": [
-              0.27349056,
-              0.2930256,
-              0.31256064,
-              0.33209568,
-              0.35163072,
-              0.390700800000001
-            ]
-          },
-          {
-            "description": "Troop Attack vs. Seat of Power bonus when your dragon is present.",
-            "name": "Dragon: Troop Attack at a Seat of Power",
-            "progression": [
-              0.0976752000000001,
-              0.104652,
-              0.1116288,
-              0.1186056,
-              0.1255824,
-              0.139536
-            ]
-          },
-          {
-            "description": "March Speed vs. Seat of Power bonus when your dragon is present.",
-            "name": "Dragon: Marching Speed vs. Seat of Power",
-            "progression": [
-              0.0390700800000001,
-              0.0418608000000001,
-              0.0446515200000001,
-              0.0474422400000001,
-              0.0502329600000001,
-              0.0558144000000001
-            ]
-          }
-        ]
-      },
-      {
-        "level": 10,
-        "name": "Tidebreaker's Chanfron (L10)",
-        "stats": [
-          {
-            "description": "Increases the attack of your dragon against enemy troops.",
-            "name": "Dragon Attack",
-            "progression": [
-              0.40303872,
-              0.4318272,
-              0.46061568,
-              0.48940416,
-              0.518192640000001,
-              0.575769600000001
-            ]
-          },
-          {
-            "description": "Troop Attack vs. Seat of Power bonus when your dragon is present.",
-            "name": "Dragon: Troop Attack at a Seat of Power",
-            "progression": [
-              0.1439424,
-              0.154224,
-              0.1645056,
-              0.1747872,
-              0.1850688,
-              0.205632
-            ]
-          },
-          {
-            "description": "March Speed vs. Seat of Power bonus when your dragon is present.",
-            "name": "Dragon: Marching Speed vs. Seat of Power",
-            "progression": [
-              0.0575769600000001,
-              0.0616896000000001,
-              0.0658022400000001,
-              0.0699148800000001,
-              0.0740275200000001,
-              0.0822528000000001
-            ]
-          }
-        ]
-      },
-      {
-        "level": 15,
-        "name": "Tidebreaker's Chanfron (L15)",
-        "stats": [
-          {
-            "description": "Increases the attack of your dragon against enemy troops.",
-            "name": "Dragon Attack",
-            "progression": [
-              0.53258688,
-              0.5706288,
-              0.60867072,
-              0.64671264,
-              0.68475456,
-              0.7608384
-            ]
-          },
-          {
-            "description": "Troop Attack vs. Seat of Power bonus when your dragon is present.",
-            "name": "Dragon: Troop Attack at a Seat of Power",
-            "progression": [
-              0.1902096,
-              0.203796,
-              0.2173824,
-              0.2309688,
-              0.2445552,
-              0.271728
-            ]
-          },
-          {
-            "description": "March Speed vs. Seat of Power bonus when your dragon is present.",
-            "name": "Dragon: Marching Speed vs. Seat of Power",
-            "progression": [
-              0.0760838400000001,
-              0.0815184,
-              0.0869529600000001,
-              0.0923875200000001,
-              0.0978220800000001,
-              0.1086912
-            ]
-          }
-        ]
-      },
-      {
-        "level": 20,
-        "name": "Tidebreaker's Chanfron (L20)",
-        "stats": [
-          {
-            "description": "Increases the attack of your dragon against enemy troops.",
-            "name": "Dragon Attack",
-            "progression": [
-              0.66213504,
-              0.7094304,
-              0.75672576,
-              0.80402112,
-              0.85131648,
-              0.9459072
-            ]
-          },
-          {
-            "description": "Troop Attack vs. Seat of Power bonus when your dragon is present.",
-            "name": "Dragon: Troop Attack at a Seat of Power",
-            "progression": [
-              0.2364768,
-              0.253368,
-              0.2702592,
-              0.2871504,
-              0.3040416,
-              0.337824
-            ]
-          },
-          {
-            "description": "March Speed vs. Seat of Power bonus when your dragon is present.",
-            "name": "Dragon: Marching Speed vs. Seat of Power",
-            "progression": [
-              0.09459072,
-              0.1013472,
-              0.10810368,
-              0.11486016,
-              0.12161664,
-              0.1351296
-            ]
-          },
-          {
-            "description": "Ranged Defense in Player-to-Player combat bonus when your dragon is present.",
-            "name": "Dragon: Ranged Defense vs. Player",
-            "progression": [
-              0.28377216,
-              0.3040416,
-              0.32431104,
-              0.34458048,
-              0.36484992,
-              0.4053888
-            ]
-          }
-        ]
-      },
-      {
-        "level": 25,
-        "name": "Tidebreaker's Chanfron (L25)",
-        "stats": [
-          {
-            "description": "Increases the attack of your dragon against enemy troops.",
-            "name": "Dragon Attack",
-            "progression": [
-              0.7916832,
-              0.848232,
-              0.9047808,
-              0.9613296,
-              1.0178784,
-              1.130976
-            ]
-          },
-          {
-            "description": "Troop Attack vs. Seat of Power bonus when your dragon is present.",
-            "name": "Dragon: Troop Attack at a Seat of Power",
-            "progression": [
-              0.282744,
-              0.30294,
-              0.323136,
-              0.343332,
-              0.363528,
-              0.40392
-            ]
-          },
-          {
-            "description": "March Speed vs. Seat of Power bonus when your dragon is present.",
-            "name": "Dragon: Marching Speed vs. Seat of Power",
-            "progression": [
-              0.1130976,
-              0.121176,
-              0.1292544,
-              0.1373328,
-              0.1454112,
-              0.161568
-            ]
-          },
-          {
-            "description": "Ranged Defense in Player-to-Player combat bonus when your dragon is present.",
-            "name": "Dragon: Ranged Defense vs. Player",
-            "progression": [
-              0.3392928,
-              0.363528,
-              0.3877632,
-              0.4119984,
-              0.4362336,
-              0.484704
-            ]
-          }
-        ]
-      },
-      {
-        "level": 30,
-        "name": "Tidebreaker's Chanfron (L30)",
-        "stats": [
-          {
-            "description": "Increases the attack of your dragon against enemy troops.",
-            "name": "Dragon Attack",
-            "progression": [
-              0.92123136,
-              0.9870336,
-              1.05283584,
-              1.11863808,
-              1.18444032,
-              1.3160448
-            ]
-          },
-          {
-            "description": "Troop Attack vs. Seat of Power bonus when your dragon is present.",
-            "name": "Dragon: Troop Attack at a Seat of Power",
-            "progression": [
-              0.3290112,
-              0.352512,
-              0.3760128,
-              0.3995136,
-              0.4230144,
-              0.470016
-            ]
-          },
-          {
-            "description": "March Speed vs. Seat of Power bonus when your dragon is present.",
-            "name": "Dragon: Marching Speed vs. Seat of Power",
-            "progression": [
-              0.13160448,
-              0.1410048,
-              0.15040512,
-              0.15980544,
-              0.16920576,
-              0.1880064
-            ]
-          },
-          {
-            "description": "Ranged Defense in Player-to-Player combat bonus when your dragon is present.",
-            "name": "Dragon: Ranged Defense vs. Player",
-            "progression": [
-              0.39481344,
-              0.4230144,
-              0.45121536,
-              0.47941632,
-              0.50761728,
-              0.5640192
-            ]
-          }
-        ]
-      },
-      {
-        "level": 35,
-        "name": "Tidebreaker's Chanfron (L35)",
-        "stats": [
-          {
-            "description": "Increases the attack of your dragon against enemy troops.",
-            "name": "Dragon Attack",
-            "progression": [
-              1.05077952,
-              1.1258352,
-              1.20089088,
-              1.27594656,
-              1.35100224,
-              1.5011136
-            ]
-          },
-          {
-            "description": "Troop Attack vs. Seat of Power bonus when your dragon is present.",
-            "name": "Dragon: Troop Attack at a Seat of Power",
-            "progression": [
-              0.3752784,
-              0.402084,
-              0.4288896,
-              0.4556952,
-              0.4825008,
-              0.536112
-            ]
-          },
-          {
-            "description": "March Speed vs. Seat of Power bonus when your dragon is present.",
-            "name": "Dragon: Marching Speed vs. Seat of Power",
-            "progression": [
-              0.15011136,
-              0.1608336,
-              0.17155584,
-              0.18227808,
-              0.19300032,
-              0.2144448
-            ]
-          },
-          {
-            "description": "Ranged Defense in Player-to-Player combat bonus when your dragon is present.",
-            "name": "Dragon: Ranged Defense vs. Player",
-            "progression": [
-              0.45033408,
-              0.4825008,
-              0.51466752,
-              0.54683424,
-              0.57900096,
-              0.6433344
-            ]
-          }
-        ]
-      },
-      {
-        "level": 40,
-        "name": "Tidebreaker's Chanfron (L40)",
-        "stats": [
-          {
-            "description": "Increases the attack of your dragon against enemy troops.",
-            "name": "Dragon Attack",
-            "progression": [
-              1.18032768,
-              1.2646368,
-              1.34894592,
-              1.43325504,
-              1.51756416,
-              1.6861824
-            ]
-          },
-          {
-            "description": "Troop Attack vs. Seat of Power bonus when your dragon is present.",
-            "name": "Dragon: Troop Attack at a Seat of Power",
-            "progression": [
-              0.4215456,
-              0.451656,
-              0.4817664,
-              0.5118768,
-              0.5419872,
-              0.602208
-            ]
-          },
-          {
-            "description": "March Speed vs. Seat of Power bonus when your dragon is present.",
-            "name": "Dragon: Marching Speed vs. Seat of Power",
-            "progression": [
-              0.16861824,
-              0.1806624,
-              0.19270656,
-              0.20475072,
-              0.21679488,
-              0.2408832
-            ]
-          },
-          {
-            "description": "Ranged Defense in Player-to-Player combat bonus when your dragon is present.",
-            "name": "Dragon: Ranged Defense vs. Player",
-            "progression": [
-              0.50585472,
-              0.5419872,
-              0.57811968,
-              0.61425216,
-              0.65038464,
-              0.7226496
-            ]
-          },
-          {
-            "description": "Dragon Ranged Health vs. a Player while in combat with another player at a Seat of Power",
-            "name": "Dragon Ranged Health vs. Player at a Seat Of Power",
-            "progression": [
-              0.50585472,
-              0.5419872,
-              0.57811968,
-              0.61425216,
-              0.65038464,
-              0.7226496
-            ]
-          }
-        ]
-      },
-      {
-        "level": 45,
-        "name": "Tidebreaker's Chanfron (L45)",
-        "stats": [
-          {
-            "description": "Increases the attack of your dragon against enemy troops.",
-            "name": "Dragon Attack",
-            "progression": [
-              1.30987584,
-              1.4034384,
-              1.49700096,
-              1.59056352,
-              1.68412608,
-              1.8712512
-            ]
-          },
-          {
-            "description": "Troop Attack vs. Seat of Power bonus when your dragon is present.",
-            "name": "Dragon: Troop Attack at a Seat of Power",
-            "progression": [
-              0.4678128,
-              0.501228,
-              0.5346432,
-              0.5680584,
-              0.6014736,
-              0.668304
-            ]
-          },
-          {
-            "description": "March Speed vs. Seat of Power bonus when your dragon is present.",
-            "name": "Dragon: Marching Speed vs. Seat of Power",
-            "progression": [
-              0.18712512,
-              0.2004912,
-              0.21385728,
-              0.22722336,
-              0.24058944,
-              0.2673216
-            ]
-          },
-          {
-            "description": "Ranged Defense in Player-to-Player combat bonus when your dragon is present.",
-            "name": "Dragon: Ranged Defense vs. Player",
-            "progression": [
-              0.56137536,
-              0.6014736,
-              0.64157184,
-              0.68167008,
-              0.72176832,
-              0.8019648
-            ]
-          },
-          {
-            "description": "Dragon Ranged Health vs. a Player while in combat with another player at a Seat of Power",
-            "name": "Dragon Ranged Health vs. Player at a Seat Of Power",
-            "progression": [
-              0.56137536,
-              0.6014736,
-              0.64157184,
-              0.68167008,
-              0.72176832,
-              0.8019648
-            ]
-          }
-        ]
-      },
-      {
-        "level": 50,
-        "name": "Tidebreaker's Chanfron (L50)",
-        "stats": [
-          {
-            "description": "Increases the attack of your dragon against enemy troops.",
-            "name": "Dragon Attack",
-            "progression": [
-              1.439424,
-              1.54224,
-              1.645056,
-              1.747872,
-              1.850688,
-              2.05632
-            ]
-          },
-          {
-            "description": "Troop Attack vs. Seat of Power bonus when your dragon is present.",
-            "name": "Dragon: Troop Attack at a Seat of Power",
-            "progression": [
-              0.51408,
-              0.5508,
-              0.58752,
-              0.62424,
-              0.66096,
-              0.7344
-            ]
-          },
-          {
-            "description": "March Speed vs. Seat of Power bonus when your dragon is present.",
-            "name": "Dragon: Marching Speed vs. Seat of Power",
-            "progression": [
-              0.205632,
-              0.22032,
-              0.235008,
-              0.249696,
-              0.264384,
-              0.29376
-            ]
-          },
-          {
-            "description": "Ranged Defense in Player-to-Player combat bonus when your dragon is present.",
-            "name": "Dragon: Ranged Defense vs. Player",
-            "progression": [
-              0.616896,
-              0.66096,
-              0.705024,
-              0.749088,
-              0.793152,
-              0.88128
-            ]
-          },
-          {
-            "description": "Dragon Ranged Health vs. a Player while in combat with another player at a Seat of Power",
-            "name": "Dragon Ranged Health vs. Player at a Seat Of Power",
-            "progression": [
-              0.616896,
-              0.66096,
-              0.705024,
-              0.749088,
-              0.793152,
-              0.88128
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "gear_with_level": [
-      {
-        "level": 5,
-        "name": "Tidebreaker's Peytral (L5)",
-        "stats": [
-          {
-            "description": "Increases the attack of your dragon against enemy troops.",
-            "name": "Dragon Attack",
-            "progression": [
-              0.27349056,
-              0.2930256,
-              0.31256064,
-              0.33209568,
-              0.35163072,
-              0.390700800000001
-            ]
-          },
-          {
-            "description": "Troop Attack vs. Seat of Power bonus when your dragon is present.",
-            "name": "Dragon: Troop Attack at a Seat of Power",
-            "progression": [
-              0.0976752000000001,
-              0.104652,
-              0.1116288,
-              0.1186056,
-              0.1255824,
-              0.139536
-            ]
-          },
-          {
-            "description": "March Speed vs. Seat of Power bonus when your dragon is present.",
-            "name": "Dragon: Marching Speed vs. Seat of Power",
-            "progression": [
-              0.0390700800000001,
-              0.0418608000000001,
-              0.0446515200000001,
-              0.0474422400000001,
-              0.0502329600000001,
-              0.0558144000000001
-            ]
-          }
-        ]
-      },
-      {
-        "level": 10,
-        "name": "Tidebreaker's Peytral (L10)",
-        "stats": [
-          {
-            "description": "Increases the attack of your dragon against enemy troops.",
-            "name": "Dragon Attack",
-            "progression": [
-              0.40303872,
-              0.4318272,
-              0.46061568,
-              0.48940416,
-              0.518192640000001,
-              0.575769600000001
-            ]
-          },
-          {
-            "description": "Troop Attack vs. Seat of Power bonus when your dragon is present.",
-            "name": "Dragon: Troop Attack at a Seat of Power",
-            "progression": [
-              0.1439424,
-              0.154224,
-              0.1645056,
-              0.1747872,
-              0.1850688,
-              0.205632
-            ]
-          },
-          {
-            "description": "March Speed vs. Seat of Power bonus when your dragon is present.",
-            "name": "Dragon: Marching Speed vs. Seat of Power",
-            "progression": [
-              0.0575769600000001,
-              0.0616896000000001,
-              0.0658022400000001,
-              0.0699148800000001,
-              0.0740275200000001,
-              0.0822528000000001
-            ]
-          }
-        ]
-      },
-      {
-        "level": 15,
-        "name": "Tidebreaker's Peytral (L15)",
-        "stats": [
-          {
-            "description": "Increases the attack of your dragon against enemy troops.",
-            "name": "Dragon Attack",
-            "progression": [
-              0.53258688,
-              0.5706288,
-              0.60867072,
-              0.64671264,
-              0.68475456,
-              0.7608384
-            ]
-          },
-          {
-            "description": "Troop Attack vs. Seat of Power bonus when your dragon is present.",
-            "name": "Dragon: Troop Attack at a Seat of Power",
-            "progression": [
-              0.1902096,
-              0.203796,
-              0.2173824,
-              0.2309688,
-              0.2445552,
-              0.271728
-            ]
-          },
-          {
-            "description": "March Speed vs. Seat of Power bonus when your dragon is present.",
-            "name": "Dragon: Marching Speed vs. Seat of Power",
-            "progression": [
-              0.0760838400000001,
-              0.0815184,
-              0.0869529600000001,
-              0.0923875200000001,
-              0.0978220800000001,
-              0.1086912
-            ]
-          }
-        ]
-      },
-      {
-        "level": 20,
-        "name": "Tidebreaker's Peytral (L20)",
-        "stats": [
-          {
-            "description": "Increases the attack of your dragon against enemy troops.",
-            "name": "Dragon Attack",
-            "progression": [
-              0.66213504,
-              0.7094304,
-              0.75672576,
-              0.80402112,
-              0.85131648,
-              0.9459072
-            ]
-          },
-          {
-            "description": "Troop Attack vs. Seat of Power bonus when your dragon is present.",
-            "name": "Dragon: Troop Attack at a Seat of Power",
-            "progression": [
-              0.2364768,
-              0.253368,
-              0.2702592,
-              0.2871504,
-              0.3040416,
-              0.337824
-            ]
-          },
-          {
-            "description": "March Speed vs. Seat of Power bonus when your dragon is present.",
-            "name": "Dragon: Marching Speed vs. Seat of Power",
-            "progression": [
-              0.09459072,
-              0.1013472,
-              0.10810368,
-              0.11486016,
-              0.12161664,
-              0.1351296
-            ]
-          },
-          {
-            "description": "Infantry Defense in Player-to-Player combat bonus when your dragon is present.",
-            "name": "Dragon: Infantry Defense vs. Player",
-            "progression": [
-              0.28377216,
-              0.3040416,
-              0.32431104,
-              0.34458048,
-              0.36484992,
-              0.4053888
-            ]
-          }
-        ]
-      },
-      {
-        "level": 25,
-        "name": "Tidebreaker's Peytral (L25)",
-        "stats": [
-          {
-            "description": "Increases the attack of your dragon against enemy troops.",
-            "name": "Dragon Attack",
-            "progression": [
-              0.7916832,
-              0.848232,
-              0.9047808,
-              0.9613296,
-              1.0178784,
-              1.130976
-            ]
-          },
-          {
-            "description": "Troop Attack vs. Seat of Power bonus when your dragon is present.",
-            "name": "Dragon: Troop Attack at a Seat of Power",
-            "progression": [
-              0.282744,
-              0.30294,
-              0.323136,
-              0.343332,
-              0.363528,
-              0.40392
-            ]
-          },
-          {
-            "description": "March Speed vs. Seat of Power bonus when your dragon is present.",
-            "name": "Dragon: Marching Speed vs. Seat of Power",
-            "progression": [
-              0.1130976,
-              0.121176,
-              0.1292544,
-              0.1373328,
-              0.1454112,
-              0.161568
-            ]
-          },
-          {
-            "description": "Infantry Defense in Player-to-Player combat bonus when your dragon is present.",
-            "name": "Dragon: Infantry Defense vs. Player",
-            "progression": [
-              0.3392928,
-              0.363528,
-              0.3877632,
-              0.4119984,
-              0.4362336,
-              0.484704
-            ]
-          }
-        ]
-      },
-      {
-        "level": 30,
-        "name": "Tidebreaker's Peytral (L30)",
-        "stats": [
-          {
-            "description": "Increases the attack of your dragon against enemy troops.",
-            "name": "Dragon Attack",
-            "progression": [
-              0.92123136,
-              0.9870336,
-              1.05283584,
-              1.11863808,
-              1.18444032,
-              1.3160448
-            ]
-          },
-          {
-            "description": "Troop Attack vs. Seat of Power bonus when your dragon is present.",
-            "name": "Dragon: Troop Attack at a Seat of Power",
-            "progression": [
-              0.3290112,
-              0.352512,
-              0.3760128,
-              0.3995136,
-              0.4230144,
-              0.470016
-            ]
-          },
-          {
-            "description": "March Speed vs. Seat of Power bonus when your dragon is present.",
-            "name": "Dragon: Marching Speed vs. Seat of Power",
-            "progression": [
-              0.13160448,
-              0.1410048,
-              0.15040512,
-              0.15980544,
-              0.16920576,
-              0.1880064
-            ]
-          },
-          {
-            "description": "Infantry Defense in Player-to-Player combat bonus when your dragon is present.",
-            "name": "Dragon: Infantry Defense vs. Player",
-            "progression": [
-              0.39481344,
-              0.4230144,
-              0.45121536,
-              0.47941632,
-              0.50761728,
-              0.5640192
-            ]
-          }
-        ]
-      },
-      {
-        "level": 35,
-        "name": "Tidebreaker's Peytral (L35)",
-        "stats": [
-          {
-            "description": "Increases the attack of your dragon against enemy troops.",
-            "name": "Dragon Attack",
-            "progression": [
-              1.05077952,
-              1.1258352,
-              1.20089088,
-              1.27594656,
-              1.35100224,
-              1.5011136
-            ]
-          },
-          {
-            "description": "Troop Attack vs. Seat of Power bonus when your dragon is present.",
-            "name": "Dragon: Troop Attack at a Seat of Power",
-            "progression": [
-              0.3752784,
-              0.402084,
-              0.4288896,
-              0.4556952,
-              0.4825008,
-              0.536112
-            ]
-          },
-          {
-            "description": "March Speed vs. Seat of Power bonus when your dragon is present.",
-            "name": "Dragon: Marching Speed vs. Seat of Power",
-            "progression": [
-              0.15011136,
-              0.1608336,
-              0.17155584,
-              0.18227808,
-              0.19300032,
-              0.2144448
-            ]
-          },
-          {
-            "description": "Infantry Defense in Player-to-Player combat bonus when your dragon is present.",
-            "name": "Dragon: Infantry Defense vs. Player",
-            "progression": [
-              0.45033408,
-              0.4825008,
-              0.51466752,
-              0.54683424,
-              0.57900096,
-              0.6433344
-            ]
-          }
-        ]
-      },
-      {
-        "level": 40,
-        "name": "Tidebreaker's Peytral (L40)",
-        "stats": [
-          {
-            "description": "Increases the attack of your dragon against enemy troops.",
-            "name": "Dragon Attack",
-            "progression": [
-              1.18032768,
-              1.2646368,
-              1.34894592,
-              1.43325504,
-              1.51756416,
-              1.6861824
-            ]
-          },
-          {
-            "description": "Troop Attack vs. Seat of Power bonus when your dragon is present.",
-            "name": "Dragon: Troop Attack at a Seat of Power",
-            "progression": [
-              0.4215456,
-              0.451656,
-              0.4817664,
-              0.5118768,
-              0.5419872,
-              0.602208
-            ]
-          },
-          {
-            "description": "March Speed vs. Seat of Power bonus when your dragon is present.",
-            "name": "Dragon: Marching Speed vs. Seat of Power",
-            "progression": [
-              0.16861824,
-              0.1806624,
-              0.19270656,
-              0.20475072,
-              0.21679488,
-              0.2408832
-            ]
-          },
-          {
-            "description": "Infantry Defense in Player-to-Player combat bonus when your dragon is present.",
-            "name": "Dragon: Infantry Defense vs. Player",
-            "progression": [
-              0.50585472,
-              0.5419872,
-              0.57811968,
-              0.61425216,
-              0.65038464,
-              0.7226496
-            ]
-          },
-          {
-            "description": "Dragon Infantry Health vs. a Player while in combat with another player at a Seat of Power",
-            "name": "Dragon Infantry Health vs. Player at a Seat Of Power",
-            "progression": [
-              0.50585472,
-              0.5419872,
-              0.57811968,
-              0.61425216,
-              0.65038464,
-              0.7226496
-            ]
-          }
-        ]
-      },
-      {
-        "level": 45,
-        "name": "Tidebreaker's Peytral (L45)",
-        "stats": [
-          {
-            "description": "Increases the attack of your dragon against enemy troops.",
-            "name": "Dragon Attack",
-            "progression": [
-              1.30987584,
-              1.4034384,
-              1.49700096,
-              1.59056352,
-              1.68412608,
-              1.8712512
-            ]
-          },
-          {
-            "description": "Troop Attack vs. Seat of Power bonus when your dragon is present.",
-            "name": "Dragon: Troop Attack at a Seat of Power",
-            "progression": [
-              0.4678128,
-              0.501228,
-              0.5346432,
-              0.5680584,
-              0.6014736,
-              0.668304
-            ]
-          },
-          {
-            "description": "March Speed vs. Seat of Power bonus when your dragon is present.",
-            "name": "Dragon: Marching Speed vs. Seat of Power",
-            "progression": [
-              0.18712512,
-              0.2004912,
-              0.21385728,
-              0.22722336,
-              0.24058944,
-              0.2673216
-            ]
-          },
-          {
-            "description": "Infantry Defense in Player-to-Player combat bonus when your dragon is present.",
-            "name": "Dragon: Infantry Defense vs. Player",
-            "progression": [
-              0.56137536,
-              0.6014736,
-              0.64157184,
-              0.68167008,
-              0.72176832,
-              0.8019648
-            ]
-          },
-          {
-            "description": "Dragon Infantry Health vs. a Player while in combat with another player at a Seat of Power",
-            "name": "Dragon Infantry Health vs. Player at a Seat Of Power",
-            "progression": [
-              0.56137536,
-              0.6014736,
-              0.64157184,
-              0.68167008,
-              0.72176832,
-              0.8019648
-            ]
-          }
-        ]
-      },
-      {
-        "level": 50,
-        "name": "Tidebreaker's Peytral (L50)",
-        "stats": [
-          {
-            "description": "Increases the attack of your dragon against enemy troops.",
-            "name": "Dragon Attack",
-            "progression": [
-              1.439424,
-              1.54224,
-              1.645056,
-              1.747872,
-              1.850688,
-              2.05632
-            ]
-          },
-          {
-            "description": "Troop Attack vs. Seat of Power bonus when your dragon is present.",
-            "name": "Dragon: Troop Attack at a Seat of Power",
-            "progression": [
-              0.51408,
-              0.5508,
-              0.58752,
-              0.62424,
-              0.66096,
-              0.7344
-            ]
-          },
-          {
-            "description": "March Speed vs. Seat of Power bonus when your dragon is present.",
-            "name": "Dragon: Marching Speed vs. Seat of Power",
-            "progression": [
-              0.205632,
-              0.22032,
-              0.235008,
-              0.249696,
-              0.264384,
-              0.29376
-            ]
-          },
-          {
-            "description": "Infantry Defense in Player-to-Player combat bonus when your dragon is present.",
-            "name": "Dragon: Infantry Defense vs. Player",
-            "progression": [
-              0.616896,
-              0.66096,
-              0.705024,
-              0.749088,
-              0.793152,
-              0.88128
-            ]
-          },
-          {
-            "description": "Dragon Infantry Health vs. a Player while in combat with another player at a Seat of Power",
-            "name": "Dragon Infantry Health vs. Player at a Seat Of Power",
-            "progression": [
-              0.616896,
-              0.66096,
-              0.705024,
-              0.749088,
-              0.793152,
-              0.88128
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "color": "#11d12c",
+    "chanfron": {
+      "gear_with_level": [
+        {
+          "level": 5,
+          "name": "Tidebreaker's Chanfron (L5)",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                0.27349056,
+                0.2930256,
+                0.31256064,
+                0.33209568,
+                0.35163072,
+                0.390700800000001
+              ]
+            },
+            {
+              "description": "Troop Attack vs. Seat of Power bonus when your dragon is present.",
+              "name": "Dragon: Troop Attack at a Seat of Power",
+              "progression": [
+                0.0976752000000001,
+                0.104652,
+                0.1116288,
+                0.1186056,
+                0.1255824,
+                0.139536
+              ]
+            },
+            {
+              "description": "March Speed vs. Seat of Power bonus when your dragon is present.",
+              "name": "Dragon: Marching Speed vs. Seat of Power",
+              "progression": [
+                0.0390700800000001,
+                0.0418608000000001,
+                0.0446515200000001,
+                0.0474422400000001,
+                0.0502329600000001,
+                0.0558144000000001
+              ]
+            }
+          ]
+        },
+        {
+          "level": 10,
+          "name": "Tidebreaker's Chanfron (L10)",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                0.40303872,
+                0.4318272,
+                0.46061568,
+                0.48940416,
+                0.518192640000001,
+                0.575769600000001
+              ]
+            },
+            {
+              "description": "Troop Attack vs. Seat of Power bonus when your dragon is present.",
+              "name": "Dragon: Troop Attack at a Seat of Power",
+              "progression": [
+                0.1439424,
+                0.154224,
+                0.1645056,
+                0.1747872,
+                0.1850688,
+                0.205632
+              ]
+            },
+            {
+              "description": "March Speed vs. Seat of Power bonus when your dragon is present.",
+              "name": "Dragon: Marching Speed vs. Seat of Power",
+              "progression": [
+                0.0575769600000001,
+                0.0616896000000001,
+                0.0658022400000001,
+                0.0699148800000001,
+                0.0740275200000001,
+                0.0822528000000001
+              ]
+            }
+          ]
+        },
+        {
+          "level": 15,
+          "name": "Tidebreaker's Chanfron (L15)",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                0.53258688,
+                0.5706288,
+                0.60867072,
+                0.64671264,
+                0.68475456,
+                0.7608384
+              ]
+            },
+            {
+              "description": "Troop Attack vs. Seat of Power bonus when your dragon is present.",
+              "name": "Dragon: Troop Attack at a Seat of Power",
+              "progression": [
+                0.1902096,
+                0.203796,
+                0.2173824,
+                0.2309688,
+                0.2445552,
+                0.271728
+              ]
+            },
+            {
+              "description": "March Speed vs. Seat of Power bonus when your dragon is present.",
+              "name": "Dragon: Marching Speed vs. Seat of Power",
+              "progression": [
+                0.0760838400000001,
+                0.0815184,
+                0.0869529600000001,
+                0.0923875200000001,
+                0.0978220800000001,
+                0.1086912
+              ]
+            }
+          ]
+        },
+        {
+          "level": 20,
+          "name": "Tidebreaker's Chanfron (L20)",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                0.66213504,
+                0.7094304,
+                0.75672576,
+                0.80402112,
+                0.85131648,
+                0.9459072
+              ]
+            },
+            {
+              "description": "Troop Attack vs. Seat of Power bonus when your dragon is present.",
+              "name": "Dragon: Troop Attack at a Seat of Power",
+              "progression": [
+                0.2364768,
+                0.253368,
+                0.2702592,
+                0.2871504,
+                0.3040416,
+                0.337824
+              ]
+            },
+            {
+              "description": "March Speed vs. Seat of Power bonus when your dragon is present.",
+              "name": "Dragon: Marching Speed vs. Seat of Power",
+              "progression": [
+                0.09459072,
+                0.1013472,
+                0.10810368,
+                0.11486016,
+                0.12161664,
+                0.1351296
+              ]
+            },
+            {
+              "description": "Ranged Defense in Player-to-Player combat bonus when your dragon is present.",
+              "name": "Dragon: Ranged Defense vs. Player",
+              "progression": [
+                0.28377216,
+                0.3040416,
+                0.32431104,
+                0.34458048,
+                0.36484992,
+                0.4053888
+              ]
+            }
+          ]
+        },
+        {
+          "level": 25,
+          "name": "Tidebreaker's Chanfron (L25)",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                0.7916832,
+                0.848232,
+                0.9047808,
+                0.9613296,
+                1.0178784,
+                1.130976
+              ]
+            },
+            {
+              "description": "Troop Attack vs. Seat of Power bonus when your dragon is present.",
+              "name": "Dragon: Troop Attack at a Seat of Power",
+              "progression": [
+                0.282744,
+                0.30294,
+                0.323136,
+                0.343332,
+                0.363528,
+                0.40392
+              ]
+            },
+            {
+              "description": "March Speed vs. Seat of Power bonus when your dragon is present.",
+              "name": "Dragon: Marching Speed vs. Seat of Power",
+              "progression": [
+                0.1130976,
+                0.121176,
+                0.1292544,
+                0.1373328,
+                0.1454112,
+                0.161568
+              ]
+            },
+            {
+              "description": "Ranged Defense in Player-to-Player combat bonus when your dragon is present.",
+              "name": "Dragon: Ranged Defense vs. Player",
+              "progression": [
+                0.3392928,
+                0.363528,
+                0.3877632,
+                0.4119984,
+                0.4362336,
+                0.484704
+              ]
+            }
+          ]
+        },
+        {
+          "level": 30,
+          "name": "Tidebreaker's Chanfron (L30)",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                0.92123136,
+                0.9870336,
+                1.05283584,
+                1.11863808,
+                1.18444032,
+                1.3160448
+              ]
+            },
+            {
+              "description": "Troop Attack vs. Seat of Power bonus when your dragon is present.",
+              "name": "Dragon: Troop Attack at a Seat of Power",
+              "progression": [
+                0.3290112,
+                0.352512,
+                0.3760128,
+                0.3995136,
+                0.4230144,
+                0.470016
+              ]
+            },
+            {
+              "description": "March Speed vs. Seat of Power bonus when your dragon is present.",
+              "name": "Dragon: Marching Speed vs. Seat of Power",
+              "progression": [
+                0.13160448,
+                0.1410048,
+                0.15040512,
+                0.15980544,
+                0.16920576,
+                0.1880064
+              ]
+            },
+            {
+              "description": "Ranged Defense in Player-to-Player combat bonus when your dragon is present.",
+              "name": "Dragon: Ranged Defense vs. Player",
+              "progression": [
+                0.39481344,
+                0.4230144,
+                0.45121536,
+                0.47941632,
+                0.50761728,
+                0.5640192
+              ]
+            }
+          ]
+        },
+        {
+          "level": 35,
+          "name": "Tidebreaker's Chanfron (L35)",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                1.05077952,
+                1.1258352,
+                1.20089088,
+                1.27594656,
+                1.35100224,
+                1.5011136
+              ]
+            },
+            {
+              "description": "Troop Attack vs. Seat of Power bonus when your dragon is present.",
+              "name": "Dragon: Troop Attack at a Seat of Power",
+              "progression": [
+                0.3752784,
+                0.402084,
+                0.4288896,
+                0.4556952,
+                0.4825008,
+                0.536112
+              ]
+            },
+            {
+              "description": "March Speed vs. Seat of Power bonus when your dragon is present.",
+              "name": "Dragon: Marching Speed vs. Seat of Power",
+              "progression": [
+                0.15011136,
+                0.1608336,
+                0.17155584,
+                0.18227808,
+                0.19300032,
+                0.2144448
+              ]
+            },
+            {
+              "description": "Ranged Defense in Player-to-Player combat bonus when your dragon is present.",
+              "name": "Dragon: Ranged Defense vs. Player",
+              "progression": [
+                0.45033408,
+                0.4825008,
+                0.51466752,
+                0.54683424,
+                0.57900096,
+                0.6433344
+              ]
+            }
+          ]
+        },
+        {
+          "level": 40,
+          "name": "Tidebreaker's Chanfron (L40)",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                1.18032768,
+                1.2646368,
+                1.34894592,
+                1.43325504,
+                1.51756416,
+                1.6861824
+              ]
+            },
+            {
+              "description": "Troop Attack vs. Seat of Power bonus when your dragon is present.",
+              "name": "Dragon: Troop Attack at a Seat of Power",
+              "progression": [
+                0.4215456,
+                0.451656,
+                0.4817664,
+                0.5118768,
+                0.5419872,
+                0.602208
+              ]
+            },
+            {
+              "description": "March Speed vs. Seat of Power bonus when your dragon is present.",
+              "name": "Dragon: Marching Speed vs. Seat of Power",
+              "progression": [
+                0.16861824,
+                0.1806624,
+                0.19270656,
+                0.20475072,
+                0.21679488,
+                0.2408832
+              ]
+            },
+            {
+              "description": "Ranged Defense in Player-to-Player combat bonus when your dragon is present.",
+              "name": "Dragon: Ranged Defense vs. Player",
+              "progression": [
+                0.50585472,
+                0.5419872,
+                0.57811968,
+                0.61425216,
+                0.65038464,
+                0.7226496
+              ]
+            },
+            {
+              "description": "Dragon Ranged Health vs. a Player while in combat with another player at a Seat of Power",
+              "name": "Dragon Ranged Health vs. Player at a Seat Of Power",
+              "progression": [
+                0.50585472,
+                0.5419872,
+                0.57811968,
+                0.61425216,
+                0.65038464,
+                0.7226496
+              ]
+            }
+          ]
+        },
+        {
+          "level": 45,
+          "name": "Tidebreaker's Chanfron (L45)",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                1.30987584,
+                1.4034384,
+                1.49700096,
+                1.59056352,
+                1.68412608,
+                1.8712512
+              ]
+            },
+            {
+              "description": "Troop Attack vs. Seat of Power bonus when your dragon is present.",
+              "name": "Dragon: Troop Attack at a Seat of Power",
+              "progression": [
+                0.4678128,
+                0.501228,
+                0.5346432,
+                0.5680584,
+                0.6014736,
+                0.668304
+              ]
+            },
+            {
+              "description": "March Speed vs. Seat of Power bonus when your dragon is present.",
+              "name": "Dragon: Marching Speed vs. Seat of Power",
+              "progression": [
+                0.18712512,
+                0.2004912,
+                0.21385728,
+                0.22722336,
+                0.24058944,
+                0.2673216
+              ]
+            },
+            {
+              "description": "Ranged Defense in Player-to-Player combat bonus when your dragon is present.",
+              "name": "Dragon: Ranged Defense vs. Player",
+              "progression": [
+                0.56137536,
+                0.6014736,
+                0.64157184,
+                0.68167008,
+                0.72176832,
+                0.8019648
+              ]
+            },
+            {
+              "description": "Dragon Ranged Health vs. a Player while in combat with another player at a Seat of Power",
+              "name": "Dragon Ranged Health vs. Player at a Seat Of Power",
+              "progression": [
+                0.56137536,
+                0.6014736,
+                0.64157184,
+                0.68167008,
+                0.72176832,
+                0.8019648
+              ]
+            }
+          ]
+        },
+        {
+          "level": 50,
+          "name": "Tidebreaker's Chanfron (L50)",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                1.439424,
+                1.54224,
+                1.645056,
+                1.747872,
+                1.850688,
+                2.05632
+              ]
+            },
+            {
+              "description": "Troop Attack vs. Seat of Power bonus when your dragon is present.",
+              "name": "Dragon: Troop Attack at a Seat of Power",
+              "progression": [
+                0.51408,
+                0.5508,
+                0.58752,
+                0.62424,
+                0.66096,
+                0.7344
+              ]
+            },
+            {
+              "description": "March Speed vs. Seat of Power bonus when your dragon is present.",
+              "name": "Dragon: Marching Speed vs. Seat of Power",
+              "progression": [
+                0.205632,
+                0.22032,
+                0.235008,
+                0.249696,
+                0.264384,
+                0.29376
+              ]
+            },
+            {
+              "description": "Ranged Defense in Player-to-Player combat bonus when your dragon is present.",
+              "name": "Dragon: Ranged Defense vs. Player",
+              "progression": [
+                0.616896,
+                0.66096,
+                0.705024,
+                0.749088,
+                0.793152,
+                0.88128
+              ]
+            },
+            {
+              "description": "Dragon Ranged Health vs. a Player while in combat with another player at a Seat of Power",
+              "name": "Dragon Ranged Health vs. Player at a Seat Of Power",
+              "progression": [
+                0.616896,
+                0.66096,
+                0.705024,
+                0.749088,
+                0.793152,
+                0.88128
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "color": "#86ad63",
     "description": "n:",
-    "id": "5df4c1299c11d12c",
-    "name": "n:tidebreaker"
+    "id": "eb856c0a8586ad63",
+    "name": "n:tidebreaker",
+    "peytral": {
+      "gear_with_level": [
+        {
+          "level": 5,
+          "name": "Tidebreaker's Peytral (L5)",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                0.27349056,
+                0.2930256,
+                0.31256064,
+                0.33209568,
+                0.35163072,
+                0.390700800000001
+              ]
+            },
+            {
+              "description": "Troop Attack vs. Seat of Power bonus when your dragon is present.",
+              "name": "Dragon: Troop Attack at a Seat of Power",
+              "progression": [
+                0.0976752000000001,
+                0.104652,
+                0.1116288,
+                0.1186056,
+                0.1255824,
+                0.139536
+              ]
+            },
+            {
+              "description": "March Speed vs. Seat of Power bonus when your dragon is present.",
+              "name": "Dragon: Marching Speed vs. Seat of Power",
+              "progression": [
+                0.0390700800000001,
+                0.0418608000000001,
+                0.0446515200000001,
+                0.0474422400000001,
+                0.0502329600000001,
+                0.0558144000000001
+              ]
+            }
+          ]
+        },
+        {
+          "level": 10,
+          "name": "Tidebreaker's Peytral (L10)",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                0.40303872,
+                0.4318272,
+                0.46061568,
+                0.48940416,
+                0.518192640000001,
+                0.575769600000001
+              ]
+            },
+            {
+              "description": "Troop Attack vs. Seat of Power bonus when your dragon is present.",
+              "name": "Dragon: Troop Attack at a Seat of Power",
+              "progression": [
+                0.1439424,
+                0.154224,
+                0.1645056,
+                0.1747872,
+                0.1850688,
+                0.205632
+              ]
+            },
+            {
+              "description": "March Speed vs. Seat of Power bonus when your dragon is present.",
+              "name": "Dragon: Marching Speed vs. Seat of Power",
+              "progression": [
+                0.0575769600000001,
+                0.0616896000000001,
+                0.0658022400000001,
+                0.0699148800000001,
+                0.0740275200000001,
+                0.0822528000000001
+              ]
+            }
+          ]
+        },
+        {
+          "level": 15,
+          "name": "Tidebreaker's Peytral (L15)",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                0.53258688,
+                0.5706288,
+                0.60867072,
+                0.64671264,
+                0.68475456,
+                0.7608384
+              ]
+            },
+            {
+              "description": "Troop Attack vs. Seat of Power bonus when your dragon is present.",
+              "name": "Dragon: Troop Attack at a Seat of Power",
+              "progression": [
+                0.1902096,
+                0.203796,
+                0.2173824,
+                0.2309688,
+                0.2445552,
+                0.271728
+              ]
+            },
+            {
+              "description": "March Speed vs. Seat of Power bonus when your dragon is present.",
+              "name": "Dragon: Marching Speed vs. Seat of Power",
+              "progression": [
+                0.0760838400000001,
+                0.0815184,
+                0.0869529600000001,
+                0.0923875200000001,
+                0.0978220800000001,
+                0.1086912
+              ]
+            }
+          ]
+        },
+        {
+          "level": 20,
+          "name": "Tidebreaker's Peytral (L20)",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                0.66213504,
+                0.7094304,
+                0.75672576,
+                0.80402112,
+                0.85131648,
+                0.9459072
+              ]
+            },
+            {
+              "description": "Troop Attack vs. Seat of Power bonus when your dragon is present.",
+              "name": "Dragon: Troop Attack at a Seat of Power",
+              "progression": [
+                0.2364768,
+                0.253368,
+                0.2702592,
+                0.2871504,
+                0.3040416,
+                0.337824
+              ]
+            },
+            {
+              "description": "March Speed vs. Seat of Power bonus when your dragon is present.",
+              "name": "Dragon: Marching Speed vs. Seat of Power",
+              "progression": [
+                0.09459072,
+                0.1013472,
+                0.10810368,
+                0.11486016,
+                0.12161664,
+                0.1351296
+              ]
+            },
+            {
+              "description": "Infantry Defense in Player-to-Player combat bonus when your dragon is present.",
+              "name": "Dragon: Infantry Defense vs. Player",
+              "progression": [
+                0.28377216,
+                0.3040416,
+                0.32431104,
+                0.34458048,
+                0.36484992,
+                0.4053888
+              ]
+            }
+          ]
+        },
+        {
+          "level": 25,
+          "name": "Tidebreaker's Peytral (L25)",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                0.7916832,
+                0.848232,
+                0.9047808,
+                0.9613296,
+                1.0178784,
+                1.130976
+              ]
+            },
+            {
+              "description": "Troop Attack vs. Seat of Power bonus when your dragon is present.",
+              "name": "Dragon: Troop Attack at a Seat of Power",
+              "progression": [
+                0.282744,
+                0.30294,
+                0.323136,
+                0.343332,
+                0.363528,
+                0.40392
+              ]
+            },
+            {
+              "description": "March Speed vs. Seat of Power bonus when your dragon is present.",
+              "name": "Dragon: Marching Speed vs. Seat of Power",
+              "progression": [
+                0.1130976,
+                0.121176,
+                0.1292544,
+                0.1373328,
+                0.1454112,
+                0.161568
+              ]
+            },
+            {
+              "description": "Infantry Defense in Player-to-Player combat bonus when your dragon is present.",
+              "name": "Dragon: Infantry Defense vs. Player",
+              "progression": [
+                0.3392928,
+                0.363528,
+                0.3877632,
+                0.4119984,
+                0.4362336,
+                0.484704
+              ]
+            }
+          ]
+        },
+        {
+          "level": 30,
+          "name": "Tidebreaker's Peytral (L30)",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                0.92123136,
+                0.9870336,
+                1.05283584,
+                1.11863808,
+                1.18444032,
+                1.3160448
+              ]
+            },
+            {
+              "description": "Troop Attack vs. Seat of Power bonus when your dragon is present.",
+              "name": "Dragon: Troop Attack at a Seat of Power",
+              "progression": [
+                0.3290112,
+                0.352512,
+                0.3760128,
+                0.3995136,
+                0.4230144,
+                0.470016
+              ]
+            },
+            {
+              "description": "March Speed vs. Seat of Power bonus when your dragon is present.",
+              "name": "Dragon: Marching Speed vs. Seat of Power",
+              "progression": [
+                0.13160448,
+                0.1410048,
+                0.15040512,
+                0.15980544,
+                0.16920576,
+                0.1880064
+              ]
+            },
+            {
+              "description": "Infantry Defense in Player-to-Player combat bonus when your dragon is present.",
+              "name": "Dragon: Infantry Defense vs. Player",
+              "progression": [
+                0.39481344,
+                0.4230144,
+                0.45121536,
+                0.47941632,
+                0.50761728,
+                0.5640192
+              ]
+            }
+          ]
+        },
+        {
+          "level": 35,
+          "name": "Tidebreaker's Peytral (L35)",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                1.05077952,
+                1.1258352,
+                1.20089088,
+                1.27594656,
+                1.35100224,
+                1.5011136
+              ]
+            },
+            {
+              "description": "Troop Attack vs. Seat of Power bonus when your dragon is present.",
+              "name": "Dragon: Troop Attack at a Seat of Power",
+              "progression": [
+                0.3752784,
+                0.402084,
+                0.4288896,
+                0.4556952,
+                0.4825008,
+                0.536112
+              ]
+            },
+            {
+              "description": "March Speed vs. Seat of Power bonus when your dragon is present.",
+              "name": "Dragon: Marching Speed vs. Seat of Power",
+              "progression": [
+                0.15011136,
+                0.1608336,
+                0.17155584,
+                0.18227808,
+                0.19300032,
+                0.2144448
+              ]
+            },
+            {
+              "description": "Infantry Defense in Player-to-Player combat bonus when your dragon is present.",
+              "name": "Dragon: Infantry Defense vs. Player",
+              "progression": [
+                0.45033408,
+                0.4825008,
+                0.51466752,
+                0.54683424,
+                0.57900096,
+                0.6433344
+              ]
+            }
+          ]
+        },
+        {
+          "level": 40,
+          "name": "Tidebreaker's Peytral (L40)",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                1.18032768,
+                1.2646368,
+                1.34894592,
+                1.43325504,
+                1.51756416,
+                1.6861824
+              ]
+            },
+            {
+              "description": "Troop Attack vs. Seat of Power bonus when your dragon is present.",
+              "name": "Dragon: Troop Attack at a Seat of Power",
+              "progression": [
+                0.4215456,
+                0.451656,
+                0.4817664,
+                0.5118768,
+                0.5419872,
+                0.602208
+              ]
+            },
+            {
+              "description": "March Speed vs. Seat of Power bonus when your dragon is present.",
+              "name": "Dragon: Marching Speed vs. Seat of Power",
+              "progression": [
+                0.16861824,
+                0.1806624,
+                0.19270656,
+                0.20475072,
+                0.21679488,
+                0.2408832
+              ]
+            },
+            {
+              "description": "Infantry Defense in Player-to-Player combat bonus when your dragon is present.",
+              "name": "Dragon: Infantry Defense vs. Player",
+              "progression": [
+                0.50585472,
+                0.5419872,
+                0.57811968,
+                0.61425216,
+                0.65038464,
+                0.7226496
+              ]
+            },
+            {
+              "description": "Dragon Infantry Health vs. a Player while in combat with another player at a Seat of Power",
+              "name": "Dragon Infantry Health vs. Player at a Seat Of Power",
+              "progression": [
+                0.50585472,
+                0.5419872,
+                0.57811968,
+                0.61425216,
+                0.65038464,
+                0.7226496
+              ]
+            }
+          ]
+        },
+        {
+          "level": 45,
+          "name": "Tidebreaker's Peytral (L45)",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                1.30987584,
+                1.4034384,
+                1.49700096,
+                1.59056352,
+                1.68412608,
+                1.8712512
+              ]
+            },
+            {
+              "description": "Troop Attack vs. Seat of Power bonus when your dragon is present.",
+              "name": "Dragon: Troop Attack at a Seat of Power",
+              "progression": [
+                0.4678128,
+                0.501228,
+                0.5346432,
+                0.5680584,
+                0.6014736,
+                0.668304
+              ]
+            },
+            {
+              "description": "March Speed vs. Seat of Power bonus when your dragon is present.",
+              "name": "Dragon: Marching Speed vs. Seat of Power",
+              "progression": [
+                0.18712512,
+                0.2004912,
+                0.21385728,
+                0.22722336,
+                0.24058944,
+                0.2673216
+              ]
+            },
+            {
+              "description": "Infantry Defense in Player-to-Player combat bonus when your dragon is present.",
+              "name": "Dragon: Infantry Defense vs. Player",
+              "progression": [
+                0.56137536,
+                0.6014736,
+                0.64157184,
+                0.68167008,
+                0.72176832,
+                0.8019648
+              ]
+            },
+            {
+              "description": "Dragon Infantry Health vs. a Player while in combat with another player at a Seat of Power",
+              "name": "Dragon Infantry Health vs. Player at a Seat Of Power",
+              "progression": [
+                0.56137536,
+                0.6014736,
+                0.64157184,
+                0.68167008,
+                0.72176832,
+                0.8019648
+              ]
+            }
+          ]
+        },
+        {
+          "level": 50,
+          "name": "Tidebreaker's Peytral (L50)",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                1.439424,
+                1.54224,
+                1.645056,
+                1.747872,
+                1.850688,
+                2.05632
+              ]
+            },
+            {
+              "description": "Troop Attack vs. Seat of Power bonus when your dragon is present.",
+              "name": "Dragon: Troop Attack at a Seat of Power",
+              "progression": [
+                0.51408,
+                0.5508,
+                0.58752,
+                0.62424,
+                0.66096,
+                0.7344
+              ]
+            },
+            {
+              "description": "March Speed vs. Seat of Power bonus when your dragon is present.",
+              "name": "Dragon: Marching Speed vs. Seat of Power",
+              "progression": [
+                0.205632,
+                0.22032,
+                0.235008,
+                0.249696,
+                0.264384,
+                0.29376
+              ]
+            },
+            {
+              "description": "Infantry Defense in Player-to-Player combat bonus when your dragon is present.",
+              "name": "Dragon: Infantry Defense vs. Player",
+              "progression": [
+                0.616896,
+                0.66096,
+                0.705024,
+                0.749088,
+                0.793152,
+                0.88128
+              ]
+            },
+            {
+              "description": "Dragon Infantry Health vs. a Player while in combat with another player at a Seat of Power",
+              "name": "Dragon Infantry Health vs. Player at a Seat Of Power",
+              "progression": [
+                0.616896,
+                0.66096,
+                0.705024,
+                0.749088,
+                0.793152,
+                0.88128
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "saddle": {
+      "gear_with_level": [
+        {
+          "level": 5,
+          "name": "Tidebreaker's Saddle (L5)",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                0.27349056,
+                0.2930256,
+                0.31256064,
+                0.33209568,
+                0.35163072,
+                0.390700800000001
+              ]
+            },
+            {
+              "description": "Troop Attack vs. Seat of Power bonus when your dragon is present.",
+              "name": "Dragon: Troop Attack at a Seat of Power",
+              "progression": [
+                0.0976752000000001,
+                0.104652,
+                0.1116288,
+                0.1186056,
+                0.1255824,
+                0.139536
+              ]
+            },
+            {
+              "description": "March Speed vs. Seat of Power bonus when your dragon is present.",
+              "name": "Dragon: Marching Speed vs. Seat of Power",
+              "progression": [
+                0.0390700800000001,
+                0.0418608000000001,
+                0.0446515200000001,
+                0.0474422400000001,
+                0.0502329600000001,
+                0.0558144000000001
+              ]
+            }
+          ]
+        },
+        {
+          "level": 10,
+          "name": "Tidebreaker's Saddle (L10)",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                0.40303872,
+                0.4318272,
+                0.46061568,
+                0.48940416,
+                0.518192640000001,
+                0.575769600000001
+              ]
+            },
+            {
+              "description": "Troop Attack vs. Seat of Power bonus when your dragon is present.",
+              "name": "Dragon: Troop Attack at a Seat of Power",
+              "progression": [
+                0.1439424,
+                0.154224,
+                0.1645056,
+                0.1747872,
+                0.1850688,
+                0.205632
+              ]
+            },
+            {
+              "description": "March Speed vs. Seat of Power bonus when your dragon is present.",
+              "name": "Dragon: Marching Speed vs. Seat of Power",
+              "progression": [
+                0.0575769600000001,
+                0.0616896000000001,
+                0.0658022400000001,
+                0.0699148800000001,
+                0.0740275200000001,
+                0.0822528000000001
+              ]
+            }
+          ]
+        },
+        {
+          "level": 15,
+          "name": "Tidebreaker's Saddle (L15)",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                0.53258688,
+                0.5706288,
+                0.60867072,
+                0.64671264,
+                0.68475456,
+                0.7608384
+              ]
+            },
+            {
+              "description": "Troop Attack vs. Seat of Power bonus when your dragon is present.",
+              "name": "Dragon: Troop Attack at a Seat of Power",
+              "progression": [
+                0.1902096,
+                0.203796,
+                0.2173824,
+                0.2309688,
+                0.2445552,
+                0.271728
+              ]
+            },
+            {
+              "description": "March Speed vs. Seat of Power bonus when your dragon is present.",
+              "name": "Dragon: Marching Speed vs. Seat of Power",
+              "progression": [
+                0.0760838400000001,
+                0.0815184,
+                0.0869529600000001,
+                0.0923875200000001,
+                0.0978220800000001,
+                0.1086912
+              ]
+            }
+          ]
+        },
+        {
+          "level": 20,
+          "name": "Tidebreaker's Saddle (L20)",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                0.66213504,
+                0.7094304,
+                0.75672576,
+                0.80402112,
+                0.85131648,
+                0.9459072
+              ]
+            },
+            {
+              "description": "Troop Attack vs. Seat of Power bonus when your dragon is present.",
+              "name": "Dragon: Troop Attack at a Seat of Power",
+              "progression": [
+                0.2364768,
+                0.253368,
+                0.2702592,
+                0.2871504,
+                0.3040416,
+                0.337824
+              ]
+            },
+            {
+              "description": "March Speed vs. Seat of Power bonus when your dragon is present.",
+              "name": "Dragon: Marching Speed vs. Seat of Power",
+              "progression": [
+                0.09459072,
+                0.1013472,
+                0.10810368,
+                0.11486016,
+                0.12161664,
+                0.1351296
+              ]
+            },
+            {
+              "description": "Cavalry Defense in Player-to-Player combat bonus when your dragon is present.",
+              "name": "Dragon: Cavalry Defense vs. Player",
+              "progression": [
+                0.28377216,
+                0.3040416,
+                0.32431104,
+                0.34458048,
+                0.36484992,
+                0.4053888
+              ]
+            }
+          ]
+        },
+        {
+          "level": 25,
+          "name": "Tidebreaker's Saddle (L25)",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                0.7916832,
+                0.848232,
+                0.9047808,
+                0.9613296,
+                1.0178784,
+                1.130976
+              ]
+            },
+            {
+              "description": "Troop Attack vs. Seat of Power bonus when your dragon is present.",
+              "name": "Dragon: Troop Attack at a Seat of Power",
+              "progression": [
+                0.282744,
+                0.30294,
+                0.323136,
+                0.343332,
+                0.363528,
+                0.40392
+              ]
+            },
+            {
+              "description": "March Speed vs. Seat of Power bonus when your dragon is present.",
+              "name": "Dragon: Marching Speed vs. Seat of Power",
+              "progression": [
+                0.1130976,
+                0.121176,
+                0.1292544,
+                0.1373328,
+                0.1454112,
+                0.161568
+              ]
+            },
+            {
+              "description": "Cavalry Defense in Player-to-Player combat bonus when your dragon is present.",
+              "name": "Dragon: Cavalry Defense vs. Player",
+              "progression": [
+                0.3392928,
+                0.363528,
+                0.3877632,
+                0.4119984,
+                0.4362336,
+                0.484704
+              ]
+            }
+          ]
+        },
+        {
+          "level": 30,
+          "name": "Tidebreaker's Saddle (L30)",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                0.92123136,
+                0.9870336,
+                1.05283584,
+                1.11863808,
+                1.18444032,
+                1.3160448
+              ]
+            },
+            {
+              "description": "Troop Attack vs. Seat of Power bonus when your dragon is present.",
+              "name": "Dragon: Troop Attack at a Seat of Power",
+              "progression": [
+                0.3290112,
+                0.352512,
+                0.3760128,
+                0.3995136,
+                0.4230144,
+                0.470016
+              ]
+            },
+            {
+              "description": "March Speed vs. Seat of Power bonus when your dragon is present.",
+              "name": "Dragon: Marching Speed vs. Seat of Power",
+              "progression": [
+                0.13160448,
+                0.1410048,
+                0.15040512,
+                0.15980544,
+                0.16920576,
+                0.1880064
+              ]
+            },
+            {
+              "description": "Cavalry Defense in Player-to-Player combat bonus when your dragon is present.",
+              "name": "Dragon: Cavalry Defense vs. Player",
+              "progression": [
+                0.39481344,
+                0.4230144,
+                0.45121536,
+                0.47941632,
+                0.50761728,
+                0.5640192
+              ]
+            }
+          ]
+        },
+        {
+          "level": 35,
+          "name": "Tidebreaker's Saddle (L35)",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                1.05077952,
+                1.1258352,
+                1.20089088,
+                1.27594656,
+                1.35100224,
+                1.5011136
+              ]
+            },
+            {
+              "description": "Troop Attack vs. Seat of Power bonus when your dragon is present.",
+              "name": "Dragon: Troop Attack at a Seat of Power",
+              "progression": [
+                0.3752784,
+                0.402084,
+                0.4288896,
+                0.4556952,
+                0.4825008,
+                0.536112
+              ]
+            },
+            {
+              "description": "March Speed vs. Seat of Power bonus when your dragon is present.",
+              "name": "Dragon: Marching Speed vs. Seat of Power",
+              "progression": [
+                0.15011136,
+                0.1608336,
+                0.17155584,
+                0.18227808,
+                0.19300032,
+                0.2144448
+              ]
+            },
+            {
+              "description": "Cavalry Defense in Player-to-Player combat bonus when your dragon is present.",
+              "name": "Dragon: Cavalry Defense vs. Player",
+              "progression": [
+                0.45033408,
+                0.4825008,
+                0.51466752,
+                0.54683424,
+                0.57900096,
+                0.6433344
+              ]
+            }
+          ]
+        },
+        {
+          "level": 40,
+          "name": "Tidebreaker's Saddle (L40)",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                1.18032768,
+                1.2646368,
+                1.34894592,
+                1.43325504,
+                1.51756416,
+                1.6861824
+              ]
+            },
+            {
+              "description": "Troop Attack vs. Seat of Power bonus when your dragon is present.",
+              "name": "Dragon: Troop Attack at a Seat of Power",
+              "progression": [
+                0.4215456,
+                0.451656,
+                0.4817664,
+                0.5118768,
+                0.5419872,
+                0.602208
+              ]
+            },
+            {
+              "description": "March Speed vs. Seat of Power bonus when your dragon is present.",
+              "name": "Dragon: Marching Speed vs. Seat of Power",
+              "progression": [
+                0.16861824,
+                0.1806624,
+                0.19270656,
+                0.20475072,
+                0.21679488,
+                0.2408832
+              ]
+            },
+            {
+              "description": "Cavalry Defense in Player-to-Player combat bonus when your dragon is present.",
+              "name": "Dragon: Cavalry Defense vs. Player",
+              "progression": [
+                0.50585472,
+                0.5419872,
+                0.57811968,
+                0.61425216,
+                0.65038464,
+                0.7226496
+              ]
+            },
+            {
+              "description": "Dragon Cavalry Health vs. a Player while in combat with another player at a Seat of Power",
+              "name": "Dragon Cavalry Health vs. Player at a Seat Of Power",
+              "progression": [
+                0.50585472,
+                0.5419872,
+                0.57811968,
+                0.61425216,
+                0.65038464,
+                0.7226496
+              ]
+            }
+          ]
+        },
+        {
+          "level": 45,
+          "name": "Tidebreaker's Saddle (L45)",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                1.30987584,
+                1.4034384,
+                1.49700096,
+                1.59056352,
+                1.68412608,
+                1.8712512
+              ]
+            },
+            {
+              "description": "Troop Attack vs. Seat of Power bonus when your dragon is present.",
+              "name": "Dragon: Troop Attack at a Seat of Power",
+              "progression": [
+                0.4678128,
+                0.501228,
+                0.5346432,
+                0.5680584,
+                0.6014736,
+                0.668304
+              ]
+            },
+            {
+              "description": "March Speed vs. Seat of Power bonus when your dragon is present.",
+              "name": "Dragon: Marching Speed vs. Seat of Power",
+              "progression": [
+                0.18712512,
+                0.2004912,
+                0.21385728,
+                0.22722336,
+                0.24058944,
+                0.2673216
+              ]
+            },
+            {
+              "description": "Cavalry Defense in Player-to-Player combat bonus when your dragon is present.",
+              "name": "Dragon: Cavalry Defense vs. Player",
+              "progression": [
+                0.56137536,
+                0.6014736,
+                0.64157184,
+                0.68167008,
+                0.72176832,
+                0.8019648
+              ]
+            },
+            {
+              "description": "Dragon Cavalry Health vs. a Player while in combat with another player at a Seat of Power",
+              "name": "Dragon Cavalry Health vs. Player at a Seat Of Power",
+              "progression": [
+                0.56137536,
+                0.6014736,
+                0.64157184,
+                0.68167008,
+                0.72176832,
+                0.8019648
+              ]
+            }
+          ]
+        },
+        {
+          "level": 50,
+          "name": "Tidebreaker's Saddle (L50)",
+          "stats": [
+            {
+              "description": "Increases the attack of your dragon against enemy troops.",
+              "name": "Dragon Attack",
+              "progression": [
+                1.439424,
+                1.54224,
+                1.645056,
+                1.747872,
+                1.850688,
+                2.05632
+              ]
+            },
+            {
+              "description": "Troop Attack vs. Seat of Power bonus when your dragon is present.",
+              "name": "Dragon: Troop Attack at a Seat of Power",
+              "progression": [
+                0.51408,
+                0.5508,
+                0.58752,
+                0.62424,
+                0.66096,
+                0.7344
+              ]
+            },
+            {
+              "description": "March Speed vs. Seat of Power bonus when your dragon is present.",
+              "name": "Dragon: Marching Speed vs. Seat of Power",
+              "progression": [
+                0.205632,
+                0.22032,
+                0.235008,
+                0.249696,
+                0.264384,
+                0.29376
+              ]
+            },
+            {
+              "description": "Cavalry Defense in Player-to-Player combat bonus when your dragon is present.",
+              "name": "Dragon: Cavalry Defense vs. Player",
+              "progression": [
+                0.616896,
+                0.66096,
+                0.705024,
+                0.749088,
+                0.793152,
+                0.88128
+              ]
+            },
+            {
+              "description": "Dragon Cavalry Health vs. a Player while in combat with another player at a Seat of Power",
+              "name": "Dragon Cavalry Health vs. Player at a Seat Of Power",
+              "progression": [
+                0.616896,
+                0.66096,
+                0.705024,
+                0.749088,
+                0.793152,
+                0.88128
+              ]
+            }
+          ]
+        }
+      ]
+    }
   }
 ]

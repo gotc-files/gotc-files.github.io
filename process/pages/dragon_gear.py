@@ -38,10 +38,10 @@ class DragonGearProcessor(PageProcessor):
                     "color": "#" + id[-6:],
                 }
                 for piece_name in PIECE_NAMES:
-                    dragon_gear_sets_dict[piece_name] = {
+                    dragon_gear_sets_dict[gear_set_name][piece_name] = {
                         "gear_with_level": []
                     }
-            dragon_gear_sets_dict[gear_piece_name]["gear_with_level"].append(self._process_gear_with_level(gear_name))
+            dragon_gear_sets_dict[gear_set_name][gear_piece_name]["gear_with_level"].append(self._process_gear_with_level(gear_name))
 
         return list(dragon_gear_sets_dict.values())
 
