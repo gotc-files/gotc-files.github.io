@@ -4680,6 +4680,126 @@
       "skill_type": "COUNCIL",
       "stat_name": "property_MarcherCavalryAttackVsPlayer_hero",
       "unlock_level": 0
+    },
+    {
+      "id": "45cbe1ca2da26220",
+      "name": "heroskill_visgen_hero_meerareed_thegreenseerssentinel_3",
+      "skill_type": "MARCH",
+      "star_skill_value": 0.282744020223618,
+      "stat_name": "driven_MarcherRangedAttackVsPlayer",
+      "unlock_level": 10
+    },
+    {
+      "id": "831e93bb291ad7c6",
+      "name": "heroskill_visgen_hero_meerareed_thegreenseerssentinel_4",
+      "skill_type": "COUNCIL",
+      "star_skill_value": 0.35495999455452,
+      "stat_name": "property_RangedHealthVsPlayerSeatOfPower_hero",
+      "unlock_level": 20
+    },
+    {
+      "id": "afef581d9e49863c",
+      "name": "heroskill_visgen_hero_meerareed_thegreenseerssentinel_5",
+      "skill_type": "MARCH",
+      "star_skill_value": 0.425951987504959,
+      "stat_name": "driven_RangedHealthVsPlayerSeatOfPower",
+      "unlock_level": 30
+    },
+    {
+      "id": "dafd04f647bc7432",
+      "name": "heroskill_visgen_hero_meerareed_thegreenseerssentinel_6",
+      "skill_type": "COUNCIL",
+      "star_skill_value": 0.458999991416931,
+      "stat_name": "property_RangedAttackVsPlayersInfantry_hero",
+      "unlock_level": 40
+    },
+    {
+      "id": "f60ccf50f0ef25c8",
+      "name": "heroskill_visgen_hero_meerareed_thegreenseerssentinel_7",
+      "skill_type": "MARCH",
+      "star_skill_value": 0.484703987836838,
+      "stat_name": "driven_RangedDefenseVsPlayer",
+      "unlock_level": 50
+    },
+    {
+      "id": "d5eda261076250d5",
+      "name": "heroskill_visgen_hero_meerareed_thegreenseerssentinel_8",
+      "skill_type": "COUNCIL",
+      "star_skill_value": 0.52020001411438,
+      "stat_name": "property_RangedDefenseVsPlayerSeatOfPower_hero",
+      "unlock_level": 60
+    },
+    {
+      "id": "1c2876874304c1d4",
+      "name": "heroskill_visgen_hero_meerareed_thegreenseerssentinel_1",
+      "signature_skill_progression_name": "heropropertyprog_visgen_hero_meerareed_thegreenseerssentinel_1",
+      "skill_type": "MARCH",
+      "stat_name": "driven_MaxMarchSize",
+      "unlock_level": 0
+    },
+    {
+      "id": "693a2a6c9af133da",
+      "name": "heroskill_visgen_hero_meerareed_thegreenseerssentinel_2",
+      "signature_skill_progression_name": "heropropertyprog_visgen_hero_meerareed_thegreenseerssentinel_2",
+      "skill_type": "COUNCIL",
+      "stat_name": "property_RangedDefenseVsPlayer_hero",
+      "unlock_level": 0
+    },
+    {
+      "id": "8b37f790dcca5229",
+      "name": "heroskill_visgen_hero_jojenreed_greenseer_3",
+      "skill_type": "COUNCIL",
+      "star_skill_value": 5875.2001953125,
+      "stat_name": "property_WoundedCapacity_hero",
+      "unlock_level": 10
+    },
+    {
+      "id": "4de285e1d872e7cf",
+      "name": "heroskill_visgen_hero_jojenreed_greenseer_4",
+      "skill_type": "COUNCIL",
+      "star_skill_value": 0.269280016422272,
+      "stat_name": "property_TroopHealthVsPlayer_hero",
+      "unlock_level": 20
+    },
+    {
+      "id": "61134e476f21b635",
+      "name": "heroskill_visgen_hero_jojenreed_greenseer_5",
+      "skill_type": "COUNCIL",
+      "star_skill_value": 0.357407987117767,
+      "stat_name": "property_MarchingSpeedReinforce_hero",
+      "unlock_level": 30
+    },
+    {
+      "id": "140112acb6d4443b",
+      "name": "heroskill_visgen_hero_jojenreed_greenseer_6",
+      "skill_type": "COUNCIL",
+      "star_skill_value": 0.352512001991272,
+      "stat_name": "property_DragonTroopHealth_hero",
+      "unlock_level": 40
+    },
+    {
+      "id": "38f0d90a018715c1",
+      "name": "heroskill_visgen_hero_jojenreed_greenseer_7",
+      "skill_type": "COUNCIL",
+      "star_skill_value": 0.421056002378464,
+      "stat_name": "property_TroopDefenseVsSeatOfPower_hero",
+      "unlock_level": 50
+    },
+    {
+      "id": "d2d460ddb26cf1dd",
+      "name": "heroskill_visgen_hero_jojenreed_greenseer_1",
+      "signature_skill_progression_name": "heropropertyprog_visgen_hero_jojenreed_greenseer_1",
+      "skill_type": "MARCH",
+      "stat_name": "driven_MaxMarchSize",
+      "unlock_level": 0
+    },
+    {
+      "id": "a7c63c366b9903d3",
+      "name": "heroskill_visgen_hero_jojenreed_greenseer_2",
+      "signature_skill_progression_name": "heropropertyprog_visgen_hero_jojenreed_greenseer_2",
+      "skill_type": "COUNCIL",
+      "stat_name": "property_TroopDefense_hero",
+      "unlock_level": 0
     }
   ]
 }

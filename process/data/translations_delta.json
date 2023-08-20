@@ -2,12 +2,732 @@
   "description": "Translations for a specific language",
   "values": [
     {
+      "name": "ACTIVITY_DESCRIPTION_ARYA_CRAFT_1",
+      "value": "In King's Landing, Arya found new opportunities to learn and grow. Her father, Ned, relented and hired a Braavosi Water Dancer to teach her to properly wield her new sword, Needle. But that idyllic life would not last, and the ties that bound her to her family were severed with one swing of an executioner's sword.\n\nCraft any event gear to earn points! Northern Leathers materials for the Faceless Wolf gear set are available in other Arya Stark events. \nPart of the 'Arya Stark' Event"
+    },
+    {
+      "name": "ACTIVITY_DESCRIPTION_ARYA_CRAFT_2",
+      "value": "Alone, and with nothing but a coin, a promise, and a list, Arya traveled to Braavos to seek out Jaqen H'ghar and learn the ways of the Faceless Men. Yet to become Faceless, she must first become no one, abandon all that she loved, and everything that made her Arya Stark. Revenge drove her onwards, how could she continue if she must lose that too?\n\nCraft any Trinket to earn points! Earn materials for the Faceless Coin Trinket by defeating creatures in the Alone No Longer event. \nPart of the 'Arya Stark' Event"
+    },
+    {
+      "name": "ACTIVITY_DESCRIPTION_ARYA_PVE_1",
+      "value": "Despite escaping Kings Landing, Arya would fall into the clutches of the Lannisters. If not for her cunning, resourcefulness, and the intervention of Jaqen H'ghar, she might not have survived the trials at Harrenhal. She escaped for a time, until the hound came upon her. He captured her, intending to ransom her to her family. Yet they arrived too late to the bloody aftermath of the Red Wedding.\n\nDefeat Lannister Bannermen to earn points! \nPart of the 'Arya Stark' Event"
+    },
+    {
+      "name": "ACTIVITY_DESCRIPTION_ARYA_PVE_2",
+      "value": "Her time among the Faceless Men gave Arya all the tools she needed to enact her revenge. Yet she knew she didn't belong here, she belonged back in Winterfell. Before she could return home, there was unfinished business she had to attend to, for House Frey still stood, and she would see to it that they were wiped out to a man. With a lighter heart and some matter of vengeance claimed, she would finally return home, to Sansa, Brann, and Jon.\n\nDefeat any non-event creature on the map to earn points! While this event is active, non-event creatures drop materials for the new Faceless Coin trinket, which can be crafted for points in the Valar Morghullis event. \nPart of the 'Arya Stark' Event"
+    },
+    {
+      "name": "ACTIVITY_DESCRIPTION_ARYA_PVE_RALLY_1",
+      "value": "The night is dark and full of terrors, and Arya is one of them. The culmination of all her hardships is here, among Winterfell she stands beside the siblings she's fought and killed for. As the Night King approaches, ready to cut down her brother, one deft maneuver of her blade shatters the Night King and his terrible army. A girl has saved her family, her home, and all of Westeros.\n\nDefeat Frey Bannermen to earn points! \nPart of the 'Arya Stark' Event"
+    },
+    {
+      "name": "ACTIVITY_DESCRIPTION_ARYA_TRADE_1",
+      "value": "Having seemingly lost the rest of her family, and being forced to travel with the Hound, Arya had learned many harsh lessons. Most are centered on how life can be hard, brutal, and short. There are many nights where Arya fell asleep with an empty stomach, and naught but thoughts of vengeance to keep her warm.\n\nBraavosi Loan trophy recipes are available while this event is active. Exchange Braavosi Loan trophies in the Recipes tab of your Inventory to earn points! \nPart of the 'Arya Stark' Event"
+    },
+    {
+      "name": "ACTIVITY_DESCRIPTION_ARYA_TRADE_2",
+      "value": "Joffrey, Jamie, Cersi, Tywin Lannister, the Hound, the Mountain, House Frey, even the Night King, all dead. With her list wiped clean, and her siblings safe, can there be a place for one such as Arya here? A blade alone cannot rebuild Kings Landing. All of her heroes traveled west to conquer the unknown, perhaps she could continue their voyage towards the setting sun...\n\nExchange Braavosi Loan trophies in the Recipes tab of your Inventory to earn points. This event's Recipes are your last chance to use Braavosi Loan trophies before they can only be exchanged for Trader's Scrip! \nPart of the 'Arya Stark' Event"
+    },
+    {
+      "name": "ACTIVITY_DESCRIPTION_ARYA_UMBRELLA_1",
+      "value": "Arya Stark was raised as a lady of Winterfell, told to be a proper girl like her sister Sansa. Yet she found that life mindnumbingly boring. All of her heroes were warrior women themselves; Visenya, Rhaenys, and Nymeria were all accomplished in their own right. She vowed to someday become like them instead, and show her family who she really could be.\n\nLook for these Featured Rewards throughout the Arya Stark event:\n* Northern Leathers are used to craft the Faceless Wolf gear set!\n* Faceless Coin Faceless Coin Molds are used to craft the Faceless Coin trinket!\n* Braavosi Loan trophies can be traded for prizes in the Recipes tab of your Inventory while the Wolf and the Hound or What's West of Westeros events are active. Remember to use all your Braavosi Loan trophies before the What's West of Westeros event ends!"
+    },
+    {
+      "name": "ACTIVITY_DESCRIPTION_LINKTEST_1",
+      "value": "Greetings! Your Kingdom has been selected for a first look at a new resource: <color=#7030a0><b>Gems</b></color>\n\nSeldom few citizens of Westeros adventure far enough east to reach the Jade Sea. However, those intrepid travelers who do can return with treasures, rare and valuable to merchants across the Seven Kingdoms!\n\n<b>Gems are a new resource that can be used to purchase packs from the Offer Store.</b> <i>Gems are currently rare to come by, but lookout for more opportunities to purchase them in the future! </i> \n\nLearn more in our Gem FAQ by tapping the button below!\n\n<a href=\"https://www.gotconquest.com/news/2022/04/25/gems-of-the-jade-sea---faq/\">Learn More</a>"
+    },
+    {
+      "name": "ACTIVITY_DESCRIPTION_MTX_ARCGEAR_204",
+      "value": "Prepare for the new Rhoynish Voyager gear set!"
+    },
+    {
+      "name": "ACTIVITY_DESCRIPTION_MTX_ARCGEAR_205",
+      "value": "Use Hardy Silks to craft this indomitable gear!"
+    },
+    {
+      "name": "ACTIVITY_DESCRIPTION_MTX_ARCGEAR_206",
+      "value": "\"Our wanderings are at an end. We have found a new home, and here we shall live and die.\""
+    },
+    {
+      "name": "ACTIVITY_DESCRIPTION_MTX_ARCGEAR_208",
+      "value": "Craft these boots and burn bright astride your dragon!"
+    },
+    {
+      "name": "ACTIVITY_DESCRIPTION_MTX_HEROES_161",
+      "value": "Level up Jaime, Arya, Cersei and Missandei!"
+    },
+    {
+      "name": "ACTIVITY_DESCRIPTION_MTX_HEROES_162",
+      "value": "Level up Missandei, Daenerys, Gregor and Jaime!"
+    },
+    {
+      "name": "ACTIVITY_DESCRIPTION_MTX_HEROES_163",
+      "value": "Level up Beric, Balon, Young Ned and Anguy!"
+    },
+    {
+      "name": "ACTIVITY_DESCRIPTION_MTX_HEROES_164",
+      "value": "Level up Hodor, Roose, Euron and Yara!"
+    },
+    {
+      "name": "ACTIVITY_DESCRIPTION_MTX_TRINKET_91",
+      "value": "Guide your dragon past the sunset with this trinket!"
+    },
+    {
+      "name": "ACTIVITY_DESCRIPTION_NYMERIA_HOLIDAY_GOLD_2",
+      "value": "Gold purchased from the Store awards points toward this event.\n\nDaily Deliveries and Rewards Passes only award points for initial gold received at the time of purchase.\n\nRewards must be collected before the promotion ends.\n\nGold purchased from the Store awards points toward this event.\n\nDaily Deliveries and Rewards Passes only award points for initial gold received at the time of purchase.\n\nRewards must be collected before the promotion ends."
+    },
+    {
       "name": "ACTIVITY_DESCRIPTION_TESTYOURMETTLE_TASK",
       "value": "Conquer your adversaries in the neutral kingdom, demonstrate your strength, and seize the well-deserved spoils."
     },
     {
+      "name": "ACTIVITY_NAME_ARYA_CRAFT_1",
+      "value": "Out of the Wolf Den..."
+    },
+    {
+      "name": "ACTIVITY_NAME_ARYA_CRAFT_2",
+      "value": "Valar Morghullis"
+    },
+    {
+      "name": "ACTIVITY_NAME_ARYA_PVE_1",
+      "value": "A List of Names..."
+    },
+    {
+      "name": "ACTIVITY_NAME_ARYA_PVE_2",
+      "value": "Alone No Longer"
+    },
+    {
+      "name": "ACTIVITY_NAME_ARYA_PVE_RALLY_1",
+      "value": "A Blade in the Dark"
+    },
+    {
+      "name": "ACTIVITY_NAME_ARYA_TRADE_1",
+      "value": "The Wolf and the Hound"
+    },
+    {
+      "name": "ACTIVITY_NAME_ARYA_TRADE_2",
+      "value": "What's West of Westeros"
+    },
+    {
+      "name": "ACTIVITY_NAME_ARYA_UMBRELLA_1",
+      "value": "Arya Stark"
+    },
+    {
+      "name": "ACTIVITY_NAME_MTX_ARCGEAR_204",
+      "value": "Rhoynish Voyager Daily Delivery"
+    },
+    {
+      "name": "ACTIVITY_NAME_MTX_ARCGEAR_205",
+      "value": "Rhoynish Voyager Materials Pack"
+    },
+    {
+      "name": "ACTIVITY_NAME_MTX_ARCGEAR_206",
+      "value": "Rhoynish Voyager's Dagger"
+    },
+    {
+      "name": "ACTIVITY_NAME_MTX_ARCGEAR_207",
+      "value": "Rhoynish Voyager's Leather Boots"
+    },
+    {
+      "name": "ACTIVITY_NAME_MTX_TRINKET_91",
+      "value": "Sextant Materials Pack"
+    },
+    {
+      "name": "ACTIVITY_SPLASH_ARYA_CRAFT_1",
+      "value": "...Into the lion's mouth."
+    },
+    {
+      "name": "ACTIVITY_SPLASH_ARYA_CRAFT_2",
+      "value": "\"A girl is no one.\""
+    },
+    {
+      "name": "ACTIVITY_SPLASH_ARYA_PVE_1",
+      "value": "...And each carries a loss."
+    },
+    {
+      "name": "ACTIVITY_SPLASH_ARYA_PVE_2",
+      "value": "\"A girl is Arya Stark of Winterfell.\""
+    },
+    {
+      "name": "ACTIVITY_SPLASH_ARYA_PVE_RALLY_1",
+      "value": "All men must die."
+    },
+    {
+      "name": "ACTIVITY_SPLASH_ARYA_TRADE_1",
+      "value": "\"I know a killer. A real killer.\""
+    },
+    {
+      "name": "ACTIVITY_SPLASH_ARYA_TRADE_2",
+      "value": "And who will sail there to find it?"
+    },
+    {
+      "name": "ACTIVITY_SPLASH_ARYA_UMBRELLA_1",
+      "value": "A girl will be someone."
+    },
+    {
+      "name": "ALB_META_POINTS",
+      "value": "Allegiance Points"
+    },
+    {
+      "name": "ALCHEMY_RECIPE_EVENT_ARYA_TROPHY_GENERIC_DESC",
+      "value": "Spend your Braavosi Loan Trophies before the event ends and this recipe disappears!"
+    },
+    {
+      "name": "BUILDING_SHRINE_MAXIMUM_REACHED",
+      "value": "You have reached your maximum daily prayers."
+    },
+    {
+      "name": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_C_FESTIVAL_ITEM_HERO_ADV_SALLADHORSAAN_PIRATELORD_1_NAME",
+      "value": "Recipe: Salladhor Saan, <i>Pirate Lord</i>, Relic."
+    },
+    {
+      "name": "DISPLAYGROUP_ALCHEMY_RECIPE_EVENT_MAT_EVENT_ARYA_1_NAME",
+      "value": "Northern Leathers"
+    },
+    {
+      "name": "EQUIPMENT_FAVORITE",
+      "value": "Favorite"
+    },
+    {
+      "name": "EQUIPMENT_FAVORITES_ONLY",
+      "value": "Favorites"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_10_BOOTS_LORD10_NAME",
+      "value": "Faceless Wolf's Leather Boots (L10)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_10_CHEST_LORD10_NAME",
+      "value": "Faceless Wolf's Cloaked Leathers (L10)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_10_HELMET_LORD10_NAME",
+      "value": "Faceless Wolf's Stolen Face (L10)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_10_PANTS_LORD10_NAME",
+      "value": "Faceless Wolf's Noble Belt (L10)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_10_RING_LORD10_NAME",
+      "value": "Faceless Wolf's Poison Ring (L10)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_10_TRINKET_LORD10_NAME",
+      "value": "Faceless Coin (L10)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_10_WEAPON_LORD10_NAME",
+      "value": "Faceless Wolf's Valyrian Steel Dagger (L10)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_15_BOOTS_LORD15_NAME",
+      "value": "Faceless Wolf's Leather Boots (L15)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_15_CHEST_LORD15_NAME",
+      "value": "Faceless Wolf's Cloaked Leathers (L15)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_15_HELMET_LORD15_NAME",
+      "value": "Faceless Wolf's Stolen Face (L15)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_15_PANTS_LORD15_NAME",
+      "value": "Faceless Wolf's Noble Belt (L15)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_15_RING_LORD15_NAME",
+      "value": "Faceless Wolf's Poison Ring (L15)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_15_TRINKET_LORD15_NAME",
+      "value": "Faceless Coin (L15)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_15_WEAPON_LORD15_NAME",
+      "value": "Faceless Wolf's Valyrian Steel Dagger (L15)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_1_TRINKET_LORD1_NAME",
+      "value": "Faceless Coin (L1)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_20_BOOTS_LORD20_NAME",
+      "value": "Faceless Wolf's Leather Boots (L20)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_20_CHEST_LORD20_NAME",
+      "value": "Faceless Wolf's Cloaked Leathers (L20)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_20_HELMET_LORD20_NAME",
+      "value": "Faceless Wolf's Stolen Face (L20)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_20_PANTS_LORD20_NAME",
+      "value": "Faceless Wolf's Noble Belt (L20)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_20_RING_LORD20_NAME",
+      "value": "Faceless Wolf's Poison Ring (L20)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_20_TRINKET_LORD20_NAME",
+      "value": "Faceless Coin (L20)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_20_WEAPON_LORD20_NAME",
+      "value": "Faceless Wolf's Valyrian Steel Dagger (L20)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_25_BOOTS_LORD25_NAME",
+      "value": "Faceless Wolf's Leather Boots (L25)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_25_CHEST_LORD25_NAME",
+      "value": "Faceless Wolf's Cloaked Leathers (L25)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_25_HELMET_LORD25_NAME",
+      "value": "Faceless Wolf's Stolen Face (L25)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_25_PANTS_LORD25_NAME",
+      "value": "Faceless Wolf's Noble Belt (L25)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_25_RING_LORD25_NAME",
+      "value": "Faceless Wolf's Poison Ring (L25)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_25_TRINKET_LORD25_NAME",
+      "value": "Faceless Coin (L25)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_25_WEAPON_LORD25_NAME",
+      "value": "Faceless Wolf's Valyrian Steel Dagger (L25)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_30_BOOTS_LORD30_NAME",
+      "value": "Faceless Wolf's Leather Boots (L30)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_30_CHEST_LORD30_NAME",
+      "value": "Faceless Wolf's Cloaked Leathers (L30)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_30_HELMET_LORD30_NAME",
+      "value": "Faceless Wolf's Stolen Face (L30)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_30_PANTS_LORD30_NAME",
+      "value": "Faceless Wolf's Noble Belt (L30)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_30_RING_LORD30_NAME",
+      "value": "Faceless Wolf's Poison Ring (L30)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_30_TRINKET_LORD30_NAME",
+      "value": "Faceless Coin (L30)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_30_WEAPON_LORD30_NAME",
+      "value": "Faceless Wolf's Valyrian Steel Dagger (L30)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_35_BOOTS_LORD35_NAME",
+      "value": "Faceless Wolf's Leather Boots (L35)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_35_CHEST_LORD35_NAME",
+      "value": "Faceless Wolf's Cloaked Leathers (L35)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_35_HELMET_LORD35_NAME",
+      "value": "Faceless Wolf's Stolen Face (L35)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_35_PANTS_LORD35_NAME",
+      "value": "Faceless Wolf's Noble Belt (L35)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_35_RING_LORD35_NAME",
+      "value": "Faceless Wolf's Poison Ring (L35)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_35_TRINKET_LORD35_NAME",
+      "value": "Faceless Coin (L35)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_35_WEAPON_LORD35_NAME",
+      "value": "Faceless Wolf's Valyrian Steel Dagger (L35)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_40_BOOTS_LORD40_NAME",
+      "value": "Faceless Wolf's Leather Boots (L40)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_40_CHEST_LORD40_NAME",
+      "value": "Faceless Wolf's Cloaked Leathers (L40)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_40_HELMET_LORD40_NAME",
+      "value": "Faceless Wolf's Stolen Face (L40)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_40_PANTS_LORD40_NAME",
+      "value": "Faceless Wolf's Noble Belt (L40)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_40_RING_LORD40_NAME",
+      "value": "Faceless Wolf's Poison Ring (L40)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_40_TRINKET_LORD40_NAME",
+      "value": "Faceless Coin (L40)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_40_WEAPON_LORD40_NAME",
+      "value": "Faceless Wolf's Valyrian Steel Dagger (L40)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_45_BOOTS_LORD45_NAME",
+      "value": "Faceless Wolf's Leather Boots (L45)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_45_CHEST_LORD45_NAME",
+      "value": "Faceless Wolf's Cloaked Leathers (L45)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_45_HELMET_LORD45_NAME",
+      "value": "Faceless Wolf's Stolen Face (L45)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_45_PANTS_LORD45_NAME",
+      "value": "Faceless Wolf's Noble Belt (L45)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_45_RING_LORD45_NAME",
+      "value": "Faceless Wolf's Poison Ring (L45)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_45_TRINKET_LORD45_NAME",
+      "value": "Faceless Coin (L45)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_45_WEAPON_LORD45_NAME",
+      "value": "Faceless Wolf's Valyrian Steel Dagger (L45)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_50_BOOTS_LORD50_NAME",
+      "value": "Faceless Wolf's Leather Boots (L50)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_50_CHEST_LORD50_NAME",
+      "value": "Faceless Wolf's Cloaked Leathers (L50)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_50_HELMET_LORD50_NAME",
+      "value": "Faceless Wolf's Stolen Face (L50)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_50_PANTS_LORD50_NAME",
+      "value": "Faceless Wolf's Noble Belt (L50)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_50_RING_LORD50_NAME",
+      "value": "Faceless Wolf's Poison Ring (L50)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_50_TRINKET_LORD50_NAME",
+      "value": "Faceless Coin (L50)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_50_WEAPON_LORD50_NAME",
+      "value": "Faceless Wolf's Valyrian Steel Dagger (L50)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_5_BOOTS_LORD5_NAME",
+      "value": "Faceless Wolf's Leather Boots (L5)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_5_CHEST_LORD5_NAME",
+      "value": "Faceless Wolf's Cloaked Leathers (L5)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_5_HELMET_LORD5_NAME",
+      "value": "Faceless Wolf's Stolen Face (L5)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_5_PANTS_LORD5_NAME",
+      "value": "Faceless Wolf's Noble Belt (L5)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_5_RING_LORD5_NAME",
+      "value": "Faceless Wolf's Poison Ring (L5)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_5_TRINKET_LORD5_NAME",
+      "value": "Faceless Coin (L5)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_5_WEAPON_LORD5_NAME",
+      "value": "Faceless Wolf's Valyrian Steel Dagger (L5)"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_SET_DESCRIPTION",
+      "value": "Rally Combat"
+    },
+    {
+      "name": "EQ_EVENTS_ARYA_SET_NAME",
+      "value": "Faceless Wolf"
+    },
+    {
+      "name": "EQ_EVENTS_DRAGONGEAR_TIDEBREAKER_10_CHANFRON_LORD10_NAME",
+      "value": "Tidebreaker's Chanfron (L10)"
+    },
+    {
+      "name": "EQ_EVENTS_DRAGONGEAR_TIDEBREAKER_10_PEYTRAL_LORD10_NAME",
+      "value": "Tidebreaker's Peytral (L10)"
+    },
+    {
+      "name": "EQ_EVENTS_DRAGONGEAR_TIDEBREAKER_10_SADDLE_LORD10_NAME",
+      "value": "Tidebreaker's Saddle (L10)"
+    },
+    {
+      "name": "EQ_EVENTS_DRAGONGEAR_TIDEBREAKER_15_CHANFRON_LORD15_NAME",
+      "value": "Tidebreaker's Chanfron (L15)"
+    },
+    {
+      "name": "EQ_EVENTS_DRAGONGEAR_TIDEBREAKER_15_PEYTRAL_LORD15_NAME",
+      "value": "Tidebreaker's Peytral (L15)"
+    },
+    {
+      "name": "EQ_EVENTS_DRAGONGEAR_TIDEBREAKER_15_SADDLE_LORD15_NAME",
+      "value": "Tidebreaker's Saddle (L15)"
+    },
+    {
+      "name": "EQ_EVENTS_DRAGONGEAR_TIDEBREAKER_20_CHANFRON_LORD20_NAME",
+      "value": "Tidebreaker's Chanfron (L20)"
+    },
+    {
+      "name": "EQ_EVENTS_DRAGONGEAR_TIDEBREAKER_20_PEYTRAL_LORD20_NAME",
+      "value": "Tidebreaker's Peytral (L20)"
+    },
+    {
+      "name": "EQ_EVENTS_DRAGONGEAR_TIDEBREAKER_20_SADDLE_LORD20_NAME",
+      "value": "Tidebreaker's Saddle (L20)"
+    },
+    {
+      "name": "EQ_EVENTS_DRAGONGEAR_TIDEBREAKER_25_CHANFRON_LORD25_NAME",
+      "value": "Tidebreaker's Chanfron (L25)"
+    },
+    {
+      "name": "EQ_EVENTS_DRAGONGEAR_TIDEBREAKER_25_PEYTRAL_LORD25_NAME",
+      "value": "Tidebreaker's Peytral (L25)"
+    },
+    {
+      "name": "EQ_EVENTS_DRAGONGEAR_TIDEBREAKER_25_SADDLE_LORD25_NAME",
+      "value": "Tidebreaker's Saddle (L25)"
+    },
+    {
+      "name": "EQ_EVENTS_DRAGONGEAR_TIDEBREAKER_30_CHANFRON_LORD30_NAME",
+      "value": "Tidebreaker's Chanfron (L30)"
+    },
+    {
+      "name": "EQ_EVENTS_DRAGONGEAR_TIDEBREAKER_30_PEYTRAL_LORD30_NAME",
+      "value": "Tidebreaker's Peytral (L30)"
+    },
+    {
+      "name": "EQ_EVENTS_DRAGONGEAR_TIDEBREAKER_30_SADDLE_LORD30_NAME",
+      "value": "Tidebreaker's Saddle (L30)"
+    },
+    {
+      "name": "EQ_EVENTS_DRAGONGEAR_TIDEBREAKER_35_CHANFRON_LORD35_NAME",
+      "value": "Tidebreaker's Chanfron (L35)"
+    },
+    {
+      "name": "EQ_EVENTS_DRAGONGEAR_TIDEBREAKER_35_PEYTRAL_LORD35_NAME",
+      "value": "Tidebreaker's Peytral (L35)"
+    },
+    {
+      "name": "EQ_EVENTS_DRAGONGEAR_TIDEBREAKER_35_SADDLE_LORD35_NAME",
+      "value": "Tidebreaker's Saddle (L35)"
+    },
+    {
+      "name": "EQ_EVENTS_DRAGONGEAR_TIDEBREAKER_40_CHANFRON_LORD40_NAME",
+      "value": "Tidebreaker's Chanfron (L40)"
+    },
+    {
+      "name": "EQ_EVENTS_DRAGONGEAR_TIDEBREAKER_40_PEYTRAL_LORD40_NAME",
+      "value": "Tidebreaker's Peytral (L40)"
+    },
+    {
+      "name": "EQ_EVENTS_DRAGONGEAR_TIDEBREAKER_40_SADDLE_LORD40_NAME",
+      "value": "Tidebreaker's Saddle (L40)"
+    },
+    {
+      "name": "EQ_EVENTS_DRAGONGEAR_TIDEBREAKER_45_CHANFRON_LORD45_NAME",
+      "value": "Tidebreaker's Chanfron (L45)"
+    },
+    {
+      "name": "EQ_EVENTS_DRAGONGEAR_TIDEBREAKER_45_PEYTRAL_LORD45_NAME",
+      "value": "Tidebreaker's Peytral (L45)"
+    },
+    {
+      "name": "EQ_EVENTS_DRAGONGEAR_TIDEBREAKER_45_SADDLE_LORD45_NAME",
+      "value": "Tidebreaker's Saddle (L45)"
+    },
+    {
+      "name": "EQ_EVENTS_DRAGONGEAR_TIDEBREAKER_50_CHANFRON_LORD50_NAME",
+      "value": "Tidebreaker's Chanfron (L50)"
+    },
+    {
+      "name": "EQ_EVENTS_DRAGONGEAR_TIDEBREAKER_50_PEYTRAL_LORD50_NAME",
+      "value": "Tidebreaker's Peytral (L50)"
+    },
+    {
+      "name": "EQ_EVENTS_DRAGONGEAR_TIDEBREAKER_50_SADDLE_LORD50_NAME",
+      "value": "Tidebreaker's Saddle (L50)"
+    },
+    {
+      "name": "EQ_EVENTS_DRAGONGEAR_TIDEBREAKER_5_CHANFRON_LORD5_NAME",
+      "value": "Tidebreaker's Chanfron (L5)"
+    },
+    {
+      "name": "EQ_EVENTS_DRAGONGEAR_TIDEBREAKER_5_PEYTRAL_LORD5_NAME",
+      "value": "Tidebreaker's Peytral (L5)"
+    },
+    {
+      "name": "EQ_EVENTS_DRAGONGEAR_TIDEBREAKER_5_SADDLE_LORD5_NAME",
+      "value": "Tidebreaker's Saddle (L5)"
+    },
+    {
+      "name": "EQ_EVENTS_FREEDOM2_10_WEAPON_LORD10_NAME",
+      "value": "Chainbreaker's Dragonfire Torch (L10)"
+    },
+    {
+      "name": "EQ_EVENTS_FREEDOM2_15_WEAPON_LORD15_NAME",
+      "value": "Chainbreaker's Dragonfire Torch (L15)"
+    },
+    {
+      "name": "EQ_EVENTS_FREEDOM2_20_WEAPON_LORD20_NAME",
+      "value": "Chainbreaker's Dragonfire Torch (L20)"
+    },
+    {
+      "name": "EQ_EVENTS_FREEDOM2_25_WEAPON_LORD25_NAME",
+      "value": "Chainbreaker's Dragonfire Torch (L25)"
+    },
+    {
+      "name": "EQ_EVENTS_FREEDOM2_30_WEAPON_LORD30_NAME",
+      "value": "Chainbreaker's Dragonfire Torch (L30)"
+    },
+    {
+      "name": "EQ_EVENTS_FREEDOM2_35_WEAPON_LORD35_NAME",
+      "value": "Chainbreaker's Dragonfire Torch (L35)"
+    },
+    {
+      "name": "EQ_EVENTS_FREEDOM2_40_WEAPON_LORD40_NAME",
+      "value": "Chainbreaker's Dragonfire Torch (L40)"
+    },
+    {
+      "name": "EQ_EVENTS_FREEDOM2_45_WEAPON_LORD45_NAME",
+      "value": "Chainbreaker's Dragonfire Torch (L45)"
+    },
+    {
+      "name": "EQ_EVENTS_FREEDOM2_50_WEAPON_LORD50_NAME",
+      "value": "Chainbreaker's Dragonfire Torch (L50)"
+    },
+    {
+      "name": "EQ_EVENTS_FREEDOM2_5_WEAPON_LORD5_NAME",
+      "value": "Chainbreaker's Dragonfire Torch (L5)"
+    },
+    {
       "name": "EQ_EVENTS_NYMERIA_SET_DESCRIPTION",
       "value": "Dragon Combat"
+    },
+    {
+      "name": "HERO_JOJENREED_GREENSEER_DESC",
+      "value": "Greenseer"
+    },
+    {
+      "name": "HERO_JOJENREED_GREENSEER_NAME",
+      "value": "Jojen Reed"
+    },
+    {
+      "name": "HERO_MEERAREED_THEGREENSEERSSENTINEL_DESC",
+      "value": "The Greenseer's Sentinel"
+    },
+    {
+      "name": "HERO_MEERAREED_THEGREENSEERSSENTINEL_NAME",
+      "value": "Meera Reed"
+    },
+    {
+      "name": "ITEM_HERO_ADV_JOJENREED_GREENSEER_1_NAME",
+      "value": "Jojen Reed <i>Greenseer</i>, Relic."
+    },
+    {
+      "name": "ITEM_HERO_ADV_MEERAREED_THEGREENSEERSSENTINEL_1_NAME",
+      "value": "Meera Reed, <i>The Greenseer's Sentinel</i>, Relic."
+    },
+    {
+      "name": "ITEM_MATERIALS_EVENT_ARYA_1_NAME",
+      "value": "Northern Leathers"
+    },
+    {
+      "name": "ITEM_MAT_TRINKET_EVENTS_ARYA_1_NAME",
+      "value": "Faceless Coin Mold"
+    },
+    {
+      "name": "MONSTER_ARYA_1_DESC",
+      "value": "The Freys were considered a valuable ally due to their strategic control of the Crossing until they ignominiously broke guest right at the Red Wedding. \n\nRecent events have made opportunists out of many former allies of the Starks."
+    },
+    {
+      "name": "MONSTER_ARYA_1_NAME",
+      "value": "Frey Bannerman"
+    },
+    {
+      "name": "MONSTER_ARYA_2_DESC",
+      "value": "\"A Lannister always pays his debts.\""
+    },
+    {
+      "name": "MONSTER_ARYA_2_NAME",
+      "value": "Lannister Bannerman"
+    },
+    {
+      "name": "MONSTER_ARYA_3_DESC",
+      "value": "\"The Night King, first of the White Walkers, master of the living dead, he will bring about a night unending...\""
+    },
+    {
+      "name": "MONSTER_ARYA_3_NAME",
+      "value": "The Night King"
+    },
+    {
+      "name": "SESSIONREWARD_CSR_ES_ARYA_CLAIM",
+      "value": "Arya (Ready!)"
+    },
+    {
+      "name": "SESSIONREWARD_CSR_ES_ARYA_DESC",
+      "value": "Your special event shipment for the Arya event can contain a variety of rewards.\n\nYou can claim up to four event shipments every 24 hours. If you claim them all, you will receive an Instant Boost!"
+    },
+    {
+      "name": "SESSIONREWARD_CSR_ES_ARYA_NAME",
+      "value": "Arya"
+    },
+    {
+      "name": "SESSIONREWARD_CSR_ES_ARYA_TIMER",
+      "value": "Arya"
+    },
+    {
+      "name": "SORT_CAP",
+      "value": "Rally Cap"
+    },
+    {
+      "name": "SORT_SIZE",
+      "value": "Troop Count"
     },
     {
       "name": "SYSTEM_MESSAGE_TITLE_TESTYOURMETTLE_STAGE_1_BODY",

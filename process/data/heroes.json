@@ -2123,6 +2123,59 @@
         "herotrait_tyrell"
       ],
       "xp_progression_name": "prog_heroxp_mythic"
+    },
+    {
+      "description_placeholder": "HERO_MEERAREED_THEGREENSEERSSENTINEL_DESC",
+      "event_score_progression_name": "prog_hero_eventscore_mythic_1",
+      "id": "c4620a0efde6280",
+      "max_stars": 6,
+      "name": "hero_meerareed_thegreenseerssentinel",
+      "name_placeholder": "HERO_MEERAREED_THEGREENSEERSSENTINEL_NAME",
+      "oath_progression_name": "prog_hero_adv_stones_cost_mythic_1",
+      "rarity": 4,
+      "relic_name": "item_hero_adv_meerareed_thegreenseerssentinel_1",
+      "relic_progression_name": "prog_shardcost_mythic",
+      "skills": [
+        "heroskill_visgen_hero_meerareed_thegreenseerssentinel_3",
+        "heroskill_visgen_hero_meerareed_thegreenseerssentinel_4",
+        "heroskill_visgen_hero_meerareed_thegreenseerssentinel_5",
+        "heroskill_visgen_hero_meerareed_thegreenseerssentinel_6",
+        "heroskill_visgen_hero_meerareed_thegreenseerssentinel_7",
+        "heroskill_visgen_hero_meerareed_thegreenseerssentinel_8",
+        "heroskill_visgen_hero_meerareed_thegreenseerssentinel_1",
+        "heroskill_visgen_hero_meerareed_thegreenseerssentinel_2"
+      ],
+      "traits": [
+        "herotrait_masterofwar",
+        "herotrait_stark"
+      ],
+      "xp_progression_name": "prog_heroxp_mythic"
+    },
+    {
+      "description_placeholder": "HERO_JOJENREED_GREENSEER_DESC",
+      "event_score_progression_name": "prog_hero_eventscore_heroic_1",
+      "id": "7bde38a976762a",
+      "max_stars": 5,
+      "name": "hero_jojenreed_greenseer",
+      "name_placeholder": "HERO_JOJENREED_GREENSEER_NAME",
+      "oath_progression_name": "prog_hero_adv_stones_cost_heroic_1",
+      "rarity": 3,
+      "relic_name": "item_hero_adv_jojenreed_greenseer_1",
+      "relic_progression_name": "prog_shardcost_heroic",
+      "skills": [
+        "heroskill_visgen_hero_jojenreed_greenseer_3",
+        "heroskill_visgen_hero_jojenreed_greenseer_4",
+        "heroskill_visgen_hero_jojenreed_greenseer_5",
+        "heroskill_visgen_hero_jojenreed_greenseer_6",
+        "heroskill_visgen_hero_jojenreed_greenseer_7",
+        "heroskill_visgen_hero_jojenreed_greenseer_1",
+        "heroskill_visgen_hero_jojenreed_greenseer_2"
+      ],
+      "traits": [
+        "herotrait_grandmaester",
+        "herotrait_stark"
+      ],
+      "xp_progression_name": "prog_heroxp_heroic"
     }
   ]
 }

@@ -3264,6 +3264,110 @@
         "summon_purchase_royal_DanyCerseiJUL23_Gold_10x_top"
       ],
       "time_str": "JUL23"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "JaimeArya",
+      "id": "10c98397e8169671",
+      "name": "summon_noble_JaimeAryaAUG23_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_JaimeAryaAUG23_Hero_1x_top",
+        "summon_purchase_noble_JaimeAryaAUG23_Hero_10x_top"
+      ],
+      "time_str": "AUG23"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "MissandeiDany",
+      "id": "e61512a310bdc744",
+      "name": "summon_noble_MissandeiDanyAUG23_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_MissandeiDanyAUG23_Hero_1x_top",
+        "summon_purchase_noble_MissandeiDanyAUG23_Hero_10x_top"
+      ],
+      "time_str": "AUG23"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "BericBalon",
+      "id": "10630696bfbc0c74",
+      "name": "summon_noble_BericBalonAUG23_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_BericBalonAUG23_Hero_1x_top",
+        "summon_purchase_noble_BericBalonAUG23_Hero_10x_top"
+      ],
+      "time_str": "AUG23"
+    },
+    {
+      "category": "noble",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_DESC",
+      "heroes": "HodorRoose",
+      "id": "ee31389d2cd6e0ac",
+      "name": "summon_noble_HodorRooseAUG23_Hero",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_NOBLE_NAME",
+      "purchase_options": [
+        "summon_purchase_noble_HodorRooseAUG23_Hero_1x_top",
+        "summon_purchase_noble_HodorRooseAUG23_Hero_10x_top"
+      ],
+      "time_str": "AUG23"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "JaimeArya",
+      "id": "5e1bf5e89eefad43",
+      "name": "summon_royal_JaimeAryaAUG23_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_JaimeAryaAUG23_Gold_1x_top",
+        "summon_purchase_royal_JaimeAryaAUG23_Gold_10x_top"
+      ],
+      "time_str": "AUG23"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "MissandeiDany",
+      "id": "c94f2b6f04a948a8",
+      "name": "summon_royal_MissandeiDanyAUG23_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_MissandeiDanyAUG23_Gold_1x_top",
+        "summon_purchase_royal_MissandeiDanyAUG23_Gold_10x_top"
+      ],
+      "time_str": "AUG23"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "BericBalon",
+      "id": "307bef4a0328f14d",
+      "name": "summon_royal_BericBalonAUG23_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_BericBalonAUG23_Gold_1x_top",
+        "summon_purchase_royal_BericBalonAUG23_Gold_10x_top"
+      ],
+      "time_str": "AUG23"
+    },
+    {
+      "category": "royal",
+      "description_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_DESC",
+      "heroes": "HodorRoose",
+      "id": "ce29d14190421d95",
+      "name": "summon_royal_HodorRooseAUG23_Gold",
+      "name_placeholder": "SUMMON_DEFAULTALPHA_ROYAL_NAME",
+      "purchase_options": [
+        "summon_purchase_royal_HodorRooseAUG23_Gold_1x_top",
+        "summon_purchase_royal_HodorRooseAUG23_Gold_10x_top"
+      ],
+      "time_str": "AUG23"
     }
   ]
 }
