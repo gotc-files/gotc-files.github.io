@@ -52,6 +52,7 @@ FILE_PROCESSOR_MAPPING_CONFIG = {
     ("GearTable", "pb", "gears_1", GearsProcessor),
     ("ItemTable_GearGen_GearSets", "pb", "gears_2", GearsProcessor),
     ("ItemTable_GearGen_Trinkets", "pb", "trinket_gears", GearsProcessor),
+    ("ItemTable_GearGen_Dragon", "pb", "dragon_gears", GearsProcessor),
     (
         "GearTable_PropertyModderTable",
         "pb",
@@ -68,6 +69,12 @@ FILE_PROCESSOR_MAPPING_CONFIG = {
         "ItemTable_GearGen_Trinkets_PropertyModderTable",
         "pb",
         "trinket_gear_stat_sets",
+        StatSetsProcessor,
+    ),
+    (
+        "ItemTable_GearGen_Dragon_PropertyModderTable",
+        "pb",
+        "dragon_gear_stat_sets",
         StatSetsProcessor,
     ),
     (

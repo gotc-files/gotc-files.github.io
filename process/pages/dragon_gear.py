@@ -1,7 +1,7 @@
-from pages.page_processor import PageProcessor
-from pages.page_processor import InsufficientDataException
-from files.util import convert_numbers
+from collections import OrderedDict
 
+from files.util import convert_numbers
+from pages.page_processor import InsufficientDataException, PageProcessor
 
 PIECE_NAMES = [
     "saddle",
@@ -15,9 +15,37 @@ def _color_to_rgb(color):
         [("%02x" % color.get(key, 0)) for key in ("red", "green", "blue")]
     )
 
+def name_to_id(name):
+    return hex(hash(name) + (1 << 63))[2:].rjust(16, '0')
+
 
 class DragonGearProcessor(PageProcessor):
     def process(self):
+        return self._process_legacy() + self._process()
+
+    def _process(self):
+        dragon_gear_sets_dict = OrderedDict()
+        for raw_dragon_gears in self.iterate_file("dragon_gears"):
+            gear_name = raw_dragon_gears["name"]
+            gear_set_name = gear_name.split("_")[3]
+            gear_piece_name = raw_dragon_gears["slot_name"][5:].lower()
+            if gear_set_name not in dragon_gear_sets_dict:
+                id = name_to_id(gear_set_name)
+                dragon_gear_sets_dict[gear_set_name] = {
+                    "id": id,
+                    "name": "n:" + gear_set_name,
+                    "description": "n:",
+                    "color": "#" + id[-6:],
+                }
+                for piece_name in PIECE_NAMES:
+                    dragon_gear_sets_dict[piece_name] = {
+                        "gear_with_level": []
+                    }
+            dragon_gear_sets_dict[gear_piece_name]["gear_with_level"].append(self._process_gear_with_level(gear_name))
+
+        return list(dragon_gear_sets_dict.values())
+
+    def _process_legacy(self):
         dragon_gear_sets = []
         for raw_dragon_gear_set in self.iterate_files(["gear_set_1", "gear_set_2"]):
             if any(
@@ -33,7 +61,10 @@ class DragonGearProcessor(PageProcessor):
                 )
             except InsufficientDataException:
                 continue
+         
         return dragon_gear_sets
+    
+
 
     def _process_dragon_gear_set(self, raw_dragon_gear_set):
         dragon_gear_set = {
@@ -77,13 +108,12 @@ class DragonGearProcessor(PageProcessor):
 
     def _process_gear_with_level(self, gear_name_with_level):
         gear_with_level = self.lookup_files(
-            ["gears_1", "gears_2"], "name", gear_name_with_level
+            ["gears_1", "gears_2", "dragon_gears"], "name", gear_name_with_level
         )
         gear_stat_set = self.lookup_files(
-            ["gear_stat_sets_1", "gear_stat_sets_2"], "name", gear_name_with_level
+            ["gear_stat_sets_1", "gear_stat_sets_2", "dragon_gear_stat_sets"], "name", gear_name_with_level
         )
         return {
-            "name": gear_with_level["name"],
             "name": self.translate(gear_with_level["name_placeholder"]),
             "level": gear_with_level["level"],
             "stats": list(
