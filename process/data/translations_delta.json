@@ -174,6 +174,14 @@
       "value": "Spend your Braavosi Loan Trophies before the event ends and this recipe disappears!"
     },
     {
+      "name": "BREACH_WIGHT_DESC",
+      "value": "\"They were touched by White Walkers, that's why they came back. That's why their eyes turned blue. Only fire will stop them.\" - Samwell Tarly"
+    },
+    {
+      "name": "BREACH_WIGHT_NAME",
+      "value": "Wight"
+    },
+    {
       "name": "BUILDING_SHRINE_MAXIMUM_REACHED",
       "value": "You have reached your maximum daily prayers."
     },
@@ -650,6 +658,10 @@
       "value": "Dragon Combat"
     },
     {
+      "name": "GOLD_PROMPT_EXTRA_WARNING",
+      "value": "You are trying to spend a large amount of gold."
+    },
+    {
       "name": "HERO_JOJENREED_GREENSEER_DESC",
       "value": "Greenseer"
     },
@@ -706,6 +718,14 @@
       "value": "The Night King"
     },
     {
+      "name": "MONSTER_LION_DESC",
+      "value": "''In a coat of gold or a coat of red, a lion still has claws; and mine are long and sharp, my lord, as long and sharp as yours.\" - The Rains of Castamere"
+    },
+    {
+      "name": "MONSTER_LION_ELITE_DESC",
+      "value": "''In a coat of gold or a coat of red, a lion still has claws; and mine are long and sharp, my lord, as long and sharp as yours.\" - The Rains of Castamere"
+    },
+    {
       "name": "SESSIONREWARD_CSR_ES_ARYA_CLAIM",
       "value": "Arya (Ready!)"
     },
@@ -720,6 +740,14 @@
     {
       "name": "SESSIONREWARD_CSR_ES_ARYA_TIMER",
       "value": "Arya"
+    },
+    {
+      "name": "SETTINGS_GOLD_DESCRIPTION",
+      "value": "When you turn off the gold confirmation for the day, the dialog will still appear if you attempt to spend gold above the threshold."
+    },
+    {
+      "name": "SETTINGS_GOLD_PROMPTS",
+      "value": "Gold Spend Warnings"
     },
     {
       "name": "SORT_CAP",

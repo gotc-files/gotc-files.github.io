@@ -1,4 +1,5 @@
 from collections import OrderedDict
+from hashlib import md5
 
 from files.util import convert_numbers
 from pages.page_processor import InsufficientDataException, PageProcessor
@@ -16,7 +17,7 @@ def _color_to_rgb(color):
     )
 
 def name_to_id(name):
-    return hex(hash(name) + (1 << 63))[2:].rjust(16, '0')
+    return md5(name.encode('utf-8')).hexdigest()[-16:]
 
 
 class DragonGearProcessor(PageProcessor):
